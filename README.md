@@ -1,2 +1,25 @@
-# ton-assets
-List of popular addresses and assets
+# TON Assets
+
+This is a list of popular addresses and assets.
+
+## Addresses
+
+Name           | Address
+---------------|-----------
+[...](...)     | ...
+
+
+## NFT collections
+
+Name           | Address
+---------------|-----------
+[...](...)     | ...
+
+
+## Jettons
+
+Name           | Address
+---------------|-----------
+[...](...)     | ...
+
+
