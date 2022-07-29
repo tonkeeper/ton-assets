@@ -1,5 +1,6 @@
 name: Bitcoin
 description: First blockchain-based cryptocurrency
+image: "https://bitcoin.com/logo.png"
 address: 0:9eab324ae0a605d7af541d2bcffcd9a6238e80d8b9df1817f30afc067fcc6c60
 symbol: BTC
 max_supply: 21000000
