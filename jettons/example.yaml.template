@@ -1,0 +1,13 @@
+name: Bitcoin
+description: First blockchain-based cryptocurrency
+address: 0:9eab324ae0a605d7af541d2bcffcd9a6238e80d8b9df1817f30afc067fcc6c60
+symbol: BTC
+max_supply: 21000000
+websites:
+  - "https://bicoin.com"
+  - "https://bitcoin.org"
+social:
+  - "https://t.me/bitcoin"
+  - "https://twitter.com/bitcoin"
+coinmarketcap: "https://coinmarketcap.com/currencies/bitcoin/"
+coingecko: "https://www.coingecko.com/en/coins/bitcoin"

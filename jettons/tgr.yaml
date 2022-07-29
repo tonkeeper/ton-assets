@@ -1,0 +1,13 @@
+name: Tegro
+description: Cross-platform payment token on the TON blockchain.
+address: 0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a
+symbol: TGR
+max_supply: 50000000
+websites:
+  - "https://tegro.io"
+  - "https://tegro.money"
+social:
+  - "https://t.me/TgrTon"
+  - "https://twitter.com/tgrtoken"
+coinmarketcap: "https://coinmarketcap.com/currencies/tgr/"
+coingecko: "https://www.coingecko.com/en/coins/tegro"
