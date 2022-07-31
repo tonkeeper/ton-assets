@@ -4,6 +4,8 @@ This is a list of popular addresses and assets. We are open to pull request but 
 
 ## Addresses
 
+Short list. Full in [accounts.json](accounts.json)
+
 Name           | Address
 ---------------|-----------
 [CAT Services](https://tonapi.io/jetton/EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y) | EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
