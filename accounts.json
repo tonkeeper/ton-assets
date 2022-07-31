@@ -32,6 +32,30 @@
   "name": ".ton DNS"
  },
  {
+  "address": "EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS",
+  "name": "Getgems Marketplace"
+ },
+ {
+  "address": "EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS",
+  "name": "Getgems Sales"
+ },
+ {
+  "address": "EQDrLq-X6jKZNHAScgghh0h1iog3StK71zn8dcmrOj8jPWRA",
+  "name": "Disintar Marketplace"
+ },
+ {
+  "address": "0:4d695da777df8e1839965cd8a9e928b3b328321ab85dec243e86427ac66edbe8",
+  "name": "OTC Market"
+ },
+ {
+  "address": "EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV",
+  "name": "Morgenshtern"
+ },
+ {
+  "address": "EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn",
+  "name": "Morgenshtern Private"
+ },
+ {
   "address": "Ef-kkdY_B7p-77TLn2hUhM6QidWrrsl8FYWCIvBMpZKprKDH",
   "name": "PoW Giver 1"
  },
@@ -165,5 +189,221 @@
   "address": "EQA0KjWeODV8CDloEp_d3fBJ71xHMVv77ydQWjVr-fAtZSqw",
   "name": "CoinEx",
   "require_memo": true
+ },
+ {
+  "address": "Ef9NXAIQs12t2qIZ-sRZ26D977H65Ol6DQeXc5_gUNaUys5r",
+  "name": "BSC Bridge"
+ },
+ {
+  "address": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
+  "name": "BSC Bridge Collector"
+ },
+ {
+  "address": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+  "name": "BSC Bridge Governance"
+ },
+ {
+  "address": "Ef_dJMSh8riPi3BTUTtcxsWjG8RLKnLctNjAM4rw8NN-xWdr",
+  "name": "ETH Bridge"
+ },
+ {
+  "address": "EQCuzvIOXLjH2tv35gY4tzhIvXCqZWDuK9kUhFGXKLImgxT5",
+  "name": "ETH Bridge Collector"
+ },
+ {
+  "address": "Ef87m7_QrVM4uXAPCDM4DuF9Rj5Rwa5nHubwiQG96JmyAjQY",
+  "name": "ETH Bridge Governance"
+ },
+ {
+  "address": "Ef_P2CJw784O1qVd8Qbn8RCQc4EgxAs8Ra-M3bDhZn3OfzRb",
+  "name": "Bridge Oracle 0"
+ },
+ {
+  "address": "Ef8DfObDUrNqz66pr_7xMbUYckUFbIIvRh1FSNeVSLWrvo1M",
+  "name": "Bridge Oracle 1"
+ },
+ {
+  "address": "Ef8JKqx4I-XECLuVhTqeY1WMgbgTp8Ld3mzN-JUogBF4ZEW-",
+  "name": "Bridge Oracle 2"
+ },
+ {
+  "address": "Ef8voAFh-ByCeKD3SZhjMNzioqCmDOK6S6IaeefTwYmRhgsn",
+  "name": "Bridge Oracle 3"
+ },
+ {
+  "address": "Ef_uJVTTToU8b3o7-Jr5pcUqenxWzDNYpyklvhl73KSIA17M",
+  "name": "Bridge Oracle 4"
+ },
+ {
+  "address": "Ef93olLWqh1OuBSTOnJKWZ4NwxNq_ELK55_h_laNPVwxcEro",
+  "name": "Bridge Oracle 5"
+ },
+ {
+  "address": "Ef_iUPZdKLOCrqcNpDuFGNEmiuBwMB18TBXNjDimewpDExgn",
+  "name": "Bridge Oracle 6"
+ },
+ {
+  "address": "Ef_tTGGToGmONePskH_Y6ZG-QLV9Kcg5DIXeKwBvCX4YifKa",
+  "name": "Bridge Oracle 7"
+ },
+ {
+  "address": "Ef94L53akPw-4gOk2uQOenUyDYLOaif2g2uRoiu1nv0cWYMC",
+  "name": "Bridge Oracle 8"
+ },
+ {
+  "address": "Ef-VAFf1Wd3fXd-mQhDw5lNsVdIZv2_H1yhbdzXCFfIe9p95",
+  "name": "CAT Validator 1"
+ },
+ {
+  "address": "Ef-p4N7wkBQcce3Awcm06a1EV2VsFPYR7GtRczlYP0G2C1Pm",
+  "name": "CAT Validator 2"
+ },
+ {
+  "address": "Ef86ziqX4uPh-ZcrOK8bWszUzfNhHg_SPnvf9CQOnElFINEE",
+  "name": "CAT Validator 3"
+ },
+ {
+  "address": "Ef8vk8p6nogM_JKMhpqXnffFrzikOzGjIUNLP8sdIasIb8DV",
+  "name": "CAT Validator 4"
+ },
+ {
+  "address": "Ef9wm_whwjPFe7H4jvP-ODhluiZFm0Tb2Gj-67zqS31hCaWC",
+  "name": "CAT Staking Pool 1"
+ },
+ {
+  "address": "Ef-BHO0nH49EnLUetZIAkLkssgCyDwcXBnbp22--naUWz8VY",
+  "name": "CAT Staking Pool 2"
+ },
+ {
+  "address": "Ef8iu8EiNOP2MczVvHseFi-CrGO1C4v6MkSSOgVZcESNGfT7",
+  "name": "CAT Staking Pool 3"
+ },
+ {
+  "address": "Ef8AeKBMQKW-PB8-RDeyJQSsxQQr5oEwbQeBEwE2BKDiFA_U",
+  "name": "CAT Staking Pool 4"
+ },
+ {
+  "address": "Ef-DxWkExr12iOSi0vJfT5TKCUG9W3-eWInm1yT5oEJISJkl",
+  "name": "CAT Staking Pool 5"
+ },
+ {
+  "address": "Ef8z0gek-K888pl61tyErw96TfnthjV9lZ7UDVFXlad9HEGS",
+  "name": "CAT Staking Pool 6"
+ },
+ {
+  "address": "Ef98be2ASo4xA_t2Q2VIH0cdpYKylDyfhL3nL7Byjz180VaU",
+  "name": "CAT Staking Pool 7"
+ },
+ {
+  "address": "Ef8h5pd9_ZuWJOlilBH6a_LOACxl_R6DJbWHhut7QLDLWSgf",
+  "name": "CAT Staking Pool 8"
+ },
+ {
+  "address": "Ef8gQpp7pKD9GzBrcr3ju9faPjEWHPerhZ4tFpSiDoDUINxn",
+  "name": "Very First Pool #1"
+ },
+ {
+  "address": "Ef_dodh2I8BjpvxJIrKG5owo5_C1RZlzkZtXC3HGLuNZE0Sa",
+  "name": "Very First Pool #2"
+ },
+ {
+  "address": "Ef9Qhifu_o6WiS3JzJEailMuDtlDqmy55eCGDJ5cYSTGD4BW",
+  "name": "Global Net AC Pool #1"
+ },
+ {
+  "address": "Ef-pcGkDL4qjf44vN8iD8-yrjs-wVWOi5LVQudbDKbukHQvb",
+  "name": "Global Net AC Pool #2"
+ },
+ {
+  "address": "Ef9IJWfn0qDrh4S8CBJsZUzAPrxQkH3C_JanVrQWjOZ5LndS",
+  "name": "Fastnet Pool A #1"
+ },
+ {
+  "address": "Ef__38zm-M_kTn6OgIs5DKVQy2qnjJIF50xZ203regWrI-yh",
+  "name": "Fastnet Pool A #2"
+ },
+ {
+  "address": "Ef8_6eSCSeJyCeLM7uCxYjeirtQ4Zo8OEp0W4HJYJY4IC0zK",
+  "name": "Fastnet Pool B #1"
+ },
+ {
+  "address": "Ef_nHR5IUKCBf_qHlIjCsUWuo6bbrh174f_aJfN6zIAnBF9n",
+  "name": "Fastnet Pool B #2"
+ },
+ {
+  "address": "EQAUgVXUBJC7c72oEaQGowLvWhnf-nKghL7zBX8FSqrSXkp4",
+  "name": "TonStake Deposit"
+ },
+ {
+  "address": "Ef9qXoe6qX5kboeTbXXdxNOcqCA53Oi9LYsY66l4FuNLZRWx",
+  "name": "TonStake Validator"
+ },
+ {
+  "address": "EQAOCN7KlgGzTp6YjW6d_fm_ibJEUe0VwFyKNnZVzlL4Jda3",
+  "name": "TonStake Withdrawal"
+ },
+ {
+  "address": "EQAAFhjXzKuQ5N0c96nsdZQWATcJm909LYSaCAvWFxVJP80D",
+  "name": "Whales Pool"
+ },
+ {
+  "address": "EQBeNwQShukLyOWjKWZ0Oxoe5U3ET-ApQIWYeC4VLZ4tmeTm",
+  "name": "Whales Withdraw 1"
+ },
+ {
+  "address": "EQAQwQc4N7k_2q1ZQoTOi47_e5zyVCdEDrL8aCdi4UcTZef4",
+  "name": "Whales Withdraw 2"
+ },
+ {
+  "address": "EQDQA68_iHZrDEdkqjJpXcVqEM3qQC9u0w4nAhYJ4Ddsjttc",
+  "name": "Whales Withdraw 3"
+ },
+ {
+  "address": "EQCr1U4EVmSWpx2sunO1jhtHveatorjfDpttMCCkoa0JyD1P",
+  "name": "Whales Withdraw 4"
+ },
+ {
+  "address": "EQAB_3oC0MH1r4fz1kztk6Nhq9GFQnrBUgObzrhyAXjzzjrc",
+  "name": "Whales Withdraw 5"
+ },
+ {
+  "address": "EQCz4NlftqOJlDZFerutRjy8bpDuNkLuLFn9pHsnK-mfXuZ0",
+  "name": "TON Coin Pool Fund"
+ },
+ {
+  "address": "EQCUp88072pLUGNQCXXXDFJM3C5v9GXTjV7ou33Mj3r0Xv2W",
+  "name": "TON Coin Pool Rewards"
+ },
+ {
+  "address": "EQCUp88072pLUGNQCXXXDFJM3C5v9GXTjV7ou33Mj3r0Xv2W",
+  "name": "TON Coin Pool Withdraw 1"
+ },
+ {
+  "address": "EQAW6gzsWc-zqY7Z9rquxxeOA4Y6QMB09skcBXDnnuL3EK8L",
+  "name": "TON Coin Pool Withdraw 2"
+ },
+ {
+  "address": "EQDfbIxBNnGdCSYyKu0SxPtdzVrUBWlc73LXHia4fLt2Ia8i",
+  "name": "TON Universe Pool"
+ },
+ {
+  "address": "EQC2T_EwQ9Gvv7mKWdKP_fVqalEBBa5wWBn2I1BgeIcfS3Rb",
+  "name": "TON Universe Pool Withdraw 1"
+ },
+ {
+  "address": "EQCW1v0RwP31xMrDgUu0Qa18Z0YssSulsrhoDtZHpJ6p5s3J",
+  "name": "TON Universe Pool Withdraw 2"
+ },
+ {
+  "address": "EQA3hKVrpll-jVAtA1KjfpaMJ7YGg44M6DQuBdBX9G5xWxOS",
+  "name": "TON Pool"
+ },
+ {
+  "address": "EQA4FvvNgz9GThubbM4F4CQBZR26uP6UH13CoEODBAOXJAs0",
+  "name": "TON Pool Withdraw 1"
+ },
+ {
+  "address": "EQBN5uMyngPBKG2mwXmfqj3rZWP2tLMaY9NsmUOiJUZ3r9_f",
+  "name": "TON Pool withdraw 2"
  }
 ]
