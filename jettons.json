@@ -1,5 +1,20 @@
 [
  {
+  "name": "Scaleton",
+  "description": "SCALE is a utility token that will be used to support all independent developers.",
+  "image": "ipfs://QmSMiXsZYMefwrTQ3P6HnDQaCpecS4EWLpgKK5EX1G8iA8",
+  "address": "0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208",
+  "symbol": "SCALE",
+  "max_supply": 21000000,
+  "websites": [
+   "https://scaleton.io"
+  ],
+  "social": [
+   "https://t.me/Scaleton",
+   "https://twitter.com/ScaletonCo"
+  ]
+ },
+ {
   "name": "Tegro",
   "description": "Cross-platform payment token on the TON blockchain.",
   "address": "0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a",
