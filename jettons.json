@@ -15,6 +15,19 @@
   ]
  },
  {
+  "name": "TON Island Coin",
+  "description": "Official Jetton of TON Island project.",
+  "address": "0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b",
+  "symbol": "TIC",
+  "max_supply": 1000000,
+  "websites": [
+   "https://tonis.land"
+  ],
+  "social": [
+   "https://t.me/ton_island"
+  ]
+ },
+ {
   "name": "Tegro",
   "description": "Cross-platform payment token on the TON blockchain.",
   "address": "0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a",

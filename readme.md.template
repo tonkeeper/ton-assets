@@ -1,12 +1,12 @@
 # TON Assets
 
-This is a list of popular addresses and assets.
+This is a list of popular addresses and assets. We are open to pull request but please read manual in the end of this readme.
 
 ## Addresses
 
 Name           | Address
 ---------------|-----------
-[...](...)     | ...
+%s
 
 
 ## NFT collections
@@ -21,3 +21,9 @@ Name           | Address
 Name           | Address
 ---------------|-----------
 %s
+
+
+## Structure
+
+Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
+`accounts.json`, `jettons.json`, `collections.json` and `README.md` contains automatically generated data. Please don't commit directly to this files.
