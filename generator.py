@@ -4,7 +4,7 @@ import yaml
 import glob
 
 EXPLORER_JETTONS = "https://tonapi.io/jetton/"
-EXPLORER_ACCOUNTS = "https://tonapi.io/jetton/"
+EXPLORER_ACCOUNTS = "https://tonapi.io/account/"
 EXPLORER_COLLECTIONS = "https://tonscan.org/nft/"
 
 
