@@ -5,6 +5,7 @@ on:
       - accounts/*
       - collections/*
       - jettons/*
+      - generator.py
 jobs:
   run-aggregator:
     runs-on: ubuntu-latest
