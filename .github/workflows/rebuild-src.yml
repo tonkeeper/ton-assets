@@ -7,12 +7,18 @@ on:
       - jettons/*
       - generator.py
       - readme.md.template
+      - .github/workflows/rebuild-src.yml
 jobs:
   run-aggregator:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
+      - name: Rename *.yml → *.yaml
+        run: |
+          for FILENAME in */*.yml; do
+            mv -v "${FILENAME}" "${FILENAME%.yml}.yaml"
+          done
       - name: Run generator.py
         run: python3 generator.py
       - name: commit and push if there are changes
