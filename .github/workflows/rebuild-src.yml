@@ -6,6 +6,7 @@ on:
       - collections/*
       - jettons/*
       - generator.py
+      - readme.md.template
 jobs:
   run-aggregator:
     runs-on: ubuntu-latest
