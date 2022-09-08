@@ -31,3 +31,6 @@
 - address: "EQA0KjWeODV8CDloEp_d3fBJ71xHMVv77ydQWjVr-fAtZSqw"
   name: "CoinEx"
   require_memo: true
+- address: "EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f"
+  name: "Huobi"
+  require_memo: true
