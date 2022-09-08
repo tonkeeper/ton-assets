@@ -1,20 +1,14 @@
 [
  {
-  "name": "Tegro",
-  "description": "Cross-platform payment token on the TON blockchain.",
-  "address": "0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a",
-  "symbol": "TGR",
-  "max_supply": 50000000,
-  "websites": [
-   "https://tegro.io",
-   "https://tegro.money"
-  ],
+  "name": "Huebel Bolt",
+  "description": "Official token of the Huebel Company",
+  "image": "https://cloudflare-ipfs.com/ipfs/QmX47dodUg1acXoxYDULWTNfShXRW5uHrCmoKSUNR9xKQw",
+  "address": "0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e",
+  "symbol": "BOLT",
+  "max_supply": 6000000,
   "social": [
-   "https://t.me/TgrTon",
-   "https://twitter.com/tgrtoken"
-  ],
-  "coinmarketcap": "https://coinmarketcap.com/currencies/tgr/",
-  "coingecko": "https://www.coingecko.com/en/coins/tegro"
+   "https://t.me/boltlink"
+  ]
  },
  {
   "name": "Scaleton",
@@ -32,14 +26,17 @@
   ]
  },
  {
-  "name": "Huebel Bolt",
-  "description": "Official token of the Huebel Company",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmX47dodUg1acXoxYDULWTNfShXRW5uHrCmoKSUNR9xKQw",
-  "address": "0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e",
-  "symbol": "BOLT",
-  "max_supply": 6000000,
+  "name": "Wrapped TONCOIN",
+  "description": "Wrapped Toncoin token.",
+  "image": "https://st.tonox.org/wton.png",
+  "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
+  "symbol": "WTON",
+  "max_supply": -1,
+  "websites": [
+   "https://wton.tonox.org/"
+  ],
   "social": [
-   "https://t.me/boltlink"
+   "https://t.me/TonoxDeFi"
   ]
  },
  {
@@ -56,17 +53,20 @@
   ]
  },
  {
-  "name": "Wrapped TONCOIN",
-  "description": "Wrapped Toncoin token.",
-  "image": "https://st.tonox.org/wton.png",
-  "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
-  "symbol": "WTON",
-  "max_supply": -1,
+  "name": "Tegro",
+  "description": "Cross-platform payment token on the TON blockchain.",
+  "address": "0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a",
+  "symbol": "TGR",
+  "max_supply": 50000000,
   "websites": [
-   "https://wton.tonox.org/"
+   "https://tegro.io",
+   "https://tegro.money"
   ],
   "social": [
-   "https://t.me/TonoxDeFi"
-  ]
+   "https://t.me/TgrTon",
+   "https://twitter.com/tgrtoken"
+  ],
+  "coinmarketcap": "https://coinmarketcap.com/currencies/tgr/",
+  "coingecko": "https://www.coingecko.com/en/coins/tegro"
  }
 ]
