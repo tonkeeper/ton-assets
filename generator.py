@@ -9,10 +9,10 @@ EXPLORER_COLLECTIONS = "https://tonscan.org/nft/"
 
 
 def merge_jettons():
-    jettons = [yaml.safe_load(open(file)) for file in glob.glob("jettons/*.yaml")]
+    jettons = [yaml.safe_load(open(file)) for file in sorted(glob.glob("jettons/*.yaml"))]
     with open('jettons.json', 'w') as out:
-        json.dump(jettons, out, indent=" ")
-    return [(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in jettons]
+        json.dump(jettons, out, indent=" ", sort_keys=True)
+    return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in jettons])
 
 
 def merge_accounts(accounts):
@@ -24,15 +24,15 @@ def merge_accounts(accounts):
     for file in ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml', 'accounts/validators.yaml'):
         accounts.extend(yaml.safe_load(open(file)))
     with open('accounts.json', 'w') as out:
-        json.dump(accounts, out, indent=" ")
+        json.dump(accounts, out, indent=" ", sort_keys=True)
     return main_page
 
 
 def merge_collections():
-    collections = [yaml.safe_load(open(file)) for file in glob.glob("collections/*.yaml")]
+    collections = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
     with open('collections.json', 'w') as out:
-        json.dump(collections, out, indent=" ")
-    return [(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in collections]
+        json.dump(collections, out, indent=" ", sort_keys=True)
+    return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in collections])
 
 
 def main():
