@@ -9,7 +9,7 @@ EXPLORER_COLLECTIONS = "https://tonscan.org/nft/"
 
 
 def merge_jettons():
-    jettons = [yaml.safe_load(open(file)) for file in glob.glob("jettons/*.yaml")]
+    jettons = [yaml.safe_load(open(file)) for file in sorted(glob.glob("jettons/*.yaml"))]
     with open('jettons.json', 'w') as out:
         json.dump(jettons, out, indent=" ", sort_keys=True)
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in jettons])
@@ -29,7 +29,7 @@ def merge_accounts(accounts):
 
 
 def merge_collections():
-    collections = [yaml.safe_load(open(file)) for file in glob.glob("collections/*.yaml")]
+    collections = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
     with open('collections.json', 'w') as out:
         json.dump(collections, out, indent=" ", sort_keys=True)
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in collections])
