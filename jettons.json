@@ -11,20 +11,6 @@
   "symbol": "BOLT"
  },
  {
-  "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
-  "description": "Wrapped Toncoin token.",
-  "image": "https://st.tonox.org/wton.png",
-  "max_supply": -1,
-  "name": "Wrapped TONCOIN",
-  "social": [
-   "https://t.me/TonoxDeFi"
-  ],
-  "symbol": "WTON",
-  "websites": [
-   "https://wton.tonox.org/"
-  ]
- },
- {
   "address": "0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208",
   "description": "SCALE is a utility token that will be used to support all independent developers.",
   "image": "ipfs://QmSMiXsZYMefwrTQ3P6HnDQaCpecS4EWLpgKK5EX1G8iA8",
@@ -37,19 +23,6 @@
   "symbol": "SCALE",
   "websites": [
    "https://scaleton.io"
-  ]
- },
- {
-  "address": "0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b",
-  "description": "Official Jetton of TON Island project.",
-  "max_supply": 1000000,
-  "name": "TON Island Coin",
-  "social": [
-   "https://t.me/ton_island"
-  ],
-  "symbol": "TIC",
-  "websites": [
-   "https://tonis.land"
   ]
  },
  {
@@ -67,6 +40,33 @@
   "websites": [
    "https://tegro.io",
    "https://tegro.money"
+  ]
+ },
+ {
+  "address": "0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b",
+  "description": "Official Jetton of TON Island project.",
+  "max_supply": 1000000,
+  "name": "TON Island Coin",
+  "social": [
+   "https://t.me/ton_island"
+  ],
+  "symbol": "TIC",
+  "websites": [
+   "https://tonis.land"
+  ]
+ },
+ {
+  "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
+  "description": "Wrapped Toncoin token.",
+  "image": "https://st.tonox.org/wton.png",
+  "max_supply": -1,
+  "name": "Wrapped TONCOIN",
+  "social": [
+   "https://t.me/TonoxDeFi"
+  ],
+  "symbol": "WTON",
+  "websites": [
+   "https://wton.tonox.org/"
   ]
  }
 ]
