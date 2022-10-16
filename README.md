@@ -22,6 +22,7 @@ Name           | Address
 [OTC Market](https://tonapi.io/account/0:4d695da777df8e1839965cd8a9e928b3b328321ab85dec243e86427ac66edbe8) | 0:4d695da777df8e1839965cd8a9e928b3b328321ab85dec243e86427ac66edbe8
 [Morgenshtern](https://tonapi.io/account/EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonapi.io/account/EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
+[Telegram Team](https://tonapi.io/account/EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj) | EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
 
 
 ## NFT collections
