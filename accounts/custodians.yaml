@@ -31,3 +31,6 @@
 - address: "EQA0KjWeODV8CDloEp_d3fBJ71xHMVv77ydQWjVr-fAtZSqw"
   name: "CoinEx"
   require_memo: true
+- address: "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd"
+  name: "TonMobile Service"
+  require_memo: true
