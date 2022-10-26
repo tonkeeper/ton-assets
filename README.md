@@ -30,6 +30,7 @@ Name           | Address
 Name           | Address
 ---------------|-----------
 [Cryptodickbutt](https://tonscan.org/nft/0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf) | 0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf
+[Telegram usernames](https://tonscan.org/nft/0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2) | 0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2
 
 
 ## Jettons
