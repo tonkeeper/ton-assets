@@ -37,3 +37,6 @@
 - address: "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd"
   name: "TonMobile Service"
   require_memo: true
+- address: "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl"
+  name: "Kucoin"
+  require_memo: true
