@@ -229,6 +229,11 @@
   "require_memo": true
  },
  {
+  "address": "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl",
+  "name": "Kucoin",
+  "require_memo": true
+ },
+ {
   "address": "Ef9NXAIQs12t2qIZ-sRZ26D977H65Ol6DQeXc5_gUNaUys5r",
   "name": "BSC Bridge"
  },
