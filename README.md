@@ -23,6 +23,7 @@ Name           | Address
 [Morgenshtern](https://tonapi.io/account/EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonapi.io/account/EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
 [Telegram Team](https://tonapi.io/account/EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj) | EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
+[Fragment](https://tonapi.io/account/EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE) | EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE
 
 
 ## NFT collections
