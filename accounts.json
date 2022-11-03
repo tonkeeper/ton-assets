@@ -242,6 +242,11 @@
   "require_memo": true
  },
  {
+  "address": "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct",
+  "name": "lbank.info",
+  "require_memo": true
+ },
+ {
   "address": "Ef9NXAIQs12t2qIZ-sRZ26D977H65Ol6DQeXc5_gUNaUys5r",
   "name": "BSC Bridge"
  },
