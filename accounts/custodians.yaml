@@ -32,8 +32,11 @@
   name: "CoinEx"
   require_memo: true
 - address: "EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f"
-  name: "Huobi"
+  name: "Huobi Deposit"
   require_memo: true
+- address: "EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB"
+  name: "Huobi"
+  require_memo: true 
 - address: "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd"
   name: "TonMobile Service"
   require_memo: false
