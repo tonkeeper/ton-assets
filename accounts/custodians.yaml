@@ -46,3 +46,5 @@
 - address: "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct"
   name: "lbank.info"
   require_memo: true
+- address: "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz"
+  name: "Rocket Bot"
