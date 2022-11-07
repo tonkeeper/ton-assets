@@ -228,6 +228,11 @@
  },
  {
   "address": "EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f",
+  "name": "Huobi Deposit",
+  "require_memo": true
+ },
+ {
+  "address": "EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB",
   "name": "Huobi",
   "require_memo": true
  },
