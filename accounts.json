@@ -252,6 +252,10 @@
   "require_memo": true
  },
  {
+  "address": "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz",
+  "name": "Rocket Bot"
+ },
+ {
   "address": "Ef9NXAIQs12t2qIZ-sRZ26D977H65Ol6DQeXc5_gUNaUys5r",
   "name": "BSC Bridge"
  },
