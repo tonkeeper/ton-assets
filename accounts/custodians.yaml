@@ -32,8 +32,11 @@
   name: "CoinEx"
   require_memo: true
 - address: "EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f"
-  name: "Huobi"
+  name: "Huobi Deposit"
   require_memo: true
+- address: "EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB"
+  name: "Huobi"
+  require_memo: true 
 - address: "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd"
   name: "TonMobile Service"
   require_memo: false
@@ -43,3 +46,5 @@
 - address: "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct"
   name: "lbank.info"
   require_memo: true
+- address: "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz"
+  name: "Rocket Bot"
