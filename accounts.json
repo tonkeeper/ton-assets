@@ -28,47 +28,47 @@
   "name": "Telegram usernames"
  },
  {
-  "address": "EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y",
+  "address": "0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
   "name": "CAT Services"
  },
  {
-  "address": "EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N",
+  "address": "0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8",
   "name": "TON Foundation"
  },
  {
-  "address": "EQAhE3sLxHZpsyZ_HecMuwzvXHKLjYx4kEUehhOy2JmCcHCT",
+  "address": "0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270",
   "name": "TON Ecosystem Reserve"
  },
  {
-  "address": "Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF",
+  "address": "-1:3333333333333333333333333333333333333333333333333333333333333333",
   "name": "Elector Contract"
  },
  {
-  "address": "Ef9VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVbxn",
+  "address": "-1:5555555555555555555555555555555555555555555555555555555555555555",
   "name": "Config Contract"
  },
  {
-  "address": "Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU",
+  "address": "-1:0000000000000000000000000000000000000000000000000000000000000000",
   "name": "System"
  },
  {
-  "address": "Ef80UXx731GHxVr0-LYf3DIViMerdo3uJLAG3ykQZFjXz2kW",
+  "address": "-1:34517c7bdf5187c55af4f8b61fdc321588c7ab768dee24b006df29106458d7cf",
   "name": "Log tests Contract"
  },
  {
-  "address": "EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz",
+  "address": "0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf",
   "name": ".ton DNS"
  },
  {
-  "address": "EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS",
+  "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
   "name": "Getgems Marketplace"
  },
  {
-  "address": "EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS",
+  "address": "0:584ee61b2dff0837116d0fcb5078d93964bcbe9c05fd6a141b1bfca5d6a43e18",
   "name": "Getgems Sales"
  },
  {
-  "address": "EQDrLq-X6jKZNHAScgghh0h1iog3StK71zn8dcmrOj8jPWRA",
+  "address": "0:eb2eaf97ea32993470127208218748758a88374ad2bbd739fc75c9ab3a3f233d",
   "name": "Disintar Marketplace"
  },
  {
@@ -76,431 +76,431 @@
   "name": "OTC Market"
  },
  {
-  "address": "EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV",
+  "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
   "name": "Morgenshtern"
  },
  {
-  "address": "EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn",
+  "address": "0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a",
   "name": "Morgenshtern Private"
  },
  {
-  "address": "EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj",
+  "address": "0:2ecf5e47d591eb67fa6c56b02b6bb1de6a530855e16ad3082eaa59859e8d5fdc",
   "name": "Telegram Team"
  },
  {
-  "address": "EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE",
+  "address": "0:408da3b28b6c065a593e10391269baaa9c5f8caebc0c69d9f0aabbab2a99256b",
   "name": "Fragment"
  },
  {
-  "address": "Ef-kkdY_B7p-77TLn2hUhM6QidWrrsl8FYWCIvBMpZKprKDH",
+  "address": "-1:a491d63f07ba7eefb4cb9f685484ce9089d5abaec97c15858222f04ca592a9ac",
   "name": "PoW Giver 1"
  },
  {
-  "address": "Ef8SYc83pm5JkGt0p3TQRkuiM58O9Cr3waUtR9OoFq716uj0",
+  "address": "-1:1261cf37a66e49906b74a774d0464ba2339f0ef42af7c1a52d47d3a816aef5ea",
   "name": "PoW Giver 2"
  },
  {
-  "address": "Ef-FV4QTxLl-7Ct3E6MqOtMt-RGXMxi27g4I645lw6MTWg0f",
+  "address": "-1:85578413c4b97eec2b7713a32a3ad32df911973318b6ee0e08eb8e65c3a3135a",
   "name": "PoW Giver 3"
  },
  {
-  "address": "Ef_NSzfDJI1A3rOM0GQm7xsoUXHTgmdhN5-OrGD8uwL2JHBa",
+  "address": "-1:cd4b37c3248d40deb38cd06426ef1b285171d3826761379f8eac60fcbb02f624",
   "name": "PoW Giver 4"
  },
  {
-  "address": "Ef8gf1PQy4u2kURl-Gz4LbS29eaN4sVdrVQkPO-JL80VhFww",
+  "address": "-1:207f53d0cb8bb6914465f86cf82db4b6f5e68de2c55dad54243cef892fcd1584",
   "name": "PoW Giver 5"
  },
  {
-  "address": "Ef8kO6K6Qh6YM4ddjRYYlvVAK7IgyW8Zet-4ZvNrVsmQ4PgP",
+  "address": "-1:243ba2ba421e9833875d8d161896f5402bb220c96f197adfb866f36b56c990e0",
   "name": "PoW Giver 6"
  },
  {
-  "address": "Ef-P_TOdwcCh0AXHhBpICDMxStxHenWdLCDLNH5QcNpwMMn2",
+  "address": "-1:8ffd339dc1c0a1d005c7841a480833314adc477a759d2c20cb347e5070da7030",
   "name": "PoW Giver 7"
  },
  {
-  "address": "Ef91o4NNTryJ-Cw3sDGt9OTiafmETdVFUMvylQdFPoOxInls",
+  "address": "-1:75a3834d4ebc89f82c37b031adf4e4e269f9844dd54550cbf29507453e83b122",
   "name": "PoW Giver 8"
  },
  {
-  "address": "Ef9iWhwk9GwAXjtwKG-vN7rmXT3hLIT23RBY6KhVaynRrDkx",
+  "address": "-1:625a1c24f46c005e3b70286faf37bae65d3de12c84f6dd1058e8a8556b29d1ac",
   "name": "PoW Giver 9"
  },
  {
-  "address": "Ef8JfFUEJhhpRW80_jqD7zzQteH6EBHOzxiOhygRhBdt44YH",
+  "address": "-1:097c5504261869456f34fe3a83ef3cd0b5e1fa1011cecf188e87281184176de3",
   "name": "PoW Giver 10"
  },
  {
-  "address": "kf8guqdIbY6kpMykR8WFeVGbZcP2iuBagXfnQuq0rGrxgE04",
+  "address": "-1:20baa7486d8ea4a4cca447c58579519b65c3f68ae05a8177e742eab4ac6af180",
   "name": "Large Giver 1"
  },
  {
-  "address": "kf9CxReRyaGj0vpSH0gRZkOAitm_yDHvgiMGtmvG-ZTirrMC",
+  "address": "-1:42c51791c9a1a3d2fa521f48116643808ad9bfc831ef822306b66bc6f994e2ae",
   "name": "Large Giver 2"
  },
  {
-  "address": "kf-WXA4CX4lqyVlN4qItlQSWPFIy00NvO2BAydgC4CTeIUme",
+  "address": "-1:965c0e025f896ac9594de2a22d9504963c5232d3436f3b6040c9d802e024de21",
   "name": "Large Giver 3"
  },
  {
-  "address": "kf8yF4oXfIj7BZgkqXM6VsmDEgCqWVSKECO1pC0LXWl399Vx",
+  "address": "-1:32178a177c88fb059824a9733a56c9831200aa59548a1023b5a42d0b5d6977f7",
   "name": "Large Giver 4"
  },
  {
-  "address": "kf9nNY69S3_heBBSUtpHRhIzjjqY0ChugeqbWcQGtGj-gQxO",
+  "address": "-1:67358ebd4b7fe178105252da474612338e3a98d0286e81ea9b59c406b468fe81",
   "name": "Large Giver 5"
  },
  {
-  "address": "kf_wUXx-l1Ehw0kfQRgFtWKO07B6WhSqcUQZNyh4Jmj8R4zL",
+  "address": "-1:f0517c7e975121c3491f411805b5628ed3b07a5a14aa7144193728782668fc47",
   "name": "Large Giver 6"
  },
  {
-  "address": "kf_6keW5RniwNQYeq3DNWGcohKOwI85p-V2MsPk4v23tyO3I",
+  "address": "-1:fa91e5b94678b035061eab70cd58672884a3b023ce69f95d8cb0f938bf6dedc8",
   "name": "Large Giver 7"
  },
  {
-  "address": "kf_NSPpF4ZQ7mrPylwk-8XQQ1qFD5evLnx5_oZVNywzOjSfh",
+  "address": "-1:cd48fa45e1943b9ab3f297093ef17410d6a143e5ebcb9f1e7fa1954dcb0cce8d",
   "name": "Large Giver 8"
  },
  {
-  "address": "kf-uNWj4JmTJefr7IfjBSYQhFbd3JqtQ6cxuNIsJqDQ8SiEA",
+  "address": "-1:ae3568f82664c979fafb21f8c149842115b77726ab50e9cc6e348b09a8343c4a",
   "name": "Large Giver 9"
  },
  {
-  "address": "kf8mO4l6ZB_eaMn1OqjLRrrkiBcSt7kYTvJC_dzJLdpEDKxn",
+  "address": "-1:263b897a641fde68c9f53aa8cb46bae4881712b7b9184ef242fddcc92dda440c",
   "name": "Large Giver 10"
  },
  {
-  "address": "EQCtiv7PrMJImWiF2L5oJCgPnzp-VML2CAt5cbn1VsKAxLiE",
+  "address": "0:ad8afecfacc248996885d8be6824280f9f3a7e54c2f6080b7971b9f556c280c4",
   "name": "CryptoBot",
   "require_memo": false
  },
  {
-  "address": "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90",
+  "address": "0:dddcd3cdad60af4c0d69389f567ad51d0c263fa4968d655ab424c69aadaf9322",
   "name": "Wallet Bot",
   "require_memo": false
  },
  {
-  "address": "EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh",
+  "address": "0:436a76c2794a88e3fbfec6b9c0374fc8db046f10868b835420d9937973a665d4",
   "name": "Wallet Bot",
   "require_memo": false
  },
  {
-  "address": "EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8",
+  "address": "0:5f00decb7da51881764dc3959cec60609045f6ca1b89e646bde49d492705d77f",
   "name": "OKX",
   "require_memo": true
  },
  {
-  "address": "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ",
+  "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
   "name": "FTX",
   "require_memo": true
  },
  {
-  "address": "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi",
+  "address": "0:57eb74407604a19f7e04005315ef70aeb7b675e6551977586756f6baf12125ee",
   "name": "MEXC",
   "require_memo": true
  },
  {
-  "address": "EQB5lISMH8vLxXpqWph7ZutCS4tU4QdZtrUUpmtgDCsO73JR",
+  "address": "0:7994848c1fcbcbc57a6a5a987b66eb424b8b54e10759b6b514a66b600c2b0eef",
   "name": "EXMO",
   "require_memo": true
  },
  {
-  "address": "EQCNGVeTuq2aCMRtw1OuvpmTQdq9B3IblyXxnhirw9ENkhLa",
+  "address": "0:8d195793baad9a08c46dc353aebe999341dabd07721b9725f19e18abc3d10d92",
   "name": "EXMO Cold Storage 1",
   "require_memo": true
  },
  {
-  "address": "EQAmq4rnY6OnwwZ9iCt7Ac1dNyVMuHaPV7akfAACjv_HuO5H",
+  "address": "0:26ab8ae763a3a7c3067d882b7b01cd5d37254cb8768f57b6a47c00028effc7b8",
   "name": "EXMO Cold Storage 2",
   "require_memo": true
  },
  {
-  "address": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
+  "address": "0:0130c77346e9ed82df677d107ad6a775c11f9c18f6a05c0dd17906b355850dad",
   "name": "EXMO Deposit",
   "require_memo": true
  },
  {
-  "address": "EQA0KjWeODV8CDloEp_d3fBJ71xHMVv77ydQWjVr-fAtZSqw",
+  "address": "0:342a359e38357c083968129fddddf049ef5c47315bfbef27505a356bf9f02d65",
   "name": "CoinEx",
   "require_memo": true
  },
  {
-  "address": "EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f",
+  "address": "0:555f3053e257130374bb831ae0e219e5e5f9ec0ca8f8a0d133369d3d690c64c2",
   "name": "Huobi Deposit",
   "require_memo": true
  },
  {
-  "address": "EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB",
+  "address": "0:85af78e8d035e920117cda654615cdf371d464480b629e110d3c5310d85ab362",
   "name": "Huobi",
   "require_memo": true
  },
  {
-  "address": "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd",
+  "address": "0:ce3cdcf95089b75ee5ce9824a4ff506f40b75090c4be96637c2b8d38b1097224",
   "name": "TonMobile Service",
   "require_memo": false
  },
  {
-  "address": "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl",
+  "address": "0:80d4123841167ca989ac912443cc99a4b9c1a87584536427ff6fd85c92395ae9",
   "name": "Kucoin",
   "require_memo": true
  },
  {
-  "address": "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct",
+  "address": "0:a14b1f452385b2bb984ad2c4441e1d23cae071fdfc096dfba53ebba3b6ff1d10",
   "name": "lbank.info",
   "require_memo": true
  },
  {
-  "address": "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz",
+  "address": "0:75726a716f747e60b0371cb0d5d35471e8e1e931003fecc3a0961a8bd82c09c7",
   "name": "Rocket Bot"
  },
  {
-  "address": "Ef9NXAIQs12t2qIZ-sRZ26D977H65Ol6DQeXc5_gUNaUys5r",
+  "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
  {
-  "address": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
+  "address": "0:07235bc6bb0edde161be0ad7c3ad6a843cdb6652e2a32851057899996aaa9f59",
   "name": "BSC Bridge Collector"
  },
  {
-  "address": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+  "address": "-1:0ebd7ff9ca70e06e9e22a8922f5ae75211a9d6a34a8094e8e1587b606bdbb662",
   "name": "BSC Bridge Governance"
  },
  {
-  "address": "Ef_dJMSh8riPi3BTUTtcxsWjG8RLKnLctNjAM4rw8NN-xWdr",
+  "address": "-1:dd24c4a1f2b88f8b7053513b5cc6c5a31bc44b2a72dcb4d8c0338af0f0d37ec5",
   "name": "ETH Bridge"
  },
  {
-  "address": "EQCuzvIOXLjH2tv35gY4tzhIvXCqZWDuK9kUhFGXKLImgxT5",
+  "address": "0:aecef20e5cb8c7dadbf7e60638b73848bd70aa6560ee2bd91484519728b22683",
   "name": "ETH Bridge Collector"
  },
  {
-  "address": "Ef87m7_QrVM4uXAPCDM4DuF9Rj5Rwa5nHubwiQG96JmyAjQY",
+  "address": "-1:3b9bbfd0ad5338b9700f0833380ee17d463e51c1ae671ee6f08901bde899b202",
   "name": "ETH Bridge Governance"
  },
  {
-  "address": "Ef_P2CJw784O1qVd8Qbn8RCQc4EgxAs8Ra-M3bDhZn3OfzRb",
+  "address": "-1:cfd82270efce0ed6a55df106e7f11090738120c40b3c45af8cddb0e1667dce7f",
   "name": "Bridge Oracle 0"
  },
  {
-  "address": "Ef8DfObDUrNqz66pr_7xMbUYckUFbIIvRh1FSNeVSLWrvo1M",
+  "address": "-1:037ce6c352b36acfaea9affef131b5187245056c822f461d4548d79548b5abbe",
   "name": "Bridge Oracle 1"
  },
  {
-  "address": "Ef8JKqx4I-XECLuVhTqeY1WMgbgTp8Ld3mzN-JUogBF4ZEW-",
+  "address": "-1:092aac7823e5c408bb95853a9e63558c81b813a7c2ddde6ccdf8952880117864",
   "name": "Bridge Oracle 2"
  },
  {
-  "address": "Ef8voAFh-ByCeKD3SZhjMNzioqCmDOK6S6IaeefTwYmRhgsn",
+  "address": "-1:2fa00161f81c8278a0f749986330dce2a2a0a60ce2ba4ba21a79e7d3c1899186",
   "name": "Bridge Oracle 3"
  },
  {
-  "address": "Ef_uJVTTToU8b3o7-Jr5pcUqenxWzDNYpyklvhl73KSIA17M",
+  "address": "-1:ee2554d34e853c6f7a3bf89af9a5c52a7a7c56cc3358a72925be197bdca48803",
   "name": "Bridge Oracle 4"
  },
  {
-  "address": "Ef93olLWqh1OuBSTOnJKWZ4NwxNq_ELK55_h_laNPVwxcEro",
+  "address": "-1:77a252d6aa1d4eb814933a724a599e0dc3136afc42cae79fe1fe568d3d5c3170",
   "name": "Bridge Oracle 5"
  },
  {
-  "address": "Ef_iUPZdKLOCrqcNpDuFGNEmiuBwMB18TBXNjDimewpDExgn",
+  "address": "-1:e250f65d28b382aea70da43b8518d1268ae070301d7c4c15cd8c38a67b0a4313",
   "name": "Bridge Oracle 6"
  },
  {
-  "address": "Ef_tTGGToGmONePskH_Y6ZG-QLV9Kcg5DIXeKwBvCX4YifKa",
+  "address": "-1:ed4c6193a0698e35e3ec907fd8e991be40b57d29c8390c85de2b006f097e1889",
   "name": "Bridge Oracle 7"
  },
  {
-  "address": "Ef94L53akPw-4gOk2uQOenUyDYLOaif2g2uRoiu1nv0cWYMC",
+  "address": "-1:782f9dda90fc3ee203a4dae40e7a75320d82ce6a27f6836b91a22bb59efd1c59",
   "name": "Bridge Oracle 8"
  },
  {
-  "address": "Ef-VAFf1Wd3fXd-mQhDw5lNsVdIZv2_H1yhbdzXCFfIe9p95",
+  "address": "-1:950057f559dddf5ddfa64210f0e6536c55d219bf6fc7d7285b7735c215f21ef6",
   "name": "CAT Validator 1"
  },
  {
-  "address": "Ef-p4N7wkBQcce3Awcm06a1EV2VsFPYR7GtRczlYP0G2C1Pm",
+  "address": "-1:a9e0def090141c71edc0c1c9b4e9ad4457656c14f611ec6b517339583f41b60b",
   "name": "CAT Validator 2"
  },
  {
-  "address": "Ef86ziqX4uPh-ZcrOK8bWszUzfNhHg_SPnvf9CQOnElFINEE",
+  "address": "-1:3ace2a97e2e3e1f9972b38af1b5accd4cdf3611e0fd23e7bdff4240e9c494520",
   "name": "CAT Validator 3"
  },
  {
-  "address": "Ef8vk8p6nogM_JKMhpqXnffFrzikOzGjIUNLP8sdIasIb8DV",
+  "address": "-1:2f93ca7a9e880cfc928c869a979df7c5af38a43b31a321434b3fcb1d21ab086f",
   "name": "CAT Validator 4"
  },
  {
-  "address": "Ef9wm_whwjPFe7H4jvP-ODhluiZFm0Tb2Gj-67zqS31hCaWC",
+  "address": "-1:709bfc21c233c57bb1f88ef3fe383865ba26459b44dbd868feebbcea4b7d6109",
   "name": "CAT Staking Pool 1"
  },
  {
-  "address": "Ef-BHO0nH49EnLUetZIAkLkssgCyDwcXBnbp22--naUWz8VY",
+  "address": "-1:811ced271f8f449cb51eb5920090b92cb200b20f07170676e9db6fbe9da516cf",
   "name": "CAT Staking Pool 2"
  },
  {
-  "address": "Ef8iu8EiNOP2MczVvHseFi-CrGO1C4v6MkSSOgVZcESNGfT7",
+  "address": "-1:22bbc12234e3f631ccd5bc7b1e162f82ac63b50b8bfa3244923a055970448d19",
   "name": "CAT Staking Pool 3"
  },
  {
-  "address": "Ef8AeKBMQKW-PB8-RDeyJQSsxQQr5oEwbQeBEwE2BKDiFA_U",
+  "address": "-1:0078a04c40a5be3c1f3e4437b22504acc5042be681306d078113013604a0e214",
   "name": "CAT Staking Pool 4"
  },
  {
-  "address": "Ef-DxWkExr12iOSi0vJfT5TKCUG9W3-eWInm1yT5oEJISJkl",
+  "address": "-1:83c56904c6bd7688e4a2d2f25f4f94ca0941bd5b7f9e5889e6d724f9a0424848",
   "name": "CAT Staking Pool 5"
  },
  {
-  "address": "Ef8z0gek-K888pl61tyErw96TfnthjV9lZ7UDVFXlad9HEGS",
+  "address": "-1:33d207a4f8af3cf2997ad6dc84af0f7a4df9ed86357d959ed40d515795a77d1c",
   "name": "CAT Staking Pool 6"
  },
  {
-  "address": "Ef98be2ASo4xA_t2Q2VIH0cdpYKylDyfhL3nL7Byjz180VaU",
+  "address": "-1:7c6ded804a8e3103fb764365481f471da582b2943c9f84bde72fb0728f3d7cd1",
   "name": "CAT Staking Pool 7"
  },
  {
-  "address": "Ef8h5pd9_ZuWJOlilBH6a_LOACxl_R6DJbWHhut7QLDLWSgf",
+  "address": "-1:21e6977dfd9b9624e9629411fa6bf2ce002c65fd1e8325b58786eb7b40b0cb59",
   "name": "CAT Staking Pool 8"
  },
  {
-  "address": "Ef8gQpp7pKD9GzBrcr3ju9faPjEWHPerhZ4tFpSiDoDUINxn",
+  "address": "-1:20429a7ba4a0fd1b306b72bde3bbd7da3e31161cf7ab859e2d1694a20e80d420",
   "name": "Very First Pool #1"
  },
  {
-  "address": "Ef_dodh2I8BjpvxJIrKG5owo5_C1RZlzkZtXC3HGLuNZE0Sa",
+  "address": "-1:dda1d87623c063a6fc4922b286e68c28e7f0b5459973919b570b71c62ee35913",
   "name": "Very First Pool #2"
  },
  {
-  "address": "Ef9Qhifu_o6WiS3JzJEailMuDtlDqmy55eCGDJ5cYSTGD4BW",
+  "address": "-1:508627eefe8e96892dc9cc911a8a532e0ed943aa6cb9e5e0860c9e5c6124c60f",
   "name": "Global Net AC Pool #1"
  },
  {
-  "address": "Ef-pcGkDL4qjf44vN8iD8-yrjs-wVWOi5LVQudbDKbukHQvb",
+  "address": "-1:a97069032f8aa37f8e2f37c883f3ecab8ecfb05563a2e4b550b9d6c329bba41d",
   "name": "Global Net AC Pool #2"
  },
  {
-  "address": "Ef9IJWfn0qDrh4S8CBJsZUzAPrxQkH3C_JanVrQWjOZ5LndS",
+  "address": "-1:482567e7d2a0eb8784bc08126c654cc03ebc50907dc2fc96a756b4168ce6792e",
   "name": "Fastnet Pool A #1"
  },
  {
-  "address": "Ef__38zm-M_kTn6OgIs5DKVQy2qnjJIF50xZ203regWrI-yh",
+  "address": "-1:ffdfcce6f8cfe44e7e8e808b390ca550cb6aa78c9205e74c59db4deb7a05ab23",
   "name": "Fastnet Pool A #2"
  },
  {
-  "address": "Ef8_6eSCSeJyCeLM7uCxYjeirtQ4Zo8OEp0W4HJYJY4IC0zK",
+  "address": "-1:3fe9e48249e27209e2cceee0b16237a2aed438668f0e129d16e07258258e080b",
   "name": "Fastnet Pool B #1"
  },
  {
-  "address": "Ef_nHR5IUKCBf_qHlIjCsUWuo6bbrh174f_aJfN6zIAnBF9n",
+  "address": "-1:e71d1e4850a0817ffa879488c2b145aea3a6dbae1d7be1ffda25f37acc802704",
   "name": "Fastnet Pool B #2"
  },
  {
-  "address": "EQAUgVXUBJC7c72oEaQGowLvWhnf-nKghL7zBX8FSqrSXkp4",
+  "address": "0:148155d40490bb73bda811a406a302ef5a19dffa72a084bef3057f054aaad25e",
   "name": "TonStake Deposit"
  },
  {
-  "address": "Ef9qXoe6qX5kboeTbXXdxNOcqCA53Oi9LYsY66l4FuNLZRWx",
+  "address": "-1:6a5e87baa97e646e87936d75ddc4d39ca82039dce8bd2d8b18eba97816e34b65",
   "name": "TonStake Validator"
  },
  {
-  "address": "EQAOCN7KlgGzTp6YjW6d_fm_ibJEUe0VwFyKNnZVzlL4Jda3",
+  "address": "0:0e08deca9601b34e9e988d6e9dfdf9bf89b24451ed15c05c8a367655ce52f825",
   "name": "TonStake Withdrawal"
  },
  {
-  "address": "EQAAFhjXzKuQ5N0c96nsdZQWATcJm909LYSaCAvWFxVJP80D",
+  "address": "0:001618d7ccab90e4dd1cf7a9ec7594160137099bdd3d2d849a080bd61715493f",
   "name": "Whales Pool"
  },
  {
-  "address": "EQBeNwQShukLyOWjKWZ0Oxoe5U3ET-ApQIWYeC4VLZ4tmeTm",
+  "address": "0:5e37041286e90bc8e5a32966743b1a1ee54dc44fe029408598782e152d9e2d99",
   "name": "Whales Withdraw 1"
  },
  {
-  "address": "EQAQwQc4N7k_2q1ZQoTOi47_e5zyVCdEDrL8aCdi4UcTZef4",
+  "address": "0:10c1073837b93fdaad594284ce8b8eff7b9cf25427440eb2fc682762e1471365",
   "name": "Whales Withdraw 2"
  },
  {
-  "address": "EQDQA68_iHZrDEdkqjJpXcVqEM3qQC9u0w4nAhYJ4Ddsjttc",
+  "address": "0:d003af3f88766b0c4764aa32695dc56a10cdea402f6ed30e27021609e0376c8e",
   "name": "Whales Withdraw 3"
  },
  {
-  "address": "EQCr1U4EVmSWpx2sunO1jhtHveatorjfDpttMCCkoa0JyD1P",
+  "address": "0:abd54e04566496a71dacba73b58e1b47bde6ada2b8df0e9b6d3020a4a1ad09c8",
   "name": "Whales Withdraw 4"
  },
  {
-  "address": "EQAB_3oC0MH1r4fz1kztk6Nhq9GFQnrBUgObzrhyAXjzzjrc",
+  "address": "0:01ff7a02d0c1f5af87f3d64ced93a361abd185427ac152039bceb8720178f3ce",
   "name": "Whales Withdraw 5"
  },
  {
-  "address": "EQCz4NlftqOJlDZFerutRjy8bpDuNkLuLFn9pHsnK-mfXuZ0",
+  "address": "0:b3e0d95fb6a3899436457abbad463cbc6e90ee3642ee2c59fda47b272be99f5e",
   "name": "TON Coin Pool Fund"
  },
  {
-  "address": "EQCUp88072pLUGNQCXXXDFJM3C5v9GXTjV7ou33Mj3r0Xv2W",
+  "address": "0:94a7cf34ef6a4b5063500975d70c524cdc2e6ff465d38d5ee8bb7dcc8f7af45e",
   "name": "TON Coin Pool Rewards"
  },
  {
-  "address": "EQCUp88072pLUGNQCXXXDFJM3C5v9GXTjV7ou33Mj3r0Xv2W",
+  "address": "0:94a7cf34ef6a4b5063500975d70c524cdc2e6ff465d38d5ee8bb7dcc8f7af45e",
   "name": "TON Coin Pool Withdraw 1"
  },
  {
-  "address": "EQAW6gzsWc-zqY7Z9rquxxeOA4Y6QMB09skcBXDnnuL3EK8L",
+  "address": "0:16ea0cec59cfb3a98ed9f6baaec7178e03863a40c074f6c91c0570e79ee2f710",
   "name": "TON Coin Pool Withdraw 2"
  },
  {
-  "address": "EQDfbIxBNnGdCSYyKu0SxPtdzVrUBWlc73LXHia4fLt2Ia8i",
+  "address": "0:df6c8c4136719d0926322aed12c4fb5dcd5ad405695cef72d71e26b87cbb7621",
   "name": "TON Universe Pool"
  },
  {
-  "address": "EQC2T_EwQ9Gvv7mKWdKP_fVqalEBBa5wWBn2I1BgeIcfS3Rb",
+  "address": "0:b64ff13043d1afbfb98a59d28ffdf56a6a510105ae705819f623506078871f4b",
   "name": "TON Universe Pool Withdraw 1"
  },
  {
-  "address": "EQCW1v0RwP31xMrDgUu0Qa18Z0YssSulsrhoDtZHpJ6p5s3J",
+  "address": "0:96d6fd11c0fdf5c4cac3814bb441ad7c67462cb12ba5b2b8680ed647a49ea9e6",
   "name": "TON Universe Pool Withdraw 2"
  },
  {
-  "address": "EQA3hKVrpll-jVAtA1KjfpaMJ7YGg44M6DQuBdBX9G5xWxOS",
+  "address": "0:3784a56ba6597e8d502d0352a37e968c27b606838e0ce8342e05d057f46e715b",
   "name": "TON Pool"
  },
  {
-  "address": "EQA4FvvNgz9GThubbM4F4CQBZR26uP6UH13CoEODBAOXJAs0",
+  "address": "0:3816fbcd833f464e1b9b6cce05e02401651dbab8fe941f5dc2a0438304039724",
   "name": "TON Pool Withdraw 1"
  },
  {
-  "address": "EQBN5uMyngPBKG2mwXmfqj3rZWP2tLMaY9NsmUOiJUZ3r9_f",
+  "address": "0:4de6e3329e03c1286da6c1799faa3deb6563f6b4b31a63d36c9943a2254677af",
   "name": "TON Pool withdraw 2"
  },
  {
-  "address": "Ef8RiUWO6kANDF3FsaIu2o3QCbq6VGWyqZxRRXM8B9mRbIQ_",
+  "address": "-1:1189458eea400d0c5dc5b1a22eda8dd009baba5465b2a99c5145733c07d9916c",
   "name": "HB Pool #1"
  },
  {
-  "address": "Ef-8i71cS7pz9fuzQCxRNOIx31EzaTPpmsNluGbzJC6cVGHp",
+  "address": "-1:bc8bbd5c4bba73f5fbb3402c5134e231df51336933e99ac365b866f3242e9c54",
   "name": "HB Pool #2"
  },
  {
-  "address": "Ef84bmp5O3DtYjXmdWAYMEBzTPsu-cPMcg51i3Z9bfdI78mv",
+  "address": "-1:386e6a793b70ed6235e67560183040734cfb2ef9c3cc720e758b767d6df748ef",
   "name": "Rangers Pool #1"
  },
  {
-  "address": "Ef_1qwsc5P_pxid2MH8gnaRvRJAa1kmRy86eq0JC6XWXaBg-",
+  "address": "-1:f5ab0b1ce4ffe9c62776307f209da46f44901ad64991cbce9eab4242e9759768",
   "name": "Rangers Pool #2"
  },
  {
-  "address": "Ef9QA9O2zBmzK4r4PR5774n7u3ZuRTyNAS37qGfcuK5_jJg1",
+  "address": "-1:5003d3b6cc19b32b8af83d1e7bef89fbbb766e453c8d012dfba867dcb8ae7f8c",
   "name": "KoreaTON Pool #1"
  },
  {
-  "address": "Ef-WCNS9bSpx6wN9cusNbyaBVpGatjmaUXWcdiVlxw7wz9ot",
+  "address": "-1:9608d4bd6d2a71eb037d72eb0d6f268156919ab6399a51759c762565c70ef0cf",
   "name": "KoreaTON Pool #2"
  },
  {
-  "address": "Ef81FHdh5LtBrx9x20Iit7B_L-glFfnzOWN41bHDJLNA4y3C",
+  "address": "-1:35147761e4bb41af1f71db4222b7b07f2fe82515f9f3396378d5b1c324b340e3",
   "name": "DG Pool #1"
  },
  {
-  "address": "Ef_8zkZm4k4fjv3IaddodfBWBwMk-0TgLuWGQEfaEMm0xHLk",
+  "address": "-1:fcce4666e24e1f8efdc869d76875f056070324fb44e02ee5864047da10c9b4c4",
   "name": "DG Pool #2"
  }
 ]
