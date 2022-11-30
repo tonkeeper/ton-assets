@@ -56,17 +56,6 @@
   ]
  },
  {
-  "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
-  "description": "Wrapped Toncoin token.",
-  "image": "https://st.tonox.org/wton.png",
-  "max_supply": -1,
-  "name": "Wrapped TONCOIN",
-  "social": [
-   "https://t.me/TonoxDeFi"
-  ],
-  "symbol": "WTON",
-  "websites": [
-   "https://wton.tonox.org/"
-  ]
+  "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2"
  }
 ]
