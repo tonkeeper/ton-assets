@@ -1,10 +1,1 @@
-name: Wrapped TONCOIN
-description: Wrapped Toncoin token.
-image: "https://st.tonox.org/wton.png"
 address: 0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2
-symbol: WTON
-max_supply: -1
-websites:
-  - "https://wton.tonox.org/"
-social:
-  - "https://t.me/TonoxDeFi"
