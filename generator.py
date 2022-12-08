@@ -66,12 +66,14 @@ def normalize_address(a, to_raw):
     if to_raw:
         return "%d:%s" % (workchain, addr.hex())
 
+    if workchain == -1:
+        workchain = 255
     human = bytearray(36)
     human[0] = 0x11
-    human[1] = {0:0, -1:255}[workchain]
+    human[1] = workchain
     human[2:34] = addr
     human[34:] = crc16(human[:34])
-    return base64.b64encode(human).decode()
+    return base64.urlsafe_b64encode(human).decode()
 
 
 def crc16(data):
