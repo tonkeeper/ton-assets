@@ -1,5 +1,10 @@
 [
  {
+  "address": "0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49",
+  "name": "Ambra",
+  "symbol": "AMBR"
+ },
+ {
   "address": "0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e",
   "description": "Official token of the Huebel Company",
   "image": "https://cloudflare-ipfs.com/ipfs/QmX47dodUg1acXoxYDULWTNfShXRW5uHrCmoKSUNR9xKQw",
@@ -54,6 +59,11 @@
   "websites": [
    "https://tonis.land"
   ]
+ },
+ {
+  "address": "0:7e6a33328b9f9628880e1e76ce180a5f7245066e5ead0e4dd0b7c3ca99bfb12c",
+  "name": "TonexCoin",
+  "symbol": "TNX"
  },
  {
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
