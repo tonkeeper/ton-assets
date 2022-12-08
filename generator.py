@@ -3,6 +3,7 @@ import json
 import yaml
 import glob
 import base64
+import math
 
 EXPLORER_JETTONS = "https://tonapi.io/jetton/"
 EXPLORER_ACCOUNTS = "https://tonapi.io/account/"
@@ -42,9 +43,9 @@ def main():
     jettons = merge_jettons()
     collections = merge_collections()
     accounts = merge_accounts([{"name": x[0], "address": x[1]} for x in jettons+collections])
-    jettons_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_JETTONS, j[1], j[1]) for j in jettons])
-    accounts_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_ACCOUNTS, j[1], j[1]) for j in accounts])
-    collections_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_COLLECTIONS, j[1], j[1]) for j in collections])
+    jettons_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_JETTONS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in jettons])
+    accounts_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_ACCOUNTS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in accounts])
+    collections_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_COLLECTIONS,  normalize_address(j[1], True), normalize_address(j[1], False)) for j in collections])
 
     open('README.md', 'w').write(open("readme.md.template").read() % (accounts_md, collections_md, jettons_md))
 
@@ -56,8 +57,39 @@ def normalize_address(a, to_raw):
         if workchain == 255:
             workchain = -1
         addr = raw[2:34]
+    elif ":" in a:
+        parts = a.split(":")
+        if len(parts) != 2:
+            raise Exception("invalid address %s" % a)
+        workchain = int(parts[0])
+        addr = bytearray.fromhex(parts[1])
+    if to_raw:
         return "%d:%s" % (workchain, addr.hex())
-    return a.lower()
+
+    human = bytearray(36)
+    human[0] = 0x11
+    human[1] = {0:0, -1:255}[workchain]
+    human[2:34] = addr
+    human[34:] = crc16(human[:34])
+    return base64.b64encode(human).decode()
+
+
+def crc16(data):
+    POLY = 0x1021
+    reg = 0
+    message = bytes(data) + bytes(2)
+
+    for byte in message:
+        mask = 0x80
+        while mask > 0:
+            reg <<= 1
+            if byte & mask:
+                reg += 1
+            mask >>= 1
+            if reg > 0xffff:
+                reg &= 0xffff
+                reg ^= POLY
+    return reg // 256, reg % 256
 
 
 if __name__ == '__main__':
