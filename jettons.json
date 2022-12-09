@@ -16,6 +16,21 @@
   "symbol": "BOLT"
  },
  {
+  "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
+  "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
+  "max_supply": 2100000000,
+  "name": "Fanzee Token",
+  "social": [
+   "https://t.me/fanzeelabs",
+   "https://twitter.com/fanzeelabs"
+  ],
+  "symbol": "FNZ",
+  "websites": [
+   "https://fanz.ee",
+   "https://app.fanz.ee"
+  ]
+ },
+ {
   "address": "0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208",
   "description": "SCALE is a utility token that will be used to support all independent developers.",
   "image": "ipfs://QmSMiXsZYMefwrTQ3P6HnDQaCpecS4EWLpgKK5EX1G8iA8",
