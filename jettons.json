@@ -31,6 +31,40 @@
   ]
  },
  {
+  "address": "0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb",
+  "description": "Mars Coin. Game TONPlanets.com",
+  "image": "https://nft.tonplanets.com/jettons/mars/mars_logo.png",
+  "max_supply": 5000000000,
+  "name": "Mars",
+  "social": [
+   "https://t.me/TONPlanets",
+   "https://t.me/TONPlanetsBot",
+   "https://t.me/TONPlanetsEn"
+  ],
+  "symbol": "MARS",
+  "websites": [
+   "https://mars.tonplanets.com",
+   "https://tonplanets.com"
+  ]
+ },
+ {
+  "address": "0:fc46cab89e8f5c610c764e0d30a7d602adc38db97e62a3cb0d669b5bbc10888d",
+  "description": "This jetton was given to the first people who arrived on Mars. Game TONPlanets.com",
+  "image": "https://nft.tonplanets.com/jettons/pioneer/pioneer.png",
+  "max_supply": 50,
+  "name": "Pioneer",
+  "social": [
+   "https://t.me/TONPlanets",
+   "https://t.me/TONPlanetsBot",
+   "https://t.me/TONPlanetsEn"
+  ],
+  "symbol": "PIO",
+  "websites": [
+   "https://mars.tonplanets.com",
+   "https://tonplanets.com"
+  ]
+ },
+ {
   "address": "0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208",
   "description": "SCALE is a utility token that will be used to support all independent developers.",
   "image": "ipfs://QmSMiXsZYMefwrTQ3P6HnDQaCpecS4EWLpgKK5EX1G8iA8",

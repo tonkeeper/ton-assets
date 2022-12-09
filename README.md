@@ -41,6 +41,8 @@ Name           | Address
 [Ambra](https://tonapi.io/jetton/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
 [Fanzee Token](https://tonapi.io/jetton/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
 [Huebel Bolt](https://tonapi.io/jetton/0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e) | EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw
+[Mars](https://tonapi.io/jetton/0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb) | EQCZFOynaSK2D4TqSqcf0Dhaq4ofCCVi_f-z8fX-KqVdy-qw
+[Pioneer](https://tonapi.io/jetton/0:fc46cab89e8f5c610c764e0d30a7d602adc38db97e62a3cb0d669b5bbc10888d) | EQD8Rsq4no9cYQx2Tg0wp9YCrcONuX5io8sNZptbvBCIjUUl
 [Scaleton](https://tonapi.io/jetton/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
 [TON Island Coin](https://tonapi.io/jetton/0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b) | EQBXHCDdBA6Vgd2zi-yRpFk8m04vn3ROWYU9GRZfpvrim1M5
 [Tegro](https://tonapi.io/jetton/0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a) | EQAvDfWFG0oYX19jwNDNBBL1rKNT9XfaGP9HyTb5nb2Eml6y
