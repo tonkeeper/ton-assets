@@ -31,6 +31,11 @@
   ]
  },
  {
+  "address": "0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab",
+  "name": "Grabscape game token",
+  "symbol": "GRBS"
+ },
+ {
   "address": "0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/mars/mars_logo.png",
