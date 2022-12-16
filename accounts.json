@@ -280,6 +280,10 @@
   "name": "Rocket Bot"
  },
  {
+  "address": "0:097dc94a6f87c58b4b5683e3d5830c1d5f11d12262d66cef7fec765ca489425a",
+  "name": "BitGo FTX Bankruptcy Custody"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
@@ -338,6 +342,10 @@
  {
   "address": "-1:782f9dda90fc3ee203a4dae40e7a75320d82ce6a27f6836b91a22bb59efd1c59",
   "name": "Bridge Oracle 8"
+ },
+ {
+  "address": "0:8a140d51b86267680a943c55c780ac4b3a785c2ff6a62020d158c39f6512374f",
+  "name": "Orbit Bridge"
  },
  {
   "address": "-1:950057f559dddf5ddfa64210f0e6536c55d219bf6fc7d7285b7735c215f21ef6",
