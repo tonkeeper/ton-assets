@@ -16,6 +16,15 @@
   "symbol": "BOLT"
  },
  {
+  "address": "0:e4c6be69583a14bbb27f0b350628545b9c86f399e74d5770aae72ab74178126e",
+  "description": "\ud83d\ude98 T.ME/CARS_TON - 30 CAR BRANDS/USERNAMES IN THE NFT COLLECTION. \ud83c\udfc6 We will support each car with advertising to increase the value.",
+  "name": "CAR COLLECTION",
+  "social": [
+   "https://t.me/cars_ton"
+  ],
+  "symbol": "CAR"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "max_supply": 2100000000,
