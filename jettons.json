@@ -36,6 +36,12 @@
   "symbol": "GRBS"
  },
  {
+  "address": "0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710",
+  "description": "The spirit of wall-street hedgehogs on a legendary blockchain",
+  "name": "HEDGE coin",
+  "symbol": "HEDGE"
+ },
+ {
   "address": "0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/mars/mars_logo.png",

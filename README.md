@@ -42,6 +42,7 @@ Name           | Address
 [ELKITON](https://tonapi.io/jetton/0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224) | EQAzMmZWo2yo4ybPUMvIgfFQ3a53f4WUTjf2-LE7oJxCJHnO
 [Fanzee Token](https://tonapi.io/jetton/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
 [Grabscape game token](https://tonapi.io/jetton/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
+[HEDGE coin](https://tonapi.io/jetton/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
 [Huebel Bolt](https://tonapi.io/jetton/0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e) | EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw
 [Mars](https://tonapi.io/jetton/0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb) | EQCZFOynaSK2D4TqSqcf0Dhaq4ofCCVi_f-z8fX-KqVdy-qw
 [Pioneer](https://tonapi.io/jetton/0:fc46cab89e8f5c610c764e0d30a7d602adc38db97e62a3cb0d669b5bbc10888d) | EQD8Rsq4no9cYQx2Tg0wp9YCrcONuX5io8sNZptbvBCIjUUl
