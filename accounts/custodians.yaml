@@ -50,3 +50,6 @@
   name: "Rocket Bot"
 - address: "EQAJfclKb4fFi0tWg-PVgwwdXxHRImLWbO9_7HZcpIlCWkTg"
   name: "BitGo FTX Bankruptcy Custody"
+- address: "EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb"
+  name: "Bybit"
+  require_memo: true
