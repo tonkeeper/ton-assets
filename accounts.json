@@ -284,6 +284,11 @@
   "name": "BitGo FTX Bankruptcy Custody"
  },
  {
+  "address": "0:c3f1da8ecda8f8cd42bace224ea3f1b6971eaa7f54c492d4d190527b4f573f7c",
+  "name": "Bybit",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
