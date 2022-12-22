@@ -85,6 +85,11 @@
   ]
  },
  {
+  "address": "0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224",
+  "name": "ELKITON",
+  "symbol": "SNEG"
+ },
+ {
   "address": "0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a",
   "coingecko": "https://www.coingecko.com/en/coins/tegro",
   "coinmarketcap": "https://coinmarketcap.com/currencies/tgr/",
