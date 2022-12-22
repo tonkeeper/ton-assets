@@ -4,8 +4,8 @@ address: "0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751"
 symbol: LAVE
 max_supply: 5000000000
 social: 
-- "https://t.me/lavetoken"
-- "https://t.me/laveteam"
-- "https://t.me/lavefoundation"
-- "https://t.me/lave_eng"
-- "https://t.me/lave_esp"
+  - "https://t.me/lavetoken"
+  - "https://t.me/laveteam"
+  - "https://t.me/lavefoundation"
+  - "https://t.me/lave_eng"
+  - "https://t.me/lave_esp"
