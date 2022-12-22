@@ -102,6 +102,15 @@
   "symbol": "SNEG"
  },
  {
+  "address": "0:301ff3049a811b0ff00651d9e85b0a6f48171cb71fe36c30ae07467c7576eb01",
+  "description": "Ton Earth universe coin on the Legendary Blockchain.",
+  "name": "Ton Earth coin",
+  "social": [
+   "https://t.me/TONEarth"
+  ],
+  "symbol": "TEC"
+ },
+ {
   "address": "0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a",
   "coingecko": "https://www.coingecko.com/en/coins/tegro",
   "coinmarketcap": "https://coinmarketcap.com/currencies/tgr/",
