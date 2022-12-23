@@ -40,6 +40,7 @@ Name           | Address
 ---------------|-----------
 [Ambra](https://tonapi.io/jetton/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
 [CAR COLLECTION](https://tonapi.io/jetton/0:e4c6be69583a14bbb27f0b350628545b9c86f399e74d5770aae72ab74178126e) | EQDkxr5pWDoUu7J_CzUGKFRbnIbzmedNV3Cq5yq3QXgSbh41
+[Cock Fights Token](https://tonapi.io/jetton/0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58) | EQCm4EVrocp34JFelHYPGx_D4pKqQ-gS6_xFZQzIwwA-WElP
 [ELKITON](https://tonapi.io/jetton/0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224) | EQAzMmZWo2yo4ybPUMvIgfFQ3a53f4WUTjf2-LE7oJxCJHnO
 [Fanzee Token](https://tonapi.io/jetton/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
 [Grabscape game token](https://tonapi.io/jetton/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA

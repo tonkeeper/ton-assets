@@ -25,6 +25,11 @@
   "symbol": "CAR"
  },
  {
+  "address": "0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58",
+  "name": "Cock Fights Token",
+  "symbol": "CFT"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "max_supply": 2100000000,
