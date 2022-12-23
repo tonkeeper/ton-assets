@@ -1,0 +1,8 @@
+name: Siberian TON
+description: Private peer to peer jetton
+image: "https://github.com/traptor/Sibton/raw/main/Sibton_logo.png"
+address: 0:e976693d0f20fc275c3c719579478d752a2dfcb779fec235eb908043ffe18367
+symbol: SIBT
+max_supply: 1000000000
+social:
+  - "https://t.me/sibton_channel"
