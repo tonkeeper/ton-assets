@@ -51,6 +51,20 @@
   "symbol": "HEDGE"
  },
  {
+  "address": "0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751",
+  "description": "This is a universal token for use in all areas of the decentralized Internet in the TON blockchain, web3, Telegram channels, TON sites, Tonkeeper. Issue of 5 billion coins. Telegram channels: Englishversion: @lave_eng \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f: @lavetoken versi\u00f3n en espa\u00f1ol: @lave_esp ICO: @laveicobot Number of holders over 1500",
+  "max_supply": 5000000000,
+  "name": "Lavandos",
+  "social": [
+   "https://t.me/lavetoken",
+   "https://t.me/laveteam",
+   "https://t.me/lavefoundation",
+   "https://t.me/lave_eng",
+   "https://t.me/lave_esp"
+  ],
+  "symbol": "LAVE"
+ },
+ {
   "address": "0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/mars/mars_logo.png",
