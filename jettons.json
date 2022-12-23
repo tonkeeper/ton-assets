@@ -30,6 +30,16 @@
   "symbol": "CFT"
  },
  {
+  "address": "0:7d3a9e4c014a329a4e98ff8c79217dea7461e15214a6326b15a0403e8f339823",
+  "name": "CON",
+  "symbol": "CON"
+ },
+ {
+  "address": "0:c47099533c1ca6cd4a8e275e50478e2f2253c81e1b16965ac869f5a93dd7878a",
+  "name": "Donation",
+  "symbol": "DON"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "max_supply": 2100000000,
@@ -134,6 +144,11 @@
   "address": "0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224",
   "name": "ELKITON",
   "symbol": "SNEG"
+ },
+ {
+  "address": "0:2091ce587c00351dcef941771926b2f5e65dcb5e842bd0268ae2ca9ca474455c",
+  "name": "TON Svet",
+  "symbol": "Svet"
  },
  {
   "address": "0:301ff3049a811b0ff00651d9e85b0a6f48171cb71fe36c30ae07467c7576eb01",

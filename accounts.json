@@ -8,8 +8,16 @@
   "name": "CAR COLLECTION"
  },
  {
+  "address": "0:7d3a9e4c014a329a4e98ff8c79217dea7461e15214a6326b15a0403e8f339823",
+  "name": "CON"
+ },
+ {
   "address": "0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58",
   "name": "Cock Fights Token"
+ },
+ {
+  "address": "0:c47099533c1ca6cd4a8e275e50478e2f2253c81e1b16965ac869f5a93dd7878a",
+  "name": "Donation"
  },
  {
   "address": "0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224",
@@ -54,6 +62,10 @@
  {
   "address": "0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b",
   "name": "TON Island Coin"
+ },
+ {
+  "address": "0:2091ce587c00351dcef941771926b2f5e65dcb5e842bd0268ae2ca9ca474455c",
+  "name": "TON Svet"
  },
  {
   "address": "0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a",

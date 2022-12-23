@@ -40,7 +40,9 @@ Name           | Address
 ---------------|-----------
 [Ambra](https://tonapi.io/jetton/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
 [CAR COLLECTION](https://tonapi.io/jetton/0:e4c6be69583a14bbb27f0b350628545b9c86f399e74d5770aae72ab74178126e) | EQDkxr5pWDoUu7J_CzUGKFRbnIbzmedNV3Cq5yq3QXgSbh41
+[CON](https://tonapi.io/jetton/0:7d3a9e4c014a329a4e98ff8c79217dea7461e15214a6326b15a0403e8f339823) | EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-
 [Cock Fights Token](https://tonapi.io/jetton/0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58) | EQCm4EVrocp34JFelHYPGx_D4pKqQ-gS6_xFZQzIwwA-WElP
+[Donation](https://tonapi.io/jetton/0:c47099533c1ca6cd4a8e275e50478e2f2253c81e1b16965ac869f5a93dd7878a) | EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR
 [ELKITON](https://tonapi.io/jetton/0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224) | EQAzMmZWo2yo4ybPUMvIgfFQ3a53f4WUTjf2-LE7oJxCJHnO
 [Fanzee Token](https://tonapi.io/jetton/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
 [Grabscape game token](https://tonapi.io/jetton/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
@@ -52,6 +54,7 @@ Name           | Address
 [Red Coin](https://tonapi.io/jetton/0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa) | EQDAgy1xcNg0aFle548miasSdLCkL1nDeqSLP7Pua4wq-iTo
 [Scaleton](https://tonapi.io/jetton/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
 [TON Island Coin](https://tonapi.io/jetton/0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b) | EQBXHCDdBA6Vgd2zi-yRpFk8m04vn3ROWYU9GRZfpvrim1M5
+[TON Svet](https://tonapi.io/jetton/0:2091ce587c00351dcef941771926b2f5e65dcb5e842bd0268ae2ca9ca474455c) | EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh
 [Tegro](https://tonapi.io/jetton/0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a) | EQAvDfWFG0oYX19jwNDNBBL1rKNT9XfaGP9HyTb5nb2Eml6y
 [Ton Earth coin](https://tonapi.io/jetton/0:301ff3049a811b0ff00651d9e85b0a6f48171cb71fe36c30ae07467c7576eb01) | EQAwH_MEmoEbD_AGUdnoWwpvSBcctx_jbDCuB0Z8dXbrAdxy
 [TonexCoin](https://tonapi.io/jetton/0:7e6a33328b9f9628880e1e76ce180a5f7245066e5ead0e4dd0b7c3ca99bfb12c) | EQB-ajMyi5-WKIgOHnbOGApfckUGbl6tDk3Qt8PKmb-xLAvp
