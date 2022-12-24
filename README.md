@@ -38,6 +38,7 @@ Name           | Address
 
 Name           | Address
 ---------------|-----------
+[Alex Ross](https://tonapi.io/jetton/0:f9c0e473060126580433f078f391574e7c6a02e2216e1c27634c19f23677d2ae) | EQD5wORzBgEmWAQz8HjzkVdOfGoC4iFuHCdjTBnyNnfSruoh
 [Ambra](https://tonapi.io/jetton/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
 [CAR COLLECTION](https://tonapi.io/jetton/0:e4c6be69583a14bbb27f0b350628545b9c86f399e74d5770aae72ab74178126e) | EQDkxr5pWDoUu7J_CzUGKFRbnIbzmedNV3Cq5yq3QXgSbh41
 [CON](https://tonapi.io/jetton/0:7d3a9e4c014a329a4e98ff8c79217dea7461e15214a6326b15a0403e8f339823) | EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-
