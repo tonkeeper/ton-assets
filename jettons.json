@@ -146,6 +146,17 @@
   ]
  },
  {
+  "address": "0:e976693d0f20fc275c3c719579478d752a2dfcb779fec235eb908043ffe18367",
+  "description": "Private peer to peer jetton",
+  "image": "https://traptor.github.io/sibton/sibton_logo.png",
+  "max_supply": 1000000000,
+  "name": "Siberian TON",
+  "social": [
+   "https://t.me/sibton_channel"
+  ],
+  "symbol": "SIBT"
+ },
+ {
   "address": "0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224",
   "name": "ELKITON",
   "symbol": "SNEG"

@@ -54,6 +54,7 @@ Name           | Address
 [Pioneer](https://tonapi.io/jetton/0:fc46cab89e8f5c610c764e0d30a7d602adc38db97e62a3cb0d669b5bbc10888d) | EQD8Rsq4no9cYQx2Tg0wp9YCrcONuX5io8sNZptbvBCIjUUl
 [Red Coin](https://tonapi.io/jetton/0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa) | EQDAgy1xcNg0aFle548miasSdLCkL1nDeqSLP7Pua4wq-iTo
 [Scaleton](https://tonapi.io/jetton/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
+[Siberian TON](https://tonapi.io/jetton/0:e976693d0f20fc275c3c719579478d752a2dfcb779fec235eb908043ffe18367) | EQDpdmk9DyD8J1w8cZV5R411Ki38t3n-wjXrkIBD_-GDZ89a
 [TON Island Coin](https://tonapi.io/jetton/0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b) | EQBXHCDdBA6Vgd2zi-yRpFk8m04vn3ROWYU9GRZfpvrim1M5
 [TON Svet](https://tonapi.io/jetton/0:2091ce587c00351dcef941771926b2f5e65dcb5e842bd0268ae2ca9ca474455c) | EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh
 [Tegro](https://tonapi.io/jetton/0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a) | EQAvDfWFG0oYX19jwNDNBBL1rKNT9XfaGP9HyTb5nb2Eml6y
