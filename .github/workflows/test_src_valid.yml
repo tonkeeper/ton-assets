@@ -1,9 +1,10 @@
 name: Test source files for correctness
 on:
+  pull_request:
   push:
     branches-ignore:
       - main
-    workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   source-syntax-check:
