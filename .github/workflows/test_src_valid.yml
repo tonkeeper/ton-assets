@@ -7,7 +7,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  # Update this job also in rebuild-src.yml
   source-syntax-check:
     runs-on: ubuntu-latest
     steps:
