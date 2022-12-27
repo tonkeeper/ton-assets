@@ -1,5 +1,38 @@
 [
  {
+  "address": "0:70429775a9a9dda8df354ea7f5bb3e6660cfc8e01e3bf4721d2867a9e0ca75cc",
+  "name": "Bonus Pack"
+ },
+ {
+  "address": "0:f3ca8c7f043c9509df61f7d6d8653e489850045d36b771b6953fa2e408f7bede",
+  "name": "Crystals Pack"
+ },
+ {
+  "address": "0:55479f0e0fdedf4a9fe13c1ae4bf869f9a25052e8460ebac75e681fc93ce6e74",
+  "name": "Ore Pack"
+ },
+ {
+  "address": "0:8285177f4665d4e37dba1211b2eb6a91cc062e43559ac2374ab88270c1f6efc4",
+  "name": "Power Charges Pack"
+ },
+ {
+  "address": "0:5da15307345b3357d883fef91f27f1fe42f25cd88bf68a48ac633ccf94296dfa",
+  "name": "Premium Pack"
+ },
+ {
+  "address": "0:a99bee2de7a85886fa1213ee1e88334e32dde3741ef7cf2f16b9d9fc7c4df4ea",
+  "name": "Starter Pack presale jetton",
+  "symbol": "EFZJ"
+ },
+ {
+  "address": "0:3fbaf496183237094e57cc84257d963263365a672c274c479bd6a6f6547bf76c",
+  "name": "Starter Pack"
+ },
+ {
+  "address": "0:4961550ca4720cb7c21c327a73e5dfe3013e21eb8fc1eb0242aecf1a8352846c",
+  "name": "Supply Pack"
+ },
+ {
   "address": "0:f9c0e473060126580433f078f391574e7c6a02e2216e1c27634c19f23677d2ae",
   "name": "Alex Ross",
   "symbol": "AROS"
