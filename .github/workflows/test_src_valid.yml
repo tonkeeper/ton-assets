@@ -26,21 +26,3 @@ jobs:
 
       - name: Dummy run of generator to check for correct syntax
         run: python3 generator.py
-
-      - name: Report status on success
-        uses: LouisBrunner/checks-action@87e7256e004e2625f00da7b5fd8c855cb520da89 # tag: v1.5.0
-        if: ${{ success() }}
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          name: source-syntax-check
-          conclusion: "${{ job.status }}"
-          details_url: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
-      - name: Report status on failure
-        uses: LouisBrunner/checks-action@87e7256e004e2625f00da7b5fd8c855cb520da89 # tag: v1.5.0
-        if: ${{ ! success() }}
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          name: source-syntax-check
-          conclusion: "${{ job.status }}"
-          details_url: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
