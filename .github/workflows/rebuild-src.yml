@@ -10,6 +10,7 @@ on:
       - .github/workflows/rebuild-src.yml
     branches:
       - main
+  workflow_dispatch:
 jobs:
   run-aggregator:
     runs-on: ubuntu-latest
