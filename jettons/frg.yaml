@@ -1,0 +1,10 @@
+name: FRAGMENT
+description: "This token gives you the opportunity to be a member of Fragment Chat! @fragmentChat (https://t.me/fragmentChat)"
+image: "https://telegra.ph/file/bad554fa5f363e61926c2.jpg"
+address: 0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d
+symbol: FRG
+max_supply: 700000000
+websites:
+  - "https://ton.app/chats/frgchat"
+social:
+  - "https://t.me/fragmentChat"
