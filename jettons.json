@@ -93,6 +93,20 @@
   ]
  },
  {
+  "address": "EQD9fy6aOSYN5RCQTWshN7hj83ktvmjmIOV1mu4dDq2QdqWb",
+  "description": "FST is the currency of the FASTMM esports platform.",
+  "image": "https://fastmm.win/fst-mint-logo.jpg",
+  "max_supply": 1000000000,
+  "name": "FASTMM",
+  "social": [
+   "https://vk.com/fmmgg"
+  ],
+  "symbol": "FST",
+  "websites": [
+   "https://fastmm.win"
+  ]
+ },
+ {
   "address": "0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab",
   "name": "Grabscape game token",
   "symbol": "GRBS"
