@@ -1,0 +1,10 @@
+name: FASTMM
+description: FST is the currency of the FASTMM esports platform.
+image: "https://fastmm.win/fst-mint-logo.jpg"
+address: EQD9fy6aOSYN5RCQTWshN7hj83ktvmjmIOV1mu4dDq2QdqWb
+symbol: FST
+max_supply: 1000000000
+websites:
+  - "https://fastmm.win"
+social:
+  - "https://vk.com/fmmgg"
