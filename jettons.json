@@ -93,6 +93,20 @@
   ]
  },
  {
+  "address": "0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d",
+  "description": "This token gives you the opportunity to be a member of Fragment Chat! @fragmentChat (https://t.me/fragmentChat)",
+  "image": "https://telegra.ph/file/bad554fa5f363e61926c2.jpg",
+  "max_supply": 700000000,
+  "name": "FRAGMENT",
+  "social": [
+   "https://t.me/fragmentChat"
+  ],
+  "symbol": "FRG",
+  "websites": [
+   "https://ton.app/chats/frgchat"
+  ]
+ },
+ {
   "address": "EQD9fy6aOSYN5RCQTWshN7hj83ktvmjmIOV1mu4dDq2QdqWb",
   "description": "FST is the currency of the FASTMM esports platform.",
   "image": "https://fastmm.win/fst-mint-logo.jpg",

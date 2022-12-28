@@ -48,6 +48,7 @@ Name           | Address
 [Donation](https://tonapi.io/jetton/0:c47099533c1ca6cd4a8e275e50478e2f2253c81e1b16965ac869f5a93dd7878a) | EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR
 [ELKITON](https://tonapi.io/jetton/0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224) | EQAzMmZWo2yo4ybPUMvIgfFQ3a53f4WUTjf2-LE7oJxCJHnO
 [FASTMM](https://tonapi.io/jetton/0:fd7f2e9a39260de510904d6b2137b863f3792dbe68e620e5759aee1d0ead9076) | EQD9fy6aOSYN5RCQTWshN7hj83ktvmjmIOV1mu4dDq2QdqWb
+[FRAGMENT](https://tonapi.io/jetton/0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d) | EQBR4LP9z2jr8mRi5Tzqq2wCLMtBsL7P46dntT_2FAqGfS7u
 [Fanzee Token](https://tonapi.io/jetton/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
 [Grabscape game token](https://tonapi.io/jetton/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
 [HEDGE coin](https://tonapi.io/jetton/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
