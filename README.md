@@ -55,7 +55,10 @@ Name           | Address
 [Huebel Bolt](https://tonapi.io/jetton/0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e) | EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw
 [Lavandos](https://tonapi.io/jetton/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [Mars](https://tonapi.io/jetton/0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb) | EQCZFOynaSK2D4TqSqcf0Dhaq4ofCCVi_f-z8fX-KqVdy-qw
+[Orbit Bridge Ton Dai](https://tonapi.io/jetton/0:005f01f471a8cfb0c17e9cd0b9933f9268b69e683af833b4357e85703ffbce5b) | EQAAXwH0cajPsMF-nNC5kz-SaLaeaDr4M7Q1foVwP_vOW1tR
 [Orbit Bridge Ton Ethereum](https://tonapi.io/jetton/0:16e361eeb720de9bdf017b57f6ecfa17a1b82187cd6e99343e70681a2959912d) | EQAW42HutyDem98Be1f27PoXobghh81umTQ-cGgaKVmRLS7-
+[Orbit Bridge Ton USD Coin](https://tonapi.io/jetton/0:bad48411974fe56bde6ddbbc612298f166ddf6be5d504151765204cdbaf0f5f1) | EQC61IQRl0_la95t27xhIpjxZt32vl1QQVF2UgTNuvD18W-4
+[Orbit Bridge Ton USD Tether](https://tonapi.io/jetton/0:bfd58a0cf11062c4df79973ee875c17756b91cfcdf0d7bb8108bb01bb657adfc) | EQC_1YoM8RBixN95lz7odcF3Vrkc_N8Ne7gQi7Abtlet_Efi
 [Ore Pack](https://tonapi.io/jetton/0:55479f0e0fdedf4a9fe13c1ae4bf869f9a25052e8460ebac75e681fc93ce6e74) | EQBVR58OD97fSp_hPBrkv4afmiUFLoRg66x15oH8k85udAGm
 [Pioneer](https://tonapi.io/jetton/0:fc46cab89e8f5c610c764e0d30a7d602adc38db97e62a3cb0d669b5bbc10888d) | EQD8Rsq4no9cYQx2Tg0wp9YCrcONuX5io8sNZptbvBCIjUUl
 [Power Charges Pack](https://tonapi.io/jetton/0:8285177f4665d4e37dba1211b2eb6a91cc062e43559ac2374ab88270c1f6efc4) | EQCChRd_RmXU4326EhGy62qRzAYuQ1WawjdKuIJwwfbvxBBe

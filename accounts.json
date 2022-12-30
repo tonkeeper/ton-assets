@@ -68,8 +68,20 @@
   "name": "Mars"
  },
  {
+  "address": "0:005f01f471a8cfb0c17e9cd0b9933f9268b69e683af833b4357e85703ffbce5b",
+  "name": "Orbit Bridge Ton Dai"
+ },
+ {
   "address": "0:16e361eeb720de9bdf017b57f6ecfa17a1b82187cd6e99343e70681a2959912d",
   "name": "Orbit Bridge Ton Ethereum"
+ },
+ {
+  "address": "0:bad48411974fe56bde6ddbbc612298f166ddf6be5d504151765204cdbaf0f5f1",
+  "name": "Orbit Bridge Ton USD Coin"
+ },
+ {
+  "address": "0:bfd58a0cf11062c4df79973ee875c17756b91cfcdf0d7bb8108bb01bb657adfc",
+  "name": "Orbit Bridge Ton USD Tether"
  },
  {
   "address": "0:55479f0e0fdedf4a9fe13c1ae4bf869f9a25052e8460ebac75e681fc93ce6e74",
