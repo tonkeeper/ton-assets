@@ -11,7 +11,13 @@ EXPLORER_COLLECTIONS = "https://tonscan.org/nft/"
 
 
 def merge_jettons():
-    jettons = [yaml.safe_load(open(file)) for file in sorted(glob.glob("jettons/*.yaml"))]
+    temp = [yaml.safe_load(open(file)) for file in sorted(glob.glob("jettons/*.yaml"))]
+    jettons = []
+    for j in temp:
+        if isinstance(j, list):
+            jettons.extend(j)
+        else:
+            jettons.append(j)
     with open('jettons.json', 'w') as out:
         json.dump(jettons, out, indent=" ", sort_keys=True)
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in jettons])

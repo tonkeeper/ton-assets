@@ -1,0 +1,12 @@
+- address: "0:005f01f471a8cfb0c17e9cd0b9933f9268b69e683af833b4357e85703ffbce5b"
+  name: Orbit Bridge Ton Dai
+  symbol: oDAI
+- address: "0:16e361eeb720de9bdf017b57f6ecfa17a1b82187cd6e99343e70681a2959912d"
+  name: Orbit Bridge Ton Ethereum
+  symbol: oETH
+- address: "0:bad48411974fe56bde6ddbbc612298f166ddf6be5d504151765204cdbaf0f5f1"
+  name: Orbit Bridge Ton USD Coin
+  symbol: oUSDC
+- address: "0:bfd58a0cf11062c4df79973ee875c17756b91cfcdf0d7bb8108bb01bb657adfc"
+  name: Orbit Bridge Ton USD Tether
+  symbol: oUSDT
