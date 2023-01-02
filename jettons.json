@@ -1,5 +1,16 @@
 [
  {
+  "address": "0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965",
+  "description": "Audiatur et altera pars. Universal Altcoin on Ton. @teneretoken . chat: @tenerechat",
+  "max_supply": 210000000,
+  "name": "Tenere",
+  "social": [
+   "https://t.me/teneretoken",
+   "https://t.me/tenerechat"
+  ],
+  "symbol": "Tnr"
+ },
+ {
   "address": "0:f9c0e473060126580433f078f391574e7c6a02e2216e1c27634c19f23677d2ae",
   "name": "Alex Ross",
   "symbol": "AROS"

@@ -122,6 +122,7 @@ Name           | Address
 [TON Island Coin](https://tonapi.io/jetton/0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b) | EQBXHCDdBA6Vgd2zi-yRpFk8m04vn3ROWYU9GRZfpvrim1M5
 [TON Svet](https://tonapi.io/jetton/0:2091ce587c00351dcef941771926b2f5e65dcb5e842bd0268ae2ca9ca474455c) | EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh
 [Tegro](https://tonapi.io/jetton/0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a) | EQAvDfWFG0oYX19jwNDNBBL1rKNT9XfaGP9HyTb5nb2Eml6y
+[Tenere](https://tonapi.io/jetton/0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965) | EQCPmOnkTe8qP_ZtCf3Rys04ukRTiQc_xVS-lGQ6BH3JZWmC
 [Ton Earth coin](https://tonapi.io/jetton/0:301ff3049a811b0ff00651d9e85b0a6f48171cb71fe36c30ae07467c7576eb01) | EQAwH_MEmoEbD_AGUdnoWwpvSBcctx_jbDCuB0Z8dXbrAdxy
 [TonexCoin](https://tonapi.io/jetton/0:7e6a33328b9f9628880e1e76ce180a5f7245066e5ead0e4dd0b7c3ca99bfb12c) | EQB-ajMyi5-WKIgOHnbOGApfckUGbl6tDk3Qt8PKmb-xLAvp
 [Turquoise board](https://tonapi.io/jetton/0:920a0719c7c6deb48f7916b64519351ab55eb289bb5fc12f69d6aebba1e312d0) | EQCSCgcZx8betI95FrZFGTUatV6yibtfwS9p1q67oeMS0ER5
