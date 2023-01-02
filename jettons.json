@@ -315,6 +315,19 @@
   "name": "Turquoise pixel"
  },
  {
+  "address": "0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a",
+  "description": "Crypto exchanger token Wallet Exchanger, based on the blockchain The Open Network",
+  "max_supply": 1000000,
+  "name": "Wallet Exchanger",
+  "social": [
+   "https://t.me/WalletExplorerNews"
+  ],
+  "symbol": "WEX",
+  "websites": [
+   "https://t.me/WalletExplorerBot"
+  ]
+ },
+ {
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"

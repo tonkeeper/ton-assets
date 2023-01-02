@@ -127,6 +127,7 @@ Name           | Address
 [Turquoise board](https://tonapi.io/jetton/0:920a0719c7c6deb48f7916b64519351ab55eb289bb5fc12f69d6aebba1e312d0) | EQCSCgcZx8betI95FrZFGTUatV6yibtfwS9p1q67oeMS0ER5
 [Turquoise pixel](https://tonapi.io/jetton/0:3388393e83180fce362be5c2647f20f2699acbee37d8d25eda62cc88d8a76887) | EQAziDk-gxgPzjYr5cJkfyDyaZrL7jfY0l7aYsyI2Kdoh-nW
 [WTON](https://tonapi.io/jetton/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
+[Wallet Exchanger](https://tonapi.io/jetton/0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a) | EQBtUKPbhABPYtltiKWA547s4ZhJ5wZHvVV1eyfV7sEyGs2J
 [Zeya's Winter Map](https://tonapi.io/jetton/0:c594d158431e4a6b6f2898afd43e62a2467720d2f331240084af3761a9e0a072) | EQDFlNFYQx5Ka28omK_UPmKiRncg0vMxJACErzdhqeCgcpTP
 
 
