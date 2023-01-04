@@ -57,6 +57,7 @@ Name           | Address
 [Green Spaceship](https://tonapi.io/jetton/0:4d4188b639dcbc9f0e17554165653d9fe03675e54a6b419f088ead3d6662dba6) | EQBNQYi2Ody8nw4XVUFlZT2f4DZ15UprQZ8Ijq09ZmLbpqkR
 [HEDGE coin](https://tonapi.io/jetton/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
 [Huebel Bolt](https://tonapi.io/jetton/0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e) | EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw
+[KISS Coin](https://tonapi.io/jetton/0:04f2c01bbf132822b376b40b8e7b8bc8e47e098671c8fb39f6568472f9a807ec) | EQAE8sAbvxMoIrN2tAuOe4vI5H4JhnHI-zn2VoRy-agH7BCn
 [Knight pixel](https://tonapi.io/jetton/0:3ddb93329c38f87797ceea7fc24d1f4da800d4a3465e4622d12b7b583630757e) | EQA925MynDj4d5fO6n_CTR9NqADUo0ZeRiLRK3tYNjB1fhMN
 [Lavandos](https://tonapi.io/jetton/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [Magenta boards](https://tonapi.io/jetton/0:e09f1cec8b6ca5dcfe74bfd725d0f233b935ed9b662c5529f6ba0c034650495a) | EQDgnxzsi2yl3P50v9cl0PIzuTXtm2YsVSn2ugwDRlBJWlDu
