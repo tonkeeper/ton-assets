@@ -71,6 +71,22 @@
   ]
  },
  {
+  "address": "0:3a4d2191094e3a33d4601efa51bb52dc5baa354516e162b7706955385f8144a7",
+  "description": "Token created by @FragmentCheckerBot team. This token can be used for discounts when purchasing premium access or when joining to a private community and more. Our channels: @FragmentChecker and @FragmentCheckerRu",
+  "image": "https://ton.beycoder.ru/token-logo.png",
+  "max_supply": 300000,
+  "name": "FragmentChecker",
+  "social": [
+   "https://t.me/FragmentCheckerBot",
+   "https://t.me/FragmentCheckerRu",
+   "https://t.me/FragmentChecker"
+  ],
+  "symbol": "FCK",
+  "websites": [
+   "https://ton.app/utilities/fragment-checker-bot"
+  ]
+ },
+ {
   "address": "0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d",
   "description": "This token gives you the opportunity to be a member of Fragment Chat! @fragmentChat (https://t.me/fragmentChat)",
   "image": "https://telegra.ph/file/bad554fa5f363e61926c2.jpg",
