@@ -122,6 +122,19 @@
   "symbol": "KISS"
  },
  {
+  "address": "0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04",
+  "description": "Kote Coin. It's the only one.",
+  "name": "Kote Coin",
+  "social": [
+   "https://t.me/KoteCoin",
+   "https://t.me/KoteCoinRU"
+  ],
+  "symbol": "KOTE",
+  "websites": [
+   "https://kotecoin.com/"
+  ]
+ },
+ {
   "address": "0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751",
   "description": "This is a universal token for use in all areas of the decentralized Internet in the TON blockchain, web3, Telegram channels, TON sites, Tonkeeper. Issue of 5 billion coins. Telegram channels: Englishversion: @lave_eng \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f: @lavetoken versi\u00f3n en espa\u00f1ol: @lave_esp ICO: @laveicobot Number of holders over 1500",
   "max_supply": 5000000000,
