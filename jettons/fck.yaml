@@ -1,0 +1,12 @@
+name: "FragmentChecker",
+address: 0:3a4d2191094e3a33d4601efa51bb52dc5baa354516e162b7706955385f8144a7,
+description: "Token created by @FragmentCheckerBot team. This token can be used for discounts when purchasing premium access or when joining to a private community and more. Our channels: @FragmentChecker and @FragmentCheckerRu",
+max_supply: 300000
+image: "https://ton.beycoder.ru/token-logo.png",
+symbol: "FCK",
+websites:
+  - "https://ton.app/utilities/fragment-checker-bot"
+social:
+  - "https://t.me/FragmentCheckerBot"
+  - "https://t.me/FragmentCheckerRu"
+  - "https://t.me/FragmentChecker"
