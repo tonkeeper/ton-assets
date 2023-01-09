@@ -246,6 +246,15 @@
   "symbol": "SNEG"
  },
  {
+  "address": "0:e506a188dabe388e99e161f12225a854f1bed9a28de7a35de5e90f47f802096c",
+  "description": "The one and only super best cool nice unbelievable and amazing crypto token in the world. All holder are literally gods.",
+  "name": "SantaCoin",
+  "social": [
+   "https://vk.com/vkcoinswap"
+  ],
+  "symbol": "SNT"
+ },
+ {
   "address": "0:2091ce587c00351dcef941771926b2f5e65dcb5e842bd0268ae2ca9ca474455c",
   "name": "TON Svet",
   "symbol": "Svet"

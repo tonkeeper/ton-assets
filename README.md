@@ -96,6 +96,7 @@ Name           | Address
 [Queen pixel](https://tonapi.io/jetton/0:2030a934fe4a59e3a78ebd194dc873cda0f39bf3e7fe18858491a6035c2ef26f) | EQAgMKk0_kpZ46eOvRlNyHPNoPOb8-f-GIWEkaYDXC7ybx_5
 [Red Coin](https://tonapi.io/jetton/0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa) | EQDAgy1xcNg0aFle548miasSdLCkL1nDeqSLP7Pua4wq-iTo
 [Rook pixel](https://tonapi.io/jetton/0:55e45d58d9cc624c97d72f05e03a686abcecfdec6067b0981784c12139f8cf1d) | EQBV5F1Y2cxiTJfXLwXgOmhqvOz97GBnsJgXhMEhOfjPHQ74
+[SantaCoin](https://tonapi.io/jetton/0:e506a188dabe388e99e161f12225a854f1bed9a28de7a35de5e90f47f802096c) | EQDlBqGI2r44jpnhYfEiJahU8b7Zoo3no13l6Q9H-AIJbAgo
 [Scaleton](https://tonapi.io/jetton/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
 [Siberian TON](https://tonapi.io/jetton/0:e976693d0f20fc275c3c719579478d752a2dfcb779fec235eb908043ffe18367) | EQDpdmk9DyD8J1w8cZV5R411Ki38t3n-wjXrkIBD_-GDZ89a
 [Skyblue pixel](https://tonapi.io/jetton/0:8d98b20f3b5a61efc1f747354289548f926341fbcd52cea3c85da7e1f5571dbb) | EQCNmLIPO1ph78H3RzVCiVSPkmNB-81SzqPIXafh9Vcdu-Wu
