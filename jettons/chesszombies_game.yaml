@@ -1,0 +1,40 @@
+- name: Zombie King Mage
+  address: 0:0ba49170f8c1e9dab178d42c79d4e6d5d1fc98a7b36c5e928599866b9e57384e
+- name: Zombie Queen Archer
+  address: 0:152df55bddf1d27d45ad9ccdfe91dbacd50f7f0e9d8abb980e69364e23d57a49
+- name: Zombie Rook Warrior
+  address: 0:4bd3e6bd8f6802f3e66ce7f3537a6e5e5054e6caa0faa8f465aa46654e02b487
+- name: Zombie Rook Archer
+  address: 0:48c7ccab703e2231a4685472dffafca372443fa07c5399083198d7ee9f64cfbf
+- name: Zombie Bishop Warrior
+  address: 0:1529686c3278a0404346997960dce45f9fbcd2aa87739552009d1c93df6b6173
+- name: Zombie Bishop Mage
+  address: 0:340bfaa346063f21a0335e741964ddd5f0a790b59f48e0d3248c02b25a1d69e3
+- name: Zombie Knight Warrior
+  address: 0:ac935e36aac73e757b0443865ddc1a0bbed3e850851fd8e5fb58766ec7f1d32f
+- name: Zombie Pawn Warrior
+  address: 0:ae4da6a780a5c9603e63dfb1025e424855ca24ec7099810539cd1a33e4a8b9dc
+- name: Zombie Pawn Archer
+  address: 0:067ad08689d27945110646f5971a939815f1642adbc083aebb646504e5421c0a
+- name: Zombie Pawn Mage
+  address: 0:72196be2855bd8d806abf2308b15edb457b567a1e801d40080e5037cab05f6eb
+- name: Elven King Mage
+  address: 0:e3fef943b741dbe2f35f80fbaa90be0b40751770555ea26702f1104026a21845
+- name: Elven Queen Archer
+  address: 0:b5f2a91b21fad636b83c03aa15862c146517016fad0adabc5331a6407649f1ce
+- name: Elven Rook Warrior
+  address: 0:c7aa95b28b880bffccf107579e516d55cf7155da499022c2fc1aea55f4ca9401
+- name: Elven Rook Archer
+  address: 0:b436103f951f8ca9315727bfac2b54ca3f6bc6401f8a8d7d8f2b5ab4d5394913
+- name: Elven Bishop Warrior
+  address: 0:a01f045d408e0ebba447d7bfe5c0cac3204cf3d4eeef8eed3cca350757772275
+- name: Elven Bishop Mage
+  address: 0:fd9ff0353132c671fc26d2034055d28b88359ace3d297bf73e27ddcb16ec152c
+- name: Elven Knight Warrior
+  address: 0:1b27a5370e0f40129da2d5a6dcbbc29afb569a670ec1908fefda11d471e7eabd
+- name: Elven Pawn Warrior
+  address: 0:84248553a8b172150857260aa85d198bd93d54ab50f883d2f2d2eaa329d757d7
+- name: Elven Pawn Archer
+  address: 0:856245191df69878ff0c5faaee53c595f1fd7fc77d75c8b01238643a0fe6742a
+- name: Elven Pawn Mage
+  address: 0:e68926dc8ddac3ac558d86777af7411390fa6f05a1be90f1c1c0d7fb108dc4ae
