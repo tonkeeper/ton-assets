@@ -50,6 +50,16 @@ Name           | Address
 [Crystals Pack](https://tonapi.io/jetton/0:f3ca8c7f043c9509df61f7d6d8653e489850045d36b771b6953fa2e408f7bede) | EQDzyox_BDyVCd9h99bYZT5ImFAEXTa3cbaVP6LkCPe-3lnq
 [Donation](https://tonapi.io/jetton/0:c47099533c1ca6cd4a8e275e50478e2f2253c81e1b16965ac869f5a93dd7878a) | EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR
 [ELKITON](https://tonapi.io/jetton/0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224) | EQAzMmZWo2yo4ybPUMvIgfFQ3a53f4WUTjf2-LE7oJxCJHnO
+[Elven Bishop Mage](https://tonapi.io/jetton/0:fd9ff0353132c671fc26d2034055d28b88359ace3d297bf73e27ddcb16ec152c) | EQD9n_A1MTLGcfwm0gNAVdKLiDWazj0pe_c-J93LFuwVLMiW
+[Elven Bishop Warrior](https://tonapi.io/jetton/0:a01f045d408e0ebba447d7bfe5c0cac3204cf3d4eeef8eed3cca350757772275) | EQCgHwRdQI4Ou6RH17_lwMrDIEzz1O7vju08yjUHV3cidehH
+[Elven King Mage](https://tonapi.io/jetton/0:e3fef943b741dbe2f35f80fbaa90be0b40751770555ea26702f1104026a21845) | EQDj_vlDt0Hb4vNfgPuqkL4LQHUXcFVeomcC8RBAJqIYRf5l
+[Elven Knight Warrior](https://tonapi.io/jetton/0:1b27a5370e0f40129da2d5a6dcbbc29afb569a670ec1908fefda11d471e7eabd) | EQAbJ6U3Dg9AEp2i1abcu8Ka-1aaZw7BkI_v2hHUcefqvUhp
+[Elven Pawn Archer](https://tonapi.io/jetton/0:856245191df69878ff0c5faaee53c595f1fd7fc77d75c8b01238643a0fe6742a) | EQCFYkUZHfaYeP8MX6ruU8WV8f1_x311yLASOGQ6D-Z0Kv4a
+[Elven Pawn Mage](https://tonapi.io/jetton/0:e68926dc8ddac3ac558d86777af7411390fa6f05a1be90f1c1c0d7fb108dc4ae) | EQDmiSbcjdrDrFWNhnd690ETkPpvBaG-kPHBwNf7EI3ErrXB
+[Elven Pawn Warrior](https://tonapi.io/jetton/0:84248553a8b172150857260aa85d198bd93d54ab50f883d2f2d2eaa329d757d7) | EQCEJIVTqLFyFQhXJgqoXRmL2T1Uq1D4g9Ly0uqjKddX1y6G
+[Elven Queen Archer](https://tonapi.io/jetton/0:b5f2a91b21fad636b83c03aa15862c146517016fad0adabc5331a6407649f1ce) | EQC18qkbIfrWNrg8A6oVhiwUZRcBb60K2rxTMaZAdknxzoNw
+[Elven Rook Archer](https://tonapi.io/jetton/0:b436103f951f8ca9315727bfac2b54ca3f6bc6401f8a8d7d8f2b5ab4d5394913) | EQC0NhA_lR-MqTFXJ7-sK1TKP2vGQB-KjX2PK1q01TlJE-Xw
+[Elven Rook Warrior](https://tonapi.io/jetton/0:c7aa95b28b880bffccf107579e516d55cf7155da499022c2fc1aea55f4ca9401) | EQDHqpWyi4gL_8zxB1eeUW1Vz3FV2kmQIsL8GupV9MqUARBd
 [FASTMM](https://tonapi.io/jetton/0:fd7f2e9a39260de510904d6b2137b863f3792dbe68e620e5759aee1d0ead9076) | EQD9fy6aOSYN5RCQTWshN7hj83ktvmjmIOV1mu4dDq2QdqWb
 [FRAGMENT](https://tonapi.io/jetton/0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d) | EQBR4LP9z2jr8mRi5Tzqq2wCLMtBsL7P46dntT_2FAqGfS7u
 [Fanzee Token](https://tonapi.io/jetton/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
@@ -133,6 +143,16 @@ Name           | Address
 [WTON](https://tonapi.io/jetton/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
 [Wallet Exchanger](https://tonapi.io/jetton/0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a) | EQBtUKPbhABPYtltiKWA547s4ZhJ5wZHvVV1eyfV7sEyGs2J
 [Zeya's Winter Map](https://tonapi.io/jetton/0:c594d158431e4a6b6f2898afd43e62a2467720d2f331240084af3761a9e0a072) | EQDFlNFYQx5Ka28omK_UPmKiRncg0vMxJACErzdhqeCgcpTP
+[Zombie Bishop Mage](https://tonapi.io/jetton/0:340bfaa346063f21a0335e741964ddd5f0a790b59f48e0d3248c02b25a1d69e3) | EQA0C_qjRgY_IaAzXnQZZN3V8KeQtZ9I4NMkjAKyWh1p44l_
+[Zombie Bishop Warrior](https://tonapi.io/jetton/0:1529686c3278a0404346997960dce45f9fbcd2aa87739552009d1c93df6b6173) | EQAVKWhsMnigQENGmXlg3ORfn7zSqodzlVIAnRyT32thc5dk
+[Zombie King Mage](https://tonapi.io/jetton/0:0ba49170f8c1e9dab178d42c79d4e6d5d1fc98a7b36c5e928599866b9e57384e) | EQALpJFw-MHp2rF41Cx51ObV0fyYp7NsXpKFmYZrnlc4ThwF
+[Zombie Knight Warrior](https://tonapi.io/jetton/0:ac935e36aac73e757b0443865ddc1a0bbed3e850851fd8e5fb58766ec7f1d32f) | EQCsk142qsc-dXsEQ4Zd3BoLvtPoUIUf2OX7WHZux_HTLxI9
+[Zombie Pawn Archer](https://tonapi.io/jetton/0:067ad08689d27945110646f5971a939815f1642adbc083aebb646504e5421c0a) | EQAGetCGidJ5RREGRvWXGpOYFfFkKtvAg667ZGUE5UIcCiFl
+[Zombie Pawn Mage](https://tonapi.io/jetton/0:72196be2855bd8d806abf2308b15edb457b567a1e801d40080e5037cab05f6eb) | EQByGWvihVvY2Aar8jCLFe20V7VnoegB1ACA5QN8qwX262CO
+[Zombie Pawn Warrior](https://tonapi.io/jetton/0:ae4da6a780a5c9603e63dfb1025e424855ca24ec7099810539cd1a33e4a8b9dc) | EQCuTaangKXJYD5j37ECXkJIVcok7HCZgQU5zRoz5Ki53GIg
+[Zombie Queen Archer](https://tonapi.io/jetton/0:152df55bddf1d27d45ad9ccdfe91dbacd50f7f0e9d8abb980e69364e23d57a49) | EQAVLfVb3fHSfUWtnM3-kdus1Q9_Dp2Ku5gOaTZOI9V6SRNj
+[Zombie Rook Archer](https://tonapi.io/jetton/0:48c7ccab703e2231a4685472dffafca372443fa07c5399083198d7ee9f64cfbf) | EQBIx8yrcD4iMaRoVHLf-vyjckQ_oHxTmQgxmNfun2TPv6_q
+[Zombie Rook Warrior](https://tonapi.io/jetton/0:4bd3e6bd8f6802f3e66ce7f3537a6e5e5054e6caa0faa8f465aa46654e02b487) | EQBL0-a9j2gC8-Zs5_NTem5eUFTmyqD6qPRlqkZlTgK0h8yM
 
 
 ## Structure
