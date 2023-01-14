@@ -1,0 +1,8 @@
+name: Love You
+description: Love Coin Base for Ton blockchain
+address: 0:d1f1d10a08f784930a59066534640a30a1288f9923e107de82153e6011e9de73
+symbol: LOVE
+decimals: 9
+max_supply: 10000000000
+social:
+  - https://t.me/LoveYouCoin
