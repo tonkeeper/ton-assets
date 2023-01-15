@@ -313,6 +313,16 @@
   ]
  },
  {
+  "address": "0:c70bb7980ace53aba60315dfd4863f7ef75fa4a6fe3c126c71a1cc2beca5d104",
+  "description": "The best pterodactyls on the TON network",
+  "max_supply": 700000,
+  "name": "Pterodactyls",
+  "social": [
+   "https://t.me/TONsaurs"
+  ],
+  "symbol": "PTERO"
+ },
+ {
   "address": "0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa",
   "description": "Red company Coin on the Legendary Blockchain.",
   "name": "Red Coin",

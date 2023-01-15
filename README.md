@@ -104,6 +104,7 @@ Name           | Address
 [Power Station Uncommon lvl 2](https://tonapi.io/jetton/0:4dd38b02c2e30ef276d6b8226caffd3672475aca7c67417e8253ef84f5ec9363) | EQBN04sCwuMO8nbWuCJsr_02ckdaynxnQX6CU--E9eyTY0pj
 [Power Station Uncommon lvl 3](https://tonapi.io/jetton/0:4b9d005f4f19bbdb0eeb52639400fbf6261a0c78dfee72c665b0890f64d0a4a4) | EQBLnQBfTxm72w7rUmOUAPv2JhoMeN_ucsZlsIkPZNCkpBQJ
 [Premium Pack](https://tonapi.io/jetton/0:5da15307345b3357d883fef91f27f1fe42f25cd88bf68a48ac633ccf94296dfa) | EQBdoVMHNFszV9iD_vkfJ_H-QvJc2Iv2ikisYzzPlClt-gNm
+[Pterodactyls](https://tonapi.io/jetton/0:c70bb7980ace53aba60315dfd4863f7ef75fa4a6fe3c126c71a1cc2beca5d104) | EQDHC7eYCs5Tq6YDFd_Uhj9-91-kpv48Emxxocwr7KXRBEiv
 [Purple pixel](https://tonapi.io/jetton/0:dd9612b15b50df1cdcffe869e15adc4136fbc134bf2491d6c4f9b5628b996126) | EQDdlhKxW1DfHNz_6GnhWtxBNvvBNL8kkdbE-bVii5lhJtp5
 [Queen pixel](https://tonapi.io/jetton/0:2030a934fe4a59e3a78ebd194dc873cda0f39bf3e7fe18858491a6035c2ef26f) | EQAgMKk0_kpZ46eOvRlNyHPNoPOb8-f-GIWEkaYDXC7ybx_5
 [Red Coin](https://tonapi.io/jetton/0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa) | EQDAgy1xcNg0aFle548miasSdLCkL1nDeqSLP7Pua4wq-iTo
