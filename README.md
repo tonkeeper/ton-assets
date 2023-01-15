@@ -74,7 +74,6 @@ Name           | Address
 [Kote Coin](https://tonapi.io/jetton/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
 [Lavandos](https://tonapi.io/jetton/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [Love You](https://tonapi.io/jetton/0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4) | EQAS2elYb6_hqWyOl7gpuYTzf1sqmjLJQ0lQ4X_4d_MvtMWR
-[MANUL](https://tonapi.io/jetton/0:2ec2f3d2f37be9e595cb21c5bdc9cbd409e2b108d72886b8d1715ac0311b9b57) | EQAuwvPS83vp5ZXLIcW9ycvUCeKxCNcohrjRcVrAMRubV89l
 [Magenta boards](https://tonapi.io/jetton/0:e09f1cec8b6ca5dcfe74bfd725d0f233b935ed9b662c5529f6ba0c034650495a) | EQDgnxzsi2yl3P50v9cl0PIzuTXtm2YsVSn2ugwDRlBJWlDu
 [Mars](https://tonapi.io/jetton/0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb) | EQCZFOynaSK2D4TqSqcf0Dhaq4ofCCVi_f-z8fX-KqVdy-qw
 [Niagara board](https://tonapi.io/jetton/0:b9c7b0913d6c176de579feda198aa0fcc0e300ece5430741299a9d0d186b4a72) | EQC5x7CRPWwXbeV5_toZiqD8wOMA7OVDB0Epmp0NGGtKckFH

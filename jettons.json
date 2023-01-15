@@ -260,18 +260,6 @@
   "symbol": "LAVE"
  },
  {
-  "address": "0:2ec2f3d2f37be9e595cb21c5bdc9cbd409e2b108d72886b8d1715ac0311b9b57",
-  "description": "Manul wakes up. Stay tuned and follow.   Based on TON.",
-  "image": "https://raw.githubusercontent.com/manulcoin/logo/main/manul.jpg",
-  "max_supply": 3000000,
-  "name": "MANUL",
-  "social": [
-   "https://t.me/@Manulcoins",
-   "https://t.me/manulcoinschat"
-  ],
-  "symbol": "MANUL"
- },
- {
   "address": "0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/mars/mars_logo.png",
