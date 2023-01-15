@@ -60,6 +60,7 @@ Name           | Address
 [Elven Queen Archer](https://tonapi.io/jetton/0:b5f2a91b21fad636b83c03aa15862c146517016fad0adabc5331a6407649f1ce) | EQC18qkbIfrWNrg8A6oVhiwUZRcBb60K2rxTMaZAdknxzoNw
 [Elven Rook Archer](https://tonapi.io/jetton/0:b436103f951f8ca9315727bfac2b54ca3f6bc6401f8a8d7d8f2b5ab4d5394913) | EQC0NhA_lR-MqTFXJ7-sK1TKP2vGQB-KjX2PK1q01TlJE-Xw
 [Elven Rook Warrior](https://tonapi.io/jetton/0:c7aa95b28b880bffccf107579e516d55cf7155da499022c2fc1aea55f4ca9401) | EQDHqpWyi4gL_8zxB1eeUW1Vz3FV2kmQIsL8GupV9MqUARBd
+[Energy Cells](https://tonapi.io/jetton/0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a) | EQDA6v7olSvZCEr2yNhUlM4eBnRF11lsHLrtkkh7MSMICt4r
 [FASTMM](https://tonapi.io/jetton/0:fd7f2e9a39260de510904d6b2137b863f3792dbe68e620e5759aee1d0ead9076) | EQD9fy6aOSYN5RCQTWshN7hj83ktvmjmIOV1mu4dDq2QdqWb
 [FRAGMENT](https://tonapi.io/jetton/0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d) | EQBR4LP9z2jr8mRi5Tzqq2wCLMtBsL7P46dntT_2FAqGfS7u
 [Fanzee Token](https://tonapi.io/jetton/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86

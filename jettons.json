@@ -136,6 +136,11 @@
   "symbol": "DON"
  },
  {
+  "address": "0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a",
+  "name": "Energy Cells",
+  "symbol": "ENRG"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "max_supply": 2100000000,
