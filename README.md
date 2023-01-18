@@ -73,6 +73,27 @@ Name           | Address
 [KISS Coin](https://tonapi.io/jetton/0:04f2c01bbf132822b376b40b8e7b8bc8e47e098671c8fb39f6568472f9a807ec) | EQAE8sAbvxMoIrN2tAuOe4vI5H4JhnHI-zn2VoRy-agH7BCn
 [Knight pixel](https://tonapi.io/jetton/0:3ddb93329c38f87797ceea7fc24d1f4da800d4a3465e4622d12b7b583630757e) | EQA925MynDj4d5fO6n_CTR9NqADUo0ZeRiLRK3tYNjB1fhMN
 [Kote Coin](https://tonapi.io/jetton/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
+[LP Token for AMBR-oUSDC](https://tonapi.io/jetton/0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97) | EQA_hgEAWEXpuJr_56E1mcjHrDluiE_LkpV4Rr6BhILMl9an
+[LP Token for BOLT-WTON](https://tonapi.io/jetton/0:4cb7638015bf33e782273f9649b0273110ea151dd48b817b830057ed3b8756d1) | EQBMt2OAFb8z54InP5ZJsCcxEOoVHdSLgXuDAFftO4dW0bUk
+[LP Token for FNZ-AMBR](https://tonapi.io/jetton/0:233e7bb3b9ec79c7b2ce227047a2c406460943d7662ddd7090a85ce17e81b032) | EQAjPnuzuex5x7LOInBHosQGRglD12Yt3XCQqFzhfoGwMtud
+[LP Token for FNZ-WTON](https://tonapi.io/jetton/0:b904f18b6168b5356999a8d0e2adcacdaa88978a5e965073cb2e027d4c4834be) | EQC5BPGLYWi1NWmZqNDircrNqoiXil6WUHPLLgJ9TEg0vptS
+[LP Token for FNZ-oUSDC](https://tonapi.io/jetton/0:60aae4b8c84b5bde1c8abece145246a9ff86d77ccd9375341ef9432a0edd458a) | EQBgquS4yEtb3hyKvs4UUkap_4bXfM2TdTQe-UMqDt1Fikf3
+[LP Token for TGR-WTON](https://tonapi.io/jetton/0:e2e03c28022f72d12a5686c17a552c6ca4ad34ae157c4fe461e6eda537a8b8db) | EQDi4DwoAi9y0SpWhsF6VSxspK00rhV8T-Rh5u2lN6i4270L
+[LP Token for TGR-oETH](https://tonapi.io/jetton/0:5417d0151be1a2f1ae6c72c6b03ab923578fab25fff53aeff1249a45d3f41d62) | EQBUF9AVG-Gi8a5scsawOrkjV4-rJf_1Ou_xJJpF0_QdYvos
+[LP Token for TGR-oUSDC](https://tonapi.io/jetton/0:d34cd8d3a33e3473ac5574acecbf95f85d889fccbfa2c3777d72a0908b4be9da) | EQDTTNjToz40c6xVdKzsv5X4XYifzL-iw3d9cqCQi0vp2iIM
+[LP Token for TGR-oUSDT](https://tonapi.io/jetton/0:abf02bf3e218157485e1a381b13861e391520b43620aa2d180539f8cd7135c36) | EQCr8Cvz4hgVdIXho4GxOGHjkVILQ2IKotGAU5-M1xNcNvXL
+[LP Token for WTON-AMBR](https://tonapi.io/jetton/0:afe41587f4f404b99c567b9cacedd1381f5ff855ccdc112e0cf8291afa7f19f9) | EQCv5BWH9PQEuZxWe5ys7dE4H1_4VczcES4M-Cka-n8Z-Vnu
+[LP Token for WTON-FNZ](https://tonapi.io/jetton/0:e02d84194bc4a2c31a0a321dcdd6145fec4930b82324ae143576e4d60c3afbc3) | EQDgLYQZS8SiwxoKMh3N1hRf7EkwuCMkrhQ1duTWDDr7w4Y_
+[LP Token for WTON-oUSDC](https://tonapi.io/jetton/0:d5e6449fc822ffa80c910c888a3df01bb32748c00d0e22a9a1ce6583be1b21a9) | EQDV5kSfyCL_qAyRDIiKPfAbsydIwA0OIqmhzmWDvhshqb_K
+[LP Token for oETH-AMBR](https://tonapi.io/jetton/0:c942ee7bf6e238f9b0416d97448c50a9793c8697d386c4c6f081c471294a80b4) | EQDJQu579uI4-bBBbZdEjFCpeTyGl9OGxMbwgcRxKUqAtLKS
+[LP Token for oETH-FNZ](https://tonapi.io/jetton/0:f63c4e62515dfd0049d2ad3e717e2f0f5018bd3a10fd9467144ecbc0a1454a5a) | EQD2PE5iUV39AEnSrT5xfi8PUBi9OhD9lGcUTsvAoUVKWm1w
+[LP Token for oETH-WTON](https://tonapi.io/jetton/0:7b8383585bb617ca10e1ba57a9d7e41fa654b39fd1d061ec03dc8af656cb6256) | EQB7g4NYW7YXyhDhulep1-QfplSzn9HQYewD3Ir2VstiVsFM
+[LP Token for oETH-oUSDC](https://tonapi.io/jetton/0:31a95a81ef642fbe6ed10707dd75c7f0adcd353bfb494a5d4b574452d2e827b8) | EQAxqVqB72Qvvm7RBwfddcfwrc01O_tJSl1LV0RS0ugnuB_x
+[LP Token for oETH-oUSDT](https://tonapi.io/jetton/0:922b681fda087d31e58e65cc0d4de95a82ca64e943bd7fb45aefd9ec29ca29ff) | EQCSK2gf2gh9MeWOZcwNTelagspk6UO9f7Ra79nsKcop_9JE
+[LP Token for oUSDT-AMBR](https://tonapi.io/jetton/0:9803186a693b42be699cec194d470bfc7284becfdd9d3224a8feae9d65a28701) | EQCYAxhqaTtCvmmc7BlNRwv8coS-z92dMiSo_q6dZaKHAZNR
+[LP Token for oUSDT-FNZ](https://tonapi.io/jetton/0:14ab4d0fe47df659e27b5382cdbd5da61201125cfd986d6156b2fe2338282066) | EQAUq00P5H32WeJ7U4LNvV2mEgESXP2YbWFWsv4jOCggZnUv
+[LP Token for oUSDT-WTON](https://tonapi.io/jetton/0:29dd8c6a684d5687251e1dad3eecf1a38f15d974fcb8eddf3009d44f387c01f8) | EQAp3YxqaE1WhyUeHa0-7PGjjxXZdPy47d8wCdRPOHwB-Oaa
+[LP Token for oUSDT-oUSDC](https://tonapi.io/jetton/0:c35e262a8025e7d76d87b5e3745799cf573c6c69fb94cc39a45cf27d8beda2e9) | EQDDXiYqgCXn122HteN0V5nPVzxsafuUzDmkXPJ9i-2i6YKN
 [Lavandos](https://tonapi.io/jetton/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [Love You](https://tonapi.io/jetton/0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4) | EQAS2elYb6_hqWyOl7gpuYTzf1sqmjLJQ0lQ4X_4d_MvtMWR
 [Magenta boards](https://tonapi.io/jetton/0:e09f1cec8b6ca5dcfe74bfd725d0f233b935ed9b662c5529f6ba0c034650495a) | EQDgnxzsi2yl3P50v9cl0PIzuTXtm2YsVSn2ugwDRlBJWlDu
