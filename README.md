@@ -48,6 +48,7 @@ Name           | Address
 [Cerulean board](https://tonapi.io/jetton/0:ae94287a412bc6b3cc73fbb6c0d57eaebf7c24e8d24ac092313a55007137a2f9) | EQCulCh6QSvGs8xz-7bA1X6uv3wk6NJKwJIxOlUAcTei-cjj
 [Cock Fights Token](https://tonapi.io/jetton/0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58) | EQCm4EVrocp34JFelHYPGx_D4pKqQ-gS6_xFZQzIwwA-WElP
 [Crystals Pack](https://tonapi.io/jetton/0:f3ca8c7f043c9509df61f7d6d8653e489850045d36b771b6953fa2e408f7bede) | EQDzyox_BDyVCd9h99bYZT5ImFAEXTa3cbaVP6LkCPe-3lnq
+[DeDust.io JTON-BOLT LP](https://tonapi.io/jetton/0:f70ae1648b4f74f40ac34d2908399b49ec96ac9765a8aa5d9e8072fc7d52d596) | EQD3CuFki0909ArDTSkIOZtJ7Jasl2Woql2egHL8fVLVltYQ
 [Donation](https://tonapi.io/jetton/0:c47099533c1ca6cd4a8e275e50478e2f2253c81e1b16965ac869f5a93dd7878a) | EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR
 [ELKITON](https://tonapi.io/jetton/0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224) | EQAzMmZWo2yo4ybPUMvIgfFQ3a53f4WUTjf2-LE7oJxCJHnO
 [Elven Bishop Mage](https://tonapi.io/jetton/0:fd9ff0353132c671fc26d2034055d28b88359ace3d297bf73e27ddcb16ec152c) | EQD9n_A1MTLGcfwm0gNAVdKLiDWazj0pe_c-J93LFuwVLMiW
