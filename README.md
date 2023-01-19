@@ -103,6 +103,7 @@ Name           | Address
 [Orange Spaceship](https://tonapi.io/jetton/0:cc874046df94f3b743355b6b81a027c2fbf73459ca3ce0e8e24389720fd30d1c) | EQDMh0BG35Tzt0M1W2uBoCfC-_c0Wco84OjiQ4lyD9MNHMS3
 [Orbit Bridge Ton Dai](https://tonapi.io/jetton/0:005f01f471a8cfb0c17e9cd0b9933f9268b69e683af833b4357e85703ffbce5b) | EQAAXwH0cajPsMF-nNC5kz-SaLaeaDr4M7Q1foVwP_vOW1tR
 [Orbit Bridge Ton Ethereum](https://tonapi.io/jetton/0:16e361eeb720de9bdf017b57f6ecfa17a1b82187cd6e99343e70681a2959912d) | EQAW42HutyDem98Be1f27PoXobghh81umTQ-cGgaKVmRLS7-
+[Orbit Bridge Ton Orbs](https://tonapi.io/jetton/0:30af995c6d070b293020fd243e7692963506693b53069eb02ce776dfd6090a4d) | EQAwr5lcbQcLKTAg_SQ-dpKWNQZpO1MGnrAs53bf1gkKTVHx
 [Orbit Bridge Ton USD Coin](https://tonapi.io/jetton/0:bad48411974fe56bde6ddbbc612298f166ddf6be5d504151765204cdbaf0f5f1) | EQC61IQRl0_la95t27xhIpjxZt32vl1QQVF2UgTNuvD18W-4
 [Orbit Bridge Ton USD Tether](https://tonapi.io/jetton/0:bfd58a0cf11062c4df79973ee875c17756b91cfcdf0d7bb8108bb01bb657adfc) | EQC_1YoM8RBixN95lz7odcF3Vrkc_N8Ne7gQi7Abtlet_Efi
 [Ore Mine Epic lvl 1](https://tonapi.io/jetton/0:79e500aace29bfbd3d218a013d749fdabcedb4f28b5558896385a38bf67d89c4) | EQB55QCqzim_vT0higE9dJ_avO208otVWIljhaOL9n2JxI3L

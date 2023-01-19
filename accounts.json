@@ -260,6 +260,10 @@
   "name": "Orbit Bridge Ton Ethereum"
  },
  {
+  "address": "0:30af995c6d070b293020fd243e7692963506693b53069eb02ce776dfd6090a4d",
+  "name": "Orbit Bridge Ton Orbs"
+ },
+ {
   "address": "0:bad48411974fe56bde6ddbbc612298f166ddf6be5d504151765204cdbaf0f5f1",
   "name": "Orbit Bridge Ton USD Coin"
  },
