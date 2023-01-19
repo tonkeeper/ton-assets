@@ -10,3 +10,6 @@
 - address: "0:bfd58a0cf11062c4df79973ee875c17756b91cfcdf0d7bb8108bb01bb657adfc"
   name: Orbit Bridge Ton USD Tether
   symbol: oUSDT
+- address: "0:30af995c6d070b293020fd243e7692963506693b53069eb02ce776dfd6090a4d"
+  name: Orbit Bridge Ton Orbs
+  symbol: oORBS
