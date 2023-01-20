@@ -1,5 +1,21 @@
 [
  {
+  "address": "0:a8641676cfd02edddcc334d8bc5e407186e21a9da0f511bdbfa05444610cb720",
+  "description": "Crumb Coin (CRUMB) is a token used in the BRAD x Totkit ecosystem",
+  "image": "https://nft.tonbrad.com/crumb.png",
+  "max_supply": 19566910,
+  "name": "Crumb Coin",
+  "social": [
+   "https://t.me/brad_nft_ton",
+   "https://t.me/totkitnews"
+  ],
+  "symbol": "CRUMB",
+  "websites": [
+   "https://tonbrad.com",
+   "https://totkit.org"
+  ]
+ },
+ {
   "address": "0:91042f0b2380b182c800b4f2101b6222d2feaa4baf379d9c1354ea65fd7890cf",
   "description": "Official Jernax Token on the TON network.",
   "max_supply": 7000000,
