@@ -157,6 +157,7 @@ Name           | Address
 [Space Farm Uncommon lvl 1](https://tonapi.io/jetton/0:38478a82fffa201706ffdbbbd843863c2f283f3782b845bd916865b19f08f6c7) | EQA4R4qC__ogFwb_27vYQ4Y8Lyg_N4K4Rb2RaGWxnwj2x4Ya
 [Space Farm Uncommon lvl 2](https://tonapi.io/jetton/0:fd3842131261ada11b7282d7b6b9994d0aee0374a24cbee3c32438240ea18e7e) | EQD9OEITEmGtoRtygte2uZlNCu4DdKJMvuPDJDgkDqGOfgNC
 [Space Farm Uncommon lvl 3](https://tonapi.io/jetton/0:f6b844cde065e16259af43909a289fb3187663f3c6f2869cba5100507f823d4d) | EQD2uETN4GXhYlmvQ5CaKJ-zGHZj88byhpy6UQBQf4I9Tc3-
+[Stalin](https://tonapi.io/jetton/0:9eab324ae0a605d7af541d2bcffcd9a6238e80d8b9df1817f30afc067fcc6c60) | EQCeqzJK4KYF169UHSvP_NmmI46A2LnfGBfzCvwGf8xsYEtc
 [Starter Pack](https://tonapi.io/jetton/0:3fbaf496183237094e57cc84257d963263365a672c274c479bd6a6f6547bf76c) | EQA_uvSWGDI3CU5XzIQlfZYyYzZaZywnTEeb1qb2VHv3bLXL
 [Starter Pack presale jetton](https://tonapi.io/jetton/0:a99bee2de7a85886fa1213ee1e88334e32dde3741ef7cf2f16b9d9fc7c4df4ea) | EQCpm-4t56hYhvoSE-4eiDNOMt3jdB73zy8Wudn8fE306trJ
 [Supply Pack](https://tonapi.io/jetton/0:4961550ca4720cb7c21c327a73e5dfe3013e21eb8fc1eb0242aecf1a8352846c) | EQBJYVUMpHIMt8IcMnpz5d_jAT4h64_B6wJCrs8ag1KEbHGI
