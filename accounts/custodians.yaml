@@ -53,3 +53,6 @@
 - address: "EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb"
   name: "Bybit"
   require_memo: true
+- address: "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp"
+  name: "bit.com"
+  require_memo: true
