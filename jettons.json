@@ -16,6 +16,17 @@
   ]
  },
  {
+  "address": "0:978122d4c1a865168dfaef342666a7dfee4a828142009848099c97ed18bf9f14",
+  "description": "The only token that express gratitude.",
+  "image": "https://cdn.discordapp.com/attachments/474204974910406667/1065332998670655579/dnk.jpg",
+  "max_supply": 69420,
+  "name": "DOLBOEB",
+  "social": [
+   "https://t.me/dolbaeb_ton"
+  ],
+  "symbol": "DLB"
+ },
+ {
   "address": "0:b403a16772aea0cd6c3213fe140bc2a328b07733f36442d9917a4b647e8f8609",
   "decimals": 0,
   "description": "EXC is a financial service token in EXTON",
