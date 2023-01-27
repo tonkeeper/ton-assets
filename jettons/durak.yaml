@@ -1,0 +1,9 @@
+name: "Durak Coin"
+description: Game currency in "Durak TON"
+image: "https://durak-ton.github.io/website/durak_ton_logo.png"
+address: "0:3dec849f9ac12308ac357d6cf78a405a5e3066a320f22bb79c786fa24885f09f"
+symbol: "DURAK"
+max_supply: 5000000000
+social:
+  - "https://t.me/durakton"
+  - "https://t.me/tondurak"
