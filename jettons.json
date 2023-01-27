@@ -379,6 +379,11 @@
   "symbol": "HEDGE"
  },
  {
+  "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",
+  "name": "Wrapped TON",
+  "symbol": "JTON"
+ },
+ {
   "address": "0:04f2c01bbf132822b376b40b8e7b8bc8e47e098671c8fb39f6568472f9a807ec",
   "description": "TON KISS project coin",
   "image": "https://makoso74.github.io/kiss/IMG_1832.PNG",

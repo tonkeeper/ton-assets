@@ -544,6 +544,10 @@
   "name": "Wallet Exchanger"
  },
  {
+  "address": "0:4f0156ba7e3322831b271c5df7510ddabae7d5ae0d99f250594d8f51fa2b1f8c",
+  "name": "Wrapped TON"
+ },
+ {
   "address": "0:c594d158431e4a6b6f2898afd43e62a2467720d2f331240084af3761a9e0a072",
   "name": "Zeya's Winter Map"
  },
