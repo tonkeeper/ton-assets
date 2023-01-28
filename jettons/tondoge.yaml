@@ -1,0 +1,10 @@
+name: Ton Doge Coin
+description: Doge Coin based on TON
+image: "https://tondoge.com/images/Ton-Doge-Coin-256x256.png"
+address: 0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce
+symbol: TonDoge
+max_supply: 10000000000
+social:
+  - "https://t.me/Tondogeofficial"
+websites:
+  - "https://tondoge.com/"
