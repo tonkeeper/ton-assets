@@ -1,0 +1,12 @@
+name: TONBANKCARD
+description: Jetton for TONBANKCARD ecosystem
+image: "https://cache.tonapi.io/imgproxy/4G7UzW3ssFUv742NkXH0T8kGc-KdoMChsVW9pDik0Vc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9rcnlwdG9icm9rZXIuc2l0ZS9wdWJsaWMvbG9nby9sb2dvLTMtMS5wbmc.webp"
+address: 0:732abcdf0767e276842007812920b385e484838025f4accf3ab718783376b813
+symbol: TBC
+max_supply: 1000000000
+websites:
+  - "https://tonbankcard.com"
+  - "https://tonbankcard.ton"
+
+social:
+  - "https://t.me/tonbankcard"
