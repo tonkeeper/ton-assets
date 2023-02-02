@@ -1,0 +1,8 @@
+name: Let Games Coin
+description: LGC is the official governance token of LetMeta. LetMeta is a decentralized quiz game center, which gathers various quiz games. Players can play the role of dealers or users on the platform. LGC tokens can be used as pledge to share the platform income, or as chips in the platform. The data in the game is driven by the random number of Telegram or Ton blockchain, which ensures the absolute fairness of the game. The official website: https://letmeta.org.
+image: "https://letmeta.org/image/LGC.png"
+address: 0:527918b3eaee7001dcaa39cbb22f5f0dd7b445ab10df20107b9bca6a28cbc7ed
+symbol: LGC
+max_supply: 1000000000
+websites:
+  - "https://letmeta.org"
