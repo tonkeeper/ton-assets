@@ -384,6 +384,23 @@
   "symbol": "JTON"
  },
  {
+  "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
+  "description": "Jetton for the kingy community, united by the common idea of developing the TON ecosystem.",
+  "image": "https://i.ibb.co/FbTCKRP/logotokenkingy.png",
+  "max_supply": 10000000,
+  "name": "Jetton kingy",
+  "social": [
+   "https://t.me/investkingyru",
+   "https://t.me/investkingyru_en",
+   "https://twitter.com/IKingyru"
+  ],
+  "symbol": "KINGY",
+  "websites": [
+   "https://ton.org.in",
+   "https://tonforbes.com"
+  ]
+ },
+ {
   "address": "0:04f2c01bbf132822b376b40b8e7b8bc8e47e098671c8fb39f6568472f9a807ec",
   "description": "TON KISS project coin",
   "image": "https://makoso74.github.io/kiss/IMG_1832.PNG",
