@@ -51,14 +51,6 @@
   "symbol": "JRX"
  },
  {
-  "address": "0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4",
-  "decimals": 9,
-  "description": "The first love Jetton based on the TON blockchain. Telegram channel - @LoveYouCoin",
-  "max_supply": 10000000000,
-  "name": "Love You",
-  "symbol": "LOVE"
- },
- {
   "address": "0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97",
   "name": "LP Token for AMBR-oUSDC",
   "symbol": "AMBR-oUSDC LP"
@@ -444,6 +436,21 @@
    "https://lavetoken.com"
   ],
   "symbol": "LAVE"
+ },
+ {
+  "address": "0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4",
+  "decimals": 9,
+  "description": "The concept of the LOVE jetton is the Metaverse. Metaverse for virtual dating. Jetton based on the TON blockchain. Telegram channel - @loveholders, @loveholderschat, @loveholderseng, @loveengchat, loveholders.com",
+  "max_supply": 4600000000,
+  "name": "Love You",
+  "social": [
+   "https://t.me/loveholders",
+   "https://t.me/loveholderschat",
+   "https://t.me/loveholderseng",
+   "https://t.me/loveengchat",
+   "https://loveholders.com"
+  ],
+  "symbol": "LOVE"
  },
  {
   "address": "0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb",
