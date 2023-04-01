@@ -229,6 +229,8 @@ Name           | Address
 [Zombie Queen Archer](https://tonapi.io/jetton/0:152df55bddf1d27d45ad9ccdfe91dbacd50f7f0e9d8abb980e69364e23d57a49) | EQAVLfVb3fHSfUWtnM3-kdus1Q9_Dp2Ku5gOaTZOI9V6SRNj
 [Zombie Rook Archer](https://tonapi.io/jetton/0:48c7ccab703e2231a4685472dffafca372443fa07c5399083198d7ee9f64cfbf) | EQBIx8yrcD4iMaRoVHLf-vyjckQ_oHxTmQgxmNfun2TPv6_q
 [Zombie Rook Warrior](https://tonapi.io/jetton/0:4bd3e6bd8f6802f3e66ce7f3537a6e5e5054e6caa0faa8f465aa46654e02b487) | EQBL0-a9j2gC8-Zs5_NTem5eUFTmyqD6qPRlqkZlTgK0h8yM
+[jUSDC](https://tonapi.io/jetton/0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df) | EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728
+[jUSDT](https://tonapi.io/jetton/0:729c13b6df2c07cbf0a06ab63d34af454f3d320ec1bcd8fb5c6d24d0806a17c2) | EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA
 
 
 ## Structure

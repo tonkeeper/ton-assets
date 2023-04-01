@@ -760,6 +760,14 @@
   "name": "Zombie Rook Warrior"
  },
  {
+  "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
+  "name": "jUSDC"
+ },
+ {
+  "address": "0:729c13b6df2c07cbf0a06ab63d34af454f3d320ec1bcd8fb5c6d24d0806a17c2",
+  "name": "jUSDT"
+ },
+ {
   "address": "0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf",
   "name": "Cryptodickbutt"
  },
