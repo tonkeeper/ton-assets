@@ -202,6 +202,13 @@
   "symbol": "jUSDT"
  },
  {
+  "address": "EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B",
+  "decimals": 18,
+  "description": "DAI transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x6B175474E89094C44Da98b954EedeAC495271d0F",
+  "name": "jDAI",
+  "symbol": "jDAI"
+ },
+ {
   "address": "0:e4c6be69583a14bbb27f0b350628545b9c86f399e74d5770aae72ab74178126e",
   "description": "\ud83d\ude98 T.ME/CARS_TON - 30 CAR BRANDS/USERNAMES IN THE NFT COLLECTION. \ud83c\udfc6 We will support each car with advertising to increase the value.",
   "name": "CAR COLLECTION",

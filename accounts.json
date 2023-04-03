@@ -760,6 +760,10 @@
   "name": "Zombie Rook Warrior"
  },
  {
+  "address": "0:e8fd927243f62a0730706d5a4c9a16e121d74ab513fdf47ba0649d78685b1cc6",
+  "name": "jDAI"
+ },
+ {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
   "name": "jUSDC"
  },
