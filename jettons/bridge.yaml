@@ -8,3 +8,8 @@
   symbol: jUSDT
   description: "USDT transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xdAC17F958D2ee523a2206206994597C13D831ec7"
   decimals: 6
+- address: "EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B"
+  name: jDAI
+  symbol: jDAI
+  description: "DAI transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x6B175474E89094C44Da98b954EedeAC495271d0F"
+  decimals: 18
