@@ -10,6 +10,7 @@
 - address: "EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8"
   name: "OKX"
   require_memo: true
+  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/OKX_Logo.svg/480px-OKX_Logo.svg.png"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
