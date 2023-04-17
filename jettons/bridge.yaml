@@ -13,3 +13,6 @@
   symbol: jDAI
   description: "DAI transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x6B175474E89094C44Da98b954EedeAC495271d0F"
   decimals: 18
+- address: "EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5"
+  symbol: jWBTC
+  decimals: 8
