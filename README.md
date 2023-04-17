@@ -232,6 +232,7 @@ Name           | Address
 [jDAI](https://tonapi.io/jetton/0:e8fd927243f62a0730706d5a4c9a16e121d74ab513fdf47ba0649d78685b1cc6) | EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B
 [jUSDC](https://tonapi.io/jetton/0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df) | EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728
 [jUSDT](https://tonapi.io/jetton/0:729c13b6df2c07cbf0a06ab63d34af454f3d320ec1bcd8fb5c6d24d0806a17c2) | EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA
+[unknown](https://tonapi.io/jetton/0:dc064187982e294dfdf8c771a6d395ef7a93b9c3ad0337167e5d3e08ebe5061b) | EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5
 
 
 ## Structure
