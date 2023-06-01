@@ -407,7 +407,7 @@
  },
  {
   "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
-  "description": "Jetton for the kingy community, united by the common idea of developing the TON ecosystem.",
+  "description": "Is an ecosystem token in the TON blockchain with a large Telegram community.",
   "image": "https://i.ibb.co/FbTCKRP/logotokenkingy.png",
   "max_supply": 10000000,
   "name": "Jetton kingy",
@@ -418,6 +418,8 @@
   ],
   "symbol": "KINGY",
   "websites": [
+   "https://kingy.wtf",
+   "https://coinmarketcap.com/currencies/kingyton/",
    "https://ton.org.in",
    "https://tonforbes.com"
   ]
