@@ -15,4 +15,6 @@
   decimals: 18
 - address: "EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5"
   symbol: jWBTC
+  name: jWBTC
+  description: "WBTC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599."
   decimals: 8
