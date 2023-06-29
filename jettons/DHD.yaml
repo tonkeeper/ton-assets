@@ -1,0 +1,13 @@
+name: DHD Coin
+description: Low fee dick-to-dick electronic cash alternative to Toncoin
+image: "https://raw.githubusercontent.com/DHDcoin/website/main/LOGO.png"
+address: 0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e
+symbol: DHD
+max_supply: 10000000
+websites:
+  - "http://www.dhdgame.ru/"
+  - "https://dhdco.in/"
+  - "https://dhdgame.online/"
+social:
+  - "https://t.me/WayofDHD"
+  - "https://t.me/CoinDHD"
