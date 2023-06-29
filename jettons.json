@@ -156,6 +156,12 @@
   "symbol": "WTON-oUSDC LP"
  },
  {
+  "address": "EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO",
+  "decimals": 9,
+  "name": "STON",
+  "symbol": "STON"
+ },
+ {
   "address": "0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965",
   "description": "Audiatur et altera pars. Universal Altcoin on Ton. @teneretoken . chat: @tenerechat",
   "max_supply": 210000000,
