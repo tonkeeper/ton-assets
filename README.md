@@ -103,7 +103,7 @@ Name           | Address
 [LP Token for oUSDT-oUSDC](https://tonapi.io/jetton/0:c35e262a8025e7d76d87b5e3745799cf573c6c69fb94cc39a45cf27d8beda2e9) | EQDDXiYqgCXn122HteN0V5nPVzxsafuUzDmkXPJ9i-2i6YKN
 [Lavandos](https://tonapi.io/jetton/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [Love You](https://tonapi.io/jetton/0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4) | EQAS2elYb6_hqWyOl7gpuYTzf1sqmjLJQ0lQ4X_4d_MvtMWR
-[MEGA](https://tonapi.io/jetton/0:7e7023900f07ab127503e3eeb1a180f478bebfc82d73a2002f0391ae5d317488) | EQB-cCOQDwerEnUD4-6xoYD0eL6_yC1zogAvA5GuXTF0iDIf
+[MEGA](https://tonapi.io/jetton/0:5febe62847dc7296897f3708c7acb92b4c50192425fe6ec77e5f1ffdd3639a3d) | EQBf6-YoR9xylol_NwjHrLkrTFAZJCX-bsd-Xx_902OaPaBf
 [Magenta boards](https://tonapi.io/jetton/0:e09f1cec8b6ca5dcfe74bfd725d0f233b935ed9b662c5529f6ba0c034650495a) | EQDgnxzsi2yl3P50v9cl0PIzuTXtm2YsVSn2ugwDRlBJWlDu
 [Mars](https://tonapi.io/jetton/0:9914eca76922b60f84ea4aa71fd0385aab8a1f082562fdffb3f1f5fe2aa55dcb) | EQCZFOynaSK2D4TqSqcf0Dhaq4ofCCVi_f-z8fX-KqVdy-qw
 [Megaton LP KAI-oUSDC](https://tonapi.io/jetton/0:e5dbdf8fd953b114397ae1701995e51ccad1984bff28e4fbf18c22c22a053479) | EQDl29-P2VOxFDl64XAZleUcytGYS_8o5PvxjCLCKgU0eUUJ
