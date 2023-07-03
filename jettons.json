@@ -51,6 +51,12 @@
   "symbol": "JRX"
  },
  {
+  "address": "EQB-cCOQDwerEnUD4-6xoYD0eL6_yC1zogAvA5GuXTF0iDIf",
+  "decimals": 9,
+  "name": "MEGA",
+  "symbol": "MEGA"
+ },
+ {
   "address": "0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97",
   "name": "LP Token for AMBR-oUSDC",
   "symbol": "AMBR-oUSDC LP"
