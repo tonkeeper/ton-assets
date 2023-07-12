@@ -1,12 +1,14 @@
-name: "FragmentChecker"
-address: 0:3a4d2191094e3a33d4601efa51bb52dc5baa354516e162b7706955385f8144a7
-description: "Token created by @FragmentCheckerBot team. This token can be used for discounts when purchasing premium access or when joining to a private community and more. Our channels: @FragmentChecker and @FragmentCheckerRu"
+name: "Find & Check"
+address: 0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1
+description: "The cornerstone of the Find & Check initiative within the TON ecosystem. Serving as the fuel of our unique set of analytical tools, FCK Token empowers the TON network users, catalyzes our initiatives, and opens up new possibilities for interaction with the blockchain. @FCKTokens, www.fck.dev
+"
 max_supply: 300000
-image: "https://ton.beycoder.ru/token-logo.png"
+image: "https://fck.dev/token.png"
 symbol: "FCK"
 websites:
-  - "https://ton.app/utilities/fragment-checker-bot"
+  - "https://fck.dev"
 social:
-  - "https://t.me/FragmentCheckerBot"
-  - "https://t.me/FragmentCheckerRu"
-  - "https://t.me/FragmentChecker"
+  - "https://t.me/FCKTokens"
+  - "https://twitter.com/FCKFoundation"
+  - "https://www.linkedin.com/company/fck-dev/"
+  - "https://discord.gg/UVW47xyE"
