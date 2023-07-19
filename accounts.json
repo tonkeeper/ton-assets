@@ -224,6 +224,10 @@
   "require_memo": true
  },
  {
+  "address": "0:b37e57033db21d10b950e6143b658c10c3bf425bd193025960aef7f22dbcf4fc",
+  "name": "Kucoin Withdraw"
+ },
+ {
   "address": "0:a14b1f452385b2bb984ad2c4441e1d23cae071fdfc096dfba53ebba3b6ff1d10",
   "name": "lbank.info",
   "require_memo": true
