@@ -16,6 +16,23 @@
   ]
  },
  {
+  "address": "0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e",
+  "description": "Low fee dick-to-dick electronic cash alternative to Toncoin",
+  "image": "https://raw.githubusercontent.com/DHDcoin/website/main/LOGO.png",
+  "max_supply": 10000000,
+  "name": "DHD Coin",
+  "social": [
+   "https://t.me/WayofDHD",
+   "https://t.me/CoinDHD"
+  ],
+  "symbol": "DHD",
+  "websites": [
+   "http://www.dhdgame.ru/",
+   "https://dhdco.in/",
+   "https://dhdgame.online/"
+  ]
+ },
+ {
   "address": "0:978122d4c1a865168dfaef342666a7dfee4a828142009848099c97ed18bf9f14",
   "description": "The only token that express gratitude.",
   "image": "https://cdn.discordapp.com/attachments/474204974910406667/1065332998670655579/dnk.jpg",
