@@ -251,6 +251,11 @@
   "require_memo": true
  },
  {
+  "address": "0:a1376e8bf9f266ec7c6b11ce6e5cd02a9bda363b9ea888a2e239d2383572bc9a",
+  "name": "Avanchange",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
