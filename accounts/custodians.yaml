@@ -61,4 +61,4 @@
   require_memo: true
 - address: "EQChN26L-fJm7HxrEc5uXNAqm9o2O56oiKLiOdI4NXK8mm96"
   name: "Avanchange"
-  require_memo: false
+  require_memo: true
