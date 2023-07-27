@@ -1,0 +1,10 @@
+name: Fantik
+description: The candy wrapper. Token for TON Olbanec nft project.
+image: "https://raw.githubusercontent.com/fantik-token/fantik/main/fantik.png"
+address: 0:77545e9fb12b0fad48d24386d076f6fd475a6db32c7cb7d9b3bc93a8c2f5c1fb
+symbol: FANT
+max_supply: 1234567890
+websites:
+  - "https://olbanec.shop"
+social:
+  - "https://t.me/olbania_memeland"
