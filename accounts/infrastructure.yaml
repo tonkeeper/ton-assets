@@ -14,3 +14,5 @@
   name: "Log tests Contract"
 - address: "EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz"
   name: ".ton DNS"
+- address: "EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2"
+  name: "The Locker"
