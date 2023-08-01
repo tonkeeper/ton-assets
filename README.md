@@ -16,6 +16,7 @@ Name           | Address
 [System](https://tonapi.io/account/-1:0000000000000000000000000000000000000000000000000000000000000000) | Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU
 [Log tests Contract](https://tonapi.io/account/-1:34517c7bdf5187c55af4f8b61fdc321588c7ab768dee24b006df29106458d7cf) | Ef80UXx731GHxVr0-LYf3DIViMerdo3uJLAG3ykQZFjXz2kW
 [.ton DNS](https://tonapi.io/account/0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf) | EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz
+[The Locker](https://tonapi.io/account/0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7) | EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2
 [Getgems Marketplace](https://tonapi.io/account/0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18) | EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS
 [Getgems Sales](https://tonapi.io/account/0:584ee61b2dff0837116d0fcb5078d93964bcbe9c05fd6a141b1bfca5d6a43e18) | EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS
 [Disintar Marketplace](https://tonapi.io/account/0:eb2eaf97ea32993470127208218748758a88374ad2bbd739fc75c9ab3a3f233d) | EQDrLq-X6jKZNHAScgghh0h1iog3StK71zn8dcmrOj8jPWRA
