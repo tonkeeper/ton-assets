@@ -57,18 +57,22 @@
  },
  {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/morgenshtern_288.png",
   "name": "Morgenshtern"
  },
  {
   "address": "0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/morgenshtern_private_288.png",
   "name": "Morgenshtern Private"
  },
  {
   "address": "0:2ecf5e47d591eb67fa6c56b02b6bb1de6a530855e16ad3082eaa59859e8d5fdc",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/telegram_team_288.svg",
   "name": "Telegram Team"
  },
  {
   "address": "0:408da3b28b6c065a593e10391269baaa9c5f8caebc0c69d9f0aabbab2a99256b",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
   "name": "Fragment"
  },
  {
@@ -153,62 +157,73 @@
  },
  {
   "address": "0:ad8afecfacc248996885d8be6824280f9f3a7e54c2f6080b7971b9f556c280c4",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/crypto_bot_288.svg",
   "name": "CryptoBot",
   "require_memo": false
  },
  {
   "address": "0:dddcd3cdad60af4c0d69389f567ad51d0c263fa4968d655ab424c69aadaf9322",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
   "name": "Wallet Bot",
   "require_memo": false
  },
  {
   "address": "0:436a76c2794a88e3fbfec6b9c0374fc8db046f10868b835420d9937973a665d4",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
   "name": "Wallet Bot",
   "require_memo": false
  },
  {
   "address": "0:5f00decb7da51881764dc3959cec60609045f6ca1b89e646bde49d492705d77f",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/OKX_Logo.svg/480px-OKX_Logo.svg.png",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
   "name": "OKX",
   "require_memo": true
  },
  {
   "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg",
   "name": "FTX",
   "require_memo": true
  },
  {
   "address": "0:57eb74407604a19f7e04005315ef70aeb7b675e6551977586756f6baf12125ee",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg",
   "name": "MEXC",
   "require_memo": true
  },
  {
   "address": "0:7994848c1fcbcbc57a6a5a987b66eb424b8b54e10759b6b514a66b600c2b0eef",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/exmo_288.svg",
   "name": "EXMO",
   "require_memo": true
  },
  {
   "address": "0:8d195793baad9a08c46dc353aebe999341dabd07721b9725f19e18abc3d10d92",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/exmo_cold_storage_1_288.svg",
   "name": "EXMO Cold Storage 1",
   "require_memo": true
  },
  {
   "address": "0:26ab8ae763a3a7c3067d882b7b01cd5d37254cb8768f57b6a47c00028effc7b8",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/exmo_cold_storage_2_288.svg",
   "name": "EXMO Cold Storage 2",
   "require_memo": true
  },
  {
   "address": "0:0130c77346e9ed82df677d107ad6a775c11f9c18f6a05c0dd17906b355850dad",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/exmo_deposit_288.svg",
   "name": "EXMO Deposit",
   "require_memo": true
  },
  {
   "address": "0:342a359e38357c083968129fddddf049ef5c47315bfbef27505a356bf9f02d65",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/coinex_288.svg",
   "name": "CoinEx",
   "require_memo": true
  },
  {
   "address": "0:555f3053e257130374bb831ae0e219e5e5f9ec0ca8f8a0d133369d3d690c64c2",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/huobi_288.svg",
   "name": "Huobi Deposit",
   "require_memo": true
  },
@@ -219,29 +234,35 @@
  },
  {
   "address": "0:ce3cdcf95089b75ee5ce9824a4ff506f40b75090c4be96637c2b8d38b1097224",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/tonmobile_service_288.svg",
   "name": "TonMobile Service",
   "require_memo": false
  },
  {
   "address": "0:80d4123841167ca989ac912443cc99a4b9c1a87584536427ff6fd85c92395ae9",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_288.svg",
   "name": "Kucoin",
   "require_memo": true
  },
  {
   "address": "0:b37e57033db21d10b950e6143b658c10c3bf425bd193025960aef7f22dbcf4fc",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg",
   "name": "Kucoin Withdraw"
  },
  {
   "address": "0:a14b1f452385b2bb984ad2c4441e1d23cae071fdfc096dfba53ebba3b6ff1d10",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/lbank_info_288.svg",
   "name": "lbank.info",
   "require_memo": true
  },
  {
   "address": "0:75726a716f747e60b0371cb0d5d35471e8e1e931003fecc3a0961a8bd82c09c7",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/rocket_bot_288.svg",
   "name": "Rocket Bot"
  },
  {
   "address": "0:097dc94a6f87c58b4b5683e3d5830c1d5f11d12262d66cef7fec765ca489425a",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bitgo_288.svg",
   "name": "BitGo FTX Bankruptcy Custody"
  },
  {
@@ -251,11 +272,13 @@
  },
  {
   "address": "0:008bb088e81e38d583826901093567027cc1575ec744ac354fa4eeec302d166d",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bit_com_288.svg",
   "name": "bit.com",
   "require_memo": true
  },
  {
   "address": "0:a1376e8bf9f266ec7c6b11ce6e5cd02a9bda363b9ea888a2e239d2383572bc9a",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
   "name": "Avanchange",
   "require_memo": true
  },
