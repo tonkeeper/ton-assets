@@ -1,64 +1,83 @@
 - address: "EQCtiv7PrMJImWiF2L5oJCgPnzp-VML2CAt5cbn1VsKAxLiE"
   name: "CryptoBot"
   require_memo: false
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/crypto_bot_288.svg"
 - address: "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90"
   name: "Wallet Bot"
   require_memo: false
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
 - address: "EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh"
   name: "Wallet Bot"
   require_memo: false
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
 - address: "EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8"
   name: "OKX"
   require_memo: true
-  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/OKX_Logo.svg/480px-OKX_Logo.svg.png"
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg"
 - address: "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi"
   name: "MEXC"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
 - address: "EQB5lISMH8vLxXpqWph7ZutCS4tU4QdZtrUUpmtgDCsO73JR"
   name: "EXMO"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/exmo_288.svg"
 - address: "EQCNGVeTuq2aCMRtw1OuvpmTQdq9B3IblyXxnhirw9ENkhLa"
   name: "EXMO Cold Storage 1"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/exmo_cold_storage_1_288.svg"
 - address: "EQAmq4rnY6OnwwZ9iCt7Ac1dNyVMuHaPV7akfAACjv_HuO5H"
   name: "EXMO Cold Storage 2"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/exmo_cold_storage_2_288.svg"
 - address: "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p"
   name: "EXMO Deposit"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/exmo_deposit_288.svg"
 - address: "EQA0KjWeODV8CDloEp_d3fBJ71xHMVv77ydQWjVr-fAtZSqw"
   name: "CoinEx"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/coinex_288.svg"
 - address: "EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f"
   name: "Huobi Deposit"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/huobi_288.svg"
 - address: "EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB"
   name: "Huobi"
   require_memo: true 
 - address: "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd"
   name: "TonMobile Service"
   require_memo: false
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/tonmobile_service_288.svg"
 - address: "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl"
   name: "Kucoin"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_288.svg"
 - address: "EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs"
   name: "Kucoin Withdraw"
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg"
 - address: "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct"
   name: "lbank.info"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/lbank_info_288.svg"
 - address: "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz"
   name: "Rocket Bot"
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/rocket_bot_288.g
 - address: "EQAJfclKb4fFi0tWg-PVgwwdXxHRImLWbO9_7HZcpIlCWkTg"
   name: "BitGo FTX Bankruptcy Custody"
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bitgo_288.svg"
 - address: "EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb"
   name: "Bybit"
   require_memo: true
 - address: "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp"
   name: "bit.com"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bit_com_288.svg"
 - address: "EQChN26L-fJm7HxrEc5uXNAqm9o2O56oiKLiOdI4NXK8mm96"
   name: "Avanchange"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg"
