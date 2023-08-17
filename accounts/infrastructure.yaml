@@ -1,5 +1,5 @@
 - address: "EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y"
-  name:  "CAT Services"
+  name: "CAT Services"
 - address: "EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N"
   name: "TON Foundation"
 - address: "EQAhE3sLxHZpsyZ_HecMuwzvXHKLjYx4kEUehhOy2JmCcHCT"
@@ -16,3 +16,5 @@
   name: ".ton DNS"
 - address: "EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2"
   name: "The Locker"
+- address: "EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR"
+  name: "Tonstakers"
