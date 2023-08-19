@@ -1,9 +1,8 @@
 name: "Find & Check"
 address: 0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1
-description: "The cornerstone of the Find & Check initiative within the TON ecosystem. Serving as the fuel of our unique set of analytical tools, FCK Token empowers the TON network users, catalyzes our initiatives, and opens up new possibilities for interaction with the blockchain. @FCKTokens, www.fck.dev
-"
+description: "The Find & Check is not a regular token, it's a utility token that fuels all the analytics tools and products created by the FCK team and expands the opportunities for users of the TON Blockchain"
 max_supply: 300000
-image: "https://fck.dev/token.png"
+image: "https://fck.dev/fcklogo.png"
 symbol: "FCK"
 websites:
   - "https://fck.dev"
@@ -11,4 +10,3 @@ social:
   - "https://t.me/FCKTokens"
   - "https://twitter.com/FCKFoundation"
   - "https://www.linkedin.com/company/fck-dev/"
-  - "https://discord.gg/UVW47xyE"
