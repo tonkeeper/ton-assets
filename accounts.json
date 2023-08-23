@@ -60,6 +60,14 @@
   "name": "Megaton Finance"
  },
  {
+  "address": "0:310b71b340182396f5ba08903081a1ef6ab4df571a3ca7b05effa44c4a3b0f92",
+  "name": "Megaton Finance Dex"
+ },
+ {
+  "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+  "name": "STON.fi Dex"
+ },
+ {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/morgenshtern_288.png",
   "name": "Morgenshtern"

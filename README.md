@@ -23,6 +23,8 @@ Name           | Address
 [Disintar Marketplace](https://tonapi.io/account/0:eb2eaf97ea32993470127208218748758a88374ad2bbd739fc75c9ab3a3f233d) | EQDrLq-X6jKZNHAScgghh0h1iog3StK71zn8dcmrOj8jPWRA
 [OTC Market](https://tonapi.io/account/0:4d695da777df8e1839965cd8a9e928b3b328321ab85dec243e86427ac66edbe8) | EQBNaV2nd9-OGDmWXNip6SizsygyGrhd7CQ-hkJ6xm7b6NhC
 [Megaton Finance](https://tonapi.io/account/0:16709d273b75ad3654a652329caafe3bdf9602be246abbb2cc349a0f5ec74754) | EQAWcJ0nO3WtNlSmUjKcqv4735YCviRqu7LMNJoPXsdHVLC9
+[Megaton Finance Dex](https://tonapi.io/account/0:310b71b340182396f5ba08903081a1ef6ab4df571a3ca7b05effa44c4a3b0f92) | EQAxC3GzQBgjlvW6CJAwgaHvarTfVxo8p7Be_6RMSjsPki6s
+[STON.fi Dex](https://tonapi.io/account/0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e) | EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt
 [Morgenshtern](https://tonapi.io/account/0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonapi.io/account/0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
 [Telegram Team](https://tonapi.io/account/0:2ecf5e47d591eb67fa6c56b02b6bb1de6a530855e16ad3082eaa59859e8d5fdc) | EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
