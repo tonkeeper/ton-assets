@@ -88,6 +88,11 @@
   "name": "Fragment"
  },
  {
+  "address": "0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d",
+  "image": "https://t.me/i/userpic/320/onetimeusername.jpg",
+  "name": "Pavel Durov"
+ },
+ {
   "address": "-1:a491d63f07ba7eefb4cb9f685484ce9089d5abaec97c15858222f04ca592a9ac",
   "name": "PoW Giver 1"
  },
