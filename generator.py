@@ -1,13 +1,50 @@
 #!/bin/env python3
 import json
+
 import yaml
 import glob
 import base64
-import math
+
+from dexes import __get_stonfi_assets, __get_megaton_assets, __get_dedust_assets
 
 EXPLORER_JETTONS = "https://tonapi.io/jetton/"
 EXPLORER_ACCOUNTS = "https://tonapi.io/account/"
 EXPLORER_COLLECTIONS = "https://tonscan.org/nft/"
+
+DEXES_FILE_NAME = "imported_from_dex.yaml"
+
+
+def collect_all_dexes():
+    temp, jettons = list(), list()
+    for file in sorted(glob.glob("jettons/*.yaml")):
+        if file.endswith(DEXES_FILE_NAME):
+            continue
+        temp.append(yaml.safe_load(open(file)))
+
+    for item in temp:
+        if isinstance(item, list):
+            jettons.extend(item)
+        else:
+            jettons.append(item)
+
+    already_exist_address = dict()
+    for jetton in jettons:
+        already_exist_address[normalize_address(jetton["address"], True)] = True
+
+    assets = __get_dedust_assets() + __get_stonfi_assets() + __get_megaton_assets()
+    assets_for_save = dict()
+    for idx, asset in enumerate(assets):
+        asset.address = normalize_address(asset.address, True)
+        if already_exist_address.get(asset.address, None):
+            continue
+        assets_for_save[asset.address] = {
+            'name': asset.name,
+            'address': asset.address,
+            'symbol': asset.symbol
+        }
+
+    with open(f"jettons/{DEXES_FILE_NAME}", "w") as yaml_file:
+        yaml.dump(list(assets_for_save.values()), yaml_file, default_flow_style=False)
 
 
 def merge_jettons():
@@ -46,6 +83,7 @@ def merge_collections():
 
 
 def main():
+    collect_all_dexes()
     jettons = merge_jettons()
     collections = merge_collections()
     accounts = merge_accounts([])
