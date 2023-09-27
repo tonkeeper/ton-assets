@@ -176,19 +176,19 @@
   "address": "0:ad8afecfacc248996885d8be6824280f9f3a7e54c2f6080b7971b9f556c280c4",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/crypto_bot_288.svg",
   "name": "CryptoBot",
-  "require_memo": false
+  "require_memo": true
  },
  {
   "address": "0:dddcd3cdad60af4c0d69389f567ad51d0c263fa4968d655ab424c69aadaf9322",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
   "name": "Wallet Bot",
-  "require_memo": false
+  "require_memo": true
  },
  {
   "address": "0:436a76c2794a88e3fbfec6b9c0374fc8db046f10868b835420d9937973a665d4",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
   "name": "Wallet Bot",
-  "require_memo": false
+  "require_memo": true
  },
  {
   "address": "0:5f00decb7da51881764dc3959cec60609045f6ca1b89e646bde49d492705d77f",
