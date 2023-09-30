@@ -231,7 +231,6 @@ Name           | Address
 [Starter Pack](https://tonapi.io/jetton/0:3fbaf496183237094e57cc84257d963263365a672c274c479bd6a6f6547bf76c) | EQA_uvSWGDI3CU5XzIQlfZYyYzZaZywnTEeb1qb2VHv3bLXL
 [Starter Pack presale jetton](https://tonapi.io/jetton/0:a99bee2de7a85886fa1213ee1e88334e32dde3741ef7cf2f16b9d9fc7c4df4ea) | EQCpm-4t56hYhvoSE-4eiDNOMt3jdB73zy8Wudn8fE306trJ
 [Supply Pack](https://tonapi.io/jetton/0:4961550ca4720cb7c21c327a73e5dfe3013e21eb8fc1eb0242aecf1a8352846c) | EQBJYVUMpHIMt8IcMnpz5d_jAT4h64_B6wJCrs8ag1KEbHGI
-[TON](https://tonapi.io/jetton/0:0000000000000000000000000000000000000000000000000000000000000000) | EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c
 [TON Chess pass](https://tonapi.io/jetton/0:bb8199c6ede8fcd8c951ca7da6364631ed2535b594eb241574768f7704a59e01) | EQC7gZnG7ej82MlRyn2mNkYx7SU1tZTrJBV0do93BKWeAXO5
 [TON Island Coin](https://tonapi.io/jetton/0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b) | EQBXHCDdBA6Vgd2zi-yRpFk8m04vn3ROWYU9GRZfpvrim1M5
 [TON Svet](https://tonapi.io/jetton/0:2091ce587c00351dcef941771926b2f5e65dcb5e842bd0268ae2ca9ca474455c) | EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh
