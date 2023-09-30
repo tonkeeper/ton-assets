@@ -67,6 +67,10 @@
 - address: "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz"
   name: "Rocket Bot"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/rocket_bot_288.svg"
+- address: "EQDB3GVLWYq4TNpPEjcu_tiQfO3wkBhlpYZJCHNz4BscJPaV"
+  name: "xRocket Bot"
+  image: "https://static.ton-rocket.com/icons/main_bot.png"
+  require_memo: true
 - address: "EQAJfclKb4fFi0tWg-PVgwwdXxHRImLWbO9_7HZcpIlCWkTg"
   name: "BitGo FTX Bankruptcy Custody"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bitgo_288.svg"
