@@ -20,6 +20,7 @@ class StonfiAsset(BaseModel):
     contract_address: str
     display_name: str
     symbol: str
+    kind: str
     decimals: int
     community: bool
     deprecated: bool
@@ -36,7 +37,7 @@ def __get_stonfi_assets() -> List[Asset]:
     stonfi_assets = [StonfiAsset(**item) for item in data["asset_list"]]
     assets = list()
     for asset in stonfi_assets:
-        if asset.community or asset.blacklisted or asset.deprecated:
+        if asset.community or asset.blacklisted or asset.deprecated or asset.kind != "Jetton":
             continue
         assets.append(Asset(name=asset.display_name, address=asset.contract_address, symbol=asset.symbol))
     return assets
