@@ -278,6 +278,12 @@
   "name": "Rocket Bot"
  },
  {
+  "address": "0:c1dc654b598ab84cda4f12372efed8907cedf0901865a58649087373e01b1c24",
+  "image": "https://static.ton-rocket.com/icons/main_bot.png",
+  "name": "xRocket Bot",
+  "require_memo": true
+ },
+ {
   "address": "0:097dc94a6f87c58b4b5683e3d5830c1d5f11d12262d66cef7fec765ca489425a",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bitgo_288.svg",
   "name": "BitGo FTX Bankruptcy Custody"
