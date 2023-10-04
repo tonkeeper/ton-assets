@@ -455,11 +455,6 @@
   "symbol": "MONK"
  },
  {
-  "address": "0:268b15af32cde341a5a1aef0023ac55cca3e11b1d2f18a15ed8e614c05d0bd6a",
-  "name": "Hedgehog Coin",
-  "symbol": "HEH"
- },
- {
   "address": "0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa",
   "name": "RED X",
   "symbol": "REDX"
@@ -510,14 +505,14 @@
   "symbol": "IVS"
  },
  {
-  "address": "0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36",
-  "name": "MC",
-  "symbol": "Magic Crystal"
+  "address": "0:18043b8b74bae30ca47549467ad19b8bb92cc70c8a04dbacd9131b81fdb8e21b",
+  "name": "TON Click",
+  "symbol": "CLICK"
  },
  {
-  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
-  "name": "GAGARIN",
-  "symbol": "GGR"
+  "address": "0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b",
+  "name": "EggsWisdom",
+  "symbol": "EGG"
  },
  {
   "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
@@ -533,6 +528,16 @@
   "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
   "name": "$PUNK",
   "symbol": "PUNK"
+ },
+ {
+  "address": "0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36",
+  "name": "MC",
+  "symbol": "Magic Crystal"
+ },
+ {
+  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
+  "name": "GAGARIN",
+  "symbol": "GGR"
  },
  {
   "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",

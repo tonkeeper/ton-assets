@@ -38,6 +38,7 @@ Name           | Address
 ---------------|-----------
 [Cryptodickbutt](https://tonscan.org/nft/0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf) | EQDaaxtmY6Dk0YzIV0zNnbUpbjZ92TJHBvO72esc0srwv8K2
 [Telegram usernames](https://tonscan.org/nft/0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2) | EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi
+[The Gateway](https://tonscan.org/nft/0:3eda0de0ec98f5ebd9ab0393d1e3d2e39880b54c841f68611c67c5270d961fb2) | EQA-2g3g7Jj169mrA5PR49LjmIC1TIQfaGEcZ8UnDZYfsrno
 
 
 ## Jettons
@@ -65,6 +66,7 @@ Name           | Address
 [Donation](https://tonapi.io/jetton/0:c47099533c1ca6cd4a8e275e50478e2f2253c81e1b16965ac869f5a93dd7878a) | EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR
 [ELKITON](https://tonapi.io/jetton/0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224) | EQAzMmZWo2yo4ybPUMvIgfFQ3a53f4WUTjf2-LE7oJxCJHnO
 [EXTON COIN](https://tonapi.io/jetton/0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a) | EQC-A0ZHiAliPJ6LYQQZ6x2WRJC0aHEmJ_OMG6pidb5ASpIY
+[EggsWisdom](https://tonapi.io/jetton/0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b) | EQDCAjHxgyScUPS-Am_2nAH7C5XWM4fc2X9dVyWpFgHXG2rT
 [Elven Bishop Mage](https://tonapi.io/jetton/0:fd9ff0353132c671fc26d2034055d28b88359ace3d297bf73e27ddcb16ec152c) | EQD9n_A1MTLGcfwm0gNAVdKLiDWazj0pe_c-J93LFuwVLMiW
 [Elven Bishop Warrior](https://tonapi.io/jetton/0:a01f045d408e0ebba447d7bfe5c0cac3204cf3d4eeef8eed3cca350757772275) | EQCgHwRdQI4Ou6RH17_lwMrDIEzz1O7vju08yjUHV3cidehH
 [Elven King Mage](https://tonapi.io/jetton/0:e3fef943b741dbe2f35f80fbaa90be0b40751770555ea26702f1104026a21845) | EQDj_vlDt0Hb4vNfgPuqkL4LQHUXcFVeomcC8RBAJqIYRf5l
@@ -87,7 +89,6 @@ Name           | Address
 [Grabscape governance token](https://tonapi.io/jetton/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
 [Green Spaceship](https://tonapi.io/jetton/0:4d4188b639dcbc9f0e17554165653d9fe03675e54a6b419f088ead3d6662dba6) | EQBNQYi2Ody8nw4XVUFlZT2f4DZ15UprQZ8Ijq09ZmLbpqkR
 [HEDGE coin](https://tonapi.io/jetton/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
-[Hedgehog Coin](https://tonapi.io/jetton/0:268b15af32cde341a5a1aef0023ac55cca3e11b1d2f18a15ed8e614c05d0bd6a) | EQAmixWvMs3jQaWhrvACOsVcyj4RsdLxihXtjmFMBdC9alH2
 [Huebel Bolt](https://tonapi.io/jetton/0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e) | EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw
 [Jernax](https://tonapi.io/jetton/0:91042f0b2380b182c800b4f2101b6222d2feaa4baf379d9c1354ea65fd7890cf) | EQCRBC8LI4CxgsgAtPIQG2Ii0v6qS683nZwTVOpl_XiQzwv8
 [JetTon](https://tonapi.io/jetton/0:105e5589bc66db15f13c177a12f2cf3b94881da2f4b8e7922c58569176625eb5) | EQAQXlWJvGbbFfE8F3oS8s87lIgdovS455IsWFaRdmJetTon
@@ -232,6 +233,7 @@ Name           | Address
 [Starter Pack presale jetton](https://tonapi.io/jetton/0:a99bee2de7a85886fa1213ee1e88334e32dde3741ef7cf2f16b9d9fc7c4df4ea) | EQCpm-4t56hYhvoSE-4eiDNOMt3jdB73zy8Wudn8fE306trJ
 [Supply Pack](https://tonapi.io/jetton/0:4961550ca4720cb7c21c327a73e5dfe3013e21eb8fc1eb0242aecf1a8352846c) | EQBJYVUMpHIMt8IcMnpz5d_jAT4h64_B6wJCrs8ag1KEbHGI
 [TON Chess pass](https://tonapi.io/jetton/0:bb8199c6ede8fcd8c951ca7da6364631ed2535b594eb241574768f7704a59e01) | EQC7gZnG7ej82MlRyn2mNkYx7SU1tZTrJBV0do93BKWeAXO5
+[TON Click](https://tonapi.io/jetton/0:18043b8b74bae30ca47549467ad19b8bb92cc70c8a04dbacd9131b81fdb8e21b) | EQAYBDuLdLrjDKR1SUZ60ZuLuSzHDIoE26zZExuB_bjiG0Zr
 [TON Island Coin](https://tonapi.io/jetton/0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b) | EQBXHCDdBA6Vgd2zi-yRpFk8m04vn3ROWYU9GRZfpvrim1M5
 [TON Svet](https://tonapi.io/jetton/0:2091ce587c00351dcef941771926b2f5e65dcb5e842bd0268ae2ca9ca474455c) | EQAgkc5YfAA1Hc75QXcZJrL15l3LXoQr0CaK4sqcpHRFXFxh
 [Tegro](https://tonapi.io/jetton/0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a) | EQAvDfWFG0oYX19jwNDNBBL1rKNT9XfaGP9HyTb5nb2Eml6y
