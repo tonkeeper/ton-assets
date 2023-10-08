@@ -3,7 +3,6 @@ description: JetTon.Games Platform Token
 image: "https://raw.githubusercontent.com/JetTon-Bot/JetTon/main/jetton-256.png"
 address: 0:105e5589bc66db15f13c177a12f2cf3b94881da2f4b8e7922c58569176625eb5
 symbol: JETTON
-max_supply: 100000000
 websites:
   - "https://jetton.fund"
   - "https://coinmarketcap.com/currencies/jetton/"
