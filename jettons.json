@@ -31,20 +31,6 @@
   ]
  },
  {
-  "address": "0:b403a16772aea0cd6c3213fe140bc2a328b07733f36442d9917a4b647e8f8609",
-  "decimals": 0,
-  "description": "EXC is a financial service token in EXTON",
-  "image": "https://i.ibb.co/9W2Tj4H/ex.png",
-  "max_supply": 65666666,
-  "name": "ExCoin",
-  "social": [
-   "https://t.me/exc_coin",
-   "https://t.me/EXTON_SWAP_BOT",
-   "https://t.me/yakovlev_serj"
-  ],
-  "symbol": "EXC"
- },
- {
   "address": "0:91042f0b2380b182c800b4f2101b6222d2feaa4baf379d9c1354ea65fd7890cf",
   "description": "Official Jernax Token on the TON network.",
   "max_supply": 7000000,
@@ -199,11 +185,6 @@
   "symbol": "Tnr"
  },
  {
-  "address": "0:f9c0e473060126580433f078f391574e7c6a02e2216e1c27634c19f23677d2ae",
-  "name": "Alex Ross",
-  "symbol": "AROS"
- },
- {
   "address": "0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49",
   "name": "Ambra",
   "symbol": "AMBR"
@@ -260,86 +241,6 @@
   "address": "0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58",
   "name": "Cock Fights Token",
   "symbol": "CFT"
- },
- {
-  "address": "0:0ba49170f8c1e9dab178d42c79d4e6d5d1fc98a7b36c5e928599866b9e57384e",
-  "name": "Zombie King Mage"
- },
- {
-  "address": "0:152df55bddf1d27d45ad9ccdfe91dbacd50f7f0e9d8abb980e69364e23d57a49",
-  "name": "Zombie Queen Archer"
- },
- {
-  "address": "0:4bd3e6bd8f6802f3e66ce7f3537a6e5e5054e6caa0faa8f465aa46654e02b487",
-  "name": "Zombie Rook Warrior"
- },
- {
-  "address": "0:48c7ccab703e2231a4685472dffafca372443fa07c5399083198d7ee9f64cfbf",
-  "name": "Zombie Rook Archer"
- },
- {
-  "address": "0:1529686c3278a0404346997960dce45f9fbcd2aa87739552009d1c93df6b6173",
-  "name": "Zombie Bishop Warrior"
- },
- {
-  "address": "0:340bfaa346063f21a0335e741964ddd5f0a790b59f48e0d3248c02b25a1d69e3",
-  "name": "Zombie Bishop Mage"
- },
- {
-  "address": "0:ac935e36aac73e757b0443865ddc1a0bbed3e850851fd8e5fb58766ec7f1d32f",
-  "name": "Zombie Knight Warrior"
- },
- {
-  "address": "0:ae4da6a780a5c9603e63dfb1025e424855ca24ec7099810539cd1a33e4a8b9dc",
-  "name": "Zombie Pawn Warrior"
- },
- {
-  "address": "0:067ad08689d27945110646f5971a939815f1642adbc083aebb646504e5421c0a",
-  "name": "Zombie Pawn Archer"
- },
- {
-  "address": "0:72196be2855bd8d806abf2308b15edb457b567a1e801d40080e5037cab05f6eb",
-  "name": "Zombie Pawn Mage"
- },
- {
-  "address": "0:e3fef943b741dbe2f35f80fbaa90be0b40751770555ea26702f1104026a21845",
-  "name": "Elven King Mage"
- },
- {
-  "address": "0:b5f2a91b21fad636b83c03aa15862c146517016fad0adabc5331a6407649f1ce",
-  "name": "Elven Queen Archer"
- },
- {
-  "address": "0:c7aa95b28b880bffccf107579e516d55cf7155da499022c2fc1aea55f4ca9401",
-  "name": "Elven Rook Warrior"
- },
- {
-  "address": "0:b436103f951f8ca9315727bfac2b54ca3f6bc6401f8a8d7d8f2b5ab4d5394913",
-  "name": "Elven Rook Archer"
- },
- {
-  "address": "0:a01f045d408e0ebba447d7bfe5c0cac3204cf3d4eeef8eed3cca350757772275",
-  "name": "Elven Bishop Warrior"
- },
- {
-  "address": "0:fd9ff0353132c671fc26d2034055d28b88359ace3d297bf73e27ddcb16ec152c",
-  "name": "Elven Bishop Mage"
- },
- {
-  "address": "0:1b27a5370e0f40129da2d5a6dcbbc29afb569a670ec1908fefda11d471e7eabd",
-  "name": "Elven Knight Warrior"
- },
- {
-  "address": "0:84248553a8b172150857260aa85d198bd93d54ab50f883d2f2d2eaa329d757d7",
-  "name": "Elven Pawn Warrior"
- },
- {
-  "address": "0:856245191df69878ff0c5faaee53c595f1fd7fc77d75c8b01238643a0fe6742a",
-  "name": "Elven Pawn Archer"
- },
- {
-  "address": "0:e68926dc8ddac3ac558d86777af7411390fa6f05a1be90f1c1c0d7fb108dc4ae",
-  "name": "Elven Pawn Mage"
  },
  {
   "address": "0:7d3a9e4c014a329a4e98ff8c79217dea7461e15214a6326b15a0403e8f339823",
@@ -410,20 +311,6 @@
   ]
  },
  {
-  "address": "EQD9fy6aOSYN5RCQTWshN7hj83ktvmjmIOV1mu4dDq2QdqWb",
-  "description": "FST is the currency of the FASTMM esports platform.",
-  "image": "https://fastmm.win/fst-mint-logo.jpg",
-  "max_supply": 1000000000,
-  "name": "FASTMM",
-  "social": [
-   "https://vk.com/fmmgg"
-  ],
-  "symbol": "FST",
-  "websites": [
-   "https://fastmm.win"
-  ]
- },
- {
   "address": "0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab",
   "name": "Grabscape game token",
   "symbol": "GRBS"
@@ -490,6 +377,11 @@
   "symbol": "PC"
  },
  {
+  "address": "0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a",
+  "name": "Wallet Exchanger",
+  "symbol": "WEX"
+ },
+ {
   "address": "0:73c9eb19de9d5618dae080d4898ba2452b7bebd0686a269e20c647abf68ba38d",
   "name": "TonTake",
   "symbol": "TAKE"
@@ -520,16 +412,6 @@
   "symbol": "EGG"
  },
  {
-  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
-  "name": "GEMSTON",
-  "symbol": "GEMSTON"
- },
- {
-  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
-  "name": "$PUNK",
-  "symbol": "PUNK"
- },
- {
   "address": "0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36",
   "name": "MC",
   "symbol": "Magic Crystal"
@@ -540,9 +422,19 @@
   "symbol": "GGR"
  },
  {
+  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
+  "name": "$PUNK",
+  "symbol": "PUNK"
+ },
+ {
   "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
   "name": "Mantle",
   "symbol": "jMNT"
+ },
+ {
+  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
+  "name": "GEMSTON",
+  "symbol": "GEMSTON"
  },
  {
   "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",
@@ -867,33 +759,6 @@
   "symbol": "oWEMIX$"
  },
  {
-  "address": "0:fc46cab89e8f5c610c764e0d30a7d602adc38db97e62a3cb0d669b5bbc10888d",
-  "description": "This jetton was given to the first people who arrived on Mars. Game TONPlanets.com",
-  "image": "https://nft.tonplanets.com/jettons/pioneer/pioneer.png",
-  "max_supply": 50,
-  "name": "Pioneer",
-  "social": [
-   "https://t.me/TONPlanets",
-   "https://t.me/TONPlanetsBot",
-   "https://t.me/TONPlanetsEn"
-  ],
-  "symbol": "PIO",
-  "websites": [
-   "https://mars.tonplanets.com",
-   "https://tonplanets.com"
-  ]
- },
- {
-  "address": "0:c70bb7980ace53aba60315dfd4863f7ef75fa4a6fe3c126c71a1cc2beca5d104",
-  "description": "The best pterodactyls on the TON network",
-  "max_supply": 700000,
-  "name": "Pterodactyls",
-  "social": [
-   "https://t.me/TONsaurs"
-  ],
-  "symbol": "PTERO"
- },
- {
   "address": "0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa",
   "description": "Red company Coin on the Legendary Blockchain.",
   "name": "Red Coin",
@@ -932,11 +797,6 @@
   "symbol": "SIBT"
  },
  {
-  "address": "0:33326656a36ca8e326cf50cbc881f150ddae777f85944e37f6f8b13ba09c4224",
-  "name": "ELKITON",
-  "symbol": "SNEG"
- },
- {
   "address": "0:e506a188dabe388e99e161f12225a854f1bed9a28de7a35de5e90f47f802096c",
   "description": "The one and only super best cool nice unbelievable and amazing crypto token in the world. All holder are literally gods.",
   "name": "SantaCoin",
@@ -956,11 +816,6 @@
    "https://t.me/Stalin_chat"
   ],
   "symbol": "IVS"
- },
- {
-  "address": "0:2091ce587c00351dcef941771926b2f5e65dcb5e842bd0268ae2ca9ca474455c",
-  "name": "TON Svet",
-  "symbol": "Svet"
  },
  {
   "address": "0:301ff3049a811b0ff00651d9e85b0a6f48171cb71fe36c30ae07467c7576eb01",
@@ -1007,271 +862,13 @@
   "symbol": "TNX"
  },
  {
-  "address": "EQA-UBS2T8Q-ZBrwKEqEBreRDNi2TKM8skw7RiMwW7DspGfA",
-  "name": "Bishop pixel"
- },
- {
-  "address": "EQD-2uwZEORXVITPPuiQYCN-DQd9m7IQzPjvYpyP5XOW2l6d",
-  "name": "Blue Steel pixel"
- },
- {
-  "address": "EQCulCh6QSvGs8xz-7bA1X6uv3wk6NJKwJIxOlUAcTei-cjj",
-  "name": "Cerulean board"
- },
- {
-  "address": "EQA925MynDj4d5fO6n_CTR9NqADUo0ZeRiLRK3tYNjB1fhMN",
-  "name": "Knight pixel"
- },
- {
-  "address": "EQDgnxzsi2yl3P50v9cl0PIzuTXtm2YsVSn2ugwDRlBJWlDu",
-  "name": "Magenta boards"
- },
- {
-  "address": "EQC5x7CRPWwXbeV5_toZiqD8wOMA7OVDB0Epmp0NGGtKckFH",
-  "name": "Niagara board"
- },
- {
-  "address": "EQB7R7t8aFIdSGEmw_Owvsx6NVqIFySJAgVMasa9zJis37Nr",
-  "name": "Pawn pixel"
- },
- {
-  "address": "EQDdlhKxW1DfHNz_6GnhWtxBNvvBNL8kkdbE-bVii5lhJtp5",
-  "name": "Purple pixel"
- },
- {
-  "address": "EQAgMKk0_kpZ46eOvRlNyHPNoPOb8-f-GIWEkaYDXC7ybx_5",
-  "name": "Queen pixel"
- },
- {
-  "address": "EQBV5F1Y2cxiTJfXLwXgOmhqvOz97GBnsJgXhMEhOfjPHQ74",
-  "name": "Rook pixel"
- },
- {
-  "address": "EQCNmLIPO1ph78H3RzVCiVSPkmNB-81SzqPIXafh9Vcdu-Wu",
-  "name": "Skyblue pixel"
- },
- {
-  "address": "EQC7gZnG7ej82MlRyn2mNkYx7SU1tZTrJBV0do93BKWeAXO5",
-  "name": "TON Chess pass"
- },
- {
-  "address": "EQCSCgcZx8betI95FrZFGTUatV6yibtfwS9p1q67oeMS0ER5",
-  "name": "Turquoise board"
- },
- {
-  "address": "EQAziDk-gxgPzjYr5cJkfyDyaZrL7jfY0l7aYsyI2Kdoh-nW",
-  "name": "Turquoise pixel"
- },
- {
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
  },
  {
-  "address": "0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a",
-  "description": "Crypto exchanger token Wallet Exchanger, based on the blockchain The Open Network",
-  "max_supply": 1000000,
-  "name": "Wallet Exchanger",
-  "social": [
-   "https://t.me/WalletExplorerNews"
-  ],
-  "symbol": "WEX",
-  "websites": [
-   "https://t.me/WalletExplorerBot"
-  ]
- },
- {
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
- },
- {
-  "address": "EQBNQYi2Ody8nw4XVUFlZT2f4DZ15UprQZ8Ijq09ZmLbpqkR",
-  "name": "Green Spaceship"
- },
- {
-  "address": "EQDMh0BG35Tzt0M1W2uBoCfC-_c0Wco84OjiQ4lyD9MNHMS3",
-  "name": "Orange Spaceship"
- },
- {
-  "address": "0:70429775a9a9dda8df354ea7f5bb3e6660cfc8e01e3bf4721d2867a9e0ca75cc",
-  "name": "Bonus Pack"
- },
- {
-  "address": "0:f3ca8c7f043c9509df61f7d6d8653e489850045d36b771b6953fa2e408f7bede",
-  "name": "Crystals Pack"
- },
- {
-  "address": "0:55479f0e0fdedf4a9fe13c1ae4bf869f9a25052e8460ebac75e681fc93ce6e74",
-  "name": "Ore Pack"
- },
- {
-  "address": "0:8285177f4665d4e37dba1211b2eb6a91cc062e43559ac2374ab88270c1f6efc4",
-  "name": "Power Charges Pack"
- },
- {
-  "address": "0:5da15307345b3357d883fef91f27f1fe42f25cd88bf68a48ac633ccf94296dfa",
-  "name": "Premium Pack"
- },
- {
-  "address": "0:3fbaf496183237094e57cc84257d963263365a672c274c479bd6a6f6547bf76c",
-  "name": "Starter Pack"
- },
- {
-  "address": "0:a99bee2de7a85886fa1213ee1e88334e32dde3741ef7cf2f16b9d9fc7c4df4ea",
-  "name": "Starter Pack presale jetton",
-  "symbol": "EFZJ"
- },
- {
-  "address": "0:4961550ca4720cb7c21c327a73e5dfe3013e21eb8fc1eb0242aecf1a8352846c",
-  "name": "Supply Pack"
- },
- {
-  "address": "EQB55QCqzim_vT0higE9dJ_avO208otVWIljhaOL9n2JxI3L",
-  "name": "Ore Mine Epic lvl 1"
- },
- {
-  "address": "EQAKoJTPR47T8fHCdEQ3Lhfmrax0RkCzwFtUrRYSnPS3-QTE",
-  "name": "Ore Mine Epic lvl 2"
- },
- {
-  "address": "EQBGB6LJsSMwYakBIJ5Z_ZQeNf1WUEE_erJOrNqWScYmsgYq",
-  "name": "Ore Mine Epic lvl 3"
- },
- {
-  "address": "EQDDolpIYebO42oPpd1TeQOu4hUHBtcFoPGpqG6jgq4p6VNb",
-  "name": "Ore Mine Rare lvl 1"
- },
- {
-  "address": "EQBIYbQJC-8xNcZH7esvdR2DdIQaL1kQaadhjmWK0YnYrs5W",
-  "name": "Ore Mine Rare lvl 2"
- },
- {
-  "address": "EQAyUj_4I1zuA7DFBFDqFYHL0_WsrI8-cct0vAllf_8Qv0Qj",
-  "name": "Ore Mine Rare lvl 3"
- },
- {
-  "address": "EQCUHhfjtDMLSdaFxw-dFlgSkIanRLxKpH_pp8crjLF1o41M",
-  "name": "Ore Mine Uncommon lvl 1"
- },
- {
-  "address": "EQCQHOLLfYamvjDrzws9I6qPZlOH65E86xhi064yEk_RYamI",
-  "name": "Ore Mine Uncommon lvl 2"
- },
- {
-  "address": "EQABtL4UHmNKybJjLZ4of1qyoGjr3_lDaAMBaY3I5eekghgY",
-  "name": "Ore Mine Uncommon lvl 3"
- },
- {
-  "address": "EQCdgkLJaIVPz_93Ma6L07BEXVOekH6Z5Eg493-4GcTihkMv",
-  "name": "Power Station Epic lvl 1"
- },
- {
-  "address": "EQDKinnvyZCdT2lkw1O8wOP6e1cCvdsnw7EuGzfEN2ZxZX_F",
-  "name": "Power Station Epic lvl 2"
- },
- {
-  "address": "EQBHG6mXmsjDI-Ue-akBQQv0qYepK9Su9maVX38E8dWT1qHK",
-  "name": "Power Station Epic lvl 3"
- },
- {
-  "address": "EQDo-BfbrJmWoKdDOXwm1A7ahH4a-p4mzBXORwyEpPhhnNAP",
-  "name": "Power Station Rare lvl 1"
- },
- {
-  "address": "EQBtljiOtzRcfTtE-zaQ5XcHsHM4c9xUHKfu_dVDBdtcENpT",
-  "name": "Power Station Rare lvl 2"
- },
- {
-  "address": "EQCwAJ-8cKX4fRmKzeJqCIiaRf9iB57uj5OFd95z-p9f_FOd",
-  "name": "Power Station Rare lvl 3"
- },
- {
-  "address": "EQClrD5TQ4p4UT7RjlqS8zxz8CSCPe-y19f5g9Pbmj7Mv_kQ",
-  "name": "Power Station Uncommon lvl 1"
- },
- {
-  "address": "EQBN04sCwuMO8nbWuCJsr_02ckdaynxnQX6CU--E9eyTY0pj",
-  "name": "Power Station Uncommon lvl 2"
- },
- {
-  "address": "EQBLnQBfTxm72w7rUmOUAPv2JhoMeN_ucsZlsIkPZNCkpBQJ",
-  "name": "Power Station Uncommon lvl 3"
- },
- {
-  "address": "EQAW-979O9rrprQR0eUety7DMNgVzGg2mcdQ9HZqi25vLUoZ",
-  "name": "Space Cave Epic lvl 1"
- },
- {
-  "address": "EQBYpa3v0wp1eat1hlfYR4sP7j5PlWTHHetLpGsSjBYRyxFh",
-  "name": "Space Cave Epic lvl 2"
- },
- {
-  "address": "EQDEILfLDqmSlmC0l4N2d1HyfZAHnOTEaWddXGLnvJT3Zik-",
-  "name": "Space Cave Epic lvl 3"
- },
- {
-  "address": "EQCs3tHvawNPoHeXkBFC34i3E7NKayKkTOpaiqVCge8b6JSk",
-  "name": "Space Cave Rare lvl 1"
- },
- {
-  "address": "EQADlrmIXzH-Ev2ONSvc7DMj2SbuoGsr-qTVicsC0gwl-Q3L",
-  "name": "Space Cave Rare lvl 2"
- },
- {
-  "address": "EQC5bbh_8TCy1xGLNlD7H13bIIlVldwNkY6vCMsislZSmis4",
-  "name": "Space Cave Rare lvl 3"
- },
- {
-  "address": "EQAjlqp2CtsV7yd3VelMd4xyMPvXxAa8IQf4YAqiv7_KnPe7",
-  "name": "Space Cave Uncommon lvl 1"
- },
- {
-  "address": "EQBGfIxHdfPuR3bNoehAOdI0EUJmUAqZvpXLK3EsDFQ4olBB",
-  "name": "Space Cave Uncommon lvl 2"
- },
- {
-  "address": "EQAm5FhLZ8XdrjG7Dg4pWgEB1RCilNB2gIVm_ig2BnWPTew8",
-  "name": "Space Cave Uncommon lvl 3"
- },
- {
-  "address": "EQDa5Ntus8raFzXmqJUZc45ci-0yTMoNGD4ZC4MDi9zYRqPc",
-  "name": "Space Farm Epic lvl 1"
- },
- {
-  "address": "EQBKTnDQQstFnOfcdnf-qJ9F44vLQGsUOISCk_HJruUe5yso",
-  "name": "Space Farm Epic lvl 2"
- },
- {
-  "address": "EQB9NTH_bdrLsoUl7xR5Jj7WtkJFswmNKlJqn9Ta0dORRK6c",
-  "name": "Space Farm Epic lvl 3"
- },
- {
-  "address": "EQDrVlixJSGwtM35gbcAag7qtxyGuPIWXLkvrnaAGHXCbUyJ",
-  "name": "Space Farm Rare lvl 1"
- },
- {
-  "address": "EQBnMRn05chaSZZdg2PSuGGyxsCDXY5tRsO6zcQyDO1VLYH1",
-  "name": "Space Farm Rare lvl 2"
- },
- {
-  "address": "EQCIsPvlwJOaB4d9GjV83OxTyMCjZCj7dXi-RdXmX-8ZhuV2",
-  "name": "Space Farm Rare lvl 3"
- },
- {
-  "address": "EQA4R4qC__ogFwb_27vYQ4Y8Lyg_N4K4Rb2RaGWxnwj2x4Ya",
-  "name": "Space Farm Uncommon lvl 1"
- },
- {
-  "address": "EQD9OEITEmGtoRtygte2uZlNCu4DdKJMvuPDJDgkDqGOfgNC",
-  "name": "Space Farm Uncommon lvl 2"
- },
- {
-  "address": "EQD2uETN4GXhYlmvQ5CaKJ-zGHZj88byhpy6UQBQf4I9Tc3-",
-  "name": "Space Farm Uncommon lvl 3"
- },
- {
-  "address": "EQDFlNFYQx5Ka28omK_UPmKiRncg0vMxJACErzdhqeCgcpTP",
-  "name": "Zeya's Winter Map"
  }
 ]
