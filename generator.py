@@ -7,9 +7,9 @@ import base64
 
 from dexes import __get_stonfi_assets, __get_megaton_assets, __get_dedust_assets
 
-EXPLORER_JETTONS = "https://tonapi.io/jetton/"
-EXPLORER_ACCOUNTS = "https://tonapi.io/account/"
-EXPLORER_COLLECTIONS = "https://tonscan.org/nft/"
+EXPLORER_JETTONS = "https://tonviewer.com/"
+EXPLORER_ACCOUNTS = "https://tonviewer.com/"
+EXPLORER_COLLECTIONS = "https://tonviewer.com/"
 
 DEXES_FILE_NAME = "imported_from_dex.yaml"
 
