@@ -60,7 +60,6 @@ Name           | Address
 [Crystals Pack](https://tonapi.io/jetton/0:f3ca8c7f043c9509df61f7d6d8653e489850045d36b771b6953fa2e408f7bede) | EQDzyox_BDyVCd9h99bYZT5ImFAEXTa3cbaVP6LkCPe-3lnq
 [DEFI HUNTERS DAO](https://tonapi.io/jetton/0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d) | EQCW5g1evnQN2OZZEVe-23aSvEsgPauWZlF27ZIz5REhnWRy
 [DHD Coin](https://tonapi.io/jetton/0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e) | EQBCFwW8uFUh-amdRmNY9NyeDEaeDYXd9ggJGsicpqVcHq7B
-[DOLBOEB](https://tonapi.io/jetton/0:978122d4c1a865168dfaef342666a7dfee4a828142009848099c97ed18bf9f14) | EQCXgSLUwahlFo367zQmZqff7kqCgUIAmEgJnJftGL-fFJNi
 [DeDust.io JTON-BOLT LP](https://tonapi.io/jetton/0:f70ae1648b4f74f40ac34d2908399b49ec96ac9765a8aa5d9e8072fc7d52d596) | EQD3CuFki0909ArDTSkIOZtJ7Jasl2Woql2egHL8fVLVltYQ
 [DeDust.io JTON-KINGY LP](https://tonapi.io/jetton/0:e34925d3d4776ab721680af86ba9eb3366e3402f77ae277fac481670b081c3b8) | EQDjSSXT1HdqtyFoCvhrqeszZuNAL3euJ3-sSBZwsIHDuP7r
 [Donation](https://tonapi.io/jetton/0:c47099533c1ca6cd4a8e275e50478e2f2253c81e1b16965ac869f5a93dd7878a) | EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR
