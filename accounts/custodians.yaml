@@ -85,3 +85,8 @@
   name: "AvanChange"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg"
+- address: "EQAYgkeNrvG37SAMu9wgG9TtCyTC5fGkx8Fa6347GnWRk0v_"
+  name: "Coinone Deposit"
+  require_memo: true
+- address: "EQCk0gcrHtwTVfx_vuAJW-7HiJotPPqp7c8s6eEoYxq71hcS"
+  name: "Coinone Withdrawal"
