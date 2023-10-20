@@ -150,6 +150,8 @@ Name           | Address
 [Orbit Bridge Ton Wrapped BTC](https://tonviewer.com/0:0d6ac6f30f9c1d571d2a8a479b91c86b1fae33360b01dfca02f4f56eeeb1b5ea) | EQANasbzD5wdVx0qikebkchrH64zNgsB38oC9PVu7rG16qNB
 [Orbit Bridge Ton apM Coin](https://tonviewer.com/0:64a11836506ebbb63f103e801f1a5b5bf5597c3cb6e87c63ba1463000ee0c101) | EQBkoRg2UG67tj8QPoAfGltb9Vl8PLbofGO6FGMADuDBAZA9
 [PAPA CARLO](https://tonviewer.com/0:23d7c2a2e2c1b8ec05dbd78368df9167acc341c42dae1dcb887a3243cab77a55) | EQAj18Ki4sG47AXb14No35FnrMNBxC2uHcuIejJDyrd6VXpQ
+[Petcoin](https://tonviewer.com/0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b) | EQBJOJ2eL_CUFT_0r9meoqjKUwRttC_-NUJyvWQxszVWe1WY
+[Pioneer](https://tonviewer.com/0:638b1482770736ff5f93166108687b38980c8181204021384ab1d0637584fa48) | EQBjixSCdwc2_1-TFmEIaHs4mAyBgSBAIThKsdBjdYT6SITy
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [Red Coin](https://tonviewer.com/0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa) | EQDAgy1xcNg0aFle548miasSdLCkL1nDeqSLP7Pua4wq-iTo
 [STON](https://tonviewer.com/0:3690254dc15b2297610cda60744a45f2b710aa4234b89adb630e99d79b01bd4f) | EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO
