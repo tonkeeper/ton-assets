@@ -55,6 +55,9 @@
 - address: 0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b
   name: EggsWisdom
   symbol: EGG
+- address: 0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb
+  name: $PUNK
+  symbol: PUNK
 - address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
   name: Mantle
   symbol: jMNT
@@ -64,12 +67,9 @@
 - address: 0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b
   name: Petcoin
   symbol: PET
-- address: 0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb
-  name: $PUNK
-  symbol: PUNK
-- address: 0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36
-  name: MC
-  symbol: Magic Crystal
 - address: 0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36
   name: GAGARIN
   symbol: GGR
+- address: 0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36
+  name: MC
+  symbol: Magic Crystal

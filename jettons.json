@@ -417,6 +417,11 @@
   "symbol": "EGG"
  },
  {
+  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
+  "name": "$PUNK",
+  "symbol": "PUNK"
+ },
+ {
   "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
   "name": "Mantle",
   "symbol": "jMNT"
@@ -432,19 +437,14 @@
   "symbol": "PET"
  },
  {
-  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
-  "name": "$PUNK",
-  "symbol": "PUNK"
+  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
+  "name": "GAGARIN",
+  "symbol": "GGR"
  },
  {
   "address": "0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36",
   "name": "MC",
   "symbol": "Magic Crystal"
- },
- {
-  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
-  "name": "GAGARIN",
-  "symbol": "GGR"
  },
  {
   "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",
@@ -529,18 +529,22 @@
  {
   "address": "0:0be9ed5434f164b27f35f7ca8e0fa2880a7a65c3a7fd70c205b905b7c55f6577",
   "description": "Mars Coin. Game TONPlanets.com",
-  "image": "https://nft.tonplanets.com/jettons/mars/mars_logo.png",
+  "image": "https://nft.tonplanets.com/jettons/mars/m_j_v2_512.png",
   "max_supply": 5000000000,
   "name": "Mars",
   "social": [
    "https://t.me/TONPlanets",
+   "https://t.me/TONPlanetsTalks",
    "https://t.me/TONPlanetsBot",
-   "https://t.me/TONPlanetsEn"
+   "https://t.me/TONPlanetsEn",
+   "https://t.me/TONPlanetsFa"
   ],
   "symbol": "MARS",
   "websites": [
    "https://mars.tonplanets.com",
-   "https://tonplanets.com"
+   "https://tonplanets.com",
+   "https://mars.tonplanets.ru",
+   "https://tonplanets.ru"
   ]
  },
  {
