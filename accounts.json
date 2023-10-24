@@ -306,6 +306,15 @@
   "require_memo": true
  },
  {
+  "address": "0:1882478daef1b7ed200cbbdc201bd4ed0b24c2e5f1a4c7c15aeb7e3b1a759193",
+  "name": "Coinone Deposit",
+  "require_memo": true
+ },
+ {
+  "address": "0:a4d2072b1edc1355fc7fbee0095beec7889a2d3cfaa9edcf2ce9e128631abbd6",
+  "name": "Coinone Withdrawal"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
