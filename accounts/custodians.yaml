@@ -90,3 +90,6 @@
   require_memo: true
 - address: "EQCk0gcrHtwTVfx_vuAJW-7HiJotPPqp7c8s6eEoYxq71hcS"
   name: "Coinone Withdrawal"
+- address: "EQDz9O0JE6tVXQI3RQWPGmxVpJ1Idlk8ub2rH3gKmbGFvCuG"
+  name: Paribu
+  require_memo: true
