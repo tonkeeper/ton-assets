@@ -315,6 +315,11 @@
   "name": "Coinone Withdrawal"
  },
  {
+  "address": "0:f3f4ed0913ab555d023745058f1a6c55a49d4876593cb9bdab1f780a99b185bc",
+  "name": "Paribu",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
