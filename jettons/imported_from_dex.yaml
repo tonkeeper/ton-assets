@@ -7,9 +7,15 @@
 - address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
   name: Glint Coin
   symbol: GLINT
+- address: 0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a
+  name: Ton Raffles Token
+  symbol: RAFF
 - address: 0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777
   name: 'Margaritis '
   symbol: MARGA
+- address: 0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36
+  name: Magic Crystal
+  symbol: MC
 - address: 0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b
   name: Petcoin
   symbol: PET
@@ -70,12 +76,15 @@
 - address: 0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda
   name: TON Drift
   symbol: DRIFT
-- address: 0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36
-  name: Magic Crystal
-  symbol: MC
-- address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
-  name: Mantle
-  symbol: jMNT
+- address: 0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054
+  name: Lucky TON
+  symbol: LKY
+- address: 0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c
+  name: GROK
+  symbol: GROK
+- address: 0:ce0e4a5fc59e23a1edd1c417248e0bc20901fe4d7c68cdb3704cea0252838c09
+  name: GRIMACE COIN
+  symbol: GRIMACE
 - address: 0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36
   name: GAGARIN
   symbol: GGR
@@ -85,3 +94,6 @@
 - address: 0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb
   name: $PUNK
   symbol: PUNK
+- address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
+  name: Mantle
+  symbol: jMNT
