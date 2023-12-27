@@ -46,6 +46,7 @@ Name           | Address
 Name           | Address
 ---------------|-----------
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
+[ARBUZ](https://tonviewer.com/0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45) | EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1
 [Ambra](https://tonviewer.com/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
 [Bear Country Token](https://tonviewer.com/0:2fbc476ae31e4aea8c23b0c2385fa0312a44c15d52885648921c32edea2d8b16) | EQAvvEdq4x5K6owjsMI4X6AxKkTBXVKIVkiSHDLt6i2LFnnQ
 [CAR COLLECTION](https://tonviewer.com/0:e4c6be69583a14bbb27f0b350628545b9c86f399e74d5770aae72ab74178126e) | EQDkxr5pWDoUu7J_CzUGKFRbnIbzmedNV3Cq5yq3QXgSbh41
@@ -175,6 +176,7 @@ Name           | Address
 [Ton Raffles Token](https://tonviewer.com/0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a) | EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h
 [Ton Whales liquid staking token](https://tonviewer.com/0:744a8c6e183c79aa356dd0ffdb3c80857967452c1995a291e18e07ecd2afb0b1) | EQB0SoxuGDx5qjVt0P_bPICFeWdFLBmVopHhjgfs0q-wsTON
 [TonTake](https://tonviewer.com/0:73c9eb19de9d5618dae080d4898ba2452b7bebd0686a269e20c647abf68ba38d) | EQBzyesZ3p1WGNrggNSJi6JFK3vr0GhqJp4gxker9oujjcuv
+[TonUP](https://tonviewer.com/0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd) | EQCvaf0JMrv6BOvPpAgee08uQM_uRpUd__fhA7Nm8twzvbE_
 [TonexCoin](https://tonviewer.com/0:7e6a33328b9f9628880e1e76ce180a5f7245066e5ead0e4dd0b7c3ca99bfb12c) | EQB-ajMyi5-WKIgOHnbOGApfckUGbl6tDk3Qt8PKmb-xLAvp
 [Tonnel Network Token](https://tonviewer.com/0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32) | EQDNDv54v_TEU5t26rFykylsdPQsv5nsSZaH_v7JSJPtMitv
 [Tonstakers TON](https://tonviewer.com/0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000) | EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav

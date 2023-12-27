@@ -25,9 +25,15 @@
 - address: 0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971
   name: "\u0416\u042E"
   symbol: LIFEYT
+- address: 0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45
+  name: ARBUZ
+  symbol: ARBUZ
 - address: 0:aef6a69f1581f5b5bbc10ac560e904303db2e29f3436ec72a4af44dbe164a86d
   name: MONK
   symbol: MONK
+- address: 0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd
+  name: TonUP
+  symbol: UP
 - address: 0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa
   name: RED X
   symbol: REDX
@@ -85,15 +91,15 @@
 - address: 0:ce0e4a5fc59e23a1edd1c417248e0bc20901fe4d7c68cdb3704cea0252838c09
   name: GRIMACE COIN
   symbol: GRIMACE
-- address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
-  name: Mantle
-  symbol: jMNT
-- address: 0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36
-  name: GAGARIN
-  symbol: GGR
-- address: 0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb
-  name: $PUNK
-  symbol: PUNK
 - address: 0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4
   name: GEMSTON
   symbol: GEMSTON
+- address: 0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb
+  name: $PUNK
+  symbol: PUNK
+- address: 0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36
+  name: GAGARIN
+  symbol: GGR
+- address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
+  name: Mantle
+  symbol: jMNT

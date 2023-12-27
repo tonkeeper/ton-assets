@@ -320,6 +320,10 @@
   "require_memo": true
  },
  {
+  "address": "0:f9873509de5a2f97f7b2805f5f7aafab447f43c91e751cc8efabc6d2ea09d78a",
+  "name": "BingX"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
