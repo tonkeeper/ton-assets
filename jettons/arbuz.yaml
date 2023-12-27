@@ -1,0 +1,10 @@
+name: ARBUZ
+description: Watermelon Festival inter-blockchain token
+image: "https://cache.tonapi.io/imgproxy/DPjV-M30WgZW_b9-jr3XKe47Fo_9YA8A7NyP55Irj-8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvWEpnVmY3cGIvYXJiLnBuZw.webp"
+address: 0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45
+symbol: ARBUZ
+max_supply: 10000000
+websites:
+  - "https://tonarbuz.fun"
+social:
+  - "https://t.me/tonarbuz"
