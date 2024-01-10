@@ -248,10 +248,6 @@
   "symbol": "CON"
  },
  {
-  "address": "EQDjSSXT1HdqtyFoCvhrqeszZuNAL3euJ3-sSBZwsIHDuP7r",
-  "name": "DeDust.io JTON-KINGY LP"
- },
- {
   "address": "EQD3CuFki0909ArDTSkIOZtJ7Jasl2Woql2egHL8fVLVltYQ",
   "name": "DeDust.io JTON-BOLT LP"
  },
@@ -509,9 +505,9 @@
   "symbol": "SEED"
  },
  {
-  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
-  "name": "Mantle",
-  "symbol": "jMNT"
+  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
+  "name": "$PUNK",
+  "symbol": "PUNK"
  },
  {
   "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
@@ -519,14 +515,14 @@
   "symbol": "GGR"
  },
  {
-  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
-  "name": "$PUNK",
-  "symbol": "PUNK"
- },
- {
   "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
   "name": "GEMSTON",
   "symbol": "GEMSTON"
+ },
+ {
+  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
+  "name": "Mantle",
+  "symbol": "jMNT"
  },
  {
   "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",

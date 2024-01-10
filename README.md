@@ -56,7 +56,6 @@ Name           | Address
 [DEFI HUNTERS DAO](https://tonviewer.com/0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d) | EQCW5g1evnQN2OZZEVe-23aSvEsgPauWZlF27ZIz5REhnWRy
 [DHD Coin](https://tonviewer.com/0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e) | EQBCFwW8uFUh-amdRmNY9NyeDEaeDYXd9ggJGsicpqVcHq7B
 [DeDust.io JTON-BOLT LP](https://tonviewer.com/0:f70ae1648b4f74f40ac34d2908399b49ec96ac9765a8aa5d9e8072fc7d52d596) | EQD3CuFki0909ArDTSkIOZtJ7Jasl2Woql2egHL8fVLVltYQ
-[DeDust.io JTON-KINGY LP](https://tonviewer.com/0:e34925d3d4776ab721680af86ba9eb3366e3402f77ae277fac481670b081c3b8) | EQDjSSXT1HdqtyFoCvhrqeszZuNAL3euJ3-sSBZwsIHDuP7r
 [DeFinder Capital](https://tonviewer.com/0:f6eb371de82aa9cfb5b22ca547f31fdc0fa0fbb41ae89ba84a73272ff0bf2157) | EQD26zcd6Cqpz7WyLKVH8x_cD6D7tBrom6hKcycv8L8hV0GP
 [Donation](https://tonviewer.com/0:c47099533c1ca6cd4a8e275e50478e2f2253c81e1b16965ac869f5a93dd7878a) | EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR
 [EXTON COIN](https://tonviewer.com/0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a) | EQC-A0ZHiAliPJ6LYQQZ6x2WRJC0aHEmJ_OMG6pidb5ASpIY
