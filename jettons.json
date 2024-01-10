@@ -270,6 +270,12 @@
   "symbol": "NOT"
  },
  {
+  "address": "0:8be3365cabaa6a0f90d2e64f03fa78268c135fe0b0758b576b447e9b2068d75c",
+  "description": "Fake NOTCOIN for avoid scam",
+  "name": "NOTCOIN",
+  "symbol": "NOTCOIN"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "max_supply": 2100000000,
@@ -501,6 +507,11 @@
   "symbol": "SEED"
  },
  {
+  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
+  "name": "$PUNK",
+  "symbol": "PUNK"
+ },
+ {
   "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
   "name": "Mantle",
   "symbol": "jMNT"
@@ -514,11 +525,6 @@
   "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
   "name": "GAGARIN",
   "symbol": "GGR"
- },
- {
-  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
-  "name": "$PUNK",
-  "symbol": "PUNK"
  },
  {
   "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",
