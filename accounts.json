@@ -610,5 +610,13 @@
  {
   "address": "-1:fcce4666e24e1f8efdc869d76875f056070324fb44e02ee5864047da10c9b4c4",
   "name": "DG Pool #2"
+ },
+ {
+  "address": "-1:be899af8a35cef154f6ed06737d1293674dcd625393c111af9c60bfe00e1c18f",
+  "name": "Animoca Brands Pool 1"
+ },
+ {
+  "address": "-1:21a56f2ebf9360cf99b99d5fed49105fa3f552987cfaa70fc943a63f3d757943",
+  "name": "Animoca Brands Pool 2"
  }
 ]
