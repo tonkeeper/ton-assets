@@ -9,4 +9,8 @@
 - name: NOTCOIN
   symbol: NOTCOIN
   description: Fake NOTCOIN for avoid scam
-  address: 0:8be3365cabaa6a0f90d2e64f03fa78268c135fe0b0758b576b447e9b2068d75c
+  address: 0:8be3365cabaa6a0f90d2e64f03fa78268c135fe0b0758b576b447e9b2068d76c
+- name: USD
+  symbol: USD
+  description: Fake USD for avoid scam
+  address: 0:a26cdf3a6e709124385d4d7eb9bff6b897a58ed5597fbab779b89849dbe81b21
