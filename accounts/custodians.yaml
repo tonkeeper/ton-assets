@@ -95,3 +95,7 @@
   require_memo: true
 - address: "EQD5hzUJ3lovl_eygF9feq-rRH9DyR51HMjvq8bS6gnXimGv"
   name: "BingX"
+- address: "EQDftQdPITnb-x8-gj3f15dtpQbn94F1yYxiftLoQPeGBizQ"
+  name: "FixedFloat"
+  require_memo: true
+  image: "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg" 
