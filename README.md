@@ -195,6 +195,7 @@ Name           | Address
 [Tonnel Network Token](https://tonviewer.com/0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32) | EQDNDv54v_TEU5t26rFykylsdPQsv5nsSZaH_v7JSJPtMitv
 [Tonstakers TON](https://tonviewer.com/0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000) | EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav
 [USD](https://tonviewer.com/0:a26cdf3a6e709124385d4d7eb9bff6b897a58ed5597fbab779b89849dbe81b21) | EQCibN86bnCRJDhdTX65v_a4l6WO1Vl_urd5uJhJ2-gbIRGa
+[USDC](https://tonviewer.com/0:8591ee9090c0c02ca1f103cb637131d8f358870aba145245ff083e138fdd705b) | EQCFke6QkMDALKHxA8tjcTHY81iHCroUUkX_CD4Tj91wW44I
 [VOMER](https://tonviewer.com/0:6d14df21f1d4ad4ef239f2d11273f4bbd1e86404b4aecd0a8283904b210c8a30) | EQBtFN8h8dStTvI58tESc_S70ehkBLSuzQqCg5BLIQyKMBC1
 [Vincere](https://tonviewer.com/0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5) | EQDqQscohYilSqWEyeLyCReOQKOh7KhRX_CPlD-Qdx02tUbG
 [WTON](https://tonviewer.com/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
