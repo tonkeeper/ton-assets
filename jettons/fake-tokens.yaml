@@ -18,3 +18,6 @@
   symbol: USDC
   description: Fake USDC for avoid scam
   address: 0:8591ee9090c0c02ca1f103cb637131d8f358870aba145245ff083e138fdd705b
+- name: The Daily Ton
+  description: Fake token for avoid scam
+  address: 0:a80b9b7416d9dc935cf8098103bbdc8c31102a76d1159b92206237c68a1004d0
