@@ -14,3 +14,7 @@
   symbol: USD
   description: Fake USD for avoid scam
   address: 0:a26cdf3a6e709124385d4d7eb9bff6b897a58ed5597fbab779b89849dbe81b21
+- name: USDC
+  symbol: USDC
+  description: Fake USDC for avoid scam
+  address: 0:8591ee9090c0c02ca1f103cb637131d8f358870aba145245ff083e138fdd705b
