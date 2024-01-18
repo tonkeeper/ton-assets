@@ -324,6 +324,12 @@
   "name": "BingX"
  },
  {
+  "address": "0:dfb5074f2139dbfb1f3e823ddfd7976da506e7f78175c98c627ed2e840f78606",
+  "image": "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg",
+  "name": "FixedFloat",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
