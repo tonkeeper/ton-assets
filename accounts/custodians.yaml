@@ -99,3 +99,6 @@
   name: "FixedFloat"
   require_memo: true
   image: "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg" 
+- address: "UQDQGcjf-YROG3qUBaU9iu-hixAsEWzL3Os1Bi5NVd83wa7E"
+  name: "Lucky TON"
+  image: "https://bafkreigezyd5pqbd4n7mnbo6gpwx3fvo4xo3grx6rij2nrwoz6axenps2a.ipfs.w3s.link"
