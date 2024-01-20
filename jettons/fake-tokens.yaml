@@ -2,6 +2,10 @@
   description: Fake token for avoid scam
   address: 0:ca9006bd3fb03d355daeeff93b24be90afaa6e3ca0073ff5720f8a852c933278
   symbol: USDT
+- name: Tether USD
+  description: Fake token for avoid scam
+  address: 0:ca9006bd3fb03d355daeeff93b24be90afaa6e3ca0073ff5720f8a852c933278
+  symbol: Tether USD
 - name: NOTCOIN
   symbol: NOT
   description: Fake NOTCOIN for avoid scam
@@ -18,3 +22,7 @@
   symbol: USDC
   description: Fake USDC for avoid scam
   address: 0:8591ee9090c0c02ca1f103cb637131d8f358870aba145245ff083e138fdd705b
+- name: toncoin
+  symbol: toncoin
+  description: Fake ton for avoid scam
+  address: 0:8591ee9090c0c02ca1f103cb637131d8f358870aba145245af083e138fdd705b
