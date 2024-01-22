@@ -99,3 +99,6 @@
   name: "FixedFloat"
   require_memo: true
   image: "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg" 
+  - address: "EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb"
+  name: "Ton Miner"
+  require_memo: true
