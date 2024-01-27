@@ -151,15 +151,33 @@
 - address: 0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81
   name: ToonTools
   symbol: TOON
+- address: 0:7d0f5fd1a20ea2b58b8da0b908526b239a417b854fd4512cc5904c22bfa66c78
+  name: MAMA
+  symbol: MAMA
+- address: 0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd
+  name: BARASH
+  symbol: SHEEP
+- address: 0:651e7602d14935dff5812b83cdfaa8c1d938a25e2c580d37bb1235f5efe215fb
+  name: Ton Invaders Coin
+  symbol: INC
+- address: 0:1596e1910b8c04576683a62220aa212f8671fefa59aae4415a2fa0bd55fbf455
+  name: Fake Notcoin
+  symbol: FNOT
+- address: 0:667170b2b5cf590dcc9fa21f455cd36f4a4a6c97f543ec6c23921054d611754b
+  name: DOBERCOIN
+  symbol: DOBER
 - address: 0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb
   name: $PUNK
   symbol: PUNK
-- address: 0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4
-  name: GEMSTON
-  symbol: GEMSTON
+- address: 0:00574f92190f5b8aece0779b20ae7bf4cffeece3a6d5be143306e58e2e74850a
+  name: Wrapped NANO
+  symbol: jNANO
 - address: 0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36
   name: GAGARIN
   symbol: GGR
+- address: 0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4
+  name: GEMSTON
+  symbol: GEMSTON
 - address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
   name: Mantle
   symbol: jMNT
