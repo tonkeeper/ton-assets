@@ -99,3 +99,7 @@
   name: "FixedFloat"
   require_memo: true
   image: "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg" 
+- address: "EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb"
+  name: "Ton Miner"
+  require_memo: true
+  image: "http://1rus.com/wp-content/uploads/2024/01/photo_2023-12-08_12-58-58-_1_-_1_.svg" 
