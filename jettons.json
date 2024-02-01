@@ -637,14 +637,39 @@
   "symbol": "DOBER"
  },
  {
+  "address": "0:832092854dfe50a168a2ebefca4e4f1ba3a78a891fba864e47510c22c427bc49",
+  "name": "VISHNYA",
+  "symbol": "VISHNYA"
+ },
+ {
+  "address": "0:80e1ad1f8b908290aa307d954049839c6b3f6726185623b0e28d4dafb2887230",
+  "name": "JogjaTON",
+  "symbol": "JOG"
+ },
+ {
+  "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
+  "name": "Gram",
+  "symbol": "GRAM"
+ },
+ {
+  "address": "0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27",
+  "name": "Ferma Invest Dom",
+  "symbol": "FID"
+ },
+ {
+  "address": "0:5f5fd28ee72205a6b1d63e9269dceb17fba7232e310917e879b88404dde2c963",
+  "name": "Virtuals Worlds",
+  "symbol": "VWS"
+ },
+ {
+  "address": "0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d",
+  "name": "TON SHIP",
+  "symbol": "SHIP"
+ },
+ {
   "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
   "name": "$PUNK",
   "symbol": "PUNK"
- },
- {
-  "address": "0:00574f92190f5b8aece0779b20ae7bf4cffeece3a6d5be143306e58e2e74850a",
-  "name": "Wrapped NANO",
-  "symbol": "jNANO"
  },
  {
   "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
@@ -655,6 +680,11 @@
   "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
   "name": "GEMSTON",
   "symbol": "GEMSTON"
+ },
+ {
+  "address": "0:00574f92190f5b8aece0779b20ae7bf4cffeece3a6d5be143306e58e2e74850a",
+  "name": "Wrapped NANO",
+  "symbol": "jNANO"
  },
  {
   "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
