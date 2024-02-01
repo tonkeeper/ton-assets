@@ -1123,6 +1123,22 @@
   ]
  },
  {
+  "address": "0:59fdc69f3f20ebe4a513b3468dc61d194c3864a4464e3662c903648d1a52e6e0",
+  "coingecko": "https://www.coingecko.com/en/coins/resistance-dog",
+  "description": "Pavel Durov Founder Of The Digital Resitance Dog - $REDO is a meme coin on the TON Blockchain. https://t.me/RedoTON",
+  "image": "https://raw.githubusercontent.com/Resistance-Dog/resistance-dog/main/resistance-dog.webp",
+  "max_supply": 100000000,
+  "name": "Resistance Dog",
+  "social": [
+   "https://t.me/redoton",
+   "https://twitter.com/redoonton"
+  ],
+  "symbol": "REDO",
+  "websites": [
+   "https://www.redoton.com/"
+  ]
+ },
+ {
   "address": "0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b",
   "description": "Official Jetton of TON Island project.",
   "max_supply": 1000000,
