@@ -1,0 +1,10 @@
+name: "Aper.TON"
+description: "Hybrid cryptocurrency combines a floating market rate with reliable protection against total devaluation. Its uniqueness lies in the presence of an Eternal Buyer, who guarantees the purchase of the currency at a base price, thus ensuring investment confidence in its stability."
+image: "https://cache.tonapi.io/imgproxy/5uJOdTcQYuYdIxZNwJQcL4rIcd0xbPdAQ0aoO2taKIA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hcGVydG9uLnJ1L0xvZ29fb25fZGFyay5wbmc.webp"
+address: "0:76cb3c2070dce201258a5c77fdf17f1489380346c8ee6b2855f37ffaad59f2d9"
+symbol: "APER"
+max_supply: 3000000
+websites:
+  - "https://aperton.ru/"
+social:
+  - "https://t.me/aper_ton"
