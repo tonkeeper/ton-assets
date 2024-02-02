@@ -1,0 +1,11 @@
+name: FINALIFE Token
+description: A utility token of the multifunctional partner platform FINALIFE
+address: EQDL6po07gDczozQsd4PyxJqtNNllTC_wTjYHdG7ZDemrd3v
+symbol: FNL
+max_supply: 1000000000000
+websites:
+  - "https://fina.life"
+  - "https://fnl.pw"
+social:
+  - "https://t.me/finalifebot"
+  - "https://t.me/fnlbot"
