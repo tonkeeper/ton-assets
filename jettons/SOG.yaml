@@ -1,0 +1,11 @@
+address: EQD9jt7gDBSfgbLrskdg4OHmhJn7umt4I_O2yUGO9u1TuD76
+name: "SoG Coin"
+description: "This is just a token for Storm of the Galaxy project, adding a bit of blockchain is not so bad)"
+symbol: SOG
+decimals: 9
+image: "https://stormgalaxy.com/storage/img/logo.jpg"
+max_supply: 21000000
+websites:
+  - "https://stormgalaxy.com"
+social:
+  - "https://discord.gg/storm-of-galaxy-hard-rp-server-996141113847074826"
