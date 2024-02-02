@@ -1,0 +1,11 @@
+name: CRYPTON
+description: Your all-in-one destination for a seamless and powerful user experience on TON. TG - https://t.me/cryptonportal , Twitter/X - https://x.com/thetonhub
+image: "https://cache.tonapi.io/imgproxy/jfODkmU84Hp5C15tRdzMVlQrMT5aa-hNrZRo05NM6Zk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9qYWRlLWp1c3QtZWxrLTQ3MS5teXBpbmF0YS5jbG91ZC9pcGZzL1FtUzdCcldRYXpMb1BuZW9BVEh6Ymo1b2RqeWJqdGRmRGZVTFJXaGhtZ2N1Yjg_X2dsPTEqcmU0d3h5Kl9nYSpOVEV5TmpjME1EZ3dMakUzTURNeE1UQXlNREkuKl9nYV81Uk1QWEcxNFRFKk1UY3dORGMxT1RZNU1pNDBMakV1TVRjd05EYzFPVGd5TkM0Mk1DNHdMakEu.webp"
+address: 0:f7e8bc69ea9e053331d04e15b3bc535aaa16d3f108a9e2b305d4d623092818ea
+symbol: CRYPTON
+max_supply: 1000000
+websites:
+  - "https://crypton.tools/"
+social:
+  - "https://t.me/cryptonportal"
+  - "https://twitter.com/thetonhub"
