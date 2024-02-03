@@ -172,10 +172,12 @@ Name           | Address
 [Orbit Bridge Ton apM Coin](https://tonviewer.com/0:64a11836506ebbb63f103e801f1a5b5bf5597c3cb6e87c63ba1463000ee0c101) | EQBkoRg2UG67tj8QPoAfGltb9Vl8PLbofGO6FGMADuDBAZA9
 [PAPA](https://tonviewer.com/0:9896f1698b4e0015e6de174c7829ac8a8a813176f3f6de2c2d4c9e3919a6934c) | EQCYlvFpi04AFebeF0x4KayKioExdvP23iwtTJ45GaaTTEbP
 [PAPA CARLO](https://tonviewer.com/0:23d7c2a2e2c1b8ec05dbd78368df9167acc341c42dae1dcb887a3243cab77a55) | EQAj18Ki4sG47AXb14No35FnrMNBxC2uHcuIejJDyrd6VXpQ
+[PROTON JETTON](https://tonviewer.com/0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655) | EQDgSR_-4FDlXPfMVefXX1IIXMWBH4YfYV1a_8cJ0XsGVdsf
 [Petcoin](https://tonviewer.com/0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b) | EQBJOJ2eL_CUFT_0r9meoqjKUwRttC_-NUJyvWQxszVWe1WY
 [Pioneer](https://tonviewer.com/0:638b1482770736ff5f93166108687b38980c8181204021384ab1d0637584fa48) | EQBjixSCdwc2_1-TFmEIaHs4mAyBgSBAIThKsdBjdYT6SITy
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [Red Coin](https://tonviewer.com/0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa) | EQDAgy1xcNg0aFle548miasSdLCkL1nDeqSLP7Pua4wq-iTo
+[Resistance Dog](https://tonviewer.com/0:59fdc69f3f20ebe4a513b3468dc61d194c3864a4464e3662c903648d1a52e6e0) | EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko
 [SEED](https://tonviewer.com/0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719) | EQAtwmCISetV3ncZRb1QDiHcbSgfo-Y37-zPL6NhedGHGaTf
 [SIMBA](https://tonviewer.com/0:418cc07e7a971da285742ca4803a5d76b1e7bde0e9e59545855e2d26a98646b1) | EQBBjMB-epcdooV0LKSAOl12see94OnllUWFXi0mqYZGsXr2
 [STON](https://tonviewer.com/0:3690254dc15b2297610cda60744a45f2b710aa4234b89adb630e99d79b01bd4f) | EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO
@@ -199,6 +201,7 @@ Name           | Address
 [Tether USD](https://tonviewer.com/0:ca9006bd3fb03d355daeeff93b24be90afaa6e3ca0073ff5720f8a852c933278) | EQDKkAa9P7A9NV2u7_k7JL6Qr6puPKAHP_VyD4qFLJMyeOLi
 [Ton Earth coin](https://tonviewer.com/0:301ff3049a811b0ff00651d9e85b0a6f48171cb71fe36c30ae07467c7576eb01) | EQAwH_MEmoEbD_AGUdnoWwpvSBcctx_jbDCuB0Z8dXbrAdxy
 [Ton Invaders Coin](https://tonviewer.com/0:651e7602d14935dff5812b83cdfaa8c1d938a25e2c580d37bb1235f5efe215fb) | EQBlHnYC0Uk13_WBK4PN-qjB2TiiXixYDTe7EjX17-IV-0eF
+[Ton Miner](https://tonviewer.com/0:795a3a3bc9775a07bd32068376604bfc8953e301d30e6dffc3ab8d042cb68f96) | EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb
 [Ton Raffles Token](https://tonviewer.com/0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a) | EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h
 [Ton Whales liquid staking token](https://tonviewer.com/0:744a8c6e183c79aa356dd0ffdb3c80857967452c1995a291e18e07ecd2afb0b1) | EQB0SoxuGDx5qjVt0P_bPICFeWdFLBmVopHhjgfs0q-wsTON
 [TonTake](https://tonviewer.com/0:73c9eb19de9d5618dae080d4898ba2452b7bebd0686a269e20c647abf68ba38d) | EQBzyesZ3p1WGNrggNSJi6JFK3vr0GhqJp4gxker9oujjcuv
