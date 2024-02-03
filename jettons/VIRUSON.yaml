@@ -1,6 +1,6 @@
 name: VirusON.app
 description: Infrastructure Token for VirusOn.app service
-image: "https://i.tonscan.org/resize/jmMLkC3zS49avD4OTFDYgOr14UTH24iZxgHRxJkG6lI/f:jpg/rs:fit:144:144:0/aHR0cHM6Ly92aXJ1c29uLmFwcC9sb2dvLWJpZy5wbmc.jpg"
+image: "https://viruson.app/logo-big.png "
 address: 0:1bc2e5105a809c2aaaff874cc410d5312cdf3d605400b57bab982c61846597bd
 symbol: VIRUSON
 max_supply: 21000000
