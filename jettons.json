@@ -1217,5 +1217,20 @@
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
+ },
+ {
+    "address": "EQDgtarAc23YJXIziX995Na-xMTAENJHyoiJdAST0NGSXR2-",
+    "name": "sTONks",
+    "symbol": "sTONks"
+ },
+ {
+    "address": "EQA3ew6TwQT9gwp660xw2VQxpxf0UyrMz8H-cebYPZShl0Zi",
+    "name": "JOKER",
+    "symbol": "JOKER"
+ },
+ {
+    "address": "EQDLVAw5WLYvb2EAzRAJZSHntQbyRABHrXrskHxL79R2Ro2U",
+    "name": "TINU",
+    "symbol": "TINU"
  }
 ]
