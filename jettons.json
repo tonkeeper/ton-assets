@@ -1217,5 +1217,11 @@
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
- }
+ },
+ {
+  "address": "0:28aafc29d8b06d650b128d9e1d225de4b364b67b0e55fb3e5a8717bb22cdecdf",
+  "name": "Succulent Universe Community Token",
+  "symbol": "SUCC",
+  "image": "https://cache.tonapi.io/imgproxy/3n0SC0eHwPJuEU1jXm9E__NFIGL-BOh9o1zxv4U94D0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdWNjdG9rZW4uZ2l0aHViLmlvL1dlYi9zdWNjLlBORw.webp"
+}
 ]
