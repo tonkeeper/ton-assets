@@ -1,0 +1,11 @@
+name: TOGE
+description: Insired by the legandary Doge coin and based on a true story from Telegram's founder, TOGE came to TON blockchain as the greatest inspiration for the chain and communities.
+image: "https://toge.world/onchain/logo.png"
+address: 0:11ecbe27b6e054318d0a600029b2a44b0f909e3df63482d335e25ea138bbe778
+symbol: TOGE
+max_supply: 100000000000
+websites:
+  - "https://toge.world"
+social:
+  - "https://t.me/TogeOfficial"
+  - "https://twitter.com/TOGE_TON"
