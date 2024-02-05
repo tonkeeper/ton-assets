@@ -82,6 +82,7 @@ Name           | Address
 [Gram](https://tonviewer.com/0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198) | EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O
 [HEDGE coin](https://tonviewer.com/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
 [Huebel Bolt](https://tonviewer.com/0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e) | EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw
+[JVault Token](https://tonviewer.com/0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc) | EQC8FoZMlBcZhZ6Pr9sHGyHzkFv9y2B5X9tN61RvucLRzFZz
 [Jernax](https://tonviewer.com/0:91042f0b2380b182c800b4f2101b6222d2feaa4baf379d9c1354ea65fd7890cf) | EQCRBC8LI4CxgsgAtPIQG2Ii0v6qS683nZwTVOpl_XiQzwv8
 [JetTon](https://tonviewer.com/0:105e5589bc66db15f13c177a12f2cf3b94881da2f4b8e7922c58569176625eb5) | EQAQXlWJvGbbFfE8F3oS8s87lIgdovS455IsWFaRdmJetTon
 [JogjaTON](https://tonviewer.com/0:80e1ad1f8b908290aa307d954049839c6b3f6726185623b0e28d4dafb2887230) | EQCA4a0fi5CCkKowfZVASYOcaz9nJhhWI7DijU2vsohyMGNn
