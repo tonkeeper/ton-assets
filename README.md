@@ -172,7 +172,6 @@ Name           | Address
 [Orbit Bridge Ton apM Coin](https://tonviewer.com/0:64a11836506ebbb63f103e801f1a5b5bf5597c3cb6e87c63ba1463000ee0c101) | EQBkoRg2UG67tj8QPoAfGltb9Vl8PLbofGO6FGMADuDBAZA9
 [PAPA](https://tonviewer.com/0:9896f1698b4e0015e6de174c7829ac8a8a813176f3f6de2c2d4c9e3919a6934c) | EQCYlvFpi04AFebeF0x4KayKioExdvP23iwtTJ45GaaTTEbP
 [PAPA CARLO](https://tonviewer.com/0:23d7c2a2e2c1b8ec05dbd78368df9167acc341c42dae1dcb887a3243cab77a55) | EQAj18Ki4sG47AXb14No35FnrMNBxC2uHcuIejJDyrd6VXpQ
-[PROTON JETTON](https://tonviewer.com/0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655) | EQDgSR_-4FDlXPfMVefXX1IIXMWBH4YfYV1a_8cJ0XsGVdsf
 [Petcoin](https://tonviewer.com/0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b) | EQBJOJ2eL_CUFT_0r9meoqjKUwRttC_-NUJyvWQxszVWe1WY
 [Pioneer](https://tonviewer.com/0:638b1482770736ff5f93166108687b38980c8181204021384ab1d0637584fa48) | EQBjixSCdwc2_1-TFmEIaHs4mAyBgSBAIThKsdBjdYT6SITy
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
