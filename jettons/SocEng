@@ -1,0 +1,10 @@
+name: Social Engineering
+description: "Social Engineering"
+image: "https://cache.tonapi.io/imgproxy/iZJy511MPaAEAfKtuL_Jn5q5O6FQGnyQk-PNdQaDzvw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvY0pQdlJoSFcvNC5wbmc.webp"
+address: "0:d2d24962bc1efbe5c74672018df68dfc900aeeab6c545858f56ef598669a3da8"
+symbol: SocEng
+max_supply: 21,000,000
+websites:
+  - ""https://socialeng.ru/"
+social:
+  - "https://t.me/SocEng_ru"
