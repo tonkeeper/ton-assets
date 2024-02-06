@@ -330,6 +330,11 @@
   "require_memo": true
  },
  {
+  "address": "0:b496b8f73b469ff06a2d89e62c4d70a103fc228c821537b49dff092060bc281f",
+  "name": "Gate.io",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
