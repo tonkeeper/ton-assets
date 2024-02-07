@@ -1,0 +1,12 @@
+name: Tonbet Token
+description: TBT is a utility token of @tonbetapp_bot - high-tech revolutionary betting bot that utilizes the Telegram WebView platform
+image: "https://cache.tonapi.io/imgproxy/kdeOMfls-udXJw7iVdEOMRO3hLuafCHQJ5eibGKe-Uw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zcGFjZS50b25iZXRhcHAuY29tL2ltYWdlcy91dGlscy90b25iZXQucG5n.webp"
+address: 0:e73687f5ca2840fc9b5773bd006490a0c39fdbd6120a90919c7415d2e4afa9dd
+symbol: TBT
+max_supply: 20000000
+websites:
+  - "https://tonbetapp.com"
+social:
+  - "https://t.me/tonbetapp"
+  - "https://t.me/tonbetapp_bot"
+  - "https://t.me/tonbetapp_chat"
