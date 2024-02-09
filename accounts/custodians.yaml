@@ -99,3 +99,6 @@
   name: "FixedFloat"
   require_memo: true
   image: "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg" 
+- address: "EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q"
+  name: "Gate.io"
+  require_memo: true
