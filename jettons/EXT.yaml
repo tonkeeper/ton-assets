@@ -1,0 +1,12 @@
+name: EXTON
+description: EXT is a token created for interaction within the EXTON ecosystem
+image: "https://raw.githubusercontent.com/ExtonCoin/Exton/main/exton_logo.png"
+address: 0:2e0b6af47a25ea7bda2d2d2548f61c210b79bfdc19500febba97ac300d91f9a4
+symbol: EXT
+max_supply: 510000000
+websites:
+  - "https://exton.io/"
+social:
+  - "https://t.me/Exton"
+  - "https://t.me/ExtonRu"
+  - "https://t.me/ExtonChat"
