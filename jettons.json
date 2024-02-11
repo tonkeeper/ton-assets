@@ -1329,5 +1329,21 @@
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
+ },
+  {
+  "address": "0:5f306909b52580e1566ca4dd330bd89e7692bad07c0f00811668f25a21681ffe",
+  "description": "GOBLIN (TON Goblins Token) is the utility token of TON Goblins ecosystem which is used in Goblinium game and other services.",
+  "image": "https://tongoblins.site/token.png",
+  "max_supply": 300000000,
+  "name": "TON Goblins Token",
+  "social": [
+   "https://t.me/TONGoblins",
+   "https://t.me/TONGoblinsChat",
+   "https://x.com/TONGoblins"
+  ],
+  "symbol": "GOBLIN",
+  "websites": [
+   "https://tongoblins.site/"
+  ]
  }
 ]
