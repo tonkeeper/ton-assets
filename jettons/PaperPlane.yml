@@ -1,0 +1,11 @@
+name: Paper Plane
+description: Official Symbol For Telegram & TON Coin Created By Pavel Durov
+image: "https://cache.tonapi.io/imgproxy/NqB-TgmRktuboN8Upbv_1Pw11V8hxNY2jq1tDUZCElI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby9ud3oyOXloL3Bob3RvLTIwMjQtMDEtMTAtMjItMjctNTgtcmVtb3ZlYmctcHJldmlldy5wbmc.webp"
+address: 0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34
+symbol: PLANE
+max_supply: 100000000
+websites:
+  - "https://paperplanetoken.site/"
+social:
+  - "https://t.me/paperplane_ton"
+  - "https://twitter.com/paperplane_ton"
