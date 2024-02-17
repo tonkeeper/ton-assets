@@ -185,6 +185,7 @@ Name           | Address
 [PROTON JETTON](https://tonviewer.com/0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655) | EQDgSR_-4FDlXPfMVefXX1IIXMWBH4YfYV1a_8cJ0XsGVdsf
 [Petcoin](https://tonviewer.com/0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b) | EQBJOJ2eL_CUFT_0r9meoqjKUwRttC_-NUJyvWQxszVWe1WY
 [Pioneer](https://tonviewer.com/0:638b1482770736ff5f93166108687b38980c8181204021384ab1d0637584fa48) | EQBjixSCdwc2_1-TFmEIaHs4mAyBgSBAIThKsdBjdYT6SITy
+[Plankton](https://tonviewer.com/0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729) | EQATgD7dao9jWBdz_qKL-UJZCXZGQvV5HJVUC85ssgmHKWll
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [Red Coin](https://tonviewer.com/0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa) | EQDAgy1xcNg0aFle548miasSdLCkL1nDeqSLP7Pua4wq-iTo
 [Resistance Dog](https://tonviewer.com/0:59fdc69f3f20ebe4a513b3468dc61d194c3864a4464e3662c903648d1a52e6e0) | EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko
