@@ -160,6 +160,7 @@ Name           | Address
 [Mercury coin](https://tonviewer.com/0:03bc6510b5bc170a0614fb4520e2b1a4c13a59afa232ce2929eaa301a581361d) | EQADvGUQtbwXCgYU-0Ug4rGkwTpZr6Iyzikp6qMBpYE2HXFq
 [Meridian](https://tonviewer.com/0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7) | EQCymLRXp1QYxZKek4CTInckB1ey5TkyAJQpPAlNetiO54Vt
 [Milyman](https://tonviewer.com/0:9f2784aed75874fcc0765d1bc88e6f20c34cb6001e116447cea0f3b07b2548ce) | EQCfJ4Su11h0_MB2XRvIjm8gw0y2AB4RZEfOoPOweyVIzvda
+[MrKrabs](https://tonviewer.com/0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862) | EQAaV7Q9M0vrO5HfKrPNnQneXB-S9RyBneMNeX4KzECIYrdk
 [Mumba](https://tonviewer.com/0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7) | EQCXIHAWDAJEJhMiNVqeUvp3I6O7y_P2sD80zEsJXeUi56mb
 [NOTCOIN](https://tonviewer.com/0:8be3365cabaa6a0f90d2e64f03fa78268c135fe0b0758b576b447e9b2068d75d) | EQCL4zZcq6pqD5DS5k8D-ngmjBNf4LB1i1drRH6bIGjXXTrS
 [NOTCOIN](https://tonviewer.com/0:8be3365cabaa6a0f90d2e64f03fa78268c135fe0b0758b576b447e9b2068d76c) | EQCL4zZcq6pqD5DS5k8D-ngmjBNf4LB1i1drRH6bIGjXbByg
