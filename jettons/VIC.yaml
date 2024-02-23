@@ -3,6 +3,7 @@ description: "Vivian Project Utility Coin"
 address: "0:8c79f1fb6c4923a667bcf4946aff925b31fe78f454814d76e6b2dfa350a43acb"
 symbol: VIC
 max_supply: 1000000
-social:  
+websites:
   - "https://vivianproject.com"
+social:
   - "https://t.me/vivianproject"
