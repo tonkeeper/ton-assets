@@ -919,21 +919,6 @@
   "symbol": "eNOT"
  },
  {
-  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
-  "name": "Mantle",
-  "symbol": "jMNT"
- },
- {
-  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
-  "name": "MrKrabs",
-  "symbol": "KRABS"
- },
- {
-  "address": "0:00574f92190f5b8aece0779b20ae7bf4cffeece3a6d5be143306e58e2e74850a",
-  "name": "Wrapped NANO",
-  "symbol": "jNANO"
- },
- {
   "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
   "name": "$PUNK",
   "symbol": "PUNK"
@@ -944,9 +929,24 @@
   "symbol": "GEMSTON"
  },
  {
+  "address": "0:00574f92190f5b8aece0779b20ae7bf4cffeece3a6d5be143306e58e2e74850a",
+  "name": "Wrapped NANO",
+  "symbol": "jNANO"
+ },
+ {
   "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
   "name": "GAGARIN",
   "symbol": "GGR"
+ },
+ {
+  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
+  "name": "MrKrabs",
+  "symbol": "KRABS"
+ },
+ {
+  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
+  "name": "Mantle",
+  "symbol": "jMNT"
  },
  {
   "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
