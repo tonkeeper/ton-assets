@@ -349,6 +349,21 @@
   "symbol": "DON"
  },
  {
+  "address": "0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1",
+  "description": "DYOR Coin is the utility token by DYOR.io, the biggest analytics platform on TON Blockchain.",
+  "image": "https://storage.dyor.io/jettons/EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz/dyorcoin.png",
+  "max_supply": 300000,
+  "name": "DYOR Coin",
+  "social": [
+   "https://t.me/DYORNinja",
+   "https://t.me/DYORNinjaRU"
+  ],
+  "symbol": "DYOR",
+  "websites": [
+   "https://dyor.io"
+  ]
+ },
+ {
   "address": "0:cd94d0363526d6b62816dfb597fff148bb863634d3f08a325ddcab66862ee074",
   "description": "e4 infrastructure coin",
   "image": "https://storage.dyor.io/jettons/EQDNlNA2NSbWtigW37WX__FIu4Y2NNPwijJd3Ktmhi7gdCyv/image.webp",
@@ -420,22 +435,6 @@
   "websites": [
    "https://fanz.ee",
    "https://app.fanz.ee"
-  ]
- },
- {
-  "address": "0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1",
-  "description": "The Find & Check is not a regular token, it's a utility token that fuels all the analytics tools and products created by the FCK team and expands the opportunities for users of the TON Blockchain",
-  "image": "https://fck.dev/fcklogo.png",
-  "max_supply": 300000,
-  "name": "Find & Check",
-  "social": [
-   "https://t.me/FCKTokens",
-   "https://twitter.com/FCKFoundation",
-   "https://www.linkedin.com/company/fck-dev/"
-  ],
-  "symbol": "FCK",
-  "websites": [
-   "https://fck.dev"
   ]
  },
  {
@@ -919,14 +918,9 @@
   "symbol": "eNOT"
  },
  {
-  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
-  "name": "GEMSTON",
-  "symbol": "GEMSTON"
- },
- {
-  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
-  "name": "MrKrabs",
-  "symbol": "KRABS"
+  "address": "0:00574f92190f5b8aece0779b20ae7bf4cffeece3a6d5be143306e58e2e74850a",
+  "name": "Wrapped NANO",
+  "symbol": "jNANO"
  },
  {
   "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
@@ -944,14 +938,19 @@
   "symbol": "jMNT"
  },
  {
-  "address": "0:00574f92190f5b8aece0779b20ae7bf4cffeece3a6d5be143306e58e2e74850a",
-  "name": "Wrapped NANO",
-  "symbol": "jNANO"
- },
- {
   "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
   "name": "GAGARIN",
   "symbol": "GGR"
+ },
+ {
+  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
+  "name": "MrKrabs",
+  "symbol": "KRABS"
+ },
+ {
+  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
+  "name": "GEMSTON",
+  "symbol": "GEMSTON"
  },
  {
   "address": "EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC",
