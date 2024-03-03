@@ -1,0 +1,11 @@
+name: Ton Pepe
+description: 1st Ton Pepe on Ton Chain
+image: "https://framerusercontent.com/images/3mIP8DHLQ6jfiNIhSLKAfQsSoQ.png"
+address: 0:7d20ea8faeaa4bbb4ac2bb39d968e50c0f932cd47cbc8df4a3f4d8b47cf7793b
+symbol: TPEPE
+max_supply: 6999999999999
+websites:
+  - "https://tonpepe.com/"
+social:
+  - "https://t.me/tonpepecoin"
+  - "https://twitter.com/tonpepecoin"
