@@ -62,7 +62,6 @@ Name           | Address
 [CAR COLLECTION](https://tonviewer.com/0:e4c6be69583a14bbb27f0b350628545b9c86f399e74d5770aae72ab74178126e) | EQDkxr5pWDoUu7J_CzUGKFRbnIbzmedNV3Cq5yq3QXgSbh41
 [CON](https://tonviewer.com/0:7d3a9e4c014a329a4e98ff8c79217dea7461e15214a6326b15a0403e8f339823) | EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-
 [Chad on TON](https://tonviewer.com/0:e99e37c4c12263754b9f6ad1dda2913db192ca983ee781726f6e2c647a5eb3b5) | EQDpnjfEwSJjdUufatHdopE9sZLKmD7ngXJvbixkel6zta5B
-[Classic Wrapped NANO](https://tonviewer.com/0:00574f92190f5b8aece0779b20ae7bf4cffeece3a6d5be143306e58e2e74850a) | EQAAV0-SGQ9biuzgd5sgrnv0z_7s46bVvhQzBuWOLnSFCkhB
 [Cock Fights Token](https://tonviewer.com/0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58) | EQCm4EVrocp34JFelHYPGx_D4pKqQ-gS6_xFZQzIwwA-WElP
 [Crumb Coin](https://tonviewer.com/0:a8641676cfd02edddcc334d8bc5e407186e21a9da0f511bdbfa05444610cb720) | EQCoZBZ2z9Au3dzDNNi8XkBxhuIanaD1Eb2_oFREYQy3IEBI
 [DEFI HUNTERS DAO](https://tonviewer.com/0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d) | EQCW5g1evnQN2OZZEVe-23aSvEsgPauWZlF27ZIz5REhnWRy
@@ -251,6 +250,7 @@ Name           | Address
 [Tonbet Token](https://tonviewer.com/0:e73687f5ca2840fc9b5773bd006490a0c39fdbd6120a90919c7415d2e4afa9dd) | EQDnNof1yihA_JtXc70AZJCgw5_b1hIKkJGcdBXS5K-p3S-_
 [Toned Ape Coin](https://tonviewer.com/0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0) | EQDYIz3EJa1GPp78qEvG0ZjFJoSsBbSo2i-n00lb-h5D8HxT
 [TonexCoin](https://tonviewer.com/0:7e6a33328b9f9628880e1e76ce180a5f7245066e5ead0e4dd0b7c3ca99bfb12c) | EQB-ajMyi5-WKIgOHnbOGApfckUGbl6tDk3Qt8PKmb-xLAvp
+[Tonk Inu](https://tonviewer.com/0:efebc6f725a5813bf0eb3fabb5dceabb2ac9ca851f76ea433170e2700020d8fe) | EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC
 [Tonnel Network Token](https://tonviewer.com/0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32) | EQDNDv54v_TEU5t26rFykylsdPQsv5nsSZaH_v7JSJPtMitv
 [Tonstakers TON](https://tonviewer.com/0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000) | EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav
 [ToonTools](https://tonviewer.com/0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81) | EQAO3n9xmdXwXHUhtZ3zKexpeUEKejYVKCeEupdsg2kvgcof
