@@ -1,0 +1,13 @@
+name: Tonk Inu
+description: ❤️@tonkinu_official 🤖 @tonkanalyser_bot 🌍 https://tonk.bot
+image: "https://tonk.bot/images/favicon/android-icon-192x192.png"
+address: 0:efebc6f725a5813bf0eb3fabb5dceabb2ac9ca851f76ea433170e2700020d8fe
+symbol: TONK
+max_supply: 100000000
+decimals: 9
+websites:
+  - "https://tonk.bot"
+social:
+  - "https://twitter.com/tonkinubot"
+  - "https://t.me/tonkinu_official"
+  - "https://t.me/tonkanalyser_bot"
