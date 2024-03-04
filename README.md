@@ -45,7 +45,7 @@ Name           | Address
 ## Jettons
 
 Name           | Address
----------------|-----------
+[TNJK]--https://tonviewer.com/EQBq61EWZGb8S1iR_JOxH77OyCHXYSN5Gm4_WkS6DMWOecNJ/jetton/EQDfy6ysMjjJpSQ64w5tGtEY-byelbfjh-VbmpVFMlwzCTbp|UQA2J43rq0AdVxzHG8qt1t4pv7C-6iRmZ1sG2uIRdPrdo9JM
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
 [1RUS DAO](https://tonviewer.com/0:53d847b82f1e70f6e23ba0c972e6ea5736cdc00562ff170935ba233be2064219) | EQBT2Ee4Lx5w9uI7oMly5upXNs3ABWL_Fwk1uiM74gZCGaYt
 [ALL](https://tonviewer.com/0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d) | EQDlnVo-6abJzyHlU8uB7pRjE7OIKt4HTTDPG4hfwOf5jTPg
