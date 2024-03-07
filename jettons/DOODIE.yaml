@@ -1,7 +1,7 @@
 name: Dogwifhoodie
 description: Pavel's dog with a hoodie https://smartbotsland.com/blog/social-networks/pavel-durov - $DOODIE is a meme coin on the TON Blockchain. https://t.me/dogwifhoodie_ton
 image: "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/doodie.jpg"
-address: 0:EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz
+address: EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz
 symbol: DOODIE
 max_supply: 1000000000
 websites:
