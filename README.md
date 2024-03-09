@@ -234,6 +234,7 @@ Name           | Address
 [TON Island Coin](https://tonviewer.com/0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b) | EQBXHCDdBA6Vgd2zi-yRpFk8m04vn3ROWYU9GRZfpvrim1M5
 [TON SHIP](https://tonviewer.com/0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d) | EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs
 [TONic](https://tonviewer.com/0:b80feaa401aa985d63a7591271eb1b4e85dec56bdcd941da1bf22583ea64bf90) | EQC4D-qkAaqYXWOnWRJx6xtOhd7Fa9zZQdob8iWD6mS_kPqU
+[Tali jetton](https://tonviewer.com/0:2a1c32daf6d7e0bcb3d5f65ca140c7a2dee85de08735a8572b6d69622e7f929b) | EQAqHDLa9tfgvLPV9lyhQMei3uhd4Ic1qFcrbWliLn-Sm3H4
 [Tegro](https://tonviewer.com/0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a) | EQAvDfWFG0oYX19jwNDNBBL1rKNT9XfaGP9HyTb5nb2Eml6y
 [Tenere](https://tonviewer.com/0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965) | EQCPmOnkTe8qP_ZtCf3Rys04ukRTiQc_xVS-lGQ6BH3JZWmC
 [Tether USD](https://tonviewer.com/0:ca9006bd3fb03d355daeeff93b24be90afaa6e3ca0073ff5720f8a852c933278) | EQDKkAa9P7A9NV2u7_k7JL6Qr6puPKAHP_VyD4qFLJMyeOLi
