@@ -557,114 +557,14 @@
   "symbol": "HEDGE"
  },
  {
-  "address": "0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729",
-  "name": "Plankton",
-  "symbol": "PLANKTON"
- },
- {
-  "address": "0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45",
-  "name": "ARBUZ",
-  "symbol": "ARBUZ"
- },
- {
-  "address": "0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777",
-  "name": "Margaritis",
-  "symbol": "MARGA"
- },
- {
-  "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
-  "name": "Ton Raffles Token",
-  "symbol": "RAFF"
- },
- {
-  "address": "0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36",
-  "name": "Magic Crystal",
-  "symbol": "MC"
- },
- {
-  "address": "0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655",
-  "name": "PROTON JETTON",
-  "symbol": "PROTON"
- },
- {
-  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
-  "name": "GEMSTON",
-  "symbol": "GEMSTON"
- },
- {
   "address": "0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892",
   "name": "Staked TON",
   "symbol": "stTON"
  },
  {
-  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
-  "name": "Mantle",
-  "symbol": "jMNT"
- },
- {
-  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
-  "name": "MrKrabs",
-  "symbol": "KRABS"
- },
- {
-  "address": "0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b",
-  "name": "Petcoin",
-  "symbol": "PET"
- },
- {
-  "address": "0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7",
-  "name": "Meridian",
-  "symbol": "MRDN"
- },
- {
-  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
-  "name": "Toned Ape Coin",
-  "symbol": "TAC"
- },
- {
-  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
-  "name": "GAGARIN",
-  "symbol": "GGR"
- },
- {
-  "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
-  "name": "Gram",
-  "symbol": "GRAM"
- },
- {
-  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
-  "name": "$PUNK",
-  "symbol": "PUNK"
- },
- {
-  "address": "0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32",
-  "name": "Tonnel Network Token",
-  "symbol": "TONNEL"
- },
- {
-  "address": "0:f9b72e48c55dc7102118d5b6db75deeb34d63e65c03ea40206417cb24594440f",
-  "name": "Stable Metal",
-  "symbol": "STBL"
- },
- {
-  "address": "0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054",
-  "name": "Lucky TON",
-  "symbol": "LKY"
- },
- {
-  "address": "0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc",
-  "name": "JVault Token",
-  "symbol": "JVT"
- },
- {
-  "address": "0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b",
-  "name": "Web3 TON Token",
-  "symbol": "WEB3"
- },
- {
-  "address": "0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd",
-  "name": "TonUP",
-  "symbol": "UP"
+  "address": "0:744a8c6e183c79aa356dd0ffdb3c80857967452c1995a291e18e07ecd2afb0b1",
+  "name": "Ton Whales liquid staking token",
+  "symbol": "wsTON"
  },
  {
   "address": "0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c",
@@ -672,9 +572,514 @@
   "symbol": "GLINT"
  },
  {
+  "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
+  "name": "Ton Raffles Token",
+  "symbol": "RAFF"
+ },
+ {
+  "address": "0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777",
+  "name": "Margaritis",
+  "symbol": "MARGA"
+ },
+ {
+  "address": "0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36",
+  "name": "Magic Crystal",
+  "symbol": "MC"
+ },
+ {
+  "address": "0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b",
+  "name": "Petcoin",
+  "symbol": "PET"
+ },
+ {
+  "address": "0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32",
+  "name": "Tonnel Network Token",
+  "symbol": "TONNEL"
+ },
+ {
+  "address": "0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971",
+  "name": "\u0416\u042e",
+  "symbol": "LIFEYT"
+ },
+ {
+  "address": "0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45",
+  "name": "ARBUZ",
+  "symbol": "ARBUZ"
+ },
+ {
+  "address": "0:aef6a69f1581f5b5bbc10ac560e904303db2e29f3436ec72a4af44dbe164a86d",
+  "name": "MONK",
+  "symbol": "MONK"
+ },
+ {
+  "address": "0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd",
+  "name": "TonUP",
+  "symbol": "UP"
+ },
+ {
+  "address": "0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa",
+  "name": "RED X",
+  "symbol": "REDX"
+ },
+ {
+  "address": "0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2",
+  "name": "Grabscape governance token",
+  "symbol": "GGT"
+ },
+ {
+  "address": "0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d",
+  "name": "DEFI HUNTERS DAO",
+  "symbol": "DDAO"
+ },
+ {
+  "address": "0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a",
+  "name": "EXTON COIN",
+  "symbol": "EXC"
+ },
+ {
+  "address": "0:2fbc476ae31e4aea8c23b0c2385fa0312a44c15d52885648921c32edea2d8b16",
+  "name": "Bear Country Token",
+  "symbol": "JBCT"
+ },
+ {
+  "address": "0:6d14df21f1d4ad4ef239f2d11273f4bbd1e86404b4aecd0a8283904b210c8a30",
+  "name": "VOMER",
+  "symbol": "VMR"
+ },
+ {
+  "address": "0:23d7c2a2e2c1b8ec05dbd78368df9167acc341c42dae1dcb887a3243cab77a55",
+  "name": "PAPA CARLO",
+  "symbol": "PC"
+ },
+ {
+  "address": "0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a",
+  "name": "Wallet Exchanger",
+  "symbol": "WEX"
+ },
+ {
+  "address": "0:73c9eb19de9d5618dae080d4898ba2452b7bebd0686a269e20c647abf68ba38d",
+  "name": "TonTake",
+  "symbol": "TAKE"
+ },
+ {
+  "address": "0:9f2784aed75874fcc0765d1bc88e6f20c34cb6001e116447cea0f3b07b2548ce",
+  "name": "Milyman",
+  "symbol": "MILY"
+ },
+ {
+  "address": "0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5",
+  "name": "Vincere",
+  "symbol": "VC"
+ },
+ {
+  "address": "0:0218fac51d60b2f5099e1573eabd97e5ca87816f982b550c406ae705d2135dd6",
+  "name": "Stalin",
+  "symbol": "IVS"
+ },
+ {
+  "address": "0:18043b8b74bae30ca47549467ad19b8bb92cc70c8a04dbacd9131b81fdb8e21b",
+  "name": "TON Click",
+  "symbol": "CLICK"
+ },
+ {
+  "address": "0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b",
+  "name": "EggsWisdom",
+  "symbol": "EGG"
+ },
+ {
   "address": "0:f6eb371de82aa9cfb5b22ca547f31fdc0fa0fbb41ae89ba84a73272ff0bf2157",
   "name": "DeFinder Capital",
   "symbol": "DFC"
+ },
+ {
+  "address": "0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda",
+  "name": "TON Drift",
+  "symbol": "DRIFT"
+ },
+ {
+  "address": "0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054",
+  "name": "Lucky TON",
+  "symbol": "LKY"
+ },
+ {
+  "address": "0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c",
+  "name": "GROK",
+  "symbol": "GROK"
+ },
+ {
+  "address": "0:1371473af6c19208231269db1550a746c0cd4130a4be1ca09618f93ad3164683",
+  "name": "TON FISH MEMECOIN",
+  "symbol": "FISH"
+ },
+ {
+  "address": "0:ce0e4a5fc59e23a1edd1c417248e0bc20901fe4d7c68cdb3704cea0252838c09",
+  "name": "GRIMACE COIN",
+  "symbol": "GRIMACE"
+ },
+ {
+  "address": "0:9896f1698b4e0015e6de174c7829ac8a8a813176f3f6de2c2d4c9e3919a6934c",
+  "name": "PAPA",
+  "symbol": "PAPA"
+ },
+ {
+  "address": "0:e01ce5b481b7c4a1d0e295cf15926b3f1736a10b1857a2cec6c095d7873f2ec0",
+  "name": "Wrapped Ymakanic Coin",
+  "symbol": "wYKC"
+ },
+ {
+  "address": "0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719",
+  "name": "SEED",
+  "symbol": "SEED"
+ },
+ {
+  "address": "0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca",
+  "name": "Baron",
+  "symbol": "BARO"
+ },
+ {
+  "address": "0:b27dd55b7f091c05f0529f9ec6467318fc144ee2f606ec79e45a7807e3514b33",
+  "name": "Making Money TON",
+  "symbol": "MMT"
+ },
+ {
+  "address": "0:8c0c4f057defb8d101abca84b26b337f625087afe1e9fe8737f9dbb3d86b1a5b",
+  "name": "TON GAIKA",
+  "symbol": "GAIKA"
+ },
+ {
+  "address": "0:b80feaa401aa985d63a7591271eb1b4e85dec56bdcd941da1bf22583ea64bf90",
+  "name": "TONic",
+  "symbol": "TONIC"
+ },
+ {
+  "address": "0:bf906dbd1df8292515b6458200a5e408f4f3d877376c95eaa26ab7e8d3432f49",
+  "name": "Meow",
+  "symbol": "MEOW"
+ },
+ {
+  "address": "0:1c8effafefaba966046844d50cead0a677a77d434f6c5954c5a8275f2deb8fe0",
+  "name": "TonTogether",
+  "symbol": "TOT"
+ },
+ {
+  "address": "0:238e721577013a274ce00d789780e539a1d140bc313888abd80d9c7de702b5ed",
+  "name": "butTON",
+  "symbol": "BTON"
+ },
+ {
+  "address": "0:09dbd5a48e32eabbeb9c9808fd034ad19bce94e8ebcd473e3a8aa7755d5cbc3e",
+  "name": "Lombard Revival Token",
+  "symbol": "LRT"
+ },
+ {
+  "address": "0:418cc07e7a971da285742ca4803a5d76b1e7bde0e9e59545855e2d26a98646b1",
+  "name": "SIMBA",
+  "symbol": "SIM"
+ },
+ {
+  "address": "0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0",
+  "name": "BANANA",
+  "symbol": "BANANA"
+ },
+ {
+  "address": "0:44fcfd9b28ef5d1c64b052165b42feaf6be611b84594119b82bff8845e03bea6",
+  "name": "Dracoin",
+  "symbol": "DRA"
+ },
+ {
+  "address": "0:dff38153f2d74765e236f8b5dd6fc80f311a87452001ae68bc8c8ecccef56918",
+  "name": "OpenCoin",
+  "symbol": "OPEN"
+ },
+ {
+  "address": "0:03bc6510b5bc170a0614fb4520e2b1a4c13a59afa232ce2929eaa301a581361d",
+  "name": "Mercury coin",
+  "symbol": "MERC"
+ },
+ {
+  "address": "0:e99e37c4c12263754b9f6ad1dda2913db192ca983ee781726f6e2c647a5eb3b5",
+  "name": "Chad on TON",
+  "symbol": "CHAD"
+ },
+ {
+  "address": "0:f9b72e48c55dc7102118d5b6db75deeb34d63e65c03ea40206417cb24594440f",
+  "name": "Stable Metal",
+  "symbol": "STBL"
+ },
+ {
+  "address": "0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81",
+  "name": "ToonTools",
+  "symbol": "TOON"
+ },
+ {
+  "address": "0:7d0f5fd1a20ea2b58b8da0b908526b239a417b854fd4512cc5904c22bfa66c78",
+  "name": "MAMA",
+  "symbol": "MAMA"
+ },
+ {
+  "address": "0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd",
+  "name": "BARASH",
+  "symbol": "SHEEP"
+ },
+ {
+  "address": "0:651e7602d14935dff5812b83cdfaa8c1d938a25e2c580d37bb1235f5efe215fb",
+  "name": "Ton Invaders Coin",
+  "symbol": "INC"
+ },
+ {
+  "address": "0:1596e1910b8c04576683a62220aa212f8671fefa59aae4415a2fa0bd55fbf455",
+  "name": "Fake Notcoin",
+  "symbol": "FNOT"
+ },
+ {
+  "address": "0:667170b2b5cf590dcc9fa21f455cd36f4a4a6c97f543ec6c23921054d611754b",
+  "name": "DOBERCOIN",
+  "symbol": "DOBER"
+ },
+ {
+  "address": "0:832092854dfe50a168a2ebefca4e4f1ba3a78a891fba864e47510c22c427bc49",
+  "name": "VISHNYA",
+  "symbol": "VISHNYA"
+ },
+ {
+  "address": "0:80e1ad1f8b908290aa307d954049839c6b3f6726185623b0e28d4dafb2887230",
+  "name": "JogjaTON",
+  "symbol": "JOG"
+ },
+ {
+  "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
+  "name": "Gram",
+  "symbol": "GRAM"
+ },
+ {
+  "address": "0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27",
+  "name": "Ferma Invest Dom",
+  "symbol": "FID"
+ },
+ {
+  "address": "0:5f5fd28ee72205a6b1d63e9269dceb17fba7232e310917e879b88404dde2c963",
+  "name": "Virtuals Worlds",
+  "symbol": "VWS"
+ },
+ {
+  "address": "0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d",
+  "name": "TON SHIP",
+  "symbol": "SHIP"
+ },
+ {
+  "address": "0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b",
+  "name": "Web3 TON Token",
+  "symbol": "WEB3"
+ },
+ {
+  "address": "0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7",
+  "name": "Meridian",
+  "symbol": "MRDN"
+ },
+ {
+  "address": "0:f753cc9cda6a137bcc826d4958c64321fd208258b92ec506a6da569be220dfa5",
+  "name": "Secure Sockets Layer",
+  "symbol": "SSL"
+ },
+ {
+  "address": "0:47715128230676d8689f2fb06d5531a4cc928b4280beae6a95ebf9e3ed247e84",
+  "name": "Jason Statham",
+  "symbol": "STATHAM"
+ },
+ {
+  "address": "0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc",
+  "name": "JVault Token",
+  "symbol": "JVT"
+ },
+ {
+  "address": "0:e68151f17fe6af0880f25373ce7eacd7b3253d17300e749195018f9aae8945b5",
+  "name": "TonEnd",
+  "symbol": "END"
+ },
+ {
+  "address": "0:e73687f5ca2840fc9b5773bd006490a0c39fdbd6120a90919c7415d2e4afa9dd",
+  "name": "Tonbet Token",
+  "symbol": "TBT"
+ },
+ {
+  "address": "0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655",
+  "name": "PROTON JETTON",
+  "symbol": "PROTON"
+ },
+ {
+  "address": "0:b9d88ddcdab999a546afd0bad4eaaef0b97a139a13889ef68584a8d9e90b82e6",
+  "name": "SCAM",
+  "symbol": "SCAM"
+ },
+ {
+  "address": "0:2ef280ccfdd5cc81077508e8d19d4eac6219af9b944fdf6832c8bf51d91bfef2",
+  "name": "SquirellCoin",
+  "symbol": "SQRL"
+ },
+ {
+  "address": "0:4b8686a7d1a4e22cae894f2b35ddcf19335aa3aa90c53acdd4a5843407e29db7",
+  "name": "BRAD",
+  "symbol": "BRAD"
+ },
+ {
+  "address": "0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7",
+  "name": "Mumba",
+  "symbol": "MUMBA"
+ },
+ {
+  "address": "0:5f306909b52580e1566ca4dd330bd89e7692bad07c0f00811668f25a21681ffe",
+  "name": "TON Goblins Token",
+  "symbol": "GOBLIN"
+ },
+ {
+  "address": "0:91535482df135ffebdf7abc359ccbba0866bdd136d494582198f8a1129475129",
+  "name": "BEETON",
+  "symbol": "BEE"
+ },
+ {
+  "address": "0:f83f7d94d74b2736821abe8aba7183d3411f367b00233b6d1ea6282b59102ea7",
+  "name": "Hydra",
+  "symbol": "HYDRA"
+ },
+ {
+  "address": "0:f3bece9984d0d931031e28ad889dcf32983a4e465d07e6101f82d7f775745bb7",
+  "name": "Rug Pull",
+  "symbol": "RUGPULL"
+ },
+ {
+  "address": "0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4",
+  "name": "Magic Vip People",
+  "symbol": "MVP"
+ },
+ {
+  "address": "0:98f1681382e8d51a6f37559c8552e1485ee0fdfd200ac06ca226206ec46ab9e4",
+  "name": "Tilt",
+  "symbol": "TILT"
+ },
+ {
+  "address": "0:f7cda950af09e1000e69b86f89fed42fdd6e67e5ceafe38f63934f3806ae255a",
+  "name": "Ton Ai",
+  "symbol": "TAI"
+ },
+ {
+  "address": "0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3",
+  "name": "DINJA",
+  "symbol": "DINJA"
+ },
+ {
+  "address": "0:ecbdb9a1feb1e3a4ef855f7a66b4fbad965ca797438abaaa91f5cd5120289bb0",
+  "name": "Round Chicken Token",
+  "symbol": "RCT"
+ },
+ {
+  "address": "0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d",
+  "name": "ALL",
+  "symbol": "ALL"
+ },
+ {
+  "address": "0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18",
+  "name": "Stec Network",
+  "symbol": "STEC"
+ },
+ {
+  "address": "0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729",
+  "name": "Plankton",
+  "symbol": "PLANKTON"
+ },
+ {
+  "address": "0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528",
+  "name": "FREEDOM",
+  "symbol": "FREE"
+ },
+ {
+  "address": "0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25",
+  "name": "UNICORN",
+  "symbol": "UNIC"
+ },
+ {
+  "address": "0:a0142bd9095eaaa81fb629e97a0ff915e33116e0514e41f615e0a0c335310974",
+  "name": "BORIS PIXEL",
+  "symbol": "PIXEL"
+ },
+ {
+  "address": "0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a",
+  "name": "eNOT COIN",
+  "symbol": "eNOT"
+ },
+ {
+  "address": "0:882149bb76706099caee6c37c52d9579da87b517f1c574366231f7abf6b8a986",
+  "name": "SAKE",
+  "symbol": "SAKE"
+ },
+ {
+  "address": "0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05",
+  "name": "Tribe",
+  "symbol": "TRIBE"
+ },
+ {
+  "address": "0:72830ac4706223e73984b5678c1ac4176d7af5581815ddca157eac944508a087",
+  "name": "NUDES Coin",
+  "symbol": "NUDES"
+ },
+ {
+  "address": "0:e8ce24adb5067de90251c4744a75ab429b92fd0d12fd2cac9c5dc8e5f113d764",
+  "name": "POT",
+  "symbol": "POT"
+ },
+ {
+  "address": "0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043",
+  "name": "OAAL AI",
+  "symbol": "OAAL"
+ },
+ {
+  "address": "0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1",
+  "name": "The Open SOFT",
+  "symbol": "SOFT"
+ },
+ {
+  "address": "0:ff1132fe490445c2ec48203c2fa3c0a2c2e54af68ee55e07cd5544b3f6d96518",
+  "name": "DYNYA",
+  "symbol": "DYNYA"
+ },
+ {
+  "address": "0:8e1a9d46015939d69ad5070e433bc40dde528895424a8d76d9725e5a5e02f986",
+  "name": "Wrapped NANO",
+  "symbol": "jNANO"
+ },
+ {
+  "address": "0:8bea369396e008ec44ff26067784f57d525f0c5cfda665684c42d18ccddf9c36",
+  "name": "Ptah",
+  "symbol": "Y"
+ },
+ {
+  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
+  "name": "Toned Ape Coin",
+  "symbol": "TAC"
+ },
+ {
+  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
+  "name": "Mantle",
+  "symbol": "jMNT"
+ },
+ {
+  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
+  "name": "GEMSTON",
+  "symbol": "GEMSTON"
+ },
+ {
+  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
+  "name": "GAGARIN",
+  "symbol": "GGR"
+ },
+ {
+  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
+  "name": "$PUNK",
+  "symbol": "PUNK"
+ },
+ {
+  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
+  "name": "MrKrabs",
+  "symbol": "KRABS"
  },
  {
   "address": "EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC",
