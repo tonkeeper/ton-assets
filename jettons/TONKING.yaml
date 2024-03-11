@@ -4,7 +4,6 @@ image: "https://gateway.pinata.cloud/ipfs/QmTQf95qa8Ba5KYCsvXoFkuNsNvQceQkr6oLuy
 address: 0:6a2130f9f7e0b2b7088ad6b23b70b32affffdb6f9e52a2270ee985249ab1997e
 symbol: TONKING
 max_supply: 100000000000
-decimals: 9
 websites:
   - "https://tonk.social"
 social:
