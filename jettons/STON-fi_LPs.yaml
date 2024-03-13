@@ -61,3 +61,9 @@
 - name: LP Token for WTON-oUSDC
   address: "0:d5e6449fc822ffa80c910c888a3df01bb32748c00d0e22a9a1ce6583be1b21a9"
   symbol: WTON-oUSDC LP
+- name: LP Token for GRAM-pTON LP
+  address: "0:120592f06b6bdf76c8280c5db0f7aa5d71c049251c433575cf50becd326d1676"
+  symbol: GRAM-pTON LP
+- name: LP Token for pTON-JETTON
+  address: "0:139eae96db1bf5d02d7d2cd942dbac45b535757dbccc917997402587aadbfa3a"
+  symbol: pTON-JETTON LP
