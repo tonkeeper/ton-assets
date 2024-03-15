@@ -64,7 +64,12 @@
   name: "lbank.info"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/lbank_info_288.svg"
-- address: "UQBFYU_uOZxD13u1l1WHkYMbwO4xdUy7K1sfv1o0iO2ZQG8O"
+- address: "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz"
+  name: "xRocket Bot Cold Storage (Old)"
+  image: "https://static.ton-rocket.com/icons/main_bot.png"
+- address: "EQDB3GVLWYq4TNpPEjcu_tiQfO3wkBhlpYZJCHNz4BscJPaV"
+  name: "xRocket Bot (Old)"
+- address: "EQBFYU_uOZxD13u1l1WHkYMbwO4xdUy7K1sfv1o0iO2ZQDLL"
   name: "xRocket Bot Cold Storage"
   image: "https://static.ton-rocket.com/icons/main_bot.png"
 - address: "EQABGo8KCza3ea8DNHMnSWZmbRzW-05332eTdfvW-XDQEjQM"
