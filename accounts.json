@@ -282,11 +282,20 @@
  },
  {
   "address": "0:75726a716f747e60b0371cb0d5d35471e8e1e931003fecc3a0961a8bd82c09c7",
-  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/rocket_bot_288.svg",
-  "name": "Rocket Bot"
+  "image": "https://static.ton-rocket.com/icons/main_bot.png",
+  "name": "xRocket Bot Cold Storage (Old)"
  },
  {
   "address": "0:c1dc654b598ab84cda4f12372efed8907cedf0901865a58649087373e01b1c24",
+  "name": "xRocket Bot (Old)"
+ },
+ {
+  "address": "0:45614fee399c43d77bb597558791831bc0ee31754cbb2b5b1fbf5a3488ed9940",
+  "image": "https://static.ton-rocket.com/icons/main_bot.png",
+  "name": "xRocket Bot Cold Storage"
+ },
+ {
+  "address": "0:011a8f0a0b36b779af033473274966666d1cd6fb4e77df679375fbd6f970d012",
   "image": "https://static.ton-rocket.com/icons/main_bot.png",
   "name": "xRocket Bot",
   "require_memo": true
