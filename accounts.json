@@ -5,11 +5,11 @@
  },
  {
   "address": "0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8",
-  "name": "TON Foundation"
+  "name": "TON Foundation (OLD)"
  },
  {
   "address": "0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270",
-  "name": "TON Ecosystem Reserve"
+  "name": "TON Ecosystem Reserve (OLD)"
  },
  {
   "address": "-1:3333333333333333333333333333333333333333333333333333333333333333",
@@ -42,6 +42,10 @@
  {
   "address": "0:dfbd5be8497fdc0c9fcbdfc676864840ddf8ad6423d6d5657d9b0e8270d6c8ac",
   "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3",
+  "name": "TON Foundation"
  },
  {
   "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
