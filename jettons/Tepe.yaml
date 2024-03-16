@@ -1,0 +1,13 @@
+name: Tepe
+description: The most memeable meme. But on TON.
+image: "https://uploads-ssl.webflow.com/65f11aa6a8a0693c59badf26/65f4b78643eb5037a7f4217c_Token%20logo.png"
+address: EQDN11TTPTxw_xSPJs_zyrzIRml4JXDlppAmYzJq--tmpA6V
+symbol: TEPE
+max_supply: 100000000
+decimals: 9
+websites:
+  - "https://www.tepeton.com/"
+social:
+  - "http://t.me/TEPEONTONN"
+  - "https://twitter.com/ton_tepe"
+coingecko: "https://www.coingecko.com/en/coins/tepe"
