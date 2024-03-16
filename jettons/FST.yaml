@@ -1,0 +1,13 @@
+name: FaceToken
+description: DAO https://FaceToPlace.app/token
+image: "https://facetoplace.app/token/icon.png"
+address: 0:6e2f187584aa8d0d41e4c5b0068b511b71cbafdd1c13a3b72f168e8c9fda3e7f
+symbol: FST
+max_supply: 1500000
+websites:
+  - "https://facetoplace.app"
+  - "https://facetoplace.app/token"
+social:
+  - "https://t.me/facetoplace"
+  - "https://t.me/facetoplace_chat"
+coingecko: "https://www.geckoterminal.com/ton/pools/EQBuLxh1hKqNDUHkxbAGi1Ebccuv3RwTo7cvFo6Mn9o-f8Fs"
