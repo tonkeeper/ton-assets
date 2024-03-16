@@ -205,6 +205,11 @@
   "require_memo": true
  },
  {
+  "address": "0:f15db2c62cd86aff0860d39c491fc73a31395fafeb5945e644498562260c782e",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX"
+ },
+ {
   "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg",
   "name": "FTX",
