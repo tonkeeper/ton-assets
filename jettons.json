@@ -1664,3 +1664,19 @@
   "symbol": "WTON"
  }
 ]
+ },
+ {
+  "address": "0:e362287713324c235561d00b49e6a5a8fe34ea69d3d0820443df7fb12e0c4128",
+  "description": "Memecoin for the loyal TON and ZkSync degens. $HAKI was inspired by the legendary tale of Hachiko, the Loyal dog. Just like Hachiko's enduring devotion to Prof Hidesaburō Ueno, $HAKI token embodies loyalty, trust, and companionship in the world of Memecoins.",
+  "image": "https://raw.githubusercontent.com/Hachikoinucoin/Hachikoinu/2889bbc3aeabe57d0950052d71551a7c7df53d75/hachiko.png",
+  "max_supply": 10000000000,
+  "name": "Hachiko Inu",
+  "social": [
+   "https://twitter.com/Hachikoinu_",
+   "https://t.me/hachikoinuera"
+   "https://discord.gg/SP3w66aKQa"
+  ],
+  "symbol": "HAKI",
+  "websites": [
+   "https://bento.me/hachikoinu",
+]
