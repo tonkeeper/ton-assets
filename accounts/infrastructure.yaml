@@ -22,3 +22,5 @@
   name: "Tonkeeper battery"
 - address: "0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3"
   name: "TON Foundation"
+- address: "EQCLyZHP4Xe8fpchQz76O-_RmUhaVc_9BAoGyJrwJrcbz2eZ"
+  name: "Hipo Treasury"
