@@ -1,3 +1,10 @@
-name: Hipo TON
-address: 0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8
-symbol: hTON
+- address: "EQCLyZHP4Xe8fpchQz76O-_RmUhaVc_9BAoGyJrwJrcbz2eZ"
+  name: "Hipo Treasury"
+
+- address: 0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8
+  name: Hipo TON
+  symbol: hTON
+
+- address: 0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63
+  name: Hipo TON v1
+  symbol: hTON1
