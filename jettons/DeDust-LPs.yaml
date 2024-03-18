@@ -10,3 +10,7 @@
 - name: LP Token for jNANO-TON
   address: "0:bace166d17381305b4d0e1b1b58f9161e5b590013b6238c7490003bdf3f8f544"
   symbol: jNANO-TON
+- name: LP Token for KINGY-TON
+  address: "0:ec23137a9131cd4f3916f8a0c016839deee2bc215fea870f30479364607d4687"
+  symbol: KINGY-TON
+
