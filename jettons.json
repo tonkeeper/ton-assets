@@ -1134,11 +1134,6 @@
   "symbol": "jSYBZERO"
  },
  {
-  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
-  "name": "GAGARIN",
-  "symbol": "GGR"
- },
- {
   "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
   "name": "GEMSTON",
   "symbol": "GEMSTON"
@@ -1147,6 +1142,11 @@
   "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
   "name": "MrKrabs",
   "symbol": "KRABS"
+ },
+ {
+  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
+  "name": "Toned Ape Coin",
+  "symbol": "TAC"
  },
  {
   "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
@@ -1159,9 +1159,9 @@
   "symbol": "jMNT"
  },
  {
-  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
-  "name": "Toned Ape Coin",
-  "symbol": "TAC"
+  "address": "0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36",
+  "name": "GAGARIN",
+  "symbol": "GGR"
  },
  {
   "address": "EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC",
@@ -1566,7 +1566,7 @@
   "address": "EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc",
   "decimals": 9,
   "description": "SafemoonTon is not just a meme project - it's a movement. We're building an ecosystem that will make a lasting impact on TON Blockchain and the crypto industry at large.",
-  "image": "https://safemoonton.com/wp-content/uploads/2024/03/cropped-cropped-cropped-Untitled_design__13_-removebg-preview.png",
+  "image": "https://safemoonton.com/wp-content/uploads/2024/03/safet_logo.png",
   "max_supply": 1000000000000,
   "name": "SafemoonTon",
   "social": [
