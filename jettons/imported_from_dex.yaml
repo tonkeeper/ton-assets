@@ -298,9 +298,6 @@
 - address: 0:b2fd9a3f6a174209c0f21906b3b8054a59af0a496f77d23d5523c93d65025807
   name: SybilZero
   symbol: jSYBZERO
-- address: 0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb
-  name: $PUNK
-  symbol: PUNK
 - address: 0:deb5c996adf1cb3d13d58772e816fc2ca34cec8c59e99a65d32968fbb35c9c36
   name: GAGARIN
   symbol: GGR
@@ -310,6 +307,9 @@
 - address: 0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862
   name: MrKrabs
   symbol: KRABS
+- address: 0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb
+  name: $PUNK
+  symbol: PUNK
 - address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
   name: Mantle
   symbol: jMNT
