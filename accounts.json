@@ -105,6 +105,11 @@
   "name": "Pavel Durov"
  },
  {
+  "address": "0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin"
+ },
+ {
   "address": "-1:a491d63f07ba7eefb4cb9f685484ce9089d5abaec97c15858222f04ca592a9ac",
   "name": "PoW Giver 1"
  },
