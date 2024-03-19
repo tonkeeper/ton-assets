@@ -1,0 +1,12 @@
+name: SafemoonTon
+description: SafemoonTon is not just a meme project - it's a movement. We're building an ecosystem that will make a lasting impact on TON Blockchain and the crypto industry at large.
+image: "https://safemoonton.com/wp-content/uploads/2024/03/cropped-cropped-cropped-Untitled_design__13_-removebg-preview.png"
+address: EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc
+symbol: SAFET
+max_supply: 1000000000000
+decimals: 9
+websites:
+  - "https://safemoonton.com"
+social:
+  - "https://twitter.com/Safemoon_Ton"
+  - "https://t.me/SafemoonTon"
