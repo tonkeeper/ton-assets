@@ -1,0 +1,12 @@
+name: "The Resistance Girl"
+description: "Resistance Girl - $REGI - is the Telegram native hooded girl created by Pavel Durov to fight against censorship"
+image: "https://regiton.net/wp-content/uploads/2024/03/regi-logo-200x200-1.png"
+address: EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh
+symbol: REGI
+max_supply: 100000000
+decimals: 9
+websites:
+  - "https://regiton.net/"
+social:
+  - "https://twitter.com/regitoncoin"
+  - "https://t.me/ResistanceGirlCoin"
