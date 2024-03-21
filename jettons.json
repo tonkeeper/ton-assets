@@ -1754,4 +1754,16 @@
   "name": "WTON",
   "symbol": "WTON"
  }
-]
+ "address": "0:34295774a90f9f32c9ef154edfd8783ec25448ab5576014c5dc120ee88fd20e1",
+  "description": "Community Powered artificial intelligence on the Ton and Solana blockchain to revolutionize the way people connect, engage,interact within the digital realm"
+  "image":"https://cache.tonapi.io/imgproxy/MJU6vqP1FLeFlr3ikSGrtftzx__ps1cRm6SvE3ltuIc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pbWFnZXRvbGluay5jb20vaWIvT0IxSDVIbFZuZS5wbmc.webp",
+  "max_supply": 1000000,
+  "name":  "TonPeopleAi",
+  "social": [
+   "https://t.me/peopelai",
+   "https://t.me/peopleainews"
+  ],
+  "symbol": "People",
+  "websites": [
+   "https://peopleai.site/",
+  ]
