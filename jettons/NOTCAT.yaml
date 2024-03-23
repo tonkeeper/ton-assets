@@ -1,0 +1,11 @@
+name: NOTCAT
+description: The First And Only Cat of Telegram and Ton Chain https://t.me/NotcatTON
+image: "https://notcat.fun/assets/ton/cat.gif"
+address: EQCHGLPnpUwyXdoR6bnZW77vkfxVEX_q-bui2XTKUbw_-t2z
+symbol: NOTCAT
+max_supply: 100000000 
+websites:
+  - "https://notcat.fun/"
+social:
+  - "https://t.me/NotcatTON"
+  - "https://twitter.com/NotCatTon"
