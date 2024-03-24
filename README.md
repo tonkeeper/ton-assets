@@ -276,6 +276,7 @@ Name           | Address
 [Ton Raffles Token](https://tonviewer.com/0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a) | EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h
 [Ton Whales liquid staking token](https://tonviewer.com/0:744a8c6e183c79aa356dd0ffdb3c80857967452c1995a291e18e07ecd2afb0b1) | EQB0SoxuGDx5qjVt0P_bPICFeWdFLBmVopHhjgfs0q-wsTON
 [TonEnd](https://tonviewer.com/0:e68151f17fe6af0880f25373ce7eacd7b3253d17300e749195018f9aae8945b5) | EQDmgVHxf-avCIDyU3POfqzXsyU9FzAOdJGVAY-arolFtb7B
+[TonPeopleAi](https://tonviewer.com/0:34295774a90f9f32c9ef154edfd8783ec25448ab5576014c5dc120ee88fd20e1) | EQA0KVd0qQ-fMsnvFU7f2Hg-wlRIq1V2AUxdwSDuiP0g4eJP
 [TonTake](https://tonviewer.com/0:73c9eb19de9d5618dae080d4898ba2452b7bebd0686a269e20c647abf68ba38d) | EQBzyesZ3p1WGNrggNSJi6JFK3vr0GhqJp4gxker9oujjcuv
 [TonTogether](https://tonviewer.com/0:1c8effafefaba966046844d50cead0a677a77d434f6c5954c5a8275f2deb8fe0) | EQAcjv-v76upZgRoRNUM6tCmd6d9Q09sWVTFqCdfLeuP4P3b
 [TonUP](https://tonviewer.com/0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd) | EQCvaf0JMrv6BOvPpAgee08uQM_uRpUd__fhA7Nm8twzvbE_
