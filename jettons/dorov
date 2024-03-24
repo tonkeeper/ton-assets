@@ -1,0 +1,11 @@
+name: Pavel Durov
+description: $DUROV is a community-driven memecoin on @ton_blockchain, inspired by Pavel Durov - the founder of Telegram
+image: "https://cache.tonapi.io/imgproxy/wDAkrS9a5LmyvDVa00d5Wf1e5zJDkYNEo6BKyARBno0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9waG90b3MucGlua3NhbGUuZmluYW5jZS9maWxlL3BpbmtzYWxlLWxvZ28tdXBsb2FkLzE3MTA1MjA5MTg2MDQtMDAwNjdiNmI3N2YxYjdjYTYwZTYyZWExN2Q3MDZjZDkuanBn.webp"
+address: EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et
+symbol: DUROV
+max_supply: 10101984
+websites:
+  - "https://paveldurovton.com/"
+social:
+  - "https://t.me/durovOnTonBlockchain"
+  - "https://twitter.com/durovOnTon"
