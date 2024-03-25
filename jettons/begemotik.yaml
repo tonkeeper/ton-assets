@@ -4,6 +4,8 @@ image: "https://i.ibb.co/QmNdPRk/BEGEMOTIK.png"
 address: EQD8_ro5tJDyWm0avPITefZ-9ZkzQ9GRvAaKWLX1SkDKTGUt
 symbol: HIPPO
 max_supply: 1000000
+websities:
+  - "https://begemotik.lol"
 social:
   - "https://t.me/begemotik_ton_ru"
   - "https://t.me/begemotik_ton_eng"
