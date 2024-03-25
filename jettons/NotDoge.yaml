@@ -1,0 +1,11 @@
+address: "0:6696fc34c79eb6b187f48bef8344c1f59004c7399e184205c90c48bcf5def763",
+name: "NotDogeCoin",
+symbol: "NOTDOGE",
+decimals: "9",
+image: "https://cache.tonapi.io/imgproxy/7cMWqXP6LcUmXuSfAgfeLilRNYxbTOT32-_CmqHK0sU/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvVmttU0dSR3Mvbm90ZG9nZS5wbmc.webp",
+description: "MEME"
+websites:
+  - "https://notdogecoin.org/"
+social:
+  - "https://t.me/thenotdogecoin"
+  - "https://twitter.com/thenotdoge"
