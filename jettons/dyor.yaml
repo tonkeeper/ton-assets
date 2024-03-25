@@ -1,0 +1,11 @@
+name: "DYOR Coin"
+address: 0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1
+description: "DYOR Coin is the utility token by DYOR.io, the biggest analytics platform on TON Blockchain."
+max_supply: 300000
+image: "https://storage.dyor.io/jettons/EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz/dyorcoin.png"
+symbol: "DYOR"
+websites:
+  - "https://dyor.io"
+social:
+  - "https://t.me/DYORNinja"
+  - "https://t.me/DYORNinjaRU"

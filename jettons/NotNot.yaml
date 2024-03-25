@@ -1,0 +1,11 @@
+name: Not Notcoin
+description: A coin made by notcoiners for notcoiners
+image: "https://i.postimg.cc/CxQ5DGtv/notnotcoin.png"
+address: 0:454f32ed86faca3e04177e03a18658559d2b43b7bdf7510cddc478d8eb949d0d
+symbol: NOTNOT
+max_supply: 1000000000
+websites:
+  - "http://notnotcoin.com/"
+social:
+  - "https://t.me/Not_Notcoin"
+  - "https://twitter.com/Not_Notcoin"

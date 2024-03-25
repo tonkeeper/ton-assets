@@ -5,11 +5,11 @@
  },
  {
   "address": "0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8",
-  "name": "TON Foundation"
+  "name": "TON Foundation (OLD)"
  },
  {
   "address": "0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270",
-  "name": "TON Ecosystem Reserve"
+  "name": "TON Ecosystem Reserve (OLD)"
  },
  {
   "address": "-1:3333333333333333333333333333333333333333333333333333333333333333",
@@ -33,11 +33,23 @@
  },
  {
   "address": "0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7",
-  "name": "The Locker"
+  "name": "TON Believers Fund"
  },
  {
   "address": "0:a45b17f28409229b78360e3290420f13e4fe20f90d7e2bf8c4ac6703259e22fa",
   "name": "Tonstakers"
+ },
+ {
+  "address": "0:dfbd5be8497fdc0c9fcbdfc676864840ddf8ad6423d6d5657d9b0e8270d6c8ac",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3",
+  "name": "TON Foundation"
+ },
+ {
+  "address": "0:8bc991cfe177bc7e9721433efa3befd199485a55cffd040a06c89af026b71bcf",
+  "name": "Hipo Treasury"
  },
  {
   "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
@@ -91,6 +103,11 @@
   "address": "0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d",
   "image": "https://t.me/i/userpic/320/onetimeusername.jpg",
   "name": "Pavel Durov"
+ },
+ {
+  "address": "0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin"
  },
  {
   "address": "-1:a491d63f07ba7eefb4cb9f685484ce9089d5abaec97c15858222f04ca592a9ac",
@@ -197,6 +214,11 @@
   "require_memo": true
  },
  {
+  "address": "0:f15db2c62cd86aff0860d39c491fc73a31395fafeb5945e644498562260c782e",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX"
+ },
+ {
   "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg",
   "name": "FTX",
@@ -274,11 +296,20 @@
  },
  {
   "address": "0:75726a716f747e60b0371cb0d5d35471e8e1e931003fecc3a0961a8bd82c09c7",
-  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/rocket_bot_288.svg",
-  "name": "Rocket Bot"
+  "image": "https://static.ton-rocket.com/icons/main_bot.png",
+  "name": "xRocket Bot Cold Storage (Old)"
  },
  {
   "address": "0:c1dc654b598ab84cda4f12372efed8907cedf0901865a58649087373e01b1c24",
+  "name": "xRocket Bot (Old)"
+ },
+ {
+  "address": "0:45614fee399c43d77bb597558791831bc0ee31754cbb2b5b1fbf5a3488ed9940",
+  "image": "https://static.ton-rocket.com/icons/main_bot.png",
+  "name": "xRocket Bot Cold Storage"
+ },
+ {
+  "address": "0:011a8f0a0b36b779af033473274966666d1cd6fb4e77df679375fbd6f970d012",
   "image": "https://static.ton-rocket.com/icons/main_bot.png",
   "name": "xRocket Bot",
   "require_memo": true
@@ -327,6 +358,11 @@
   "address": "0:dfb5074f2139dbfb1f3e823ddfd7976da506e7f78175c98c627ed2e840f78606",
   "image": "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg",
   "name": "FixedFloat",
+  "require_memo": true
+ },
+ {
+  "address": "0:b496b8f73b469ff06a2d89e62c4d70a103fc228c821537b49dff092060bc281f",
+  "name": "Gate.io",
   "require_memo": true
  },
  {
