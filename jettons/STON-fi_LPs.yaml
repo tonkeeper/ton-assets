@@ -61,3 +61,24 @@
 - name: LP Token for WTON-oUSDC
   address: "0:d5e6449fc822ffa80c910c888a3df01bb32748c00d0e22a9a1ce6583be1b21a9"
   symbol: WTON-oUSDC LP
+- name: LP Token for GRAM-pTON LP
+  address: "0:120592f06b6bdf76c8280c5db0f7aa5d71c049251c433575cf50becd326d1676"
+  symbol: GRAM-pTON LP
+- name: LP Token for pTON-JETTON
+  address: "0:139eae96db1bf5d02d7d2cd942dbac45b535757dbccc917997402587aadbfa3a"
+  symbol: pTON-JETTON LP
+- name: LP Token for PUNK-pTON
+  address: "0:119adaeab087fcfa593d6c7f08495fd40ac1bc912de21f30bb6d5f2cb10022e2"
+  symbol: PUNK-pTON LP
+- name: LP Token for FNZ-pTON
+  address: "0:19152e5d27c493aca727e559e9b58b282882d76c061a0e17492636f352b3640d"
+  symbol: FNZ-pTON LP
+- name: LP Token for STON-pTON
+  address: "0:ed6473ad55669ff54214eab9a32cf34b4c6c4d2cda20bcae7151994c46067043"
+  symbol: STON-pTON LP
+- name: LP Token for RAFF-pTON
+  address: "0:aa14fa522ed72cb5446dad72d10aff70ca37ebc3bff8e3f9f0bc3f098929928d"
+  symbol: RAFF-pTON LP
+- name: LP Token for MC-pTON
+  address: "0:a033394315eaf75ea3a7b90a442d778648c06357fe8f59f58b125bda6b7aafd9"
+  symbol: MC-pTON LP

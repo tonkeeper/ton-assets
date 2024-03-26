@@ -1,0 +1,16 @@
+- name: LP Token for UP-TON
+  address: "0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c"
+  symbol: UP-TON
+- name: LP Token for SCALE-TON
+  address: "0:dc9b4e9196b7ae32eae6fb28a4f566cbea423ad7b07becead2445fd98e809816"
+  symbol: SCALE-TON
+- name: LP Token for ARBUZ-TON
+  address: "0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367"
+  symbol: ARBUZ-TON
+- name: LP Token for jNANO-TON
+  address: "0:bace166d17381305b4d0e1b1b58f9161e5b590013b6238c7490003bdf3f8f544"
+  symbol: jNANO-TON
+- name: LP Token for KINGY-TON
+  address: "0:ec23137a9131cd4f3916f8a0c016839deee2bc215fea870f30479364607d4687"
+  symbol: KINGY-TON
+
