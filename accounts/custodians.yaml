@@ -140,7 +140,7 @@
 - address: "UQA81a1UsZCnHKq5hLDyEON0LH8hR7fpBzN318a0cAFzYham"
   name: "Bitrue"
   require_memo: true
-  - address: "UQBsU82HzA0zSG20LBx_wD366y97gVr8NoqxruVn7do_cicK"
+- address: "UQBsU82HzA0zSG20LBx_wD366y97gVr8NoqxruVn7do_cicK"
   name: "Coinspot"
   require_memo: true
 - address: "UQCaWCwjJmuOpH63ERijwEDUKyMLImb-z_4tPNOQwJIsNZuT"
