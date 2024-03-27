@@ -1,0 +1,10 @@
+name: Dogeton Token
+description: Dogeton is memcoin
+address: 0:5d391852c41de9f3afe97306871b2a06fc9e3a1ebc90f44426a161ad73267d77
+symbol: DGT
+max_supply: 10000000
+websites:
+  - "https://www.dogeton.com/"
+  social:
+  - "https://t.me/DogeTon"
+  - "https://twitter.com/dogetontoken"
