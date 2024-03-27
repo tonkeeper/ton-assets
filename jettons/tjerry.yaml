@@ -1,0 +1,12 @@
+name: Ton & Jerry
+description: Social Space shooter with launchpad
+image: 'https://cache.tonapi.io/imgproxy/l85sNGOxwrZiBPFSJJIZlQ1ppvt_lRBVVvg12mIa1rM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby9DUEx0Rk03L3RvbmplcnJ5LnBuZw.webp'
+address: 0:8dff8722f4b698b991fd43a808cc40be19cd17683fccd2529f0d3e815eb5d34c
+symbol: TJERRY
+max_supply: 19402005
+websites:
+    - 'https://tonjerry.com'
+social:
+    - 'https://twitter.com/TonJerry_'
+    - 'https://t.me/tonjerrylaunchpad'
+coingecko: 'https://www.geckoterminal.com/ton/pools/EQAKUOY6vAYWrjaH3Xc01TJrDtHpU3t8OLXos-oxancDqMxJ'
