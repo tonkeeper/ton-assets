@@ -265,6 +265,7 @@ Name           | Address
 [TON Island Coin](https://tonviewer.com/0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b) | EQBXHCDdBA6Vgd2zi-yRpFk8m04vn3ROWYU9GRZfpvrim1M5
 [TON PET MEMECOIN](https://tonviewer.com/0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123) | EQAmQGimKRrSHDLllvdUdeDsX1CszGy_SPgNNN8wE2ihIwnP
 [TON SHIP](https://tonviewer.com/0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d) | EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs
+[TONKING Social Token](https://tonviewer.com/0:6a2130f9f7e0b2b7088ad6b23b70b32affffdb6f9e52a2270ee985249ab1997e) | EQBqITD59-CytwiK1rI7cLMq___bb55SoicO6YUkmrGZfmk0
 [TONY THE DUCK](https://tonviewer.com/0:6225deb3d168ae88241dcb03cea9a2f24f64db4df57bf4fceef4ad51de5fea95) | EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5
 [TONic](https://tonviewer.com/0:b80feaa401aa985d63a7591271eb1b4e85dec56bdcd941da1bf22583ea64bf90) | EQC4D-qkAaqYXWOnWRJx6xtOhd7Fa9zZQdob8iWD6mS_kPqU
 [Tali jetton](https://tonviewer.com/0:2a1c32daf6d7e0bcb3d5f65ca140c7a2dee85de08735a8572b6d69622e7f929b) | EQAqHDLa9tfgvLPV9lyhQMei3uhd4Ic1qFcrbWliLn-Sm3H4

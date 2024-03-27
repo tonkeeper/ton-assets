@@ -461,6 +461,21 @@
   "symbol": "Tnr"
  },
  {
+  "address": "0:6a2130f9f7e0b2b7088ad6b23b70b32affffdb6f9e52a2270ee985249ab1997e",
+  "description": "1st Social Token on TON blockchain powering a Secret Social, Gaming and Entertainment Network connected by Telegram Wallets.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTQf95qa8Ba5KYCsvXoFkuNsNvQceQkr6oLuyuKmfk85f",
+  "max_supply": 100000000000,
+  "name": "TONKING Social Token",
+  "social": [
+   "https://t.me/TONKREFERBOT",
+   "https://x.com/TheTonkToken"
+  ],
+  "symbol": "TONKING",
+  "websites": [
+   "https://tonk.social"
+  ]
+ },
+ {
   "address": "EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb",
   "description": "Operating startup of the mining company",
   "image": "https://i.postimg.cc/BZMY4sKN/photo-2023-12-08-12-58-58-1-1.png",
@@ -1256,16 +1271,6 @@
   "symbol": "jSYBZERO"
  },
  {
-  "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
-  "name": "Spotty",
-  "symbol": "Spotty"
- },
- {
-  "address": "0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45",
-  "name": "sTONks",
-  "symbol": "sTONks"
- },
- {
   "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
   "name": "$PUNK",
   "symbol": "PUNK"
@@ -1281,9 +1286,9 @@
   "symbol": "TAC"
  },
  {
-  "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
-  "name": "TON Cats Jetton",
-  "symbol": "CATS"
+  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
+  "name": "GEMSTON",
+  "symbol": "GEMSTON"
  },
  {
   "address": "0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34",
@@ -1291,19 +1296,29 @@
   "symbol": "PLANE"
  },
  {
-  "address": "0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123",
-  "name": "TON PET MEMECOIN",
-  "symbol": "TPET"
- },
- {
   "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
   "name": "MrKrabs",
   "symbol": "KRABS"
  },
  {
-  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
-  "name": "GEMSTON",
-  "symbol": "GEMSTON"
+  "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
+  "name": "TON Cats Jetton",
+  "symbol": "CATS"
+ },
+ {
+  "address": "0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45",
+  "name": "sTONks",
+  "symbol": "sTONks"
+ },
+ {
+  "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
+  "name": "Spotty",
+  "symbol": "Spotty"
+ },
+ {
+  "address": "0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123",
+  "name": "TON PET MEMECOIN",
+  "symbol": "TPET"
  },
  {
   "address": "EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC",
