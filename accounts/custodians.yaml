@@ -110,9 +110,6 @@
 - address: "EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q"
   name: "Gate.io"
   require_memo: true
-- address: "EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q"
-  name: "Gate.io"
-  require_memo: true
 - address: "EQBg_wso4rODm-8lCoG-ny54piZbmA7F0k305Eu_8sP7JQSC"
   name: "TIDEX"
   require_memo: true
