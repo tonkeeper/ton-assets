@@ -1,0 +1,11 @@
+name: TonPepe
+description: The most memeable memecoin in existence. The dogs have had their day, it's time for Pepe to take reign.
+image: "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/tpepe.jpg"
+address: EQB9IOqPrqpLu0rCuznZaOUMD5Ms1Hy8jfSj9Ni0fPd5O0Yx
+symbol: TPEPE
+max_supply: 6999999999999
+websites:
+  - "https://www.tonpepe.com"
+social:
+  - "https://t.me/tonpepecoin"
+  - "https://twitter.com/tonpepecoin"
