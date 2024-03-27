@@ -366,6 +366,76 @@
   "require_memo": true
  },
  {
+  "address": "0:60ff0b28e2b3839bef250a81be9f2e78a6265b980ec5d24df4e44bbff2c3fb25",
+  "name": "TIDEX",
+  "require_memo": true
+ },
+ {
+  "address": "0:23eef28b6da5a368d6c0b8028fd5ed47c26758676bc9db1b5653caaadc969f91",
+  "name": "CWallet",
+  "require_memo": true
+ },
+ {
+  "address": "0:00ffafa9fb3d4f837824436d19953c792be6632af73a9b82c4dc69ca07195087",
+  "name": "Matrixport",
+  "require_memo": true
+ },
+ {
+  "address": "0:b58c73481f25a280f9705ab3424be850614d823256263ecfa049fa9fb917720d",
+  "name": "QMall",
+  "require_memo": true
+ },
+ {
+  "address": "0:00b402b789e5626e1c61b50c5dbe2024426e92f16c0c2fb735396df96046b5fa",
+  "name": "BIT",
+  "require_memo": true
+ },
+ {
+  "address": "0:3e07c6dc0c47a0470a7f708aeb5ab1631f108649c9faf61ed758f824a1719222",
+  "name": "bc.game",
+  "require_memo": true
+ },
+ {
+  "address": "0:2c54797319837b4c6d014fc991c1a8d4294dfd4d6cec4937e370f1f27db0423f",
+  "name": "Bitforex",
+  "require_memo": true
+ },
+ {
+  "address": "0:59b065c5d66261a5317660e96eee476aa6a11b749bdcbe8c0d1f3dbf24200d1c",
+  "name": "OMP Phoenix",
+  "require_memo": true
+ },
+ {
+  "address": "0:2c711f3e9fbe7d9e0c5550e98f0cecee7bb09f06dff122bf9b8bb91ec7fc9de4",
+  "name": "SportsBet.io",
+  "require_memo": true
+ },
+ {
+  "address": "0:3cd5ad54b190a71caab984b0f210e3742c7f2147b7e9073377d7c6b470017362",
+  "name": "Bitrue",
+  "require_memo": true
+ },
+ {
+  "address": "0:6c53cd87cc0d33486db42c1c7fc03dfaeb2f7b815afc368ab1aee567edda3f72",
+  "name": "Coinspot",
+  "require_memo": true
+ },
+ {
+  "address": "0:9a582c23266b8ea47eb71118a3c040d42b230b2266fecffe2d3cd390c0922c35",
+  "name": "BigOne",
+  "require_memo": true
+ },
+ {
+  "address": "0:dd528505af15c6e5206bdd8f6c9a3b541f80ca98ae8a5066ab3ff8de1ff5e678",
+  "name": "Farhad Exchange",
+  "require_memo": true
+ },
+ {
+  "address": "0:2b6f3cda567c385f0645486f3c665a451f56b2969d1be57d86eb77c6077a81d1",
+  "name": "BitTime",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
