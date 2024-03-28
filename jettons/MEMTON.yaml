@@ -1,0 +1,7 @@
+name: MEMTON 
+description: "MEMTON (MTN) is a revolutionary meme token created within the TON ecosystem, designed to unite meme lovers and cryptocurrency enthusiasts worldwide. This token embodies the spirit of internet culture, offering a unique opportunity to participate in the creation and dissemination of viral content while earning rewards. MEMTON aims to become the leading currency for the meme economy, supporting creativity and innovation on the blockchain. MTN is more than just a meme token; it's a symbol of an era where humor and technology intersect, creating a new form of digital art and communication."
+address: "EQAHJWWo0Nac4MNkwEC0MkAQ7Z2qu08chN_swILOD4D5pkMC" 
+symbol: MTN
+deicimals: 9
+max_supply: 100000000
+image : "https://github.com/DON-JETTON/common/blob/main/mtn.png?raw=true"
