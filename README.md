@@ -198,6 +198,7 @@ Name           | Address
 [Paper Plane](https://tonviewer.com/0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34) | EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2
 [Petcoin](https://tonviewer.com/0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b) | EQBJOJ2eL_CUFT_0r9meoqjKUwRttC_-NUJyvWQxszVWe1WY
 [Pioneer](https://tonviewer.com/0:638b1482770736ff5f93166108687b38980c8181204021384ab1d0637584fa48) | EQBjixSCdwc2_1-TFmEIaHs4mAyBgSBAIThKsdBjdYT6SITy
+[Pizza Gram](https://tonviewer.com/0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc) | EQDoqIKkOevVZukmf1L8nGhcjlha4sfvgl8GIRpTj_b53HyR
 [Plankton](https://tonviewer.com/0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729) | EQATgD7dao9jWBdz_qKL-UJZCXZGQvV5HJVUC85ssgmHKWll
 [Ptah](https://tonviewer.com/0:8bea369396e008ec44ff26067784f57d525f0c5cfda665684c42d18ccddf9c36) | EQCL6jaTluAI7ET_JgZ3hPV9Ul8MXP2mZWhMQtGMzd-cNt-X
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
@@ -215,6 +216,7 @@ Name           | Address
 [SantaCoin](https://tonviewer.com/0:e506a188dabe388e99e161f12225a854f1bed9a28de7a35de5e90f47f802096c) | EQDlBqGI2r44jpnhYfEiJahU8b7Zoo3no13l6Q9H-AIJbAgo
 [Scaleton](https://tonviewer.com/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
 [Secure Sockets Layer](https://tonviewer.com/0:f753cc9cda6a137bcc826d4958c64321fd208258b92ec506a6da569be220dfa5) | EQD3U8yc2moTe8yCbUlYxkMh_SCCWLkuxQam2lab4iDfpXYU
+[Shards of Notcoin NFT bond](https://tonviewer.com/0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b) | EQCIXQn940RNcOk6GzSorRSiA9WZC9xUz-6lyhl6Ap6na2sh
 [Siberian TON](https://tonviewer.com/0:e976693d0f20fc275c3c719579478d752a2dfcb779fec235eb908043ffe18367) | EQDpdmk9DyD8J1w8cZV5R411Ki38t3n-wjXrkIBD_-GDZ89a
 [Spotty](https://tonviewer.com/0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2) | EQC24zbmyONM-m3DeCCYQpDRiinGjOu2cCHevwUFGWvdotAQ
 [SquirellCoin](https://tonviewer.com/0:2ef280ccfdd5cc81077508e8d19d4eac6219af9b944fdf6832c8bf51d91bfef2) | EQAu8oDM_dXMgQd1COjRnU6sYhmvm5RP32gyyL9R2Rv-8s70
