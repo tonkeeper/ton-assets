@@ -1,0 +1,11 @@
+name: VirusON.app
+description: Infrastructure Token for VirusOn.app service
+image: "https://viruson.app/logo-big.png "
+address: 0:1bc2e5105a809c2aaaff874cc410d5312cdf3d605400b57bab982c61846597bd
+symbol: VIRUSON
+max_supply: 21000000
+websites:
+    - "https://viruson.app"
+social:
+    - "https://t.me/viruson_ru"
+    - "https://t.me/viruson_eng"
