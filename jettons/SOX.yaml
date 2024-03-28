@@ -1,0 +1,12 @@
+name: Nobby Game
+description: $SOX - magical energy that is fuelling economy of Nobby Game. This is your ticket from the platform 9¾.
+image: "https://nobbygame.github.io/website/SOX.png"
+address: EQBB-EMREJkIHVYG5DPiklOhWPcsCaxjL9HKmgRvuGtz_1lu
+symbol: SOX
+max_supply: 1000000000
+websites:
+  - "https://nobby.game"
+social:
+  - "https://t.me/nobbyofficial"
+  - "https://twitter.com/nobbygame"
+  - "https://reddit.com/user/NobbyGame"
