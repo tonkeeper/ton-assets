@@ -1,0 +1,11 @@
+name: indicaton
+description: ICTN - is indicaton.io utility token.
+image: "https://cache.tonapi.io/imgproxy/nD0I8sQYNI7ATELp0O9Y5jNql-XoIccdNozSWOKbRlk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pbmRpY2F0b24uaW8vbG9nbzI1Ni5wbmc.webp"
+address: 0:ad9cd74f9c0e0d4ede1743f336d5d2b2a1447b75afd25fbbaab4efb08751deaa
+symbol: ICTN
+websites:
+  - "https://indicaton.io"
+social:
+  - "https://t.me/indicaton"
+  - "https://t.me/indicaton_bot"
+  - "https://t.me/indicaton_up"
