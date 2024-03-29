@@ -1,0 +1,11 @@
+name: BabelDurop
+description: "I invint tiligrem"
+image: "https://raw.githubusercontent.com/BabelDurop/BabelDurop/main/babeldurop.jpg"
+address: 0:0d130ef054c1eb8cbb393806a859fb6246a67d7f020901e781815fd4184ed597
+symbol: DUROP
+max_supply: 100000000
+websites:
+  - "http://babeldurop.xyz/"
+social:
+  - "https://t.me/BabelDuropcommunity"
+  - "https://twitter.com/Babel_Durop"
