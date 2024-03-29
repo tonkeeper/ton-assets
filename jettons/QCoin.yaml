@@ -1,0 +1,10 @@
+name: QCoin
+description: Just a token, for anyone, or everyone.
+image: "https://qcttoken.github.io/website/value.png"
+address: "EQD4nTwWE46osNLu-RmPmUHjtV3nqags6xWFeEMmAFPIVrmD"
+symbol: QCT
+max_supply: 150000000
+websites:
+  - "https://qsn.su"
+social:
+  - "https://t.me/qctoken"
