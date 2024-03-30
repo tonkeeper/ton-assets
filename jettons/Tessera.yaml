@@ -1,0 +1,12 @@
+name: Tessera
+description: "Tessera is a coin related to people's souls. Nothing mystical, though"
+image: "https://static.tgdict.ru/tessera.png"
+address: "0:8b8a698b8b329a99b2c23cae880b338037ac962c82f33945805860d3ee87afcf"
+symbol: $TSR
+decimals: 3
+max_supply: 100000000000
+websites:
+  - "https://tgdict.ru"
+social:
+  - "https://t.me/tessera_coin"
+  - "https://t.me/tgdict_ru"
