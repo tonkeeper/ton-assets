@@ -1931,5 +1931,10 @@
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
+ },
+ {
+ "address": "0:08f5ac37b549c1dfc5e12ef44f451e679c403c65597323a0f49a2cca0d4a3c73",
+ "name": "LP Token for HAKI-pTON",
+ "symbol": "HAKI-pTON LP"
  }
 ]
