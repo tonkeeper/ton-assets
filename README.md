@@ -269,6 +269,7 @@ Name           | Address
 [TON Click](https://tonviewer.com/0:18043b8b74bae30ca47549467ad19b8bb92cc70c8a04dbacd9131b81fdb8e21b) | EQAYBDuLdLrjDKR1SUZ60ZuLuSzHDIoE26zZExuB_bjiG0Zr
 [TON Drift](https://tonviewer.com/0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda) | EQAhRC_oZ4B9VgMltfNkENSdLktlMADPE73zIiIcL6es2o7-
 [TON FISH MEMECOIN](https://tonviewer.com/0:1371473af6c19208231269db1550a746c0cd4130a4be1ca09618f93ad3164683) | EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK
+[TON FLOKI](https://tonviewer.com/0:f8563e5ae686cf618d907e040c7d9d2a8b718f95247106efe7eaa201256526ac) | EQD4Vj5a5obPYY2QfgQMfZ0qi3GPlSRxBu_n6qIBJWUmrPZ8
 [TON GAIKA](https://tonviewer.com/0:8c0c4f057defb8d101abca84b26b337f625087afe1e9fe8737f9dbb3d86b1a5b) | EQCMDE8Ffe-40QGryoSyazN_YlCHr-Hp_oc3-duz2GsaW-_w
 [TON Goblins Token](https://tonviewer.com/0:5f306909b52580e1566ca4dd330bd89e7692bad07c0f00811668f25a21681ffe) | EQBfMGkJtSWA4VZspN0zC9iedpK60HwPAIEWaPJaIWgf_pnV
 [TON Island Coin](https://tonviewer.com/0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b) | EQBXHCDdBA6Vgd2zi-yRpFk8m04vn3ROWYU9GRZfpvrim1M5
