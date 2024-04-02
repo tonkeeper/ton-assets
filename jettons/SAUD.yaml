@@ -1,0 +1,10 @@
+name: SAUD
+description: "Saudis are here to save TON"
+image: "https://cache.tonapi.io/imgproxy/ZPDDXQy_dQrqXjtpJEQUfk5rkEhPQQRvxOWTnT_NwPg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9uZnQudG9ucGxhbmV0cy5jb20vamV0dG9ucy9zYXUvbG9nby5wbmc.webp"
+address: 0:2dcbb7322c88c5ed4f8ad15806fe0724b1300ab482e46c908d8cf62567ce5c09
+symbol: SAU
+decimals: 9
+social:
+  - "https://t.me/thesaudis"
+  - "https://t.me/thesaudiseng"
+  - "https://twitter.com/TheSaudisTON"
