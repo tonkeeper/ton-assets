@@ -1,0 +1,13 @@
+name: Bitcoin TON
+description: "Bitcoin on TON chain"
+image: "https://cache.tonapi.io/imgproxy/gXP8pgwqPzF770dMhNgWq98OXh4cGJim3jg4dklMiC4/rs:fill:200:200:1/g:no/aHR0cHM6Ly93LmxhZGljZG4uY29tLzY0ODg0MWVmMDY1MWE5MDAxMjdkZjM5My90aGlldC1rZS1jaHVhLWNvLXRlbi00MC0yMDI0MDMyODE0MTAxMS1mcXZ2cC5qcGc.webp",
+address: EQCnenyv37xSiqLesSeQQQ4yUXWFcFfoSpgiMpztDi02f8_z
+symbol: BITTON
+decimals: 9
+websitie: "https://bitcointon.co"
+social:
+
+"https://t.me/Bitcointon_Global"
+"https://t.me/Bitcointon_BITTON"
+"https://x.com/bitcoin_ton"
+"https://www.coingecko.com/en/coins/bitcoin-ton"
