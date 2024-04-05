@@ -1,0 +1,13 @@
+name: Ruslon Skamolovsky
+description: "Memcoin targeted to uncover scammers, demonstrating the art of success where others have merely promised. Inspired by a crypto blogger's fail"
+image: "https://ruslon-ton.github.io/website/logo.png"
+address: 0:74f3b5b71967b614824f828c88df431fe5dd613417ea2dcdacef0153249b17ea
+symbol: RUSLON
+max_supply: 1000000000
+websites:
+  - "https://ruslon.me"
+social:
+  - "https://x.com/scamolovsky"
+  - "https://t.me/scamolovsky"
+  - "https://dexscreener.com/ton/eqb8yfj8_b23w2cdxliaxxk-ilxp-vriktfenggzmqtxy1yq"
+  - "https://www.geckoterminal.com/ton/pools/EQB8yfJ8_b23w2cDxLiAXxK-iLXP-VrikTfENggzMqTXY1yq"
