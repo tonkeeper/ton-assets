@@ -48,6 +48,7 @@ Name           | Address
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
 [1RUS DAO](https://tonviewer.com/0:53d847b82f1e70f6e23ba0c972e6ea5736cdc00562ff170935ba233be2064219) | EQBT2Ee4Lx5w9uI7oMly5upXNs3ABWL_Fwk1uiM74gZCGaYt
 [ALL](https://tonviewer.com/0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d) | EQDlnVo-6abJzyHlU8uB7pRjE7OIKt4HTTDPG4hfwOf5jTPg
+[ANON](https://tonviewer.com/0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886) | EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ
 [ARBUZ](https://tonviewer.com/0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45) | EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1
 [ARBUZ](https://tonviewer.com/0:ecac262d6606cee7b3d0e3b6fda32b6342b5238b1fa0cf6c083f4f3c0c452f87) | EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC
 [Ambra](https://tonviewer.com/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
