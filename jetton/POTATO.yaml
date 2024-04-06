@@ -1,0 +1,8 @@
+name: Kartoshka
+description: Картофель potato patata kartoffel batata картопля кромпир бульба perune
+image: "https://cache.tonapi.io/imgproxy/49gFCSQyWtDR5OEnJjd3TzpEpOagw84xIlzU6l17xiA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FyYXIyMjgvcG90YXRvL21haW4vMSUyMCgxKS5wbmc.webp"
+address: 0:5f97fa738bcb7f7d85c9132819a33f1c21dd6c7639cf4ec069bea8878e08174b
+symbol: POTATO
+max_supply: 5000000
+social:
+  - "https://t.me/potatoscoin"
