@@ -51,6 +51,7 @@ Name           | Address
 ---------------|-----------
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
 [1RUS DAO](https://tonviewer.com/0:53d847b82f1e70f6e23ba0c972e6ea5736cdc00562ff170935ba233be2064219) | EQBT2Ee4Lx5w9uI7oMly5upXNs3ABWL_Fwk1uiM74gZCGaYt
+[@BTC25 MEMECOIN TonMiner](https://tonviewer.com/0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5) | EQC7rnHHtMVBKyhiGnAbtYIlzGxS0dfi3ZbHExFX0LYi9cAH
 [ALL](https://tonviewer.com/0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d) | EQDlnVo-6abJzyHlU8uB7pRjE7OIKt4HTTDPG4hfwOf5jTPg
 [ANON](https://tonviewer.com/0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886) | EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ
 [ARBUZ](https://tonviewer.com/0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45) | EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1
