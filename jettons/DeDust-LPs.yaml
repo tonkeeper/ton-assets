@@ -31,4 +31,7 @@
 - name: LP Token for GLINT-TON
   address: "0:102c7d53108932e26e2b04c48c7903f21f8129758d210a25bd00d5774557631d"
   symbol: GLINT-TON
+- name: LP Token for QTC-TON
+  address: "0:898b3675e19aa6a152daedc1ae02132548e7d74d121475ef39f0e3b3730b1ab9"
+  symbol: QTC-TON
 
