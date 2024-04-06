@@ -1,0 +1,12 @@
+name: PIZZA
+description: "PizzaTon's Official Jetton on TON blockchain"
+image: "https://pizzaton.me/token/logo.png"
+address: 0:62fa7cbf192d34423900aefea4e528c02cc15d277c16f0e0fa90602c2d3dc8f9
+symbol: $PIZZA
+decimals: 9
+websites:
+  - "https://pizzaton.me"
+social:
+  - "https://t.me/pitzaton"
+  - "https://t.me/pizzatonbot"
+  - "https://x.com/pitzaton"
