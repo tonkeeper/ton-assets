@@ -1311,71 +1311,6 @@
   "symbol": "jSYBZERO"
  },
  {
-  "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
-  "name": "Spotty",
-  "symbol": "Spotty"
- },
- {
-  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
-  "name": "$PUNK",
-  "symbol": "PUNK"
- },
- {
-  "address": "0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5",
-  "name": "@BTC25 MEMECOIN TonMiner",
-  "symbol": "@BTC25"
- },
- {
-  "address": "0:f8563e5ae686cf618d907e040c7d9d2a8b718f95247106efe7eaa201256526ac",
-  "name": "TON FLOKI",
-  "symbol": "TFLOKI"
- },
- {
-  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
-  "name": "MrKrabs",
-  "symbol": "KRABS"
- },
- {
-  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
-  "name": "Toned Ape Coin",
-  "symbol": "TAC"
- },
- {
-  "address": "0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc",
-  "name": "Pizza Gram",
-  "symbol": "PIZZA"
- },
- {
-  "address": "0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45",
-  "name": "sTONks",
-  "symbol": "sTONks"
- },
- {
-  "address": "0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34",
-  "name": "Paper Plane",
-  "symbol": "PLANE"
- },
- {
-  "address": "0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886",
-  "name": "ANON",
-  "symbol": "ANON"
- },
- {
-  "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
-  "name": "TON Cats Jetton",
-  "symbol": "CATS"
- },
- {
-  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
-  "name": "Mantle",
-  "symbol": "jMNT"
- },
- {
-  "address": "0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c",
-  "name": "Pi Ton Network",
-  "symbol": "PITON"
- },
- {
   "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
   "name": "GEMSTON",
   "symbol": "GEMSTON"
@@ -1384,6 +1319,71 @@
   "address": "0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123",
   "name": "TON PET MEMECOIN",
   "symbol": "TPET"
+ },
+ {
+  "address": "0:f8563e5ae686cf618d907e040c7d9d2a8b718f95247106efe7eaa201256526ac",
+  "name": "TON FLOKI",
+  "symbol": "TFLOKI"
+ },
+ {
+  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
+  "name": "Toned Ape Coin",
+  "symbol": "TAC"
+ },
+ {
+  "address": "0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45",
+  "name": "sTONks",
+  "symbol": "sTONks"
+ },
+ {
+  "address": "0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5",
+  "name": "@BTC25 MEMECOIN TonMiner",
+  "symbol": "@BTC25"
+ },
+ {
+  "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
+  "name": "Spotty",
+  "symbol": "Spotty"
+ },
+ {
+  "address": "0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc",
+  "name": "Pizza Gram",
+  "symbol": "PIZZA"
+ },
+ {
+  "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
+  "name": "TON Cats Jetton",
+  "symbol": "CATS"
+ },
+ {
+  "address": "0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886",
+  "name": "ANON",
+  "symbol": "ANON"
+ },
+ {
+  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
+  "name": "MrKrabs",
+  "symbol": "KRABS"
+ },
+ {
+  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
+  "name": "$PUNK",
+  "symbol": "PUNK"
+ },
+ {
+  "address": "0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34",
+  "name": "Paper Plane",
+  "symbol": "PLANE"
+ },
+ {
+  "address": "0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c",
+  "name": "Pi Ton Network",
+  "symbol": "PITON"
+ },
+ {
+  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
+  "name": "Mantle",
+  "symbol": "jMNT"
  },
  {
   "address": "EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC",
