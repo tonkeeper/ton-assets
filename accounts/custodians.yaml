@@ -1,5 +1,5 @@
 - address: "EQCtiv7PrMJImWiF2L5oJCgPnzp-VML2CAt5cbn1VsKAxLiE"
-  name: "CryptoBot"
+  name: "Crypto Bot"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/crypto_bot_288.svg"
 - address: "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90"
@@ -13,6 +13,9 @@
 - address: "EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8"
   name: "OKX"
   require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "EQDxXbLGLNhq_whg05xJH8c6MTlfr-tZReZESYViJgx4Lg4_"
+  name: "OKX"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
@@ -65,9 +68,14 @@
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/lbank_info_288.svg"
 - address: "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz"
-  name: "Rocket Bot"
-  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/rocket_bot_288.svg"
+  name: "xRocket Bot Cold Storage (Old)"
+  image: "https://static.ton-rocket.com/icons/main_bot.png"
 - address: "EQDB3GVLWYq4TNpPEjcu_tiQfO3wkBhlpYZJCHNz4BscJPaV"
+  name: "xRocket Bot (Old)"
+- address: "EQBFYU_uOZxD13u1l1WHkYMbwO4xdUy7K1sfv1o0iO2ZQDLL"
+  name: "xRocket Bot Cold Storage"
+  image: "https://static.ton-rocket.com/icons/main_bot.png"
+- address: "EQABGo8KCza3ea8DNHMnSWZmbRzW-05332eTdfvW-XDQEjQM"
   name: "xRocket Bot"
   image: "https://static.ton-rocket.com/icons/main_bot.png"
   require_memo: true
@@ -101,4 +109,46 @@
   image: "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg" 
 - address: "EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q"
   name: "Gate.io"
+  require_memo: true
+- address: "EQBg_wso4rODm-8lCoG-ny54piZbmA7F0k305Eu_8sP7JQSC"
+  name: "TIDEX"
+  require_memo: true
+- address: "EQAj7vKLbaWjaNbAuAKP1e1HwmdYZ2vJ2xtWU8qq3JafkfxF"
+  name: "CWallet"
+  require_memo: true
+- address: "EQAA_6-p-z1Pg3gkQ20ZlTx5K-ZjKvc6m4LE3GnKBxlQh-Jl"
+  name: "Matrixport"
+  require_memo: true
+- address: "UQC1jHNIHyWigPlwWrNCS-hQYU2CMlYmPs-gSfqfuRdyDXhJ"
+  name: "QMall"
+  require_memo: true
+- address: "UQAAtAK3ieVibhxhtQxdviAkQm6S8WwML7c1OW35YEa1-kX3"
+  name: "BIT"
+  require_memo: true
+- address: "UQA-B8bcDEegRwp_cIrrWrFjHxCGScn69h7XWPgkoXGSImAV"
+  name: "bc.game"
+  require_memo: true
+- address: "UQAsVHlzGYN7TG0BT8mRwajUKU39TWzsSTfjcPHyfbBCP3mX"
+  name: "Bitforex"
+  require_memo: true
+- address: "UQBZsGXF1mJhpTF2YOlu7kdqpqEbdJvcvowNHz2_JCANHCo7"
+  name: "OMP Phoenix"
+  require_memo: true  
+- address: "UQAscR8-n759ngxVUOmPDOzue7CfBt_xIr-bi7kex_yd5CQr"
+  name: "SportsBet.io"
+  require_memo: true
+- address: "UQA81a1UsZCnHKq5hLDyEON0LH8hR7fpBzN318a0cAFzYham"
+  name: "Bitrue"
+  require_memo: true
+- address: "UQBsU82HzA0zSG20LBx_wD366y97gVr8NoqxruVn7do_cicK"
+  name: "Coinspot"
+  require_memo: true
+- address: "UQCaWCwjJmuOpH63ERijwEDUKyMLImb-z_4tPNOQwJIsNZuT"
+  name: "BigOne"
+  require_memo: true  
+- address: "UQDdUoUFrxXG5SBr3Y9smjtUH4DKmK6KUGarP_jeH_XmeM3K"
+  name: "Farhad Exchange"
+  require_memo: true
+- address: "UQArbzzaVnw4XwZFSG88ZlpFH1aylp0b5X2G63fGB3qB0aUK"
+  name: "BitTime"
   require_memo: true
