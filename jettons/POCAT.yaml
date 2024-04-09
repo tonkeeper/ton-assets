@@ -1,0 +1,12 @@
+name: Polite Cat
+description: "Polite Cat is a nickname given to a cat staring at the camera with what has been described as a 'polite' expression on its face."
+image: "https://raw.githubusercontent.com/politecatton/pocat/main/logo.png"
+address: 0:195f6835ca49213253d6a5df1e645b0e9d136fc1474822bdd1d950adee1f7e6a
+symbol: POCAT
+max_supply: 10000000000000 
+websites:
+  - "https://www.pocat.co"
+social:
+  - "https://twitter.com/Politecat_ton"
+  - "https://t.me/Politecat_ton"
+  - "https://discord.gg/mcDTeSPX"
