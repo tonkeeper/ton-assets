@@ -1,0 +1,14 @@
+name: ChipiCoin
+description: The first PoW meme jetton on TON Blockchain
+image: "https://github.com/ChipiCoin/ChipiCoin/blob/main/chipi_coin_png.png"
+address: 0:5e9d609d3010082eb887f323d7f5b7e68dc66599eaf52604431c359b9432b5dd
+symbol: CHAPA
+max_supply: 6900000000
+websites:
+  - "https://chipicoin.github.io/ChipiCoin/"
+social:
+  - "https://t.me/chipicoin"
+  - "https://t.me/chipicoinru"
+  - "https://t.me/chipicoin_chat"
+  - "https://x.com/chipicoin_ton"
+  - "https://www.geckoterminal.com/ton/pools/EQCbugXCw1j11YoPEL17LAz1iUjXX45aedrrI_IsfCWb-k4g"
