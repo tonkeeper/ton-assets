@@ -1,0 +1,12 @@
+name: ADENA
+description: ❤️@adena_ton
+image: "https://adena.world/android-chrome-192x192.png"
+address: 0:8bb9e6c3da8aeeb7fd160bdf568bc31398588f31ba735af9adb0ec3edc1b561e
+symbol: ADENA
+max_supply: 1000000000
+decimals: 9
+websites:
+  - "https://adena.world"
+social:
+  - "https://t.me/adena_ton"
+  - "https://t.me/adena_ton_bot"
