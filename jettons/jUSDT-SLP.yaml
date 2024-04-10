@@ -1,0 +1,10 @@
+name: jUSDT Storm LP
+symbol: jUSDT-SLP
+description: Bridged Tether USD locked in liquidity in Storm Trade (storm.tg)
+image: "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/jusdt-slp-logo.png"
+address: 0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc
+websites: 
+  - "https://storm.tg"
+social:
+  - "https://t.me/storm_trade_news"
+  - "https://t.me/storm_trade_fam"
