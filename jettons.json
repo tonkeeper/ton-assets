@@ -96,6 +96,16 @@
   ]
  },
  {
+  "address": "0:44fcfd9b28ef5d1c64b052165b42feaf6be611b84594119b82bff8845e03bea6",
+  "name": "Dracoin",
+  "symbol": "DRA"
+ },
+ {
+  "address": "0:44fcfd9b28ef5d1c64b052165b42feaf6be611b84594119b82bff8845e03bea7",
+  "name": "Dracoin",
+  "symbol": "Dracoin"
+ },
+ {
   "address": "0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c",
   "name": "LP Token for UP-TON",
   "symbol": "UP-TON"
@@ -462,6 +472,20 @@
   "symbol": "TOGE",
   "websites": [
    "https://toge.world"
+  ]
+ },
+ {
+  "address": "0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea",
+  "description": "TON locked in liquidity in Storm Trade (storm.tg)",
+  "image": "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/ton-slp-logo.png",
+  "name": "TON Storm LP",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "TON-SLP",
+  "websites": [
+   "https://storm.tg"
   ]
  },
  {
@@ -1036,11 +1060,6 @@
   "symbol": "BANANA"
  },
  {
-  "address": "0:44fcfd9b28ef5d1c64b052165b42feaf6be611b84594119b82bff8845e03bea6",
-  "name": "Dracoin",
-  "symbol": "DRA"
- },
- {
   "address": "0:dff38153f2d74765e236f8b5dd6fc80f311a87452001ae68bc8c8ecccef56918",
   "name": "OpenCoin",
   "symbol": "OPEN"
@@ -1316,9 +1335,19 @@
   "symbol": "CATS"
  },
  {
-  "address": "0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34",
-  "name": "Paper Plane",
-  "symbol": "PLANE"
+  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
+  "name": "Toned Ape Coin",
+  "symbol": "TAC"
+ },
+ {
+  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
+  "name": "GEMSTON",
+  "symbol": "GEMSTON"
+ },
+ {
+  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
+  "name": "Mantle",
+  "symbol": "jMNT"
  },
  {
   "address": "0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc",
@@ -1331,9 +1360,14 @@
   "symbol": "sTONks"
  },
  {
-  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
-  "name": "$PUNK",
-  "symbol": "PUNK"
+  "address": "0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c",
+  "name": "Pi Ton Network",
+  "symbol": "PITON"
+ },
+ {
+  "address": "0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886",
+  "name": "ANON",
+  "symbol": "ANON"
  },
  {
   "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
@@ -1341,29 +1375,14 @@
   "symbol": "KRABS"
  },
  {
-  "address": "0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123",
-  "name": "TON PET MEMECOIN",
-  "symbol": "TPET"
+  "address": "0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34",
+  "name": "Paper Plane",
+  "symbol": "PLANE"
  },
  {
-  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
-  "name": "GEMSTON",
-  "symbol": "GEMSTON"
- },
- {
-  "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
-  "name": "Spotty",
-  "symbol": "Spotty"
- },
- {
-  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
-  "name": "Mantle",
-  "symbol": "jMNT"
- },
- {
-  "address": "0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c",
-  "name": "Pi Ton Network",
-  "symbol": "PITON"
+  "address": "0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5",
+  "name": "@BTC25 MEMECOIN TonMiner",
+  "symbol": "@BTC25"
  },
  {
   "address": "0:f8563e5ae686cf618d907e040c7d9d2a8b718f95247106efe7eaa201256526ac",
@@ -1371,9 +1390,19 @@
   "symbol": "TFLOKI"
  },
  {
-  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
-  "name": "Toned Ape Coin",
-  "symbol": "TAC"
+  "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
+  "name": "Spotty",
+  "symbol": "Spotty"
+ },
+ {
+  "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
+  "name": "$PUNK",
+  "symbol": "PUNK"
+ },
+ {
+  "address": "0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123",
+  "name": "TON PET MEMECOIN",
+  "symbol": "TPET"
  },
  {
   "address": "EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC",
@@ -1381,6 +1410,20 @@
   "image": "https://kingy.wtf/arb-logo-CMC.png",
   "name": "ARBUZ",
   "symbol": "jARBUZ"
+ },
+ {
+  "address": "0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc",
+  "description": "Bridged Tether USD locked in liquidity in Storm Trade (storm.tg)",
+  "image": "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/jusdt-slp-logo.png",
+  "name": "jUSDT Storm LP",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "jUSDT-SLP",
+  "websites": [
+   "https://storm.tg"
+  ]
  },
  {
   "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",
@@ -1607,6 +1650,12 @@
   "address": "EQCJZrZxiA80zXCZTERCHW3BuQcOB3cl5Z3pG2anL7EM505O",
   "name": "Megaton LP oUSDC-oUSDT",
   "symbol": "MGLP"
+ },
+ {
+  "address": "EQAVw-6sK7NJepSjgH1gW60lYEkHYzSmK9pHbXstCClDY4BV",
+  "decimals": 9,
+  "name": "meh",
+  "symbol": "MEH"
  },
  {
   "address": "0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7",
