@@ -1,7 +1,7 @@
 name: Same
 image: "https://same.tonflow.io/same_256.png"
 address: 0:7df5d1a6c33b6676b4bb736fca0827aca227a1eb3ec65e2d666c049b9fe319ec
-symbol: BTC
+symbol: SAME
 max_supply: 100000000
 websites:
   - "https://same.tonflow.io/"
