@@ -1,0 +1,11 @@
+name: Pun Dog
+description: It's time for the greatest Pun Dog in the history of memes! $PUN will win your heart with puns!
+image: "https://pundog.io/pundog256.png"
+address: 0:213dca727e486fd8c3d4c589b7ee0f8d8d9a41ae9fa13be5c4a4e56480e2c013
+symbol: PUN
+max_supply: 888888888888
+websites:
+  - "https://pundog.io/"
+social:
+  - "https://t.me/pundog_ton"
+  - "https://twitter.com/pundog_ton"
