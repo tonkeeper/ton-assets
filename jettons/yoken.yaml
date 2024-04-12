@@ -1,0 +1,11 @@
+name: Yoken
+description: Yo, just send me 'yo' or 'yo {friend_address}' and mine
+image: "https://raw.githubusercontent.com/yokenfoundation/yokenfoundation.github.io/main/LOGO.png"
+address: 0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26
+symbol: YO
+max_supply: 99000000
+decimals: 9
+websites:
+  - "https://yoken.io"
+social:
+  - "https://t.me/yoken"
