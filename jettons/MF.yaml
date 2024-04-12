@@ -1,0 +1,10 @@
+name: Meme Fund
+address: EQD1fHR0E9crSTPO_iDFHvcowvCq7Q1Y_zMoogIFzwIdMgRb
+symbol: MF
+description: "MemeFund is a meta-token that grows by trading memecoins on TON"
+image: "https://i.ibb.co/rtRNLj6/3-C048-A39-AE08-4654-83-EC-D6-EF88-C1760-D.jpg"
+decimals: 9
+websites:
+  - "https://memefund.capital"
+social:
+  - "https://t.me/meme_as_fund"
