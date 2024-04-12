@@ -1990,5 +1990,21 @@
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
- }
+ },
+{
+ "address": "0:c09cd36e9a2796d9f66dad7283d30952a236f908298cdeb22c25f996ccee4efe",
+ "decimals": 9,
+ "description": "HarryPotterObamaDurovNotcoin10Inu a special meme with bitcoin ticker",
+ "image": "https://i.ibb.co/qyhjBL9/photo-2024-04-02-01-56-46.jpg",
+ "max_supply": 1000000,
+ "name": "HarryPotterObamaDurovNotcoin10Inu",
+ "social": [
+  "https://twitter.com/HPODN10i",
+  "https://t.me/HPODN10i"
+ ],
+ "symbol": "BITCOIN",
+ "websites": [
+  "https://hpodn10i.com"
+ ]
+}
 ]
