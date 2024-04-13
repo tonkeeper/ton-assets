@@ -259,6 +259,7 @@ Name           | Address
 [Shards of Notcoin NFT bond](https://tonviewer.com/0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b) | EQCIXQn940RNcOk6GzSorRSiA9WZC9xUz-6lyhl6Ap6na2sh
 [Siberian TON](https://tonviewer.com/0:e976693d0f20fc275c3c719579478d752a2dfcb779fec235eb908043ffe18367) | EQDpdmk9DyD8J1w8cZV5R411Ki38t3n-wjXrkIBD_-GDZ89a
 [Spotty](https://tonviewer.com/0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2) | EQC24zbmyONM-m3DeCCYQpDRiinGjOu2cCHevwUFGWvdotAQ
+[SquidTG](https://tonviewer.com/0:adc5b7daf5b5579fbc2c7cae55ef67d7d5116e73c9050c5ee988c8a858436010) | EQCtxbfa9bVXn7wsfK5V72fX1RFuc8kFDF7piMioWENgEBx5
 [SquirellCoin](https://tonviewer.com/0:2ef280ccfdd5cc81077508e8d19d4eac6219af9b944fdf6832c8bf51d91bfef2) | EQAu8oDM_dXMgQd1COjRnU6sYhmvm5RP32gyyL9R2Rv-8s70
 [Stable Metal](https://tonviewer.com/0:f9b72e48c55dc7102118d5b6db75deeb34d63e65c03ea40206417cb24594440f) | EQD5ty5IxV3HECEY1bbbdd7rNNY-ZcA-pAIGQXyyRZRED9v3
 [Staked TON](https://tonviewer.com/0:aa0ba121449feda569e02b12fa755d24e834a7454aecf4649590b6df742aac8f) | EQCqC6EhRJ_tpWngKxL6dV0k6DSnRUrs9GSVkLbfdCqsj6TE
