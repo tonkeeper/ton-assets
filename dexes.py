@@ -26,6 +26,7 @@ class StonfiAsset(BaseModel):
     deprecated: bool
     blacklisted: bool
 
+ignore_symbols = ["PEPE"]
 
 def __get_stonfi_assets() -> List[Asset]:
     url = "https://api.ston.fi/v1/assets"
@@ -38,6 +39,8 @@ def __get_stonfi_assets() -> List[Asset]:
     assets = list()
     for asset in stonfi_assets:
         if asset.community or asset.blacklisted or asset.deprecated or asset.kind != "Jetton":
+            continue
+        if asset.symbol in ignore_symbols:
             continue
         assets.append(Asset(name=asset.display_name, address=asset.contract_address, symbol=asset.symbol))
     return assets
