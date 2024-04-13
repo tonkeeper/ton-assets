@@ -337,6 +337,7 @@ Name           | Address
 [jUSDT Storm LP](https://tonviewer.com/0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc) | EQAlM_4LY6sP1QOur5aGdFBSa5ma6nqwldflmm9mshq7vCLB
 [jWBTC](https://tonviewer.com/0:dc064187982e294dfdf8c771a6d395ef7a93b9c3ad0337167e5d3e08ebe5061b) | EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5
 [meh](https://tonviewer.com/0:15c3eeac2bb3497a94a3807d605bad256049076334a62bda476d7b2d08294363) | EQAVw-6sK7NJepSjgH1gW60lYEkHYzSmK9pHbXstCClDY4BV
+[povel durev](https://tonviewer.com/0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1) | EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0
 [sTONks](https://tonviewer.com/0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45) | EQBng_Ux8DLKeaLZ4kN4eec-U-SJ1fMtYvqQANtL0oxKRQh_
 [toncoin](https://tonviewer.com/0:8591ee9090c0c02ca1f103cb637131d8f358870aba145245af083e138fdd705b) | EQCFke6QkMDALKHxA8tjcTHY81iHCroUUkWvCD4Tj91wW0Vs
 [ЖЮ](https://tonviewer.com/0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971) | EQD_KpO2-iFeHPT4dF0ur9E0iAFts2fwhpR2KjwAmYKpccvH
