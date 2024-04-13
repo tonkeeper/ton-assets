@@ -60,7 +60,7 @@ def __get_megaton_assets() -> List[Asset]:
 
 
 def __get_dedust_assets() -> List[Asset]:
-    url = "https://api.dedust.io/v2/assets"
+    url = "https://assets.dedust.io/list.json"
     response = requests.get(url)
     if response.status_code != 200:
         logging.error("failed to get dedust assets")
