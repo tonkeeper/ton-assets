@@ -3,7 +3,6 @@ description: Pavel's dog with a hoodie https://smartbotsland.com/blog/social-net
 image: "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/doodie.jpg"
 address: EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz
 symbol: DOODIE
-max_supply: 1000000000
 websites:
   - "https://dogwifhoodie.fun"
 social:

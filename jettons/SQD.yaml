@@ -1,9 +1,8 @@
 name: SquidTG
 description: SquidTG Metaverse Governance Token 🦑
-image: "https://cache.tonapi.io/imgproxy/F5jT9AESt2mhEFJ40OQs-1EGxJLgtBKcVY0bsJkdN3M/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tYXJvb24tdGlueS1idXp6YXJkLTg4NS5teXBpbmF0YS5jbG91ZC9pcGZzL1FtYjQzWUZBZGZHYzFma2pXS3NoQmhwczVvZzd6THI4R2VuaUVEWHI2eTNYaDc.webp"
+image: "https://ipfs.io/ipfs/Qmb43YFAdfGc1fkjWKshBhps5og7zLr8GeniEDXr6y3Xh7"
 address: 0:adc5b7daf5b5579fbc2c7cae55ef67d7d5116e73c9050c5ee988c8a858436010
 symbol: SQD
-max_supply: 10000000000
 decimals: 9
 websites:
   - "https://t.me/squidtg_bot"
