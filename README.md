@@ -171,6 +171,7 @@ Name           | Address
 [NOTCOIN](https://tonviewer.com/0:8be3365cabaa6a0f90d2e64f03fa78268c135fe0b0758b576b447e9b2068d75d) | EQCL4zZcq6pqD5DS5k8D-ngmjBNf4LB1i1drRH6bIGjXXTrS
 [NOTCOIN](https://tonviewer.com/0:8be3365cabaa6a0f90d2e64f03fa78268c135fe0b0758b576b447e9b2068d76c) | EQCL4zZcq6pqD5DS5k8D-ngmjBNf4LB1i1drRH6bIGjXbByg
 [NUDES Coin](https://tonviewer.com/0:72830ac4706223e73984b5678c1ac4176d7af5581815ddca157eac944508a087) | EQBygwrEcGIj5zmEtWeMGsQXbXr1WBgV3coVfqyURQighw2Y
+[Not Meme](https://tonviewer.com/0:16a73dbf1b434ac651b656f8056e06463edf18d6a7b47068fee18c3905f99847) | EQAWpz2_G0NKxlG2VvgFbgZGPt8Y1qe0cGj-4Yw5BfmYR5iF
 [OAAL AI](https://tonviewer.com/0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043) | EQCvsARFU_tJCRq7eFTrs2ORasCwDIPLQo7ZlkehsMmgQzd8
 [OpenCoin](https://tonviewer.com/0:dff38153f2d74765e236f8b5dd6fc80f311a87452001ae68bc8c8ecccef56918) | EQDf84FT8tdHZeI2-LXdb8gPMRqHRSABrmi8jI7MzvVpGJKZ
 [Orbit Bridge Ton Azit](https://tonviewer.com/0:a6ce54a0448f0615526b191a9ac68fa3bd3a3bdb5d6dc086f404fe26e22299da) | EQCmzlSgRI8GFVJrGRqaxo-jvTo7211twIb0BP4m4iKZ2hmR
@@ -240,6 +241,7 @@ Name           | Address
 [TON PET MEMECOIN](https://tonviewer.com/0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123) | EQAmQGimKRrSHDLllvdUdeDsX1CszGy_SPgNNN8wE2ihIwnP
 [TON SHIP](https://tonviewer.com/0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d) | EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs
 [TONic](https://tonviewer.com/0:b80feaa401aa985d63a7591271eb1b4e85dec56bdcd941da1bf22583ea64bf90) | EQC4D-qkAaqYXWOnWRJx6xtOhd7Fa9zZQdob8iWD6mS_kPqU
+[TOWER](https://tonviewer.com/0:b8ed87d52d6a3e53fcfbb3a8843a4600004285fc2d3e801881f0a24beace66e0) | EQC47YfVLWo-U_z7s6iEOkYAAEKF_C0-gBiB8KJL6s5m4JOP
 [Tegro](https://tonviewer.com/0:2f0df5851b4a185f5f63c0d0cd0412f5aca353f577da18ff47c936f99dbd849a) | EQAvDfWFG0oYX19jwNDNBBL1rKNT9XfaGP9HyTb5nb2Eml6y
 [Tenere](https://tonviewer.com/0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965) | EQCPmOnkTe8qP_ZtCf3Rys04ukRTiQc_xVS-lGQ6BH3JZWmC
 [Tether USD](https://tonviewer.com/0:ca9006bd3fb03d355daeeff93b24be90afaa6e3ca0073ff5720f8a852c933278) | EQDKkAa9P7A9NV2u7_k7JL6Qr6puPKAHP_VyD4qFLJMyeOLi
