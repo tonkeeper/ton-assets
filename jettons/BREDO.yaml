@@ -1,0 +1,11 @@
+name: BabyRedo
+description: The very first OG baby on TON chain, Redo's baby. https://t.me/BabyResistanceDogTon
+image: "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/bredo.png"
+address: EQCMUI-C7CQjVQanwD5Nrws0o06SKVMjHbLPNw8PXW6t01db
+symbol: BREDO
+max_supply: 9840000
+websites:
+  - "https://babyredoton.com"
+social:
+  - "https://t.me/BabyResistanceDogTon"
+  - "https://twitter.com/BredoTONchain"
