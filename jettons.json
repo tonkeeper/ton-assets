@@ -1946,5 +1946,10 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+  {
+  "address": "EQAWMOQi5WGpol6uacoobxT4XqX9cumNP3XI2ZcvK4gMdM9h",
+  "name": "Peng",
+  "symbol": "PENG"
+ },
 ]
