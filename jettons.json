@@ -1323,11 +1323,6 @@
   "symbol": "SOX"
  },
  {
-  "address": "0:dd2a4cce2a9b3b2252b416fe042661c322f39943b2edb026bebdee2a269a2917",
-  "name": "CookieToken",
-  "symbol": "COOKIE"
- },
- {
   "address": "0:a05b788c898aa4a818ea611dfdd70e76e7ede99c5cd5b2d1e56d9e1d92e956fe",
   "name": "MiDtoken",
   "symbol": "MID"
