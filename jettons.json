@@ -1946,5 +1946,21 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+ {
+  "address": "EQAj85pzhrQCvkGWA6Pa06ifuAQbggMXw23Jk54XIBYJS3Pj",
+  "description": "The innovative and community-driven meme coin built on the TON blockchain. EMOB TON aims to bring joy and engagement through a unique meme concept that's sure to capture the hearts of crypto enthusiasts and meme lovers alike.
+",
+  "image": "https://res2.yourwebsite.life/res/6600e7be424789000facfa0d/6610a2be350fb0000f279bf4_optimized_128.webp",
+  "name": "EMOB TON",
+  "social": [
+   "https://x.com/emobton",
+   "https://t.me/EMOBTON",
+   "https://t.me/Emob_TON_News"
+  ],
+  "symbol": "EMOB",
+  "websites": [
+   "https://emobton.xyz/"
+  ]
+ },
 ]
