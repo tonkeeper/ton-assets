@@ -1443,9 +1443,34 @@
   "symbol": "MEM"
  },
  {
-  "address": "0:f8563e5ae686cf618d907e040c7d9d2a8b718f95247106efe7eaa201256526ac",
-  "name": "TON FLOKI",
-  "symbol": "TFLOKI"
+  "address": "0:5daf96fb72c65b5e10e7439537eb86e92f29477e4f0059cba0f13c21cc231572",
+  "name": "Rosecoin",
+  "symbol": "ROSE"
+ },
+ {
+  "address": "0:1a2726c0b1d7176de5bf3ecad0644959584e31f262e42fdb39f2421cd0eb6909",
+  "name": "TON Degen",
+  "symbol": "DGN"
+ },
+ {
+  "address": "0:c7976b1586b63896f74714bcee4af1a8817b928a6db4e94bd71cdc0547cf210a",
+  "name": "Salo",
+  "symbol": "SALO"
+ },
+ {
+  "address": "0:9c61458a8631b1c2ab64fe37bd2d6d95e11a0599b84e511f5ee34e18e8541311",
+  "name": "The Resistance Girl",
+  "symbol": "REGI"
+ },
+ {
+  "address": "0:614683e638899c5367b708b283e9e099fcf7cecf689815c398df5dfd1d4531d2",
+  "name": "Dubai #2049",
+  "symbol": "DUBAI"
+ },
+ {
+  "address": "0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45",
+  "name": "sTONks",
+  "symbol": "sTONks"
  },
  {
   "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
@@ -1458,9 +1483,29 @@
   "symbol": "PLANE"
  },
  {
+  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
+  "name": "GEMSTON",
+  "symbol": "GEMSTON"
+ },
+ {
+  "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
+  "name": "TON Cats Jetton",
+  "symbol": "CATS"
+ },
+ {
+  "address": "0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123",
+  "name": "TON PET MEMECOIN",
+  "symbol": "TPET"
+ },
+ {
   "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
   "name": "$PUNK",
   "symbol": "PUNK"
+ },
+ {
+  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
+  "name": "MrKrabs",
+  "symbol": "KRABS"
  },
  {
   "address": "0:efebc6f725a5813bf0eb3fabb5dceabb2ac9ca851f76ea433170e2700020d8fe",
@@ -1473,9 +1518,14 @@
   "symbol": "jTOWER"
  },
  {
-  "address": "0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45",
-  "name": "sTONks",
-  "symbol": "sTONks"
+  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
+  "name": "Mantle",
+  "symbol": "jMNT"
+ },
+ {
+  "address": "0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c",
+  "name": "Pi Ton Network",
+  "symbol": "PITON"
  },
  {
   "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
@@ -1483,39 +1533,9 @@
   "symbol": "Spotty"
  },
  {
-  "address": "0:614683e638899c5367b708b283e9e099fcf7cecf689815c398df5dfd1d4531d2",
-  "name": "Dubai #2049",
-  "symbol": "DUBAI"
- },
- {
-  "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
-  "name": "Mantle",
-  "symbol": "jMNT"
- },
- {
-  "address": "0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4",
-  "name": "GEMSTON",
-  "symbol": "GEMSTON"
- },
- {
-  "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
-  "name": "MrKrabs",
-  "symbol": "KRABS"
- },
- {
-  "address": "0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123",
-  "name": "TON PET MEMECOIN",
-  "symbol": "TPET"
- },
- {
-  "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
-  "name": "TON Cats Jetton",
-  "symbol": "CATS"
- },
- {
-  "address": "0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c",
-  "name": "Pi Ton Network",
-  "symbol": "PITON"
+  "address": "0:f8563e5ae686cf618d907e040c7d9d2a8b718f95247106efe7eaa201256526ac",
+  "name": "TON FLOKI",
+  "symbol": "TFLOKI"
  },
  {
   "address": "EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC",
