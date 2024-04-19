@@ -1,0 +1,9 @@
+name: ProxyTON
+description: Proxy TON contract for ION Finance
+image: "https://github.com/ion-finance/docs/blob/main/.gitbook/assets/token.png?raw=true"
+address: EQBXkj37K2KP7i2GFNwEE_-z-yNZJfNTEhsYq2q9RDnIfjfL
+symbol: PTON
+websites:
+  - "https://ionfi.xyz/"
+social:
+  - "https://twitter.com/Ion_Finance"
