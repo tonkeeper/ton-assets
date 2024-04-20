@@ -314,6 +314,7 @@ Name           | Address
 [TOWER](https://tonviewer.com/0:b8ed87d52d6a3e53fcfbb3a8843a4600004285fc2d3e801881f0a24beace66e0) | EQC47YfVLWo-U_z7s6iEOkYAAEKF_C0-gBiB8KJL6s5m4JOP
 [TPLANT](https://tonviewer.com/0:0406101449227f36a6093b75913640543297c07fb86777d5fb5818594aa2dac5) | EQAEBhAUSSJ_NqYJO3WRNkBUMpfAf7hnd9X7WBhZSqLaxYko
 [Tenere](https://tonviewer.com/0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965) | EQCPmOnkTe8qP_ZtCf3Rys04ukRTiQc_xVS-lGQ6BH3JZWmC
+[Tether USD](https://tonviewer.com/0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe) | EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs
 [Tgram](https://tonviewer.com/0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b) | EQDRlQ8en7A2zsTuF7SdDOxMlZ_wFw0E7Eow3u9c4pSoe4Tg
 [The Open SOFT](https://tonviewer.com/0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1) | EQCHrhcBGVVlre8ngBlxLtfte37OGsXeJSmFSmABL8x44QH2
 [The Resistance Girl](https://tonviewer.com/0:9c61458a8631b1c2ab64fe37bd2d6d95e11a0599b84e511f5ee34e18e8541311) | EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh
@@ -347,6 +348,7 @@ Name           | Address
 [WTON](https://tonviewer.com/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
 [Wallet Exchanger](https://tonviewer.com/0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a) | EQBtUKPbhABPYtltiKWA547s4ZhJ5wZHvVV1eyfV7sEyGs2J
 [Web3 TON Token](https://tonviewer.com/0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b) | EQBtcL4JA-PdPiUkB8utHcqdaftmUSTqdL8Z1EeXePLti_nK
+[Whiskers](https://tonviewer.com/0:8e6e1e3e65a8213af6bcb82cff00c327be27ccdcf4be129a542442505d79e53f) | EQCObh4-ZaghOva8uCz_AMMnvifM3PS-EppUJEJQXXnlP0zX
 [Wrapped NANO](https://tonviewer.com/0:8e1a9d46015939d69ad5070e433bc40dde528895424a8d76d9725e5a5e02f986) | EQCOGp1GAVk51prVBw5DO8QN3lKIlUJKjXbZcl5aXgL5hkwy
 [Wrapped TON](https://tonviewer.com/0:4f0156ba7e3322831b271c5df7510ddabae7d5ae0d99f250594d8f51fa2b1f8c) | EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr
 [Wrapped TON](https://tonviewer.com/0:9a8da514d575d20234c3fb1395ee9138f5f1ad838abc905dc42c2389b46bd015) | EQCajaUU1XXSAjTD-xOV7pE49fGtg4q8kF3ELCOJtGvQFQ2C
