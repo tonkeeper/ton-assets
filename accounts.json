@@ -45,11 +45,15 @@
  },
  {
   "address": "0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3",
-  "name": "TON Foundation"
+  "name": "The Open Network Foundation"
  },
  {
   "address": "0:8bc991cfe177bc7e9721433efa3befd199485a55cffd040a06c89af026b71bcf",
   "name": "Hipo Treasury"
+ },
+ {
+  "address": "0:8c397c43f9ff0b49659b5d0a302b1a93af7ccc63e5f5c0c4f25a9dc1f8b47ab3",
+  "name": "Telegram"
  },
  {
   "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
