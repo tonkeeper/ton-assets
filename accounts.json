@@ -223,6 +223,11 @@
   "name": "OKX"
  },
  {
+  "address": "0:e7e86da08742ed933434ffeb8f08a63c7e100ee842e25f599a9cbf0891574a6c",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX"
+ },
+ {
   "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg",
   "name": "FTX",
