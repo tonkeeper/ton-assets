@@ -61,6 +61,7 @@ Name           | Address
 [Baron](https://tonviewer.com/0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca) | EQBiHSLVzoicc-LQPDXJc_rF-WRft0aFihccFduA6fQ1ynYM
 [Bear Country Token](https://tonviewer.com/0:2fbc476ae31e4aea8c23b0c2385fa0312a44c15d52885648921c32edea2d8b16) | EQAvvEdq4x5K6owjsMI4X6AxKkTBXVKIVkiSHDLt6i2LFnnQ
 [CAR COLLECTION](https://tonviewer.com/0:e4c6be69583a14bbb27f0b350628545b9c86f399e74d5770aae72ab74178126e) | EQDkxr5pWDoUu7J_CzUGKFRbnIbzmedNV3Cq5yq3QXgSbh41
+[CARDIFY Coin](https://tonviewer.com/0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc) | EQAdz16aPWCmAYldTiX_g-NRzT-spbN8tCk9dJIHfAiC3L4p
 [CON](https://tonviewer.com/0:7d3a9e4c014a329a4e98ff8c79217dea7461e15214a6326b15a0403e8f339823) | EQB9Op5MAUoymk6Y_4x5IX3qdGHhUhSmMmsVoEA-jzOYI7g-
 [Chad on TON](https://tonviewer.com/0:e99e37c4c12263754b9f6ad1dda2913db192ca983ee781726f6e2c647a5eb3b5) | EQDpnjfEwSJjdUufatHdopE9sZLKmD7ngXJvbixkel6zta5B
 [Cock Fights Token](https://tonviewer.com/0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58) | EQCm4EVrocp34JFelHYPGx_D4pKqQ-gS6_xFZQzIwwA-WElP
