@@ -410,6 +410,11 @@
   "require_memo": true
  },
  {
+  "address": "0:6a5a76a1538cf9596590ec3708470649c342624bf92e63a6a7a15254ededa904",
+  "name": "Bitfinex",
+  "require_memo": true
+ },
+ {
   "address": "0:59b065c5d66261a5317660e96eee476aa6a11b749bdcbe8c0d1f3dbf24200d1c",
   "name": "OMP Phoenix",
   "require_memo": true
