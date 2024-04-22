@@ -134,6 +134,9 @@
 - address: "UQAsVHlzGYN7TG0BT8mRwajUKU39TWzsSTfjcPHyfbBCP3mX"
   name: "Bitforex"
   require_memo: true
+- address: "UQBqWnahU4z5WWWQ7DcIRwZJw0JiS_kuY6anoVJU7e2pBEZK"
+  name: "Bitfinex"
+  require_memo: true  
 - address: "UQBZsGXF1mJhpTF2YOlu7kdqpqEbdJvcvowNHz2_JCANHCo7"
   name: "OMP Phoenix"
   require_memo: true  
