@@ -82,3 +82,6 @@
 - name: LP Token for MC-pTON
   address: "0:a033394315eaf75ea3a7b90a442d778648c06357fe8f59f58b125bda6b7aafd9"
   symbol: MC-pTON LP
+- name: LP Token for GOLDFISH-pTON
+  address: "0:53d6d3b327a9921f6d89d5009680aaabfe27987c796201eb85ddebdb62048c23"
+  symbol: GOLDFISH-pTON LP
