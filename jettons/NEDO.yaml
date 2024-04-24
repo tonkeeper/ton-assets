@@ -1,0 +1,9 @@
+name: NEDOCOIN
+image: "https://nedocoin.ru/nedocoin.png"
+address: EQDnVlhG6LvCdYyC4WlNX4T7appSlyKvtXphxKSv_2SwYlpZ
+symbol: NEDO
+websites:
+  - "https://nedocoin.ru"
+social:
+  - "https://t.me/nedocoin"
+  - "https://t.me/nedocoin_bot"
