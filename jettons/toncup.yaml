@@ -1,0 +1,11 @@
+name: Ton Cuphead
+description: "Ton Cuphead is a meme coin for fans of Cuphead. It brings together a passion for games and cryptocurrency"
+image: "https://raw.githubusercontent.com/toncup/toncup/main/toncup.png"
+address: "EQDVkOpW-r6RiRYSpGRKnVvvf8YQkA-X9ZLZxtddaQldVzg6" 
+symbol: TONCUP
+max_supply: 69000000000
+websites:
+  - "https://toncup.com"
+social:  
+  - "https://twitter.com/TonCupHead"
+  - "https://t.me/toncupheadchannel"
