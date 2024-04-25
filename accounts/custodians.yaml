@@ -10,15 +10,25 @@
   name: "Wallet Bot"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm"
+  name: "Wallet Bot"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
 - address: "EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8"
   name: "OKX"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQDxXbLGLNhq_whg05xJH8c6MTlfr-tZReZESYViJgx4Lg4_"
   name: "OKX"
+  require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "UQDn6G2gh0LtkzQ0_-uPCKY8fhAO6ELiX1manL8IkVdKbDEu"
   name: "OKX"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "UQADON7zS4TG7pE0oEqxYBRQvkRjQKN64lneV8s3vbWQzTjL"
+  name: "OKX"
+  require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
