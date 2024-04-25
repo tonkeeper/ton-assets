@@ -65,6 +65,7 @@ Name           | Address
 [FRAGMENT](https://tonviewer.com/0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d) | EQBR4LP9z2jr8mRi5Tzqq2wCLMtBsL7P46dntT_2FAqGfS7u
 [Fanzee Token](https://tonviewer.com/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
 [Find & Check](https://tonviewer.com/0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1) | EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz
+[Flamingo Coin](https://tonviewer.com/0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025) | EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_
 [GEMSTON](https://tonviewer.com/0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4) | EQBX6K9aXVl3nXINCyPPL86C4ONVmQ8vK360u6dykFKXpHCa
 [Glint Coin](https://tonviewer.com/0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c) | EQCBdxpECfEPH2wUxi1a6QiOkSf-5qDjUWqLCUuKtD-GLINT
 [Grabscape game token](https://tonviewer.com/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
@@ -75,6 +76,7 @@ Name           | Address
 [Jernax](https://tonviewer.com/0:91042f0b2380b182c800b4f2101b6222d2feaa4baf379d9c1354ea65fd7890cf) | EQCRBC8LI4CxgsgAtPIQG2Ii0v6qS683nZwTVOpl_XiQzwv8
 [JetTon](https://tonviewer.com/0:105e5589bc66db15f13c177a12f2cf3b94881da2f4b8e7922c58569176625eb5) | EQAQXlWJvGbbFfE8F3oS8s87lIgdovS455IsWFaRdmJetTon
 [John Doge](https://tonviewer.com/0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da) | EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH
+[KAKAXA](https://tonviewer.com/0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a) | EQDqz7LTwgj016kiTiSooM_ft8kveL2P4pj4fkJmsUV_an_X
 [KINGYTON](https://tonviewer.com/0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc) | EQC-tdRjjoYMz3MXKW4pj95bNZgvRyWwZ23Jix3ph7guvHxJ
 [KISS Coin](https://tonviewer.com/0:04f2c01bbf132822b376b40b8e7b8bc8e47e098671c8fb39f6568472f9a807ec) | EQAE8sAbvxMoIrN2tAuOe4vI5H4JhnHI-zn2VoRy-agH7BCn
 [Kote Coin](https://tonviewer.com/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
