@@ -3,6 +3,8 @@ description: $UTYA is more than just a memecoin – it’s a community-driven mo
 image: "https://tonutya.xyz/wp-content/uploads/2024/04/Logo-removebg-preview.png"
 address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
 symbol: UTYA
+max_supply: 1000000000
+decimals: 9
 websites:
   - "https://utya-ton.com"
 social:
