@@ -1,0 +1,11 @@
+name: "Paton Coin"
+image: "https://patoncoin.github.io/public/assets/patoncoin.png"
+description: "Paton coin, is the meme coins. It's bringing you're all to web3's world."
+address: "0:ce43348452f32a993e99cc2c656210804bba093b5943d2e53168271545848d6a"
+decimals: "9"
+symbol: PATON
+social:
+  - "https://t.me/patoncoin"
+  - "https://twitter.com/patoncoin"
+websites:
+  - "https://patoncoin.xyz/"
