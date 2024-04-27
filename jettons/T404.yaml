@@ -1,0 +1,10 @@
+name: TRC404 
+description: TRC404 is an innovative, mixed Jetton & NFT implementation with native liquidity and fractionalization for semi-fungible tokens.
+image: "https://raw.githubusercontent.com/NotFoundLabs/TRC-404/main/logo-blue.png?raw=true"
+address: 0:742ae907e851c852234a5f8aedd6538a55816195ab0eb057c853b8f5f75944fb
+symbol: T404
+websites:
+  - "https://trc-404.xyz"
+social:
+  - "https://t.me/trc404chat"
+  - "https://x.com/ton_trc404"
