@@ -31,4 +31,9 @@
 - name: LP Token for GLINT-TON
   address: "0:102c7d53108932e26e2b04c48c7903f21f8129758d210a25bd00d5774557631d"
   symbol: GLINT-TON
+- name: LP Token for KINGY-USDt
+  address: "0:4fa38e629c86c55e252df08f31ada90f441d5a5d9fb0ccd3897c885f420776ac"
+  symbol: KINGY-USDt
+
+  
 
