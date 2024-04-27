@@ -383,7 +383,7 @@ Name           | Address
 [tepe](https://tonviewer.com/0:cdd754d33d3c70ff148f26cff3cabcc84669782570e5a6902663326afbeb66a4) | EQDN11TTPTxw_xSPJs_zyrzIRml4JXDlppAmYzJq--tmpA6V
 [xCryproMarket](https://tonviewer.com/0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602) | EQD7THgw9GZ7udZzjzwiBXMHEKSCHiElKEHjn_-lcXoGApel
 [ЖЮ](https://tonviewer.com/0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971) | EQD_KpO2-iFeHPT4dF0ur9E0iAFts2fwhpR2KjwAmYKpccvH
-
+[PATON](https://tonviewer.com/0:ce43348452f32a993e99cc2c656210804bba093b5943d2e53168271545848d6a) | EQDOQzSEUvMqmT6ZzCxlYhCAS7oJO1lD0uUxaCcVRYSNaitg
 
 ## Structure
 
