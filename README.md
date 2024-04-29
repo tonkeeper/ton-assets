@@ -73,6 +73,7 @@ Name           | Address
 [Billionaire Boys Club](https://tonviewer.com/0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e) | EQBN2iDBrdAVRXz95RJbcftDCYZYDZmiWB4cbyZDj8h7Xn6c
 [Burncoin](https://tonviewer.com/0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d) | EQDNJzbNKA8Ix2X7Tv1_jxdCqehPQgJaNbisoIkSq5srnfLs
 [CARDIFY Coin](https://tonviewer.com/0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc) | EQAdz16aPWCmAYldTiX_g-NRzT-spbN8tCk9dJIHfAiC3L4p
+[CAVIAR COIN](https://tonviewer.com/0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e) | EQD6W0raB1aGCr86pWd7-oWpA3QW2VXCJ9smlYcChkIhflt2
 [CRYPTON](https://tonviewer.com/0:f7e8bc69ea9e053331d04e15b3bc535aaa16d3f108a9e2b305d4d623092818ea) | EQD36Lxp6p4FMzHQThWzvFNaqhbT8Qip4rMF1NYjCSgY6ksE
 [Capybara](https://tonviewer.com/0:9358a65447706527e8e74ff184f11b4444338c435968b3bf94a778a94244e2ef) | EQCTWKZUR3BlJ-jnT_GE8RtERDOMQ1los7-Up3ipQkTi700i
 [Chad on TON](https://tonviewer.com/0:e99e37c4c12263754b9f6ad1dda2913db192ca983ee781726f6e2c647a5eb3b5) | EQDpnjfEwSJjdUufatHdopE9sZLKmD7ngXJvbixkel6zta5B
