@@ -242,6 +242,12 @@
   "require_memo": true
  },
  {
+  "address": "0:a30a49ec725e9f57244b66af4c2da7ab76004b4fce80d3a34b1cd0c37762abce",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX",
+  "require_memo": true
+ },
+ {
   "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg",
   "name": "FTX",
@@ -249,6 +255,12 @@
  },
  {
   "address": "0:57eb74407604a19f7e04005315ef70aeb7b675e6551977586756f6baf12125ee",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg",
+  "name": "MEXC",
+  "require_memo": true
+ },
+ {
+  "address": "0:1c7bd690f4f93de8b93db5790129dab65926c6e1fc9b57380089db5529516630",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg",
   "name": "MEXC",
   "require_memo": true
@@ -312,6 +324,11 @@
   "name": "Kucoin Withdraw"
  },
  {
+  "address": "0:07ce60b7e5f255a88c3707f3fbc79e2cf924ed6b4b7d09c6324f0ba2338a48fa",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg",
+  "name": "Kucoin Withdraw"
+ },
+ {
   "address": "0:a14b1f452385b2bb984ad2c4441e1d23cae071fdfc096dfba53ebba3b6ff1d10",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/lbank_info_288.svg",
   "name": "lbank.info",
@@ -344,6 +361,26 @@
  },
  {
   "address": "0:c3f1da8ecda8f8cd42bace224ea3f1b6971eaa7f54c492d4d190527b4f573f7c",
+  "name": "Bybit",
+  "require_memo": true
+ },
+ {
+  "address": "0:4a1f3ebcc66bdcefa90245bdf541a50ada1c688a487534b1587abffd93038834",
+  "name": "Bybit",
+  "require_memo": true
+ },
+ {
+  "address": "0:cd525c15904d7b4027eae08b318624260f371ce8c9f4fcca0cdb7b583854107c",
+  "name": "Bybit",
+  "require_memo": true
+ },
+ {
+  "address": "0:ae62a192da96e266161a702cc9f6de91c0c3441f17ceba51bc442dfb2031a30a",
+  "name": "Bybit",
+  "require_memo": true
+ },
+ {
+  "address": "0:e3ce05c4da977132c24a3b102da8b5fbf2ea9173337b49de346e4a4b057f7579",
   "name": "Bybit",
   "require_memo": true
  },
@@ -461,6 +498,11 @@
  {
   "address": "0:2b6f3cda567c385f0645486f3c665a451f56b2969d1be57d86eb77c6077a81d1",
   "name": "BitTime",
+  "require_memo": true
+ },
+ {
+  "address": "0:cdf7f0d7c09036f064272e3c429ed570be49ef29eb3a735b64bbc17915073732",
+  "name": "Bitget",
   "require_memo": true
  },
  {
