@@ -2091,5 +2091,19 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+ {
+  "address": "EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft",
+  "description": "First community-driven girly sticker based memecoin on TON. TG - https://t.me/SteamyJuliaCTO , Twitter/X - https://x.com/SteamyJuliaCTO",
+  "image": "https://avatars.githubusercontent.com/u/168333338",
+  "name": "Steamy Julia",
+  "social": [
+   "https://t.me/SteamyJuliaCTO",
+   "https://x.com/SteamyJuliaCTO"
+  ],
+  "symbol": "JULIA",
+  "websites": [
+   "https://steamyjulia.com"
+  ]
+ },
 ]
