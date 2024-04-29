@@ -30,11 +30,19 @@
   name: "OKX"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "UQCjCknscl6fVyRLZq9MLaerdgBLT86A06NLHNDDd2Krztab"
+  name: "OKX"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg"
 - address: "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi"
+  name: "MEXC"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
+- address: "UQAce9aQ9Pk96Lk9tXkBKdq2WSbG4fybVzgAidtVKVFmMHCX"
   name: "MEXC"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
@@ -76,6 +84,9 @@
 - address: "EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs"
   name: "Kucoin Withdraw"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg"
+- address: "UQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-t4E"
+  name: "Kucoin Withdraw"
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg"
 - address: "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct"
   name: "lbank.info"
   require_memo: true
@@ -96,6 +107,18 @@
   name: "BitGo FTX Bankruptcy Custody"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bitgo_288.svg"
 - address: "EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb"
+  name: "Bybit"
+  require_memo: true
+- address: "UQBKHz68xmvc76kCRb31QaUK2hxoikh1NLFYer_9kwOINDtf"
+  name: "Bybit"
+  require_memo: true
+- address: "UQDNUlwVkE17QCfq4IsxhiQmDzcc6Mn0_MoM23tYOFQQfBIU"
+  name: "Bybit"
+  require_memo: true
+- address: "UQCuYqGS2pbiZhYacCzJ9t6RwMNEHxfOulG8RC37IDGjCjpR"
+  name: "Bybit"
+  require_memo: true
+- address: "UQDjzgXE2pdxMsJKOxAtqLX78uqRczN7Sd40bkpLBX91eeH3"
   name: "Bybit"
   require_memo: true
 - address: "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp"
@@ -167,4 +190,7 @@
   require_memo: true
 - address: "UQArbzzaVnw4XwZFSG88ZlpFH1aylp0b5X2G63fGB3qB0aUK"
   name: "BitTime"
+  require_memo: true
+- address: "UQDN9_DXwJA28GQnLjxCntVwvknvKes6c1tku8F5FQc3Mhut"
+  name: "Bitget"
   require_memo: true
