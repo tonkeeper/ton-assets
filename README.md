@@ -212,6 +212,7 @@ Name           | Address
 [Pioneer](https://tonviewer.com/0:638b1482770736ff5f93166108687b38980c8181204021384ab1d0637584fa48) | EQBjixSCdwc2_1-TFmEIaHs4mAyBgSBAIThKsdBjdYT6SITy
 [Pizza Gram](https://tonviewer.com/0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc) | EQDoqIKkOevVZukmf1L8nGhcjlha4sfvgl8GIRpTj_b53HyR
 [Plankton](https://tonviewer.com/0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729) | EQATgD7dao9jWBdz_qKL-UJZCXZGQvV5HJVUC85ssgmHKWll
+[Portal Network Token](https://tonviewer.com/0:41ed158ed2ace8e898629172e398a25cf35212e094747327396cf00bfe1d061a) | EQBB7RWO0qzo6JhikXLjmKJc81IS4JR0cyc5bPAL_h0GGmxW
 [Ptah](https://tonviewer.com/0:8bea369396e008ec44ff26067784f57d525f0c5cfda665684c42d18ccddf9c36) | EQCL6jaTluAI7ET_JgZ3hPV9Ul8MXP2mZWhMQtGMzd-cNt-X
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [Red Coin](https://tonviewer.com/0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa) | EQDAgy1xcNg0aFle548miasSdLCkL1nDeqSLP7Pua4wq-iTo
