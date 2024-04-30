@@ -1,0 +1,12 @@
+name: "Harry Gorilla"
+description: "TON is home to the most degenerate apes. Now, we celebrate them with a token based on Telegram's most recognizable sticker, $HARRY Gorilla!"
+image: "https://harrygorilla.com/wp-content/uploads/2024/04/200x200harry.png"
+address: EQBuKTV5fTOrQOgCdxB3UathFtY2VApb1igoYkKCAgFfj44x
+symbol: HARRY
+max_supply: 100000000
+decimals: 9
+websites:
+  - "https://harrygorilla.com/"
+social:
+  - "https://twitter.com/HarryFromTON/"
+  - "https://t.me/harrygorilla/"
