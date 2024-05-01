@@ -1,0 +1,11 @@
+name: Tonker
+description: Just a cat with a TON. 
+image: "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/tonker.jpg"
+address: EQCLg3pVJG8xLy3vDlNuYXkd7LSrgqh41Y1BUnEj4Mgi2IeK
+symbol: TONKER
+max_supply: 100000000
+websites:
+  - "https://www.tonker.meme"
+social:
+  - "https://t.me/TonkerPortal"
+  - "https://twitter.com/tonker_ton"
