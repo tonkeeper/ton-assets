@@ -168,6 +168,7 @@ Name           | Address
 [Megaton LP oUSDC-oWEMIX$](https://tonviewer.com/0:56473888b21491fab19efb7b4acde37551e1d4ef2f5119ec15ad9ee832b81d5c) | EQBWRziIshSR-rGe-3tKzeN1UeHU7y9RGewVrZ7oMrgdXAKU
 [Megaton LP oWBTC-WTON](https://tonviewer.com/0:a19d83703dfbb84a338f7084d2a2a084cbea44763fbc1fb61f4e294cfe5d2290) | EQChnYNwPfu4SjOPcITSoqCEy-pEdj-8H7YfTilM_l0ikBLI
 [Megaton LP oWEMIX-oWEMIX$](https://tonviewer.com/0:0009dc9f4bf41393f7c5a88ac74e6f0f05fe70f9b8b36342e09246cf887b69a4) | EQAACdyfS_QTk_fFqIrHTm8PBf5w-bizY0LgkkbPiHtppLkE
+[Memelandia Ton](https://tonviewer.com/0:5a2bd11db838ebd161c407a349dc908e6ff2139d7d3d7a4e584f5fbbdeda1a81) | EQBaK9EduDjr0WHEB6NJ3JCOb_ITnX09ek5YT1-73toagYCp
 [Meow](https://tonviewer.com/0:bf906dbd1df8292515b6458200a5e408f4f3d877376c95eaa26ab7e8d3432f49) | EQC_kG29HfgpJRW2RYIApeQI9PPYdzdsleqiarfo00MvSTSs
 [Mercury coin](https://tonviewer.com/0:03bc6510b5bc170a0614fb4520e2b1a4c13a59afa232ce2929eaa301a581361d) | EQADvGUQtbwXCgYU-0Ug4rGkwTpZr6Iyzikp6qMBpYE2HXFq
 [Meridian](https://tonviewer.com/0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7) | EQCymLRXp1QYxZKek4CTInckB1ey5TkyAJQpPAlNetiO54Vt
@@ -283,6 +284,7 @@ Name           | Address
 [UNICORN](https://tonviewer.com/0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25) | EQB2lbt2s_jdUW3OoUIb7-9RoK2UeGXmgC7BnOwgK6P_JTrm
 [USD](https://tonviewer.com/0:a26cdf3a6e709124385d4d7eb9bff6b897a58ed5597fbab779b89849dbe81b21) | EQCibN86bnCRJDhdTX65v_a4l6WO1Vl_urd5uJhJ2-gbIRGa
 [USDC](https://tonviewer.com/0:8591ee9090c0c02ca1f103cb637131d8f358870aba145245ff083e138fdd705b) | EQCFke6QkMDALKHxA8tjcTHY81iHCroUUkX_CD4Tj91wW44I
+[Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
 [VISHNYA](https://tonviewer.com/0:832092854dfe50a168a2ebefca4e4f1ba3a78a891fba864e47510c22c427bc49) | EQCDIJKFTf5QoWii6-_KTk8bo6eKiR-6hk5HUQwixCe8SW-I
 [VOMER](https://tonviewer.com/0:6d14df21f1d4ad4ef239f2d11273f4bbd1e86404b4aecd0a8283904b210c8a30) | EQBtFN8h8dStTvI58tESc_S70ehkBLSuzQqCg5BLIQyKMBC1
 [Vincere](https://tonviewer.com/0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5) | EQDqQscohYilSqWEyeLyCReOQKOh7KhRX_CPlD-Qdx02tUbG
