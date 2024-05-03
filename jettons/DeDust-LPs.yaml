@@ -13,6 +13,7 @@
 - name: LP Token for KINGY-TON
   address: "0:ec23137a9131cd4f3916f8a0c016839deee2bc215fea870f30479364607d4687"
   symbol: KINGY-TON
+  image: "https://kingy.wtf/IMG_LP_kingy.PNG"
 - name: LP Token for TONNEL-TON
   address: "0:2fb467bc35ea7f5e772641826bab35a38ddb136b28332f5edbbc7ffc463af2cf"
   symbol: TONNEL-TON
