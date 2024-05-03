@@ -1,0 +1,8 @@
+{
+  "address": "0:6f4cdf5b9a2a26259e746d8b7bd0e48057b04ce2e3eace22ef8903304945c7aa",
+  "name": "USDCoin",
+  "symbol": "USDCoin",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/_yC4PckboQSwltgNkatZKdszbL-dcGyf4mMwSJwLZxg/rs:fill:200:200:1/g:no/aHR0cHM6Ly91bWNhc2guZ2l0aHViLmlvL3dlYnNpdGUvdXNkdC5wbmc.webp",
+  "description": "USD token infrastructure coin"
+}
