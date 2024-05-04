@@ -46,6 +46,7 @@ Name           | Address
 Name           | Address
 ---------------|-----------
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
+[1PLAYER TOKEN](https://tonviewer.com/0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c) | EQB64g1YNILqmPFdjG1_uxWqCEP0VY141Y2pP0L1YDBdTKQ3
 [1RUS DAO](https://tonviewer.com/0:53d847b82f1e70f6e23ba0c972e6ea5736cdc00562ff170935ba233be2064219) | EQBT2Ee4Lx5w9uI7oMly5upXNs3ABWL_Fwk1uiM74gZCGaYt
 [@BTC25 MEMECOIN TonMiner](https://tonviewer.com/0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5) | EQC7rnHHtMVBKyhiGnAbtYIlzGxS0dfi3ZbHExFX0LYi9cAH
 [ALL](https://tonviewer.com/0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d) | EQDlnVo-6abJzyHlU8uB7pRjE7OIKt4HTTDPG4hfwOf5jTPg
@@ -260,6 +261,7 @@ Name           | Address
 [Tether USD](https://tonviewer.com/0:ca9006bd3fb03d355daeeff93b24be90afaa6e3ca0073ff5720f8a852c933278) | EQDKkAa9P7A9NV2u7_k7JL6Qr6puPKAHP_VyD4qFLJMyeOLi
 [Tether USD](https://tonviewer.com/0:ca9006bd3fb03d355daeeff93b24be90afaa6e3ca0073ff5720f8a852c933278) | EQDKkAa9P7A9NV2u7_k7JL6Qr6puPKAHP_VyD4qFLJMyeOLi
 [The Open SOFT](https://tonviewer.com/0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1) | EQCHrhcBGVVlre8ngBlxLtfte37OGsXeJSmFSmABL8x44QH2
+[The Resistance Cat](https://tonviewer.com/0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4) | EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j
 [The Resistance Girl](https://tonviewer.com/0:9c61458a8631b1c2ab64fe37bd2d6d95e11a0599b84e511f5ee34e18e8541311) | EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh
 [Tilt](https://tonviewer.com/0:98f1681382e8d51a6f37559c8552e1485ee0fdfd200ac06ca226206ec46ab9e4) | EQCY8WgTgujVGm83VZyFUuFIXuD9_SAKwGyiJiBuxGq55DGd
 [Ton Ai](https://tonviewer.com/0:f7cda950af09e1000e69b86f89fed42fdd6e67e5ceafe38f63934f3806ae255a) | EQD3zalQrwnhAA5puG-J_tQv3W5n5c6v449jk084Bq4lWuSQ
