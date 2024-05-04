@@ -51,6 +51,7 @@ Name           | Address
 Name           | Address
 ---------------|-----------
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
+[1PLAYER TOKEN](https://tonviewer.com/0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c) | EQB64g1YNILqmPFdjG1_uxWqCEP0VY141Y2pP0L1YDBdTKQ3
 [1RUS DAO](https://tonviewer.com/0:53d847b82f1e70f6e23ba0c972e6ea5736cdc00562ff170935ba233be2064219) | EQBT2Ee4Lx5w9uI7oMly5upXNs3ABWL_Fwk1uiM74gZCGaYt
 [@BTC25 MEMECOIN TonMiner](https://tonviewer.com/0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5) | EQC7rnHHtMVBKyhiGnAbtYIlzGxS0dfi3ZbHExFX0LYi9cAH
 [AIYA PowerCell](https://tonviewer.com/0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a) | EQAzBy-W8GJjUPfU-8eV0Jz56Jc5dIvvP-qznHKQhlqzGkoZ
@@ -117,6 +118,7 @@ Name           | Address
 [GRIMACE COIN](https://tonviewer.com/0:ce0e4a5fc59e23a1edd1c417248e0bc20901fe4d7c68cdb3704cea0252838c09) | EQDODkpfxZ4joe3RxBckjgvCCQH-TXxozbNwTOoCUoOMCfX8
 [GROK](https://tonviewer.com/0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c) | EQA2IyKaO7fKV37GxQGbRY_yZdE47ZdQXbOnX55OWhCwbL6H
 [Glint Coin](https://tonviewer.com/0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c) | EQCBdxpECfEPH2wUxi1a6QiOkSf-5qDjUWqLCUuKtD-GLINT
+[GoiCoin 2](https://tonviewer.com/0:42a329c662c940323bff81197fdbf07528c3af87d656f9a7b4a7b49a5d9cba28) | EQBCoynGYslAMjv_gRl_2_B1KMOvh9ZW-ae0p7SaXZy6KFjY
 [Goy Token](https://tonviewer.com/0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51) | EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA
 [Grabscape game token](https://tonviewer.com/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
 [Grabscape governance token](https://tonviewer.com/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
@@ -339,6 +341,7 @@ Name           | Address
 [Tgram](https://tonviewer.com/0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b) | EQDRlQ8en7A2zsTuF7SdDOxMlZ_wFw0E7Eow3u9c4pSoe4Tg
 [The Open League MEME](https://tonviewer.com/0:8e291ace7b37997c28242873be3c19e179ec578eb147652f9e44ee43ffc87960) | EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N
 [The Open SOFT](https://tonviewer.com/0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1) | EQCHrhcBGVVlre8ngBlxLtfte37OGsXeJSmFSmABL8x44QH2
+[The Resistance Cat](https://tonviewer.com/0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4) | EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j
 [The Resistance Girl](https://tonviewer.com/0:9c61458a8631b1c2ab64fe37bd2d6d95e11a0599b84e511f5ee34e18e8541311) | EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh
 [Tilt](https://tonviewer.com/0:98f1681382e8d51a6f37559c8552e1485ee0fdfd200ac06ca226206ec46ab9e4) | EQCY8WgTgujVGm83VZyFUuFIXuD9_SAKwGyiJiBuxGq55DGd
 [Ton Ai](https://tonviewer.com/0:f7cda950af09e1000e69b86f89fed42fdd6e67e5ceafe38f63934f3806ae255a) | EQD3zalQrwnhAA5puG-J_tQv3W5n5c6v449jk084Bq4lWuSQ
