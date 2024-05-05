@@ -1,0 +1,12 @@
+name: Donut The Dog
+description: Donut The Dog Telegram Sticker https://t.me/donutdog_ton . https://x.com/donutdog_ton . https://donutthedog.com/
+image: "https://cache.tonapi.io/imgproxy/YuxixjRCCN_SfYKkYrP8QR-ct2pjrqPJAPdiaOGziAs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvZlRyR0Zya1AvYXZhLnBuZw.webp"
+address: 0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110
+symbol: Donut
+max_supply: 1000000000
+decimals: 6
+websites:
+  - "https://donutthedog.com/"
+social:
+  - "t.me/DONUTDOGTON"
+  - "https://twitter.com/DonutDogTon"
