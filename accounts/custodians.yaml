@@ -78,7 +78,7 @@
   require_memo: false
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/tonmobile_service_288.svg"
 - address: "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl"
-   name: "Kucoin 1"
+  name: "Kucoin 1"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_288.svg"
 - address: "EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs"
