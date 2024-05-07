@@ -39,6 +39,16 @@
   "symbol": "APC"
  },
  {
+  "address": "EQDWEsV8ZD83HhpJBLWuB_r55XLwNCpZwcBo-UGNthcJtboi",
+  "description": "100% RICH",
+  "image": "https://cache.tonapi.io/imgproxy/fRI6STTH8PO4G6E-qHJ8IJxJxZmTAEh61nvgkosKAl8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9rYXBwYS5sb2wvZjZ6dkc.webp",
+  "name": "ARUTCOIN",
+  "social": [
+   "https://t.me/alisherhateu/2876"
+  ],
+  "symbol": "ARUT"
+ },
+ {
   "address": "0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2",
   "decimals": 9,
   "description": "The cutest dog on TON",
