@@ -1,8 +1,9 @@
-name: Vidar Coin
-description: VIDAR COIN - это новый токен в сети TON, который планируется использоваться нашим сообществом. 
-image: "https://vidar.news/vidarcoin.jpg"
-address: EQDzuaY5QTprByVUBYAqlgFH0EzZDN2eRXvvT3ut7K1-juMf
+name: VIDAR COIN
 symbol: VIDAR
+address: 0:f3b9a639413a6b07255405802a960147d04cd90cdd9e457bef4f7badecad7e8e
+decimals: 4
+image: "https://vidar.news/vidarcoin.jpg"
+description: VIDAR NFT: https://getgems.io/vidar
 websites:
   - "https://vidar.news"
   - "https://getgems.io/vidar"
