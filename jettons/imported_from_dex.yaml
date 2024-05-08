@@ -46,6 +46,9 @@
 - address: 0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e
   name: CAVIAR COIN
   symbol: CAVI
+- address: 0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad
+  name: swap.coffee
+  symbol: CES
 - address: 0:e99e37c4c12263754b9f6ad1dda2913db192ca983ee781726f6e2c647a5eb3b5
   name: Chad on TON
   symbol: CHAD
