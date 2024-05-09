@@ -202,36 +202,50 @@
  {
   "address": "0:dddcd3cdad60af4c0d69389f567ad51d0c263fa4968d655ab424c69aadaf9322",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
-  "name": "Wallet Bot",
+  "name": "Wallet Bot 1",
   "require_memo": true
  },
  {
   "address": "0:436a76c2794a88e3fbfec6b9c0374fc8db046f10868b835420d9937973a665d4",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
-  "name": "Wallet Bot",
+  "name": "Wallet Bot 2",
   "require_memo": true
  },
  {
   "address": "0:6e814e6450e8c578067bb656298fb4d01397dd15018d7f34dc369eaba4c2111c",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
-  "name": "Wallet Bot",
+  "name": "Wallet Bot 3",
   "require_memo": true
  },
  {
   "address": "0:5f00decb7da51881764dc3959cec60609045f6ca1b89e646bde49d492705d77f",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
-  "name": "OKX",
+  "name": "OKX 1",
   "require_memo": true
  },
  {
   "address": "0:f15db2c62cd86aff0860d39c491fc73a31395fafeb5945e644498562260c782e",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
-  "name": "OKX"
+  "name": "OKX 2",
+  "require_memo": true
  },
  {
   "address": "0:e7e86da08742ed933434ffeb8f08a63c7e100ee842e25f599a9cbf0891574a6c",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
-  "name": "OKX"
+  "name": "OKX 3",
+  "require_memo": true
+ },
+ {
+  "address": "0:0338def34b84c6ee9134a04ab1601450be446340a37ae259de57cb37bdb590cd",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX 4",
+  "require_memo": true
+ },
+ {
+  "address": "0:a30a49ec725e9f57244b66af4c2da7ab76004b4fce80d3a34b1cd0c37762abce",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX 5",
+  "require_memo": true
  },
  {
   "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
@@ -242,7 +256,13 @@
  {
   "address": "0:57eb74407604a19f7e04005315ef70aeb7b675e6551977586756f6baf12125ee",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg",
-  "name": "MEXC",
+  "name": "MEXC 1",
+  "require_memo": true
+ },
+ {
+  "address": "0:1c7bd690f4f93de8b93db5790129dab65926c6e1fc9b57380089db5529516630",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg",
+  "name": "MEXC 2",
   "require_memo": true
  },
  {
@@ -295,13 +315,18 @@
  {
   "address": "0:80d4123841167ca989ac912443cc99a4b9c1a87584536427ff6fd85c92395ae9",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_288.svg",
-  "name": "Kucoin",
+  "name": "Kucoin 1",
   "require_memo": true
  },
  {
   "address": "0:b37e57033db21d10b950e6143b658c10c3bf425bd193025960aef7f22dbcf4fc",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg",
-  "name": "Kucoin Withdraw"
+  "name": "Kucoin Withdraw 1"
+ },
+ {
+  "address": "0:07ce60b7e5f255a88c3707f3fbc79e2cf924ed6b4b7d09c6324f0ba2338a48fa",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg",
+  "name": "Kucoin Withdraw 2"
  },
  {
   "address": "0:a14b1f452385b2bb984ad2c4441e1d23cae071fdfc096dfba53ebba3b6ff1d10",
@@ -336,7 +361,27 @@
  },
  {
   "address": "0:c3f1da8ecda8f8cd42bace224ea3f1b6971eaa7f54c492d4d190527b4f573f7c",
-  "name": "Bybit",
+  "name": "Bybit 1",
+  "require_memo": true
+ },
+ {
+  "address": "0:4a1f3ebcc66bdcefa90245bdf541a50ada1c688a487534b1587abffd93038834",
+  "name": "Bybit 2",
+  "require_memo": true
+ },
+ {
+  "address": "0:cd525c15904d7b4027eae08b318624260f371ce8c9f4fcca0cdb7b583854107c",
+  "name": "Bybit 3",
+  "require_memo": true
+ },
+ {
+  "address": "0:ae62a192da96e266161a702cc9f6de91c0c3441f17ceba51bc442dfb2031a30a",
+  "name": "Bybit 4",
+  "require_memo": true
+ },
+ {
+  "address": "0:e3ce05c4da977132c24a3b102da8b5fbf2ea9173337b49de346e4a4b057f7579",
+  "name": "Bybit 5",
   "require_memo": true
  },
  {
@@ -453,6 +498,11 @@
  {
   "address": "0:2b6f3cda567c385f0645486f3c665a451f56b2969d1be57d86eb77c6077a81d1",
   "name": "BitTime",
+  "require_memo": true
+ },
+ {
+  "address": "0:cdf7f0d7c09036f064272e3c429ed570be49ef29eb3a735b64bbc17915073732",
+  "name": "Bitget",
   "require_memo": true
  },
  {
@@ -750,5 +800,9 @@
  {
   "address": "-1:21a56f2ebf9360cf99b99d5fed49105fa3f552987cfaa70fc943a63f3d757943",
   "name": "Animoca Brands Pool 2"
+ },
+ {
+  "address": "0:2363d23750a06ac544ccd6c0786122a9a88d2445a80d28e04230525f905c3280",
+  "name": "Scammer"
  }
 ]
