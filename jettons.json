@@ -1259,6 +1259,11 @@
   "symbol": "NFTON"
  },
  {
+  "address": "0:2f956143c461769579baef2e32cc2d7bc18283f40d20bb03e432cd603ac33ffc",
+  "name": "Notcoin",
+  "symbol": "NOT"
+ },
+ {
   "address": "0:77e36d4879bc4595cc4d616cd1918f542bbc1168eb161283bcbb6869a5d73500",
   "name": "NOTSHIBA INU",
   "symbol": "NOTSHIB"
@@ -1472,6 +1477,11 @@
   "address": "0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d",
   "name": "TON SHIP",
   "symbol": "SHIP"
+ },
+ {
+  "address": "0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4",
+  "name": "Shitcoin",
+  "symbol": "SHIT"
  },
  {
   "address": "0:418cc07e7a971da285742ca4803a5d76b1e7bde0e9e59545855e2d26a98646b1",

@@ -239,6 +239,7 @@ Name           | Address
 [Not Floki Ton](https://tonviewer.com/0:5a392b795c8a8f26326e1df88ad5967b54ca44e95661c09a1d63faa72bda8844) | EQBaOSt5XIqPJjJuHfiK1ZZ7VMpE6VZhwJodY_qnK9qIRAUh
 [Not Meme](https://tonviewer.com/0:16a73dbf1b434ac651b656f8056e06463edf18d6a7b47068fee18c3905f99847) | EQAWpz2_G0NKxlG2VvgFbgZGPt8Y1qe0cGj-4Yw5BfmYR5iF
 [Not Notcoin](https://tonviewer.com/0:454f32ed86faca3e04177e03a18658559d2b43b7bdf7510cddc478d8eb949d0d) | EQBFTzLthvrKPgQXfgOhhlhVnStDt733UQzdxHjY65SdDUc3
+[Notcoin](https://tonviewer.com/0:2f956143c461769579baef2e32cc2d7bc18283f40d20bb03e432cd603ac33ffc) | EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT
 [OAAL AI](https://tonviewer.com/0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043) | EQCvsARFU_tJCRq7eFTrs2ORasCwDIPLQo7ZlkehsMmgQzd8
 [OPEN](https://tonviewer.com/0:746a957e372098243570481a032fce978e9d0e8b07320fc8c9d09e415569e70c) | EQB0apV-NyCYJDVwSBoDL86Xjp0OiwcyD8jJ0J5BVWnnDJu7
 [OTTON](https://tonviewer.com/0:996a89e369f449306cfdf1b22d94008c04b875ed8ddb31fb64a6999e6c99b63b) | EQCZaonjafRJMGz98bItlACMBLh17Y3bMftkppmebJm2O92Z
@@ -308,6 +309,7 @@ Name           | Address
 [Scaleton](https://tonviewer.com/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
 [Secure Sockets Layer](https://tonviewer.com/0:f753cc9cda6a137bcc826d4958c64321fd208258b92ec506a6da569be220dfa5) | EQD3U8yc2moTe8yCbUlYxkMh_SCCWLkuxQam2lab4iDfpXYU
 [Shards of Notcoin NFT bond](https://tonviewer.com/0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b) | EQCIXQn940RNcOk6GzSorRSiA9WZC9xUz-6lyhl6Ap6na2sh
+[Shitcoin](https://tonviewer.com/0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4) | EQB4gPfG0YtoiJHCMTUuzxP9fKXy9nx6TFh-dcAltrnNpLNo
 [Slowpoke](https://tonviewer.com/0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9) | EQDK3ReFkb6L3uE3GmMDJaxWby4PA_UYGClgFfJuXY52-TOK
 [Spotty](https://tonviewer.com/0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2) | EQC24zbmyONM-m3DeCCYQpDRiinGjOu2cCHevwUFGWvdotAQ
 [Squid Egg](https://tonviewer.com/0:d30bc8eaf594982f618540bec24633ceff995b6bcd2b667908d09cda95c1305e) | EQDTC8jq9ZSYL2GFQL7CRjPO_5lba80rZnkI0JzalcEwXgsI
