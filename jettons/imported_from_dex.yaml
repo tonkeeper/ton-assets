@@ -55,6 +55,9 @@
 - address: 0:5e9d609d3010082eb887f323d7f5b7e68dc66599eaf52604431c359b9432b5dd
   name: ChipiCoin
   symbol: CHAPA
+- address: 0:4a45235191e3f5fb68dc8394ff7ffff4b391e3fafadb7cd2cc432f1d9d9b3bc5
+  name: Hot Cherry
+  symbol: CHERRY
 - address: 0:18043b8b74bae30ca47549467ad19b8bb92cc70c8a04dbacd9131b81fdb8e21b
   name: TON Click
   symbol: CLICK
@@ -490,6 +493,9 @@
 - address: 0:3b9cb248f84a1ce680731019e52f37b34c4c06351bf2479b57ee25874fc28fc1
   name: TON7DAO
   symbol: TON7DAO
+- address: 0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9
+  name: TONALD TRUMP
+  symbol: TONALD
 - address: 0:b80feaa401aa985d63a7591271eb1b4e85dec56bdcd941da1bf22583ea64bf90
   name: TONic
   symbol: TONIC
@@ -511,6 +517,9 @@
 - address: 0:0406101449227f36a6093b75913640543297c07fb86777d5fb5818594aa2dac5
   name: TPLANT
   symbol: TPLANT
+- address: 0:069a80f25e48c55eefec76d458e9056116c0d3c685d10c8b892761c7a21d2797
+  name: TradeBet
+  symbol: TRB
 - address: 0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05
   name: Tribe
   symbol: TRIBE
