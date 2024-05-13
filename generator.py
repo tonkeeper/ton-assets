@@ -46,6 +46,7 @@ def collect_all_dexes():
     with open(f"jettons/{DEXES_FILE_NAME}", "w") as yaml_file:
         yaml.dump(list(sorted(assets_for_save.values(), key=lambda x: x['symbol'])), yaml_file, default_flow_style=False)
 
+ALLOWED_KEYS =  {'symbol', 'name', 'address', 'decimal', 'description', 'image', 'social', 'websites', 'decimals', 'coinmarketcap', 'coingecko'}
 
 def merge_jettons():
     temp = [yaml.safe_load(open(file)) for file in sorted(glob.glob("jettons/*.yaml"))]
@@ -55,6 +56,13 @@ def merge_jettons():
             jettons.extend(j)
         else:
             jettons.append(j)
+    for j in jettons:
+        if len(set(j.keys()) - ALLOWED_KEYS) > 0 :
+            raise Exception("invalid keys %s in %s" % (set(j.keys()) - ALLOWED_KEYS, j.get('name')))
+        if len(set(j.keys()) & {"name", "symbol", "address"}) < 3:
+            raise Exception("name, symbol and address are required %s "  % j.get("name"))
+        if 'image' in j and j['image'].startswith('https://cache.tonapi.io'):
+            raise Exception("don't use cache.tonapi.io as image source in %v", j.get("name"))
     with open('jettons.json', 'w') as out:
         json.dump(jettons, out, indent=" ", sort_keys=True)
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in jettons])

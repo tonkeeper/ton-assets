@@ -641,7 +641,6 @@
   "address": "0:8e291ace7b37997c28242873be3c19e179ec578eb147652f9e44ee43ffc87960",
   "description": "$TOL is The Open League MEME community token. Earn rewards by using TON ecosystem projects.",
   "image": "https://i.postimg.cc/T3v9sCQQ/tol-new.jpg",
-  "max_supply": 115000000,
   "name": "The Open League MEME",
   "social": [
    "https://t.me/tolmeme",
@@ -656,7 +655,6 @@
   "address": "0:eebc03f6dfcb16a9c0ae71feed512eccfb873e5b02176fab4aa2c74b5e541f9b",
   "description": "1st Social Token on TON blockchain powering a Secret Social, Gaming and Entertainment Network connected by Telegram Wallets.",
   "image": "https://gateway.pinata.cloud/ipfs/QmTQf95qa8Ba5KYCsvXoFkuNsNvQceQkr6oLuyuKmfk85f",
-  "max_supply": 100000000000,
   "name": "TONKINGS Social Token",
   "social": [
    "https://t.me/TONKREFERBOT",
