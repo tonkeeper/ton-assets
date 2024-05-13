@@ -3,7 +3,7 @@ name: TIME
 symbol: TIME
 decimals: 9
 description: "Don’t waste your time…"
-image: "https://cache.tonapi.io/imgproxy/7weuPd1hNWIxtnjcNr0opxHO-loNrtyaAF3KixX8kIw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9vcHRpbS50aWxkYWNkbi5vbmUvdGlsZDY0MzEtNjEzNy00NzM0LWI4MzItNjUzMDM4MzkzOTYxLy0vcmVzaXplLzc4NngvLS9mb3JtYXQvd2VicC9JTUdfNzQ4Mi5wbmc.webp"
+image: "https://raw.githubusercontent.com/time-open-development/TIME.yaml/main/time_logo_512x512.png"
 social:
   - "https://t.me/time_meme"
   - "https://twitter.com/timecointon"
