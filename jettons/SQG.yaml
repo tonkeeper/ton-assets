@@ -2,7 +2,7 @@ name: Squid Egg
 description: SquidTG Egg Token
 image: "https://cf-ipfs.com/ipfs/bafkreidekwii7ktw57ilg4sk6xtbfprmpwvwyuopytvo57ogi332hmtzk4"
 address: 0:3a634ad6cac1b81d69aba2ced5fb3ecdae312bbf20b0bcd54596fc848cb1efe4
-symbol: SQD
+symbol: SQG
 decimals: 0
 websites:
   - "https://t.me/squidtg_bot"
