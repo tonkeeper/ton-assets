@@ -400,7 +400,7 @@
   "description": "SquidTG Egg Token (Legacy)",
   "image": "https://cf-ipfs.com/ipfs/bafkreidy7gsw4hvbz5tub6w3am73smxm2kszg72wsmpmw27v5tbzn3hz7y",
   "name": "Squid Egg (Legacy)",
-  "symbol": "LSQD"
+  "symbol": "LSQG"
  },
  {
   "address": "0:0be9ed5434f164b27f35f7ca8e0fa2880a7a65c3a7fd70c205b905b7c55f6577",
@@ -595,7 +595,7 @@
    "https://t.me/squid_tg_vn",
    "https://medium.com/@squid_tg"
   ],
-  "symbol": "SQD",
+  "symbol": "SQG",
   "websites": [
    "https://t.me/squidtg_bot"
   ]
