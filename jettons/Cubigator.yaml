@@ -1,0 +1,11 @@
+name: Cubigator
+description: The cuttest alligator on TON
+image: "https://i.ibb.co/Rhc78XF/obrazek.png"
+address: EQCXSMNX3OB5jPgOJkEzjYhm7FOBfkA3cg7paBqTYwzXrjIi
+symbol: CUB
+max_supply: 980000000
+websites:
+  - "https://cubigator.site"
+social:
+  - "https://twitter.com/CubigatorOnTon"
+  - "https://t.me/CubigatorTon"
