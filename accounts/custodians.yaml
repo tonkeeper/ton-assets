@@ -194,3 +194,6 @@
 - address: "UQDN9_DXwJA28GQnLjxCntVwvknvKes6c1tku8F5FQc3Mhut"
   name: "Bitget"
   require_memo: true
+- address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
+  name: "Binance"
+  require_memo: true
