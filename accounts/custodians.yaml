@@ -1,28 +1,49 @@
 - address: "EQCtiv7PrMJImWiF2L5oJCgPnzp-VML2CAt5cbn1VsKAxLiE"
-  name: "CryptoBot"
+  name: "Crypto Bot"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/crypto_bot_288.svg"
 - address: "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90"
-  name: "Wallet Bot"
+  name: "Wallet Bot 1"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
 - address: "EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh"
-  name: "Wallet Bot"
+  name: "Wallet Bot 2"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm"
+  name: "Wallet Bot 3"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
 - address: "EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8"
-  name: "OKX"
+  name: "OKX 1"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQDxXbLGLNhq_whg05xJH8c6MTlfr-tZReZESYViJgx4Lg4_"
-  name: "OKX"
+  name: "OKX 2"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "UQDn6G2gh0LtkzQ0_-uPCKY8fhAO6ELiX1manL8IkVdKbDEu"
+  name: "OKX 3"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "UQADON7zS4TG7pE0oEqxYBRQvkRjQKN64lneV8s3vbWQzTjL"
+  name: "OKX 4"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "UQCjCknscl6fVyRLZq9MLaerdgBLT86A06NLHNDDd2Krztab"
+  name: "OKX 5"
+  require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg"
 - address: "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi"
-  name: "MEXC"
+  name: "MEXC 1"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
+- address: "UQAce9aQ9Pk96Lk9tXkBKdq2WSbG4fybVzgAidtVKVFmMHCX"
+  name: "MEXC 2"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
 - address: "EQB5lISMH8vLxXpqWph7ZutCS4tU4QdZtrUUpmtgDCsO73JR"
@@ -57,11 +78,14 @@
   require_memo: false
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/tonmobile_service_288.svg"
 - address: "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl"
-  name: "Kucoin"
+  name: "Kucoin 1"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_288.svg"
 - address: "EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs"
-  name: "Kucoin Withdraw"
+  name: "Kucoin Withdraw 1"
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg"
+- address: "UQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-t4E"
+  name: "Kucoin Withdraw 2"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg"
 - address: "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct"
   name: "lbank.info"
@@ -83,7 +107,19 @@
   name: "BitGo FTX Bankruptcy Custody"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bitgo_288.svg"
 - address: "EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb"
-  name: "Bybit"
+  name: "Bybit 1"
+  require_memo: true
+- address: "UQBKHz68xmvc76kCRb31QaUK2hxoikh1NLFYer_9kwOINDtf"
+  name: "Bybit 2" 
+  require_memo: true
+- address: "UQDNUlwVkE17QCfq4IsxhiQmDzcc6Mn0_MoM23tYOFQQfBIU"
+  name: "Bybit 3"
+  require_memo: true
+- address: "UQCuYqGS2pbiZhYacCzJ9t6RwMNEHxfOulG8RC37IDGjCjpR"
+  name: "Bybit 4"
+  require_memo: true
+- address: "UQDjzgXE2pdxMsJKOxAtqLX78uqRczN7Sd40bkpLBX91eeH3"
+  name: "Bybit 5"
   require_memo: true
 - address: "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp"
   name: "bit.com"
@@ -131,6 +167,9 @@
 - address: "UQAsVHlzGYN7TG0BT8mRwajUKU39TWzsSTfjcPHyfbBCP3mX"
   name: "Bitforex"
   require_memo: true
+- address: "UQBqWnahU4z5WWWQ7DcIRwZJw0JiS_kuY6anoVJU7e2pBEZK"
+  name: "Bitfinex"
+  require_memo: true  
 - address: "UQBZsGXF1mJhpTF2YOlu7kdqpqEbdJvcvowNHz2_JCANHCo7"
   name: "OMP Phoenix"
   require_memo: true  
@@ -151,4 +190,7 @@
   require_memo: true
 - address: "UQArbzzaVnw4XwZFSG88ZlpFH1aylp0b5X2G63fGB3qB0aUK"
   name: "BitTime"
+  require_memo: true
+- address: "UQDN9_DXwJA28GQnLjxCntVwvknvKes6c1tku8F5FQc3Mhut"
+  name: "Bitget"
   require_memo: true
