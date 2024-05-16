@@ -334,9 +334,6 @@
 - address: 0:5a392b795c8a8f26326e1df88ad5967b54ca44e95661c09a1d63faa72bda8844
   name: Not Floki Ton
   symbol: NFTON
-- address: 0:2f956143c461769579baef2e32cc2d7bc18283f40d20bb03e432cd603ac33ffc
-  name: Notcoin
-  symbol: NOT
 - address: 0:450e083a3b5fe26683aa4a065a9f343df63234b51a5e0a5499c6b0d4fe8db3bd
   name: NOTGEM
   symbol: NOTGEM
