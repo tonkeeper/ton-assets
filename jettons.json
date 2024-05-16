@@ -450,6 +450,12 @@
   ]
  },
  {
+  "address": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
+  "decimals": 9,
+  "name": "Notcoin",
+  "symbol": "NOT"
+ },
+ {
   "address": "0:454f32ed86faca3e04177e03a18658559d2b43b7bdf7510cddc478d8eb949d0d",
   "description": "A coin made by notcoiners for notcoiners",
   "image": "https://i.postimg.cc/CxQ5DGtv/notnotcoin.png",
