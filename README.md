@@ -202,6 +202,7 @@ Name           | Address
 [MAMA](https://tonviewer.com/0:7d0f5fd1a20ea2b58b8da0b908526b239a417b854fd4512cc5904c22bfa66c78) | EQB9D1_Rog6itYuNoLkIUmsjmkF7hU_UUSzFkEwiv6ZseCac
 [MARIO](https://tonviewer.com/0:f6393dfcb2fcfc045fdce0e54f315f37bae3678e50c9def7ca4a9330abeafe6f) | EQD2OT38svz8BF_c4OVPMV83uuNnjlDJ3vfKSpMwq-r-b1Bq
 [MEGA](https://tonviewer.com/0:5febe62847dc7296897f3708c7acb92b4c50192425fe6ec77e5f1ffdd3639a3d) | EQBf6-YoR9xylol_NwjHrLkrTFAZJCX-bsd-Xx_902OaPaBf
+[MMM2049](https://tonviewer.com/0:87e3837bdc15c4853f34eb72802bfdbba02a26bc99e601a79bb28f9d668c80cb) | EQCH44N73BXEhT8063KAK_27oComvJnmAaebso-dZoyAy6g_
 [MONK](https://tonviewer.com/0:aef6a69f1581f5b5bbc10ac560e904303db2e29f3436ec72a4af44dbe164a86d) | EQCu9qafFYH1tbvBCsVg6QQwPbLinzQ27HKkr0Tb4WSobXI-
 [Magic Crystal](https://tonviewer.com/0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36) | EQCbKMTmEAdSnzsK85LOpaDkDH3HjujEbTePMSeirvEaNq-U
 [Magic Vip People](https://tonviewer.com/0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4) | EQDAiXxX8J2CHo4un2mAYFuexI620Y33CWfLFZK-7LcR9Pps
@@ -393,6 +394,7 @@ Name           | Address
 [ToonTools](https://tonviewer.com/0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81) | EQAO3n9xmdXwXHUhtZ3zKexpeUEKejYVKCeEupdsg2kvgcof
 [TradeBet](https://tonviewer.com/0:069a80f25e48c55eefec76d458e9056116c0d3c685d10c8b892761c7a21d2797) | EQAGmoDyXkjFXu_sdtRY6QVhFsDTxoXRDIuJJ2HHoh0nl4W5
 [Tribe](https://tonviewer.com/0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05) | EQCcXKwYGCCZnzQj9vwwg8Y-F3d8H7cow-Mwgj8pTFruBfP8
+[TrumpWifHat](https://tonviewer.com/0:d5ddc6f388f1f3f3011c0d8b7ef620cea2695cddb159412c745a26450afedf87) | EQDV3cbziPHz8wEcDYt-9iDOomlc3bFZQSx0WiZFCv7fh7oX
 [UNICORN](https://tonviewer.com/0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25) | EQB2lbt2s_jdUW3OoUIb7-9RoK2UeGXmgC7BnOwgK6P_JTrm
 [Ultron](https://tonviewer.com/0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430) | EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA

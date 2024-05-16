@@ -708,6 +708,21 @@
   ]
  },
  {
+  "address": "EQDV3cbziPHz8wEcDYt-9iDOomlc3bFZQSx0WiZFCv7fh7oX",
+  "description": "\ud83c\udfa9\ud83d\udc8eDive into the exhilarating world of Trumpwifhat - exclusive memecoin built on $TON blockchain! Embrace innovation and style with our unique $TWIF token, inspired by Trump's iconic flair!\ud83c\udf1f",
+  "image": "https://trumpwifcoin.pro/images/2024/04/20/small200x200.png",
+  "name": "TrumpWifHat",
+  "social": [
+   "https://t.me/Trump_Wif_Coin",
+   "https://t.me/+1w9aK1Naf483MjY0",
+   "https://x.com/TrumpWifCoin"
+  ],
+  "symbol": "TWIF",
+  "websites": [
+   "https://trumpwifcoin.pro/"
+  ]
+ },
+ {
   "address": "0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965",
   "description": "Audiatur et altera pars. Universal Altcoin on Ton. @teneretoken . chat: @tenerechat",
   "name": "Tenere",
@@ -1322,6 +1337,11 @@
   "address": "0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e",
   "name": "Telegram's Cat",
   "symbol": "MITTENS"
+ },
+ {
+  "address": "0:87e3837bdc15c4853f34eb72802bfdbba02a26bc99e601a79bb28f9d668c80cb",
+  "name": "MMM2049",
+  "symbol": "MMM"
  },
  {
   "address": "0:b27dd55b7f091c05f0529f9ec6467318fc144ee2f606ec79e45a7807e3514b33",

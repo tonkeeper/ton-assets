@@ -313,6 +313,9 @@
 - address: 0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e
   name: Telegram's Cat
   symbol: MITTENS
+- address: 0:87e3837bdc15c4853f34eb72802bfdbba02a26bc99e601a79bb28f9d668c80cb
+  name: MMM2049
+  symbol: MMM
 - address: 0:b27dd55b7f091c05f0529f9ec6467318fc144ee2f606ec79e45a7807e3514b33
   name: Making Money TON
   symbol: MMT
