@@ -56,6 +56,10 @@
   "name": "Telegram"
  },
  {
+  "address": "0:35db4da77e618bc84ea1409d7e7570cd50849d22b5ee208847a780b27ab679ac",
+  "name": "battery.ton"
+ },
+ {
   "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
   "name": "Getgems Marketplace"
  },
@@ -503,6 +507,11 @@
  {
   "address": "0:cdf7f0d7c09036f064272e3c429ed570be49ef29eb3a735b64bbc17915073732",
   "name": "Bitget",
+  "require_memo": true
+ },
+ {
+  "address": "0:f99b14600ae44d2f12b178e8c6eabd78892ae82c5e45b6898f9deb7eb203f9c4",
+  "name": "Binance",
   "require_memo": true
  },
  {
