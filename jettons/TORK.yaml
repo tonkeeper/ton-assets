@@ -3,7 +3,6 @@ description: PORK on TON is a memecoin on the TON blockchain - $TORK is a meme c
 image: 'https://pbs.twimg.com/profile_images/1769042954318970880/SeAmgyJi_400x400.jpg'
 address: EQDQMxKXCEWs4ILJltwZKXyeBnqr79evv0ROARFi2NapQthS
 symbol: TORK
-max_supply: 1000000000
 websites:
   - "https://porkonton.vip/"
 social:
