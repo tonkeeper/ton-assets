@@ -813,5 +813,95 @@
  {
   "address": "0:2363d23750a06ac544ccd6c0786122a9a88d2445a80d28e04230525f905c3280",
   "name": "Scammer"
+ },
+ {
+  "address": "0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Royalty"
+ },
+ {
+  "address": "0:10413c964272d399ead2d0659062b158b4ba201ae5c05bf906e60c3ee74455a4",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Foundation"
+ },
+ {
+  "address": "0:0f65ab9654f51c9b6854253f67dfaa71ce7121978eab127d5bcc15cdd1163fca",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 0"
+ },
+ {
+  "address": "0:12826d10bf78761f6985d16d3a8a43ea62ad9cb53dddc973091ffb2f6c428a07",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 1"
+ },
+ {
+  "address": "0:2b9663fe4615481b6c801466723d97ccde6d1871cc66a6fa118bab204735a700",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 2"
+ },
+ {
+  "address": "0:3aa4bfaca58a99a750a4ea8deba58e390a5f9bbcb316fe3dea7557a33a4516a4",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 3"
+ },
+ {
+  "address": "0:49fde8588ee99029b5df594b9ed4a1ca5dd4e6d46b98241d058f6493fc3c0e46",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 4"
+ },
+ {
+  "address": "0:519984a3c61f71959a54a849868c5e548ee908f6ffc29b69024eee02a019f75e",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 5"
+ },
+ {
+  "address": "0:648aa9dc77b0054f9ff6dc7f91a00d95ca793e373abf74ba1e31546d84053d44",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 6"
+ },
+ {
+  "address": "0:7f3b34c75dbced0017b440782be0fb4057c4fae0b47a683ba75e0680a2284e77",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 7"
+ },
+ {
+  "address": "0:8bfb1e642e0ead295346af222d4ee8fab46dc51f99a1504bb4c51a9073e91b12",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 8"
+ },
+ {
+  "address": "0:99876c89e3a45a407dc06268c403c48c3178bbece7a29f8fb796faa41ec78802",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 9"
+ },
+ {
+  "address": "0:a12a8e482b788da941d418307d82dce30a33133ed9ac16a7a4b8203631dade54",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap A"
+ },
+ {
+  "address": "0:ba0cd081bf4efa4c896244c7ceb76d11a5b4bbacd2837d2932dd6ac511aa45b7",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap B"
+ },
+ {
+  "address": "0:c4fd715939869efeb97764cb20042b514a662197c078cb605910fee888604386",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap C"
+ },
+ {
+  "address": "0:dd76aa4603678f5d0178ec0d8348bdc617a6732159a299f336775e9c7729b2da",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap D"
+ },
+ {
+  "address": "0:efd2134d01a9a1625b42877a5326bab7a1107d456d998446244cfe9f863e41b5",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap E"
+ },
+ {
+  "address": "0:f698fef380eefe8a650986a62bcb78b4eda27f491e770daa2432ea5f000a1bb7",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap F"
  }
 ]

@@ -115,6 +115,8 @@ def normalize_address(a, to_raw):
             raise Exception("invalid address %s" % a)
         workchain = int(parts[0])
         addr = bytearray.fromhex(parts[1])
+    else:
+        raise Exception("invalid address %s" % a)
     if to_raw:
         return "%d:%s" % (workchain, addr.hex())
 
