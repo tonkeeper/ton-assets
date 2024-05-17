@@ -202,6 +202,7 @@ Name           | Address
 [MAMA](https://tonviewer.com/0:7d0f5fd1a20ea2b58b8da0b908526b239a417b854fd4512cc5904c22bfa66c78) | EQB9D1_Rog6itYuNoLkIUmsjmkF7hU_UUSzFkEwiv6ZseCac
 [MARIO](https://tonviewer.com/0:f6393dfcb2fcfc045fdce0e54f315f37bae3678e50c9def7ca4a9330abeafe6f) | EQD2OT38svz8BF_c4OVPMV83uuNnjlDJ3vfKSpMwq-r-b1Bq
 [MEGA](https://tonviewer.com/0:5febe62847dc7296897f3708c7acb92b4c50192425fe6ec77e5f1ffdd3639a3d) | EQBf6-YoR9xylol_NwjHrLkrTFAZJCX-bsd-Xx_902OaPaBf
+[MMM2049](https://tonviewer.com/0:87e3837bdc15c4853f34eb72802bfdbba02a26bc99e601a79bb28f9d668c80cb) | EQCH44N73BXEhT8063KAK_27oComvJnmAaebso-dZoyAy6g_
 [MONK](https://tonviewer.com/0:aef6a69f1581f5b5bbc10ac560e904303db2e29f3436ec72a4af44dbe164a86d) | EQCu9qafFYH1tbvBCsVg6QQwPbLinzQ27HKkr0Tb4WSobXI-
 [Magic Crystal](https://tonviewer.com/0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36) | EQCbKMTmEAdSnzsK85LOpaDkDH3HjujEbTePMSeirvEaNq-U
 [Magic Vip People](https://tonviewer.com/0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4) | EQDAiXxX8J2CHo4un2mAYFuexI620Y33CWfLFZK-7LcR9Pps
@@ -253,6 +254,7 @@ Name           | Address
 [Not Floki Ton](https://tonviewer.com/0:5a392b795c8a8f26326e1df88ad5967b54ca44e95661c09a1d63faa72bda8844) | EQBaOSt5XIqPJjJuHfiK1ZZ7VMpE6VZhwJodY_qnK9qIRAUh
 [Not Meme](https://tonviewer.com/0:16a73dbf1b434ac651b656f8056e06463edf18d6a7b47068fee18c3905f99847) | EQAWpz2_G0NKxlG2VvgFbgZGPt8Y1qe0cGj-4Yw5BfmYR5iF
 [Not Notcoin](https://tonviewer.com/0:454f32ed86faca3e04177e03a18658559d2b43b7bdf7510cddc478d8eb949d0d) | EQBFTzLthvrKPgQXfgOhhlhVnStDt733UQzdxHjY65SdDUc3
+[Notcoin](https://tonviewer.com/0:2f956143c461769579baef2e32cc2d7bc18283f40d20bb03e432cd603ac33ffc) | EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT
 [OAAL AI](https://tonviewer.com/0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043) | EQCvsARFU_tJCRq7eFTrs2ORasCwDIPLQo7ZlkehsMmgQzd8
 [OPEN](https://tonviewer.com/0:746a957e372098243570481a032fce978e9d0e8b07320fc8c9d09e415569e70c) | EQB0apV-NyCYJDVwSBoDL86Xjp0OiwcyD8jJ0J5BVWnnDJu7
 [OTTON](https://tonviewer.com/0:996a89e369f449306cfdf1b22d94008c04b875ed8ddb31fb64a6999e6c99b63b) | EQCZaonjafRJMGz98bItlACMBLh17Y3bMftkppmebJm2O92Z
