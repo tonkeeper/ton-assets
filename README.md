@@ -306,7 +306,7 @@ Name           | Address
 [Siberian TON](https://tonviewer.com/0:e976693d0f20fc275c3c719579478d752a2dfcb779fec235eb908043ffe18367) | EQDpdmk9DyD8J1w8cZV5R411Ki38t3n-wjXrkIBD_-GDZ89a
 [Slowpoke](https://tonviewer.com/0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9) | EQDK3ReFkb6L3uE3GmMDJaxWby4PA_UYGClgFfJuXY52-TOK
 [Spotty](https://tonviewer.com/0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2) | EQC24zbmyONM-m3DeCCYQpDRiinGjOu2cCHevwUFGWvdotAQ
-[Squid Egg](https://tonviewer.com/0:d30bc8eaf594982f618540bec24633ceff995b6bcd2b667908d09cda95c1305e) | EQDTC8jq9ZSYL2GFQL7CRjPO_5lba80rZnkI0JzalcEwXgsI
+[Squid Egg](https://tonviewer.com/0:3a634ad6cac1b81d69aba2ced5fb3ecdae312bbf20b0bcd54596fc848cb1efe4) | EQA6Y0rWysG4HWmros7V-z7NrjErvyCwvNVFlvyEjLHv5PJe
 [SquidTG](https://tonviewer.com/0:adc5b7daf5b5579fbc2c7cae55ef67d7d5116e73c9050c5ee988c8a858436010) | EQCtxbfa9bVXn7wsfK5V72fX1RFuc8kFDF7piMioWENgEBx5
 [SquirellCoin](https://tonviewer.com/0:2ef280ccfdd5cc81077508e8d19d4eac6219af9b944fdf6832c8bf51d91bfef2) | EQAu8oDM_dXMgQd1COjRnU6sYhmvm5RP32gyyL9R2Rv-8s70
 [Stable Metal](https://tonviewer.com/0:f9b72e48c55dc7102118d5b6db75deeb34d63e65c03ea40206417cb24594440f) | EQD5ty5IxV3HECEY1bbbdd7rNNY-ZcA-pAIGQXyyRZRED9v3
