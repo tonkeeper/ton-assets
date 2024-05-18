@@ -456,6 +456,21 @@
   "symbol": "NOT"
  },
  {
+  "address": "EQC6KPc3IH2m1CY7Z3Uonqj7azE-R_RQEimEQ-OHVECu7Npe",
+  "decimals": 9,
+  "description": "As Notcoin emerges as the greatest meme project on The Open Network, Notcoin Inu is also set to become the leading Dog-themed project in the TON ecosystem. With a vision to shine brightly as the Golden Dog of the TON Blockchain. .",
+  "image": "https://notcoininu.com/logo.png",
+  "name": "NOTCOIN INU",
+  "social": [
+   "https://twitter.com/NotcoinInu_TON",
+   "https://t.me/Notcoininu_News"
+  ],
+  "symbol": "$NOTINU",
+  "websites": [
+   "https://notcoininu.com/"
+  ]
+ },
+ {
   "address": "0:454f32ed86faca3e04177e03a18658559d2b43b7bdf7510cddc478d8eb949d0d",
   "description": "A coin made by notcoiners for notcoiners",
   "image": "https://i.postimg.cc/CxQ5DGtv/notnotcoin.png",
@@ -640,7 +655,7 @@
   "address": "0:3a43774c81511f5d0f6d3412f67cc96312123f6b343e477bef3e08c6397c2817",
   "coingecko": "https://www.coingecko.com/en/coins/ton-inu",
   "description": "Dive into our toolkits, your secret weapons for making your crypto journey secure, seamless, and seriously cool $TINU.",
-  "image": "https://app.toninu.tech/assets/logo-transparent-200x200.png",
+  "image": "https://i.ibb.co/L1jXn5y/TYINULOGO.jpg",
   "name": "Ton Inu",
   "social": [
    "https://t.me/toninutools",
@@ -711,6 +726,20 @@
   "symbol": "TONY",
   "websites": [
    "https://tonytheduck.com"
+  ]
+ },
+ {
+  "address": "EQDQMxKXCEWs4ILJltwZKXyeBnqr79evv0ROARFi2NapQthS",
+  "description": "PORK on TON is a memecoin on the TON blockchain - $TORK is a meme coin on the TON Blockchain. https://t.me/PORKONTON",
+  "image": "https://pbs.twimg.com/profile_images/1769042954318970880/SeAmgyJi_400x400.jpg",
+  "name": "PORK on TON",
+  "social": [
+   "https://t.me/PORKONTON",
+   "https://twitter.com/PORKONTON"
+  ],
+  "symbol": "TORK",
+  "websites": [
+   "https://porkonton.vip/"
   ]
  },
  {
