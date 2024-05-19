@@ -1,0 +1,9 @@
+name: Random.tg
+description: Utility token of the decentralized lottery https://Random.tg. Try your chance to win 2x more!
+image: "https://cache.tonapi.io/imgproxy/pyJNWajhsu_ztSHMQRv8l4ccqqSkc0oEP8Ubq0QADo0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1JhbmRvbS10Zy9Mb3R0by1Db250cmFjdC9tYWluL3JhbmRvbWxvZ28ucG5n.webp"  
+address: EQCF9oYxo37xCGX1DShZEweaVGJe6Kucp0ztKO6vCsRANDOM
+symbol: RANDOM
+max_supply: 1,000,000
+social:
+  - "https://t.me/Random"
+  - "https://Random.tg"
