@@ -46,6 +46,9 @@
 - address: 0:238e721577013a274ce00d789780e539a1d140bc313888abd80d9c7de702b5ed
   name: butTON
   symbol: BTON
+- address: 0:716d0cad2fae30b93cf9d4a72938b7530d23a1aab5752da3ca0eb84ea8b077bf
+  name: Buffy
+  symbol: BUFFY
 - address: 0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d
   name: Burncoin
   symbol: BURN
