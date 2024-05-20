@@ -929,11 +929,6 @@
   "symbol": "BTON"
  },
  {
-  "address": "0:716d0cad2fae30b93cf9d4a72938b7530d23a1aab5752da3ca0eb84ea8b077bf",
-  "name": "Buffy",
-  "symbol": "BUFFY"
- },
- {
   "address": "0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d",
   "name": "Burncoin",
   "symbol": "BURN"
@@ -2393,4 +2388,19 @@
   "name": "Tonstakers TON",
   "symbol": "tsTON"
  }
+  ]
+ },
+ {
+  "address":"EQAJlrxwscZmiSn5vFhwUDP19W8c0pOqw1pwnBUed3hCM8oh",
+  "description": "Fastest duck on TON ",
+  "image": " <a href="https://ibb.co/NSNgQjw"><img src="https://i.ibb.co/q5gLXsb/3-DDAF01-B-CD79-4-D9-A-8-C7-E-163-AE4-A30-AFB.jpg" alt="3-DDAF01-B-CD79-4-D9-A-8-C7-E-163-AE4-A30-AFB" border="0" /></a>  ",
+
+  "name": "UTYA BLUE",
+  "social":[ 
+"https://x.com/Utyablueton" "https://t.me/UTYABLUECTO"
+  ],
+  "symbol": "UTYAB",
+  "websites" [
+   "https://utyablue.com",
+   "https://https://www.geckoterminal.com/ton/pools/EQDrZbOBcUZGGaYmXLt8y217ShnBR55YlkKA-mDeIUzfYwC9
 ]
