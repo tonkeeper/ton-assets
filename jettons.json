@@ -255,6 +255,18 @@
   ]
  },
  {
+  "address": "0:25e67ae49ec3465f01696bc3cf8bebebde4314bce7b9d615067bdc0e80f7fef6",
+  "image": "https://tongodcoin.github.io/tongodcoin/logo.png",
+  "name": "TON GOD",
+  "social": [
+   "https://t.me/tongodcoin"
+  ],
+  "symbol": "GOD",
+  "websites": [
+   "https://tongod.xyz"
+  ]
+ },
+ {
   "address": "EQBCoynGYslAMjv_gRl_2_B1KMOvh9ZW-ae0p7SaXZy6KFjY",
   "description": "SCAM 100%",
   "image": "https://kappa.lol/l1Xg1",
@@ -1757,6 +1769,11 @@
   "address": "0:98f1681382e8d51a6f37559c8552e1485ee0fdfd200ac06ca226206ec46ab9e4",
   "name": "Tilt",
   "symbol": "TILT"
+ },
+ {
+  "address": "0:8d094c45c0cb0d60a4eff3d5ae457e69cb10c25aa960062e1397ccf2b6396535",
+  "name": "TIME",
+  "symbol": "TIME"
  },
  {
   "address": "0:23401b7987c4b32ee8031a9fbbe4889e3ee75d2d4df61464781f7177ccf48bc3",

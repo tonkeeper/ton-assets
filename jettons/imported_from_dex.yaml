@@ -544,6 +544,9 @@
 - address: 0:98f1681382e8d51a6f37559c8552e1485ee0fdfd200ac06ca226206ec46ab9e4
   name: Tilt
   symbol: TILT
+- address: 0:8d094c45c0cb0d60a4eff3d5ae457e69cb10c25aa960062e1397ccf2b6396535
+  name: TIME
+  symbol: TIME
 - address: 0:23401b7987c4b32ee8031a9fbbe4889e3ee75d2d4df61464781f7177ccf48bc3
   name: TLB500 Index
   symbol: TLB500
