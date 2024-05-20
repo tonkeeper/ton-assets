@@ -77,6 +77,7 @@ Name           | Address
 [Bear Coin](https://tonviewer.com/0:6dbfb237a59a4c0140a179fd95ae4f94d46702134d2b44eb8780c27d0af8e875) | EQBtv7I3pZpMAUChef2Vrk-U1GcCE00rROuHgMJ9CvjodRZW
 [Bear Country Token](https://tonviewer.com/0:2fbc476ae31e4aea8c23b0c2385fa0312a44c15d52885648921c32edea2d8b16) | EQAvvEdq4x5K6owjsMI4X6AxKkTBXVKIVkiSHDLt6i2LFnnQ
 [Billionaire Boys Club](https://tonviewer.com/0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e) | EQBN2iDBrdAVRXz95RJbcftDCYZYDZmiWB4cbyZDj8h7Xn6c
+[Buffy](https://tonviewer.com/0:716d0cad2fae30b93cf9d4a72938b7530d23a1aab5752da3ca0eb84ea8b077bf) | EQBxbQytL64wuTz51KcpOLdTDSOhqrV1LaPKDrhOqLB3v4qj
 [Burncoin](https://tonviewer.com/0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d) | EQDNJzbNKA8Ix2X7Tv1_jxdCqehPQgJaNbisoIkSq5srnfLs
 [CARDIFY Coin](https://tonviewer.com/0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc) | EQAdz16aPWCmAYldTiX_g-NRzT-spbN8tCk9dJIHfAiC3L4p
 [CAVIAR COIN](https://tonviewer.com/0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e) | EQD6W0raB1aGCr86pWd7-oWpA3QW2VXCJ9smlYcChkIhflt2
