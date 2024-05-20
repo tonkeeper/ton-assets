@@ -1,9 +1,6 @@
 - name: LP Token for UP-TON
   address: "0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c"
   symbol: UP-TON
-- name: LP Token for KINGY-hTON
-  address: "0:ea8318adfd02ec9503305b2f54b88e7a076703e63b6d4507ca4b2011d57e5a61"
-  symbol: KINGY-hTON
 - name: LP Token for SCALE-TON
   address: "0:dc9b4e9196b7ae32eae6fb28a4f566cbea423ad7b07becead2445fd98e809816"
   symbol: SCALE-TON
