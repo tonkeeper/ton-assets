@@ -34,6 +34,10 @@
   name: "OKX 5"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "UQAk2h57jakB5bPdD5jDl_625aXqSDGVqLa9BoLPLFMnrnbQ"
+  name: "OKX 6"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
