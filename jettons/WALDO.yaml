@@ -1,10 +1,9 @@
-name: Where WALDO
-description: Inspired by Where Waldo
-image: "https://waldonton.com/images/4cc910c1638bff465abf9da12f7069b2.jpg"
+name: WALDO
+description: Waldo  is the main character and star of the Where's Waldo\
+image: "https://raw.githubusercontent.com/WALDO-on-TON/waldo/main/logo200x200.png"
 address: EQDmGviRZNqyzr6K_Wa3rvntvDRaGxjUxQS_ZI-fqqOFJlrz
-symbol: WALDO
-websites:
-  - "https://waldonton.com/"
+website: 
+  - "https://waldonton.com"
 social:
   - "https://t.me/waldoton"
   - "https://x.com/Waldo_Ton"
