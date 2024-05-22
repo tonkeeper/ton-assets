@@ -810,6 +810,20 @@
   ]
  },
  {
+  "address": "EQDmGviRZNqyzr6K_Wa3rvntvDRaGxjUxQS_ZI-fqqOFJlrz",
+  "description": "Inspired by Where's Waldo",
+  "image": "https://raw.githubusercontent.com/WALDO-on-TON/waldo/main/logo200x200.png",
+  "name": "Where's Waldo",
+  "social": [
+   "https://t.me/waldoton",
+   "https://x.com/Waldo_Ton"
+  ],
+  "symbol": "WALDO",
+  "websites": [
+   "https://waldonton.com"
+  ]
+ },
+ {
   "address": "EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ",
   "description": "Pavel Durov's Dog Wif Hood",
   "image": "https://wifhood.dog/img/logo.png",
