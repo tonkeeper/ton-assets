@@ -538,6 +538,20 @@
   ]
  },
  {
+  "address": "EQBjbM7x9cqPCqFCY17FSQr2MRoZGzn9eG5VAeQ7vsqbXPhX",
+  "description": "The Resistance Cock is a memecoin on the TON blockchain - $RECO is a meme coin on the TON Blockchain.  https://t.me/RECO_Portal",
+  "image": "https://imgur.com/a/11gXnYd",
+  "name": "The Resistance Cock",
+  "social": [
+   "https://t.me/RECO_Portal",
+   "https://x.com/RecoOnTon"
+  ],
+  "symbol": "RECO",
+  "websites": [
+   "https://resistancecock.com/"
+  ]
+ },
+ {
   "address": "0:59fdc69f3f20ebe4a513b3468dc61d194c3864a4464e3662c903648d1a52e6e0",
   "coingecko": "https://www.coingecko.com/en/coins/resistance-dog",
   "description": "Pavel Durov Founder Of The Digital Resitance Dog - $REDO is a meme coin on the TON Blockchain. https://t.me/RedoTON",

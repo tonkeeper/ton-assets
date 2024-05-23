@@ -384,6 +384,7 @@ Name           | Address
 [The Open League MEME](https://tonviewer.com/0:8e291ace7b37997c28242873be3c19e179ec578eb147652f9e44ee43ffc87960) | EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N
 [The Open SOFT](https://tonviewer.com/0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1) | EQCHrhcBGVVlre8ngBlxLtfte37OGsXeJSmFSmABL8x44QH2
 [The Resistance Cat](https://tonviewer.com/0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4) | EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j
+[The Resistance Cock](https://tonviewer.com/0:636ccef1f5ca8f0aa142635ec5490af6311a191b39fd786e5501e43bbeca9b5c) | EQBjbM7x9cqPCqFCY17FSQr2MRoZGzn9eG5VAeQ7vsqbXPhX
 [The Resistance Girl](https://tonviewer.com/0:9c61458a8631b1c2ab64fe37bd2d6d95e11a0599b84e511f5ee34e18e8541311) | EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh
 [Tilt](https://tonviewer.com/0:98f1681382e8d51a6f37559c8552e1485ee0fdfd200ac06ca226206ec46ab9e4) | EQCY8WgTgujVGm83VZyFUuFIXuD9_SAKwGyiJiBuxGq55DGd
 [Ton Ai](https://tonviewer.com/0:f7cda950af09e1000e69b86f89fed42fdd6e67e5ceafe38f63934f3806ae255a) | EQD3zalQrwnhAA5puG-J_tQv3W5n5c6v449jk084Bq4lWuSQ
