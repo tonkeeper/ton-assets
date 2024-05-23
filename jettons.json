@@ -74,6 +74,26 @@
   "symbol": "BOLT"
  },
  {
+  "address": "0:adf8f18a394013fe83ce8d6b9c2d60a9fe895765e9529e32224f63cf5bb5640b",
+  "description": "Mars Coin. Game TONPlanets.com",
+  "image": "https://nft.tonplanets.com/jettons/cash/logo.png",
+  "name": "Cashback",
+  "social": [
+   "https://t.me/TONPlanets",
+   "https://t.me/TONPlanetsTalks",
+   "https://t.me/TONPlanetsBot",
+   "https://t.me/TONPlanetsEn",
+   "https://t.me/TONPlanetsFa"
+  ],
+  "symbol": "CASH",
+  "websites": [
+   "https://mars.tonplanets.com",
+   "https://tonplanets.com",
+   "https://mars.tonplanets.ru",
+   "https://tonplanets.ru"
+  ]
+ },
+ {
   "address": "0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58",
   "name": "Cock Fights Token",
   "symbol": "CFT"
