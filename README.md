@@ -170,6 +170,7 @@ Name           | Address
 [LP Token for GRAM-TON](https://tonviewer.com/0:196575e19e83460b322548a62a638bcbfa11ea74802e3505c482a30a83e0980a) | EQAZZXXhnoNGCzIlSKYqY4vL-hHqdIAuNQXEgqMKg-CYCs1u
 [LP Token for GRAM-pTON LP](https://tonviewer.com/0:120592f06b6bdf76c8280c5db0f7aa5d71c049251c433575cf50becd326d1676) | EQASBZLwa2vfdsgoDF2w96pdccBJJRxDNXXPUL7NMm0WdnMx
 [LP Token for KINGY-TON](https://tonviewer.com/0:ec23137a9131cd4f3916f8a0c016839deee2bc215fea870f30479364607d4687) | EQDsIxN6kTHNTzkW-KDAFoOd7uK8IV_qhw8wR5NkYH1Gh_SQ
+[LP Token for KINGY-hTON](https://tonviewer.com/0:ea8318adfd02ec9503305b2f54b88e7a076703e63b6d4507ca4b2011d57e5a61) | EQDqgxit_QLslQMwWy9UuI56B2cD5jttRQfKSyAR1X5aYfpH
 [LP Token for MC-pTON](https://tonviewer.com/0:a033394315eaf75ea3a7b90a442d778648c06357fe8f59f58b125bda6b7aafd9) | EQCgMzlDFer3XqOnuQpELXeGSMBjV_6PWfWLElvaa3qv2ZUM
 [LP Token for PUNK-pTON](https://tonviewer.com/0:119adaeab087fcfa593d6c7f08495fd40ac1bc912de21f30bb6d5f2cb10022e2) | EQARmtrqsIf8-lk9bH8ISV_UCsG8kS3iHzC7bV8ssQAi4pvw
 [LP Token for RAFF-TON](https://tonviewer.com/0:60d90c3b931b173d682c76eead08aab5b614f68b386deabbbd0fb693ad96be87) | EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H

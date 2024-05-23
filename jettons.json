@@ -180,6 +180,11 @@
   "symbol": "SCALE-TON"
  },
  {
+  "address": "0:ea8318adfd02ec9503305b2f54b88e7a076703e63b6d4507ca4b2011d57e5a61",
+  "name": "LP Token for KINGY-hTON",
+  "symbol": "KINGY-hTON"
+ },
+ {
   "address": "0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367",
   "name": "LP Token for ARBUZ-TON",
   "symbol": "ARBUZ-TON"
