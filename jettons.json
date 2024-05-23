@@ -507,6 +507,18 @@
   ]
  },
  {
+  "address": "EQBur3GRavS07NaIVysuG4mldgkGQkNeCQxuduJbxK_o2QD3",
+  "description": "https://olbitx.com",
+  "image": "https://olbitx.com/OLX-Logo.png",
+  "name": "OLBITX",
+  "social": [
+   "https://t.me/OLBITX_Network",
+   "https://t.me/Trader_Legion"
+  ],
+  "symbol": "OLX",
+  "websites": "https://olbitx.com"
+ },
+ {
   "address": "EQBP_hhZ-FPTHngC3nD_AbFGwe7VWVSYofkYr9vbPk1eFwtl",
   "name": "PEPE`S TON CLUB",
   "symbol": "PEPE"
