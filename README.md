@@ -426,6 +426,7 @@ Name           | Address
 [WTON](https://tonviewer.com/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
 [Wallet Exchanger](https://tonviewer.com/0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a) | EQBtUKPbhABPYtltiKWA547s4ZhJ5wZHvVV1eyfV7sEyGs2J
 [Web3 TON Token](https://tonviewer.com/0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b) | EQBtcL4JA-PdPiUkB8utHcqdaftmUSTqdL8Z1EeXePLti_nK
+[Where's Waldo](https://tonviewer.com/0:e61af89164dab2cebe8afd66b7aef9edbc345a1b18d4c504bf648f9faaa38526) | EQDmGviRZNqyzr6K_Wa3rvntvDRaGxjUxQS_ZI-fqqOFJlrz
 [Whiskers](https://tonviewer.com/0:8e6e1e3e65a8213af6bcb82cff00c327be27ccdcf4be129a542442505d79e53f) | EQCObh4-ZaghOva8uCz_AMMnvifM3PS-EppUJEJQXXnlP0zX
 [Wrapped NANO](https://tonviewer.com/0:8e1a9d46015939d69ad5070e433bc40dde528895424a8d76d9725e5a5e02f986) | EQCOGp1GAVk51prVBw5DO8QN3lKIlUJKjXbZcl5aXgL5hkwy
 [Wrapped TON](https://tonviewer.com/0:4f0156ba7e3322831b271c5df7510ddabae7d5ae0d99f250594d8f51fa2b1f8c) | EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr
