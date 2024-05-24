@@ -3,7 +3,8 @@ description: "https://olbitx.com"
 image: "https://olbitx.com/OLX-Logo.png"
 address: EQBur3GRavS07NaIVysuG4mldgkGQkNeCQxuduJbxK_o2QD3
 symbol: OLX
-websites: "https://olbitx.com"
+websites:
+  - "https://olbitx.com"
 social:
   - "https://t.me/OLBITX_Network"
   - "https://t.me/Trader_Legion"
