@@ -336,7 +336,7 @@
  },
  {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
-  "decimals": "9",
+  "decimals": 9,
   "image": "https://i.ibb.co/gZQ4Jqg/john-doge-transparent.png",
   "name": "John Doge",
   "social": [
@@ -483,7 +483,7 @@
  },
  {
   "address": "0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7",
-  "decimals": "9",
+  "decimals": 9,
   "description": "Once upon a time, there lived a crypto creature named Mumba, born in the bustling Indian city of Mumbai within the blockchain forest. From a young age, Mumba distinguished himself with extraordinary beauty and cultural ingenuity.  One fine day, Mumba discovered a source of blockchain cryptocurrency that filled him with energy and unveiled new possibilities. Gathering courage and determination, Mumba decided to step out of his forest and embark on a journey through the digital world.  During his journey, Mumba encountered various blockchain creatures and characters. He assisted them in overcoming challenges, exchanged knowledge, and learned new technologies from his friends.  Over time, Mumba gathered a large team of supporters who shared his love for culture and blockchain innovations. Together, they decided to create their own cryptocurrency token named Mumba. Mumba became a symbol of unity and their collective journey. Now, Mumba and his team continue to assist other crypto creatures, exchanging innovative ideas and creating a unique place in the world of cryptocurrency adventures.Let's free the world from traditional financial boundaries and join the cryptocurrency revolution! Together, we are building the future of finance, and the key to it is the Mumba token!",
   "image": "https://i.ibb.co/5rCWv5V/mumba-4k-nobg.png",
   "name": "Mumba",
@@ -541,7 +541,9 @@
    "https://t.me/Trader_Legion"
   ],
   "symbol": "OLX",
-  "websites": "https://olbitx.com"
+  "websites": [
+   "https://olbitx.com"
+  ]
  },
  {
   "address": "EQBP_hhZ-FPTHngC3nD_AbFGwe7VWVSYofkYr9vbPk1eFwtl",
