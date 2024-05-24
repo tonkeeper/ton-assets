@@ -691,3 +691,6 @@
 - address: 0:744a8c6e183c79aa356dd0ffdb3c80857967452c1995a291e18e07ecd2afb0b1
   name: Ton Whales liquid staking token
   symbol: wsTON
+- address": "0:e61af89164dab2cebe8afd66b7aef9edbc345a1b18d4c504bf648f9faaa38526
+  name": Where's Waldo
+  symbol": WALDO
