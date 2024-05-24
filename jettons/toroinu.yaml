@@ -1,6 +1,10 @@
 name: Toro Inu
-description: Toro Inu
-image: "https://cache.tonapi.io/imgproxy/ZchdsW_PWsGY4YN1_a-6yMHnx6WKxIoikDVNkCpgLY4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby8xUTN3NUw3L3Rvcm8ucG5n.webp"
-address: 0:50426ffa27eed107a3cf805b9c71f233d8caf3fa8845f61422b2260241eb3eaf
+description: Inspired by Toro Inu
+image: "https://toroinu.xyz/toro200x200.png"
+address: EQBQQm_6J-7RB6PPgFuccfIz2Mrz-ohF9hQisiYCQes-r_ik
 symbol: TOROINU
-decimals: 9
+websites:
+  - "https://toroinu.xyz"
+social:
+  - "https://t.me/toroinu_ton"
+  - "https://x.com/Toroinu_ton"
