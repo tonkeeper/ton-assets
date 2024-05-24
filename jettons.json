@@ -541,7 +541,9 @@
    "https://t.me/Trader_Legion"
   ],
   "symbol": "OLX",
-  "websites": "https://olbitx.com"
+  "websites": [
+   "https://olbitx.com"
+  ]
  },
  {
   "address": "EQBP_hhZ-FPTHngC3nD_AbFGwe7VWVSYofkYr9vbPk1eFwtl",
