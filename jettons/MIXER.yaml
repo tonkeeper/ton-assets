@@ -1,0 +1,9 @@
+name: $TON Mixer
+description: Automated $TON Mixer that allows you to anonymously send $TON to any address
+image: "https://bitbucket.org/bizmarky/ton-mixer/raw/2d00186282f8428979fb496360f3eab5c1e4c62d/logo.png"
+address: 0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5
+symbol: MIXER
+websites:
+social:
+  - "https://t.me/TON_mix_bot"
+  - "https://t.me/tonmixerchat"
