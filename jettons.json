@@ -142,6 +142,20 @@
   ]
  },
  {
+  "address": "EQCXSMNX3OB5jPgOJkEzjYhm7FOBfkA3cg7paBqTYwzXrjIi",
+  "description": "The cuttest alligator on TON",
+  "image": "https://i.ibb.co/Rhc78XF/obrazek.png",
+  "name": "Cubigator",
+  "social": [
+   "https://twitter.com/CubigatorOnTon",
+   "https://t.me/CubigatorTon"
+  ],
+  "symbol": "CUB",
+  "websites": [
+   "https://cubigator.site"
+  ]
+ },
+ {
   "address": "0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e",
   "description": "Low fee dick-to-dick electronic cash alternative to Toncoin",
   "image": "https://raw.githubusercontent.com/DHDcoin/website/main/LOGO.png",
