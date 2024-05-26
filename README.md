@@ -98,6 +98,7 @@ Name           | Address
 [DEFI HUNTERS DAO](https://tonviewer.com/0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d) | EQCW5g1evnQN2OZZEVe-23aSvEsgPauWZlF27ZIz5REhnWRy
 [DEPOSIT](https://tonviewer.com/0:5cf8be42cf344a991dfe4dd3b0066e25f97c8977126ddc77c022bfea32229a07) | EQBc-L5CzzRKmR3-TdOwBm4l-XyJdxJt3HfAIr_qMiKaB7WM
 [DHD Coin](https://tonviewer.com/0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e) | EQBCFwW8uFUh-amdRmNY9NyeDEaeDYXd9ggJGsicpqVcHq7B
+[DIGGER](https://tonviewer.com/0:88e02e49227348330c6f148ba72a0cebc5afeb0c962e5de1c7d1f17f58a6e7b1) | EQCI4C5JInNIMwxvFIunKgzrxa_rDJYuXeHH0fF_WKbnse8I
 [DINJA](https://tonviewer.com/0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3) | EQByLZOaBbpr9EwNonXKEfkkZL1viNsYHezxw5CVK4Bh0zEb
 [DOBERCOIN](https://tonviewer.com/0:667170b2b5cf590dcc9fa21f455cd36f4a4a6c97f543ec6c23921054d611754b) | EQBmcXCytc9ZDcyfoh9FXNNvSkpsl_VD7GwjkhBU1hF1S_dw
 [DOGWIFHOOD](https://tonviewer.com/0:2e728e5910f801d7d7d24e8ec49ad2d3272b2b2b16eee8cfd73850f059088d8c) | EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ

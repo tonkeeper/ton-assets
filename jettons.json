@@ -171,6 +171,22 @@
   ]
  },
  {
+  "address": "EQCI4C5JInNIMwxvFIunKgzrxa_rDJYuXeHH0fF_WKbnse8I",
+  "description": "Ton Digger jetton miner",
+  "image": "https://i.postimg.cc/y81cRWzj/dgr.png",
+  "name": "DIGGER",
+  "social": [
+   "https://t.me/ton_digger_en",
+   "https://t.me/digger_ton",
+   "https://t.me/ton_digger_chat",
+   "https://t.me/ton_digger_chat_en"
+  ],
+  "symbol": "DGR",
+  "websites": [
+   "https://ton-digger.com/"
+  ]
+ },
+ {
   "address": "EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz",
   "description": "Pavel's dog with a hoodie https://smartbotsland.com/blog/social-networks/pavel-durov - $DOODIE is a meme coin on the TON Blockchain. https://t.me/dogwifhoodie_ton",
   "image": "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/doodie.jpg",
