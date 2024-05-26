@@ -345,6 +345,20 @@
   "symbol": "GRBS"
  },
  {
+  "address": "EQAu7qxfVgMg0tpnosBpARYOG--W1EUuX_5H_vOQtTVuHnrn",
+  "description": "The Open Network Charity Token",
+  "image": "https://cyan-indirect-ant-156.mypinata.cloud/ipfs/QmTVVeutSCe4emnH7nhwKB98TuzASCwf8Jyvmx8MXnhuwX",
+  "name": "Grouche coin",
+  "social": [
+   "https://t.me/grouche_coin",
+   "https://t.me/grouche_chat"
+  ],
+  "symbol": "GRC",
+  "websites": [
+   "https://grouche.com"
+  ]
+ },
+ {
   "address": "EQDjYih3EzJMI1Vh0AtJ5qWo_jTqadPQggRD33-xLgxBKBLf",
   "description": "Memecoin for the loyal TON and ZkSync degens. $HAKI was inspired by the legendary tale of Hachiko, the Loyal dog. Just like Hachiko's enduring devotion to Prof Hidesabur\u014d Ueno, $HAKI token embodies loyalty, trust, and companionship in the world of Memecoins",
   "name": "Hachiko Inu",
