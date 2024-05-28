@@ -708,6 +708,20 @@
   ]
  },
  {
+  "address": "EQDSYg2es_L0xpGfPJ6k39SxGA6MCHwV0EHY2smeF7aFAJW4",
+  "description": "Snoop Ton is a meme coin with ecosystem",
+  "image": "https://i.postimg.cc/Cx12f8Np/IMG-5623.jpg",
+  "name": "Snoop Ton",
+  "social": [
+   "https://t.me/Snoop_news_ton",
+   "https://twitter.com/TonSnoop"
+  ],
+  "symbol": "SNOOP",
+  "websites": [
+   "https://snoopton.xyz"
+  ]
+ },
+ {
   "address": "0:e506a188dabe388e99e161f12225a854f1bed9a28de7a35de5e90f47f802096c",
   "description": "The one and only super best cool nice unbelievable and amazing crypto token in the world. All holder are literally gods.",
   "name": "SantaCoin",
@@ -758,6 +772,22 @@
   "address": "0:aa0ba121449feda569e02b12fa755d24e834a7454aecf4649590b6df742aac8f",
   "name": "Staked TON",
   "symbol": "STAKED"
+ },
+ {
+  "address": "EQC35pGY9erPOnN75wZpfpOyU5gwUnmLvUEE61oObpkoilgq",
+  "description": "STARS Coin in Ton Stars Ecosystem",
+  "image": "https://tonads.club/templates/theme/dist/images/logo_tonstars.png",
+  "name": "Ton Stars",
+  "social": [
+   "https://twitter.com/TonStars_",
+   "https://t.me/TonStarsNews",
+   "https://t.me/TonStarsNews"
+  ],
+  "symbol": "STARS",
+  "websites": [
+   "https://tonstars.club",
+   "https://tonads.club"
+  ]
  },
  {
   "address": "EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO",
@@ -899,6 +929,20 @@
    "https://t.me/tenerechat"
   ],
   "symbol": "Tnr"
+ },
+ {
+  "address": "EQBEbKm5z-T5psz8iRtCRYjDH-OGbRAsfhQtdKf1ma2dqS7o",
+  "description": "TryTON is a project aimed at popularizing the TON network among participants from other networks through its applications: wallet, bridge, and AirDrop game.",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GplVmGPFy2aa2ZRvYm-uxoC4I2Q1H674Gym4DxDqdPmGUBovLHnIoDHiPG72ORx8PAYTk7HPtlqH1Do-c8CMG-GhxiIOl8XAl6cTv5DnKnh_RVGdvJVyWF9B2BjLBvYNz8rxrcYD-GxbcqjGhbB9ID0IKKoevalLlFMo4y1S1B5IccbGDn7S922-YcQq/s320/ava_01.jpg",
+  "name": "TryTON",
+  "social": [
+   "https://t.me/tryton_community",
+   "https://twitter.com/TryTon_On_Ton"
+  ],
+  "symbol": "TRT",
+  "websites": [
+   "https://tryton-on-ton.com/"
+  ]
  },
  {
   "address": "EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT",
@@ -1084,6 +1128,11 @@
   "address": "0:5e27143499fe78ff083775227313a238e18a2bbd5087ae32d24534e455d8cbd9",
   "name": "TON BOGE MEMECOIN",
   "symbol": "BOGE"
+ },
+ {
+  "address": "0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81",
+  "name": "BOOBA Coin",
+  "symbol": "BOOBA"
  },
  {
   "address": "0:4b8686a7d1a4e22cae894f2b35ddcf19335aa3aa90c53acdd4a5843407e29db7",
