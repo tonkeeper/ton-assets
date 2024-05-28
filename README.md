@@ -70,6 +70,7 @@ Name           | Address
 [BEETON](https://tonviewer.com/0:91535482df135ffebdf7abc359ccbba0866bdd136d494582198f8a1129475129) | EQCRU1SC3xNf_r33q8NZzLughmvdE21JRYIZj4oRKUdRKRDb
 [BEGEMOTIK](https://tonviewer.com/0:fcfeba39b490f25a6d1abcf21379f67ef5993343d191bc068a58b5f54a40ca4c) | EQD8_ro5tJDyWm0avPITefZ-9ZkzQ9GRvAaKWLX1SkDKTGUt
 [BOLTWIFSOCK](https://tonviewer.com/0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c) | EQARb2CYeCT73K-a_cWXycgbcWlleEx4fq4RCbZ7cWBtPN8s
+[BOOBA Coin](https://tonviewer.com/0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81) | EQCavQv8vsZ1waQnqz3lmGEw2HkUM2clUrzjJotwpwzrgcx4
 [BORIS PIXEL](https://tonviewer.com/0:a0142bd9095eaaa81fb629e97a0ff915e33116e0514e41f615e0a0c335310974) | EQCgFCvZCV6qqB-2Kel6D_kV4zEW4FFOQfYV4KDDNTEJdItn
 [BRAD](https://tonviewer.com/0:4b8686a7d1a4e22cae894f2b35ddcf19335aa3aa90c53acdd4a5843407e29db7) | EQBLhoan0aTiLK6JTys13c8ZM1qjqpDFOs3UpYQ0B-Kdt3J6
 [Baby Notcoin](https://tonviewer.com/0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620) | EQDxRD-NX0xtsu2id0tufZLdxBNoiKkzjAQqBh65Zxq2IK48
