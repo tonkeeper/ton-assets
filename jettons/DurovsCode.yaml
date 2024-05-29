@@ -4,7 +4,7 @@ image: " https://github.com/DurovsCode/logo/blob/main/wt3.png?raw=true "
 address: 0:C97192095E0F3193F8BCC0DD100128525DE76A16F816CEE2F88B9D25D58AD637
 symbol: CODE
 websites:
-  "https://durovscodeton.com/"
+ - "https://durovscodeton.com/"
 social:
-   "https://t.me/durovscodecom"
-   "https://x.com/CODEonTON"
+ - "https://t.me/durovscodecom"
+ - "https://x.com/CODEonTON"
