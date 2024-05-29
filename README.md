@@ -118,6 +118,7 @@ Name           | Address
 [Dubai #2049](https://tonviewer.com/0:614683e638899c5367b708b283e9e099fcf7cecf689815c398df5dfd1d4531d2) | EQBhRoPmOImcU2e3CLKD6eCZ_PfOz2iYFcOY3139HUUx0phP
 [Duck Coin](https://tonviewer.com/0:53732b598dd67014b8fa4ceec2786be7e1a326a97bdb5fe9ce0e20296ddd35d6) | EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3
 [E4](https://tonviewer.com/0:cd94d0363526d6b62816dfb597fff148bb863634d3f08a325ddcab66862ee074) | EQDNlNA2NSbWtigW37WX__FIu4Y2NNPwijJd3Ktmhi7gdCyv
+[ECNATSISER GOD](https://tonviewer.com/0:321237232c5db81f64d3adecb561e777b91b35f316ea905094deece98471ebf2) | EQAyEjcjLF24H2TTrey1Yed3uRs18xbqkFCU3uzphHHr8n3y
 [EXTON COIN](https://tonviewer.com/0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a) | EQC-A0ZHiAliPJ6LYQQZ6x2WRJC0aHEmJ_OMG6pidb5ASpIY
 [EggsWisdom](https://tonviewer.com/0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b) | EQDCAjHxgyScUPS-Am_2nAH7C5XWM4fc2X9dVyWpFgHXG2rT
 [Energy Cells](https://tonviewer.com/0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a) | EQDA6v7olSvZCEr2yNhUlM4eBnRF11lsHLrtkkh7MSMICt4r
