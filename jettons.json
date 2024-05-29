@@ -308,6 +308,20 @@
   "symbol": "GLINT-TON"
  },
  {
+  "address": "0:C97192095E0F3193F8BCC0DD100128525DE76A16F816CEE2F88B9D25D58AD637",
+  "description": "Durov`s Code is a token dedicated to the biography of the Durov brothers",
+  "image": " https://github.com/DurovsCode/logo/blob/main/wt3.png?raw=true ",
+  "name": "Durov\u2019s Code",
+  "social": [
+   "https://t.me/durovscodecom",
+   "https://x.com/CODEonTON"
+  ],
+  "symbol": "CODE",
+  "websites": [
+   "https://durovscodeton.com/"
+  ]
+ },
+ {
   "address": "0:cd94d0363526d6b62816dfb597fff148bb863634d3f08a325ddcab66862ee074",
   "description": "e4 infrastructure coin",
   "image": "https://storage.dyor.io/jettons/EQDNlNA2NSbWtigW37WX__FIu4Y2NNPwijJd3Ktmhi7gdCyv/image.webp",
