@@ -43,6 +43,9 @@
 - address: 0:5e27143499fe78ff083775227313a238e18a2bbd5087ae32d24534e455d8cbd9
   name: TON BOGE MEMECOIN
   symbol: BOGE
+- address: 0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81
+  name: BOOBA Coin
+  symbol: BOOBA
 - address: 0:4b8686a7d1a4e22cae894f2b35ddcf19335aa3aa90c53acdd4a5843407e29db7
   name: BRAD
   symbol: BRAD
