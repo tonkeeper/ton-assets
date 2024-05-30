@@ -466,7 +466,6 @@ Name           | Address
 [tepe](https://tonviewer.com/0:cdd754d33d3c70ff148f26cff3cabcc84669782570e5a6902663326afbeb66a4) | EQDN11TTPTxw_xSPJs_zyrzIRml4JXDlppAmYzJq--tmpA6V
 [xCryproMarket](https://tonviewer.com/0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602) | EQD7THgw9GZ7udZzjzwiBXMHEKSCHiElKEHjn_-lcXoGApel
 [ЖЮ](https://tonviewer.com/0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971) | EQD_KpO2-iFeHPT4dF0ur9E0iAFts2fwhpR2KjwAmYKpccvH
-[Millcoin](https://tonviewer.com/0:f0fe83f7f4e0c4b45152b849f5088037f8b2dc47cfde46bc0d7e7f3245889f60) | EQDw_oP39ODEtFFSuEn1CIA3-LLcR8_eRrwNfn8yRYifYLvF 
 
 
 ## Structure
