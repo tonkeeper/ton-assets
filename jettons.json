@@ -1112,6 +1112,11 @@
   "symbol": "@BTC25"
  },
  {
+  "address": "0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c",
+  "name": "GOLD",
+  "symbol": "AGLD"
+ },
+ {
   "address": "0:5c666687bb64397bdac614c9ed9bef14d6cecef88576cc3a23d27689d3695b36",
   "name": "AIMLAB",
   "symbol": "AIM"
@@ -1180,6 +1185,11 @@
   "address": "0:4b8686a7d1a4e22cae894f2b35ddcf19335aa3aa90c53acdd4a5843407e29db7",
   "name": "BRAD",
   "symbol": "BRAD"
+ },
+ {
+  "address": "0:b6c07d48f4c550096bd508d7c0f3937f4c5ded488e740c4139f7b40d74eebaad",
+  "name": "BROKIE ON TON",
+  "symbol": "BROTON"
  },
  {
   "address": "0:238e721577013a274ce00d789780e539a1d140bc313888abd80d9c7de702b5ed",
@@ -1297,6 +1307,11 @@
   "symbol": "DINJA"
  },
  {
+  "address": "0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340",
+  "name": "Dimethyltryptamine",
+  "symbol": "DMT"
+ },
+ {
   "address": "0:667170b2b5cf590dcc9fa21f455cd36f4a4a6c97f543ec6c23921054d611754b",
   "name": "DOBERCOIN",
   "symbol": "DOBER"
@@ -1330,6 +1345,11 @@
   "address": "0:ff1132fe490445c2ec48203c2fa3c0a2c2e54af68ee55e07cd5544b3f6d96518",
   "name": "DYNYA",
   "symbol": "DYNYA"
+ },
+ {
+  "address": "0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896",
+  "name": "Engage ADS on Ton Open Network",
+  "symbol": "EAT"
  },
  {
   "address": "0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b",
@@ -1677,6 +1697,11 @@
   "symbol": "MVP"
  },
  {
+  "address": "0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28",
+  "name": "MyTonWallet Coin",
+  "symbol": "MY"
+ },
+ {
   "address": "0:d0da80734cee08b67f669aedd32f5bf94d488f4bd3ee008544ab5c4ca4b1de78",
   "name": "Only one token",
   "symbol": "NANO"
@@ -1802,6 +1827,11 @@
   "symbol": "PROTON"
  },
  {
+  "address": "0:20a2d4a45f4e8c216f80d278b9c8aa9e365c1cde70129db3b57701a8fa4c2983",
+  "name": "PizzaTon Token",
+  "symbol": "PTJ"
+ },
+ {
   "address": "0:213dca727e486fd8c3d4c589b7ee0f8d8d9a41ae9fa13be5c4a4e56480e2c013",
   "name": "Pun Dog",
   "symbol": "PUN"
@@ -1835,6 +1865,11 @@
   "address": "0:85f68631a37ef10865f50d285913079a54625ee8ab9ca74ced28eeaf0ac44034",
   "name": "Random.tg",
   "symbol": "RANDOM"
+ },
+ {
+  "address": "0:eabdd4caa5144eb24d7f888fbc171c75bbb5b9e2346e986ce09f48d0a09498d5",
+  "name": "Riki",
+  "symbol": "RC"
  },
  {
   "address": "0:0704f2f9439d6441632d22d4f76eeb9a0f3d2cfc1ab890dd7be3e44ab65a8ebb",
@@ -2190,6 +2225,11 @@
   "address": "0:9c1101fd38766dca0269580685898bbe3a8115423489cfa0f2ff453d844c92c8",
   "name": "WINKO",
   "symbol": "WINKO"
+ },
+ {
+  "address": "0:e68ff8bb54c5ecb7317d7538103323cacaf408ca7603d0a27ba48f2fd4b538d3",
+  "name": "Wonnie",
+  "symbol": "WON"
  },
  {
   "address": "0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602",
