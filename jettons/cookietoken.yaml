@@ -5,4 +5,9 @@
   "decimals": "9",
   "image": "https://raw.githubusercontent.com/CookieToken/website/main/logo.png",
   "description": "Это мем-токен созданный на The Open Network."
+  "websites":
+     -"https://cookietoken.net"
+  "social":
+     -"https://t.me/cookiestokens"
+     -"https://t.me/cookietokenen"
 }
