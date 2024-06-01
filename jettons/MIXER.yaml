@@ -3,7 +3,7 @@ description: Automated $TON Mixer that allows you to anonymously send $TON to an
 image: "https://raw.githubusercontent.com/ton-mixer/mixer-assets/main/transparent_jetton.png"
 address: 0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5
 symbol: MIXER
-website:
+websites:
   - "https://t.me/TON_mix_bot"
   - "https://tonmixer.xyz"
 social:
