@@ -1097,6 +1097,21 @@
   ]
  },
  {
+  "address": "EQB6Ql1JE7Hq0JuropLYschcu-WNt2vMmWF2-8mEMrK68nJn",
+  "description": "GentlemanTon based on the telegram sticker pack https://t.me/addstickers/SuchAGentleman",
+  "image": "https://ibb.co/wzgBnfh",
+  "name": "Gentleman",
+  "social": [
+   "https://x.com/gentlemanonton?s=21",
+   "https://t.me/gentlemanton",
+   "https://t.me/addstickers/SuchAGentleman"
+  ],
+  "symbol": "MAN",
+  "websites": [
+   "https://gentlemantoken.site/"
+  ]
+ },
+ {
   "address": "0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87",
   "name": "Hipo Staked TON",
   "symbol": "hTON"
