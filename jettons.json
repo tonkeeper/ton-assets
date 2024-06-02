@@ -2032,6 +2032,11 @@
   "symbol": "SOX"
  },
  {
+  "address": "0:022d70f08add35b2d8aa2bd16f622268d7996e5737c3e7353cbb00d2aba257c5",
+  "name": "Spintria",
+  "symbol": "SP"
+ },
+ {
   "address": "0:2ef280ccfdd5cc81077508e8d19d4eac6219af9b944fdf6832c8bf51d91bfef2",
   "name": "SquirellCoin",
   "symbol": "SQRL"
