@@ -337,9 +337,6 @@
 - address: 0:9f2784aed75874fcc0765d1bc88e6f20c34cb6001e116447cea0f3b07b2548ce
   name: Milyman
   symbol: MILY
-- address: 0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e
-  name: Telegram's Cat
-  symbol: MITTENS
 - address: 0:87e3837bdc15c4853f34eb72802bfdbba02a26bc99e601a79bb28f9d668c80cb
   name: MMM2049
   symbol: MMM
@@ -364,6 +361,9 @@
 - address: 0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28
   name: MyTonWallet Coin
   symbol: MY
+- address: 0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e
+  name: Telegram's Cat
+  symbol: Mittens
 - address: 0:d0da80734cee08b67f669aedd32f5bf94d488f4bd3ee008544ab5c4ca4b1de78
   name: Only one token
   symbol: NANO
