@@ -13,6 +13,9 @@
 - address: 0:5c666687bb64397bdac614c9ed9bef14d6cecef88576cc3a23d27689d3695b36
   name: AIMLAB
   symbol: AIM
+- address: 0:982d6dae5f23220887d06b0ca9d856e693c0ea0e13266237bd708354e3a220ac
+  name: ALENKA
+  symbol: ALENKA
 - address: 0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d
   name: ALL
   symbol: ALL
