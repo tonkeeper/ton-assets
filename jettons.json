@@ -551,6 +551,21 @@
   "symbol": "LSQG"
  },
  {
+  "address": "EQDhbM11gCkwVSLu11jTPUGQKXPjfW_J1psPqc8mwZwM7Imf",
+  "description": "TonAlchemists is an innovative project on the TON blockchain, with a mission to create a better, more welcoming community. Our goal is to facilitate networking and build a \"TON family\".",
+  "image": "https://i.postimg.cc/CxH6g4Jg/icon.png",
+  "name": "Ton Alchemists",
+  "social": [
+   "https://twitter.com/TonAlchemists",
+   "https://t.me/TONMagicTown",
+   "https://t.me/TonAlchemists"
+  ],
+  "symbol": "MAGIC",
+  "websites": [
+   "https://tonalchemists.wtf"
+  ]
+ },
+ {
   "address": "0:0be9ed5434f164b27f35f7ca8e0fa2880a7a65c3a7fd70c205b905b7c55f6577",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/mars/m_j_v2_512.png",
