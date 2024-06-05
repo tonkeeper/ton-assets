@@ -264,3 +264,6 @@
 - address: "EQAGR25YDiUNCr7Fw2WnEYM0g8WB1XuQi-N9Vr2w4zjDEhg5"
   name: "Bitget"
   require_memo: true
+- address: "UQBdWoMOSCFHkfSrU1KQDGJNO_88Xv1jAZaxgBWOt4mZDwmZ"
+  name: "Nobitex"
+  require_memo: true
