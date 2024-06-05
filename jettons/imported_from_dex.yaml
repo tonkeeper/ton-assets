@@ -226,6 +226,9 @@
 - address: 0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c
   name: GROK
   symbol: GROK
+- address: 0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34
+  name: Hedgehog in the fog
+  symbol: HIF
 - address: 0:fcfeba39b490f25a6d1abcf21379f67ef5993343d191bc068a58b5f54a40ca4c
   name: BEGEMOTIK
   symbol: HIPPO
