@@ -46,6 +46,9 @@
 - address: 0:91535482df135ffebdf7abc359ccbba0866bdd136d494582198f8a1129475129
   name: BEETON
   symbol: BEE
+- address: 0:2293c76d850d8d85e46592f9c24493ee0dc9869a2b5379910bf5d36429f4327d
+  name: BEN
+  symbol: BEN
 - address: 0:5e27143499fe78ff083775227313a238e18a2bbd5087ae32d24534e455d8cbd9
   name: TON BOGE MEMECOIN
   symbol: BOGE
