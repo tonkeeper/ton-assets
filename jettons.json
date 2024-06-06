@@ -34,6 +34,20 @@
   "symbol": "AMBR"
  },
  {
+  "address": "0:bc236959c32064b29c82a5e745927fdc1a69be575130f09e9d0dff8e9d5bfffc",
+  "description": "ANON XP are non-transferable and non-tradable tokens that reflect in the TON blockchain the wallet holder's activity in ANON events and participation in the mission to Planet 8 as part of ANON Space.",
+  "image": "https://storage.anon.tg/anonxp/anonxp_logo.png",
+  "name": "ANON XP",
+  "social": [
+   "https://t.me/anon_club",
+   "https://x.com/anonclub8"
+  ],
+  "symbol": "ANONXP",
+  "websites": [
+   "https://anon.tg"
+  ]
+ },
+ {
   "address": "0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a",
   "name": "AIYA PowerCell",
   "symbol": "APC"
