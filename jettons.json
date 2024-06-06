@@ -883,6 +883,20 @@
   "symbol": "STON"
  },
  {
+  "address": "EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft",
+  "description": "NFT Sticker on TON. Girl meta. Community take over.",
+  "image": "https://github.com/SteamyJulia/crypto-assets/blob/main/julia%20(1).png",
+  "name": "Steamy Julia",
+  "social": [
+   "https://t.me/SteamyJuliaCTO",
+   "https://x.com/RealSteamyJulia"
+  ],
+  "symbol": "JULIA",
+  "websites": [
+   "https://steamyjulia.com/"
+  ]
+ },
+ {
   "address": "0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b",
   "coingecko": "https://www.coingecko.com/en/coins/tg20-tgram",
   "coinmarketcap": "https://coinmarketcap.com/currencies/tg20-tgram/",

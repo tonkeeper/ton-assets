@@ -374,6 +374,7 @@ Name           | Address
 [Staked TON](https://tonviewer.com/0:aa0ba121449feda569e02b12fa755d24e834a7454aecf4649590b6df742aac8f) | EQCqC6EhRJ_tpWngKxL6dV0k6DSnRUrs9GSVkLbfdCqsj6TE
 [Staked TON](https://tonviewer.com/0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892) | EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k
 [Stalin](https://tonviewer.com/0:0218fac51d60b2f5099e1573eabd97e5ca87816f982b550c406ae705d2135dd6) | EQACGPrFHWCy9QmeFXPqvZflyoeBb5grVQxAaucF0hNd1sEs
+[Steamy Julia](https://tonviewer.com/0:cd2ebaf09bb9652a471ed1802b0dbe778de10fdeb4519c9569bc3280d7aef94f) | EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft
 [Stec Network](https://tonviewer.com/0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18) | EQAMSx9XLYJ6lYB9LL0kAPjZPhGYdlV7QQsPgRrVGv3qGLNt
 [SybilZero](https://tonviewer.com/0:b2fd9a3f6a174209c0f21906b3b8054a59af0a496f77d23d5523c93d65025807) | EQCy_Zo_ahdCCcDyGQazuAVKWa8KSW930j1VI8k9ZQJYB4_V
 [TIGER](https://tonviewer.com/0:a4b44980b2f6019fc0cf4ba96ee107dab631092512f00fde1a0ea6fc4ace9eb6) | EQCktEmAsvYBn8DPS6lu4QfatjEJJRLwD94aDqb8Ss6etuaA
