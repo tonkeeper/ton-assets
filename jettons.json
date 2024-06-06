@@ -1,4 +1,18 @@
 [
+  "address": "EQB8vMHn6fFsK5wqAmObP3uzeExFNQzhNLF6kH4ZHKtlz__o",
+    "description": "#1 Ton Memecoin",
+    "image": "https://i.postimg.cc/zvPCRYPB/IMG-0215-round.png",
+    "name": "OBANZECOIN",
+    "social": [
+      "https://t.me/obanzecoin",
+      "https://obanzecoin.io",
+      "https://x.com/obanzecoin",
+      "https://www.instagram.com/obanzecoin"
+    ],
+    "symbol": "OBANZE",
+    "decimals": 9
+ ]
+},
  {
   "address": "EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb",
   "description": "Operating startup of the mining company",
@@ -2771,6 +2785,7 @@
   "websites": [
    "https://storm.tg"
   ]
+ },
  {
   "address": "0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc",
   "description": "Bridged Tether USD locked in liquidity in Storm Trade (storm.tg)",
@@ -2795,18 +2810,18 @@
   "name": "Tonstakers TON",
   "symbol": "tsTON"
  },
-  {
-    "address": "EQB8vMHn6fFsK5wqAmObP3uzeExFNQzhNLF6kH4ZHKtlz__o",
-    "description": "#1 Ton Memecoin",
-    "image": "https://i.postimg.cc/zvPCRYPB/IMG-0215-round.png",
-    "name": "OBANZECOIN",
-    "social": [
-      "https://t.me/obanzecoin",
-      "https://obanzecoin.io",
-      "https://x.com/obanzecoin",
-      "https://www.instagram.com/obanzecoin"
-    ],
-    "symbol": "OBANZE",
-    "decimals": 9
-  }
+{
+  "address": "EQB8vMHn6fFsK5wqAmObP3uzeExFNQzhNLF6kH4ZHKtlz__o",
+  "description": "#1 Ton Memecoin",
+  "image": "https://i.postimg.cc/zvPCRYPB/IMG-0215-round.png",
+  "name": "OBANZECOIN",
+  "social": [
+    "https://t.me/obanzecoin",
+    "https://obanzecoin.io",
+    "https://x.com/obanzecoin",
+    "https://www.instagram.com/obanzecoin"
+  ],
+  "symbol": "OBANZE",
+  "decimals": 9
+}
 ]
