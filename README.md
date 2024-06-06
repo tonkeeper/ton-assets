@@ -145,6 +145,7 @@ Name           | Address
 [Gram](https://tonviewer.com/0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198) | EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O
 [HEDGE coin](https://tonviewer.com/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
 [Hachiko Inu](https://tonviewer.com/0:e362287713324c235561d00b49e6a5a8fe34ea69d3d0820443df7fb12e0c4128) | EQDjYih3EzJMI1Vh0AtJ5qWo_jTqadPQggRD33-xLgxBKBLf
+[Hedgehog in the fog](https://tonviewer.com/0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34) | EQCLWvCj44QYTeLujnCYKH7DoAuk_O7QI-LnAt3X5bOfNFMy
 [Hipo Staked TON](https://tonviewer.com/0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8) | EQC_jgnSXeKZuY7rEE2gF43xh4FgUHCCXeycNPXSL39luA7K
 [Hipo Staked TON](https://tonviewer.com/0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87) | EQDPdq8xjAhytYqfGSX8KcFWIReCufsB9Wdg0pLlYSO_h76w
 [Hipo Staked TON v1](https://tonviewer.com/0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63) | EQBNo5qAG8I8J6IxGaz15SfQVB-kX98YhKV_mT36Xo5vYxUa
