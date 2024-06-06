@@ -140,6 +140,7 @@ Name           | Address
 [Grabscape governance token](https://tonviewer.com/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
 [Gram](https://tonviewer.com/0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198) | EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O
 [HEDGE coin](https://tonviewer.com/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
+[Hedgehog in the fog](https://tonviewer.com/0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34) | EQCLWvCj44QYTeLujnCYKH7DoAuk_O7QI-LnAt3X5bOfNFMy
 [Hipo Staked TON](https://tonviewer.com/0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87) | EQDPdq8xjAhytYqfGSX8KcFWIReCufsB9Wdg0pLlYSO_h76w
 [Hmmcoin](https://tonviewer.com/0:ceae0d465ce6efa4ba104a99c6c5c6f9c00e36f95d8270597a3ebdb9b15a0956) | EQDOrg1GXObvpLoQSpnGxcb5wA42-V2CcFl6Pr25sVoJVmTv
 [Hot Cherry](https://tonviewer.com/0:4a45235191e3f5fb68dc8394ff7ffff4b391e3fafadb7cd2cc432f1d9d9b3bc5) | EQBKRSNRkeP1-2jcg5T_f__0s5Hj-vrbfNLMQy8dnZs7xd_p
