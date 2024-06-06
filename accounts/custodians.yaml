@@ -54,6 +54,10 @@
   name: "MEXC 2"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
+- address: "EQDYh9Di0cT8QSbnHJcNM6sYlpQAAOrnA7sats7Mgwd3497j"
+  name: "MEXC 3"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
 - address: "EQB5lISMH8vLxXpqWph7ZutCS4tU4QdZtrUUpmtgDCsO73JR"
   name: "EXMO"
   require_memo: true
