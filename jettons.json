@@ -2770,5 +2770,29 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+ {
+  "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
+  "name": "Tether USD",
+  "symbol": "USD\u20ae"
+},
+{
+  "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
+  "name": "Tonstakers TON",
+  "symbol": "tsTON"
+},
+{
+  "address": "EQB8vMHn6fFsK5wqAmObP3uzeExFNQzhNLF6kH4ZHKtlz__o",
+  "description": "#1 Ton Memecoin",
+  "image": "https://i.postimg.cc/zvPCRYPB/IMG-0215-round.png",
+  "name": "OBANZECOIN",
+  "social": [
+    "https://t.me/obanzecoin",
+    "https://obanzecoin.io",
+    "https://x.com/obanzecoin",
+    "https://www.instagram.com/obanzecoin"
+  ],
+  "symbol": "OBANZE",
+  "decimals": 9
+}
 ]
