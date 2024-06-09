@@ -2274,6 +2274,11 @@
   "symbol": "WON"
  },
  {
+  "address": "0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba",
+  "name": "What The",
+  "symbol": "WTF"
+ },
+ {
   "address": "0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602",
   "name": "xCryproMarket",
   "symbol": "XCM"
