@@ -248,6 +248,20 @@
   "symbol": "DUCK"
  },
  {
+  "address": "EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et",
+  "description": "$DUROV is a community-driven project, inspired by Pavel Durov - the founder of Telegram. Explore our Airdrop bot, our NFT collection, or even our Staking platform!",
+  "image": "https://i.postimg.cc/Sshx4fq4/2024-05-29-10-13-59.jpg",
+  "name": "Pavel Durov",
+  "social": [
+   "https://t.me/PavelDurovOnTon",
+   "https://twitter.com/Durov_Tonchain"
+  ],
+  "symbol": "DUROV",
+  "websites": [
+   "https://durovton.com/"
+  ]
+ },
+ {
   "address": "0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1",
   "description": "DYOR Coin is the utility token by DYOR.io, the biggest analytics platform on TON Blockchain.",
   "image": "https://storage.dyor.io/jettons/EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz/dyorcoin.png",
