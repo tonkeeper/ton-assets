@@ -767,6 +767,21 @@
   ]
  },
  {
+  "address": "EQCx1rDxHQKd3XWJ1nxHSfuGn2Nh3zTDOpeYemrKLewzysng",
+  "decimals": 9,
+  "description": "ROON is here to sneak himself to the top of TON!",
+  "image": "https://raccoonton.com/assets/icon/coon.png",
+  "name": "Raccoon",
+  "social": [
+   "https://x.com/raccoonton",
+   "https://t.me/raccoontokenton"
+  ],
+  "symbol": "ROON",
+  "websites": [
+   "https://raccoonton.com"
+  ]
+ },
+ {
   "address": "EQCweXSZaX5k5xOtXLbGgfF8FY6Dbg6rNiPrd9d0f_-kDSHZ",
   "description": "E/acc token for digital life",
   "name": "RubeTON",
