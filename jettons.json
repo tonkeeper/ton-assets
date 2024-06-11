@@ -479,6 +479,21 @@
   "symbol": "HEDGE"
  },
  {
+  "address": "0:74da7151d386c3c1e53c17247a089b94458994a7f638859410fc29fadd227415",
+  "description": "HOLD ON \ud83d\ude80",
+  "name": "Fintopio \ud83d\udc8e",
+  "social": [
+   "https://x.com/fintopio",
+   "https://t.me/fintopionews",
+   "https://t.me/fintopio",
+   "https://t.me/fintopiochannel"
+  ],
+  "symbol": "HOLD",
+  "websites": [
+   "https://fintopio.com"
+  ]
+ },
+ {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
   "decimals": 9,
   "image": "https://i.ibb.co/gZQ4Jqg/john-doge-transparent.png",
