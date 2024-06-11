@@ -1384,6 +1384,11 @@
   "symbol": "CLICK"
  },
  {
+  "address": "0:d45aef4cff9351f35d9a8f9ac8dc50c182755b2f2c9cbe3f856ffbb417ffc22c",
+  "name": "Closecoin",
+  "symbol": "CLOSE"
+ },
+ {
   "address": "0:3d75ac8429f96b2fec087fe18a1a2ce3dbaa6f5f4402231c26460ab383953f73",
   "name": "Coffee",
   "symbol": "COFE"
@@ -1794,6 +1799,11 @@
   "symbol": "MERC"
  },
  {
+  "address": "0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5",
+  "name": "Microdiving",
+  "symbol": "MIC"
+ },
+ {
   "address": "0:a05b788c898aa4a818ea611dfdd70e76e7ede99c5cd5b2d1e56d9e1d92e956fe",
   "name": "MiDtoken",
   "symbol": "MID"
@@ -2072,6 +2082,11 @@
   "address": "0:74f3b5b71967b614824f828c88df431fe5dd613417ea2dcdacef0153249b17ea",
   "name": "Ruslon Skamolovsky",
   "symbol": "RUSLON"
+ },
+ {
+  "address": "0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d",
+  "name": "Saintcoin",
+  "symbol": "SAINT"
  },
  {
   "address": "0:882149bb76706099caee6c37c52d9579da87b517f1c574366231f7abf6b8a986",
