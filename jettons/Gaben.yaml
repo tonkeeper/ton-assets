@@ -3,6 +3,7 @@ description: GabenCoin: where your digital wallet gets more updates than your fa
 image: "https://i.postimg.cc/9QpGsjrF/Gaben.jpg"
 address: EQAc9TXEJz-KykoFz6Ayoo9ooeMXXQ63wZKhU8H4uBTWXesa
 symbol: Gaben
+max_supply: 4,000,000,000
 social:
   - "https://t.me/Gaben_official"
   - "https://t.me/GabenGP"
