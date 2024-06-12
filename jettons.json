@@ -2917,5 +2917,15 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+ {
+  "address": "EQAT2qqZbYM51pwZMekUlfcsBKQgoRt495IJzy_BfD_szq17",
+  "name": "YARUNIN",
+  "description": "Grow with us",
+  "image": "https://i.postimg.cc/tRZpb6xT/Eo-circle-blue-letter-y-svg-1-1.png",
+  "symbol": "YRN",
+  "social": [
+   "https://t.me/yarunin_yrn"
+   ]
+}
 ]
