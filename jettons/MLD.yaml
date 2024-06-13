@@ -1,0 +1,11 @@
+name: Melon Dollar
+description: "The currency of MelonBOT"
+image: "https://cache.tonapi.io/imgproxy/A2F-WQhz46VhXZny_5yEjfYb2pOTWrNyEBhoGgj9b8s/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZWxvbmJvdC5zdS9tbGQucG5n.webp"
+address: "0:0d97242416bae43255e7dc2ed27af473d99af04e06f7dcc6ef25898d28a17bc0"
+symbol: MLD
+decimals: 12
+websites:
+  - "https://melonbot.su"
+social:
+  - "https://t.me/melongame_bot"
+  - "https://t.me/meloncommunity"
