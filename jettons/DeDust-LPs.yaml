@@ -4,9 +4,6 @@
 - name: LP Token for SCALE-TON
   address: "0:dc9b4e9196b7ae32eae6fb28a4f566cbea423ad7b07becead2445fd98e809816"
   symbol: SCALE-TON
-- name: LP Token for KINGY-hTON
-  address: "0:ea8318adfd02ec9503305b2f54b88e7a076703e63b6d4507ca4b2011d57e5a61"
-  symbol: KINGY-hTON
 - name: LP Token for ARBUZ-TON
   address: "0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367"
   symbol: ARBUZ-TON
