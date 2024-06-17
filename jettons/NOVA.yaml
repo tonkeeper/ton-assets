@@ -3,7 +3,6 @@ description: "Dragunova (NOVA): Modeled after the sharpshooter precision of the 
 image: "https://dragunova.bot/wp-content/uploads/2024/06/nova200x200.png"
 address: EQCPIijcaVHuuaPLtuCtiD0mwueZG73beHJ5vdV_l9_vzv5_
 symbol: NOVA
-max_supply: 100000000
 decimals: 9
 websites:
   - "https://dragunova.bot"
