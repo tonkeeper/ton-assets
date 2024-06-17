@@ -42,11 +42,11 @@
   name: "OKX 7"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
-- address: "EQB_LoTHI9i2trGqz4EMjCarI8IgIrRkuHEEstMGWw6nC3Nw"
+- address: "EQCFTsRSHv1SrUO88ZiOTETr35omrRj6Uav9toX8OzSKXGkS"
   name: "OKX 8"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
-- address: "EQCFTsRSHv1SrUO88ZiOTETr35omrRj6Uav9toX8OzSKXGkS"
+- address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg"
