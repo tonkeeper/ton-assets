@@ -2957,5 +2957,13 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+ {
+  "address": "0:42c988aa9138c0b791819d55e0b972d0a6097469ed70c495d867a0226d12f265",
+  "name": "Simple Ton Coin",
+  "symbol": "SIMPL",
+  "decimals": "9",
+  "image": "https://raw.githubusercontent.com/simplepatrick/assets/main/simp256x256.png",
+  "description": "Simple-Ton is a memecoin on TON, built to last. Join us www.simpletoncoin.com"
+}
 ]
