@@ -1,0 +1,10 @@
+name: Simple Ton Coin
+description: "Simple-Ton is a memecoin on TON, built to last. Join us www.simpletoncoin.com"
+image: "https://raw.githubusercontent.com/simplepatrick/assets/main/simp256x256.png"
+address: EQBCyYiqkTjAt5GBnVXguXLQpgl0ae1wxJXYZ6AibRLyZdem
+symbol: SIMPL
+websites:
+  - "https://simpletoncoin.com"
+social:
+  - "https://t.me/simpletoncoin"
+  - "https://x.com/simpletoncoin"
