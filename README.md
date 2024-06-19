@@ -424,6 +424,7 @@ Name           | Address
 [TONic](https://tonviewer.com/0:b80feaa401aa985d63a7591271eb1b4e85dec56bdcd941da1bf22583ea64bf90) | EQC4D-qkAaqYXWOnWRJx6xtOhd7Fa9zZQdob8iWD6mS_kPqU
 [TOWER](https://tonviewer.com/0:b8ed87d52d6a3e53fcfbb3a8843a4600004285fc2d3e801881f0a24beace66e0) | EQC47YfVLWo-U_z7s6iEOkYAAEKF_C0-gBiB8KJL6s5m4JOP
 [TPLANT](https://tonviewer.com/0:0406101449227f36a6093b75913640543297c07fb86777d5fb5818594aa2dac5) | EQAEBhAUSSJ_NqYJO3WRNkBUMpfAf7hnd9X7WBhZSqLaxYko
+[Telegram Monk](https://tonviewer.com/0:6292ec4e9cc914e173525464026e0e3a964e5df2fba1cc342d70338939c8da22) | EQBikuxOnMkU4XNSVGQCbg46lk5d8vuhzDQtcDOJOcjaIvkV
 [Telegram's Cat](https://tonviewer.com/0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e) | EQBwy-wJ-wCqh0mfJHoWjmulJ0oIRKEJJt75ULyrJNPcnn5z
 [Telegram's Dog](https://tonviewer.com/0:7025a07ee7511f7750ab689b244c0931d8d0d91dfef538d59494997e28818ece) | EQBwJaB-51Efd1CraJskTAkx2NDZHf71ONWUlJl-KIGOzs4b
 [Tenere](https://tonviewer.com/0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965) | EQCPmOnkTe8qP_ZtCf3Rys04ukRTiQc_xVS-lGQ6BH3JZWmC

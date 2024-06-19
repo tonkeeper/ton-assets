@@ -3057,6 +3057,21 @@
   "symbol": "USD\u20ae"
  },
  {
+  "address": "EQBikuxOnMkU4XNSVGQCbg46lk5d8vuhzDQtcDOJOcjaIvkV",
+  "description": "Telegram Monk is not just a meme, but a concept of life. It is freedom.",
+  "image": "https://raw.githubusercontent.com/durachio/assets/main/pictures/tmonk.jpg",
+  "name": "Telegram Monk",
+  "social": [
+   "https://t.me/TgMonk",
+   "https://twitter.com/TMonkOfficial"
+  ],
+  "symbol": "TMONK",
+  "websites": [
+   "https://tgmonk.com",
+   "https://linktr.ee/tgmonk"
+  ]
+ },
+ {
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
