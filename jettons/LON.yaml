@@ -2,7 +2,6 @@ name: Luna or Not
 description: Probably Luna  | Telegram: @lunaornot @lunaornotchat
 image: "https://raw.githubusercontent.com/grindich/Luna-or-Not/main/LunaOrNot.png"
 symbol: LON
-max_supply: 989933455.51
 websites:
   - "https://lunaornot.xyz/"
 social:
