@@ -837,6 +837,20 @@
   ]
  },
  {
+  "address": "0:5893d469f238059b113a5c820e88f252c4e6c0c2de837538517533fbb7725085",
+  "description": "Get Rebalancer to your portfolio",
+  "image": "https://raw.githubusercontent.com/Rebalancer/picture/main/rebalancer%20(2).png",
+  "name": "Rebalancer",
+  "social": [
+   "https://t.me/rebalancer_ton",
+   "https://x.com/REBALANCER_TON"
+  ],
+  "symbol": "REBA",
+  "websites": [
+   "https://rebalancer.pro/"
+  ]
+ },
+ {
   "address": "EQBjbM7x9cqPCqFCY17FSQr2MRoZGzn9eG5VAeQ7vsqbXPhX",
   "description": "The Resistance Cock is a memecoin on the TON blockchain - $RECO is a meme coin on the TON Blockchain.  https://t.me/RECO_Portal",
   "image": "https://imgur.com/a/11gXnYd",
@@ -2271,6 +2285,11 @@
   "address": "0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9",
   "name": "Slowpoke",
   "symbol": "SLOW"
+ },
+ {
+  "address": "0:f1881739b47deb18bef156d845cfce12585c855503c63a6847821adfd550382c",
+  "name": "SLUT",
+  "symbol": "SLUT"
  },
  {
   "address": "0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c",

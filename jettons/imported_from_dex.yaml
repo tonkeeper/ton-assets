@@ -574,6 +574,9 @@
 - address: 0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9
   name: Slowpoke
   symbol: SLOW
+- address: 0:f1881739b47deb18bef156d845cfce12585c855503c63a6847821adfd550382c
+  name: SLUT
+  symbol: SLUT
 - address: 0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c
   name: BOLTWIFSOCK
   symbol: SOCK
