@@ -172,7 +172,7 @@
  {
   "address": "EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf",
   "description": "UNITON TOKEN \ud83e\udd84 IS The First Telegram Family MEME Token Powered By",
-  "image": "https://ibb.co/mBj501f",
+  "image": "https://i.postimg.cc/2Szvq5FJ/UTN-Logo.png",
   "name": "UNITON TOKEN",
   "social": [
    "https://t.me/uniton_token",
@@ -602,6 +602,20 @@
   "symbol": "LAVE"
  },
  {
+  "address": "0:19a28f48d8bc5aa5c897410dc3e11274246a0268e1390d4510748cc883f5f29a",
+  "description": "Probably Luna",
+  "image": "https://raw.githubusercontent.com/grindich/Luna-or-Not/main/LunaOrNot.png",
+  "name": "Luna or Not",
+  "social": [
+   "https://t.me/lunaornot",
+   "https://x.com/lunaornot"
+  ],
+  "symbol": "LON",
+  "websites": [
+   "https://lunaornot.xyz/"
+  ]
+ },
+ {
   "address": "0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4",
   "decimals": 9,
   "description": "The concept of the LOVE jetton is the Metaverse. Metaverse for virtual dating. Jetton based on the TON blockchain. Telegram channel - @loveholders, @loveholderschat, @loveholderseng, @loveengchat, loveholders.com",
@@ -820,6 +834,20 @@
   "symbol": "People",
   "websites": [
    "https://peopleai.site/"
+  ]
+ },
+ {
+  "address": "0:5893d469f238059b113a5c820e88f252c4e6c0c2de837538517533fbb7725085",
+  "description": "Get Rebalancer to your portfolio",
+  "image": "https://raw.githubusercontent.com/Rebalancer/picture/main/rebalancer%20(2).png",
+  "name": "Rebalancer",
+  "social": [
+   "https://t.me/rebalancer_ton",
+   "https://x.com/REBALANCER_TON"
+  ],
+  "symbol": "REBA",
+  "websites": [
+   "https://rebalancer.pro/"
   ]
  },
  {
@@ -2259,6 +2287,11 @@
   "symbol": "SLOW"
  },
  {
+  "address": "0:f1881739b47deb18bef156d845cfce12585c855503c63a6847821adfd550382c",
+  "name": "SLUT",
+  "symbol": "SLUT"
+ },
+ {
   "address": "0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c",
   "name": "BOLTWIFSOCK",
   "symbol": "SOCK"
@@ -3022,6 +3055,21 @@
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD",
   "symbol": "USD\u20ae"
+ },
+ {
+  "address": "EQBikuxOnMkU4XNSVGQCbg46lk5d8vuhzDQtcDOJOcjaIvkV",
+  "description": "Telegram Monk is not just a meme, but a concept of life. It is freedom.",
+  "image": "https://raw.githubusercontent.com/durachio/assets/main/pictures/tmonk.jpg",
+  "name": "Telegram Monk",
+  "social": [
+   "https://t.me/TgMonk",
+   "https://twitter.com/TMonkOfficial"
+  ],
+  "symbol": "TMONK",
+  "websites": [
+   "https://tgmonk.com",
+   "https://linktr.ee/tgmonk"
+  ]
  },
  {
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
