@@ -56,7 +56,7 @@
   "name": "Telegram"
  },
  {
-  "address": "0:35db4da77e618bc84ea1409d7e7570cd50849d22b5ee208847a780b27ab679ac",
+  "address": "0:8f2d840ec05d118f98459a057b1fcab535c57b9371222be15667fee932ceaf53",
   "name": "battery.ton"
  },
  {
@@ -265,6 +265,12 @@
   "address": "0:7f2e84c723d8b6b6b1aacf810c8c26ab23c22022b464b87104b2d3065b0ea70b",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
   "name": "OKX 7",
+  "require_memo": true
+ },
+ {
+  "address": "0:854ec4521efd52ad43bcf1988e4c44ebdf9a26ad18fa51abfdb685fc3b348a5c",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX 8",
   "require_memo": true
  },
  {
@@ -589,6 +595,11 @@
  {
   "address": "0:a2faca7adfebd5c5970108d1f79065cef32b0c143fb13489066b684cdd7ee95c",
   "name": "BitMart",
+  "require_memo": true
+ },
+ {
+  "address": "0:5d5a830e48214791f4ab5352900c624d3bff3c5efd630196b180158eb789990f",
+  "name": "Nobitex",
   "require_memo": true
  },
  {
