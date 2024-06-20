@@ -535,6 +535,9 @@
 - address: 0:74f3b5b71967b614824f828c88df431fe5dd613417ea2dcdacef0153249b17ea
   name: Ruslon Skamolovsky
   symbol: RUSLON
+- address: 0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd
+  name: Save Ass Coin
+  symbol: SAC
 - address: 0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d
   name: Saintcoin
   symbol: SAINT
