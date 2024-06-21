@@ -56,6 +56,14 @@
   "name": "Telegram"
  },
  {
+  "address": "0:8f2d840ec05d118f98459a057b1fcab535c57b9371222be15667fee932ceaf53",
+  "name": "battery.ton"
+ },
+ {
+  "address": "0:7251e83282040cfd2387cf677b2864f7f021720fa040cda543a9194119442cea",
+  "name": "Tonkeeper battery refunds"
+ },
+ {
   "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
   "name": "Getgems Marketplace"
  },
@@ -248,6 +256,24 @@
   "require_memo": true
  },
  {
+  "address": "0:24da1e7b8da901e5b3dd0f98c397feb6e5a5ea483195a8b6bd0682cf2c5327ae",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX 6",
+  "require_memo": true
+ },
+ {
+  "address": "0:7f2e84c723d8b6b6b1aacf810c8c26ab23c22022b464b87104b2d3065b0ea70b",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX 7",
+  "require_memo": true
+ },
+ {
+  "address": "0:854ec4521efd52ad43bcf1988e4c44ebdf9a26ad18fa51abfdb685fc3b348a5c",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX 8",
+  "require_memo": true
+ },
+ {
   "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg",
   "name": "FTX",
@@ -263,6 +289,12 @@
   "address": "0:1c7bd690f4f93de8b93db5790129dab65926c6e1fc9b57380089db5529516630",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg",
   "name": "MEXC 2",
+  "require_memo": true
+ },
+ {
+  "address": "0:d887d0e2d1c4fc4126e71c970d33ab1896940000eae703bb1ab6cecc830777e3",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg",
+  "name": "MEXC 3",
   "require_memo": true
  },
  {
@@ -467,7 +499,7 @@
  },
  {
   "address": "0:59b065c5d66261a5317660e96eee476aa6a11b749bdcbe8c0d1f3dbf24200d1c",
-  "name": "OMP Phoenix",
+  "name": "OMPFinex",
   "require_memo": true
  },
  {
@@ -503,6 +535,71 @@
  {
   "address": "0:cdf7f0d7c09036f064272e3c429ed570be49ef29eb3a735b64bbc17915073732",
   "name": "Bitget",
+  "require_memo": true
+ },
+ {
+  "address": "0:e9c0a24ffaa6aa4f228890e71ae9550bfc53a6c57e643bc31c240e18727ac1ce",
+  "name": "Bitget2",
+  "require_memo": true
+ },
+ {
+  "address": "0:336502faf83ef5b532d315ba71450b661c90e83fce64d8bc1fd2bf642f3555d9",
+  "name": "Bitget3",
+  "require_memo": true
+ },
+ {
+  "address": "0:b308c7f9b4f596f6250175885972549871b05c70ed3619fd5a939401eea972e4",
+  "name": "Bitget4",
+  "require_memo": true
+ },
+ {
+  "address": "0:e2d1df206b372db1f3b890e60d185b67aa0c9f1b6b6ff60a05091c8c01b40ac4",
+  "name": "Bitget5",
+  "require_memo": true
+ },
+ {
+  "address": "0:7a0dc94da9f48b968dfb87be38d4fab7286288db7a04d3081feee177376d9089",
+  "name": "Bitget6",
+  "require_memo": true
+ },
+ {
+  "address": "0:8785ef5ebb0fd24c6911d10f43c00961e9748fa54297a1ac517e3c5fe76bb0be",
+  "name": "Bitget7",
+  "require_memo": true
+ },
+ {
+  "address": "0:213b6804c2082135a4a803da8e3b30cfed51aee9af2ad2100334b7f4711d3bcc",
+  "name": "Bitget8",
+  "require_memo": true
+ },
+ {
+  "address": "0:573dfe99490a041703e977e4724135c5b8bea0bea67839612247451ca9d5c4cb",
+  "name": "Bitget9",
+  "require_memo": true
+ },
+ {
+  "address": "0:de2519a527de7e1d4c1028bdb74e022b28a6e370e4fec3fc27d8d971308f99bb",
+  "name": "Bitget10",
+  "require_memo": true
+ },
+ {
+  "address": "0:06476e580e250d0abec5c365a711833483c581d57b908be37d56bdb0e338c312",
+  "name": "Bitget11",
+  "require_memo": true
+ },
+ {
+  "address": "0:f99b14600ae44d2f12b178e8c6eabd78892ae82c5e45b6898f9deb7eb203f9c4",
+  "name": "Binance",
+  "require_memo": true
+ },
+ {
+  "address": "0:a2faca7adfebd5c5970108d1f79065cef32b0c143fb13489066b684cdd7ee95c",
+  "name": "BitMart",
+  "require_memo": true
+ },
+ {
+  "address": "0:5d5a830e48214791f4ab5352900c624d3bff3c5efd630196b180158eb789990f",
+  "name": "Nobitex",
   "require_memo": true
  },
  {
@@ -804,5 +901,95 @@
  {
   "address": "0:2363d23750a06ac544ccd6c0786122a9a88d2445a80d28e04230525f905c3280",
   "name": "Scammer"
+ },
+ {
+  "address": "0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Royalty"
+ },
+ {
+  "address": "0:10413c964272d399ead2d0659062b158b4ba201ae5c05bf906e60c3ee74455a4",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Foundation"
+ },
+ {
+  "address": "0:0f65ab9654f51c9b6854253f67dfaa71ce7121978eab127d5bcc15cdd1163fca",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 0"
+ },
+ {
+  "address": "0:12826d10bf78761f6985d16d3a8a43ea62ad9cb53dddc973091ffb2f6c428a07",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 1"
+ },
+ {
+  "address": "0:2b9663fe4615481b6c801466723d97ccde6d1871cc66a6fa118bab204735a700",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 2"
+ },
+ {
+  "address": "0:3aa4bfaca58a99a750a4ea8deba58e390a5f9bbcb316fe3dea7557a33a4516a4",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 3"
+ },
+ {
+  "address": "0:49fde8588ee99029b5df594b9ed4a1ca5dd4e6d46b98241d058f6493fc3c0e46",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 4"
+ },
+ {
+  "address": "0:519984a3c61f71959a54a849868c5e548ee908f6ffc29b69024eee02a019f75e",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 5"
+ },
+ {
+  "address": "0:648aa9dc77b0054f9ff6dc7f91a00d95ca793e373abf74ba1e31546d84053d44",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 6"
+ },
+ {
+  "address": "0:7f3b34c75dbced0017b440782be0fb4057c4fae0b47a683ba75e0680a2284e77",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 7"
+ },
+ {
+  "address": "0:8bfb1e642e0ead295346af222d4ee8fab46dc51f99a1504bb4c51a9073e91b12",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 8"
+ },
+ {
+  "address": "0:99876c89e3a45a407dc06268c403c48c3178bbece7a29f8fb796faa41ec78802",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap 9"
+ },
+ {
+  "address": "0:a12a8e482b788da941d418307d82dce30a33133ed9ac16a7a4b8203631dade54",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap A"
+ },
+ {
+  "address": "0:ba0cd081bf4efa4c896244c7ceb76d11a5b4bbacd2837d2932dd6ac511aa45b7",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap B"
+ },
+ {
+  "address": "0:c4fd715939869efeb97764cb20042b514a662197c078cb605910fee888604386",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap C"
+ },
+ {
+  "address": "0:dd76aa4603678f5d0178ec0d8348bdc617a6732159a299f336775e9c7729b2da",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap D"
+ },
+ {
+  "address": "0:efd2134d01a9a1625b42877a5326bab7a1107d456d998446244cfe9f863e41b5",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap E"
+ },
+ {
+  "address": "0:f698fef380eefe8a650986a62bcb78b4eda27f491e770daa2432ea5f000a1bb7",
+  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
+  "name": "Notcoin Voucher Swap F"
  }
 ]

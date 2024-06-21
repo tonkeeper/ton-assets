@@ -26,3 +26,7 @@
   name: "Hipo Treasury"
 - address: "UQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6syif"
   name: "Telegram"
+- address: "UQCPLYQOwF0Rj5hFmgV7H8q1NcV7k3EiK-FWZ_7pMs6vUz6z"
+  name: "battery.ton"
+- address: "UQByUegyggQM_SOHz2d7KGT38CFyD6BAzaVDqRlBGUQs6grh"
+  name: "Tonkeeper battery refunds"
