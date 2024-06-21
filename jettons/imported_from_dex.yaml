@@ -19,6 +19,9 @@
 - address: 0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d
   name: ALL
   symbol: ALL
+- address: 0:ece3f316991c9298f6ec5ba33267c0f2fa4f818b4bd934d495b7a2c4d8b0bf75
+  name: AltOOshka
+  symbol: ALT
 - address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
   name: Andy
   symbol: ANDY
@@ -193,6 +196,9 @@
 - address: 0:1596e1910b8c04576683a62220aa212f8671fefa59aae4415a2fa0bd55fbf455
   name: Fake Notcoin
   symbol: FNOT
+- address: 0:d1874559a045971eda548bc34a6a036521f258c6cb1ae727a57fb51630bdf2dd
+  name: TONFOMO
+  symbol: FOMO
 - address: 0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528
   name: FREEDOM
   symbol: FREE
@@ -253,9 +259,15 @@
 - address: 0:f83f7d94d74b2736821abe8aba7183d3411f367b00233b6d1ea6282b59102ea7
   name: Hydra
   symbol: HYDRA
+- address: 0:296b467923494c7a2b524d4b72b5c7b9679cb861a9398c1c12f02c39dcfd436a
+  name: Hasbulla
+  symbol: Hasbik
 - address: 0:ad9cd74f9c0e0d4ede1743f336d5d2b2a1447b75afd25fbbaab4efb08751deaa
   name: indicaTon
   symbol: ICTN
+- address: 0:cc03b311b0b8ff03a6f35f8544c3beb1fb72c12278a9312f5119d72c9a7c4537
+  name: Informatoken
+  symbol: IFT
 - address: 0:651e7602d14935dff5812b83cdfaa8c1d938a25e2c580d37bb1235f5efe215fb
   name: Ton Invaders Coin
   symbol: INC
@@ -298,6 +310,9 @@
 - address: 0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862
   name: MrKrabs
   symbol: KRABS
+- address: 0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9
+  name: LADY
+  symbol: LADY
 - address: 0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a
   name: DAOLegion
   symbol: LGN24
@@ -508,6 +523,9 @@
 - address: 0:ecbdb9a1feb1e3a4ef855f7a66b4fbad965ca797438abaaa91f5cd5120289bb0
   name: Round Chicken Token
   symbol: RCT
+- address: 0:3cc848393a8b5e73d75d8387482f07a6360b2ea9d4078ca2638d000826b564c9
+  name: Resistance Bear
+  symbol: REBE
 - address: 0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa
   name: RED X
   symbol: REDX
@@ -517,6 +535,9 @@
 - address: 0:7025a07ee7511f7750ab689b244c0931d8d0d91dfef538d59494997e28818ece
   name: Telegram's Dog
   symbol: REMY
+- address: 0:6e7822dacd1b40ab0cfa20f4a8caeb4bb4335d6b92be00570ea51ee2a5b18c1e
+  name: Resistance Trump
+  symbol: RETRUMP
 - address: 0:a785ec1fa456e5cda13ea50a57c4749180dcfb47f62b175628012f07169c1f1f
   name: Roosty
   symbol: ROOSTY
@@ -574,6 +595,9 @@
 - address: 0:418cc07e7a971da285742ca4803a5d76b1e7bde0e9e59545855e2d26a98646b1
   name: SIMBA
   symbol: SIM
+- address: 0:42c988aa9138c0b791819d55e0b972d0a6097469ed70c495d867a0226d12f265
+  name: Simple Ton Coin
+  symbol: SIMPL
 - address: 0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9
   name: Slowpoke
   symbol: SLOW
