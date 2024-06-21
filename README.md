@@ -332,6 +332,7 @@ Name           | Address
 [Saintcoin](https://tonviewer.com/0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d) | EQD7rlGEfvNUXYbEwT-Ll7SUD7LuGkubUeU-TQXsShMwXY0H
 [Salo](https://tonviewer.com/0:c7976b1586b63896f74714bcee4af1a8817b928a6db4e94bd71cdc0547cf210a) | EQDHl2sVhrY4lvdHFLzuSvGogXuSim206UvXHNwFR88hCiyh
 [SantaCoin](https://tonviewer.com/0:e506a188dabe388e99e161f12225a854f1bed9a28de7a35de5e90f47f802096c) | EQDlBqGI2r44jpnhYfEiJahU8b7Zoo3no13l6Q9H-AIJbAgo
+[Save Ass Coin](https://tonviewer.com/0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd) | EQAQB8Ut4tnlOl54this4vZqkWTVISybPnx_XID9337WzVra
 [Scaleton](https://tonviewer.com/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
 [Secure Sockets Layer](https://tonviewer.com/0:f753cc9cda6a137bcc826d4958c64321fd208258b92ec506a6da569be220dfa5) | EQD3U8yc2moTe8yCbUlYxkMh_SCCWLkuxQam2lab4iDfpXYU
 [Shards of Notcoin NFT bond](https://tonviewer.com/0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b) | EQCIXQn940RNcOk6GzSorRSiA9WZC9xUz-6lyhl6Ap6na2sh
