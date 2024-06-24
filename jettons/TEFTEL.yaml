@@ -4,8 +4,9 @@ image: https://imgur.com/a/TwZFKV6
 address: EQB5PvZCn-GeB8zsyz96XuXAXZ_vCKGnebClc2ZnGhYxj7pR
 symbol: TEFTEL
 decimals: 9
+max supply: 1000000000
 websites:
   - https://catteftelonton.xyz/
 social:
-  - https://twitter.com/CatTeftelOnTon
+  - https://x.com/CatTeftelOnTon
   - https://t.me/catteftelportal
