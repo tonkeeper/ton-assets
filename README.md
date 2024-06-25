@@ -76,6 +76,7 @@ Name           | Address
 [BEETON](https://tonviewer.com/0:91535482df135ffebdf7abc359ccbba0866bdd136d494582198f8a1129475129) | EQCRU1SC3xNf_r33q8NZzLughmvdE21JRYIZj4oRKUdRKRDb
 [BEGEMOTIK](https://tonviewer.com/0:fcfeba39b490f25a6d1abcf21379f67ef5993343d191bc068a58b5f54a40ca4c) | EQD8_ro5tJDyWm0avPITefZ-9ZkzQ9GRvAaKWLX1SkDKTGUt
 [BEN](https://tonviewer.com/0:2293c76d850d8d85e46592f9c24493ee0dc9869a2b5379910bf5d36429f4327d) | EQAik8dthQ2NheRlkvnCRJPuDcmGmitTeZEL9dNkKfQyffjo
+[BIG BALLS BIRDS](https://tonviewer.com/0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e) | EQCxXcLuDo7OLyks-iGODGCpPTi5G9Yhq3DVwpjTV53xfuOu
 [BOLTWIFSOCK](https://tonviewer.com/0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c) | EQARb2CYeCT73K-a_cWXycgbcWlleEx4fq4RCbZ7cWBtPN8s
 [BOOBA Coin](https://tonviewer.com/0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81) | EQCavQv8vsZ1waQnqz3lmGEw2HkUM2clUrzjJotwpwzrgcx4
 [BORIS PIXEL](https://tonviewer.com/0:a0142bd9095eaaa81fb629e97a0ff915e33116e0514e41f615e0a0c335310974) | EQCgFCvZCV6qqB-2Kel6D_kV4zEW4FFOQfYV4KDDNTEJdItn
@@ -489,6 +490,7 @@ Name           | Address
 [Virtuals Worlds](https://tonviewer.com/0:5f5fd28ee72205a6b1d63e9269dceb17fba7232e310917e879b88404dde2c963) | EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h
 [Volodemer](https://tonviewer.com/0:f9ac61a0562235ea74f99cbd1ab82c199533c26f008e223364231d682d6d76b4) | EQD5rGGgViI16nT5nL0auCwZlTPCbwCOIjNkIx1oLW12tFgo
 [WINKO](https://tonviewer.com/0:9c1101fd38766dca0269580685898bbe3a8115423489cfa0f2ff453d844c92c8) | EQCcEQH9OHZtygJpWAaFiYu-OoEVQjSJz6Dy_0U9hEySyO4U
+[WOOD$ Credits](https://tonviewer.com/0:a476dd3b954a14b554000b85ca629a42833a5d2013861c2d7b67490f87e2417e) | EQCkdt07lUoUtVQAC4XKYppCgzpdIBOGHC17Z0kPh-JBfmXZ
 [WTON](https://tonviewer.com/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
 [Wakeup DAO Token](https://tonviewer.com/0:10125077b6b3308f4c029d55586059c9adba7008efcd5c3693ba3f5a62280ba2) | EQAQElB3trMwj0wCnVVYYFnJrbpwCO_NXDaTuj9aYigLovXw
 [Wallet Exchanger](https://tonviewer.com/0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a) | EQBtUKPbhABPYtltiKWA547s4ZhJ5wZHvVV1eyfV7sEyGs2J
