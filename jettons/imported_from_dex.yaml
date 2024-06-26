@@ -4,6 +4,9 @@
 - address: 0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c
   name: 1PLAYER TOKEN
   symbol: 1PTON
+- address: 0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a
+  name: 3CATS in a Trench Coat
+  symbol: 3CATS
 - address: 0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5
   name: '@BTC25 MEMECOIN TonMiner'
   symbol: '@BTC25'
@@ -31,6 +34,9 @@
 - address: 0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45
   name: ARBUZ
   symbol: ARBUZ
+- address: 0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2
+  name: Azure
+  symbol: AZURE
 - address: 0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e
   name: BIG BALLS BIRDS
   symbol: BALLS
@@ -76,6 +82,9 @@
 - address: 0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d
   name: Burncoin
   symbol: BURN
+- address: 0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5
+  name: Cash AMA Radio
+  symbol: CASH
 - address: 0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8
   name: TON Cats Jetton
   symbol: CATS
@@ -193,6 +202,9 @@
 - address: 0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025
   name: Flamingo Coin
   symbol: FLAM
+- address: 0:1c498adc26ba9e3adc3a0a62b5fe4913c7b62c3fa3abf29bc6050ac015865b09
+  name: Coin Flipper
+  symbol: FLIP
 - address: 0:11983c9b7c4bf223faf7256ef364057e553cfca56bec7ae216a6362a400e38ba
   name: FlokiTon
   symbol: FLOKIT
@@ -247,6 +259,9 @@
 - address: 0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c
   name: GROK
   symbol: GROK
+- address: 0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1
+  name: "\u041A\u0440\u043E\u043A\u043E\u0434\u0438\u043B \u0413\u0435\u043D\u0430"
+  symbol: Gena
 - address: 0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34
   name: Hedgehog in the fog
   symbol: HIF
@@ -337,6 +352,9 @@
 - address: 0:7d0f5fd1a20ea2b58b8da0b908526b239a417b854fd4512cc5904c22bfa66c78
   name: MAMA
   symbol: MAMA
+- address: 0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f
+  name: Commander
+  symbol: MANDER
 - address: 0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777
   name: Margaritis
   symbol: MARGA
@@ -349,6 +367,9 @@
 - address: 0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36
   name: Magic Crystal
   symbol: MC
+- address: 0:576ed808a1cbdbd741902959d08d942ac77b578c68c1599c92f1f87661c1dbb0
+  name: MuscleCare
+  symbol: MCL
 - address: 0:de5cbf52f80a467ac4146c12d88b64464bd52959f00118017c8c40e1ffa5d08c
   name: Melon
   symbol: MELON
@@ -463,6 +484,9 @@
 - address: 0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b
   name: Petcoin
   symbol: PET
+- address: 0:f4ec95fb4c45c0536e05a1f8357725a3633fe2daf97d263f259a1c1b0796defc
+  name: PIG
+  symbol: PIG
 - address: 0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c
   name: Pi Ton Network
   symbol: PITON
@@ -538,9 +562,15 @@
 - address: 0:7025a07ee7511f7750ab689b244c0931d8d0d91dfef538d59494997e28818ece
   name: Telegram's Dog
   symbol: REMY
+- address: 0:e1afe8a59873d5124da89ab7d05b44b95cb6f2166d2fdb374659808375fbf566
+  name: Resistance Tates
+  symbol: RESIST
 - address: 0:6e7822dacd1b40ab0cfa20f4a8caeb4bb4335d6b92be00570ea51ee2a5b18c1e
   name: Resistance Trump
   symbol: RETRUMP
+- address: 0:3afe1b0df89dcc98b6a824f31437e83688de1f1bb487b13403969b89ef22640a
+  name: Rio Global Invest Club
+  symbol: RIC
 - address: 0:a785ec1fa456e5cda13ea50a57c4749180dcfb47f62b175628012f07169c1f1f
   name: Roosty
   symbol: ROOSTY
@@ -550,6 +580,9 @@
 - address: 0:7c44d0bb13ed2e59c7d23faf2b93f45178dd8960a4389c12ead51b0aa5a5667b
   name: Rotgar
   symbol: ROTGAR
+- address: 0:1974adbb114e8b50dc53b16961bb76992c74b7ab7acd073a6205396434716cb0
+  name: Rug Police
+  symbol: RUGP
 - address: 0:f3bece9984d0d931031e28ad889dcf32983a4e465d07e6101f82d7f775745bb7
   name: Rug Pull
   symbol: RUGPULL
@@ -559,6 +592,9 @@
 - address: 0:74f3b5b71967b614824f828c88df431fe5dd613417ea2dcdacef0153249b17ea
   name: Ruslon Skamolovsky
   symbol: RUSLON
+- address: 0:730e3cf3a4de8f68b2b657175d00368f74d01501b733cef0438710564331e1e9
+  name: Ruski Inu
+  symbol: Ruski
 - address: 0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd
   name: Save Ass Coin
   symbol: SAC
@@ -577,6 +613,9 @@
 - address: 0:b9d88ddcdab999a546afd0bad4eaaef0b97a139a13889ef68584a8d9e90b82e6
   name: SCAM
   symbol: SCAM
+- address: 0:db8aa9762abf6d1d37de0d19abe6c3878cd5c5921a66de9930aba36b98e9c88a
+  name: Tony Tontana
+  symbol: SCAR
 - address: 0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719
   name: SEED
   symbol: SEED
@@ -763,6 +802,9 @@
 - address: 0:9c1101fd38766dca0269580685898bbe3a8115423489cfa0f2ff453d844c92c8
   name: WINKO
   symbol: WINKO
+- address: 0:3b71f70f0a9161da8dd91fa124c41724fd275b2c7fec70011b1d72b16a695f4a
+  name: Wojak on TON
+  symbol: WOJAK
 - address: 0:e68ff8bb54c5ecb7317d7538103323cacaf408ca7603d0a27ba48f2fd4b538d3
   name: Wonnie
   symbol: WON
@@ -808,3 +850,15 @@
 - address: 0:744a8c6e183c79aa356dd0ffdb3c80857967452c1995a291e18e07ecd2afb0b1
   name: Ton Whales liquid staking token
   symbol: wsTON
+- address: 0:2d08cce9caa9925630a1dba09f76a2a3dca8af1cd7d7a2fe7245803875d6e3e4
+  name: "\u0411\u0430\u0444\u0444\u0438"
+  symbol: "\u0411\u0430\u0444\u0444\u0438"
+- address: 0:23a038e03c2de782980cb47052f1ad6d50a73850b649e7256886763be7393e09
+  name: "\u0412\u041E\u041B\u041A"
+  symbol: "\u0412\u041E\u041B\u041A"
+- address: 0:dae7ec8ede6d0fa22b80683b51b8d9bf33f9d43240355f7a7d7302978e4dbae8
+  name: "\u0428\u0430\u043F\u043E\u043A\u043B\u044F\u043A"
+  symbol: "\u0428\u0430\u043F\u043E\u043A\u043B\u044F\u043A"
+- address: 0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246
+  name: "\u0447\u0435\u0431\u0443\u0440\u0430\u0448\u043A\u0430"
+  symbol: "\u0447\u0435\u0431\u0443\u0440\u0430\u0448\u043A\u0430"
