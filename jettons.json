@@ -708,7 +708,18 @@
    "https://memefund.capital"
   ]
  },
- {
+{
+  "address": "EQB3oeaBnIYqFbkHphZMnCtOO37Mud5b3NSdL0PAYkgr3Xur",
+  "description": "Mistress is the dominatrix woman of $TON blockchain, spanking the bad boys to make them good boys.",
+  "image": "https://raw.githubusercontent.com/MistressOnTon/Mistress_media/main/Mistress_logo_white.png",
+  "name": "Mistress",
+  "social": [
+	"https://x.com/mistress_ton",
+   	"https://t.me/MistressOnTon"
+  ],
+  "symbol": "MISTRESS"
+ },
+{
   "address": "0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5",
   "description": "Automated $TON Mixer that allows you to anonymously send $TON to any address",
   "image": "https://raw.githubusercontent.com/ton-mixer/mixer-assets/main/transparent_jetton.png",
@@ -3315,16 +3326,5 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- },
- {
-  "address": "EQB3oeaBnIYqFbkHphZMnCtOO37Mud5b3NSdL0PAYkgr3Xur",
-  "description": "Mistress is the dominatrix woman of $TON blockchain, spanking the bad boys to make them good boys.",
-  "image": "https://raw.githubusercontent.com/MistressOnTon/Mistress_media/main/Mistress_logo_white.png",
-  "name": "Mistress",
-  "social": [
-	"https://x.com/mistress_ton",
-   	"https://t.me/MistressOnTon"
-  ],
-  "symbol": "MISTRESS"
  }
 ]
