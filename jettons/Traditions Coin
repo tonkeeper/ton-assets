@@ -1,7 +1,8 @@
-name: Traditions Coin
-description: Traditions Coin (TRADC) is not just a cryptocurrency, it is a bridge between eternal values ​​and modern technologies.
-address: EQDRvg2YmnMd3mqGbLnCo7HBNglMtvu_WwXGPShyBfBVW9TG
-symbol: TRADC
+name: "Traditions Coin"
+description: "Traditions Coin (TRADC) is not just a cryptocurrency, it is a bridge between eternal values ​​and modern technologies."
+address: "EQDRvg2YmnMd3mqGbLnCo7HBNglMtvu_WwXGPShyBfBVW9TG"
+symbol: "TRADC"
+image: "https://spa-traditions.ru/traditions_coin/traditions.png"
 websites:
   - "https://spa-traditions.ru"
 social:
