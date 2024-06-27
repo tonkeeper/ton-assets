@@ -1,0 +1,11 @@
+name: Blockton News
+description: "Blockton News delivers the latest updates on TON through X, telegram and our website.  25% profit made through our News network will be used to buyback $NEWS and burn!"
+image: "https://cache.tonapi.io/imgproxy/dMGCY7DB8PkgIsYKp975qiufmqog0XBHhgjE-P8Rx1Q/rs:fill:200:200:1/g:no/aHR0cHM6Ly9nYXMxMTEuczMuYW1hem9uYXdzLmNvbS9pbWFnZXMvZTcxYTY4ZmY4NzMzNGEyMmEwMjQ0M2VmMTM4YWVlN2UuanBlZw.webp"
+address: 0:ca13f38afaa91fc94d3c25b3059225f912dc57cc5d3a8f75e727ee23309f2819
+symbol: NEWS
+websites:
+  - "https://www.blockton.news"
+social:
+  - "https://x.com/@blocktonnews"
+  - "https://t.me/blocktonchat"
+  - "https://youtube.com/@blockton"
