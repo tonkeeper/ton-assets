@@ -1,0 +1,10 @@
+name: Luckcoin
+description: Your all-in-one destination for a seamless and powerful user experience on TON. TG - https://t.me/luckcointon
+image: "https://cache.tonapi.io/imgproxy/vTwA5NbWlT85qNDT2Ij8KWs3mS8HxemLIg6iENEEgNA/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXBsby52aXAvaW1hZ2UvY2FjaGUvY2F0YWxvZy81MDI5NTY0MiUyODUlMjktODAweDgwMC5wbmc.webp"
+address: 0:a0ac77844baffb3bb7b5cd8493d6f093deeaf6d92a353c069f266b89c9a12433
+symbol: LUCK
+max_supply: 8000000000
+websites:
+  - "https://luckcointon.com"
+social:
+  - "https://t.me/luckcointon"
