@@ -3315,5 +3315,16 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
+ },
+ {
+  "address": "EQB3oeaBnIYqFbkHphZMnCtOO37Mud5b3NSdL0PAYkgr3Xur",
+  "description": "Mistress is the dominatrix woman of $TON blockchain, spanking the bad boys to make them good boys.",
+  "image": "https://raw.githubusercontent.com/MistressOnTon/Mistress_media/main/Mistress_logo_white.png",
+  "name": "Mistress",
+  "social": [
+	"https://x.com/mistress_ton",
+   	"https://t.me/MistressOnTon"
+  ],
+  "symbol": "MISTRESS"
  }
 ]
