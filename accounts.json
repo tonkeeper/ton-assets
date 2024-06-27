@@ -603,6 +603,21 @@
   "require_memo": true
  },
  {
+  "address": "0:fac8ffcb6f89572a1232d59e91c65909ae408663fd2ceaecd35f35b5e9d670f4",
+  "name": "Bitpin1",
+  "require_memo": true
+ },
+ {
+  "address": "0:c14ce5d772539be26fde315a505a1e0514104e76eef776f0b845e57df0557ddb",
+  "name": "Bitpin2",
+  "require_memo": true
+ },
+ {
+  "address": "0:dd36441bf4aa8a6a6ecfd763efde1eb82dd86bdcfb1456b45ff4b73f87657184",
+  "name": "Bitpin3",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
