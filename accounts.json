@@ -499,7 +499,7 @@
  },
  {
   "address": "0:59b065c5d66261a5317660e96eee476aa6a11b749bdcbe8c0d1f3dbf24200d1c",
-  "name": "OMP Phoenix",
+  "name": "OMPFinex",
   "require_memo": true
  },
  {
@@ -600,6 +600,21 @@
  {
   "address": "0:5d5a830e48214791f4ab5352900c624d3bff3c5efd630196b180158eb789990f",
   "name": "Nobitex",
+  "require_memo": true
+ },
+ {
+  "address": "0:fac8ffcb6f89572a1232d59e91c65909ae408663fd2ceaecd35f35b5e9d670f4",
+  "name": "Bitpin1",
+  "require_memo": true
+ },
+ {
+  "address": "0:c14ce5d772539be26fde315a505a1e0514104e76eef776f0b845e57df0557ddb",
+  "name": "Bitpin2",
+  "require_memo": true
+ },
+ {
+  "address": "0:dd36441bf4aa8a6a6ecfd763efde1eb82dd86bdcfb1456b45ff4b73f87657184",
+  "name": "Bitpin3",
   "require_memo": true
  },
  {
