@@ -9,5 +9,8 @@ In the name of Allah, the Most Gracious, the Most Merciful
 Praise be to Allah, the Lord of the worlds! Peace and blessings of Allah be upon our Prophet Muhammad, his family, his companions, and all those who follow their path!
 "
 address: "EQDC2_raCZddnYm0xx_cmlvf3Q6NNpx3MhzjnpSwRZYNOIoo"
-max_items: 10000000
-social: "https://t.me/islamfinanceBot"
+max_items: 10000000,
+site: https://islamfinance.ru,
+social: 
+- "https://t.me/islamfinanceBot"
+- "https://t.me/islamfinance_ru"
