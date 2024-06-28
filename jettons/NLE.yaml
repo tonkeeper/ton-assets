@@ -1,0 +1,11 @@
+name: NeverLose
+description: Coin of NeverLose.cc
+image: "https://raw.githubusercontent.com/nitrowork/nl/main/logo.png"
+address: 0:fa4189e144d1cea49b7dd3c0cfe5de28836b9b4a58d6893a71c21682e49f992d
+symbol: NLE
+decimals: 9
+websites:
+  - "https://neverlose.cc"
+social:
+  - "https://t.me/neverlosecc"
+  - "https://twitter.com/neverloseoff"
