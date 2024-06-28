@@ -163,6 +163,9 @@
 - address: 0:698675afec4910be322418f8cc35a718b57a36744a852326cf4dff08c720468c
   name: Dogecoin TON
   symbol: DOGE
+- address: 0:f34c3bbe2d62de52003bbd77bc6301b3f4f606289f9ccfe2652990fd4c6557ef
+  name: DOGG TON
+  symbol: DOGG
 - address: 0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110
   name: Donut The Dog
   symbol: DONUT
