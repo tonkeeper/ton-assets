@@ -1,0 +1,12 @@
+name: "Little Flame"
+description: "The hottest coin on TON"
+image: "https://imgur.com/a/mEhqBsM"
+address: EQBoFT-EFTvn5vD2h3zkfczkhMUI70tJJjC6mp54ACemfZ9y
+symbol: FLAME
+max_supply: 1000000000
+decimals: 9
+websites:
+  - "https://flame-coin.com/"
+social:
+  - "https://x.com/TonFlameCoin"
+  - "https://t.me/LittleFlameOfficial"
