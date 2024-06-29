@@ -107,6 +107,7 @@ Name           | Address
 [DHD Coin](https://tonviewer.com/0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e) | EQBCFwW8uFUh-amdRmNY9NyeDEaeDYXd9ggJGsicpqVcHq7B
 [DINJA](https://tonviewer.com/0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3) | EQByLZOaBbpr9EwNonXKEfkkZL1viNsYHezxw5CVK4Bh0zEb
 [DOBERCOIN](https://tonviewer.com/0:667170b2b5cf590dcc9fa21f455cd36f4a4a6c97f543ec6c23921054d611754b) | EQBmcXCytc9ZDcyfoh9FXNNvSkpsl_VD7GwjkhBU1hF1S_dw
+[DOGG TON](https://tonviewer.com/0:f34c3bbe2d62de52003bbd77bc6301b3f4f606289f9ccfe2652990fd4c6557ef) | EQDzTDu-LWLeUgA7vXe8YwGz9PYGKJ-cz-JlKZD9TGVX74cG
 [DOGWIFHOOD](https://tonviewer.com/0:2e728e5910f801d7d7d24e8ec49ad2d3272b2b2b16eee8cfd73850f059088d8c) | EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ
 [DONALDTRUMP](https://tonviewer.com/0:8249d971df52af8dbb16fab1dd82c2d22d476b8fae1a648e434c104731e64856) | EQCCSdlx31KvjbsW-rHdgsLSLUdrj64aZI5DTBBHMeZIVulP
 [DYNYA](https://tonviewer.com/0:ff1132fe490445c2ec48203c2fa3c0a2c2e54af68ee55e07cd5544b3f6d96518) | EQD_ETL-SQRFwuxIIDwvo8CiwuVK9o7lXgfNVUSz9tllGMz9
