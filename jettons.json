@@ -3330,5 +3330,15 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+ {
+ 
+    "address": "EQAwkqdon_pV8DThIM4x-8E9F97DTjmIOrpbjMk8altaLDQb",
+    "description": "In memory of the day cat killed all my pigeons",
+    "image": "https://github.com/adabasj/myt/blob/main/IMG_6536.png",
+    "name": "Killed Pigeon",
+    
+    "symbol": "KPGN"
+    
+   }
 ]
