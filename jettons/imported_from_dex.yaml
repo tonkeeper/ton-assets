@@ -355,6 +355,9 @@
 - address: 0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff
   name: LUPA
   symbol: LUPA
+- address: 0:5ae8ea1f738bd06755d92d361191b5f8a965160427f4b05060a3491dc5d970ea
+  name: META
+  symbol: M5
 - address: 0:7d0f5fd1a20ea2b58b8da0b908526b239a417b854fd4512cc5904c22bfa66c78
   name: MAMA
   symbol: MAMA
@@ -586,6 +589,9 @@
 - address: 0:3afe1b0df89dcc98b6a824f31437e83688de1f1bb487b13403969b89ef22640a
   name: Rio Global Invest Club
   symbol: RIC
+- address: 0:213d4338a3c4052e88fd4fa9769ae5033f117a687dcd7a8d2bbd6654c706c393
+  name: RING
+  symbol: RING
 - address: 0:a785ec1fa456e5cda13ea50a57c4749180dcfb47f62b175628012f07169c1f1f
   name: Roosty
   symbol: ROOSTY
