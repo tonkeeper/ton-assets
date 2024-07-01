@@ -161,6 +161,7 @@ Name           | Address
 [GPU — M2M coin](https://tonviewer.com/0:882d632d4eefd2845bb458f667671f527c25fbd1d4f2a41112b9b28c6543d039) | EQCILWMtTu_ShFu0WPZnZx9SfCX70dTypBESubKMZUPQOd53
 [GRIMACE COIN](https://tonviewer.com/0:ce0e4a5fc59e23a1edd1c417248e0bc20901fe4d7c68cdb3704cea0252838c09) | EQDODkpfxZ4joe3RxBckjgvCCQH-TXxozbNwTOoCUoOMCfX8
 [GROK](https://tonviewer.com/0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c) | EQA2IyKaO7fKV37GxQGbRY_yZdE47ZdQXbOnX55OWhCwbL6H
+[GuruTom Token](https://tonviewer.com/0:a1ec641b424fd733f351c9a937272967c73105b9139a0a1f19eb9700d385a84d) | EQCh7GQbQk_XM_NRyak3JylnxzEFuROaCh8Z65cA04WoTXsM
 [Galaxy Online](https://tonviewer.com/0:65b22736d7ad2c703f6b697a1aeb583046f070debb1e2f6f8aeb9779635717a7) | EQBlsic2160scD9raXoa61gwRvBw3rseL2-K65d5Y1cXpyzK
 [Gem](https://tonviewer.com/0:7c3b4249fa1a9e0c0a830b5386eb33d805fa55f90cf03de77492971b20b5ec98) | EQB8O0JJ-hqeDAqDC1OG6zPYBfpV-QzwPed0kpcbILXsmAxG
 [Gentleman](https://tonviewer.com/0:7a425d4913b1ead09baba292d8b1c85cbbe58db76bcc996176fbc98432b2baf2) | EQB6Ql1JE7Hq0JuropLYschcu-WNt2vMmWF2-8mEMrK68nJn
