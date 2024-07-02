@@ -34,6 +34,18 @@
   name: "OKX 5"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "UQAk2h57jakB5bPdD5jDl_625aXqSDGVqLa9BoLPLFMnrnbQ"
+  name: "OKX 6"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "EQB_LoTHI9i2trGqz4EMjCarI8IgIrRkuHEEstMGWw6nC3Nw"
+  name: "OKX 7"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "EQCFTsRSHv1SrUO88ZiOTETr35omrRj6Uav9toX8OzSKXGkS"
+  name: "OKX 8"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
@@ -44,6 +56,10 @@
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
 - address: "UQAce9aQ9Pk96Lk9tXkBKdq2WSbG4fybVzgAidtVKVFmMHCX"
   name: "MEXC 2"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
+- address: "EQDYh9Di0cT8QSbnHJcNM6sYlpQAAOrnA7sats7Mgwd3497j"
+  name: "MEXC 3"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/mexc_288.svg"
 - address: "EQB5lISMH8vLxXpqWph7ZutCS4tU4QdZtrUUpmtgDCsO73JR"
@@ -171,7 +187,7 @@
   name: "Bitfinex"
   require_memo: true  
 - address: "UQBZsGXF1mJhpTF2YOlu7kdqpqEbdJvcvowNHz2_JCANHCo7"
-  name: "OMP Phoenix"
+  name: "OMPFinex"
   require_memo: true  
 - address: "UQAscR8-n759ngxVUOmPDOzue7CfBt_xIr-bi7kex_yd5CQr"
   name: "SportsBet.io"
@@ -193,4 +209,52 @@
   require_memo: true
 - address: "UQDN9_DXwJA28GQnLjxCntVwvknvKes6c1tku8F5FQc3Mhut"
   name: "Bitget"
+  require_memo: true
+- address: "EQDpwKJP-qaqTyKIkOca6VUL_FOmxX5kO8McJA4YcnrBzlwi"
+  name: "Bitget2"
+  require_memo: true
+- address: "EQAzZQL6-D71tTLTFbpxRQtmHJDoP85k2Lwf0r9kLzVV2VRy"
+  name: "Bitget3"
+  require_memo: true
+- address: "EQCzCMf5tPWW9iUBdYhZclSYcbBccO02Gf1ak5QB7qly5Gsl"
+  name: "Bitget4"
+  require_memo: true
+- address: "EQDi0d8gazctsfO4kOYNGFtnqgyfG2tv9goFCRyMAbQKxMA3"
+  name: "Bitget5"
+  require_memo: true
+- address: "EQB6DclNqfSLlo37h7441Pq3KGKI23oE0wgf7uF3N22QicZ7"
+  name: "Bitget6"
+  require_memo: true
+- address: "EQCHhe9euw_STGkR0Q9DwAlh6XSPpUKXoaxRfjxf52uwvmGB"
+  name: "Bitget7"
+  require_memo: true
+- address: "EQAhO2gEwgghNaSoA9qOOzDP7VGu6a8q0hADNLf0cR07zMQr"
+  name: "Bitget8"
+  require_memo: true
+- address: "EQBXPf6ZSQoEFwPpd-RyQTXFuL6gvqZ4OWEiR0UcqdXEywxy"
+  name: "Bitget9"
+  require_memo: true
+- address: "EQDeJRmlJ95-HUwQKL23TgIrKKbjcOT-w_wn2NlxMI-Zu6i2"
+  name: "Bitget10"
+  require_memo: true
+- address: "EQAGR25YDiUNCr7Fw2WnEYM0g8WB1XuQi-N9Vr2w4zjDEhg5"
+  name: "Bitget11"
+  require_memo: true
+- address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
+  name: "Binance"
+  require_memo: true
+- address: "UQCi-sp63-vVxZcBCNH3kGXO8ysMFD-xNIkGa2hM3X7pXCoH"
+  name: "BitMart"
+  require_memo: true
+- address: "UQBdWoMOSCFHkfSrU1KQDGJNO_88Xv1jAZaxgBWOt4mZDwmZ"
+  name: Nobitex
+  require_memo: true
+- address: "UQD6yP_Lb4lXKhIy1Z6RxlkJrkCGY_0s6uzTXzW16dZw9I7C"
+  name: Bitpin1
+  require_memo: true
+- address: "UQDBTOXXclOb4m_eMVpQWh4FFBBOdu73dvC4ReV98FV920B8"
+  name: Bitpin2
+  require_memo: true
+- address: "UQDdNkQb9KqKam7P12Pv3h64Ldhr3PsUVrRf9Lc_h2VxhPeC"
+  name: Bitpin3
   require_memo: true
