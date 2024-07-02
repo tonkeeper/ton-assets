@@ -1,0 +1,6 @@
+address: "0:0c7456832e4faa9aa1f0930d2117b086ceeaf9002c970391192b2bfcf1bba956",
+name: "LP Token for OLX-USD₮",
+symbol: "OLX-USD₮ LP",
+decimals: "9",
+image: "https://cache.tonapi.io/imgproxy/_9euAm-yN3X4Wojbn2sZsGpuOiXv2MMEH6JxlDbXmI4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9scC5zdG9uLmZpL2ltZy8wOjBjNzQ1NjgzMmU0ZmFhOWFhMWYwOTMwZDIxMTdiMDg2Y2VlYWY5MDAyYzk3MDM5MTE5MmIyYmZjZjFiYmE5NTYucG5n.webp",
+description: "Liquidity pool token for OLBITX and Tether USD on STON.fi DEX"
