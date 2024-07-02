@@ -1,0 +1,9 @@
+name: LADA
+description: token dedicated to the famous Russian car manufacturer
+image: "https://ibb.co/SRNdv4g"
+address: 0:8df13a4fb90b9de924dddf88f44780d8c9276be7a2943b64819c2c6fee9757c1
+symbol: LADA
+max_supply: 1,000,000,000
+social:
+  - "https://t.me/LadaTon_Group"
+  - "https://x.com/Lada_Ton"
