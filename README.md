@@ -177,6 +177,7 @@ Name           | Address
 [Grabscape game token](https://tonviewer.com/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
 [Grabscape governance token](https://tonviewer.com/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
 [Gram](https://tonviewer.com/0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198) | EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O
+[Great Minds Classic](https://tonviewer.com/0:9be0630172871273bb1e19eaa8c296f8391546a6cb3a7873899ee8b6eab02008) | EQCb4GMBcocSc7seGeqowpb4ORVGpss6eHOJnui26rAgCJ6K
 [Grouche coin](https://tonviewer.com/0:2eeeac5f560320d2da67a2c06901160e1bef96d4452e5ffe47fef390b5356e1e) | EQAu7qxfVgMg0tpnosBpARYOG--W1EUuX_5H_vOQtTVuHnrn
 [HEDGE coin](https://tonviewer.com/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
 [Hachiko Inu](https://tonviewer.com/0:e362287713324c235561d00b49e6a5a8fe34ea69d3d0820443df7fb12e0c4128) | EQDjYih3EzJMI1Vh0AtJ5qWo_jTqadPQggRD33-xLgxBKBLf
