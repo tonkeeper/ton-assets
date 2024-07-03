@@ -78,6 +78,20 @@
   ]
  },
  {
+  "address": "EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH",
+  "description": "Token of the future",
+  "image": "https://raw.githubusercontent.com/EternityCoin/Batymchanin-coin/main/LOGOGOOD2.png",
+  "name": "Batymchanin Coin",
+  "social": [
+   "https://t.me/Batymchanin",
+   "https://vk.com/batymchanin"
+  ],
+  "symbol": "BATYM",
+  "websites": [
+   "https://vk.link/batymchanin"
+  ]
+ },
+ {
   "address": "0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e",
   "decimals": 9,
   "description": "PIXEL [BITPIX] is a token based on the decentralized and high-speed blockchain technologies of The Open Network.",
@@ -418,6 +432,20 @@
   "symbol": "GLX",
   "websites": [
    "https://galaxyonline.io/"
+  ]
+ },
+ {
+  "address": "0:9be0630172871273bb1e19eaa8c296f8391546a6cb3a7873899ee8b6eab02008",
+  "description": "Great Minds was the first ever sticker set released by Telegram - it consisted of some of the world's most influential people, past and present.  t.me/greatmindclassic",
+  "image": "https://universal-1.github.io/images/gmc-logo.webp",
+  "name": "Great Minds Classic",
+  "social": [
+   "https://t.me/greatmindclassic",
+   "https://x.com/GreatMindsTON"
+  ],
+  "symbol": "GMC",
+  "websites": [
+   "https://greatmindsclassic.vip/"
   ]
  },
  {
