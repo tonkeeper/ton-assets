@@ -78,6 +78,20 @@
   ]
  },
  {
+  "address": "EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH",
+  "description": "Token of the future",
+  "image": "https://raw.githubusercontent.com/EternityCoin/Batymchanin-coin/main/LOGOGOOD2.png",
+  "name": "Batymchanin Coin",
+  "social": [
+   "https://t.me/Batymchanin",
+   "https://vk.com/batymchanin"
+  ],
+  "symbol": "BATYM",
+  "websites": [
+   "https://vk.link/batymchanin"
+  ]
+ },
+ {
   "address": "0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e",
   "decimals": 9,
   "description": "PIXEL [BITPIX] is a token based on the decentralized and high-speed blockchain technologies of The Open Network.",
