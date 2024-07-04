@@ -1,3 +1,6 @@
+- address: 0:9b48bb73351f4b1e294510273439c641cf76a9e3363353a811e040ba119a08cc
+  name: 'Russian Blue '
+  symbol: $Blu
 - address: 0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4
   name: The Resistance Cat
   symbol: $RECA
@@ -67,6 +70,9 @@
 - address: 0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81
   name: BOOBA Coin
   symbol: BOOBA
+- address: 0:f197e7a28ba55840420933413608da754a16c6a7c016a7ef987f2936951661be
+  name: Bos Pump
+  symbol: BOS
 - address: 0:609599c3e670a5202dd086acacb3a327e53824f4dcca91af4c9c1a5f2565f27b
   name: Botfather
   symbol: BOT
@@ -88,6 +94,9 @@
 - address: 0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d
   name: Burncoin
   symbol: BURN
+- address: 0:83ec74343293a7a0d2a9225bbd984651f894bb6a87b850e3875c110195056dda
+  name: a TON of MILADYS
+  symbol: CABAL
 - address: 0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5
   name: Cash AMA Radio
   symbol: CASH
@@ -97,6 +106,9 @@
 - address: 0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e
   name: CAVIAR COIN
   symbol: CAVI
+- address: 0:697c3e6ae1a1601d4d7b2af34f37f3f440ecb8d4c3888f64f0197d1b6c0cf8e0
+  name: Communist Cat
+  symbol: CCAT
 - address: 0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad
   name: swap.coffee
   symbol: CES
@@ -127,6 +139,9 @@
 - address: 0:3d75ac8429f96b2fec087fe18a1a2ce3dbaa6f5f4402231c26460ab383953f73
   name: Coffee
   symbol: COFE
+- address: 0:581525de91f9a95191c14f079d9a03420ebf6461ac7a0d85c9995d1f70149034
+  name: Comrade cat
+  symbol: COMCAT
 - address: 0:dd2a4cce2a9b3b2252b416fe042661c322f39943b2edb026bebdee2a269a2917
   name: CookieToken
   symbol: COOKIE
@@ -256,6 +271,9 @@
 - address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
   name: Glint Coin
   symbol: GLINT
+- address: 0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425
+  name: GLITCH
+  symbol: GLITCH
 - address: 0:7d7b64496899d7fed00b0c14b221be688f460724b6bc16772c17ee4c8d7a256d
   name: GM
   symbol: GM
@@ -739,6 +757,15 @@
 - address: 0:e73687f5ca2840fc9b5773bd006490a0c39fdbd6120a90919c7415d2e4afa9dd
   name: Tonbet Token
   symbol: TBT
+- address: 0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713
+  name: TON Cat
+  symbol: TCAT
+- address: 0:f85d35d625ec2e36d9e12864e465a3f4c2c2ef4323609155dc3cb5b9ccf4d077
+  name: TDOG
+  symbol: TDOG
+- address: 0:a1d37d53a6846d76bc71af4289521f209c49096d5de2370f502be75a1f4754f4
+  name: Tektoniks
+  symbol: TEKTON
 - address: 0:cdd754d33d3c70ff148f26cff3cabcc84669782570e5a6902663326afbeb66a4
   name: tepe
   symbol: TEPE
@@ -862,18 +889,27 @@
 - address: 0:e68ff8bb54c5ecb7317d7538103323cacaf408ca7603d0a27ba48f2fd4b538d3
   name: Wonnie
   symbol: WON
+- address: 0:c055e4f32616921d529f7912f2b4c990ea713c0b965173e932ffcd53850d8016
+  name: woosh
+  symbol: WOOSH
 - address: 0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba
   name: What The
   symbol: WTF
 - address: 0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602
   name: xCryproMarket
   symbol: XCM
+- address: 0:157c463688a4a91245218052c5580807792cf6347d9757e32f0ee88a179a6549
+  name: xRocket Token
+  symbol: XROCK
 - address: 0:8bea369396e008ec44ff26067784f57d525f0c5cfda665684c42d18ccddf9c36
   name: Ptah
   symbol: Y
 - address: 0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26
   name: Yoken
   symbol: YO
+- address: 0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72
+  name: Meme Inc
+  symbol: YOBA
 - address: 0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1
   name: povel durev
   symbol: durev
