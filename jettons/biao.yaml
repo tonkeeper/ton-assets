@@ -1,0 +1,11 @@
+name: BiaoQing on Ton
+description: Biao Qing the most popular meme in the East now on the Ton Blockchain
+image: "https://github.com/juniorsilver/biaoqing/blob/main/biao.jpg"
+address: EQCc8zaJJnsRfeqF_8Bo91g6kIbuIZKpjAhSH7e2yDGr7Lcz
+symbol: BIAO
+decimals: 9
+websites:
+  - "https://biaoton.xyz"
+social:
+  - "https://t.me/biao_qing_ton"
+  - "https://x.com/biaoqing_ton"
