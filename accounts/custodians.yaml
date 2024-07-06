@@ -274,3 +274,6 @@
 - address: "UQDdNkQb9KqKam7P12Pv3h64Ldhr3PsUVrRf9Lc_h2VxhPeC"
   name: Bitpin3
   require_memo: true
+- address: "UQC9lJcHSNX42IaZq0MV7uGOd3wwd5QVncraXsmh_kVrxX9K"
+  name: Sanrio-Lab
+  require_memo: true
