@@ -120,6 +120,7 @@ Name           | Address
 [Crumb Coin](https://tonviewer.com/0:a8641676cfd02edddcc334d8bc5e407186e21a9da0f511bdbfa05444610cb720) | EQCoZBZ2z9Au3dzDNNi8XkBxhuIanaD1Eb2_oFREYQy3IEBI
 [Cubigator](https://tonviewer.com/0:9748c357dce0798cf80e2641338d8866ec53817e4037720ee9681a93630cd7ae) | EQCXSMNX3OB5jPgOJkEzjYhm7FOBfkA3cg7paBqTYwzXrjIi
 [DAOLegion](https://tonviewer.com/0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a) | EQDtqSANqK4LqgDk4f_q9mIvOaVy212ulavP9em2eYwKOiJw
+[Darts Coin](https://tonviewer.com/0:56391a57b1002d127565e530261179a43c3f154f08cbf105a35858ea107aacdd) | EQBWORpXsQAtEnVl5TAmEXmkPD8VTwjL8QWjWFjqEHqs3Xei
 [DEANON](https://tonviewer.com/0:53507e9c768ce9d935ae8c0a9a98d8e0982ad7715ec5ada43a2a2783bbba58b0) | EQBTUH6cdozp2TWujAqamNjgmCrXcV7FraQ6KieDu7pYsMjm
 [DEFI HUNTERS DAO](https://tonviewer.com/0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d) | EQCW5g1evnQN2OZZEVe-23aSvEsgPauWZlF27ZIz5REhnWRy
 [DEPOSIT](https://tonviewer.com/0:5cf8be42cf344a991dfe4dd3b0066e25f97c8977126ddc77c022bfea32229a07) | EQBc-L5CzzRKmR3-TdOwBm4l-XyJdxJt3HfAIr_qMiKaB7WM
