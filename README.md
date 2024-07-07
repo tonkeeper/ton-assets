@@ -78,6 +78,7 @@ Name           | Address
 [BEETON](https://tonviewer.com/0:91535482df135ffebdf7abc359ccbba0866bdd136d494582198f8a1129475129) | EQCRU1SC3xNf_r33q8NZzLughmvdE21JRYIZj4oRKUdRKRDb
 [BEGEMOTIK](https://tonviewer.com/0:fcfeba39b490f25a6d1abcf21379f67ef5993343d191bc068a58b5f54a40ca4c) | EQD8_ro5tJDyWm0avPITefZ-9ZkzQ9GRvAaKWLX1SkDKTGUt
 [BEN](https://tonviewer.com/0:2293c76d850d8d85e46592f9c24493ee0dc9869a2b5379910bf5d36429f4327d) | EQAik8dthQ2NheRlkvnCRJPuDcmGmitTeZEL9dNkKfQyffjo
+[BER THE BEAR](https://tonviewer.com/0:7f2bd4cc4bd8e563515351f5b786904279da98b0c77e81c8db5a89307b7e6d09) | EQB_K9TMS9jlY1FTUfW3hpBCedqYsMd-gcjbWokwe35tCWYW
 [BIG BALLS BIRDS](https://tonviewer.com/0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e) | EQCxXcLuDo7OLyks-iGODGCpPTi5G9Yhq3DVwpjTV53xfuOu
 [BOLTWIFSOCK](https://tonviewer.com/0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c) | EQARb2CYeCT73K-a_cWXycgbcWlleEx4fq4RCbZ7cWBtPN8s
 [BOOBA Coin](https://tonviewer.com/0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81) | EQCavQv8vsZ1waQnqz3lmGEw2HkUM2clUrzjJotwpwzrgcx4
