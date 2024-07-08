@@ -142,7 +142,23 @@
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bit_com_288.svg"
 - address: "EQChN26L-fJm7HxrEc5uXNAqm9o2O56oiKLiOdI4NXK8mm96"
-  name: "AvanChange"
+  name: "AvanChange 1"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg"
+- address: "UQChN26L-fJm7HxrEc5uXNAqm9o2O56oiKLiOdI4NXK8mjK_"
+  name: "AvanChange 2"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg"
+- address: "UQDGHWeh29RfWR4Q7at50Ek-1UWY3nz6_C3TCdSYklQdft88"
+  name: "AvanChange 3"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg"
+- address: "UQBssB599j99ocQo1LtGCJGxu8xdem-RgFyCA2zPlnpUdP_W"
+  name: "AvanChange 4"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg"
+- address: "UQDnoBJ_tLtljEvK0u0V50apyM8UbPYP3ByBWc3egOiMdWxQ"
+  name: "AvanChange 5"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg"
 - address: "EQAYgkeNrvG37SAMu9wgG9TtCyTC5fGkx8Fa6347GnWRk0v_"
@@ -243,6 +259,8 @@
 - address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
   name: "Binance"
   require_memo: true
+- address: "UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl"
+  name: "Binance Hot Wallet"
 - address: "UQCi-sp63-vVxZcBCNH3kGXO8ysMFD-xNIkGa2hM3X7pXCoH"
   name: "BitMart"
   require_memo: true

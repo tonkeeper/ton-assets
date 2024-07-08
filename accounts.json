@@ -425,7 +425,31 @@
  {
   "address": "0:a1376e8bf9f266ec7c6b11ce6e5cd02a9bda363b9ea888a2e239d2383572bc9a",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
-  "name": "AvanChange",
+  "name": "AvanChange 1",
+  "require_memo": true
+ },
+ {
+  "address": "0:a1376e8bf9f266ec7c6b11ce6e5cd02a9bda363b9ea888a2e239d2383572bc9a",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
+  "name": "AvanChange 2",
+  "require_memo": true
+ },
+ {
+  "address": "0:c61d67a1dbd45f591e10edab79d0493ed54598de7cfafc2dd309d49892541d7e",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
+  "name": "AvanChange 3",
+  "require_memo": true
+ },
+ {
+  "address": "0:6cb01e7df63f7da1c428d4bb460891b1bbcc5d7a6f91805c82036ccf967a5474",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
+  "name": "AvanChange 4",
+  "require_memo": true
+ },
+ {
+  "address": "0:e7a0127fb4bb658c4bcad2ed15e746a9c8cf146cf60fdc1c8159cdde80e88c75",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
+  "name": "AvanChange 5",
   "require_memo": true
  },
  {
@@ -591,6 +615,10 @@
   "address": "0:f99b14600ae44d2f12b178e8c6eabd78892ae82c5e45b6898f9deb7eb203f9c4",
   "name": "Binance",
   "require_memo": true
+ },
+ {
+  "address": "0:8e91b50381c36dd42accdb51f5cb5d96848568b4924f8079b1a5ae7e10f43eda",
+  "name": "Binance Hot Wallet"
  },
  {
   "address": "0:a2faca7adfebd5c5970108d1f79065cef32b0c143fb13489066b684cdd7ee95c",
