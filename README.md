@@ -98,6 +98,7 @@ Name           | Address
 [Bos Pump](https://tonviewer.com/0:f197e7a28ba55840420933413608da754a16c6a7c016a7ef987f2936951661be) | EQDxl-eii6VYQEIJM0E2CNp1ShbGp8AWp--Yfyk2lRZhvut2
 [Botfather](https://tonviewer.com/0:609599c3e670a5202dd086acacb3a327e53824f4dcca91af4c9c1a5f2565f27b) | EQBglZnD5nClIC3Qhqyss6Mn5Tgk9NzKka9MnBpfJWXye9p4
 [Buffy](https://tonviewer.com/0:716d0cad2fae30b93cf9d4a72938b7530d23a1aab5752da3ca0eb84ea8b077bf) | EQBxbQytL64wuTz51KcpOLdTDSOhqrV1LaPKDrhOqLB3v4qj
+[Bullcoin](https://tonviewer.com/0:d650ad035027eb6c5452ca4021bafa0816b93e9ea720eec67b962439ddb0531d) | EQDWUK0DUCfrbFRSykAhuvoIFrk-nqcg7sZ7liQ53bBTHf1K
 [Burncoin](https://tonviewer.com/0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d) | EQDNJzbNKA8Ix2X7Tv1_jxdCqehPQgJaNbisoIkSq5srnfLs
 [CARDIFY Coin](https://tonviewer.com/0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc) | EQAdz16aPWCmAYldTiX_g-NRzT-spbN8tCk9dJIHfAiC3L4p
 [CAT LESHA](https://tonviewer.com/0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d) | EQA5-G7djF86kQlspnEu4RI2HN-zgu81DcE_ap0yuA84fa1x
