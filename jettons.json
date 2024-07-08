@@ -113,6 +113,20 @@
   "symbol": "BOLT"
  },
  {
+  "address": "0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3",
+  "description": "The first baby meme coin on TON with a utility that's first of its kind, a multisig wallet as a telegram bot with free access to Baby Redo holders.",
+  "image": "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/bredo.jpg",
+  "name": "BabyRedo",
+  "social": [
+   "https://t.me/BabyResistanceDogTon",
+   "https://twitter.com/BabyRedoOnTon"
+  ],
+  "symbol": "Bredo",
+  "websites": [
+   "https://babyredoton.com"
+  ]
+ },
+ {
   "address": "0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7",
   "description": "Baby Yoda coin was born out of Egor's creativity and the imagination of the Telegram community.  Its arrival resonates deeply with crypto enthusiasts, demonstrating the substantial impact even a modest token could have in the expansive world of blockchain.",
   "image": "https://raw.githubusercontent.com/maxsoloma/images/main/BabyYoda.jpg",

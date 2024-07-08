@@ -617,6 +617,10 @@
   "require_memo": true
  },
  {
+  "address": "0:8e91b50381c36dd42accdb51f5cb5d96848568b4924f8079b1a5ae7e10f43eda",
+  "name": "Binance Hot Wallet"
+ },
+ {
   "address": "0:a2faca7adfebd5c5970108d1f79065cef32b0c143fb13489066b684cdd7ee95c",
   "name": "BitMart",
   "require_memo": true
