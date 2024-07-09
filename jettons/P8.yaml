@@ -1,0 +1,11 @@
+name: Piece of Eight
+description: "Currency of the game TON Pirate Kings"
+image: "https://raw.githubusercontent.com/ChainCliq/chaincliq.github.io/main/King%20Pirates%20coin_255x255px_PNG.png"
+address: "EQDolQS5WtcWyqZeO75-kospS8Pjx81VJY83nVBgLWNCrebh"
+symbol: P8
+decimals: 9
+websites:
+  - "https://tonpiratekings.com/"
+social: 
+  - "https://t.me/TONPirateKings_bot"
+  - "https://t.me/TONPirateKings"
