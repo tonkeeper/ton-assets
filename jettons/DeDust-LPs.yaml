@@ -34,4 +34,6 @@
 - name: LP Token for GLINT-TON
   address: "0:102c7d53108932e26e2b04c48c7903f21f8129758d210a25bd00d5774557631d"
   symbol: GLINT-TON
-
+- name: DeDust Pool: Kuromi/WTON
+  address: "0:a89c3a9f36cfdf8ae1718100f88874a59d8c13720e525252b19a2166abdf6254"
+  symbol: LP
