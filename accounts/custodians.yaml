@@ -259,6 +259,8 @@
 - address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
   name: "Binance"
   require_memo: true
+- address: "UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl"
+  name: "Binance Hot Wallet"
 - address: "UQCi-sp63-vVxZcBCNH3kGXO8ysMFD-xNIkGa2hM3X7pXCoH"
   name: "BitMart"
   require_memo: true
