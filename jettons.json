@@ -649,6 +649,14 @@
   ]
  },
  {
+  "address": "EQCnNNyZYbYUZKWD_D7zXvwsY9ZpDJDNyU-SjN6R9Dj5mdbj",
+  "decimals": 9,
+  "description": "Maybe one day, I will be able to find true friends, and experience happiness and sadness together with them, instead of always being alone. Will there be such a possibility in the future?",
+  "image": "https://i.postimg.cc/T1csSC1j/Kuromi.png",
+  "name": "Kuromi",
+  "symbol": "Kuromi"
+ },
+ {
   "address": "0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0",
   "description": "Laika is one of the oldest memecoins on TON, celebrating and honoring the first dog sent to space. Distributed through airdrops, don't buy expecting financial returns.",
   "image": "https://raw.githubusercontent.com/LaikaToTheMoon/Laika/main/LaikaResized.png",
