@@ -583,6 +583,9 @@
 - address: 0:41ed158ed2ace8e898629172e398a25cf35212e094747327396cf00bfe1d061a
   name: Portal Network Token
   symbol: POE
+- address: 0:b6601693f6282ed212e7cf5a4f5ea22655c273773d095a4aa7e414d17f603d87
+  name: Pogo
+  symbol: POGO
 - address: 0:bc5e450459be9bcdbcc4f5e55a012a0a502c9803f0944002c6135e635889c4aa
   name: PONKE TON
   symbol: PONKE
