@@ -52,6 +52,7 @@ Name           | Address
 
 Name           | Address
 ---------------|-----------
+Kuromi         | EQCnNNyZYbYUZKWD_D7zXvwsY9ZpDJDNyU-SjN6R9Dj5mdbj
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
 [$TON Mixer](https://tonviewer.com/0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5) | EQAdFbynSUlzIlh_I4fXuYaer3rvY0TG0BK-NQZ-Y871pZoM
 [1PLAYER TOKEN](https://tonviewer.com/0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c) | EQB64g1YNILqmPFdjG1_uxWqCEP0VY141Y2pP0L1YDBdTKQ3
@@ -218,6 +219,7 @@ Name           | Address
 [Kaif](https://tonviewer.com/0:9bc8bb619440838e3abc2854470b3f54a771efefdd7b94fe00888f4a1aa71ca1) | EQCbyLthlECDjjq8KFRHCz9Up3Hv7917lP4AiI9KGqccoSFK
 [Kartoshka](https://tonviewer.com/0:5f97fa738bcb7f7d85c9132819a33f1c21dd6c7639cf4ec069bea8878e08174b) | EQBfl_pzi8t_fYXJEygZoz8cId1sdjnPTsBpvqiHjggXS3Ep
 [Kote Coin](https://tonviewer.com/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
+[Kuromi](https://tonviewer.com/0:a734dc9961b61464a583fc3ef35efc2c63d6690c90cdc94f928cde91f438f999) | EQCnNNyZYbYUZKWD_D7zXvwsY9ZpDJDNyU-SjN6R9Dj5mdbj
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
 [LLAMA](https://tonviewer.com/0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067) | EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j
 [LP Token for AMBR-oUSDC](https://tonviewer.com/0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97) | EQA_hgEAWEXpuJr_56E1mcjHrDluiE_LkpV4Rr6BhILMl9an
