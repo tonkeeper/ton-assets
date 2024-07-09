@@ -1,8 +1,12 @@
-name: Cryptodickbutt
-description: Просто самая топовая коллекция в сети ТОН.
-address: "0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf"
-max_items: 128
+name: LoongHeart
+description: Each dragon in the Loong Heart NFT collection is meticulously designed, blending modern technology with ancient Eastern culture. From the dazzling glow of golden dragon scales to the profound and mysterious backgrounds, every detail is carefully crafted to ensure an unparalleled visual and cultural experience for the owner. This collection is not just about ownership; it is about possessing a digital asset that holds both legendary and artistic value.
+
+This series provides holders with a platform to explore and showcase the culture of Chinese dragons (Loong), with each dragon telling its unique story and symbolizing power, wisdom, and good fortune. By owning a Loong Heart NFT, you become part of a mystical narrative, experiencing the perfect fusion of ancient legends and contemporary technology.
+
+Before our NFT game goes live, the primary utility of the Loong NFTs is to enable holders to mine Loong Coins (LBC) for free and exchange them for any token on any decentralized exchange at any time. The first 10,000 minted NFTs will have special attributes, unlocking unique game features and rewards, while subsequent NFTs will only have basic mining capabilities. As the game launches, the Loong NFTs will unlock more functionalities and use cases, becoming powerful assets and tools in your digital journey.
+address: 0:0d2192206752461105e4be54775f92a1e0400e7b5c2e4f40622db88f2ed59374
+max_items: 10000
 websites:
-  - "https://cryptozhopohuy.org"
+  - "https://t.me/loongheart"
 social:
-  - "https://t.me/cryptozhopohuy"
+  - "https://t.me/loongheart"
