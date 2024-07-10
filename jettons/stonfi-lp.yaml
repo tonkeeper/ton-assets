@@ -82,3 +82,9 @@
 - name: LP Token for MC-pTON
   address: "0:a033394315eaf75ea3a7b90a442d778648c06357fe8f59f58b125bda6b7aafd9"
   symbol: MC-pTON LP
+- name: LP Token for Kuromi-USD₮
+  address: "0:3fc783ba2f1e2fc87d08747d8a6ed5a8471e493c3af617d2cd13edfb65209d75"
+  symbol: Kuromi-USD₮ LP
+- name: LP Token for Kuromi-pTON
+  address: "0:0424b5fd8e0a59c6cbad1e97f39ed6fd7adc5cc3abad3a50233068743223edc4"
+  symbol: Kuromi-pTON LP
