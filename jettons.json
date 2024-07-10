@@ -924,6 +924,21 @@
   ]
  },
  {
+  "address": "EQBcDIBsG38XJsPxd4-kdCbhvNwb45ahsgl8OnsUK2kmH2Rt",
+  "description": "Coin RCS - sniping service for tokens and NFTs",
+  "image": "https://3.downloader.disk.yandex.ru/preview/1ec942f08ea6cb8a16327c2b382886d51f4272b5f6e5f5da625392ff3fc48bc3/inf/Q2Irq8fQjUgkx1IV7GQXCV0oe-b0YEBiRvikR0TDmCOQGq5-exMz4irCkgn0DhQT8yzdKidy5D19PNrfWRW_tw%3D%3D?uid=890226574&filename=2024-07-03%2022.40.06.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=890226574&tknv=v2&size=2850x1430",
+  "name": "Roach Coin Sniper",
+  "social": [
+   "http://t.me/daorcs",
+   "https://vk.com/rucryptosquad",
+   "https://x.com/RuCryptoSquad"
+  ],
+  "symbol": "RCS",
+  "websites": [
+   "https://rcsdao.ru"
+  ]
+ },
+ {
   "address": "0:5893d469f238059b113a5c820e88f252c4e6c0c2de837538517533fbb7725085",
   "description": "Get Rebalancer to your portfolio",
   "image": "https://raw.githubusercontent.com/Rebalancer/picture/main/rebalancer%20(2).png",

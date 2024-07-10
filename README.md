@@ -406,6 +406,7 @@ Name           | Address
 [Resistance Trump](https://tonviewer.com/0:6e7822dacd1b40ab0cfa20f4a8caeb4bb4335d6b92be00570ea51ee2a5b18c1e) | EQBueCLazRtAqwz6IPSoyutLtDNda5K-AFcOpR7ipbGMHlWL
 [Riki](https://tonviewer.com/0:eabdd4caa5144eb24d7f888fbc171c75bbb5b9e2346e986ce09f48d0a09498d5) | EQDqvdTKpRROsk1_iI-8Fxx1u7W54jRumGzgn0jQoJSY1bqX
 [Rio Global Invest Club](https://tonviewer.com/0:3afe1b0df89dcc98b6a824f31437e83688de1f1bb487b13403969b89ef22640a) | EQA6_hsN-J3MmLaoJPMUN-g2iN4fG7SHsTQDlpuJ7yJkCgyC
+[Roach Coin Sniper](https://tonviewer.com/0:5c0c806c1b7f1726c3f1778fa47426e1bcdc1be396a1b2097c3a7b142b69261f) | EQBcDIBsG38XJsPxd4-kdCbhvNwb45ahsgl8OnsUK2kmH2Rt
 [Rocket Cats](https://tonviewer.com/0:0704f2f9439d6441632d22d4f76eeb9a0f3d2cfc1ab890dd7be3e44ab65a8ebb) | EQAHBPL5Q51kQWMtItT3buuaDz0s_Bq4kN174-RKtlqOu07o
 [Roosty](https://tonviewer.com/0:a785ec1fa456e5cda13ea50a57c4749180dcfb47f62b175628012f07169c1f1f) | EQCnhewfpFblzaE-pQpXxHSRgNz7R_YrF1YoAS8HFpwfH6XI
 [Rosecoin](https://tonviewer.com/0:5daf96fb72c65b5e10e7439537eb86e92f29477e4f0059cba0f13c21cc231572) | EQBdr5b7csZbXhDnQ5U364bpLylHfk8AWcug8TwhzCMVcvPA
