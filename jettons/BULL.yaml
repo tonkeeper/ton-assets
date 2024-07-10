@@ -1,6 +1,6 @@
 name: Bullcoin
 description: The Bull token will be implemented in the internal market of our game 
-image: " https://github.com/Muvan97/Bull/blob/main/bullcoin.png?raw=true"
+image: "https://raw.githubusercontent.com/Muvan97/Bull/main/bullcoin.png"
 address: EQDWUK0DUCfrbFRSykAhuvoIFrk-nqcg7sZ7liQ53bBTHf1K
 symbol: BULL
 social:
