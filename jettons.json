@@ -916,6 +916,19 @@
   "symbol": "PEPE"
  },
  {
+  "address": "EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK",
+  "description": "POO is a utility-based memecoin launched by the team behind Godex.fi",
+  "image": "https://imagedelivery.net/__7OzTpQdb1LdIHM_a20MQ/57fdfbaf-1a0d-41ef-dadd-835eae931e00/public",
+  "name": "POO by Godex",
+  "social": [
+   "https://t.me/poonews"
+  ],
+  "symbol": "POO",
+  "websites": [
+   "https://godex.fi"
+  ]
+ },
+ {
   "address": "0:0c2a87ce0d1582f1d92ceb6f592ba14df413902e6c2d1d22307b52f4bafb26a2",
   "image": "https://raw.githubusercontent.com/GbGr/the-pixels/main/pxl.png",
   "name": "The Pixels",

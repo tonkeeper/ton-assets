@@ -373,6 +373,7 @@ Name           | Address
 [PIG](https://tonviewer.com/0:f4ec95fb4c45c0536e05a1f8357725a3633fe2daf97d263f259a1c1b0796defc) | EQD07JX7TEXAU24Fofg1dyWjYz_i2vl9Jj8lmhwbB5be_EMj
 [PIXEL](https://tonviewer.com/0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e) | EQB3BZ69feVd7xEXeS2x-HwQhzGAh7Hg6h1eAm4ryA4BLvLf
 [PONKE TON](https://tonviewer.com/0:bc5e450459be9bcdbcc4f5e55a012a0a502c9803f0944002c6135e635889c4aa) | EQC8XkUEWb6bzbzE9eVaASoKUCyYA_CUQALGE15jWInEqla6
+[POO by Godex](https://tonviewer.com/0:c423df36e8cc49985c1541a22e8288ebe1afba72678058e93983ce8774281aa7) | EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK
 [PORK on TON](https://tonviewer.com/0:d03312970845ace082c996dc19297c9e067aabefd7afbf444e011162d8d6a942) | EQDQMxKXCEWs4ILJltwZKXyeBnqr79evv0ROARFi2NapQthS
 [POT](https://tonviewer.com/0:e8ce24adb5067de90251c4744a75ab429b92fd0d12fd2cac9c5dc8e5f113d764) | EQDoziSttQZ96QJRxHRKdatCm5L9DRL9LKycXcjl8RPXZM0N
 [PROTON JETTON](https://tonviewer.com/0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655) | EQDgSR_-4FDlXPfMVefXX1IIXMWBH4YfYV1a_8cJ0XsGVdsf
