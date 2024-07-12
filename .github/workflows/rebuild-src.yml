@@ -13,7 +13,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '27 3 * * *'
+    - cron: '27 * * * *'
 jobs:
   run-aggregator:
     runs-on: ubuntu-latest
