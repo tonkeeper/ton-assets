@@ -19,6 +19,22 @@ Name           | Address
 [TON Believers Fund](https://tonviewer.com/0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7) | EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2
 [Tonstakers](https://tonviewer.com/0:a45b17f28409229b78360e3290420f13e4fe20f90d7e2bf8c4ac6703259e22fa) | EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
 [Tonkeeper battery](https://tonviewer.com/0:dfbd5be8497fdc0c9fcbdfc676864840ddf8ad6423d6d5657d9b0e8270d6c8ac) | EQDfvVvoSX_cDJ_L38Z2hkhA3fitZCPW1WV9mw6CcNbIrH-Q
+[Tonkeeper battery](https://tonviewer.com/0:9b8ab637507230b99de26a55ea6d9cd4fef0cffcaafe2d1f15e835d5f5d38a43) | EQCbirY3UHIwuZ3ialXqbZzU_vDP_Kr-LR8V6DXV9dOKQ8FP
+[Tonkeeper battery](https://tonviewer.com/0:1c06b78eb4c0c014b51308221f6263643746fe7be60b4831a8409051cba0306f) | EQAcBreOtMDAFLUTCCIfYmNkN0b-e-YLSDGoQJBRy6Awb5-J
+[Tonkeeper battery](https://tonviewer.com/0:0bc884e676ba3dcaabe75cea71c38d6691ed0d6a89cfd95d2772c32f7be01262) | EQALyITmdro9yqvnXOpxw41mke0NaonP2V0ncsMve-ASYkcP
+[Tonkeeper battery](https://tonviewer.com/0:f33f5a1e309236c21fd412b9d522e24a6a6ef3745c01f7ec7d731bc0f844c334) | EQDzP1oeMJI2wh_UErnVIuJKam7zdFwB9-x9cxvA-ETDNHCs
+[Tonkeeper battery](https://tonviewer.com/0:e3b375a5f71ea17bec125d3a88f6483575ee909b16010eefed9b64fe9b0d64e5) | EQDjs3Wl9x6he-wSXTqI9kg1de6QmxYBDu_tm2T-mw1k5Vq3
+[Tonkeeper battery](https://tonviewer.com/0:73727a419e7d7f1ae1c455e58ee432f26e3a75b31078f99cedcac403f47619be) | EQBzcnpBnn1_GuHEVeWO5DLybjp1sxB4-ZztysQD9HYZvqIA
+[Tonkeeper battery](https://tonviewer.com/0:d5a60826d1d4f157085d2bc751d037c61f1fe2d55322cd5bc0297456c513dd69) | EQDVpggm0dTxVwhdK8dR0DfGHx_i1VMizVvAKXRWxRPdaXzW
+[Tonkeeper battery](https://tonviewer.com/0:a1809e9a6f64adde7f0f485742968433a621a4f3b5e1c5920a7077d7b63c3411) | EQChgJ6ab2St3n8PSFdCloQzpiGk87XhxZIKcHfXtjw0ESn_
+[Tonkeeper battery](https://tonviewer.com/0:c6f5916443f6f707139b108edce317ea52a8c4c5e5afaf9a3c6e93d64685d95d) | EQDG9ZFkQ_b3BxObEI7c4xfqUqjExeWvr5o8bpPWRoXZXRbw
+[Tonkeeper battery](https://tonviewer.com/0:695a70302a23c2b4a1b987a85efa97ecbb9d1595e6f3fe95259290e04b54cf1f) | EQBpWnAwKiPCtKG5h6he-pfsu50Vlebz_pUlkpDgS1TPHy97
+[Tonkeeper battery](https://tonviewer.com/0:3bd3aad670168c4b1c6ec9bd29fdd65b139670b71d39c653fb5882430e1db58e) | EQA706rWcBaMSxxuyb0p_dZbE5Zwtx05xlP7WIJDDh21jvlD
+[Tonkeeper battery](https://tonviewer.com/0:2fa8b698bd32c65e8c936341804a7acdea1f92e3d366be4b0e243debc3dc1260) | EQAvqLaYvTLGXoyTY0GASnrN6h-S49NmvksOJD3rw9wSYKjz
+[Tonkeeper battery](https://tonviewer.com/0:463b36b05b642dcd8e7892796b4bf3e5aa67f1c73eec76d4be6fc2e0bcddb391) | EQBGOzawW2QtzY54knlrS_Plqmfxxz7sdtS-b8LgvN2zkUP6
+[Tonkeeper battery](https://tonviewer.com/0:b6eacb041642f30b424d2f6f58795e6e932acefffa779326f1c256347820b4cd) | EQC26ssEFkLzC0JNL29YeV5ukyrO__p3kybxwlY0eCC0zUsI
+[Tonkeeper battery](https://tonviewer.com/0:87116a10bfc9cc340b837eb03b059ee162aaef9b6fa22dc9e435b3e73a173df9) | EQCHEWoQv8nMNAuDfrA7BZ7hYqrvm2-iLcnkNbPnOhc9-UQi
+[Tonkeeper battery](https://tonviewer.com/0:51b3631fe3f915981f4114cdeb1237e850b7fae43055b13dbcdc96e50f1c16ce) | EQBRs2Mf4_kVmB9BFM3rEjfoULf65DBVsT283JblDxwWzgho
 [The Open Network Foundation](https://tonviewer.com/0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3) | EQAFmjUoZUqKFEBGYFEMbv-m61sFStgAfUR8J6hJDwUU09iT
 [Hipo Treasury](https://tonviewer.com/0:8bc991cfe177bc7e9721433efa3befd199485a55cffd040a06c89af026b71bcf) | EQCLyZHP4Xe8fpchQz76O-_RmUhaVc_9BAoGyJrwJrcbz2eZ
 [Telegram](https://tonviewer.com/0:8c397c43f9ff0b49659b5d0a302b1a93af7ccc63e5f5c0c4f25a9dc1f8b47ab3) | EQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6s3Va
