@@ -3677,5 +3677,21 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
+ },
+ {
+    "address": "0:7930f4becfbca6ab3ea58b0b2653c2761dae75517519dba20f0e7f8b2a5c89bf",
+    "decimals": 9,
+    "description": "Resistance Pepe is the leader of the Boys Club faction in the fight against censorship. With his band of brothers, resistance Pepe leads the charge in securing freedom of expression for all through the power of memes",
+    "image": "https://i.ibb.co/w09j0kb/photo-2024-06-28-12-17-10.jpg",
+    "max_supply": 520000000,
+    "name": "Resistance Pepe",
+    "social": [
+     "https://twitter.com/resispepe",
+     "https://t.me/resispepe"
+    ],
+    "symbol": "REPE",
+    "websites": [
+     "https://resistancepepe.fun/"
+    ]
  }
 ]
