@@ -618,6 +618,24 @@
   "symbol": "JTON"
  },
  {
+  "address": "0:a890c3a67527a01823a5a56a0efc303b10a53f7f77c0b9978d25f585173232b4",
+  "description": "Through collective user contributions, create the ultimate LLM-based AI Bot - WorldBot.",
+  "image": "https://github.com/JarvisBotAI/assets/blob/main/jarvisbot.png?raw=true",
+  "name": "JarvisBot",
+  "social": [
+   "https://x.com/JarvisBot_AI",
+   "https://t.me/jarvisbot_ai",
+   "https://t.me/jarvisbot_official",
+   "https://t.me/jarvisbot_ai_bot",
+   "https://medium.com/@jarvisbot-ai",
+   "https://www.youtube.com/@JarvisBot-AI"
+  ],
+  "symbol": "JVS",
+  "websites": [
+   "https://jarvisbot.pro/"
+  ]
+ },
+ {
   "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
   "description": "Is an ecosystem token in the TON blockchain with a large Telegram community.",
   "image": "https://i.ibb.co/FbTCKRP/logotokenkingy.png",
@@ -896,6 +914,19 @@
   "address": "EQBP_hhZ-FPTHngC3nD_AbFGwe7VWVSYofkYr9vbPk1eFwtl",
   "name": "PEPE`S TON CLUB",
   "symbol": "PEPE"
+ },
+ {
+  "address": "EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK",
+  "description": "POO is a utility-based memecoin launched by the team behind Godex.fi",
+  "image": "https://imagedelivery.net/__7OzTpQdb1LdIHM_a20MQ/57fdfbaf-1a0d-41ef-dadd-835eae931e00/public",
+  "name": "POO by Godex",
+  "social": [
+   "https://t.me/poonews"
+  ],
+  "symbol": "POO",
+  "websites": [
+   "https://godex.fi"
+  ]
  },
  {
   "address": "0:0c2a87ce0d1582f1d92ceb6f592ba14df413902e6c2d1d22307b52f4bafb26a2",
@@ -1538,6 +1569,11 @@
   "symbol": "ALT"
  },
  {
+  "address": "0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0",
+  "name": "ALWIN AirDrop",
+  "symbol": "ALWIN"
+ },
+ {
   "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
   "name": "Andy",
   "symbol": "ANDY"
@@ -1643,6 +1679,11 @@
   "symbol": "BRAD"
  },
  {
+  "address": "0:2799a9c935f3b4ec41d902c1e875ee00cb10856e88a86c5d7e634e10ed41bdb2",
+  "name": "Brett",
+  "symbol": "BRETT"
+ },
+ {
   "address": "0:b6c07d48f4c550096bd508d7c0f3937f4c5ded488e740c4139f7b40d74eebaad",
   "name": "BROKIE ON TON",
   "symbol": "BROTON"
@@ -1661,6 +1702,11 @@
   "address": "0:238e721577013a274ce00d789780e539a1d140bc313888abd80d9c7de702b5ed",
   "name": "butTON",
   "symbol": "BTON"
+ },
+ {
+  "address": "0:287fcc08942bf0595e9f96a9d7813979d8ede8397e76a597051f09b1bb26557c",
+  "name": "BUCKY @BuckyBuyBot",
+  "symbol": "BUCKY"
  },
  {
   "address": "0:716d0cad2fae30b93cf9d4a72938b7530d23a1aab5752da3ca0eb84ea8b077bf",
@@ -2078,6 +2124,11 @@
   "symbol": "INS"
  },
  {
+  "address": "0:c0b86656d5a9aee192ff8c3d37f6ae74c34f64e0332adf73d73596f20ef765a6",
+  "name": "DMT Invest",
+  "symbol": "INVEST"
+ },
+ {
   "address": "0:0218fac51d60b2f5099e1573eabd97e5ca87816f982b550c406ae705d2135dd6",
   "name": "Stalin",
   "symbol": "IVS"
@@ -2206,6 +2257,11 @@
   "address": "0:5ae27acd057d8bb497a684c5f190c3d0a6608a365b79dfa49595ea354d8c1c49",
   "name": "Russia Mascot",
   "symbol": "MASCOT"
+ },
+ {
+  "address": "0:8e7bb09d83152c69606d6b80204715ad77a0fbaf34af23c9b08103e1d1521c2e",
+  "name": "MASHA",
+  "symbol": "MASHA"
  },
  {
   "address": "0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36",
@@ -2388,6 +2444,11 @@
   "symbol": "OTN"
  },
  {
+  "address": "0:c2fcf5753c26062d85021880315042ffdf4b57e20dc106e207997502948b6593",
+  "name": "PACO",
+  "symbol": "PACO"
+ },
+ {
   "address": "0:9896f1698b4e0015e6de174c7829ac8a8a813176f3f6de2c2d4c9e3919a6934c",
   "name": "PAPA",
   "symbol": "PAPA"
@@ -2491,6 +2552,11 @@
   "address": "0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655",
   "name": "PROTON JETTON",
   "symbol": "PROTON"
+ },
+ {
+  "address": "0:bfa25b403c97507329007fa3ee2816c7b535d5485f0209876a857ea1fa69b01a",
+  "name": "cats are liquidity",
+  "symbol": "PRRR"
  },
  {
   "address": "0:20a2d4a45f4e8c216f80d278b9c8aa9e365c1cde70129db3b57701a8fa4c2983",
@@ -2773,6 +2839,11 @@
   "symbol": "STEC"
  },
  {
+  "address": "0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7",
+  "name": "Dog Wif Shapka",
+  "symbol": "Shapka"
+ },
+ {
   "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
   "name": "Spotty",
   "symbol": "Spotty"
@@ -2803,6 +2874,11 @@
   "symbol": "TBT"
  },
  {
+  "address": "0:91b8ae5722b89efd06de4447ef4c9433678b51b0af262e1665f975cb7f3f62e5",
+  "name": "TonBitcoin",
+  "symbol": "TBTC"
+ },
+ {
   "address": "0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713",
   "name": "TON Cat",
   "symbol": "TCAT"
@@ -2823,9 +2899,19 @@
   "symbol": "TEKTON"
  },
  {
+  "address": "0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14",
+  "name": "Telegrem",
+  "symbol": "TELEGREM"
+ },
+ {
   "address": "0:cdd754d33d3c70ff148f26cff3cabcc84669782570e5a6902663326afbeb66a4",
   "name": "tepe",
   "symbol": "TEPE"
+ },
+ {
+  "address": "0:395604cda7b3145ac51bd57ad41c530300a5920f20142b2be644606e2a7ef8b4",
+  "name": "Pepe on Ton",
+  "symbol": "TETE"
  },
  {
   "address": "0:1057f39fa485f245362ff96e83ec5d746477ddc2662d80c474e6e810c355ddc8",
@@ -2916,6 +3002,11 @@
   "address": "0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32",
   "name": "Tonnel Network Token",
   "symbol": "TONNEL"
+ },
+ {
+  "address": "0:fbb087cfd8f47cbfb463671464f1f3f29ac8c4de15226030da003dfcc7a2c2b4",
+  "name": "TONNY",
+  "symbol": "TONNY"
  },
  {
   "address": "0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81",
