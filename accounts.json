@@ -178,7 +178,12 @@
  {
   "address": "0:852443f8599fe6a5da34fe43049ac4e0beb3071bb2bfb56635ea9421287c283a",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
-  "name": "Fragment"
+  "name": "Fragment Stars"
+ },
+ {
+  "address": "0:5e69bec3dfc448c32a5e81b37b619810cf00db6fc41f30cc18f28b89737a8f97",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
+  "name": "Fragment Adv"
  },
  {
   "address": "0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d",
