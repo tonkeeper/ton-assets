@@ -44,6 +44,70 @@
   "name": "Tonkeeper battery"
  },
  {
+  "address": "0:9b8ab637507230b99de26a55ea6d9cd4fef0cffcaafe2d1f15e835d5f5d38a43",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:1c06b78eb4c0c014b51308221f6263643746fe7be60b4831a8409051cba0306f",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:0bc884e676ba3dcaabe75cea71c38d6691ed0d6a89cfd95d2772c32f7be01262",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:f33f5a1e309236c21fd412b9d522e24a6a6ef3745c01f7ec7d731bc0f844c334",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:e3b375a5f71ea17bec125d3a88f6483575ee909b16010eefed9b64fe9b0d64e5",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:73727a419e7d7f1ae1c455e58ee432f26e3a75b31078f99cedcac403f47619be",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:d5a60826d1d4f157085d2bc751d037c61f1fe2d55322cd5bc0297456c513dd69",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:a1809e9a6f64adde7f0f485742968433a621a4f3b5e1c5920a7077d7b63c3411",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:c6f5916443f6f707139b108edce317ea52a8c4c5e5afaf9a3c6e93d64685d95d",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:695a70302a23c2b4a1b987a85efa97ecbb9d1595e6f3fe95259290e04b54cf1f",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:3bd3aad670168c4b1c6ec9bd29fdd65b139670b71d39c653fb5882430e1db58e",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:2fa8b698bd32c65e8c936341804a7acdea1f92e3d366be4b0e243debc3dc1260",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:463b36b05b642dcd8e7892796b4bf3e5aa67f1c73eec76d4be6fc2e0bcddb391",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:b6eacb041642f30b424d2f6f58795e6e932acefffa779326f1c256347820b4cd",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:87116a10bfc9cc340b837eb03b059ee162aaef9b6fa22dc9e435b3e73a173df9",
+  "name": "Tonkeeper battery"
+ },
+ {
+  "address": "0:51b3631fe3f915981f4114cdeb1237e850b7fae43055b13dbcdc96e50f1c16ce",
+  "name": "Tonkeeper battery"
+ },
+ {
   "address": "0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3",
   "name": "The Open Network Foundation"
  },
@@ -108,6 +172,26 @@
  },
  {
   "address": "0:408da3b28b6c065a593e10391269baaa9c5f8caebc0c69d9f0aabbab2a99256b",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
+  "name": "Fragment"
+ },
+ {
+  "address": "0:852443f8599fe6a5da34fe43049ac4e0beb3071bb2bfb56635ea9421287c283a",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
+  "name": "Fragment"
+ },
+ {
+  "address": "0:5e69bec3dfc448c32a5e81b37b619810cf00db6fc41f30cc18f28b89737a8f97",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
+  "name": "Fragment"
+ },
+ {
+  "address": "0:43512860d54980cf24d59868a30e679927fb1373c10964db7500edcdf690abc4",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
+  "name": "Fragment"
+ },
+ {
+  "address": "0:e6f3d8824f46b1efbab9afc684793428c55fed69b46a15a49be69a29bc49e530",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
   "name": "Fragment"
  },
@@ -274,6 +358,12 @@
   "require_memo": true
  },
  {
+  "address": "0:f9bdc0de461c1a2e002fada9550bbb095c8f9f73668d70c517a9cc7e050f8e5a",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "name": "OKX 9",
+  "require_memo": true
+ },
+ {
   "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/ftx_288.svg",
   "name": "FTX",
@@ -425,7 +515,31 @@
  {
   "address": "0:a1376e8bf9f266ec7c6b11ce6e5cd02a9bda363b9ea888a2e239d2383572bc9a",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
-  "name": "AvanChange",
+  "name": "AvanChange 1",
+  "require_memo": true
+ },
+ {
+  "address": "0:a1376e8bf9f266ec7c6b11ce6e5cd02a9bda363b9ea888a2e239d2383572bc9a",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
+  "name": "AvanChange 2",
+  "require_memo": true
+ },
+ {
+  "address": "0:c61d67a1dbd45f591e10edab79d0493ed54598de7cfafc2dd309d49892541d7e",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
+  "name": "AvanChange 3",
+  "require_memo": true
+ },
+ {
+  "address": "0:6cb01e7df63f7da1c428d4bb460891b1bbcc5d7a6f91805c82036ccf967a5474",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
+  "name": "AvanChange 4",
+  "require_memo": true
+ },
+ {
+  "address": "0:e7a0127fb4bb658c4bcad2ed15e746a9c8cf146cf60fdc1c8159cdde80e88c75",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
+  "name": "AvanChange 5",
   "require_memo": true
  },
  {
@@ -593,6 +707,10 @@
   "require_memo": true
  },
  {
+  "address": "0:8e91b50381c36dd42accdb51f5cb5d96848568b4924f8079b1a5ae7e10f43eda",
+  "name": "Binance Hot Wallet"
+ },
+ {
   "address": "0:a2faca7adfebd5c5970108d1f79065cef32b0c143fb13489066b684cdd7ee95c",
   "name": "BitMart",
   "require_memo": true
@@ -600,6 +718,21 @@
  {
   "address": "0:5d5a830e48214791f4ab5352900c624d3bff3c5efd630196b180158eb789990f",
   "name": "Nobitex",
+  "require_memo": true
+ },
+ {
+  "address": "0:fac8ffcb6f89572a1232d59e91c65909ae408663fd2ceaecd35f35b5e9d670f4",
+  "name": "Bitpin1",
+  "require_memo": true
+ },
+ {
+  "address": "0:c14ce5d772539be26fde315a505a1e0514104e76eef776f0b845e57df0557ddb",
+  "name": "Bitpin2",
+  "require_memo": true
+ },
+ {
+  "address": "0:dd36441bf4aa8a6a6ecfd763efde1eb82dd86bdcfb1456b45ff4b73f87657184",
+  "name": "Bitpin3",
   "require_memo": true
  },
  {
