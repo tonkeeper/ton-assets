@@ -181,6 +181,21 @@
   "name": "Fragment"
  },
  {
+  "address": "0:5e69bec3dfc448c32a5e81b37b619810cf00db6fc41f30cc18f28b89737a8f97",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
+  "name": "Fragment"
+ },
+ {
+  "address": "0:43512860d54980cf24d59868a30e679927fb1373c10964db7500edcdf690abc4",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
+  "name": "Fragment"
+ },
+ {
+  "address": "0:e6f3d8824f46b1efbab9afc684793428c55fed69b46a15a49be69a29bc49e530",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
+  "name": "Fragment"
+ },
+ {
   "address": "0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d",
   "image": "https://t.me/i/userpic/320/onetimeusername.jpg",
   "name": "Pavel Durov"
