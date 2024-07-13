@@ -2934,6 +2934,11 @@
   "symbol": "TFROG"
  },
  {
+  "address": "0:ce58e263820fe8da254590d27e0be48b21555eee61cf60843d64b138bed4731c",
+  "name": "Game of Ton",
+  "symbol": "TGOT"
+ },
+ {
   "address": "0:763339d01a42722ec79bc6e7dc97cfa14fe767e03df4e16fd17b36514a9131a0",
   "name": "TON HAMSTER",
   "symbol": "THAMSTER"
@@ -2997,6 +3002,11 @@
   "address": "0:9094377a7b25039563f6348527d99c8667c92d83f1ca5c1dbcf23bf82a9d587e",
   "name": "Tonke",
   "symbol": "TONKE"
+ },
+ {
+  "address": "0:bac1af06060f53c5cc231916096efb80aa33e2d641457b9d3e834786801bf14c",
+  "name": "Tonkey",
+  "symbol": "TONKY"
  },
  {
   "address": "0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32",
@@ -3082,6 +3092,11 @@
   "address": "0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5",
   "name": "Vincere",
   "symbol": "VC"
+ },
+ {
+  "address": "0:f49a2c6d7edc3be8551c574365d2842608f6c9f3a0d42c635be360353cec590a",
+  "name": "VIP Coin",
+  "symbol": "VIP"
  },
  {
   "address": "0:bbcc4d8155c2e2c9b04cb90d6088e3d898ee098bcf09d76afb76ea8c2563ad17",
