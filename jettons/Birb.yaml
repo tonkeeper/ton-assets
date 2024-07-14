@@ -2,7 +2,7 @@ name: Birbcoin
 description: Birbcoin started as a meme but was turned into RWA because its main goal will be to help and support wild life
 image: https://ipfs.io/ipfs/QmcSQadxGMin8VuZGBVUTSykLTsiNnoacgv2UnNkgjMt38/IMG_8168.jpeg
 address : EQCCaVndeVUSu8Gj-9kh0FiPiv8jZVayvgPs7RjBkUICZJMA
-symbol: BIRB 
-max_supply: 21 Trillion 
-circulation_supply : 836 Billion 
-social: https://x.com/birbcointon , https://t.me/birbcointon
+symbol: BIRB
+social:
+  - https://x.com/birbcointon
+  - https://t.me/birbcointon
