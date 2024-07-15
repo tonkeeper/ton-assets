@@ -925,6 +925,9 @@
 - address: 0:e527c99710ffff68548ee416cc303a2f30bb542d92df1260db1a47583d55bf31
   name: TON SHIBA
   symbol: TSHIB
+- address: 0:57e2bba1e75227dbfb0b2ba196f262a32526ada14a7cc4c3b160f123b12877cb
+  name: T-Project Jetton
+  symbol: TTTU
 - address: 0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55
   name: Twister The Dog
   symbol: TWIDO
