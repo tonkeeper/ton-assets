@@ -1,0 +1,11 @@
+name: "Cygnus Global USDT"
+description: "cgUSDT is a Jetton-standard variable price inflation-resistant stablecoin."
+image: "https://ton.cygnus.finance/jetton-metadata/cgusdt.svg"
+address: "EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy"
+symbol: "cgUSDT"
+websites:
+  - "https://www.cygnus.finance"
+social:
+  - "https://x.com/CygnusFi"
+  - "https://warpcast.com/cygnusfi"
+  - "https://t.me/CygnusFinanceOfficial"
