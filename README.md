@@ -409,6 +409,7 @@ Name           | Address
 [Stalin](https://tonviewer.com/0:1d49014dc8f09b4f5e1028f059ce94247f8302e40bd8b223586689729b3adc90) | EQAdSQFNyPCbT14QKPBZzpQkf4MC5AvYsiNYZolymzrckMBs
 [Stec Network](https://tonviewer.com/0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18) | EQAMSx9XLYJ6lYB9LL0kAPjZPhGYdlV7QQsPgRrVGv3qGLNt
 [SybilZero](https://tonviewer.com/0:b2fd9a3f6a174209c0f21906b3b8054a59af0a496f77d23d5523c93d65025807) | EQCy_Zo_ahdCCcDyGQazuAVKWa8KSW930j1VI8k9ZQJYB4_V
+[T-Project Jetton](https://tonviewer.com/0:57e2bba1e75227dbfb0b2ba196f262a32526ada14a7cc4c3b160f123b12877cb) | EQBX4ruh51In2_sLK6GW8mKjJSatoUp8xMOxYPEjsSh3y_CB
 [TDOG](https://tonviewer.com/0:f85d35d625ec2e36d9e12864e465a3f4c2c2ef4323609155dc3cb5b9ccf4d077) | EQD4XTXWJewuNtnhKGTkZaP0wsLvQyNgkVXcPLW5zPTQdykb
 [TFOX](https://tonviewer.com/0:b4d27996002b23f372e99c5640e2bd700c707876765d4e7908f0d264bbb8c5c6) | EQC00nmWACsj83LpnFZA4r1wDHB4dnZdTnkI8NJku7jFxirg
 [TGram](https://tonviewer.com/0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b) | EQDRlQ8en7A2zsTuF7SdDOxMlZ_wFw0E7Eow3u9c4pSoe4Tg
