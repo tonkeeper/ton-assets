@@ -223,6 +223,9 @@
 - address: 0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda
   name: TON Drift
   symbol: DRIFT
+- address: 0:56391a57b1002d127565e530261179a43c3f154f08cbf105a35858ea107aacdd
+  name: Darts Coin
+  symbol: DRTS
 - address: 0:8249d971df52af8dbb16fab1dd82c2d22d476b8fae1a648e434c104731e64856
   name: DONALDTRUMP
   symbol: DTRUMP
@@ -388,6 +391,9 @@
 - address: 0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a
   name: KAKAXA
   symbol: KAKAXA
+- address: 0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7
+  name: Kito
+  symbol: KITO
 - address: 0:e3387de7a142550972d20710a1d9a8278783842c3be81815f050d4f1cd9a5a11
   name: TON KONG
   symbol: KONG
@@ -478,6 +484,9 @@
 - address: 0:9f2784aed75874fcc0765d1bc88e6f20c34cb6001e116447cea0f3b07b2548ce
   name: Milyman
   symbol: MILY
+- address: 0:6a69044de9e45e253cd9fbc470eeecd6b1cf63bfce5ccdd80cccb19ae7d25bdb
+  name: MINOTAUR
+  symbol: MINOTAUR
 - address: 0:38f9dc02fcfca1659920a020ed32f6882063d45ee39916c1faab837dc5b69615
   name: MONKE
   symbol: MK
@@ -538,6 +547,9 @@
 - address: 0:b9cef491cc302d2fe928bb71e9c956ce57fc3edb4db0262e98d03c0033b18a99
   name: NUTCOIN
   symbol: NUT
+- address: 0:c3ae6ab597aeae34342aaea95b4d0311628adf5f220b0ee149841b051d5130dd
+  name: New World Order
+  symbol: NWO
 - address: 0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043
   name: OAAL AI
   symbol: OAAL
@@ -580,6 +592,9 @@
 - address: 0:623460639948e849bf2c21118637ec057be7f810289067654683fa00a414cfc1
   name: PEPETON
   symbol: PETON
+- address: 0:98447413aaa1321d36111facf0c16979c00ed204f854e4076032c23fab3a7725
+  name: PHOTON
+  symbol: PHOTON
 - address: 0:f4ec95fb4c45c0536e05a1f8357725a3633fe2daf97d263f259a1c1b0796defc
   name: PIG
   symbol: PIG
@@ -898,6 +913,9 @@
 - address: 0:fbb087cfd8f47cbfb463671464f1f3f29ac8c4de15226030da003dfcc7a2c2b4
   name: TONNY
   symbol: TONNY
+- address: 0:b3c7d43b7242995e4c9366c0a74d7c5029bafe974ebeab3f70ad759678dce5c0
+  name: TON RENAISSANCE
+  symbol: TONR
 - address: 0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81
   name: ToonTools
   symbol: TOON
@@ -1052,6 +1070,9 @@
   name: "\u0411\u0430\u0444\u0444\u0438"
   symbol: "\u0411\u0430\u0444\u0444\u0438"
 - address: 0:23a038e03c2de782980cb47052f1ad6d50a73850b649e7256886763be7393e09
+  name: "\u0412\u041E\u041B\u041A"
+  symbol: "\u0412\u041E\u041B\u041A"
+- address: 0:f66f9932ff01df9d825e6f01381bba0759aa28b2bf2a383eb3219d02a70086d3
   name: "\u0412\u041E\u041B\u041A"
   symbol: "\u0412\u041E\u041B\u041A"
 - address: 0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237
