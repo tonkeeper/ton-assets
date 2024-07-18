@@ -741,6 +741,11 @@
   "require_memo": true
  },
  {
+  "address": "0:402f5d4f4f8bea7b0bd511b9d3771834c1a22bbbbc8a326035eb07aa24f5c9f9",
+  "name": "Crypto.com",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
