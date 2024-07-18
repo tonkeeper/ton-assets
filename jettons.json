@@ -2675,6 +2675,11 @@
   "symbol": "PWJ"
  },
  {
+  "address": "0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7",
+  "name": "Palladium",
+  "symbol": "PLD"
+ },
+ {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
   "name": "Ton Raffles Token",
   "symbol": "RAFF"
