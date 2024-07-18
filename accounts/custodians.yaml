@@ -141,6 +141,9 @@
 - address: "UQDjzgXE2pdxMsJKOxAtqLX78uqRczN7Sd40bkpLBX91eeH3"
   name: "Bybit 5"
   require_memo: true
+- address: "UQDjPvhdF060V8By0e4QIVtpq5tkGS90ITAqscjia3rUvYhY"
+  name: "Bybit 6"
+  require_memo: true
 - address: "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp"
   name: "bit.com"
   require_memo: true
