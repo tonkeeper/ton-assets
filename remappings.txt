@@ -1,0 +1,7 @@
+@ensdomains/=node_modules/@ensdomains/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+hardhat/=node_modules/hardhat/
+solady/=lib/solady/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+account-abstraction/=lib/account-abstraction/contracts/
