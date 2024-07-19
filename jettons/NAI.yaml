@@ -1,0 +1,10 @@
+name: Neron.ai Tokens
+description: https://neron.ai — Hub with 20+ AI models use token as a payment
+image: "https://neron.ai/src/token.png"
+address: 0:8558a15fb34f5e9f42260d02b9db5a1133e39b232f46ac93839f444a6b62e3ad
+symbol: NAI
+max_supply: 100000
+websites:
+  - "https://neron.ai"
+social:
+  - "https://t.me/neronai_bot"
