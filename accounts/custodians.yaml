@@ -129,21 +129,27 @@
 - address: "EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb"
   name: "Bybit 1"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQBKHz68xmvc76kCRb31QaUK2hxoikh1NLFYer_9kwOINDtf"
   name: "Bybit 2" 
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQDNUlwVkE17QCfq4IsxhiQmDzcc6Mn0_MoM23tYOFQQfBIU"
   name: "Bybit 3"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQCuYqGS2pbiZhYacCzJ9t6RwMNEHxfOulG8RC37IDGjCjpR"
   name: "Bybit 4"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQDjzgXE2pdxMsJKOxAtqLX78uqRczN7Sd40bkpLBX91eeH3"
   name: "Bybit 5"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQDjPvhdF060V8By0e4QIVtpq5tkGS90ITAqscjia3rUvYhY"
   name: "Bybit 6"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp"
   name: "bit.com"
   require_memo: true
@@ -178,6 +184,7 @@
   require_memo: true
 - address: "EQD5hzUJ3lovl_eygF9feq-rRH9DyR51HMjvq8bS6gnXimGv"
   name: "BingX"
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bingx.svg"
 - address: "EQDftQdPITnb-x8-gj3f15dtpQbn94F1yYxiftLoQPeGBizQ"
   name: "FixedFloat"
   require_memo: true
@@ -266,8 +273,10 @@
 - address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
   name: "Binance"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg"
 - address: "UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl"
   name: "Binance Hot Wallet"
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg"
 - address: "UQCi-sp63-vVxZcBCNH3kGXO8ysMFD-xNIkGa2hM3X7pXCoH"
   name: "BitMart"
   require_memo: true
