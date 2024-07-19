@@ -10,6 +10,9 @@
 - address: 0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a
   name: 3CATS in a Trench Coat
   symbol: 3CATS
+- address: 0:b56c7e2d151dad11542e5b88b6470c2971ca1a4b2f8645012a62b08a81935f37
+  name: Shards of Anonymous Telegram Numbers
+  symbol: 8num
 - address: 0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5
   name: '@BTC25 MEMECOIN TonMiner'
   symbol: '@BTC25'
