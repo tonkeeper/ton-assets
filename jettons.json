@@ -1526,6 +1526,21 @@
   "symbol": "jWBTC"
  },
  {
+  "address": "EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy",
+  "description": "cgUSDT is a Jetton-standard variable price inflation-resistant stablecoin.",
+  "image": "https://ton.cygnus.finance/jetton-metadata/cgusdt.svg",
+  "name": "Cygnus Global USDT",
+  "social": [
+   "https://x.com/CygnusFi",
+   "https://warpcast.com/cygnusfi",
+   "https://t.me/CygnusFinanceOfficial"
+  ],
+  "symbol": "cgUSDT",
+  "websites": [
+   "https://www.cygnus.finance"
+  ]
+ },
+ {
   "address": "0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad",
   "description": "dTON Technology token",
   "image": "https://dton.io/media/dton_logo.png",

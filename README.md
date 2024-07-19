@@ -151,6 +151,7 @@ Name           | Address
 [CookieToken](https://tonviewer.com/0:dd2a4cce2a9b3b2252b416fe042661c322f39943b2edb026bebdee2a269a2917) | EQDdKkzOKps7IlK0Fv4EJmHDIvOZQ7LtsCa-ve4qJpopF4oq
 [Crumb Coin](https://tonviewer.com/0:a8641676cfd02edddcc334d8bc5e407186e21a9da0f511bdbfa05444610cb720) | EQCoZBZ2z9Au3dzDNNi8XkBxhuIanaD1Eb2_oFREYQy3IEBI
 [Cubigator](https://tonviewer.com/0:9748c357dce0798cf80e2641338d8866ec53817e4037720ee9681a93630cd7ae) | EQCXSMNX3OB5jPgOJkEzjYhm7FOBfkA3cg7paBqTYwzXrjIi
+[Cygnus Global USDT](https://tonviewer.com/0:48070de617f4c3309a960198a156cc9404c5a95b0fdd79fb592e20b14e6ac250) | EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy
 [DAOLegion](https://tonviewer.com/0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a) | EQDtqSANqK4LqgDk4f_q9mIvOaVy212ulavP9em2eYwKOiJw
 [DEANON](https://tonviewer.com/0:53507e9c768ce9d935ae8c0a9a98d8e0982ad7715ec5ada43a2a2783bbba58b0) | EQBTUH6cdozp2TWujAqamNjgmCrXcV7FraQ6KieDu7pYsMjm
 [DEFI HUNTERS DAO](https://tonviewer.com/0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d) | EQCW5g1evnQN2OZZEVe-23aSvEsgPauWZlF27ZIz5REhnWRy
