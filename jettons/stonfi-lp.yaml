@@ -1,0 +1,84 @@
+- name: LP Token for AMBR-oUSDC
+  address: "0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97"
+  symbol: AMBR-oUSDC LP
+- name: LP Token for BOLT-WTON
+  address: "0:4cb7638015bf33e782273f9649b0273110ea151dd48b817b830057ed3b8756d1"
+  symbol: BOLT-WTON LP
+- name: LP Token for FNZ-AMBR
+  address: "0:233e7bb3b9ec79c7b2ce227047a2c406460943d7662ddd7090a85ce17e81b032"
+  symbol: FNZ-AMBR LP
+- name: LP Token for FNZ-oUSDC
+  address: "0:60aae4b8c84b5bde1c8abece145246a9ff86d77ccd9375341ef9432a0edd458a"
+  symbol: FNZ-oUSDC LP
+- name: LP Token for FNZ-WTON
+  address: "0:b904f18b6168b5356999a8d0e2adcacdaa88978a5e965073cb2e027d4c4834be"
+  symbol: FNZ-WTON LP
+- name: LP Token for oETH-AMBR
+  address: "0:c942ee7bf6e238f9b0416d97448c50a9793c8697d386c4c6f081c471294a80b4"
+  symbol: oETH-AMBR LP
+- name: LP Token for oETH-FNZ
+  address: "0:f63c4e62515dfd0049d2ad3e717e2f0f5018bd3a10fd9467144ecbc0a1454a5a"
+  symbol: oETH-FNZ LP
+- name: LP Token for oETH-oUSDC
+  address: "0:31a95a81ef642fbe6ed10707dd75c7f0adcd353bfb494a5d4b574452d2e827b8"
+  symbol: oETH-oUSDC LP
+- name: LP Token for oETH-oUSDT
+  address: "0:922b681fda087d31e58e65cc0d4de95a82ca64e943bd7fb45aefd9ec29ca29ff"
+  symbol: oETH-oUSDT LP
+- name: LP Token for oETH-WTON
+  address: "0:7b8383585bb617ca10e1ba57a9d7e41fa654b39fd1d061ec03dc8af656cb6256"
+  symbol: oETH-WTON LP
+- name: LP Token for oUSDT-AMBR
+  address: "0:9803186a693b42be699cec194d470bfc7284becfdd9d3224a8feae9d65a28701"
+  symbol: oUSDT-AMBR LP
+- name: LP Token for oUSDT-FNZ
+  address: "0:14ab4d0fe47df659e27b5382cdbd5da61201125cfd986d6156b2fe2338282066"
+  symbol: oUSDT-FNZ LP
+- name: LP Token for oUSDT-oUSDC
+  address: "0:c35e262a8025e7d76d87b5e3745799cf573c6c69fb94cc39a45cf27d8beda2e9"
+  symbol: oUSDT-oUSDC LP
+- name: LP Token for oUSDT-WTON
+  address: "0:29dd8c6a684d5687251e1dad3eecf1a38f15d974fcb8eddf3009d44f387c01f8"
+  symbol: oUSDT-WTON LP
+- name: LP Token for TGR-oETH
+  address: "0:5417d0151be1a2f1ae6c72c6b03ab923578fab25fff53aeff1249a45d3f41d62"
+  symbol: TGR-oETH LP
+- name: LP Token for TGR-oUSDC
+  address: "0:d34cd8d3a33e3473ac5574acecbf95f85d889fccbfa2c3777d72a0908b4be9da"
+  symbol: TGR-oUSDC LP
+- name: LP Token for TGR-oUSDT
+  address: "0:abf02bf3e218157485e1a381b13861e391520b43620aa2d180539f8cd7135c36"
+  symbol: TGR-oUSDT LP
+- name: LP Token for TGR-WTON
+  address: "0:e2e03c28022f72d12a5686c17a552c6ca4ad34ae157c4fe461e6eda537a8b8db"
+  symbol: TGR-WTON LP
+- name: LP Token for WTON-AMBR
+  address: "0:afe41587f4f404b99c567b9cacedd1381f5ff855ccdc112e0cf8291afa7f19f9"
+  symbol: WTON-AMBR LP
+- name: LP Token for WTON-FNZ
+  address: "0:e02d84194bc4a2c31a0a321dcdd6145fec4930b82324ae143576e4d60c3afbc3"
+  symbol: WTON-FNZ LP
+- name: LP Token for WTON-oUSDC
+  address: "0:d5e6449fc822ffa80c910c888a3df01bb32748c00d0e22a9a1ce6583be1b21a9"
+  symbol: WTON-oUSDC LP
+- name: LP Token for GRAM-pTON LP
+  address: "0:120592f06b6bdf76c8280c5db0f7aa5d71c049251c433575cf50becd326d1676"
+  symbol: GRAM-pTON LP
+- name: LP Token for pTON-JETTON
+  address: "0:139eae96db1bf5d02d7d2cd942dbac45b535757dbccc917997402587aadbfa3a"
+  symbol: pTON-JETTON LP
+- name: LP Token for PUNK-pTON
+  address: "0:119adaeab087fcfa593d6c7f08495fd40ac1bc912de21f30bb6d5f2cb10022e2"
+  symbol: PUNK-pTON LP
+- name: LP Token for FNZ-pTON
+  address: "0:19152e5d27c493aca727e559e9b58b282882d76c061a0e17492636f352b3640d"
+  symbol: FNZ-pTON LP
+- name: LP Token for STON-pTON
+  address: "0:ed6473ad55669ff54214eab9a32cf34b4c6c4d2cda20bcae7151994c46067043"
+  symbol: STON-pTON LP
+- name: LP Token for RAFF-pTON
+  address: "0:aa14fa522ed72cb5446dad72d10aff70ca37ebc3bff8e3f9f0bc3f098929928d"
+  symbol: RAFF-pTON LP
+- name: LP Token for MC-pTON
+  address: "0:a033394315eaf75ea3a7b90a442d778648c06357fe8f59f58b125bda6b7aafd9"
+  symbol: MC-pTON LP
