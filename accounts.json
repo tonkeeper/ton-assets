@@ -483,31 +483,37 @@
  },
  {
   "address": "0:c3f1da8ecda8f8cd42bace224ea3f1b6971eaa7f54c492d4d190527b4f573f7c",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
   "name": "Bybit 1",
   "require_memo": true
  },
  {
   "address": "0:4a1f3ebcc66bdcefa90245bdf541a50ada1c688a487534b1587abffd93038834",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
   "name": "Bybit 2",
   "require_memo": true
  },
  {
   "address": "0:cd525c15904d7b4027eae08b318624260f371ce8c9f4fcca0cdb7b583854107c",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
   "name": "Bybit 3",
   "require_memo": true
  },
  {
   "address": "0:ae62a192da96e266161a702cc9f6de91c0c3441f17ceba51bc442dfb2031a30a",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
   "name": "Bybit 4",
   "require_memo": true
  },
  {
   "address": "0:e3ce05c4da977132c24a3b102da8b5fbf2ea9173337b49de346e4a4b057f7579",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
   "name": "Bybit 5",
   "require_memo": true
  },
  {
   "address": "0:e33ef85d174eb457c072d1ee10215b69ab9b64192f7421302ab1c8e26b7ad4bd",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
   "name": "Bybit 6",
   "require_memo": true
  },
@@ -563,6 +569,7 @@
  },
  {
   "address": "0:f9873509de5a2f97f7b2805f5f7aafab447f43c91e751cc8efabc6d2ea09d78a",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bingx.svg",
   "name": "BingX"
  },
  {
@@ -708,11 +715,13 @@
  },
  {
   "address": "0:f99b14600ae44d2f12b178e8c6eabd78892ae82c5e45b6898f9deb7eb203f9c4",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg",
   "name": "Binance",
   "require_memo": true
  },
  {
   "address": "0:8e91b50381c36dd42accdb51f5cb5d96848568b4924f8079b1a5ae7e10f43eda",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg",
   "name": "Binance Hot Wallet"
  },
  {
