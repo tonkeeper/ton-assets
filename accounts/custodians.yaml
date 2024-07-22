@@ -102,10 +102,10 @@
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_288.svg"
 - address: "EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs"
-  name: "Kucoin Withdraw 1"
+  name: "Kucoin 2"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg"
 - address: "UQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-t4E"
-  name: "Kucoin Withdraw 2"
+  name: "Kucoin 3"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg"
 - address: "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct"
   name: "lbank.info"
