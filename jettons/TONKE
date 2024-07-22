@@ -1,7 +1,7 @@
 name: Tonke
 description: TON + PONKE = TONKE
 image: "https://raw.githubusercontent.com/TonkeOnTon/Tonke/main/tonke1.JPG"
-contract address: EQCQlDd6eyUDlWP2NIUn2ZyGZ8ktg_HKXB288jv4Kp1Yflo6
+address: EQCQlDd6eyUDlWP2NIUn2ZyGZ8ktg_HKXB288jv4Kp1Yflo6
 ticker: TONKE
 websites:
   - "https://buytonke.com/"
