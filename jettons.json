@@ -1304,6 +1304,20 @@
   ]
  },
  {
+  "address": "EQCQlDd6eyUDlWP2NIUn2ZyGZ8ktg_HKXB288jv4Kp1Yflo6",
+  "description": "TON + PONKE = TONKE",
+  "image": "https://raw.githubusercontent.com/TonkeOnTon/Tonke/main/tonke1.JPG",
+  "name": "Tonke",
+  "social": [
+   "https://t.me/Tonke_on_Ton",
+   "https://x.com/TonkeOnTon"
+  ],
+  "symbol": "TONKE",
+  "websites": [
+   "https://buytonke.com/"
+  ]
+ },
+ {
   "address": "0:eebc03f6dfcb16a9c0ae71feed512eccfb873e5b02176fab4aa2c74b5e541f9b",
   "description": "1st Social Token on TON blockchain powering a Secret Social, Gaming and Entertainment Network connected by Telegram Wallets.",
   "image": "https://gateway.pinata.cloud/ipfs/QmTQf95qa8Ba5KYCsvXoFkuNsNvQceQkr6oLuyuKmfk85f",
@@ -3093,11 +3107,6 @@
   "address": "0:efebc6f725a5813bf0eb3fabb5dceabb2ac9ca851f76ea433170e2700020d8fe",
   "name": "Tonk Inu",
   "symbol": "TONK"
- },
- {
-  "address": "0:9094377a7b25039563f6348527d99c8667c92d83f1ca5c1dbcf23bf82a9d587e",
-  "name": "Tonke",
-  "symbol": "TONKE"
  },
  {
   "address": "0:bac1af06060f53c5cc231916096efb80aa33e2d641457b9d3e834786801bf14c",
