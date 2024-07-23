@@ -19,6 +19,9 @@
 - address: 0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c
   name: GOLD
   symbol: AGLD
+- address: 0:48cef1de34697508200b8026bf882f8e88aff894586cfd304ab513633fa7e2d3
+  name: AI Coin
+  symbol: AIC
 - address: 0:5c666687bb64397bdac614c9ed9bef14d6cecef88576cc3a23d27689d3695b36
   name: AIMLAB
   symbol: AIM
@@ -157,6 +160,9 @@
 - address: 0:36147a2b4f3bd8a6c337b7fe88a8cba2829259081ffee47f340aa6c821a50bab
   name: CHORRY
   symbol: CHORRY
+- address: 0:bbf45aa71c685aa8fb2513aff598c21c72e1843fb203184cb61cb72b9681bc3c
+  name: Crypto Kings
+  symbol: CK
 - address: 0:18043b8b74bae30ca47549467ad19b8bb92cc70c8a04dbacd9131b81fdb8e21b
   name: TON Click
   symbol: CLICK
@@ -484,6 +490,9 @@
 - address: 0:03bc6510b5bc170a0614fb4520e2b1a4c13a59afa232ce2929eaa301a581361d
   name: Mercury coin
   symbol: MERC
+- address: 0:9e6c890a66af6ee8cd4c1956de99fd3217f40e35c018fa3f88a458edcca605fc
+  name: Merch Coin
+  symbol: MERCH
 - address: 0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5
   name: Microdiving
   symbol: MIC
@@ -538,6 +547,9 @@
 - address: 0:fdce0fe3301123402c0a967d7138ee2269fe85e2be11e9881758fa887962aaad
   name: Nuka Cola
   symbol: NC
+- address: 0:6dccde67f4d9161a33bab8c96137b17c51dc2263e085a1d3ee8a9d31e4350e1b
+  name: Neo Dog
+  symbol: NEDO
 - address: 0:13a53eb373d32b5a79238a38fdac5d1fc914f9d56c6c5c078193d01037679193
   name: The Matrix
   symbol: NEO
@@ -847,6 +859,9 @@
 - address: 0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713
   name: TON Cat
   symbol: TCAT
+- address: 0:2fc09c95a17230a35ed28afe6d1def9bc1731eb767dc70f9c480c0c52f21b404
+  name: DARK ELON on Ton
+  symbol: TDARKELON
 - address: 0:f85d35d625ec2e36d9e12864e465a3f4c2c2ef4323609155dc3cb5b9ccf4d077
   name: TDOG
   symbol: TDOG
@@ -937,6 +952,9 @@
 - address: 0:1c8effafefaba966046844d50cead0a677a77d434f6c5954c5a8275f2deb8fe0
   name: TonTogether
   symbol: TOT
+- address: 0:ecf57e3166d05ef59ea4afc31b9a09bec90b627786a2425eb845adcaaf2197f2
+  name: Toto the Wizard Toad
+  symbol: TOTO
 - address: 0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123
   name: TON PET MEMECOIN
   symbol: TPET
@@ -946,6 +964,9 @@
 - address: 0:069a80f25e48c55eefec76d458e9056116c0d3c685d10c8b892761c7a21d2797
   name: TradeBet
   symbol: TRB
+- address: 0:75eaf886eac262deb45aac0ed385e1a3101ce2e69565c0895cdf47ef37799226
+  name: TON REX
+  symbol: TREX
 - address: 0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05
   name: Tribe
   symbol: TRIBE
@@ -1042,6 +1063,12 @@
 - address: 0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72
   name: Meme Inc
   symbol: YOBA
+- address: 0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542
+  name: ' Vladimir Putin''s Dog'
+  symbol: YUME
+- address: 0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11
+  name: ZEUS
+  symbol: ZEUS
 - address: 0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1
   name: povel durev
   symbol: durev
