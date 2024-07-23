@@ -46,6 +46,10 @@
   name: "OKX 8"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "EQD5vcDeRhwaLgAvralVC7sJXI-fc2aNcMUXqcx-BQ-OWnOZ"
+  name: "OKX 9"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
@@ -98,10 +102,10 @@
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_288.svg"
 - address: "EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs"
-  name: "Kucoin Withdraw 1"
+  name: "Kucoin 2"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg"
 - address: "UQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-t4E"
-  name: "Kucoin Withdraw 2"
+  name: "Kucoin 3"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/kucoin_withdraw_288.svg"
 - address: "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct"
   name: "lbank.info"
@@ -125,18 +129,27 @@
 - address: "EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb"
   name: "Bybit 1"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQBKHz68xmvc76kCRb31QaUK2hxoikh1NLFYer_9kwOINDtf"
   name: "Bybit 2" 
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQDNUlwVkE17QCfq4IsxhiQmDzcc6Mn0_MoM23tYOFQQfBIU"
   name: "Bybit 3"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQCuYqGS2pbiZhYacCzJ9t6RwMNEHxfOulG8RC37IDGjCjpR"
   name: "Bybit 4"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQDjzgXE2pdxMsJKOxAtqLX78uqRczN7Sd40bkpLBX91eeH3"
   name: "Bybit 5"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
+- address: "UQDjPvhdF060V8By0e4QIVtpq5tkGS90ITAqscjia3rUvYhY"
+  name: "Bybit 6"
+  require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp"
   name: "bit.com"
   require_memo: true
@@ -171,6 +184,7 @@
   require_memo: true
 - address: "EQD5hzUJ3lovl_eygF9feq-rRH9DyR51HMjvq8bS6gnXimGv"
   name: "BingX"
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bingx.svg"
 - address: "EQDftQdPITnb-x8-gj3f15dtpQbn94F1yYxiftLoQPeGBizQ"
   name: "FixedFloat"
   require_memo: true
@@ -259,6 +273,10 @@
 - address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
   name: "Binance"
   require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg"
+- address: "UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl"
+  name: "Binance Hot Wallet"
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg"
 - address: "UQCi-sp63-vVxZcBCNH3kGXO8ysMFD-xNIkGa2hM3X7pXCoH"
   name: "BitMart"
   require_memo: true
@@ -273,4 +291,7 @@
   require_memo: true
 - address: "UQDdNkQb9KqKam7P12Pv3h64Ldhr3PsUVrRf9Lc_h2VxhPeC"
   name: Bitpin3
+  require_memo: true
+- address: "UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql"
+  name: "Crypto.com"
   require_memo: true
