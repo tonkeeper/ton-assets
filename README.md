@@ -635,6 +635,7 @@ Name           | Address
 [butTON](https://tonviewer.com/0:238e721577013a274ce00d789780e539a1d140bc313888abd80d9c7de702b5ed) | EQAjjnIVdwE6J0zgDXiXgOU5odFAvDE4iKvYDZx95wK17a8F
 [cats are liquidity](https://tonviewer.com/0:bfa25b403c97507329007fa3ee2816c7b535d5485f0209876a857ea1fa69b01a) | EQC_oltAPJdQcykAf6PuKBbHtTXVSF8CCYdqhX6h-mmwGv59
 [dTON](https://tonviewer.com/0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad) | EQDP4FKs4AqothucWAPdHJfsntegHdknrwmg8qV9eBVlrWma
+[donotfomoew](https://tonviewer.com/0:16b0818ca0695b8c9248b2293ef7fe80e088a875bd4cecb5b7926bb4e6ff2e8e) | EQAWsIGMoGlbjJJIsik-9_6A4Iiodb1M7LW3kmu05v8ujo9h
 [eNOT COIN](https://tonviewer.com/0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a) | EQCSn3u5g0mGg4eBnP36kauDc9Flt4VphS-0TXz0f60wOqsI
 [indicaTon](https://tonviewer.com/0:ad9cd74f9c0e0d4ede1743f336d5d2b2a1447b75afd25fbbaab4efb08751deaa) | EQCtnNdPnA4NTt4XQ_M21dKyoUR7da_SX7uqtO-wh1HeqsX4
 [jDAI](https://tonviewer.com/0:e8fd927243f62a0730706d5a4c9a16e121d74ab513fdf47ba0649d78685b1cc6) | EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B

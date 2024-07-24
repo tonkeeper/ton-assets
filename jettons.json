@@ -3388,6 +3388,11 @@
   "symbol": "jMNT"
  },
  {
+  "address": "0:16b0818ca0695b8c9248b2293ef7fe80e088a875bd4cecb5b7926bb4e6ff2e8e",
+  "name": "donotfomoew",
+  "symbol": "jMOEW"
+ },
+ {
   "address": "0:8e1a9d46015939d69ad5070e433bc40dde528895424a8d76d9725e5a5e02f986",
   "name": "Wrapped NANO",
   "symbol": "jNANO"
