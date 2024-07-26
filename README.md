@@ -122,6 +122,7 @@ Name           | Address
 [Bear Country Token](https://tonviewer.com/0:2fbc476ae31e4aea8c23b0c2385fa0312a44c15d52885648921c32edea2d8b16) | EQAvvEdq4x5K6owjsMI4X6AxKkTBXVKIVkiSHDLt6i2LFnnQ
 [Billionaire Boys Club](https://tonviewer.com/0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e) | EQBN2iDBrdAVRXz95RJbcftDCYZYDZmiWB4cbyZDj8h7Xn6c
 [Birbcoin](https://tonviewer.com/0:826959dd795512bbc1a3fbd921d0588f8aff236556b2be03eced18c191420264) | EQCCaVndeVUSu8Gj-9kh0FiPiv8jZVayvgPs7RjBkUICZJMA
+[Bitget Wallet Token](https://tonviewer.com/0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861) | EQBaWrUZwQMcCEHZHf-dAFVhAWInbA7KJciM1W1aQxg4YT8I
 [Blockton News](https://tonviewer.com/0:ca13f38afaa91fc94d3c25b3059225f912dc57cc5d3a8f75e727ee23309f2819) | EQDKE_OK-qkfyU08JbMFkiX5EtxXzF06j3XnJ-4jMJ8oGRyz
 [BlueBonk](https://tonviewer.com/0:ea28bf3c752737bdd8942f4202c99d963914bec478df7da3dace0fa510c7146a) | EQDqKL88dSc3vdiUL0ICyZ2WORS-xHjffaPazg-lEMcUar8x
 [Bos Pump](https://tonviewer.com/0:f197e7a28ba55840420933413608da754a16c6a7c016a7ef987f2936951661be) | EQDxl-eii6VYQEIJM0E2CNp1ShbGp8AWp--Yfyk2lRZhvut2
