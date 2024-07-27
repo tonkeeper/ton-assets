@@ -1075,6 +1075,9 @@
 - address: 0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a
   name: eNOT COIN
   symbol: eNOT
+- address: 0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861
+  name: Bitget Wallet Token
+  symbol: jBWB
 - address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
   name: Mantle
   symbol: jMNT
