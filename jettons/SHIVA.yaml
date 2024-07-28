@@ -1,0 +1,12 @@
+name: SHIVA the cat on Ton
+description: Real meme cat on TON
+totalSupply: 790000000 
+image: "https://cache.tonapi.io/imgproxy/8F_FhhhIrNDPVE-Nn8e7QAs2FBC3XSTcL68TR7WAGe4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9kMTIxdnR5NzU5bnBhaS5jbG91ZGZyb250Lm5ldC9pbWFnZXMvYzk5MWVmYTdiYmUyNGQ4NDkwNGU1YzZiYjNjOGE0MjUucG5n.webp"
+address: "0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc"
+symbol: SHIVA
+decimals: 9
+websites:
+  - "https://onshiva.com"
+social:
+  - "https://t.me/shivaonton"
+  - "https://x.com/tonshiva"
