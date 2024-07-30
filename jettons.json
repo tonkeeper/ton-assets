@@ -722,6 +722,20 @@
   "symbol": "LAVE"
  },
  {
+  "address": "0:77f0c23f335359a05ae3c4efeb4c51454af0cb0f988a17ed63d4355e495c8fc2",
+  "description": "In crypto with balance",
+  "image": "https://raw.githubusercontent.com/Rebalancer/picture/main/libra%20normalmente.png.png",
+  "name": "Libration",
+  "social": [
+   "https://t.me/rebalancer_ton",
+   "https://x.com/REBALANCER_TON"
+  ],
+  "symbol": "LIBRA",
+  "websites": [
+   "https://rebalancer.pro/libration"
+  ]
+ },
+ {
   "address": "0:19a28f48d8bc5aa5c897410dc3e11274246a0268e1390d4510748cc883f5f29a",
   "description": "Probably Luna",
   "image": "https://raw.githubusercontent.com/grindich/Luna-or-Not/main/LunaOrNot.png",
