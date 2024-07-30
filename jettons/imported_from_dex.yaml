@@ -4,6 +4,9 @@
 - address: 0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4
   name: The Resistance Cat
   symbol: $RECA
+- address: 0:bff0c5bda58b1617490640103c7b8ca9f35707beec9d8998ee01efe55487cc22
+  name: TONWIFHAT
+  symbol: $TWIF
 - address: 0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c
   name: 1PLAYER TOKEN
   symbol: 1PTON
@@ -982,6 +985,9 @@
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
+- address: 0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293
+  name: UXLINK Token
+  symbol: UXLINK
 - address: 0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5
   name: Vincere
   symbol: VC
