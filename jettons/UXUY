@@ -1,0 +1,11 @@
+name: UXUY Token
+description: UXUY is a social infrastructure that includes social protocols and a series of Dapps.
+image: "https://static.uxlink.io/uxlink_website/website/uxuy.png"  
+address: "0:3bbe9955b44382e871df1f080f0ba124776a7db558a9fbbb3a85f6776abf86ac"
+symbol: UXUY
+max_supply: 1000000000
+websites:
+  - "https://www.uxlink.io/"
+social:
+  - "https://x.com/UXLINKofficial"
+  - "https://t.me/uxlinkofficial"
