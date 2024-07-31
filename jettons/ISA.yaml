@@ -1,0 +1,9 @@
+name: iSpecAlgo
+description: Service for renting trading algorithms ispecalgo.com
+image: "https://ispecalgo.com/main/img/logo_sqare.png"
+address: "0:97bade03a1312564063a93226f1abc87dacce3232e89371d338888fa1c840581"
+symbol: ISA
+websites:
+  - "https://ispecalgo.com"
+social:
+  - "https://t.me/Public_iSpecAlgo"
