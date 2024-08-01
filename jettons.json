@@ -1134,6 +1134,21 @@
   ]
  },
  {
+  "address": "0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc",
+  "decimals": 9,
+  "description": "Real meme cat on TON",
+  "image": "https://raw.githubusercontent.com/Herr-Professor/Shiva_image/main/c991efa7bbe24d84904e5c6bb3c8a425.webp",
+  "name": "SHIVA the cat on Ton",
+  "social": [
+   "https://t.me/shivaonton",
+   "https://x.com/tonshiva"
+  ],
+  "symbol": "SHIVA",
+  "websites": [
+   "https://onshiva.com"
+  ]
+ },
+ {
   "address": "EQDSYg2es_L0xpGfPJ6k39SxGA6MCHwV0EHY2smeF7aFAJW4",
   "description": "Snoop Ton is a meme coin with ecosystem",
   "image": "https://i.postimg.cc/Cx12f8Np/IMG-5623.jpg",

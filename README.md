@@ -479,6 +479,7 @@ Name           | Address
 [SCAM](https://tonviewer.com/0:b9d88ddcdab999a546afd0bad4eaaef0b97a139a13889ef68584a8d9e90b82e6) | EQC52I3c2rmZpUav0LrU6q7wuXoTmhOInvaFhKjZ6QuC5tV5
 [SEED](https://tonviewer.com/0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719) | EQAtwmCISetV3ncZRb1QDiHcbSgfo-Y37-zPL6NhedGHGaTf
 [SHIC Coin](https://tonviewer.com/0:c1ad99ba1a487cb3763dd8d7d42a1ef567084a666670d08804d63ddee9901fba) | EQDBrZm6Gkh8s3Y92NfUKh71ZwhKZmZw0IgE1j3e6ZAfuqbd
+[SHIVA the cat on Ton](https://tonviewer.com/0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc) | EQAQAYqUr9IDiiMQKvXXHtLhT77WvbhH7VGhvPPJmBVF3O7y
 [SIMBA](https://tonviewer.com/0:418cc07e7a971da285742ca4803a5d76b1e7bde0e9e59545855e2d26a98646b1) | EQBBjMB-epcdooV0LKSAOl12see94OnllUWFXi0mqYZGsXr2
 [SLUT](https://tonviewer.com/0:f1881739b47deb18bef156d845cfce12585c855503c63a6847821adfd550382c) | EQDxiBc5tH3rGL7xVthFz84SWFyFVQPGOmhHghrf1VA4LBTu
 [STON](https://tonviewer.com/0:3690254dc15b2297610cda60744a45f2b710aa4234b89adb630e99d79b01bd4f) | EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO
