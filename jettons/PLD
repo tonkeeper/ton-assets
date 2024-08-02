@@ -1,0 +1,10 @@
+name: Palladium
+description: Palladium Venture Foundation
+image: "https://raw.githubusercontent.com/Palladium-foundation/website/main/logo.png"  
+address: "0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7"
+symbol: PLD
+max_supply: 3000000000
+websites:
+  - "https://www.palladium.foundation/"
+social:
+  - "https://t.me/Palladium_venture_foundation"
