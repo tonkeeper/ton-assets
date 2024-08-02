@@ -438,6 +438,7 @@ Name           | Address
 [Pi Ton Network](https://tonviewer.com/0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c) | EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p
 [Pizza Gram](https://tonviewer.com/0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc) | EQDoqIKkOevVZukmf1L8nGhcjlha4sfvgl8GIRpTj_b53HyR
 [PizzaTon Token](https://tonviewer.com/0:20a2d4a45f4e8c216f80d278b9c8aa9e365c1cde70129db3b57701a8fa4c2983) | EQAgotSkX06MIW-A0ni5yKqeNlwc3nASnbO1dwGo-kwpg2Zg
+[PlanTon](https://tonviewer.com/0:33dada4cd9195ffb4edb55eeb68a3c28cd1125977678b5c6d4ae1ec11bafa309) | EQAz2tpM2Rlf-07bVe62ijwozREll3Z4tcbUrh7BG6-jCb18
 [Plankton](https://tonviewer.com/0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729) | EQATgD7dao9jWBdz_qKL-UJZCXZGQvV5HJVUC85ssgmHKWll
 [Player Pump Player](https://tonviewer.com/0:3391461c68ff89cdc0de413cccc6e1f7a6d5a144de32be9e313eefdc6e9b84d7) | EQAzkUYcaP-JzcDeQTzMxuH3ptWhRN4yvp4xPu_cbpuE12YC
 [Pogo](https://tonviewer.com/0:b6601693f6282ed212e7cf5a4f5ea22655c273773d095a4aa7e414d17f603d87) | EQC2YBaT9igu0hLnz1pPXqImVcJzdz0JWkqn5BTRf2A9h8Yl
