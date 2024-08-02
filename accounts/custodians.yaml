@@ -301,3 +301,7 @@
 - address: "UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql"
   name: "Crypto.com"
   require_memo: true
+- address: "UQDKbo8qPfyHW4Zz2Gd_OBjEuMAtGqSBqGoMYb0J-CafHcOL"
+  name: "Foxbit"
+  require_memo: true
+
