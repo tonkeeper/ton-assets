@@ -765,6 +765,11 @@
   "require_memo": true
  },
  {
+  "address": "0:ca6e8f2a3dfc875b8673d8677f3818c4b8c02d1aa481a86a0c61bd09f8269f1d",
+  "name": "Foxbit",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
