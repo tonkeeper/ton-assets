@@ -13,6 +13,9 @@
 - address: 0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c
   name: 1PLAYER TOKEN
   symbol: 1PTON
+- address: 0:795a3a3bc9775a07bd32068376604bfc8953e301d30e6dffc3ab8d042cb68f96
+  name: Ton Miner
+  symbol: 1RUS
 - address: 0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a
   name: 3CATS in a Trench Coat
   symbol: 3CATS
