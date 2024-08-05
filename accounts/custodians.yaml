@@ -304,3 +304,7 @@
 - address: "UQDKbo8qPfyHW4Zz2Gd_OBjEuMAtGqSBqGoMYb0J-CafHcOL"
   name: "Foxbit"
   require_memo: true
+- address: "UQB4K6XdxAqKqIM3pmT_oF5bOf0PUg8rQvC6NHuc1Y1P9Uuu"
+  name: "TON of LUCK"
+  require_memo: true
+  image: "https://tol-img.s3.ap-northeast-1.amazonaws.com/resource/packet-big.svg"
