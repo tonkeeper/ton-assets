@@ -613,6 +613,7 @@ Name           | Address
 [USDT Storm LP](https://tonviewer.com/0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11) | EQCup4xxCulCcNwmOocM9HtDYPU8xe0449tQLp6a-5BLEegW
 [UTYAB](https://tonviewer.com/0:30eb766a2e69f0440efb3d6d3b0962049e0c20f9e222cac6aa67c216a542f49c) | EQAw63ZqLmnwRA77PW07CWIEngwg-eIiysaqZ8IWpUL0nP7a
 [UXLINK Token](https://tonviewer.com/0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293) | EQBh9XACT0B60U8Q48VnjyqCxzxpM4oA0c8rqKt4h70yk1V5
+[UXUY Token](https://tonviewer.com/0:3bbe9955b44382e871df1f080f0ba124776a7db558a9fbbb3a85f6776abf86ac) | EQA7vplVtEOC6HHfHwgPC6Ekd2p9tVip-7s6hfZ3ar-GrJBP
 [Ultron](https://tonviewer.com/0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430) | EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
 [VIP Coin](https://tonviewer.com/0:f49a2c6d7edc3be8551c574365d2842608f6c9f3a0d42c635be360353cec590a) | EQD0mixtftw76FUcV0Nl0oQmCPbJ86DULGNb42A1POxZCk3U
