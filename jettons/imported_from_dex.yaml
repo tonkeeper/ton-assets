@@ -52,6 +52,9 @@
 - address: 0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45
   name: ARBUZ
   symbol: ARBUZ
+- address: 0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a
+  name: VZGLYAD AVTORA
+  symbol: AVTR
 - address: 0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2
   name: Azure
   symbol: AZURE
@@ -439,6 +442,9 @@
 - address: 0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a
   name: DAOLegion
   symbol: LGN24
+- address: 0:77f0c23f335359a05ae3c4efeb4c51454af0cb0f988a17ed63d4355e495c8fc2
+  name: Libration
+  symbol: LIBRA
 - address: 0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971
   name: "\u0416\u042E"
   symbol: LIFEYT
@@ -808,6 +814,9 @@
 - address: 0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4
   name: Shitcoin
   symbol: SHIT
+- address: 0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc
+  name: SHIVA the cat on Ton
+  symbol: SHIVA
 - address: 0:418cc07e7a971da285742ca4803a5d76b1e7bde0e9e59545855e2d26a98646b1
   name: SIMBA
   symbol: SIM
