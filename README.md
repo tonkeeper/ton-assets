@@ -4,7 +4,7 @@ This is a list of popular addresses and assets. We are open to pull request but 
 
 ## Addresses
 
-Short list. Full in [accounts.json](accounts.json)
+Short list. Full in [accounts.json](accounts.rah$d)
 
 Name           | Address
 ---------------|-----------
