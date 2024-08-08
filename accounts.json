@@ -714,6 +714,16 @@
   "require_memo": true
  },
  {
+  "address": "0:c9959a997e1d4e4383d8db37b86d2101ce78dcf1f1b3904d9888fe572ef0efd4",
+  "name": "Bitget12",
+  "require_memo": true
+ },
+ {
+  "address": "0:c07e51e5b694937758f45f4003071c84f4c4a68bdb168a22c3d6c8b89cd6186f",
+  "name": "Bitget13",
+  "require_memo": true
+ },
+ {
   "address": "0:f99b14600ae44d2f12b178e8c6eabd78892ae82c5e45b6898f9deb7eb203f9c4",
   "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg",
   "name": "Binance",
@@ -752,6 +762,11 @@
  {
   "address": "0:402f5d4f4f8bea7b0bd511b9d3771834c1a22bbbbc8a326035eb07aa24f5c9f9",
   "name": "Crypto.com",
+  "require_memo": true
+ },
+ {
+  "address": "0:ca6e8f2a3dfc875b8673d8677f3818c4b8c02d1aa481a86a0c61bd09f8269f1d",
+  "name": "Foxbit",
   "require_memo": true
  },
  {

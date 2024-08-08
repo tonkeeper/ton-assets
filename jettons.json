@@ -991,6 +991,20 @@
   ]
  },
  {
+  "address": "EQBO3bwnNqJN9XGvQr8bLAqXUwUjO314KwuIJgZpnMlOc0ZD",
+  "description": "The most developing memcoin on Ton. Additional utilities, games, nft... Welcome to the world of PeiPei",
+  "image": "https://ibb.co/dkTzL48",
+  "name": "PeiPei",
+  "social": [
+   "https://t.me/PeiPei_Ton",
+   "https://x.com/PeiPei_ton"
+  ],
+  "symbol": "PeiPei",
+  "websites": [
+   "https://peipei.one"
+  ]
+ },
+ {
   "address": "0:34295774a90f9f32c9ef154edfd8783ec25448ab5576014c5dc120ee88fd20e1",
   "description": "Community Powered artificial intelligence on the Ton and Solana blockchain to revolutionize the way people connect, engage,interact within the digital realm",
   "image": "https://imagetolink.com/ib/Npf2NvMsOF.png",
@@ -1005,9 +1019,25 @@
   ]
  },
  {
+  "address": "EQAz2tpM2Rlf-07bVe62ijwozREll3Z4tcbUrh7BG6-jCb18",
+  "description": "Official PlanTon. The chill crypto token for relaxed investors, unfused with good vibes",
+  "image": "https://planton.fun/img/header/logo.webp",
+  "name": "PlanTon",
+  "social": [
+   "https://t.me/planton_channel",
+   "https://x.com/PlantonToken",
+   "https://t.me/plan_ton_bot"
+  ],
+  "symbol": "PLAN",
+  "websites": [
+   "https://planton.fun/",
+   "https://planton.gitbook.io/planton"
+  ]
+ },
+ {
   "address": "EQBcDIBsG38XJsPxd4-kdCbhvNwb45ahsgl8OnsUK2kmH2Rt",
   "description": "Coin RCS - sniping service for tokens and NFTs",
-  "image": "https://3.downloader.disk.yandex.ru/preview/1ec942f08ea6cb8a16327c2b382886d51f4272b5f6e5f5da625392ff3fc48bc3/inf/Q2Irq8fQjUgkx1IV7GQXCV0oe-b0YEBiRvikR0TDmCOQGq5-exMz4irCkgn0DhQT8yzdKidy5D19PNrfWRW_tw%3D%3D?uid=890226574&filename=2024-07-03%2022.40.06.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=890226574&tknv=v2&size=2850x1430",
+  "image": "https://ipfs.io/ipfs/QmXoanvsLPgTtNggSAje7d6YvbPiqWwKAJxdLbi4nhuHJ5",
   "name": "Roach Coin Sniper",
   "social": [
    "http://t.me/daorcs",
@@ -1131,6 +1161,21 @@
   "symbol": "SCALE",
   "websites": [
    "https://scaleton.io"
+  ]
+ },
+ {
+  "address": "0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc",
+  "decimals": 9,
+  "description": "Real meme cat on TON",
+  "image": "https://raw.githubusercontent.com/Herr-Professor/Shiva_image/main/c991efa7bbe24d84904e5c6bb3c8a425.webp",
+  "name": "SHIVA the cat on Ton",
+  "social": [
+   "https://t.me/shivaonton",
+   "https://x.com/tonshiva"
+  ],
+  "symbol": "SHIVA",
+  "websites": [
+   "https://onshiva.com"
   ]
  },
  {
@@ -1328,7 +1373,7 @@
   ],
   "symbol": "TONKE",
   "websites": [
-   "https://buytonke.com/"
+   "http://www.tonkeonton.com"
   ]
  },
  {
@@ -1460,6 +1505,20 @@
   "symbol": "UTYAB",
   "websites": [
    "https://utyabswap.com"
+  ]
+ },
+ {
+  "address": "0:3bbe9955b44382e871df1f080f0ba124776a7db558a9fbbb3a85f6776abf86ac",
+  "description": "UXUY is a social infrastructure that includes social protocols and a series of Dapps.",
+  "image": "https://static.uxlink.io/uxlink_website/website/uxuy.png",
+  "name": "UXUY Token",
+  "social": [
+   "https://x.com/UXLINKofficial",
+   "https://t.me/uxlinkofficial"
+  ],
+  "symbol": "UXUY",
+  "websites": [
+   "https://www.uxlink.io/"
   ]
  },
  {
@@ -1632,6 +1691,11 @@
   "symbol": "$Blu"
  },
  {
+  "address": "0:c12c75e11d555b207090fb922a4e13fd4c577e6e10a4e6eca172565f2ae1d365",
+  "name": "DIGGY",
+  "symbol": "$DIGGY"
+ },
+ {
   "address": "0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4",
   "name": "The Resistance Cat",
   "symbol": "$RECA"
@@ -1710,6 +1774,11 @@
   "address": "0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45",
   "name": "ARBUZ",
   "symbol": "ARBUZ"
+ },
+ {
+  "address": "0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a",
+  "name": "VZGLYAD AVTORA",
+  "symbol": "AVTR"
  },
  {
   "address": "0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2",
@@ -1842,9 +1911,19 @@
   "symbol": "BURN"
  },
  {
+  "address": "0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11",
+  "name": "BUTTON",
+  "symbol": "BUTTON"
+ },
+ {
   "address": "0:83ec74343293a7a0d2a9225bbd984651f894bb6a87b850e3875c110195056dda",
   "name": "a TON of MILADYS",
   "symbol": "CABAL"
+ },
+ {
+  "address": "0:f970ea1f187d4ba596e4ab15b6885f95084e52cca80fd4adc0071767c7a4ce83",
+  "name": "CARAT",
+  "symbol": "CARAT"
  },
  {
   "address": "0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5",
@@ -2552,6 +2631,11 @@
   "symbol": "NFTON"
  },
  {
+  "address": "0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684",
+  "name": "NO Rocket",
+  "symbol": "NO"
+ },
+ {
   "address": "0:450e083a3b5fe26683aa4a065a9f343df63234b51a5e0a5499c6b0d4fe8db3bd",
   "name": "NOTGEM",
   "symbol": "NOTGEM"
@@ -3032,6 +3116,11 @@
   "symbol": "TAPE"
  },
  {
+  "address": "0:40f9e07a90d547f3d013cfa0978cfd6c7617c0771fd4eb3cbe7e80ee595cbce4",
+  "name": "Ton Turbo",
+  "symbol": "TBO"
+ },
+ {
   "address": "0:e73687f5ca2840fc9b5773bd006490a0c39fdbd6120a90919c7415d2e4afa9dd",
   "name": "Tonbet Token",
   "symbol": "TBT"
@@ -3465,6 +3554,11 @@
   "address": "0:744a8c6e183c79aa356dd0ffdb3c80857967452c1995a291e18e07ecd2afb0b1",
   "name": "Ton Whales liquid staking token",
   "symbol": "wsTON"
+ },
+ {
+  "address": "0:e9b73b1efbe02d9f8843b767469774f100dd0093ab5a61712234a3a0ec40226c",
+  "name": "\u00c6rly\ud83d\udd4a\ufe0fBirds",
+  "symbol": "\u00c6"
  },
  {
   "address": "0:1af36ac901d023a51e4dec4ba7aa9292cdd0e470250245b037ed7424bc4abf7a",
