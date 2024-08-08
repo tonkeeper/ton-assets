@@ -1135,6 +1135,21 @@
   "symbol": "RUBETON"
  },
  {
+  "address": "EQBI_uwtr6aGGh-a6gXZV9RxCVX9Mlg6hWwqWwF0OF6_MbjI",
+  "description": "Rockets (your preferred stickers) and more - https://t.me/rocket_on_ton",
+  "image": "https://i.ibb.co/q9D7Vb0/Rocket.png",
+  "name": "RocketonTon",
+  "social": [
+   "https://t.me/Rockettonportal",
+   "https://t.me/rocket_on_ton",
+   "https://x.com/Ton__Rocket"
+  ],
+  "symbol": "ROCKET",
+  "websites": [
+   "https://linktr.ee/rocketonton"
+  ]
+ },
+ {
   "address": "EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc",
   "decimals": 9,
   "description": "SafemoonTon is not just a meme project - it's a movement. We're building an ecosystem that will make a lasting impact on TON Blockchain and the crypto industry at large.",
