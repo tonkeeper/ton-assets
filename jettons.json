@@ -966,6 +966,19 @@
   "symbol": "PEPE"
  },
  {
+  "address": "0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7",
+  "description": "Palladium Venture Foundation",
+  "image": "https://raw.githubusercontent.com/Palladium-foundation/website/main/logo.png",
+  "name": "Palladium",
+  "social": [
+   "https://t.me/Palladium_venture_foundation"
+  ],
+  "symbol": "PLD",
+  "websites": [
+   "https://www.palladium.foundation/"
+  ]
+ },
+ {
   "address": "EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK",
   "description": "POO is a utility-based memecoin launched by the team behind Godex.fi",
   "image": "https://imagedelivery.net/__7OzTpQdb1LdIHM_a20MQ/57fdfbaf-1a0d-41ef-dadd-835eae931e00/public",

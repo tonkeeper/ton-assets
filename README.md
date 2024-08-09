@@ -430,6 +430,7 @@ Name           | Address
 [PROTON JETTON](https://tonviewer.com/0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655) | EQDgSR_-4FDlXPfMVefXX1IIXMWBH4YfYV1a_8cJ0XsGVdsf
 [PUGWIFJET](https://tonviewer.com/0:7c4f5ca5ca4b340c51645140b629e165cd7326fb10e3befeb00c34572ebea34c) | EQB8T1ylyks0DFFkUUC2KeFlzXMm-xDjvv6wDDRXLr6jTPRz
 [PUPA](https://tonviewer.com/0:296afb30ba0917352836a4ac4841773330e8d9736320d2dde3fcab8299205105) | EQApavswugkXNSg2pKxIQXczMOjZc2Mg0t3j_KuCmSBRBTBw
+[Palladium](https://tonviewer.com/0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7) | EQDgGuB15VUI7wkJ9c5_tjQswWuePEtqTDXSHIYKMMSxx_2U
 [Paper Plane](https://tonviewer.com/0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34) | EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2
 [Pavel Durov](https://tonviewer.com/0:76daefc43c5e43caab594618c9d9889996237ec39642aba17f3d8e886ba6ef8b) | EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et
 [Pavul Durkev](https://tonviewer.com/0:a15e075f111da7b8bbd93f91224a509ff79a1767928388212618106ffd670d77) | EQChXgdfER2nuLvZP5EiSlCf95oXZ5KDiCEmGBBv_WcNdxz3
