@@ -944,6 +944,16 @@
   ]
  },
  {
+  "address": "EQCWsIKwjRilqjt8wQU0Dg7KbgA8kslDZ3zSLhD-QPRwFs9e",
+  "description": "Naruto the famous anime character on TON",
+  "image": "https://github.com/Aloeidae/NarutonHost/blob/main/IMG_3134.jpeg",
+  "name": "Naruton",
+  "social": [
+   "https://t.me/NarutonEntry"
+  ],
+  "symbol": "NARUTO"
+ },
+ {
   "address": "EQAyEjcjLF24H2TTrey1Yed3uRs18xbqkFCU3uzphHHr8n3y",
   "description": "ODER represents the upside version of REDO.",
   "image": "https://raw.githubusercontent.com/ODER12/Logo/main/LogoOder.png",
