@@ -4,4 +4,6 @@ symbol: "YRN"
 social:  
   - "https://t.me/yarunin_yrn"
 site:
-  - "https://yarunin.com"
+  - "yarunin.com"
+domain ton:
+  - "yarunin.ton"
