@@ -191,6 +191,7 @@ Name           | Address
 [Du Rove’s Wall](https://tonviewer.com/0:dd0a16bf2be67dee52a5e7df4ed060c0b74a72d9952ea27b385ae7fce6daba35) | EQDdCha_K-Z97lKl599O0GDAt0py2ZUuons4Wuf85tq6NXIO
 [Dubai #2049](https://tonviewer.com/0:614683e638899c5367b708b283e9e099fcf7cecf689815c398df5dfd1d4531d2) | EQBhRoPmOImcU2e3CLKD6eCZ_PfOz2iYFcOY3139HUUx0phP
 [Duck Coin](https://tonviewer.com/0:53732b598dd67014b8fa4ceec2786be7e1a326a97bdb5fe9ce0e20296ddd35d6) | EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3
+[Durov's Child](https://tonviewer.com/0:c5680842c4ac744c6399f61f291332e2d3203e69a69639028e936e640177aeaf) | EQDFaAhCxKx0TGOZ9h8pEzLi0yA-aaaWOQKOk25kAXeur1dS
 [Durov’s Code](https://tonviewer.com/0:c97192095e0f3193f8bcc0dd100128525de76a16f816cee2f88b9d25d58ad637) | EQDJcZIJXg8xk_i8wN0QAShSXedqFvgWzuL4i50l1YrWN9GN
 [E4](https://tonviewer.com/0:cd94d0363526d6b62816dfb597fff148bb863634d3f08a325ddcab66862ee074) | EQDNlNA2NSbWtigW37WX__FIu4Y2NNPwijJd3Ktmhi7gdCyv
 [ECNATSISER GOD](https://tonviewer.com/0:321237232c5db81f64d3adecb561e777b91b35f316ea905094deece98471ebf2) | EQAyEjcjLF24H2TTrey1Yed3uRs18xbqkFCU3uzphHHr8n3y

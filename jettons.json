@@ -188,6 +188,17 @@
   "symbol": "CFT"
  },
  {
+  "address": "EQDFaAhCxKx0TGOZ9h8pEzLi0yA-aaaWOQKOk25kAXeur1dS",
+  "description": "Durov's Child - meme coin on TON.",
+  "image": "https://i.postimg.cc/x1n76y6V/IMG-0428.jpg",
+  "name": "Durov's Child",
+  "social": [
+   "https://t.me/childdurovs",
+   "https://x.com/durovschild"
+  ],
+  "symbol": "CHILD"
+ },
+ {
   "address": "0:a8641676cfd02edddcc334d8bc5e407186e21a9da0f511bdbfa05444610cb720",
   "description": "Crumb Coin (CRUMB) is a token used in the BRAD x Totkit ecosystem",
   "image": "https://nft.tonbrad.com/crumb.png",
