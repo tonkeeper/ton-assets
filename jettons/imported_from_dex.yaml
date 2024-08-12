@@ -346,6 +346,9 @@
 - address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
   name: Gram
   symbol: GRAM
+- address: 0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309
+  name: GRAND
+  symbol: GRAND
 - address: 0:ce0e4a5fc59e23a1edd1c417248e0bc20901fe4d7c68cdb3704cea0252838c09
   name: GRIMACE COIN
   symbol: GRIMACE
