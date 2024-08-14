@@ -1,0 +1,11 @@
+name: ARC jetton
+description: ARC is the utility token released by the ecosystem Architec.ton, based on the Telegram ecosystem. ARC is the main token used inside games and the projects in Architec.ton ecosystem.
+image: "https://cache.tonapi.io/imgproxy/cOMlJuViiVXDCkAghnyNj7plX8pAZ9pv3WhklvebpTY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3RvbmtlZXBlci9vcGVudG9uYXBpL21hc3Rlci9wa2cvcmVmZXJlbmNlcy9tZWRpYS90b2tlbl9wbGFjZWhvbGRlci5wbmc.web"
+address: 0:9eab324ae0a605d7af541d2bcffcd9a6238e80d8b9df1817f30afc067fcc6c60
+symbol: ARC
+websites:
+  - "https://architecton.tech"
+social:
+  - "https://t.me/architecton_tech"
+  - "https:///t.me/architecton_eu"
+  - "https://x.com/architec_ton"
