@@ -370,6 +370,9 @@
 - address: 0:5a9b946e0778a7617b1495a993204aaefad372e4d997e0504b01c65eff7eb479
   name: Ton Hamster
   symbol: HMSTR
+- address: 0:1656fdb1eadc6873935e97d0a5b5b7d848130e39fd11f6c6fb1a7a98fb89dc9a
+  name: Holy Coin
+  symbol: HOLY
 - address: 0:f83f7d94d74b2736821abe8aba7183d3411f367b00233b6d1ea6282b59102ea7
   name: Hydra
   symbol: HYDRA
@@ -436,6 +439,9 @@
 - address: 0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9
   name: LADY
   symbol: LADY
+- address: 0:3a3594e565b371d7ddafd0d763a3a6a5c484408b212a0caa87a79474515330e4
+  name: Alliance
+  symbol: LEA
 - address: 0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d
   name: CAT LESHA
   symbol: LESHA
@@ -625,6 +631,9 @@
 - address: 0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b
   name: Petcoin
   symbol: PET
+- address: 0:22eaf577158bcf8509d833e831951597129299f1533da75bfd7a8a4ad0c73ef3
+  name: Petachi
+  symbol: PETA
 - address: 0:623460639948e849bf2c21118637ec057be7f810289067654683fa00a414cfc1
   name: PEPETON
   symbol: PETON
@@ -910,6 +919,10 @@
 - address: 0:763339d01a42722ec79bc6e7dc97cfa14fe767e03df4e16fd17b36514a9131a0
   name: TON HAMSTER
   symbol: THAMSTER
+- address: 0:c0186c5ecfdb534ff2a0e7f0fd72ac58be634f1863f6c6c1f9b9b8de91eb3137
+  name: "THANK YOU! \u0421\u041F\u0410\u0421\u0418\u0411\u041E! \u8C22\u8C22 \u0634\
+    \u0643\u0631\u0627 \xA1GRACIAS! MERCI!"
+  symbol: THANKS
 - address: 0:9a5c0db77ba21156ceb22aa8ca4a5fc5197ab56e722de37505b5214e18fe1653
   name: Things Regular Token
   symbol: THNG
@@ -928,6 +941,9 @@
 - address: 0:1a1a5c42df56254b1ccaffd846de46ba50dd46f616e15c9237493b5f5111e122
   name: TONY
   symbol: TNY
+- address: 0:745157397c6d46cc5ae5450fd9d03f509db2b634934353d8679ff9ea5e1fe7c6
+  name: TONnie Coleman
+  symbol: TOC
 - address: 0:3b9cb248f84a1ce680731019e52f37b34c4c06351bf2479b57ee25874fc28fc1
   name: TON7DAO
   symbol: TON7DAO
@@ -1038,6 +1054,9 @@
   symbol: WEB3
 - address: 0:372f1691401cd9fd0ccfb31d7a10027f01c849974c2de2bdf725fd0d0687d298
   name: WEED on TON
+  symbol: WEED
+- address: 0:9f12c892308fbd98456a16f035037c67eeae0315861cfd1ab26508ef7880ff78
+  name: Weed coin - cannabis meme coin on TON
   symbol: WEED
 - address: 0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a
   name: Wallet Exchanger
