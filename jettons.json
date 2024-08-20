@@ -574,6 +574,17 @@
   ]
  },
  {
+  "address": "EQDX9OC6Bq3oTeNS6Ykj6WygNlvCHEiiQeXTIDGtxQlaQ_FX",
+  "description": "$GRIM is a meme coin on the TON Blockchain.",
+  "image": "https://i.postimg.cc/0Qrn9PMk/IMG-0983.jpg",
+  "name": "Grim Reaper",
+  "social": [
+   "https://t.me/grimreaperton",
+   "https://x.com/grimreapercoin"
+  ],
+  "symbol": "GRIM"
+ },
+ {
   "address": "EQDjYih3EzJMI1Vh0AtJ5qWo_jTqadPQggRD33-xLgxBKBLf",
   "description": "Memecoin for the loyal TON and ZkSync degens. $HAKI was inspired by the legendary tale of Hachiko, the Loyal dog. Just like Hachiko's enduring devotion to Prof Hidesabur\u014d Ueno, $HAKI token embodies loyalty, trust, and companionship in the world of Memecoins",
   "name": "Hachiko Inu",
