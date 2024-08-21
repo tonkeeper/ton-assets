@@ -139,6 +139,7 @@ Name           | Address
 [DYNYA](https://tonviewer.com/0:ff1132fe490445c2ec48203c2fa3c0a2c2e54af68ee55e07cd5544b3f6d96518) | EQD_ETL-SQRFwuxIIDwvo8CiwuVK9o7lXgfNVUSz9tllGMz9
 [Darts Coin](https://tonviewer.com/0:56391a57b1002d127565e530261179a43c3f154f08cbf105a35858ea107aacdd) | EQBWORpXsQAtEnVl5TAmEXmkPD8VTwjL8QWjWFjqEHqs3Xei
 [DeFinder Capital](https://tonviewer.com/0:f6eb371de82aa9cfb5b22ca547f31fdc0fa0fbb41ae89ba84a73272ff0bf2157) | EQD26zcd6Cqpz7WyLKVH8x_cD6D7tBrom6hKcycv8L8hV0GP
+[DexCoyote Legends](https://tonviewer.com/0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c) | EQArTcL5c1TlCoeLwTIRgHOMmebxMxnhSYnz65ttLRWBHL17
 [Diablo Gato](https://tonviewer.com/0:d6b91d65e446e218f7f6ffb54ad1d6af27a6e45f08b8493c7c55f68caab26477) | EQDWuR1l5EbiGPf2_7VK0davJ6bkXwi4STx8VfaMqrJkd0tm
 [Dimethyltryptamine](https://tonviewer.com/0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340) | EQDqZlrARv4jPJpwzbYPNiOtD_CouWxeAGbp7awAzoezQImY
 [Dog Wif Shapka](https://tonviewer.com/0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7) | EQBg57HDLFd920lqfPTXvGMENLD2oSmtraT3RDefici8x17g
