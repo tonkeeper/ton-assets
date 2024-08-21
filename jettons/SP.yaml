@@ -1,6 +1,19 @@
+- name: Spintria Vesting 
+  description: Spintria Vesting Jetton
+  image: "https://wallet.sp.one/spintria-orig.png"
+  address: "0:473a1c3de6b4366a4031486e4fa995899d82cb0afaee4d82a59478caff489694"
+  symbol: vSP
+  max_supply: 888888888
+  websites:
+    - "https://sp.one/"
+  social:
+    - "https://x.com/Spintria_coin"
+    - "https://t.me/spintr"
+    - "https://t.me/chat_spintria"
+
 - name: Spintria Staking 6%
   description: Spintria Staking Jetton 6%
-  image: "https://spintria-ton.github.io/spintria-wallet/spintria-orig.png"
+  image: "https://wallet.sp.one/spintria-orig.png"
   address: "0:63ace5a93bcbebfa2ebe626b66bfa73c4be71cb3c40532ac5ddd3be0a90bb02f"
   symbol: stSP6
   max_supply: 22222222
@@ -13,7 +26,7 @@
 
 - name: Spintria Staking 9%
   description: Spintria Staking Jetton 9%
-  image: "https://spintria-ton.github.io/spintria-wallet/spintria-orig.png"
+  image: "https://wallet.sp.one/spintria-orig.png"
   address: "0:a5a60ddb8dd86b7353ea350a6ed1431611529cb3e4383cb5380c6092fa86f5de"
   symbol: stSP9
   max_supply: 22222222
@@ -26,7 +39,7 @@
 
 - name: Spintria Staking 12%
   description: Spintria Staking Jetton 12%
-  image: "https://spintria-ton.github.io/spintria-wallet/spintria-orig.png"
+  image: "https://wallet.sp.one/spintria-orig.png"
   address: "0:9632d50a3b8712bcd3c04e79184dffbb83330a96786fd13f800b528055c19670"
   symbol: stSP12
   max_supply: 22222222
@@ -39,7 +52,7 @@
 
 - name: Spintria Staking 15%
   description: Spintria Staking Jetton 15%
-  image: "https://spintria-ton.github.io/spintria-wallet/spintria-orig.png"
+  image: "https://wallet.sp.one/spintria-orig.png"
   address: "0:f7908e29e633df80716a1adff745c81222da8d1204d78c00ef6312a4c428f1f8"
   symbol: stSP15
   max_supply: 22222222
@@ -52,7 +65,7 @@
 
 - name: Spintria Staking 18%
   description: Spintria Staking Jetton 18%
-  image: "https://spintria-ton.github.io/spintria-wallet/spintria-orig.png"
+  image: "https://wallet.sp.one/spintria-orig.png"
   address: "0:4cf90f9559059b775d9f6a31f62bcc74754892bb080c50afb4c579f807f6b352"
   symbol: stSP18
   max_supply: 22222222
