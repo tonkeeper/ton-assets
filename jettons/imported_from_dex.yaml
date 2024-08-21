@@ -202,6 +202,9 @@
 - address: 0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3
   name: Ton Croco
   symbol: CROCO
+- address: 0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c
+  name: DexCoyote Legends
+  symbol: DCL
 - address: 0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d
   name: DEFI HUNTERS DAO
   symbol: DDAO
