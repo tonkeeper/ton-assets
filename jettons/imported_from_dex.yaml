@@ -319,6 +319,9 @@
 - address: 0:d6b91d65e446e218f7f6ffb54ad1d6af27a6e45f08b8493c7c55f68caab26477
   name: Diablo Gato
   symbol: GATO
+- address: 0:3571d5c4296aedf88d94ecc575849f05a5dbb026ee82c9da22a0062d3abf76d7
+  name: NotBlumHmstrCatiDogsWoof
+  symbol: GEM
 - address: 0:7c3b4249fa1a9e0c0a830b5386eb33d805fa55f90cf03de77492971b20b5ec98
   name: Gem
   symbol: GEM
