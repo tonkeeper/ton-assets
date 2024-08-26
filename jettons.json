@@ -302,6 +302,11 @@
   ]
  },
  {
+  "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
+  "name": "Dogs",
+  "symbol": "DOGS"
+ },
+ {
   "address": "EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz",
   "description": "Pavel's dog with a hoodie https://smartbotsland.com/blog/social-networks/pavel-durov - $DOODIE is a meme coin on the TON Blockchain. https://t.me/dogwifhoodie_ton",
   "image": "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/doodie.jpg",
