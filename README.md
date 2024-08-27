@@ -269,6 +269,7 @@ Name           | Address
 [Kartoshka](https://tonviewer.com/0:5f97fa738bcb7f7d85c9132819a33f1c21dd6c7639cf4ec069bea8878e08174b) | EQBfl_pzi8t_fYXJEygZoz8cId1sdjnPTsBpvqiHjggXS3Ep
 [Kito](https://tonviewer.com/0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7) | EQCSLLVQ8qdhEqZUKaiKU7F6sVfnNPmQ4FsCpCo8olo795LP
 [Kote Coin](https://tonviewer.com/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
+[Kriptcoin](https://tonviewer.com/EQDPyZXjI7w9GtBiWVN3J8-luU26MTIHI2YkDUor0vHy7cZn) | EQDPyZXjI7w9GtBiWVN3J8-luU26MTIHI2YkDUor0vHy7cZn
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
 [LLAMA](https://tonviewer.com/0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067) | EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j
 [LP Token for AMBR-oUSDC](https://tonviewer.com/0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97) | EQA_hgEAWEXpuJr_56E1mcjHrDluiE_LkpV4Rr6BhILMl9an
