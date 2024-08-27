@@ -244,6 +244,9 @@
 - address: 0:f34c3bbe2d62de52003bbd77bc6301b3f4f606289f9ccfe2652990fd4c6557ef
   name: DOGG TON
   symbol: DOGG
+- address: 0:afc49cb8786f21c87045b19ede78fc6b46c51048513f8e9a6d44060199c1bf0c
+  name: Dogs
+  symbol: DOGS
 - address: 0:90c50594d1981b428bd546dac7654812513b23f556d58808f65c0346782df92f
   name: Don
   symbol: DON
