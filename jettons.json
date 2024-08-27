@@ -4212,5 +4212,10 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
+ },
+ {
+  "address": "0:e53bbbaf5a62cb28748e917b245b9e322574a42864721b0741b005b62b44a247",
+  "name": "GMToken",
+  "symbol": "GMT"
  }
 ]
