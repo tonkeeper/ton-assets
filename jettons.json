@@ -1361,6 +1361,20 @@
   ]
  },
  {
+  "address": "0:7604e727930b08b23a9dfab6c09b86efaee9b7fcc24a312829f7be20efecc8a3",
+  "description": "Ton Attack utilises a unique set of strategy cards which is comprised of major memes on the Ton Blockchain.   Use these cards to shill your favourite projects. You can also earn $TAX by playing/spending on the new mini app.  https://t.me/OfficialTonAttack",
+  "image": "https://universal-1.github.io/images/ton-attack.webp",
+  "name": "TON Attack",
+  "social": [
+   "https://x.com/tonattack",
+   "https://t.me/OfficialTonAttack"
+  ],
+  "symbol": "TAX",
+  "websites": [
+   "tonchain.meme"
+  ]
+ },
+ {
   "address": "0:57c0c1aca2e5330ad31b1e671e50f49b1c86f88b7107588edae8d11fe424f2a3",
   "description": "Early token with long history \ud83d\udc26 (launched on \u26fd\ufe0f GasPump",
   "image": "https://tcoin.tech/data/official-logo.png",
