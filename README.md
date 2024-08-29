@@ -380,6 +380,7 @@ Name           | Address
 [Mumba](https://tonviewer.com/0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7) | EQCXIHAWDAJEJhMiNVqeUvp3I6O7y_P2sD80zEsJXeUi56mb
 [MuscleCare](https://tonviewer.com/0:576ed808a1cbdbd741902959d08d942ac77b578c68c1599c92f1f87661c1dbb0) | EQBXbtgIocvb10GQKVnQjZQqx3tXjGjBWZyS8fh2YcHbsAhT
 [MyTonWallet Coin](https://tonviewer.com/0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28) | EQCFVNlRb-NHHDQfv3Q9xvDXBLJlay855_xREsq5ZDX6KN-w
+[NET PRESENT VALUE](https://tonviewer.com/0:7328860ffd6567612e640dbcfedf36adf7c86d3425d05157e691a1fb7cb75c11) | EQBzKIYP_WVnYS5kDbz-3zat98htNCXQUVfmkaH7fLdcEaT3
 [NO Rocket](https://tonviewer.com/0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684) | EQDnHBmARrJgDiHRaiwShwoLAdLoA73GL4lRn3V9eFKmhDwT
 [NOTCOIN INU](https://tonviewer.com/0:ba28f737207da6d4263b6775289ea8fb6b313e47f45012298443e3875440aeec) | EQC6KPc3IH2m1CY7Z3Uonqj7azE-R_RQEimEQ-OHVECu7Npe
 [NOTGEM](https://tonviewer.com/0:450e083a3b5fe26683aa4a065a9f343df63234b51a5e0a5499c6b0d4fe8db3bd) | EQBFDgg6O1_iZoOqSgZanzQ99jI0tRpeClSZxrDU_o2zvRX5
