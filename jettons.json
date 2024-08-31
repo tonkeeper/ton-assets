@@ -1409,6 +1409,11 @@
   "symbol": "CHERRY"
  },
  {
+  "address": "0:3c224ff11239e3872ec2acc32c691989443edc5745547a47bb82d8cd6644610f",
+  "name": "Chillcoin",
+  "symbol": "CHILL"
+ },
+ {
   "address": "0:a7d4bdc316ce7b4708100d5f6ac9a34f25e45c9214a7f0ff739ec724e9e3dd3a",
   "name": "\u0427\u041c\u041e\u041d\u042f",
   "symbol": "CHMONYA"
@@ -1632,6 +1637,11 @@
   "address": "0:e0e59518a1b5db4240db28224a0e7a4077d04a85d23bb305497727d987f2d7be",
   "name": "FLOX",
   "symbol": "FLOX"
+ },
+ {
+  "address": "0:9efd7ad27e0e0c9cbdfeae8d5a900116c5d7c789731ddb8fd7813261ae2a027a",
+  "name": "FLYKI Token",
+  "symbol": "FLY"
  },
  {
   "address": "0:1596e1910b8c04576683a62220aa212f8671fefa59aae4415a2fa0bd55fbf455",
@@ -3027,6 +3037,11 @@
   "address": "0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861",
   "name": "Bitget Wallet Token",
   "symbol": "jBWB"
+ },
+ {
+  "address": "0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268",
+  "name": "Junior Invest",
+  "symbol": "jInvest"
  },
  {
   "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
