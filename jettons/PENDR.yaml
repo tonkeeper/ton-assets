@@ -1,0 +1,11 @@
+name: "Pender"
+address": "0:0caed6ea062ad238a2d919839ea6b0c522e5a9ac4618adb72f6588f2e06055e7"
+symbol: "PENDR"
+decimals: "9"
+image: "https://cache.tonapi.io/imgproxy/Y6M8koNTnxuWs7G4_Tu3nmov5fwBCQvEoCkRILzr2u0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmR5b3IuaW8vamV0dG9ucy9pbWFnZXMvMTcxNTAwNDkxOS80NTY2NDUwNy53ZWJw.webp"
+description: "Pender is the first memecoin on TON with built-in lottery."
+websites:
+  - "https://thepender.com"
+social:
+  - "https://t.me/pender_official"
+  - "https://twitter.com/pender_ton"
