@@ -228,6 +228,19 @@
   ]
  },
  {
+  "address": "0:a2821d07c97169a021677ca43223c8d610aeca85b12c3a93058e8de051124a3b",
+  "description": "RunesTON Crystals",
+  "name": "Crystals",
+  "social": [
+   "https://t.me/runestonfree",
+   "https://t.me/Runestonbot/app"
+  ],
+  "symbol": "CRYSTALS",
+  "websites": [
+   "https://app.runeston.org/"
+  ]
+ },
+ {
   "address": "EQDQkBzgrQ2QSXLFaUGz3vA1vX1qkyKf3XBVOvf0r6ILthSb",
   "image": "https://raw.githubusercontent.com/Pashasrs89/logo/4515ab5a92ee2c0558a031e083f90e3e44f24aaa/IMG_4860.jpeg",
   "name": "CULTURE",
