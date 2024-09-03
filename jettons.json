@@ -103,6 +103,18 @@
   "symbol": "BITPIX"
  },
  {
+  "address": "0:dde7cf51dd48f7c97b8d8badb76a3f8110f7d0cb844ab3f302b7bd598704d786",
+  "name": "BRRRRR",
+  "symbol": "BRRRRR",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/DCYsnAGY9syXy9T5H0xWQpCDdzJgA_Fozct4tyxo2cI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby9IMkZ5Qjg5L3NxdWFyZS1CcnJycnItTG9nby5wbmc.webp",
+  "description": "haha money printer go brrrrr",
+  "social": [
+   "https://t.me/brrrrren",
+   "https://t.me/brrrrrgamebot"
+  ]
+ },
+ {
   "address": "0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e",
   "description": "Official token of the Huebel Company",
   "image": "https://cloudflare-ipfs.com/ipfs/QmX47dodUg1acXoxYDULWTNfShXRW5uHrCmoKSUNR9xKQw",
