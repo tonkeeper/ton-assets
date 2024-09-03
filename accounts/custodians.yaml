@@ -270,6 +270,12 @@
 - address: "EQAGR25YDiUNCr7Fw2WnEYM0g8WB1XuQi-N9Vr2w4zjDEhg5"
   name: "Bitget11"
   require_memo: true
+- address: "EQDJlZqZfh1OQ4PY2ze4bSEBznjc8fGzkE2YiP5XLvDv1M6u"
+  name: "Bitget12"
+  require_memo: true
+- address: "EQDAflHltpSTd1j0X0ADBxyE9MSmi9sWiiLD1si4nNYYb7Kq"
+  name: "Bitget13"
+  require_memo: true
 - address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
   name: "Binance"
   require_memo: true
@@ -294,4 +300,7 @@
   require_memo: true
 - address: "UQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-cql"
   name: "Crypto.com"
+  require_memo: true
+- address: "UQDKbo8qPfyHW4Zz2Gd_OBjEuMAtGqSBqGoMYb0J-CafHcOL"
+  name: "Foxbit"
   require_memo: true
