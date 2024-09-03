@@ -304,3 +304,6 @@
 - address: "UQDKbo8qPfyHW4Zz2Gd_OBjEuMAtGqSBqGoMYb0J-CafHcOL"
   name: "Foxbit"
   require_memo: true
+- address: "EQBg3vN_sOb0GxinPCSW2WslRCNEhkyg7ZcYmm834kOcVomh"
+  name: "Richamster"
+  require_memo: true
