@@ -1659,6 +1659,11 @@
   "symbol": "FREE"
  },
  {
+  "address": "0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c",
+  "name": "FadeWallet Token",
+  "symbol": "FWT"
+ },
+ {
   "address": "0:8c0c4f057defb8d101abca84b26b337f625087afe1e9fe8737f9dbb3d86b1a5b",
   "name": "TON GAIKA",
   "symbol": "GAIKA"
@@ -2297,6 +2302,11 @@
   "address": "0:3391461c68ff89cdc0de413cccc6e1f7a6d5a144de32be9e313eefdc6e9b84d7",
   "name": "Player Pump Player",
   "symbol": "PPP"
+ },
+ {
+  "address": "0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3",
+  "name": "Prolific",
+  "symbol": "PRO"
  },
  {
   "address": "0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655",
