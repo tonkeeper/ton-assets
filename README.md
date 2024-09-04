@@ -172,6 +172,7 @@ Name           | Address
 [FLYKI Token](https://tonviewer.com/0:9efd7ad27e0e0c9cbdfeae8d5a900116c5d7c789731ddb8fd7813261ae2a027a) | EQCe_XrSfg4MnL3-ro1akAEWxdfHiXMd24_XgTJhrioCek9R
 [FREEDOM](https://tonviewer.com/0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528) | EQBhj9Fwtr0ZwftDF13f6d1aqh5Cegdqit8BCTwbjL71KN3Z
 [FUCK MORGENSHTERN](https://tonviewer.com/0:3860cf5c167e2cc1051f17d0605056fb50362cee17d61bdacc857527e96a751b) | EQA4YM9cFn4swQUfF9BgUFb7UDYs7hfWG9rMhXUn6Wp1G0Kx
+[FadeWallet Token](https://tonviewer.com/0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c) | EQCh9DUkmEdz7BuM_kv_iDqXeXWHrMUZHcZfXnr8yBAfPHcn
 [Fake Notcoin](https://tonviewer.com/0:1596e1910b8c04576683a62220aa212f8671fefa59aae4415a2fa0bd55fbf455) | EQAVluGRC4wEV2aDpiIgqiEvhnH--lmq5EFaL6C9Vfv0VRMZ
 [Fanzee Token](https://tonviewer.com/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
 [Ferma Invest Dom](https://tonviewer.com/0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27) | EQCsN1IslttnFpGjUabpt3RCnVYca74ZB9yD0L2ZK9CvJ53D
@@ -399,6 +400,7 @@ Name           | Address
 [Player Pump Player](https://tonviewer.com/0:3391461c68ff89cdc0de413cccc6e1f7a6d5a144de32be9e313eefdc6e9b84d7) | EQAzkUYcaP-JzcDeQTzMxuH3ptWhRN4yvp4xPu_cbpuE12YC
 [Pogo](https://tonviewer.com/0:b6601693f6282ed212e7cf5a4f5ea22655c273773d095a4aa7e414d17f603d87) | EQC2YBaT9igu0hLnz1pPXqImVcJzdz0JWkqn5BTRf2A9h8Yl
 [Portal Network Token](https://tonviewer.com/0:41ed158ed2ace8e898629172e398a25cf35212e094747327396cf00bfe1d061a) | EQBB7RWO0qzo6JhikXLjmKJc81IS4JR0cyc5bPAL_h0GGmxW
+[Prolific](https://tonviewer.com/0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3) | EQBVJDGFlOrF3WBTLeJh2XOSy-cfV2B0ZZMmX1hBNRTOswIU
 [Proxy TON](https://tonviewer.com/0:8cdc1d7640ad5ee326527fc1ad0514f468b30dc84b0173f0e155f451b4e11f7c) | EQCM3B12QK1e4yZSf8GtBRT0aLMNyEsBc_DhVfRRtOEffLez
 [Ptah](https://tonviewer.com/0:8bea369396e008ec44ff26067784f57d525f0c5cfda665684c42d18ccddf9c36) | EQCL6jaTluAI7ET_JgZ3hPV9Ul8MXP2mZWhMQtGMzd-cNt-X
 [Pump&Dump](https://tonviewer.com/0:91d37abbc66bf1e5b60fb192ab912449db75be329565fc534fd56e6b86aaf15e) | EQCR03q7xmvx5bYPsZKrkSRJ23W-MpVl_FNP1W5rhqrxXrpP
