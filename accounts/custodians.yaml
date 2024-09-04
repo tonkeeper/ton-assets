@@ -276,6 +276,12 @@
 - address: "EQDAflHltpSTd1j0X0ADBxyE9MSmi9sWiiLD1si4nNYYb7Kq"
   name: "Bitget13"
   require_memo: true
+- address: "EQAXl6XExQorMSzpkn_28S79OwtY_zEURRGMLS5kMStdeQng"
+  name: "Bitget14"
+  require_memo: true
+- address: "EQBggwBbNUqxxHhaqM6Ck-5cnBgukkjyfpyQdPNcFjQggwrJ"
+  name: "Bitget15"
+  require_memo: true
 - address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
   name: "Binance"
   require_memo: true
