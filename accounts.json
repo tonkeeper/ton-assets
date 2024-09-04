@@ -724,6 +724,16 @@
   "require_memo": true
  },
  {
+  "address": "0:1797a5c4c50a2b312ce9927ff6f12efd3b0b58ff311445118c2d2e64312b5d79",
+  "name": "Bitget14",
+  "require_memo": true
+ },
+ {
+  "address": "0:6083005b354ab1c4785aa8ce8293ee5c9c182e9248f27e9c9074f35c16342083",
+  "name": "Bitget15",
+  "require_memo": true
+ },
+ {
   "address": "0:f99b14600ae44d2f12b178e8c6eabd78892ae82c5e45b6898f9deb7eb203f9c4",
   "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg",
   "name": "Binance",
