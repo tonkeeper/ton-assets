@@ -1,0 +1,12 @@
+name: Rug Check
+description: "Utility token for Rug Check bot allows users to check TON tokens for risks and fraud potential including: suspicious holders, transactions, honeypots, and rug-pulls, while offering a fast and secure token purchase feature with its built-in BuyBot."
+image: "https://cache.tonapi.io/imgproxy/vIWHcmz-ZapVQ-ozpx9aq8nOMMrvxDOk9PAXBAFcGH4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9kMTIxdnR5NzU5bnBhaS5jbG91ZGZyb250Lm5ldC9pbWFnZXMvNGMxOWI0N2M4NGViNDBmODlmMzU5YzA0OTIyNTZiNzQuanBlZw.webp"
+address: EQBeaBmWEkb4-DMBrCHD9ixqz15X79umAHjpQb6fHD1rn5gD
+symbol: RPC
+decimals: 9
+websites:
+  - "https://rug-check.top"
+social:
+  - "https://t.me/rugpull_checkbot"
+  - "https://x.com/ton_rugcheck"
+  - "https://t.me/rpc_news"
