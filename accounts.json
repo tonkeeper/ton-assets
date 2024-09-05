@@ -745,6 +745,11 @@
   "name": "Binance Hot Wallet"
  },
  {
+  "address": "0:ca1d9edeef40b3a9dbd9082f3767859547c3ce0bf641d09d58e33a3cf06fb309",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg",
+  "name": "Binance"
+ },
+ {
   "address": "0:a2faca7adfebd5c5970108d1f79065cef32b0c143fb13489066b684cdd7ee95c",
   "name": "BitMart",
   "require_memo": true
