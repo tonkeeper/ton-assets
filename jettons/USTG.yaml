@@ -1,0 +1,10 @@
+name: USTG
+description: "USTG is a stable coin fully collateralized by assets, with its value maintained at a 1:1 ratio to the US dollar through a series of financial incentives."
+image: "https://cache.tonapi.io/imgproxy/-YBAMGsaP51guvsVmyRfroVYiwKIiCtrFdgBGVuR99k/rs:fill:200:200:1/g:no/aHR0cHM6Ly90b25zdGFibGVwcm9qZWN0LmdpdGh1Yi5pby9VU1RHX0xPR08ucG5n.webp"
+address: "EQDmWM-ex1cJ5heAZZlhE4Cct81OWUk0w-rxCra8D8H9wbRy"
+symbol: USTG
+websites:
+  - "https://tonstable.xyz/"
+social:
+  - "https://t.me/TonStableOfficial"
+  - "https://x.com/TonStable"
