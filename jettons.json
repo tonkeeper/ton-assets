@@ -199,6 +199,20 @@
   "symbol": "CHILD"
  },
  {
+  "address": "0:b80f1e4cab2f6a86a1e91f4725fd4f217a3067721357667fcbd3f3a3db32d8e4",
+  "description": "Telegram's favorite COIN! The Coin everyone should have. From Telegram's famous \"The Coin\" sticker pack!",
+  "image": "https://raw.githubusercontent.com/TheCoinOnTon/TheCoin/main/coin%20logo%20png.png",
+  "name": "The Coin",
+  "social": [
+   "https://x.com/TheCoinOnTon",
+   "https://t.me/TheCoinOnTon"
+  ],
+  "symbol": "COIN",
+  "websites": [
+   "https://linktr.ee/TheCoinonTon"
+  ]
+ },
+ {
   "address": "0:a8641676cfd02edddcc334d8bc5e407186e21a9da0f511bdbfa05444610cb720",
   "description": "Crumb Coin (CRUMB) is a token used in the BRAD x Totkit ecosystem",
   "image": "https://nft.tonbrad.com/crumb.png",
@@ -225,6 +239,19 @@
   "symbol": "CRYPTON",
   "websites": [
    "https://crypton.tools/"
+  ]
+ },
+ {
+  "address": "0:a2821d07c97169a021677ca43223c8d610aeca85b12c3a93058e8de051124a3b",
+  "description": "RunesTON Crystals",
+  "name": "Crystals",
+  "social": [
+   "https://t.me/runestonfree",
+   "https://t.me/Runestonbot/app"
+  ],
+  "symbol": "CRYSTALS",
+  "websites": [
+   "https://app.runeston.org/"
   ]
  },
  {
@@ -300,6 +327,11 @@
   "websites": [
    "https://ton-digger.com/"
   ]
+ },
+ {
+  "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
+  "name": "Dogs",
+  "symbol": "DOGS"
  },
  {
   "address": "EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz",
@@ -970,6 +1002,22 @@
   ]
  },
  {
+  "address": "0:7328860ffd6567612e640dbcfedf36adf7c86d3425d05157e691a1fb7cb75c11",
+  "description": "This is not just another meme coin. A unique features of our token is its long-term potential, designed to last for decades.",
+  "image": "https://github.com/Makssimus/KPUR/blob/main/NPV.png?raw=true",
+  "name": "NET PRESENT VALUE",
+  "social": [
+   "https://t.me/Netpresentvalue",
+   "https://vk.com/netpresentvalue",
+   "https://x.com/NPVproject",
+   "https://discord.gg/WcuumfuUen"
+  ],
+  "symbol": "NPV",
+  "websites": [
+   "https://vk.link/netpresentvalue"
+  ]
+ },
+ {
   "address": "EQCWsIKwjRilqjt8wQU0Dg7KbgA8kslDZ3zSLhD-QPRwFs9e",
   "description": "Naruto the famous anime character on TON",
   "image": "https://github.com/Aloeidae/NarutonHost/blob/main/IMG_3134.jpeg",
@@ -1353,6 +1401,20 @@
   "symbol": "JULIA",
   "websites": [
    "https://steamyjulia.com/"
+  ]
+ },
+ {
+  "address": "0:7604e727930b08b23a9dfab6c09b86efaee9b7fcc24a312829f7be20efecc8a3",
+  "description": "Ton Attack utilises a unique set of strategy cards which is comprised of major memes on the Ton Blockchain.   Use these cards to shill your favourite projects. You can also earn $TAX by playing/spending on the new mini app.  https://t.me/OfficialTonAttack",
+  "image": "https://universal-1.github.io/images/ton-attack.webp",
+  "name": "TON Attack",
+  "social": [
+   "https://x.com/tonattack",
+   "https://t.me/OfficialTonAttack"
+  ],
+  "symbol": "TAX",
+  "websites": [
+   "tonchain.meme"
   ]
  },
  {
@@ -2069,6 +2131,11 @@
   "symbol": "CHERRY"
  },
  {
+  "address": "0:3c224ff11239e3872ec2acc32c691989443edc5745547a47bb82d8cd6644610f",
+  "name": "Chillcoin",
+  "symbol": "CHILL"
+ },
+ {
   "address": "0:a7d4bdc316ce7b4708100d5f6ac9a34f25e45c9214a7f0ff739ec724e9e3dd3a",
   "name": "\u0427\u041c\u041e\u041d\u042f",
   "symbol": "CHMONYA"
@@ -2284,6 +2351,11 @@
   "symbol": "FLOX"
  },
  {
+  "address": "0:9efd7ad27e0e0c9cbdfeae8d5a900116c5d7c789731ddb8fd7813261ae2a027a",
+  "name": "FLYKI Token",
+  "symbol": "FLY"
+ },
+ {
   "address": "0:1596e1910b8c04576683a62220aa212f8671fefa59aae4415a2fa0bd55fbf455",
   "name": "Fake Notcoin",
   "symbol": "FNOT"
@@ -2297,6 +2369,11 @@
   "address": "0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528",
   "name": "FREEDOM",
   "symbol": "FREE"
+ },
+ {
+  "address": "0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c",
+  "name": "FadeWallet Token",
+  "symbol": "FWT"
  },
  {
   "address": "0:8c0c4f057defb8d101abca84b26b337f625087afe1e9fe8737f9dbb3d86b1a5b",
@@ -2922,6 +2999,11 @@
   "address": "0:3391461c68ff89cdc0de413cccc6e1f7a6d5a144de32be9e313eefdc6e9b84d7",
   "name": "Player Pump Player",
   "symbol": "PPP"
+ },
+ {
+  "address": "0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3",
+  "name": "Prolific",
+  "symbol": "PRO"
  },
  {
   "address": "0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655",
@@ -3647,6 +3729,11 @@
   "address": "0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861",
   "name": "Bitget Wallet Token",
   "symbol": "jBWB"
+ },
+ {
+  "address": "0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268",
+  "name": "Junior Invest",
+  "symbol": "jInvest"
  },
  {
   "address": "0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd",
