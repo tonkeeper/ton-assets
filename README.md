@@ -162,6 +162,7 @@ Name           | Address
 [Crypto Kings](https://tonviewer.com/0:bbf45aa71c685aa8fb2513aff598c21c72e1843fb203184cb61cb72b9681bc3c) | EQC79FqnHGhaqPslE6_1mMIccuGEP7IDGEy2HLcrloG8PE_X
 [Crystals](https://tonviewer.com/0:a2821d07c97169a021677ca43223c8d610aeca85b12c3a93058e8de051124a3b) | EQCigh0HyXFpoCFnfKQyI8jWEK7KhbEsOpMFjo3gURJKOxnD
 [Cubigator](https://tonviewer.com/0:9748c357dce0798cf80e2641338d8866ec53817e4037720ee9681a93630cd7ae) | EQCXSMNX3OB5jPgOJkEzjYhm7FOBfkA3cg7paBqTYwzXrjIi
+[Curio Gas Token](https://tonviewer.com/0:b5e9470f0ce1756017037c8dfe48d03c9ebf040a588244ddcee5dffe49205c51) | EQC16UcPDOF1YBcDfI3-SNA8nr8ECliCRN3O5d_-SSBcUSjf
 [Cygnus Global USDT](https://tonviewer.com/0:48070de617f4c3309a960198a156cc9404c5a95b0fdd79fb592e20b14e6ac250) | EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy
 [DAOLegion](https://tonviewer.com/0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a) | EQDtqSANqK4LqgDk4f_q9mIvOaVy212ulavP9em2eYwKOiJw
 [DARK ELON on Ton](https://tonviewer.com/0:2fc09c95a17230a35ed28afe6d1def9bc1731eb767dc70f9c480c0c52f21b404) | EQAvwJyVoXIwo17Siv5tHe-bwXMet2fccPnEgMDFLyG0BKUV
