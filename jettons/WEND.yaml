@@ -1,8 +1,9 @@
 name: WEN DIZEL
-description: 💸 BuyBag is the First Trading Bot fueled by Wen Dizel, the legend of \"Fud & Furious\" 🏎️💨  $WEND is a meme nitro used in this bot $WEND is a vibrant lights under fast cars $WEND is a family!  Don’t wait! Grab your $WEND now! It’s time to shift gears and ride the bull! 🐂💨 (launched on ⛽️ GasPump)
+description: 💸 BuyBag is the First Trading Bot fueled by Wen Dizel, the legend of "Fud & Furious" 🏎️💨  $WEND is a meme nitro used in this bot $WEND is a vibrant lights under fast cars $WEND is a family!  Don’t wait! Grab your $WEND now! It’s time to shift gears and ride the bull! 🐂💨 (launched on ⛽️ GasPump)
 image: "https://cache.tonapi.io/imgproxy/w9jxfQvRjtbkP7mc02nLXLW0jkWKF5r4obnQBiuEdBk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9kMTIxdnR5NzU5bnBhaS5jbG91ZGZyb250Lm5ldC9pbWFnZXMvZjQ5ZTNlMGJmOWUyNDFiZTkyYmIxMzBkODBmMzIzNzYuZ2lm.webp"
 address: EQBeruz-RXKQFsVHh6busCylN3_VyeZ2KLyC4hiulg-nQVfj
 symbol: WEND
+max_supply: 1000000000
 websites:
   - "https://buybag.me"
 social:
