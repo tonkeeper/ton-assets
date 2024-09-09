@@ -1,0 +1,9 @@
+name: Bayerische Motoren Werke AG Coin
+description: BMW Coin is like a Dogcoin - only BMW
+image: "https://cache.tonapi.io/imgproxy/s6ibNWsJkDYeA6_uPBAiSCQAzkWPaqZZn_VNrKeUq1w/rs:fill:200:200:1/g:no/aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy9mL2Y0L0JNV19sb2dvXyUyOGdyYXklMjkuc3ZnP3VzZWxhbmc9cnU.webp"
+address: EQBm8UOthRHMGr6rCsNRNVwFArYHcWOgw6pAj4JZ2RiQ-yI1
+symbol: BMW
+websites:
+  - "https://bmwcoin.info"
+social:
+  - "https://t.me/bmwcoin_ton"
