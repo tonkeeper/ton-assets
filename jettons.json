@@ -1469,6 +1469,11 @@
   "symbol": "CROCO"
  },
  {
+  "address": "0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4",
+  "name": "DARK DUROV",
+  "symbol": "DARKDUROV"
+ },
+ {
   "address": "0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c",
   "name": "DexCoyote Legends",
   "symbol": "DCL"
@@ -2244,6 +2249,11 @@
   "symbol": "PHOTON"
  },
  {
+  "address": "0:be1b2f9c5a15ca35279c794b1ef92f7f15a4cafbe5080e41440fa725e56a4b01",
+  "name": "ONE",
+  "symbol": "PIECE"
+ },
+ {
   "address": "0:f4ec95fb4c45c0536e05a1f8357725a3633fe2daf97d263f259a1c1b0796defc",
   "name": "PIG",
   "symbol": "PIG"
@@ -2872,6 +2882,11 @@
   "address": "0:e527c99710ffff68548ee416cc303a2f30bb542d92df1260db1a47583d55bf31",
   "name": "TON SHIBA",
   "symbol": "TSHIB"
+ },
+ {
+  "address": "0:0660ad3c0da25a429999112cf7cbd82a8bbae6a68062c8a42bbbe7e2acec2a3f",
+  "name": "TeleSwap",
+  "symbol": "TSWAP"
  },
  {
   "address": "0:57e2bba1e75227dbfb0b2ba196f262a32526ada14a7cc4c3b160f123b12877cb",
