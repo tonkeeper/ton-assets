@@ -656,6 +656,7 @@ Name           | Address
 [Vladimir Puton](https://tonviewer.com/0:0cd0b3c29d2b2fe6656006a302bbbd24bdbc4dad2b617e1bbf4207944e7be0b4) | EQAM0LPCnSsv5mVgBqMCu70kvbxNrSthfhu_QgeUTnvgtD22
 [Volodemer](https://tonviewer.com/0:f9ac61a0562235ea74f99cbd1ab82c199533c26f008e223364231d682d6d76b4) | EQD5rGGgViI16nT5nL0auCwZlTPCbwCOIjNkIx1oLW12tFgo
 [WEED on TON](https://tonviewer.com/0:372f1691401cd9fd0ccfb31d7a10027f01c849974c2de2bdf725fd0d0687d298) | EQA3LxaRQBzZ_QzPsx16EAJ_AchJl0wt4r33Jf0NBofSmOY8
+[WEN DIZEL](https://tonviewer.com/0:5eaeecfe45729016c54787a6eeb02ca5377fd5c9e67628bc82e218ae960fa741) | EQBeruz-RXKQFsVHh6busCylN3_VyeZ2KLyC4hiulg-nQVfj
 [WINKO](https://tonviewer.com/0:9c1101fd38766dca0269580685898bbe3a8115423489cfa0f2ff453d844c92c8) | EQCcEQH9OHZtygJpWAaFiYu-OoEVQjSJz6Dy_0U9hEySyO4U
 [WOOD$ Credits](https://tonviewer.com/0:a476dd3b954a14b554000b85ca629a42833a5d2013861c2d7b67490f87e2417e) | EQCkdt07lUoUtVQAC4XKYppCgzpdIBOGHC17Z0kPh-JBfmXZ
 [WTON](https://tonviewer.com/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
