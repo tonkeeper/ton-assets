@@ -1,0 +1,12 @@
+name: Memelandia
+description: Memelandia recognises the importance of community tokens and memecoins. We are developing an ecosystem to help kickstart TON memecoins a develop thriving communites.
+image: "https://i.ibb.co/mN4h9Dd/meme-token-logo.png"
+address: EQBaK9EduDjr0WHEB6NJ3JCOb_ITnX09ek5YT1-73toagYCp
+symbol: MEMELAND
+max_supply: 100000000
+decimals: 9
+websites:
+  - "https://memelandia.co/"
+social:
+  - "https://t.me/MemelandiaonTon"
+  - "https://twitter.com/Memelandiaonton"
