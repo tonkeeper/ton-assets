@@ -316,3 +316,7 @@
 - address: "EQBg3vN_sOb0GxinPCSW2WslRCNEhkyg7ZcYmm834kOcVomh"
   name: "Richamster"
   require_memo: true
+- address: "UQDh0IFe3M5hBWA44bLOLEsZmf7_8cjoYR8C10aKAzFq1gAu"
+  name: "BFinance"
+  require_memo: true
+  image: "https://cdn.bfinance.app/bf-logo.svg"
