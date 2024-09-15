@@ -1,0 +1,12 @@
+name: Shrimp
+description: 🦐 🦐 🦐 🦐 🦐 🦐 🦐 🦐 
+image: "https://i.imgur.com/cBnMQcD.png"
+address: 0:9405ccbe2b9eb158229202d7f6c0c7e62263660ec8666250f1bca483bb22bcda
+symbol: SHRIMP
+max_supply: 1000000000000
+decimals: 9
+websites:
+  - "https://tonshrimp.me/"
+social:
+  - "https://t.me/ton_shrimp"
+
