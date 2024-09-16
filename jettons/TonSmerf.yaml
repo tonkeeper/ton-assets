@@ -1,0 +1,11 @@
+name: TonSmerf
+description: "The first token on TON where you decide the fate of the smurfs! Join us on this adventure and stay tuned for more updates!"
+image: "https://raw.githubusercontent.com/TonSmerf/TonSmerf/main/a.png"
+address: 0:a6a96135c08916c9f74aa05e35c52fdb8aa3737a678a9123d4ba19685ecf51f1
+symbol: SMERF
+decimals: 9
+websites:
+  - "https://tonsmerf.xyz"
+social:
+  - "https://t.me/tonsmerf"
+  - "https://twitter.com/TonSmerf"
