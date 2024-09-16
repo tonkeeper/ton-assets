@@ -1,0 +1,10 @@
+name: Workix
+description: https://workix.co — Freelance Web3 marketplace on TON
+image: "https://workix.co/img/token.png"
+address: 0:5a66ef8011b53c95e3cc06f8b2090f3cdb40e1031c96c4af3ccdd296218b33f1
+symbol: WKX
+max_supply: 1000000
+websites:
+  - "https://workix.co"
+social:
+  - "https://t.me/workix_news"

@@ -1,0 +1,13 @@
+name: Strange Dust
+description: Game crafting reagent (FaceToPlace.app/guide), which can be minted by completing quests and found on travels
+image: "https://mvse.ws/63942e982ad80b2df451583d/icon"
+address: 0:bc15071a13dc0a26c19c19a6470dff6151573f4765b3b3feaa8eb5ba0dc9bab9
+symbol: DUST
+max_supply: 10000000
+websites:
+  - "https://facetoplace.app"
+  - "https://facetoplace.app/token"
+social:
+  - "https://t.me/facetoplace"
+  - "https://t.me/facetoplace_chat"
+coingecko: "https://www.geckoterminal.com/ton/pools/EQC8FQcaE9wKJsGcGaZHDf9hUVc_R2Wzs_6qjrW6Dcm6uU44"
