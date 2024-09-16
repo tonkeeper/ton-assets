@@ -78,6 +78,20 @@
   ]
  },
  {
+  "address": "0:dc94dd61ffcfe3ce97d79da86325db67e10613269cb948d6b553357c3db5d462",
+  "description": "Reward token of Aqua Protocol.",
+  "image": "https://app.aquaprotocol.xyz/assets/aquaxp-icon.png",
+  "name": "AquaXP",
+  "social": [
+   "https://t.me/+8eZ6-Q-OVTEwMzky",
+   "https://x.com/aquaprotocolxyz"
+  ],
+  "symbol": "AquaXP",
+  "websites": [
+   "https://aquaprotocol.xyz"
+  ]
+ },
+ {
   "address": "EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH",
   "description": "Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/Batymchanin-coin/main/LOGOGOOD2.png",
@@ -1436,6 +1450,19 @@
   ]
  },
  {
+  "address": "0:dcc0b382e295825999371e19470f1a42d48aa5c09aceb8eae06fac492a2b75c6",
+  "name": "GazTon",
+  "social": [
+   "https://t.me/TonGazPump",
+   "https://x.com/gaztonbot",
+   "https://t.me/TonGazPump"
+  ],
+  "symbol": "TGAZ",
+  "websites": [
+   "https://gazton.pro"
+  ]
+ },
+ {
   "address": "0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b",
   "coingecko": "https://www.coingecko.com/en/coins/tg20-tgram",
   "coinmarketcap": "https://coinmarketcap.com/currencies/tg20-tgram/",
@@ -2386,6 +2413,11 @@
   "symbol": "FOMO"
  },
  {
+  "address": "0:12c3ee18332a771c32cb4e08c3954d4407d77547970a815cd43d06e2cc758007",
+  "name": "FRANC",
+  "symbol": "FRE"
+ },
+ {
   "address": "0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528",
   "name": "FREEDOM",
   "symbol": "FREE"
@@ -2524,6 +2556,11 @@
   "address": "0:296b467923494c7a2b524d4b72b5c7b9679cb861a9398c1c12f02c39dcfd436a",
   "name": "Hasbulla",
   "symbol": "Hasbik"
+ },
+ {
+  "address": "0:d67eeb8342f4fc1e123f82136b6a2d4b3930355c61f0d78a5520f6aa2805da92",
+  "name": "Ice",
+  "symbol": "ICE"
  },
  {
   "address": "0:ad9cd74f9c0e0d4ede1743f336d5d2b2a1447b75afd25fbbaab4efb08751deaa",
@@ -3166,6 +3203,11 @@
   "symbol": "ROTGAR"
  },
  {
+  "address": "0:44ac32844dd9fa8f2c4bb588a013e4cf9972a6dc0bdb415a809c358db829d60f",
+  "name": "Riwatex Meme",
+  "symbol": "RTXM"
+ },
+ {
   "address": "0:1974adbb114e8b50dc53b16961bb76992c74b7ab7acd073a6205396434716cb0",
   "name": "Rug Police",
   "symbol": "RUGP"
@@ -3319,6 +3361,11 @@
   "address": "0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18",
   "name": "Stec Network",
   "symbol": "STEC"
+ },
+ {
+  "address": "0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74",
+  "name": "Stellarium",
+  "symbol": "STL"
  },
  {
   "address": "0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7",
