@@ -276,11 +276,20 @@
 - address: "EQDAflHltpSTd1j0X0ADBxyE9MSmi9sWiiLD1si4nNYYb7Kq"
   name: "Bitget13"
   require_memo: true
+- address: "EQAXl6XExQorMSzpkn_28S79OwtY_zEURRGMLS5kMStdeQng"
+  name: "Bitget14"
+  require_memo: true
+- address: "EQBggwBbNUqxxHhaqM6Ck-5cnBgukkjyfpyQdPNcFjQggwrJ"
+  name: "Bitget15"
+  require_memo: true
 - address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
   name: "Binance"
   require_memo: true
   image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg"
 - address: "UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl"
+  name: "Binance Hot Wallet"
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg"
+- address: "UQDKHZ7e70CzqdvZCC83Z4WVR8POC_ZB0J1Y4zo88G-zCSRH"
   name: "Binance Hot Wallet"
   image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg"
 - address: "UQCi-sp63-vVxZcBCNH3kGXO8ysMFD-xNIkGa2hM3X7pXCoH"
@@ -303,4 +312,7 @@
   require_memo: true
 - address: "UQDKbo8qPfyHW4Zz2Gd_OBjEuMAtGqSBqGoMYb0J-CafHcOL"
   name: "Foxbit"
+  require_memo: true
+- address: "EQBg3vN_sOb0GxinPCSW2WslRCNEhkyg7ZcYmm834kOcVomh"
+  name: "Richamster"
   require_memo: true

@@ -199,6 +199,20 @@
   "symbol": "CHILD"
  },
  {
+  "address": "0:b80f1e4cab2f6a86a1e91f4725fd4f217a3067721357667fcbd3f3a3db32d8e4",
+  "description": "Telegram's favorite COIN! The Coin everyone should have. From Telegram's famous \"The Coin\" sticker pack!",
+  "image": "https://raw.githubusercontent.com/TheCoinOnTon/TheCoin/main/coin%20logo%20png.png",
+  "name": "The Coin",
+  "social": [
+   "https://x.com/TheCoinOnTon",
+   "https://t.me/TheCoinOnTon"
+  ],
+  "symbol": "COIN",
+  "websites": [
+   "https://linktr.ee/TheCoinonTon"
+  ]
+ },
+ {
   "address": "0:a8641676cfd02edddcc334d8bc5e407186e21a9da0f511bdbfa05444610cb720",
   "description": "Crumb Coin (CRUMB) is a token used in the BRAD x Totkit ecosystem",
   "image": "https://nft.tonbrad.com/crumb.png",
@@ -225,6 +239,19 @@
   "symbol": "CRYPTON",
   "websites": [
    "https://crypton.tools/"
+  ]
+ },
+ {
+  "address": "0:a2821d07c97169a021677ca43223c8d610aeca85b12c3a93058e8de051124a3b",
+  "description": "RunesTON Crystals",
+  "name": "Crystals",
+  "social": [
+   "https://t.me/runestonfree",
+   "https://t.me/Runestonbot/app"
+  ],
+  "symbol": "CRYSTALS",
+  "websites": [
+   "https://app.runeston.org/"
   ]
  },
  {
@@ -456,21 +483,6 @@
   "address": "0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a",
   "name": "Energy Cells",
   "symbol": "ENRG"
- },
- {
-  "address": "0:eebc03f6dfcb16a9c0ae71feed512eccfb873e5b02176fab4aa2c74b5e541f9b",
-  "description": "1st Social Token on TON blockchain powering a Secret Social, Gaming and Entertainment Network connected by Telegram Wallets.",
-  "image": "https://gateway.pinata.cloud/ipfs/EQDbTdZpTQ4v8z4D_T2IWnaHjBDZBIC7fg6mrYh0UJWZzcb3",
-  "name": "FAMILY Social Token",
-  "social": [
-   "https://t.me/channel_cryptofam",
-   "https://x.com/sergeyprav11765",
-   "https://t.me/CRYPTO_WORLD_FAMILY"
-  ],
-  "symbol": "FAM",
-  "websites": [
-   "https://https://vk.link/family_cryptoproject"
-  ]
  },
  {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
@@ -1534,6 +1546,21 @@
   ]
  },
  {
+  "address": "EQCRhkvxiW9Ml44FLTxGePs1xMqBAf-axakBgCEfI8YwHTWW",
+  "description": "Employs a unique Proof of Link algorithm to redefine blockchain usability",
+  "image": "https://raw.githubusercontent.com/tonoreum/tonoreum-images/master/logo_png.png",
+  "name": "Tonoreum",
+  "social": [
+   "https://t.me/Tonoreum",
+   "https://twitter.com/tonoreum",
+   "https://t.me/Tonoreum_Bot"
+  ],
+  "symbol": "TOR",
+  "websites": [
+   "https://tonoreum.com"
+  ]
+ },
+ {
   "address": "EQDQMxKXCEWs4ILJltwZKXyeBnqr79evv0ROARFi2NapQthS",
   "description": "PORK on TON is a memecoin on the TON blockchain - $TORK is a meme coin on the TON Blockchain. https://t.me/PORKONTON",
   "image": "https://pbs.twimg.com/profile_images/1769042954318970880/SeAmgyJi_400x400.jpg",
@@ -1661,6 +1688,21 @@
   "symbol": "WALDO",
   "websites": [
    "https://waldonton.com"
+  ]
+ },
+ {
+  "address": "EQBeruz-RXKQFsVHh6busCylN3_VyeZ2KLyC4hiulg-nQVfj",
+  "description": "\ud83d\udcb8 BuyBag is the First Trading Bot fueled by Wen Dizel, the legend of \"Fud & Furious\" \ud83c\udfce\ufe0f\ud83d\udca8  $WEND is a meme nitro used in this bot $WEND is a vibrant lights under fast cars $WEND is a family!  Don\u2019t wait! Grab your $WEND now! It\u2019s time to shift gears and ride the bull! \ud83d\udc02\ud83d\udca8 (launched on \u26fd\ufe0f GasPump)",
+  "image": "https://raw.githubusercontent.com/buybagdev/wendonton/main/wend.webp",
+  "name": "WEN DIZEL",
+  "social": [
+   "https://t.me/+AOMymeRrMgw1YjIy",
+   "https://t.me/+Cq-N6G41cyNmODZi",
+   "https://x.com/golzrd?s=21&t=76mlJBPBdeXiea4QdiLFXQ"
+  ],
+  "symbol": "WEND",
+  "websites": [
+   "https://buybag.me"
   ]
  },
  {
@@ -2164,6 +2206,11 @@
   "symbol": "CROCO"
  },
  {
+  "address": "0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4",
+  "name": "DARK DUROV",
+  "symbol": "DARKDUROV"
+ },
+ {
   "address": "0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c",
   "name": "DexCoyote Legends",
   "symbol": "DCL"
@@ -2342,6 +2389,11 @@
   "address": "0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528",
   "name": "FREEDOM",
   "symbol": "FREE"
+ },
+ {
+  "address": "0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c",
+  "name": "FadeWallet Token",
+  "symbol": "FWT"
  },
  {
   "address": "0:8c0c4f057defb8d101abca84b26b337f625087afe1e9fe8737f9dbb3d86b1a5b",
@@ -2909,6 +2961,11 @@
   "symbol": "PHOTON"
  },
  {
+  "address": "0:be1b2f9c5a15ca35279c794b1ef92f7f15a4cafbe5080e41440fa725e56a4b01",
+  "name": "ONE",
+  "symbol": "PIECE"
+ },
+ {
   "address": "0:f4ec95fb4c45c0536e05a1f8357725a3633fe2daf97d263f259a1c1b0796defc",
   "name": "PIG",
   "symbol": "PIG"
@@ -2967,6 +3024,11 @@
   "address": "0:3391461c68ff89cdc0de413cccc6e1f7a6d5a144de32be9e313eefdc6e9b84d7",
   "name": "Player Pump Player",
   "symbol": "PPP"
+ },
+ {
+  "address": "0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3",
+  "name": "Prolific",
+  "symbol": "PRO"
  },
  {
   "address": "0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655",
@@ -3519,6 +3581,11 @@
   "symbol": "TSHIB"
  },
  {
+  "address": "0:0660ad3c0da25a429999112cf7cbd82a8bbae6a68062c8a42bbbe7e2acec2a3f",
+  "name": "TeleSwap",
+  "symbol": "TSWAP"
+ },
+ {
   "address": "0:57e2bba1e75227dbfb0b2ba196f262a32526ada14a7cc4c3b160f123b12877cb",
   "name": "T-Project Jetton",
   "symbol": "TTTU"
@@ -3814,6 +3881,25 @@
   "image": "https://kingy.wtf/arb-logo-CMC.png",
   "name": "ARBUZ",
   "symbol": "jARBUZ"
+ },
+ {
+  "address": "EQC16UcPDOF1YBcDfI3-SNA8nr8ECliCRN3O5d_-SSBcUSjf",
+  "coingecko": "https://www.coingecko.com/en/coins/curio-gas-token",
+  "coinmarketcap": "https://coinmarketcap.com/currencies/curio-governance/",
+  "decimals": 18,
+  "description": "Curio Gas Token is the main token of the CurioDAO ecosystem and the native coin in Curio Chain - AppChain of the hybrid real-world asset tokenization system. The CurioDAO ecosystem includes its multi-chain dApps such as Real-world Assets Tokenization Launchpad - CurioInvest, Capital DEX, and RollApp NFT Launchpad.",
+  "image": "https://raw.githubusercontent.com/CurioTeam/capital-dex-token-list/master/assets/cgt-2-logo.svg",
+  "name": "Curio Gas Token",
+  "social": [
+   "https://t.me/CurioInvestCommunity",
+   "https://twitter.com/curio_invest"
+  ],
+  "symbol": "jCGT2.0",
+  "websites": [
+   "https://capitaldex.exchange",
+   "https://curioinvest.com",
+   "https://rollapp.store"
+  ]
  },
  {
   "address": "EQCajaUU1XXSAjTD-xOV7pE49fGtg4q8kF3ELCOJtGvQFQ2C",

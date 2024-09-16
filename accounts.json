@@ -724,6 +724,16 @@
   "require_memo": true
  },
  {
+  "address": "0:1797a5c4c50a2b312ce9927ff6f12efd3b0b58ff311445118c2d2e64312b5d79",
+  "name": "Bitget14",
+  "require_memo": true
+ },
+ {
+  "address": "0:6083005b354ab1c4785aa8ce8293ee5c9c182e9248f27e9c9074f35c16342083",
+  "name": "Bitget15",
+  "require_memo": true
+ },
+ {
   "address": "0:f99b14600ae44d2f12b178e8c6eabd78892ae82c5e45b6898f9deb7eb203f9c4",
   "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg",
   "name": "Binance",
@@ -731,6 +741,11 @@
  },
  {
   "address": "0:8e91b50381c36dd42accdb51f5cb5d96848568b4924f8079b1a5ae7e10f43eda",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg",
+  "name": "Binance Hot Wallet"
+ },
+ {
+  "address": "0:ca1d9edeef40b3a9dbd9082f3767859547c3ce0bf641d09d58e33a3cf06fb309",
   "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg",
   "name": "Binance Hot Wallet"
  },
@@ -767,6 +782,11 @@
  {
   "address": "0:ca6e8f2a3dfc875b8673d8677f3818c4b8c02d1aa481a86a0c61bd09f8269f1d",
   "name": "Foxbit",
+  "require_memo": true
+ },
+ {
+  "address": "0:60def37fb0e6f41b18a73c2496d96b25442344864ca0ed97189a6f37e2439c56",
+  "name": "Richamster",
   "require_memo": true
  },
  {
