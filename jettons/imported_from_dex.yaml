@@ -980,6 +980,9 @@
 - address: 0:23401b7987c4b32ee8031a9fbbe4889e3ee75d2d4df61464781f7177ccf48bc3
   name: TLB500 Index
   symbol: TLB500
+- address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
+  name: Ton Milk
+  symbol: TMILK
 - address: 0:1a1a5c42df56254b1ccaffd846de46ba50dd46f616e15c9237493b5f5111e122
   name: TONY
   symbol: TNY
