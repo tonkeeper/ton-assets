@@ -513,6 +513,7 @@ Name           | Address
 [Ton Hamster](https://tonviewer.com/0:5a9b946e0778a7617b1495a993204aaefad372e4d997e0504b01c65eff7eb479) | EQBam5RuB3inYXsUlamTIEqu-tNy5NmX4FBLAcZe_360eWWE
 [Ton Inu](https://tonviewer.com/0:3a43774c81511f5d0f6d3412f67cc96312123f6b343e477bef3e08c6397c2817) | EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt
 [Ton Invaders Coin](https://tonviewer.com/0:651e7602d14935dff5812b83cdfaa8c1d938a25e2c580d37bb1235f5efe215fb) | EQBlHnYC0Uk13_WBK4PN-qjB2TiiXixYDTe7EjX17-IV-0eF
+[Ton Milk](https://tonviewer.com/0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1) | EQChffb43kDZf5UsUXs6QGZEsvDEkoM1CEVabf-oihoU4d5U
 [Ton Miner](https://tonviewer.com/0:795a3a3bc9775a07bd32068376604bfc8953e301d30e6dffc3ab8d042cb68f96) | EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb
 [Ton Raffles Token](https://tonviewer.com/0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a) | EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h
 [Ton Trump](https://tonviewer.com/0:59181c65852a41cd07c5763ec0a896bab486afb026850580e5d82e49e5320579) | EQBZGBxlhSpBzQfFdj7AqJa6tIavsCaFBYDl2C5J5TIFecrH
