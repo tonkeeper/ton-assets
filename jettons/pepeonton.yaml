@@ -1,0 +1,11 @@
+name: TonPepe
+description: "First TON Pepe on TON Network"
+image: "https://raw.githubusercontent.com/pepeonton/pepeonton/main/Yj_P5Lu3_400x400.jpg"
+address: 0:85162330ddb6d525999a31a641f230bde4c3256b67b394ef5b78a45e6c21118a
+symbol: TonPepe
+max_supply: 690000000
+websites:
+  - "https://tonpepe.fun/"
+social:
+  - "https://t.me/tonpepetoken"
+  - "https://twitter.com/PEPEonton"
