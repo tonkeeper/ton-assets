@@ -1,0 +1,11 @@
+name: "Holy Coin"
+address: "0:9be0630172871273bb1e19eaa8c296f8391546a6cb3a7873899ee8b6eab02008"
+description: "Proof-of-Liquidity holy coin on The Open Network."
+image: "https://cache.tonapi.io/imgproxy/Yu2znGfPEJAsE-gvpoO7oO9CeZFQw3xh4MEBR6iY7H8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1YYkc5NnpkWWIyd3dvVjZkZ25kYlNpM2Jnb3VlZVJDY256NG52VU5KQ1RGdy9waG90b18yMDI0LTA3LTIyXzE4LTU3LTQ4LmpwZw.webp"
+symbol: "HOLY"
+websites:
+  - "https://holycoin.online"
+  - "holycoin.ton"
+social:
+  - "https://t.me/holycointon"
+  - "https://x.com/HolyCoinTon"
