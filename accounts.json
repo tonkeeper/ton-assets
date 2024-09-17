@@ -785,6 +785,11 @@
   "require_memo": true
  },
  {
+  "address": "0:60def37fb0e6f41b18a73c2496d96b25442344864ca0ed97189a6f37e2439c56",
+  "name": "Richamster",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
