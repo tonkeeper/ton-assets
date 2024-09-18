@@ -790,6 +790,12 @@
   "require_memo": true
  },
  {
+  "address": "0:e1d0815edcce61056038e1b2ce2c4b1999fefff1c8e8611f02d7468a03316ad6",
+  "image": "https://cdn.bfinance.app/bf-logo.svg",
+  "name": "BFinance",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
