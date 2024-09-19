@@ -151,6 +151,7 @@ Name           | Address
 [Chad on TON](https://tonviewer.com/0:e99e37c4c12263754b9f6ad1dda2913db192ca983ee781726f6e2c647a5eb3b5) | EQDpnjfEwSJjdUufatHdopE9sZLKmD7ngXJvbixkel6zta5B
 [Chillcoin](https://tonviewer.com/0:3c224ff11239e3872ec2acc32c691989443edc5745547a47bb82d8cd6644610f) | EQA8Ik_xEjnjhy7CrMMsaRmJRD7cV0VUeke7gtjNZkRhD2yP
 [ChipiCoin](https://tonviewer.com/0:5e9d609d3010082eb887f323d7f5b7e68dc66599eaf52604431c359b9432b5dd) | EQBenWCdMBAILriH8yPX9bfmjcZlmer1JgRDHDWblDK13TOp
+[ChronoTech Token](https://tonviewer.com/0:eef628e4e3882b0077b70f2f6a60ecbe86273ebc9af8775087dc737237e813e4) | EQDu9ijk44grAHe3Dy9qYOy-hic-vJr4d1CH3HNyN-gT5LyL
 [Closecoin](https://tonviewer.com/0:d45aef4cff9351f35d9a8f9ac8dc50c182755b2f2c9cbe3f856ffbb417ffc22c) | EQDUWu9M_5NR812aj5rI3FDBgnVbLyycvj-Fb_u0F__CLOSE
 [Cock Fights Token](https://tonviewer.com/0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58) | EQCm4EVrocp34JFelHYPGx_D4pKqQ-gS6_xFZQzIwwA-WElP
 [Coffee](https://tonviewer.com/0:3d75ac8429f96b2fec087fe18a1a2ce3dbaa6f5f4402231c26460ab383953f73) | EQA9dayEKflrL-wIf-GKGizj26pvX0QCIxwmRgqzg5U_c3YB

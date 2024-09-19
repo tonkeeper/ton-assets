@@ -3838,6 +3838,11 @@
   "symbol": "jSYBZERO"
  },
  {
+  "address": "0:eef628e4e3882b0077b70f2f6a60ecbe86273ebc9af8775087dc737237e813e4",
+  "name": "ChronoTech Token",
+  "symbol": "jTIME"
+ },
+ {
   "address": "0:b8ed87d52d6a3e53fcfbb3a8843a4600004285fc2d3e801881f0a24beace66e0",
   "name": "TOWER",
   "symbol": "jTOWER"
