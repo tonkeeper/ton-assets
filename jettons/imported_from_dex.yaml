@@ -1175,6 +1175,9 @@
 - address: 0:b2fd9a3f6a174209c0f21906b3b8054a59af0a496f77d23d5523c93d65025807
   name: SybilZero
   symbol: jSYBZERO
+- address: 0:eef628e4e3882b0077b70f2f6a60ecbe86273ebc9af8775087dc737237e813e4
+  name: ChronoTech Token
+  symbol: jTIME
 - address: 0:b8ed87d52d6a3e53fcfbb3a8843a4600004285fc2d3e801881f0a24beace66e0
   name: TOWER
   symbol: jTOWER
