@@ -1,0 +1,13 @@
+name: BlackHat Coin
+description: BlackHat Coin wrapped Jetton
+image: "https://raw.githubusercontent.com/BlackHatCoin/jetton/master/logo_light256x256.png"
+address: 0:fe27a52a6107b3b949ba4a53c39c7c13c57aa8e2e1f2b3f7e57bfccabcce6760
+symbol: BLKC
+max_supply: 21000000
+websites:
+  - "https://blackhatco.in"
+social:
+  - "https://t.me/BlackHatCoin"
+  - "https://blackhatco.in/discord"
+  - "https://x.com/blkcoin"
+  - "https://github.com/BlackHatCoin"
