@@ -1,3 +1,4 @@
+![download-huawei](https://github.com/user-attachments/assets/993d9ba6-7bfb-40e8-9830-7b53cba60840)
 # TON Assets
 
 This is a list of popular addresses and assets. We are open to pull request but **please read manual in the end of this readme for PR**.
