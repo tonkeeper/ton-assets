@@ -664,6 +664,12 @@
   "symbol": "HEDGE"
  },
  {
+  "address": "EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo",
+  "decimals": 9,
+  "name": "Hamster Kombat",
+  "symbol": "HMSTR"
+ },
+ {
   "address": "0:74da7151d386c3c1e53c17247a089b94458994a7f638859410fc29fadd227415",
   "description": "HOLD ON \ud83d\ude80",
   "name": "Fintopio \ud83d\udc8e",
