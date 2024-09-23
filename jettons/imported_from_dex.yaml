@@ -1163,6 +1163,9 @@
 - address: 0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861
   name: Bitget Wallet Token
   symbol: jBWB
+- address: 0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700
+  name: GAMEE
+  symbol: jGMEE
 - address: 0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268
   name: Junior Invest
   symbol: jInvest
