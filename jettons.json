@@ -2080,6 +2080,11 @@
   "symbol": "BOGE"
  },
  {
+  "address": "0:3b31a0299df9902c75820bb789e96b94cc9ea3b8cb68a706672f035a00bedfdf",
+  "name": "Bonescoin",
+  "symbol": "BONES"
+ },
+ {
   "address": "0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81",
   "name": "BOOBA Coin",
   "symbol": "BOOBA"
@@ -3250,6 +3255,11 @@
   "symbol": "RUGP"
  },
  {
+  "address": "0:175132cd54c6bf1db9bf197d8dcf1beda0e03f8895367794dfd04ef5e4c63f45",
+  "name": "RUG POLICE",
+  "symbol": "RUGP"
+ },
+ {
   "address": "0:f3bece9984d0d931031e28ad889dcf32983a4e465d07e6101f82d7f775745bb7",
   "name": "Rug Pull",
   "symbol": "RUGPULL"
@@ -3318,6 +3328,11 @@
   "address": "0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd",
   "name": "BARASH",
   "symbol": "SHEEP"
+ },
+ {
+  "address": "0:3aa3ef1881b139913aab813448194b10073238179d322b9388c151d1985028b5",
+  "name": "SHEP the Dogonaut",
+  "symbol": "SHEP"
  },
  {
   "address": "0:c1ad99ba1a487cb3763dd8d7d42a1ef567084a666670d08804d63ddee9901fba",
@@ -3688,6 +3703,16 @@
   "address": "0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55",
   "name": "Twister The Dog",
   "symbol": "TWIDO"
+ },
+ {
+  "address": "0:745384c7ebd0810fa01e3bfc8714c5bebbdd14987ffae46c3902465b96ddc63b",
+  "name": "Tvorog",
+  "symbol": "TYS"
+ },
+ {
+  "address": "0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3",
+  "name": "Token 69",
+  "symbol": "Token 69"
  },
  {
   "address": "0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce",
