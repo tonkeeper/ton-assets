@@ -1103,6 +1103,9 @@
 - address: 0:dd0a16bf2be67dee52a5e7df4ed060c0b74a72d9952ea27b385ae7fce6daba35
   name: "Du Rove\u2019s Wall"
   symbol: WALL
+- address: 0:84ab3db1dfe51bfc43b8639efdf0d368a8ac35b4ffed27a6fdcbe5f40b8bafb3
+  name: WATCoin
+  symbol: WAT
 - address: 0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b
   name: Web3 TON Token
   symbol: WEB3
@@ -1166,6 +1169,9 @@
 - address: 0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861
   name: Bitget Wallet Token
   symbol: jBWB
+- address: 0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700
+  name: GAMEE
+  symbol: jGMEE
 - address: 0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268
   name: Junior Invest
   symbol: jInvest
