@@ -667,6 +667,7 @@ Name           | Address
 [Virtuals Worlds](https://tonviewer.com/0:5f5fd28ee72205a6b1d63e9269dceb17fba7232e310917e879b88404dde2c963) | EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h
 [Vladimir Puton](https://tonviewer.com/0:0cd0b3c29d2b2fe6656006a302bbbd24bdbc4dad2b617e1bbf4207944e7be0b4) | EQAM0LPCnSsv5mVgBqMCu70kvbxNrSthfhu_QgeUTnvgtD22
 [Volodemer](https://tonviewer.com/0:f9ac61a0562235ea74f99cbd1ab82c199533c26f008e223364231d682d6d76b4) | EQD5rGGgViI16nT5nL0auCwZlTPCbwCOIjNkIx1oLW12tFgo
+[WATCoin](https://tonviewer.com/0:84ab3db1dfe51bfc43b8639efdf0d368a8ac35b4ffed27a6fdcbe5f40b8bafb3) | EQCEqz2x3-Ub_EO4Y5798NNoqKw1tP_tJ6b9y-X0C4uvs8Zf
 [WEED on TON](https://tonviewer.com/0:372f1691401cd9fd0ccfb31d7a10027f01c849974c2de2bdf725fd0d0687d298) | EQA3LxaRQBzZ_QzPsx16EAJ_AchJl0wt4r33Jf0NBofSmOY8
 [WEN DIZEL](https://tonviewer.com/0:5eaeecfe45729016c54787a6eeb02ca5377fd5c9e67628bc82e218ae960fa741) | EQBeruz-RXKQFsVHh6busCylN3_VyeZ2KLyC4hiulg-nQVfj
 [WINKO](https://tonviewer.com/0:9c1101fd38766dca0269580685898bbe3a8115423489cfa0f2ff453d844c92c8) | EQCcEQH9OHZtygJpWAaFiYu-OoEVQjSJz6Dy_0U9hEySyO4U
