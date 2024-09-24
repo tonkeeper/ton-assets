@@ -141,6 +141,7 @@ Name           | Address
 [CARAT](https://tonviewer.com/0:f970ea1f187d4ba596e4ab15b6885f95084e52cca80fd4adc0071767c7a4ce83) | EQD5cOofGH1LpZbkqxW2iF-VCE5SzKgP1K3ABxdnx6TOg1u1
 [CARDIFY Coin](https://tonviewer.com/0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc) | EQAdz16aPWCmAYldTiX_g-NRzT-spbN8tCk9dJIHfAiC3L4p
 [CAT LESHA](https://tonviewer.com/0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d) | EQA5-G7djF86kQlspnEu4RI2HN-zgu81DcE_ap0yuA84fa1x
+[CATS](https://tonviewer.com/0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8) | EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C
 [CAVIAR COIN](https://tonviewer.com/0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e) | EQD6W0raB1aGCr86pWd7-oWpA3QW2VXCJ9smlYcChkIhflt2
 [CHADUROV](https://tonviewer.com/0:2e0c6dd9d15d3ca1a77ac10ccd2b44f5cc76d4fc763fe85b5e99d5ac109f5d1e) | EQAuDG3Z0V08oad6wQzNK0T1zHbU_HY_6FtemdWsEJ9dHr1M
 [CHORRY](https://tonviewer.com/0:36147a2b4f3bd8a6c337b7fe88a8cba2829259081ffee47f340aa6c821a50bab) | EQA2FHorTzvYpsM3t_6IqMuigpJZCB_-5H80CqbIIaULq272
@@ -562,7 +563,6 @@ Name           | Address
 [TON Attack](https://tonviewer.com/0:7604e727930b08b23a9dfab6c09b86efaee9b7fcc24a312829f7be20efecc8a3) | EQB2BOcnkwsIsjqd-rbAm4bvrum3_MJKMSgp974g7-zIo5xv
 [TON BOGE MEMECOIN](https://tonviewer.com/0:5e27143499fe78ff083775227313a238e18a2bbd5087ae32d24534e455d8cbd9) | EQBeJxQ0mf54_wg3dSJzE6I44YorvVCHrjLSRTTkVdjL2VYj
 [TON Cat](https://tonviewer.com/0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713) | EQBtDmYgCKk3ecQ1x-j0CLZRnPYyaV7cB33ad036QN-HE2C7
-[TON Cats Jetton](https://tonviewer.com/0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8) | EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C
 [TON Click](https://tonviewer.com/0:18043b8b74bae30ca47549467ad19b8bb92cc70c8a04dbacd9131b81fdb8e21b) | EQAYBDuLdLrjDKR1SUZ60ZuLuSzHDIoE26zZExuB_bjiG0Zr
 [TON Degen](https://tonviewer.com/0:1a2726c0b1d7176de5bf3ecad0644959584e31f262e42fdb39f2421cd0eb6909) | EQAaJybAsdcXbeW_PsrQZElZWE4x8mLkL9s58kIc0OtpCWFO
 [TON Drift](https://tonviewer.com/0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda) | EQAhRC_oZ4B9VgMltfNkENSdLktlMADPE73zIiIcL6es2o7-
