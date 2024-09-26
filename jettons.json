@@ -499,6 +499,21 @@
   "symbol": "E4"
  },
  {
+  "address": "EQAWqZE17MQgawh-Jo_Z8Wh_dGc1zpo7rL6r2w4L7XK_HygW",
+  "description": "1st Motion-sensing GameFi utility token beyond games",
+  "image": "https://peach-holy-lizard-605.mypinata.cloud/ipfs/Qmd1oCnNwfVRid8nvWBPEdqp18Nv3NK3xL1yYWCgcnw3Ky",
+  "name": "ENERGY",
+  "social": [
+   "https://x.com/Enertime_Eppy",
+   "https://t.me/Enertime_Community",
+   "https://t.me/Eppy_Enertime"
+  ],
+  "symbol": "ENERGY",
+  "websites": [
+   "https://enertime.io/energy"
+  ]
+ },
+ {
   "address": "0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a",
   "name": "Energy Cells",
   "symbol": "ENRG"
