@@ -1,0 +1,11 @@
+name: Pi Ton Network
+description: "Embrace PITON, where Pi represents more than just a mathematical constant—it embodies a way of life."
+image: "https://raw.githubusercontent.com/pineerr/pitonnetwork/main/piton-logo.png"
+address: "EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p" 
+symbol: PITON
+max_supply: 3141592653589
+websites:
+  - "https://piton.network"
+social:  
+  - "https://twitter.com/pitonnetwork"
+  - "https://t.me/pitonnetwork"
