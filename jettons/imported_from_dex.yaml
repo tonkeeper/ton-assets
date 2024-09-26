@@ -397,8 +397,8 @@
 - address: 0:ceae0d465ce6efa4ba104a99c6c5c6f9c00e36f95d8270597a3ebdb9b15a0956
   name: Hmmcoin
   symbol: HMM
-- address: 0:5a9b946e0778a7617b1495a993204aaefad372e4d997e0504b01c65eff7eb479
-  name: Ton Hamster
+- address: 0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d
+  name: Hamster Kombat
   symbol: HMSTR
 - address: 0:1656fdb1eadc6873935e97d0a5b5b7d848130e39fd11f6c6fb1a7a98fb89dc9a
   name: Holy Coin
@@ -1082,6 +1082,9 @@
 - address: 0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce
   name: Ton Doge Coin
   symbol: TonDoge
+- address: 0:5a9b946e0778a7617b1495a993204aaefad372e4d997e0504b01c65eff7eb479
+  name: Ton Hamster
+  symbol: TonHMSTR
 - address: 0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25
   name: UNICORN
   symbol: UNIC
