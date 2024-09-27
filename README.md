@@ -209,6 +209,7 @@ Name           | Address
 [Durov’s Code](https://tonviewer.com/0:c97192095e0f3193f8bcc0dd100128525de76a16f816cee2f88b9d25d58ad637) | EQDJcZIJXg8xk_i8wN0QAShSXedqFvgWzuL4i50l1YrWN9GN
 [E4](https://tonviewer.com/0:cd94d0363526d6b62816dfb597fff148bb863634d3f08a325ddcab66862ee074) | EQDNlNA2NSbWtigW37WX__FIu4Y2NNPwijJd3Ktmhi7gdCyv
 [ECNATSISER GOD](https://tonviewer.com/0:321237232c5db81f64d3adecb561e777b91b35f316ea905094deece98471ebf2) | EQAyEjcjLF24H2TTrey1Yed3uRs18xbqkFCU3uzphHHr8n3y
+[ENERGY](https://tonviewer.com/0:16a99135ecc4206b087e268fd9f1687f746735ce9a3bacbeabdb0e0bed72bf1f) | EQAWqZE17MQgawh-Jo_Z8Wh_dGc1zpo7rL6r2w4L7XK_HygW
 [EXTON COIN](https://tonviewer.com/0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a) | EQC-A0ZHiAliPJ6LYQQZ6x2WRJC0aHEmJ_OMG6pidb5ASpIY
 [EggsWisdom](https://tonviewer.com/0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b) | EQDCAjHxgyScUPS-Am_2nAH7C5XWM4fc2X9dVyWpFgHXG2rT
 [Energy Cells](https://tonviewer.com/0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a) | EQDA6v7olSvZCEr2yNhUlM4eBnRF11lsHLrtkkh7MSMICt4r
@@ -530,6 +531,7 @@ Name           | Address
 [SantaCoin](https://tonviewer.com/0:e506a188dabe388e99e161f12225a854f1bed9a28de7a35de5e90f47f802096c) | EQDlBqGI2r44jpnhYfEiJahU8b7Zoo3no13l6Q9H-AIJbAgo
 [Save Ass Coin](https://tonviewer.com/0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd) | EQAQB8Ut4tnlOl54this4vZqkWTVISybPnx_XID9337WzVra
 [Scaleton](https://tonviewer.com/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
+[SecondLive](https://tonviewer.com/0:2b310049627d7149911f613eb0e465185bce027558f7c8568053fde33139306e) | EQArMQBJYn1xSZEfYT6w5GUYW84CdVj3yFaAU_3jMTkwbhFb
 [Secure Sockets Layer](https://tonviewer.com/0:f753cc9cda6a137bcc826d4958c64321fd208258b92ec506a6da569be220dfa5) | EQD3U8yc2moTe8yCbUlYxkMh_SCCWLkuxQam2lab4iDfpXYU
 [Shards of Anonymous Telegram Numbers](https://tonviewer.com/0:b56c7e2d151dad11542e5b88b6470c2971ca1a4b2f8645012a62b08a81935f37) | EQC1bH4tFR2tEVQuW4i2RwwpccoaSy-GRQEqYrCKgZNfNw0r
 [Shards of Notcoin NFT bond](https://tonviewer.com/0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b) | EQCIXQn940RNcOk6GzSorRSiA9WZC9xUz-6lyhl6Ap6na2sh
