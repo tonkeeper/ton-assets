@@ -56,6 +56,8 @@ def merge_jettons():
             jettons.extend(j)
         else:
             jettons.append(j)
+            
+    already_exist_address = dict()
     for j in jettons:
         if len(set(j.keys()) - ALLOWED_KEYS) > 0 :
             raise Exception("invalid keys %s in %s" % (set(j.keys()) - ALLOWED_KEYS, j.get('name')))
@@ -63,6 +65,11 @@ def merge_jettons():
             raise Exception("name, symbol and address are required %s "  % j.get("name"))
         if 'image' in j and j['image'].startswith('https://cache.tonapi.io'):
             raise Exception("don't use cache.tonapi.io as image source in %v", j.get("name"))
+
+        normalized = normalize_address(j["address"], True)
+        if (exist := already_exist_address.get(normalized)):
+            raise Exception(f"duplicate address for {j['name']} and {exist}")
+        already_exist_address[normalized] = j["name"]
         for field in ['symbol', 'name', 'address', 'description', 'image', 'coinmarketcap', 'coingecko']:
             if not isinstance(j.get(field, ''), str):
                 raise Exception("invalid image field type %s" % j.get("name"))
