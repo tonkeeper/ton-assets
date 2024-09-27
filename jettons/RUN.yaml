@@ -1,0 +1,10 @@
+name: RUN
+description: RUN Coin
+image: "https://eoy52.github.io/run/RUNLogo.png"
+address: EQCXSOm6MryhR7thv5G-h18YSUucl3M7ILUSyAwfWAd0KswG
+symbol: RUN
+max_supply: 22000000
+websites:
+  - "https://coinrun.ru/"
+social:
+  - "https://t.me/run_coin"
