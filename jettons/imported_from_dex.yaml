@@ -406,6 +406,9 @@
 - address: 0:5a9b946e0778a7617b1495a993204aaefad372e4d997e0504b01c65eff7eb479
   name: Ton Hamster
   symbol: HMSTR
+- address: 0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d
+  name: Hamster Kombat
+  symbol: HMSTR
 - address: 0:1656fdb1eadc6873935e97d0a5b5b7d848130e39fd11f6c6fb1a7a98fb89dc9a
   name: Holy Coin
   symbol: HOLY
