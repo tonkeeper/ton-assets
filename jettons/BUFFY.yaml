@@ -1,0 +1,11 @@
+name: Buffy
+description: Buffy is the name of the dog owned by Pavel Durov, one of the co-founders of Telegram and TON. This project pays homage to him, and his dog https://t.me/BuffyTonPortal
+image: "https://i.ibb.co/KqgrS7t/photo-2024-01-15-13-53-19.jpg"
+address: 0:716d0cad2fae30b93cf9d4a72938b7530d23a1aab5752da3ca0eb84ea8b077bf
+symbol: BUFFY
+max_supply: 1000000
+websites:
+  - "https://buffyonton.com"
+social:
+  - "https://t.me/BuffyTonPortal"
+  - "https://twitter.com/Buffy_ton"
