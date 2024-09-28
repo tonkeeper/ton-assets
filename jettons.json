@@ -1572,6 +1572,23 @@
   ]
  },
  {
+  "address": "EQCzHal68j_oKadmUTvK9Ns19P_-bk8PcrHduXk0H2cIBA_W",
+  "description": "Toki - this is what you need\u23f3 \u30c8\u30ad \u30c8\u30f3",
+  "image": "https://raw.githubusercontent.com/jetmoonton/connect/main/TOKI/TOKIlogo.png",
+  "name": "TOKI",
+  "social": [
+   "https://t.me/jetmoonton",
+   "https://x.com/xTokiton",
+   "https://t.me/xtokiton",
+   "https://t.me/tokiton",
+   "https://t.me/tokitonbot"
+  ],
+  "symbol": "TOKI",
+  "websites": [
+   "https://getgems.io/tokiton"
+  ]
+ },
+ {
   "address": "0:8e291ace7b37997c28242873be3c19e179ec578eb147652f9e44ee43ffc87960",
   "description": "$TOL is The Open League MEME community token. Earn rewards by using TON ecosystem projects.",
   "image": "https://i.postimg.cc/T3v9sCQQ/tol-new.jpg",
