@@ -2233,6 +2233,11 @@
   "symbol": "CATI"
  },
  {
+  "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
+  "name": "Cute Cats",
+  "symbol": "CATS"
+ },
+ {
   "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
   "name": "TON Cats Jetton",
   "symbol": "CATS"
@@ -2521,6 +2526,11 @@
   "address": "0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528",
   "name": "FREEDOM",
   "symbol": "FREE"
+ },
+ {
+  "address": "0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6",
+  "name": "Frogy LIVE",
+  "symbol": "FROGY"
  },
  {
   "address": "0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c",
