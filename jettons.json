@@ -548,6 +548,23 @@
   ]
  },
  {
+  "address": "EQDCBwiUEeeBLHhqIW161yObGvO7_BqZeD3XR5E2y_fwfiMG",
+  "description": "$FTON is the first gaming token with an extensive utility within the framework of the Fanton football tournaments.",
+  "image": "https://fan-ton.com/FTON_logo.png",
+  "name": "Utility Token for Fanton Fantasy Sport Game",
+  "social": [
+   "https://t.me/fanton_nft_ru",
+   "https://x.com/FantasyFanton",
+   "https://t.me/fanton_nft_en",
+   "https://t.me/fanton"
+  ],
+  "symbol": "FTON",
+  "websites": [
+   "https://t.me/FanTonGameBot",
+   "https://fan-ton.com/"
+  ]
+ },
+ {
   "address": "EQAj680BapntDEm6parX4BfX_S1Jcb1qpF63BREiHZYBGENE",
   "image": "https://gattogame.github.io/Gatto/500x500.png",
   "name": "Gatto",
