@@ -4,7 +4,7 @@ image: "https://cache.tonapi.io/imgproxy/Z0RbHSdZYtkLG2q_mhiX9yRvZ-6VqAQk4SiAn3p
 address: 0:86c97b2aad5c8330fd016714b78bb29efb387dba875d5471135208263c9302d9
 symbol: REDOI
 websites:
-  - "tonsite://redoifoundation.ton"
+  - "https://redoifoundation.org"
 social:
   - "https://t.me/redoinveston"  
   - "https://x.com/redoinveston"
