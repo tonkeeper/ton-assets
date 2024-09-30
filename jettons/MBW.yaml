@@ -1,0 +1,11 @@
+name: MyBlueWhale
+description: 💡 Smart solutions on Telegram 🤖 (launched on ⛽️ GasPump)
+symbol: MBW
+image: "https://raw.githubusercontent.com/MyBlueWhale/LOGO/main/256X256.png"
+address: "0:c963a3218883b5771c471effe8d30b5de357354b7d2e5819fa55010921af5ebd"
+decimals: 9
+websites:
+  - "https://www.mybluewhale.net"
+social:
+  - "https://t.me/mybluewhale_info"
+  - "https://x.com/mybluewhaleinfo"
