@@ -548,6 +548,23 @@
   ]
  },
  {
+  "address": "EQDCBwiUEeeBLHhqIW161yObGvO7_BqZeD3XR5E2y_fwfiMG",
+  "description": "FTON is the first gaming token with an extensive utility within the framework of the Fanton football tournaments.",
+  "image": "https://fan-ton.com/FTON_logo.png",
+  "name": "Utility Token for Fanton Fantasy Sport Game",
+  "social": [
+   "https://t.me/fanton_nft_ru",
+   "https://x.com/FantasyFanton",
+   "https://t.me/fanton_nft_en",
+   "https://t.me/fanton"
+  ],
+  "symbol": "FTON",
+  "websites": [
+   "https://t.me/FanTonGameBot",
+   "https://fan-ton.com/"
+  ]
+ },
+ {
   "address": "EQAj680BapntDEm6parX4BfX_S1Jcb1qpF63BREiHZYBGENE",
   "image": "https://gattogame.github.io/Gatto/500x500.png",
   "name": "Gatto",
@@ -2233,6 +2250,11 @@
   "symbol": "CATI"
  },
  {
+  "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
+  "name": "Cute Cats",
+  "symbol": "CATS"
+ },
+ {
   "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
   "name": "TON Cats Jetton",
   "symbol": "CATS"
@@ -2521,6 +2543,11 @@
   "address": "0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528",
   "name": "FREEDOM",
   "symbol": "FREE"
+ },
+ {
+  "address": "0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6",
+  "name": "Frogy LIVE",
+  "symbol": "FROGY"
  },
  {
   "address": "0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c",

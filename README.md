@@ -169,6 +169,7 @@ Name           | Address
 [Crystals](https://tonviewer.com/0:a2821d07c97169a021677ca43223c8d610aeca85b12c3a93058e8de051124a3b) | EQCigh0HyXFpoCFnfKQyI8jWEK7KhbEsOpMFjo3gURJKOxnD
 [Cubigator](https://tonviewer.com/0:9748c357dce0798cf80e2641338d8866ec53817e4037720ee9681a93630cd7ae) | EQCXSMNX3OB5jPgOJkEzjYhm7FOBfkA3cg7paBqTYwzXrjIi
 [Curio Gas Token](https://tonviewer.com/0:b5e9470f0ce1756017037c8dfe48d03c9ebf040a588244ddcee5dffe49205c51) | EQC16UcPDOF1YBcDfI3-SNA8nr8ECliCRN3O5d_-SSBcUSjf
+[Cute Cats](https://tonviewer.com/0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4) | EQCy95IhvMjCGDzvhm5WpqlFXjaPmVYJRWvGtRBcI8B69E3z
 [Cygnus Global USDT](https://tonviewer.com/0:48070de617f4c3309a960198a156cc9404c5a95b0fdd79fb592e20b14e6ac250) | EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy
 [DAOLegion](https://tonviewer.com/0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a) | EQDtqSANqK4LqgDk4f_q9mIvOaVy212ulavP9em2eYwKOiJw
 [DARK DUROV](https://tonviewer.com/0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4) | EQAlDLg8O1n086na4MG0FldSBkIqpls6oBi5R7YRAt401Dcd
@@ -230,6 +231,7 @@ Name           | Address
 [Flamingo Coin](https://tonviewer.com/0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025) | EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_
 [FlokiTon](https://tonviewer.com/0:11983c9b7c4bf223faf7256ef364057e553cfca56bec7ae216a6362a400e38ba) | EQARmDybfEvyI_r3JW7zZAV-VTz8pWvseuIWpjYqQA44ui9r
 [Fort Emblem](https://tonviewer.com/0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537) | EQBsOuAAfsbY3rFNWiQm032rj4ox8BllNEIBytAC87klN2Fv
+[Frogy LIVE](https://tonviewer.com/0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6) | EQAA8LaTXHBojqCA5nVHz9-MBoHTw1l3Ordeuy_Z7yGrxocS
 [GAMEE](https://tonviewer.com/0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700) | EQCqnhZndBGbwjPpV8K_8WOK58ZkQPXlS_bshau9DKWnAF-p
 [GAS000](https://tonviewer.com/0:7cba170a3e6f486af204ce89c690f1bce5a2085cfa27af9c8f49eb1a5d19d553) | EQB8uhcKPm9IavIEzonGkPG85aIIXPonr5yPSesaXRnVU2JJ
 [GEMSTON](https://tonviewer.com/0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4) | EQBX6K9aXVl3nXINCyPPL86C4ONVmQ8vK360u6dykFKXpHCa
@@ -673,6 +675,7 @@ Name           | Address
 [UXLINK Token](https://tonviewer.com/0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293) | EQBh9XACT0B60U8Q48VnjyqCxzxpM4oA0c8rqKt4h70yk1V5
 [UXUY Token](https://tonviewer.com/0:3bbe9955b44382e871df1f080f0ba124776a7db558a9fbbb3a85f6776abf86ac) | EQA7vplVtEOC6HHfHwgPC6Ekd2p9tVip-7s6hfZ3ar-GrJBP
 [Ultron](https://tonviewer.com/0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430) | EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT
+[Utility Token for Fanton Fantasy Sport Game](https://tonviewer.com/0:c207089411e7812c786a216d7ad7239b1af3bbfc1a99783dd7479136cbf7f07e) | EQDCBwiUEeeBLHhqIW161yObGvO7_BqZeD3XR5E2y_fwfiMG
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
 [VIP Coin](https://tonviewer.com/0:f49a2c6d7edc3be8551c574365d2842608f6c9f3a0d42c635be360353cec590a) | EQD0mixtftw76FUcV0Nl0oQmCPbJ86DULGNb42A1POxZCk3U
 [VISHNYA](https://tonviewer.com/0:832092854dfe50a168a2ebefca4e4f1ba3a78a891fba864e47510c22c427bc49) | EQCDIJKFTf5QoWii6-_KTk8bo6eKiR-6hk5HUQwixCe8SW-I
