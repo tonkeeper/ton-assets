@@ -1694,6 +1694,11 @@
   "symbol": "FROGY"
  },
  {
+  "address": "0:c207089411e7812c786a216d7ad7239b1af3bbfc1a99783dd7479136cbf7f07e",
+  "name": "Fanton",
+  "symbol": "FTON"
+ },
+ {
   "address": "0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c",
   "name": "FadeWallet Token",
   "symbol": "FWT"
