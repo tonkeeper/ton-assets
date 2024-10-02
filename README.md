@@ -672,6 +672,7 @@ Name           | Address
 [UNICORN](https://tonviewer.com/0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25) | EQB2lbt2s_jdUW3OoUIb7-9RoK2UeGXmgC7BnOwgK6P_JTrm
 [UNITON TOKEN](https://tonviewer.com/0:0f2aa4459d073eda6e4e820d1450c34cd1c65174ae09511da037ac24f0f5fdd3) | EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf
 [USDT Storm LP](https://tonviewer.com/0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11) | EQCup4xxCulCcNwmOocM9HtDYPU8xe0449tQLp6a-5BLEegW
+[USTG](https://tonviewer.com/0:e658cf9ec75709e6178065996113809cb7cd4e594934c3eaf10ab6bc0fc1fdc1) | EQDmWM-ex1cJ5heAZZlhE4Cct81OWUk0w-rxCra8D8H9wbRy
 [UTYAB](https://tonviewer.com/0:30eb766a2e69f0440efb3d6d3b0962049e0c20f9e222cac6aa67c216a542f49c) | EQAw63ZqLmnwRA77PW07CWIEngwg-eIiysaqZ8IWpUL0nP7a
 [UXLINK Token](https://tonviewer.com/0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293) | EQBh9XACT0B60U8Q48VnjyqCxzxpM4oA0c8rqKt4h70yk1V5
 [UXUY Token](https://tonviewer.com/0:3bbe9955b44382e871df1f080f0ba124776a7db558a9fbbb3a85f6776abf86ac) | EQA7vplVtEOC6HHfHwgPC6Ekd2p9tVip-7s6hfZ3ar-GrJBP
