@@ -225,6 +225,7 @@ Name           | Address
 [FUCK MORGENSHTERN](https://tonviewer.com/0:3860cf5c167e2cc1051f17d0605056fb50362cee17d61bdacc857527e96a751b) | EQA4YM9cFn4swQUfF9BgUFb7UDYs7hfWG9rMhXUn6Wp1G0Kx
 [FadeWallet Token](https://tonviewer.com/0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c) | EQCh9DUkmEdz7BuM_kv_iDqXeXWHrMUZHcZfXnr8yBAfPHcn
 [Fake Notcoin](https://tonviewer.com/0:1596e1910b8c04576683a62220aa212f8671fefa59aae4415a2fa0bd55fbf455) | EQAVluGRC4wEV2aDpiIgqiEvhnH--lmq5EFaL6C9Vfv0VRMZ
+[Fanton](https://tonviewer.com/0:c207089411e7812c786a216d7ad7239b1af3bbfc1a99783dd7479136cbf7f07e) | EQDCBwiUEeeBLHhqIW161yObGvO7_BqZeD3XR5E2y_fwfiMG
 [Fanzee Token](https://tonviewer.com/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
 [Ferma Invest Dom](https://tonviewer.com/0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27) | EQCsN1IslttnFpGjUabpt3RCnVYca74ZB9yD0L2ZK9CvJ53D
 [Fintopio 💎](https://tonviewer.com/0:74da7151d386c3c1e53c17247a089b94458994a7f638859410fc29fadd227415) | EQB02nFR04bDweU8FyR6CJuURYmUp_Y4hZQQ_Cn63SJ0FZga
@@ -397,6 +398,7 @@ Name           | Address
 [MiDtoken](https://tonviewer.com/0:a05b788c898aa4a818ea611dfdd70e76e7ede99c5cd5b2d1e56d9e1d92e956fe) | EQCgW3iMiYqkqBjqYR391w525-3pnFzVstHlbZ4dkulW_oz5
 [Microdiving](https://tonviewer.com/0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5) | EQDhSXj-di6Wo6__Pqd51dHZHel0MQeaegmhCWm-tkwwtem8
 [Milyman](https://tonviewer.com/0:9f2784aed75874fcc0765d1bc88e6f20c34cb6001e116447cea0f3b07b2548ce) | EQCfJ4Su11h0_MB2XRvIjm8gw0y2AB4RZEfOoPOweyVIzvda
+[Mining Base Coin](https://tonviewer.com/0:49d870b19012a1f2cf5bab7c1d50211828ddd530ffe77ac65745794c610112c6) | EQBJ2HCxkBKh8s9bq3wdUCEYKN3VMP_nesZXRXlMYQESxhYk
 [Mistress](https://tonviewer.com/0:77a1e6819c862a15b907a6164c9c2b4e3b7eccb9de5bdcd49d2f43c062482bdd) | EQB3oeaBnIYqFbkHphZMnCtOO37Mud5b3NSdL0PAYkgr3Xur
 [Morfey](https://tonviewer.com/0:7ae10db5f371fd5eab2b47d87ab55f37027465157f3a30959108c425b20414db) | EQB64Q2183H9XqsrR9h6tV83AnRlFX86MJWRCMQlsgQU2-yv
 [MrKrabs](https://tonviewer.com/0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862) | EQAaV7Q9M0vrO5HfKrPNnQneXB-S9RyBneMNeX4KzECIYrdk
@@ -671,11 +673,11 @@ Name           | Address
 [UNICORN](https://tonviewer.com/0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25) | EQB2lbt2s_jdUW3OoUIb7-9RoK2UeGXmgC7BnOwgK6P_JTrm
 [UNITON TOKEN](https://tonviewer.com/0:0f2aa4459d073eda6e4e820d1450c34cd1c65174ae09511da037ac24f0f5fdd3) | EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf
 [USDT Storm LP](https://tonviewer.com/0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11) | EQCup4xxCulCcNwmOocM9HtDYPU8xe0449tQLp6a-5BLEegW
+[USTG](https://tonviewer.com/0:e658cf9ec75709e6178065996113809cb7cd4e594934c3eaf10ab6bc0fc1fdc1) | EQDmWM-ex1cJ5heAZZlhE4Cct81OWUk0w-rxCra8D8H9wbRy
 [UTYAB](https://tonviewer.com/0:30eb766a2e69f0440efb3d6d3b0962049e0c20f9e222cac6aa67c216a542f49c) | EQAw63ZqLmnwRA77PW07CWIEngwg-eIiysaqZ8IWpUL0nP7a
 [UXLINK Token](https://tonviewer.com/0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293) | EQBh9XACT0B60U8Q48VnjyqCxzxpM4oA0c8rqKt4h70yk1V5
 [UXUY Token](https://tonviewer.com/0:3bbe9955b44382e871df1f080f0ba124776a7db558a9fbbb3a85f6776abf86ac) | EQA7vplVtEOC6HHfHwgPC6Ekd2p9tVip-7s6hfZ3ar-GrJBP
 [Ultron](https://tonviewer.com/0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430) | EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT
-[Utility Token for Fanton Fantasy Sport Game](https://tonviewer.com/0:c207089411e7812c786a216d7ad7239b1af3bbfc1a99783dd7479136cbf7f07e) | EQDCBwiUEeeBLHhqIW161yObGvO7_BqZeD3XR5E2y_fwfiMG
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
 [VIP Coin](https://tonviewer.com/0:f49a2c6d7edc3be8551c574365d2842608f6c9f3a0d42c635be360353cec590a) | EQD0mixtftw76FUcV0Nl0oQmCPbJ86DULGNb42A1POxZCk3U
 [VISHNYA](https://tonviewer.com/0:832092854dfe50a168a2ebefca4e4f1ba3a78a891fba864e47510c22c427bc49) | EQCDIJKFTf5QoWii6-_KTk8bo6eKiR-6hk5HUQwixCe8SW-I

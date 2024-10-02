@@ -549,9 +549,9 @@
  },
  {
   "address": "EQDCBwiUEeeBLHhqIW161yObGvO7_BqZeD3XR5E2y_fwfiMG",
-  "description": "FTON is the first gaming token with an extensive utility within the framework of the Fanton football tournaments.",
+  "description": "Utility Token for Fanton Fantasy Sport Game",
   "image": "https://fan-ton.com/FTON_logo.png",
-  "name": "Utility Token for Fanton Fantasy Sport Game",
+  "name": "Fanton",
   "social": [
    "https://t.me/fanton_nft_ru",
    "https://x.com/FantasyFanton",
@@ -942,6 +942,22 @@
    "https://t.me/NFTMAZNIA"
   ],
   "symbol": "MZN"
+ },
+ {
+  "address": "EQBJ2HCxkBKh8s9bq3wdUCEYKN3VMP_nesZXRXlMYQESxhYk",
+  "description": "PoW-based tokens for member contributions and profit-sharing at Miners.Club",
+  "image": "https://raw.githubusercontent.com/clubshow/icon/main/mbc.png",
+  "name": "Mining Base Coin",
+  "social": [
+   "https://t.me/MinersClubMineYourBTC",
+   "https://discord.com/invite/E9S2pFC9Fc",
+   "https://x.com/intent/follow?screen_name=MinersClub77",
+   "https://www.youtube.com/@Miners_club"
+  ],
+  "symbol": "MBC",
+  "websites": [
+   "https://miners.club"
+  ]
  },
  {
   "address": "EQBf6-YoR9xylol_NwjHrLkrTFAZJCX-bsd-Xx_902OaPaBf",
@@ -1762,6 +1778,20 @@
   "symbol": "USDT-SLP",
   "websites": [
    "https://storm.tg"
+  ]
+ },
+ {
+  "address": "EQDmWM-ex1cJ5heAZZlhE4Cct81OWUk0w-rxCra8D8H9wbRy",
+  "description": "USTG is a stable coin fully collateralized by assets, with its value maintained at a 1:1 ratio to the US dollar through a series of financial incentives.",
+  "image": "https://tonstableproject.github.io/USTG_LOGO.svg",
+  "name": "USTG",
+  "social": [
+   "https://t.me/TonStableOfficial",
+   "https://x.com/TonStable"
+  ],
+  "symbol": "USTG",
+  "websites": [
+   "https://tonstable.xyz/"
   ]
  },
  {
