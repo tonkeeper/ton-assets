@@ -2120,6 +2120,11 @@
   "symbol": "AZURE"
  },
  {
+  "address": "0:160f2c40452977a25d86d5130b3307a9af7bfa4deaf996cde388096178ab2182",
+  "name": "AquaUSD",
+  "symbol": "AquaUSD"
+ },
+ {
   "address": "0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e",
   "name": "BIG BALLS BIRDS",
   "symbol": "BALLS"
@@ -3488,6 +3493,11 @@
   "address": "0:f1881739b47deb18bef156d845cfce12585c855503c63a6847821adfd550382c",
   "name": "SLUT",
   "symbol": "SLUT"
+ },
+ {
+  "address": "0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2",
+  "name": "Sushi\u2019n\u2019Girls",
+  "symbol": "SNG"
  },
  {
   "address": "0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c",
