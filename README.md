@@ -98,6 +98,7 @@ Name           | Address
 [Andy](https://tonviewer.com/0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f) | EQDhnXQgjkymx2DgbcLZqvLClyBEsFAAr-RotkrXhf1OD3Gp
 [Anthill World](https://tonviewer.com/0:9c3737962aac1825bd53f9a2142e8cf4c42802741bb74a88dcbd501333e8d534) | EQCcNzeWKqwYJb1T-aIULoz0xCgCdBu3SojcvVATM-jVNBAZ
 [Ape by Ton](https://tonviewer.com/0:01056fee89f91332fbd1d0f1eadcda0d1c34c3a04812313a14f2869390ef8789) | EQABBW_uifkTMvvR0PHq3NoNHDTDoEgSMToU8oaTkO-Hif5A
+[AquaUSD](https://tonviewer.com/0:160f2c40452977a25d86d5130b3307a9af7bfa4deaf996cde388096178ab2182) | EQAWDyxARSl3ol2G1RMLMwepr3v6Ter5ls3jiAlheKshgg0K
 [Azure](https://tonviewer.com/0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2) | EQCj2tbgoppYqw7t_CLcj3nZnRhODIQDlcHvJpD7jl0jokNT
 [BANANA](https://tonviewer.com/0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0) | EQDgyXtVBaUTYrNIYEyVTOIUCWItOPlj5eViJH7URrFI8DDR
 [BARASH](https://tonviewer.com/0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd) | EQD39LNnyg6uEQv5jqkF76F45VY4sszDqqz2N8KbL1QQ3XPr
@@ -551,6 +552,7 @@ Name           | Address
 [Steamy Julia](https://tonviewer.com/0:cd2ebaf09bb9652a471ed1802b0dbe778de10fdeb4519c9569bc3280d7aef94f) | EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft
 [Stec Network](https://tonviewer.com/0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18) | EQAMSx9XLYJ6lYB9LL0kAPjZPhGYdlV7QQsPgRrVGv3qGLNt
 [Stellarium](https://tonviewer.com/0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74) | EQBjMUhuZnLRu45LtJNixAmWH48IrB61qk1wVWJqZKuNdDvm
+[Sushi’n’Girls](https://tonviewer.com/0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2) | EQBSVKw3FK2o_aFJyMbdddTDQKLgvobVIzLwx8o9TwoksuK-
 [SybilZero](https://tonviewer.com/0:b2fd9a3f6a174209c0f21906b3b8054a59af0a496f77d23d5523c93d65025807) | EQCy_Zo_ahdCCcDyGQazuAVKWa8KSW930j1VI8k9ZQJYB4_V
 [T-Project Jetton](https://tonviewer.com/0:57e2bba1e75227dbfb0b2ba196f262a32526ada14a7cc4c3b160f123b12877cb) | EQBX4ruh51In2_sLK6GW8mKjJSatoUp8xMOxYPEjsSh3y_CB
 [TCoin](https://tonviewer.com/0:57c0c1aca2e5330ad31b1e671e50f49b1c86f88b7107588edae8d11fe424f2a3) | EQBXwMGsouUzCtMbHmceUPSbHIb4i3EHWI7a6NEf5CTyozI9
