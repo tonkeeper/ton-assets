@@ -1,0 +1,10 @@
+name: QuTON Cash
+description: Peer-to-peer electronic cash alternative to TON
+image: "https://qutoncash.org/assets/logo.png"
+address: "0:1243692d6f883bddeed79ceddddbd7b02f4e68d3ae0a74bfb3887ed1a10fe15a"
+symbol: QTC
+websites:
+  - "https://qutoncash.org"
+social:  
+  - "https://t.me/qutoncashchannel"
+  - "https://github.com/qutoncash"

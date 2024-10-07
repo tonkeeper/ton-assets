@@ -82,3 +82,6 @@
 - name: LP Token for MC-pTON
   address: "0:a033394315eaf75ea3a7b90a442d778648c06357fe8f59f58b125bda6b7aafd9"
   symbol: MC-pTON LP
+- name: LP Token for QTC-pTON
+  address: "0:494e1900fe85e84b4a6d51392b3d2d99b030ca4da06e01d32a250dcb640baa19"
+  symbol: QTC-pTON LP
