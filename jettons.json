@@ -2285,11 +2285,6 @@
   "symbol": "CATI"
  },
  {
-  "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
-  "name": "Cute Cats",
-  "symbol": "CATS"
- },
- {
   "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
   "name": "TON Cats Jetton",
   "symbol": "CATS"
@@ -2388,6 +2383,11 @@
   "address": "0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3",
   "name": "Ton Croco",
   "symbol": "CROCO"
+ },
+ {
+  "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
+  "name": "Cute Cats",
+  "symbol": "CuteCats"
  },
  {
   "address": "0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4",
