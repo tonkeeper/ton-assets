@@ -1,0 +1,10 @@
+name: Tonius token
+description: Native token of the Tonius investment platform
+image: "https://tonius.fun/build/assets/images/toni.png"
+address: 0:277468d8623ec9c51713b3c37a07148e91e95abb870b508b59fc8d9fdc19c8c2
+symbol: TONIUS
+websites:
+  - "https://tonius.fun"
+social:
+  - "https://t.me/tonius_en"
+  - "https://x.com/ToniusToken"
