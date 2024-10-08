@@ -79,6 +79,7 @@ Name           | Address
 [1RUS DAO](https://tonviewer.com/0:53d847b82f1e70f6e23ba0c972e6ea5736cdc00562ff170935ba233be2064219) | EQBT2Ee4Lx5w9uI7oMly5upXNs3ABWL_Fwk1uiM74gZCGaYt
 [3CATS in a Trench Coat](https://tonviewer.com/0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a) | EQBCECrR9MCGD9DRLTMdB4YHXXz1v3jeQBOFbOX9BmBomvcF
 [@BTC25 MEMECOIN TonMiner](https://tonviewer.com/0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5) | EQC7rnHHtMVBKyhiGnAbtYIlzGxS0dfi3ZbHExFX0LYi9cAH
+[A5](https://tonviewer.com/0:195a32ff6c07a664e2ceeedc58f9d1e4a7da1236443d190503479aca84be695f) | EQAZWjL_bAemZOLO7txY-dHkp9oSNkQ9GQUDR5rKhL5pX692
 [AI Coin](https://tonviewer.com/0:48cef1de34697508200b8026bf882f8e88aff894586cfd304ab513633fa7e2d3) | EQBIzvHeNGl1CCALgCa_iC-OiK_4lFhs_TBKtRNjP6fi0024
 [AIMLAB](https://tonviewer.com/0:5c666687bb64397bdac614c9ed9bef14d6cecef88576cc3a23d27689d3695b36) | EQBcZmaHu2Q5e9rGFMntm-8U1s7O-IV2zDoj0naJ02lbNnlC
 [AIYA PowerCell](https://tonviewer.com/0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a) | EQAzBy-W8GJjUPfU-8eV0Jz56Jc5dIvvP-qznHKQhlqzGkoZ
