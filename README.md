@@ -141,6 +141,7 @@ Name           | Address
 [CARAT](https://tonviewer.com/0:f970ea1f187d4ba596e4ab15b6885f95084e52cca80fd4adc0071767c7a4ce83) | EQD5cOofGH1LpZbkqxW2iF-VCE5SzKgP1K3ABxdnx6TOg1u1
 [CARDIFY Coin](https://tonviewer.com/0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc) | EQAdz16aPWCmAYldTiX_g-NRzT-spbN8tCk9dJIHfAiC3L4p
 [CAT LESHA](https://tonviewer.com/0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d) | EQA5-G7djF86kQlspnEu4RI2HN-zgu81DcE_ap0yuA84fa1x
+[CATS](https://tonviewer.com/0:3702c84f115972f3043a9998a772b282fc290948a5eaaa3ca0d1532c56317f08) | EQA3AshPEVly8wQ6mZincrKC_CkJSKXqqjyg0VMsVjF_CATS
 [CAVIAR COIN](https://tonviewer.com/0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e) | EQD6W0raB1aGCr86pWd7-oWpA3QW2VXCJ9smlYcChkIhflt2
 [CHADUROV](https://tonviewer.com/0:2e0c6dd9d15d3ca1a77ac10ccd2b44f5cc76d4fc763fe85b5e99d5ac109f5d1e) | EQAuDG3Z0V08oad6wQzNK0T1zHbU_HY_6FtemdWsEJ9dHr1M
 [CHORRY](https://tonviewer.com/0:36147a2b4f3bd8a6c337b7fe88a8cba2829259081ffee47f340aa6c821a50bab) | EQA2FHorTzvYpsM3t_6IqMuigpJZCB_-5H80CqbIIaULq272
