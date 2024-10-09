@@ -22,6 +22,9 @@
 - address: 0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5
   name: '@BTC25 MEMECOIN TonMiner'
   symbol: '@BTC25'
+- address: 0:195a32ff6c07a664e2ceeedc58f9d1e4a7da1236443d190503479aca84be695f
+  name: A5
+  symbol: A5
 - address: 0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c
   name: GOLD
   symbol: AGLD
@@ -160,8 +163,8 @@
 - address: 0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400
   name: Catizen
   symbol: CATI
-- address: 0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4
-  name: Cute Cats
+- address: 0:3702c84f115972f3043a9998a772b282fc290948a5eaaa3ca0d1532c56317f08
+  name: CATS
   symbol: CATS
 - address: 0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8
   name: TON Cats Jetton
@@ -223,6 +226,9 @@
 - address: 0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3
   name: Ton Croco
   symbol: CROCO
+- address: 0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4
+  name: Cute Cats
+  symbol: CuteCats
 - address: 0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4
   name: DARK DUROV
   symbol: DARKDUROV
