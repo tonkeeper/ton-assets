@@ -298,6 +298,15 @@
 - address: "UQBdWoMOSCFHkfSrU1KQDGJNO_88Xv1jAZaxgBWOt4mZDwmZ"
   name: Nobitex
   require_memo: true
+- address: "UQDK2JiyAKCTTuQWwgObvz9dfxoyMXKHWzwZ03im9UD3sXEb"
+  name: Nobitex
+  require_memo: true
+- address: "UQBFMtW837BdMnXL8lW8kcNjXNSNY7cZRBWBxVQqR1D99XCV"
+  name: Nobitex
+  require_memo: true
+- address: "UQCjLVLO2Aoj_k_pC6lFk-9obeA_n72qBp5kKCapUjS5guWp"
+  name: Nobitex
+  require_memo: true
 - address: "UQD6yP_Lb4lXKhIy1Z6RxlkJrkCGY_0s6uzTXzW16dZw9I7C"
   name: Bitpin1
   require_memo: true
