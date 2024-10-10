@@ -160,6 +160,9 @@
 - address: 0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5
   name: Cash AMA Radio
   symbol: CASH
+- address: 0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41
+  name: Big Catch
+  symbol: CATCH
 - address: 0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400
   name: Catizen
   symbol: CATI
