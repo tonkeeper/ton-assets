@@ -2055,6 +2055,11 @@
   "symbol": "@BTC25"
  },
  {
+  "address": "0:195a32ff6c07a664e2ceeedc58f9d1e4a7da1236443d190503479aca84be695f",
+  "name": "A5",
+  "symbol": "A5"
+ },
+ {
   "address": "0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c",
   "name": "GOLD",
   "symbol": "AGLD"
@@ -2280,14 +2285,14 @@
   "symbol": "CASH"
  },
  {
+  "address": "0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41",
+  "name": "Big Catch",
+  "symbol": "CATCH"
+ },
+ {
   "address": "0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400",
   "name": "Catizen",
   "symbol": "CATI"
- },
- {
-  "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
-  "name": "Cute Cats",
-  "symbol": "CATS"
  },
  {
   "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
@@ -2388,6 +2393,11 @@
   "address": "0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3",
   "name": "Ton Croco",
   "symbol": "CROCO"
+ },
+ {
+  "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
+  "name": "Cute Cats",
+  "symbol": "CuteCats"
  },
  {
   "address": "0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4",
@@ -3018,6 +3028,11 @@
   "address": "0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28",
   "name": "MyTonWallet Coin",
   "symbol": "MY"
+ },
+ {
+  "address": "0:729f9ad6328db9e1ab51903f032877242b615420f62c12c53aa2ca3220ae8ce9",
+  "name": "MineX",
+  "symbol": "MineX"
  },
  {
   "address": "0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e",
@@ -4397,6 +4412,11 @@
  },
  {
   "address": "0:8cdc1d7640ad5ee326527fc1ad0514f468b30dc84b0173f0e155f451b4e11f7c",
+  "name": "Proxy TON",
+  "symbol": "pTON"
+ },
+ {
+  "address": "0:671963027f7f85659ab55b821671688601cdcf1ee674fc7fbbb1a776a18d34a3",
   "name": "Proxy TON",
   "symbol": "pTON"
  },
