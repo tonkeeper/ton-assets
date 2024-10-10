@@ -1679,6 +1679,11 @@
   ]
  },
  {
+  "address": "EQCulqkZWU3o1K6JuUYsarSZeCtbaTMsSyqRQHXSCP54MG5O",
+  "name": "TONY",
+  "symbol": "TONY"
+ },
+ {
   "address": "EQCRhkvxiW9Ml44FLTxGePs1xMqBAf-axakBgCEfI8YwHTWW",
   "description": "Employs a unique Proof of Link algorithm to redefine blockchain usability",
   "image": "https://raw.githubusercontent.com/tonoreum/tonoreum-images/master/logo_png.png",
