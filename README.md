@@ -6,7 +6,7 @@ This is a list of popular addresses and assets. We are open to pull request but 
 
 Short list. Full in [accounts.json](accounts.json)
 
-Name           | Address
+Name    Wandi       | AddressUQC4YaxvX2-rHe-Fd4n6NMTvt93ayxLoHhPfMZQGCEbEsQ5w
 ---------------|-----------
 [CAT Services](https://tonviewer.com/0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802) | EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
 [TON Foundation (OLD)](https://tonviewer.com/0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8) | EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N
