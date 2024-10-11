@@ -299,46 +299,18 @@ Name           | Address
 [Kote Coin](https://tonviewer.com/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
 [LLAMA](https://tonviewer.com/0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067) | EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j
-[LP Token for AMBR-oUSDC](https://tonviewer.com/0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97) | EQA_hgEAWEXpuJr_56E1mcjHrDluiE_LkpV4Rr6BhILMl9an
 [LP Token for ARBUZ-TON](https://tonviewer.com/0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367) | EQChrWJNhwrazRcwYZU74S0DQuqJK6FT40xk7uKNLVmjZ9Da
-[LP Token for BOLT-WTON](https://tonviewer.com/0:4cb7638015bf33e782273f9649b0273110ea151dd48b817b830057ed3b8756d1) | EQBMt2OAFb8z54InP5ZJsCcxEOoVHdSLgXuDAFftO4dW0bUk
 [LP Token for DFC-TON](https://tonviewer.com/0:84868f284afcd59de33eab700b57d18c3a8473946370ac6b6ae29db1dd29c89c) | EQCEho8oSvzVneM-q3ALV9GMOoRzlGNwrGtq4p2x3SnInMVA
 [LP Token for FISH-TON](https://tonviewer.com/0:618b7dbad45d30f48df0a8bbf700cb86181e94f86efaebaacf3270c02c77d46f) | EQBhi3261F0w9I3wqLv3AMuGGB6U-G7666rPMnDALHfUb767
-[LP Token for FNZ-AMBR](https://tonviewer.com/0:233e7bb3b9ec79c7b2ce227047a2c406460943d7662ddd7090a85ce17e81b032) | EQAjPnuzuex5x7LOInBHosQGRglD12Yt3XCQqFzhfoGwMtud
-[LP Token for FNZ-WTON](https://tonviewer.com/0:b904f18b6168b5356999a8d0e2adcacdaa88978a5e965073cb2e027d4c4834be) | EQC5BPGLYWi1NWmZqNDircrNqoiXil6WUHPLLgJ9TEg0vptS
-[LP Token for FNZ-oUSDC](https://tonviewer.com/0:60aae4b8c84b5bde1c8abece145246a9ff86d77ccd9375341ef9432a0edd458a) | EQBgquS4yEtb3hyKvs4UUkap_4bXfM2TdTQe-UMqDt1Fikf3
-[LP Token for FNZ-pTON](https://tonviewer.com/0:19152e5d27c493aca727e559e9b58b282882d76c061a0e17492636f352b3640d) | EQAZFS5dJ8STrKcn5VnptYsoKILXbAYaDhdJJjbzUrNkDdH_
 [LP Token for GLINT-TON](https://tonviewer.com/0:102c7d53108932e26e2b04c48c7903f21f8129758d210a25bd00d5774557631d) | EQAQLH1TEIky4m4rBMSMeQPyH4EpdY0hCiW9ANV3RVdjHVlL
 [LP Token for GRAM-TON](https://tonviewer.com/0:196575e19e83460b322548a62a638bcbfa11ea74802e3505c482a30a83e0980a) | EQAZZXXhnoNGCzIlSKYqY4vL-hHqdIAuNQXEgqMKg-CYCs1u
-[LP Token for GRAM-pTON LP](https://tonviewer.com/0:120592f06b6bdf76c8280c5db0f7aa5d71c049251c433575cf50becd326d1676) | EQASBZLwa2vfdsgoDF2w96pdccBJJRxDNXXPUL7NMm0WdnMx
 [LP Token for KINGY-TON](https://tonviewer.com/0:ec23137a9131cd4f3916f8a0c016839deee2bc215fea870f30479364607d4687) | EQDsIxN6kTHNTzkW-KDAFoOd7uK8IV_qhw8wR5NkYH1Gh_SQ
 [LP Token for KINGY-hTON](https://tonviewer.com/0:ea8318adfd02ec9503305b2f54b88e7a076703e63b6d4507ca4b2011d57e5a61) | EQDqgxit_QLslQMwWy9UuI56B2cD5jttRQfKSyAR1X5aYfpH
-[LP Token for MC-pTON](https://tonviewer.com/0:a033394315eaf75ea3a7b90a442d778648c06357fe8f59f58b125bda6b7aafd9) | EQCgMzlDFer3XqOnuQpELXeGSMBjV_6PWfWLElvaa3qv2ZUM
-[LP Token for PUNK-pTON](https://tonviewer.com/0:119adaeab087fcfa593d6c7f08495fd40ac1bc912de21f30bb6d5f2cb10022e2) | EQARmtrqsIf8-lk9bH8ISV_UCsG8kS3iHzC7bV8ssQAi4pvw
 [LP Token for RAFF-TON](https://tonviewer.com/0:60d90c3b931b173d682c76eead08aab5b614f68b386deabbbd0fb693ad96be87) | EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H
-[LP Token for RAFF-pTON](https://tonviewer.com/0:aa14fa522ed72cb5446dad72d10aff70ca37ebc3bff8e3f9f0bc3f098929928d) | EQCqFPpSLtcstURtrXLRCv9wyjfrw7_44_nwvD8JiSmSjbUI
 [LP Token for SCALE-TON](https://tonviewer.com/0:dc9b4e9196b7ae32eae6fb28a4f566cbea423ad7b07becead2445fd98e809816) | EQDcm06RlreuMurm-yik9WbL6kI617B77OrSRF_ZjoCYFuny
-[LP Token for STON-pTON](https://tonviewer.com/0:ed6473ad55669ff54214eab9a32cf34b4c6c4d2cda20bcae7151994c46067043) | EQDtZHOtVWaf9UIU6rmjLPNLTGxNLNogvK5xUZlMRgZwQ4Gt
-[LP Token for TGR-WTON](https://tonviewer.com/0:e2e03c28022f72d12a5686c17a552c6ca4ad34ae157c4fe461e6eda537a8b8db) | EQDi4DwoAi9y0SpWhsF6VSxspK00rhV8T-Rh5u2lN6i4270L
-[LP Token for TGR-oETH](https://tonviewer.com/0:5417d0151be1a2f1ae6c72c6b03ab923578fab25fff53aeff1249a45d3f41d62) | EQBUF9AVG-Gi8a5scsawOrkjV4-rJf_1Ou_xJJpF0_QdYvos
-[LP Token for TGR-oUSDC](https://tonviewer.com/0:d34cd8d3a33e3473ac5574acecbf95f85d889fccbfa2c3777d72a0908b4be9da) | EQDTTNjToz40c6xVdKzsv5X4XYifzL-iw3d9cqCQi0vp2iIM
-[LP Token for TGR-oUSDT](https://tonviewer.com/0:abf02bf3e218157485e1a381b13861e391520b43620aa2d180539f8cd7135c36) | EQCr8Cvz4hgVdIXho4GxOGHjkVILQ2IKotGAU5-M1xNcNvXL
 [LP Token for TONNEL-TON](https://tonviewer.com/0:2fb467bc35ea7f5e772641826bab35a38ddb136b28332f5edbbc7ffc463af2cf) | EQAvtGe8Nep_XncmQYJrqzWjjdsTaygzL17bvH_8Rjryz1xu
 [LP Token for UP-TON](https://tonviewer.com/0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c) | EQABy0q1lpLkU09k7srKCCjeAm32D2nZ15WtmWgb81RvjLbP
-[LP Token for WTON-AMBR](https://tonviewer.com/0:afe41587f4f404b99c567b9cacedd1381f5ff855ccdc112e0cf8291afa7f19f9) | EQCv5BWH9PQEuZxWe5ys7dE4H1_4VczcES4M-Cka-n8Z-Vnu
-[LP Token for WTON-FNZ](https://tonviewer.com/0:e02d84194bc4a2c31a0a321dcdd6145fec4930b82324ae143576e4d60c3afbc3) | EQDgLYQZS8SiwxoKMh3N1hRf7EkwuCMkrhQ1duTWDDr7w4Y_
-[LP Token for WTON-oUSDC](https://tonviewer.com/0:d5e6449fc822ffa80c910c888a3df01bb32748c00d0e22a9a1ce6583be1b21a9) | EQDV5kSfyCL_qAyRDIiKPfAbsydIwA0OIqmhzmWDvhshqb_K
 [LP Token for jNANO-TON](https://tonviewer.com/0:bace166d17381305b4d0e1b1b58f9161e5b590013b6238c7490003bdf3f8f544) | EQC6zhZtFzgTBbTQ4bG1j5Fh5bWQATtiOMdJAAO98_j1REBU
-[LP Token for oETH-AMBR](https://tonviewer.com/0:c942ee7bf6e238f9b0416d97448c50a9793c8697d386c4c6f081c471294a80b4) | EQDJQu579uI4-bBBbZdEjFCpeTyGl9OGxMbwgcRxKUqAtLKS
-[LP Token for oETH-FNZ](https://tonviewer.com/0:f63c4e62515dfd0049d2ad3e717e2f0f5018bd3a10fd9467144ecbc0a1454a5a) | EQD2PE5iUV39AEnSrT5xfi8PUBi9OhD9lGcUTsvAoUVKWm1w
-[LP Token for oETH-WTON](https://tonviewer.com/0:7b8383585bb617ca10e1ba57a9d7e41fa654b39fd1d061ec03dc8af656cb6256) | EQB7g4NYW7YXyhDhulep1-QfplSzn9HQYewD3Ir2VstiVsFM
-[LP Token for oETH-oUSDC](https://tonviewer.com/0:31a95a81ef642fbe6ed10707dd75c7f0adcd353bfb494a5d4b574452d2e827b8) | EQAxqVqB72Qvvm7RBwfddcfwrc01O_tJSl1LV0RS0ugnuB_x
-[LP Token for oETH-oUSDT](https://tonviewer.com/0:922b681fda087d31e58e65cc0d4de95a82ca64e943bd7fb45aefd9ec29ca29ff) | EQCSK2gf2gh9MeWOZcwNTelagspk6UO9f7Ra79nsKcop_9JE
-[LP Token for oUSDT-AMBR](https://tonviewer.com/0:9803186a693b42be699cec194d470bfc7284becfdd9d3224a8feae9d65a28701) | EQCYAxhqaTtCvmmc7BlNRwv8coS-z92dMiSo_q6dZaKHAZNR
-[LP Token for oUSDT-FNZ](https://tonviewer.com/0:14ab4d0fe47df659e27b5382cdbd5da61201125cfd986d6156b2fe2338282066) | EQAUq00P5H32WeJ7U4LNvV2mEgESXP2YbWFWsv4jOCggZnUv
-[LP Token for oUSDT-WTON](https://tonviewer.com/0:29dd8c6a684d5687251e1dad3eecf1a38f15d974fcb8eddf3009d44f387c01f8) | EQAp3YxqaE1WhyUeHa0-7PGjjxXZdPy47d8wCdRPOHwB-Oaa
-[LP Token for oUSDT-oUSDC](https://tonviewer.com/0:c35e262a8025e7d76d87b5e3745799cf573c6c69fb94cc39a45cf27d8beda2e9) | EQDDXiYqgCXn122HteN0V5nPVzxsafuUzDmkXPJ9i-2i6YKN
-[LP Token for pTON-JETTON](https://tonviewer.com/0:139eae96db1bf5d02d7d2cd942dbac45b535757dbccc917997402587aadbfa3a) | EQATnq6W2xv10C19LNlC26xFtTV1fbzMkXmXQCWHqtv6Okf7
 [LUPA](https://tonviewer.com/0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff) | EQBXRzatxryKKnW6mNGEZiEFMGET655W40ROx1qnZP-S_-p6
 [Laika](https://tonviewer.com/0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0) | EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw
 [Lavandos](https://tonviewer.com/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
