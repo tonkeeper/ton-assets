@@ -1,4 +1,4 @@
-name: Test source files for correctness
+name: Test Dickson-ai/ton-assets
 on:
   pull_request:
   push:
