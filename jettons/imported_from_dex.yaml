@@ -67,6 +67,9 @@
 - address: 0:160f2c40452977a25d86d5130b3307a9af7bfa4deaf996cde388096178ab2182
   name: AquaUSD
   symbol: AquaUSD
+- address: 0:dc94dd61ffcfe3ce97d79da86325db67e10613269cb948d6b553357c3db5d462
+  name: AquaXP
+  symbol: AquaXP
 - address: 0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e
   name: BIG BALLS BIRDS
   symbol: BALLS
