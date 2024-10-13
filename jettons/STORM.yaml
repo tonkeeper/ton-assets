@@ -1,7 +1,7 @@
 name: STORM
-description: The utility token of the Storm Trade protocol (storm.tg).
+description: "The utility token of the Storm Trade protocol (storm.tg)."
 symbol: STORM
-image: "https://cache.tonapi.io/imgproxy/4ostIU6F0pvfI_kQyA4ANA6w_E_MbxPB0cwI7cTZlNg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMuc3Rvcm0udGcvVE9LRU4ucG5n.webp"
+image: "https://static.storm.tg/TOKEN.png"
 address: "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c"
 decimals: 9
 websites:
