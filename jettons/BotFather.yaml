@@ -1,0 +1,12 @@
+name: "BotFather"
+description: "BotFather is the one bot to rule them all. Without BotFather there are no bots on Telegram. Rose? BotFather. Safeguard? BotFather. A man who doesn't spend time with his family can never be a real man. Join your new family now!"
+image: "https://botfather.online/wp-content/uploads/2024/07/logobotfather.png"
+address: EQBglZnD5nClIC3Qhqyss6Mn5Tgk9NzKka9MnBpfJWXye9p4
+symbol: BOT
+max_supply: 1000000000
+decimals: 9
+websites:
+  - "https://botfather.online/"
+social:
+  - "https://x.com/BotfatherTG"
+  - "https://t.me/BotfatheronTON"
