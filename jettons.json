@@ -3315,6 +3315,11 @@
   "symbol": "PWJ"
  },
  {
+  "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
+  "name": "Mintless Points",
+  "symbol": "Points"
+ },
+ {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
   "name": "Ton Raffles Token",
   "symbol": "RAFF"
