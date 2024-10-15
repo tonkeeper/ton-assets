@@ -334,6 +334,7 @@ Name           | Address
 [MONK](https://tonviewer.com/0:aef6a69f1581f5b5bbc10ac560e904303db2e29f3436ec72a4af44dbe164a86d) | EQCu9qafFYH1tbvBCsVg6QQwPbLinzQ27HKkr0Tb4WSobXI-
 [MONKE](https://tonviewer.com/0:38f9dc02fcfca1659920a020ed32f6882063d45ee39916c1faab837dc5b69615) | EQA4-dwC_PyhZZkgoCDtMvaIIGPUXuOZFsH6q4N9xbaWFXvD
 [MOON](https://tonviewer.com/0:d7c8de5012d409386c583a91a695e07bb9acc9ae5f99ce29b67bbed2bb59ca62) | EQDXyN5QEtQJOGxYOpGmleB7uazJrl-Zzim2e77Su1nKYjJ-
+[MUZZY](https://tonviewer.com/0:1c521886974ec607c9811c2758932cc6eb750bcb3728ebf2260c27b7882a9862) | EQAcUhiGl07GB8mBHCdYkyzG63ULyzco6_ImDCe3iCqYYpTX
 [Magic Crystal](https://tonviewer.com/0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36) | EQCbKMTmEAdSnzsK85LOpaDkDH3HjujEbTePMSeirvEaNq-U
 [Magic Vip People](https://tonviewer.com/0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4) | EQDAiXxX8J2CHo4un2mAYFuexI620Y33CWfLFZK-7LcR9Pps
 [MagicDeer](https://tonviewer.com/0:3bf482125cc47cbdef403a2a541378b986da7acfa23bca7482f43281a3ccc7b0) | EQA79IISXMR8ve9AOipUE3i5htp6z6I7ynSC9DKBo8zHsIYr
