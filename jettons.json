@@ -3855,6 +3855,11 @@
   "symbol": "TRUMP"
  },
  {
+  "address": "0:255ec5f9c9716d4cf3922c404271dad6b7266f0b8f27051ae3c8272e08e807c8",
+  "name": "Trump MP3",
+  "symbol": "TRUMP3"
+ },
+ {
   "address": "0:b90d7df13ff8d91130c383725afc7d9780e1ce18fd6d3f2f7cbfa86172251ea6",
   "name": "TONSEASON",
   "symbol": "TSE"
