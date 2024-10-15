@@ -23,6 +23,7 @@ jobs:
             echo "Found '${FILENAME}' file but only *.yaml files are allowed here."
             exit 1
           done
-
+      - name: Install libraries
+        run: pip3 install -r requirements.txt
       - name: Dummy run of generator to check for correct syntax
         run: python3 generator.py
