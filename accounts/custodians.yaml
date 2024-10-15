@@ -320,3 +320,23 @@
   name: "BFinance"
   require_memo: true
   image: "https://cdn.bfinance.app/bf-logo.svg"
+- address: "UQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXKdd"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCFsx"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAbROxVNhaw5FUQNwOINL3wvaofBEDhDzMx2YQVhWEqaC0x"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQAI1"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WOof"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
