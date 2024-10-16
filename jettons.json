@@ -3445,6 +3445,11 @@
   "symbol": "SAC"
  },
  {
+  "address": "0:93630f42a4a9beee23bf542ffb0ecaa478ad41cdefaefbe31e64ca1f8d083cb4",
+  "name": "SAD MEOW",
+  "symbol": "SADMEOW"
+ },
+ {
   "address": "0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d",
   "name": "Saintcoin",
   "symbol": "SAINT"
