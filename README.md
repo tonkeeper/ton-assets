@@ -524,6 +524,7 @@ Name           | Address
 [Russia Mascot](https://tonviewer.com/0:5ae27acd057d8bb497a684c5f190c3d0a6608a365b79dfa49595ea354d8c1c49) | EQBa4nrNBX2LtJemhMXxkMPQpmCKNlt536SVleo1TYwcSdP7
 [Russian Blue ](https://tonviewer.com/0:9b48bb73351f4b1e294510273439c641cf76a9e3363353a811e040ba119a08cc) | EQCbSLtzNR9LHilFECc0OcZBz3ap4zYzU6gR4EC6EZoIzNvu
 [Ryan Gosling](https://tonviewer.com/0:573fe72f8bc8a87316789a8a14fd1cd3e8fef39d9a10d410c60b1a6e12fadccc) | EQBXP-cvi8iocxZ4mooU_RzT6P7znZoQ1BDGCxpuEvrczL95
+[SAD MEOW](https://tonviewer.com/0:93630f42a4a9beee23bf542ffb0ecaa478ad41cdefaefbe31e64ca1f8d083cb4) | EQCTYw9CpKm-7iO_VC_7DsqkeK1Bze-u--MeZMofjQg8tEWc
 [SAKE](https://tonviewer.com/0:882149bb76706099caee6c37c52d9579da87b517f1c574366231f7abf6b8a986) | EQCIIUm7dnBgmcrubDfFLZV52oe1F_HFdDZiMfer9riphpQo
 [SAUD](https://tonviewer.com/0:2dcbb7322c88c5ed4f8ad15806fe0724b1300ab482e46c908d8cf62567ce5c09) | EQAty7cyLIjF7U-K0VgG_gcksTAKtILkbJCNjPYlZ85cCZAA
 [SCAM](https://tonviewer.com/0:b9d88ddcdab999a546afd0bad4eaaef0b97a139a13889ef68584a8d9e90b82e6) | EQC52I3c2rmZpUav0LrU6q7wuXoTmhOInvaFhKjZ6QuC5tV5
