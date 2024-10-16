@@ -3585,6 +3585,11 @@
   "symbol": "STL"
  },
  {
+  "address": "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c",
+  "name": "STORM",
+  "symbol": "STORM"
+ },
+ {
   "address": "0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7",
   "name": "Dog Wif Shapka",
   "symbol": "Shapka"
