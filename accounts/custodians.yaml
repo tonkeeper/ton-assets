@@ -94,9 +94,9 @@
   name: "Huobi"
   require_memo: true 
 - address: "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd"
-  name: "TonMobile Service"
-  require_memo: false
-  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/tonmobile_service_288.svg"
+  name: "Mobile"
+  require_memo: true
+  image: "https://img.mobile.ag/logo_mobile_r_400x400.png"
 - address: "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl"
   name: "Kucoin 1"
   require_memo: true
