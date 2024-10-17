@@ -459,6 +459,7 @@ Name           | Address
 [Pepe on Ton](https://tonviewer.com/0:395604cda7b3145ac51bd57ad41c530300a5920f20142b2be644606e2a7ef8b4) | EQA5VgTNp7MUWsUb1XrUHFMDAKWSDyAUKyvmRGBuKn74tChu
 [Petachi](https://tonviewer.com/0:22eaf577158bcf8509d833e831951597129299f1533da75bfd7a8a4ad0c73ef3) | EQAi6vV3FYvPhQnYM-gxlRWXEpKZ8VM9p1v9eopK0Mc-89aS
 [Petcoin](https://tonviewer.com/0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b) | EQBJOJ2eL_CUFT_0r9meoqjKUwRttC_-NUJyvWQxszVWe1WY
+[PISKULIN](https://tonviewer.com/0:a18825bc86d6627616156fdbd929bc0972de98ef58560392193b7e726eacb49d) | EQChiCW8htZidhYVb9vZKbwJct6Y71hWA5IZO35ybqy0nemh
 [Pi Ton Network](https://tonviewer.com/0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c) | EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p
 [Pizza Gram](https://tonviewer.com/0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc) | EQDoqIKkOevVZukmf1L8nGhcjlha4sfvgl8GIRpTj_b53HyR
 [PizzaTon Token](https://tonviewer.com/0:20a2d4a45f4e8c216f80d278b9c8aa9e365c1cde70129db3b57701a8fa4c2983) | EQAgotSkX06MIW-A0ni5yKqeNlwc3nASnbO1dwGo-kwpg2Zg
