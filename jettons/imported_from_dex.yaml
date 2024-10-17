@@ -961,6 +961,9 @@
 - address: 0:73c9eb19de9d5618dae080d4898ba2452b7bebd0686a269e20c647abf68ba38d
   name: TonTake
   symbol: TAKE
+- address: 0:0458dc1dc193b509c44fb11c4cb51d0eb67eff19dfcad5a050b179439a75c420
+  name: TAKEN
+  symbol: TAKEN
 - address: 0:01056fee89f91332fbd1d0f1eadcda0d1c34c3a04812313a14f2869390ef8789
   name: Ape by Ton
   symbol: TAPE
