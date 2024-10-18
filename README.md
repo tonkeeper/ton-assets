@@ -513,6 +513,7 @@ Name           | Address
 [Sushi’n’Girls](https://tonviewer.com/0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2) | EQBSVKw3FK2o_aFJyMbdddTDQKLgvobVIzLwx8o9TwoksuK-
 [SybilZero](https://tonviewer.com/0:b2fd9a3f6a174209c0f21906b3b8054a59af0a496f77d23d5523c93d65025807) | EQCy_Zo_ahdCCcDyGQazuAVKWa8KSW930j1VI8k9ZQJYB4_V
 [T-Project Jetton](https://tonviewer.com/0:57e2bba1e75227dbfb0b2ba196f262a32526ada14a7cc4c3b160f123b12877cb) | EQBX4ruh51In2_sLK6GW8mKjJSatoUp8xMOxYPEjsSh3y_CB
+[TAKEN](https://tonviewer.com/0:0458dc1dc193b509c44fb11c4cb51d0eb67eff19dfcad5a050b179439a75c420) | EQAEWNwdwZO1CcRPsRxMtR0Otn7_Gd_K1aBQsXlDmnXEIDfv
 [TDOG](https://tonviewer.com/0:f85d35d625ec2e36d9e12864e465a3f4c2c2ef4323609155dc3cb5b9ccf4d077) | EQD4XTXWJewuNtnhKGTkZaP0wsLvQyNgkVXcPLW5zPTQdykb
 [TFOX](https://tonviewer.com/0:b4d27996002b23f372e99c5640e2bd700c707876765d4e7908f0d264bbb8c5c6) | EQC00nmWACsj83LpnFZA4r1wDHB4dnZdTnkI8NJku7jFxirg
 [THANK YOU! СПАСИБО! 谢谢 شكرا ¡GRACIAS! MERCI!](https://tonviewer.com/0:c0186c5ecfdb534ff2a0e7f0fd72ac58be634f1863f6c6c1f9b9b8de91eb3137) | EQDAGGxez9tTT_Kg5_D9cqxYvmNPGGP2xsH5ubjekesxN8x8
