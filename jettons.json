@@ -1057,6 +1057,21 @@
   ]
  },
  {
+  "address": "0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9",
+  "decimals": 9,
+  "description": "Notcoin locked in liquidity in Storm Trade (storm.tg)",
+  "image": "https://static.storm.tg/not-slp-logo.png",
+  "name": "NOT Storm LP",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "NOT-SLP",
+  "websites": [
+   "https://storm.tg"
+  ]
+ },
+ {
   "address": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
   "decimals": 9,
   "name": "Notcoin",
