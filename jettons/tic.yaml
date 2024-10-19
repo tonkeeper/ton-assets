@@ -1,9 +1,0 @@
-name: TON Island Coin
-description: Official Jetton of TON Island project.
-address: 0:571c20dd040e9581ddb38bec91a4593c9b4e2f9f744e59853d19165fa6fae29b
-symbol: TIC
-max_supply: 1000000
-websites:
-  - "https://tonis.land"
-social:
-  - "https://t.me/ton_island"
