@@ -353,6 +353,22 @@
   "symbol": "DOGS"
  },
  {
+  "address": "0:65556e7bb5227b68f9026da81c2a3c77bd5be5fb216b53032c981d7267ff2bf2",
+  "decimals": 9,
+  "description": "DOGE MEMES TOPPLE REGIMES (DOMES) - Inspired by Pavel Durovs",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXR5Z67M3hS3E3kWFVrsdx5YfMzvccscvJqPHVHCV4CLV",
+  "name": "DOGE MEMES TOPPLE REGIMES",
+  "social": [
+   "https://x.com/DogeMemeTon",
+   "https://t.me/domeschannel",
+   "https://t.me/domesofficial"
+  ],
+  "symbol": "DOMES",
+  "websites": [
+   "https://domescoin.com"
+  ]
+ },
+ {
   "address": "EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz",
   "description": "Pavel's dog with a hoodie https://smartbotsland.com/blog/social-networks/pavel-durov - $DOODIE is a meme coin on the TON Blockchain. https://t.me/dogwifhoodie_ton",
   "image": "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/doodie.jpg",
@@ -1026,6 +1042,36 @@
   ]
  },
  {
+  "address": "EQAcUhiGl07GB8mBHCdYkyzG63ULyzco6_ImDCe3iCqYYpTX",
+  "description": "\u041c\u0430\u0437\u0437\u0438 (Muzzy) \u2014 \u043e\u0433\u0440\u043e\u043c\u043d\u044b\u0439 \u0437\u0435\u043b\u0451\u043d\u044b\u0439 \u043f\u0440\u0438\u0448\u0435\u043b\u0435\u0446, \u043f\u043e\u0445\u043e\u0436\u0438\u0439 \u0438 \u043d\u0430 \u043c\u0435\u0434\u0432\u0435\u0434\u044f, \u0438 \u043d\u0430 \u0441\u043d\u0435\u0436\u043d\u043e\u0433\u043e \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u043f\u0438\u0442\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0447\u0430\u0441\u0430\u043c\u0438 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u043c\u0438 \u0438 \u043d\u0435 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u044f\u0449\u0438\u0439 \u0437\u0435\u043c\u043d\u0443\u044e \u0435\u0434\u0443. https://t.me/muzzyton",
+  "image": "https://i.ibb.co/kxPM7JY/IMG-0247.jpg",
+  "name": "MUZZY",
+  "social": [
+   "https://t.me/muzzyton",
+   "https://x.com/lkyton",
+   "https://academy.luckyton.org"
+  ],
+  "symbol": "MUZZY",
+  "websites": [
+   "https://muzzy.live/"
+  ]
+ },
+ {
+  "address": "0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9",
+  "decimals": 9,
+  "description": "Notcoin locked in liquidity in Storm Trade (storm.tg)",
+  "image": "https://static.storm.tg/not-slp-logo.png",
+  "name": "NOT Storm LP",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "NOT-SLP",
+  "websites": [
+   "https://storm.tg"
+  ]
+ },
+ {
   "address": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
   "decimals": 9,
   "name": "Notcoin",
@@ -1289,6 +1335,20 @@
   ]
  },
  {
+  "address": "0:86c97b2aad5c8330fd016714b78bb29efb387dba875d5471135208263c9302d9",
+  "description": "Investment token with rewards and fund",
+  "image": "https://raw.githubusercontent.com/redoi-foundation/art/main/logo/redoi.webp",
+  "name": "REDO Invest",
+  "social": [
+   "https://t.me/redoinveston",
+   "https://x.com/redoinveston"
+  ],
+  "symbol": "REDOI",
+  "websites": [
+   "https://redoifoundation.org"
+  ]
+ },
+ {
   "address": "EQDQEsrlf5ALa7-Gpz2nDK6t332bcyQoP0BzHj2KKTrXYVYB",
   "description": "Study $REKT OR GET REKT",
   "image": "https://i.postimg.cc/25t0Lc76/logo-for-token.png",
@@ -1476,6 +1536,21 @@
   "decimals": 9,
   "name": "STON",
   "symbol": "STON"
+ },
+ {
+  "address": "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c",
+  "decimals": 9,
+  "description": "The utility token of the Storm Trade protocol (storm.tg).",
+  "image": "https://static.storm.tg/TOKEN.png",
+  "name": "STORM",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "STORM",
+  "websites": [
+   "https://storm.tg"
+  ]
  },
  {
   "address": "EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft",
@@ -1679,6 +1754,11 @@
   ]
  },
  {
+  "address": "EQCulqkZWU3o1K6JuUYsarSZeCtbaTMsSyqRQHXSCP54MG5O",
+  "name": "TONY",
+  "symbol": "TONY"
+ },
+ {
   "address": "EQCRhkvxiW9Ml44FLTxGePs1xMqBAf-axakBgCEfI8YwHTWW",
   "description": "Employs a unique Proof of Link algorithm to redefine blockchain usability",
   "image": "https://raw.githubusercontent.com/tonoreum/tonoreum-images/master/logo_png.png",
@@ -1821,6 +1901,22 @@
   "symbol": "UXUY",
   "websites": [
    "https://www.uxlink.io/"
+  ]
+ },
+ {
+  "address": "0:f0357fc5b38b7f3ee523cb7ad965771ca070b867216a0239f3d2fcb285f8a390",
+  "description": "VNST is a stablecoin backed by the Basket of Stablecoins, ensuring its reserve, not tethered to any fiat currency for users in Vietnam and globally.",
+  "image": "https://vnst.io/assets/images/cryptos/vnst.png",
+  "name": "VNST Token",
+  "social": [
+   "https://x.com/vnstcoin",
+   "https://www.facebook.com/VNST.io/",
+   "https://t.me/vnstann",
+   "https://discord.com/invite/pwRwbcHHkK"
+  ],
+  "symbol": "VNST",
+  "websites": [
+   "https://vnst.io/"
   ]
  },
  {
@@ -2015,6 +2111,18 @@
   "symbol": "hTON1"
  },
  {
+  "address": "UQCeObLCa6FoY3Xa7ZOwKX9aWoQk34M9TaHGWEhpj0wjne78",
+  "description": "1st iranian tech group token for teach people about cryptocurrencies and how to use them to make moneys and much more .",
+  "image": "https://s6.uplod.ir/i/01140/gnhjvxu90rtg.png",
+  "name": "iOSF1",
+  "social": [
+   "https://t.me/iOSF1",
+   "https://youtube.com/iOSF1",
+   "https://instagram.com/iOSF1.ir"
+  ],
+  "symbol": "iOSF1"
+ },
+ {
   "address": "0:9b48bb73351f4b1e294510273439c641cf76a9e3363353a811e040ba119a08cc",
   "name": "Russian Blue ",
   "symbol": "$Blu"
@@ -2053,6 +2161,11 @@
   "address": "0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5",
   "name": "@BTC25 MEMECOIN TonMiner",
   "symbol": "@BTC25"
+ },
+ {
+  "address": "0:195a32ff6c07a664e2ceeedc58f9d1e4a7da1236443d190503479aca84be695f",
+  "name": "A5",
+  "symbol": "A5"
  },
  {
   "address": "0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c",
@@ -2118,6 +2231,11 @@
   "address": "0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2",
   "name": "Azure",
   "symbol": "AZURE"
+ },
+ {
+  "address": "0:160f2c40452977a25d86d5130b3307a9af7bfa4deaf996cde388096178ab2182",
+  "name": "AquaUSD",
+  "symbol": "AquaUSD"
  },
  {
   "address": "0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e",
@@ -2250,6 +2368,11 @@
   "symbol": "BUFFY"
  },
  {
+  "address": "0:c8fd05d87a2c2b58df3932b384b9c671b265fc5ca36c8de84e8f3935df4134a6",
+  "name": "Bull on TON",
+  "symbol": "BULL"
+ },
+ {
   "address": "0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d",
   "name": "Burncoin",
   "symbol": "BURN"
@@ -2275,14 +2398,14 @@
   "symbol": "CASH"
  },
  {
+  "address": "0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41",
+  "name": "Big Catch",
+  "symbol": "CATCH"
+ },
+ {
   "address": "0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400",
   "name": "Catizen",
   "symbol": "CATI"
- },
- {
-  "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
-  "name": "Cute Cats",
-  "symbol": "CATS"
  },
  {
   "address": "0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8",
@@ -2385,9 +2508,19 @@
   "symbol": "CROCO"
  },
  {
+  "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
+  "name": "Cute Cats",
+  "symbol": "CuteCats"
+ },
+ {
   "address": "0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4",
   "name": "DARK DUROV",
   "symbol": "DARKDUROV"
+ },
+ {
+  "address": "0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1",
+  "name": "Diamond Bull Technology",
+  "symbol": "DBT"
  },
  {
   "address": "0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c",
@@ -2458,6 +2591,11 @@
   "address": "0:90c50594d1981b428bd546dac7654812513b23f556d58808f65c0346782df92f",
   "name": "Don",
   "symbol": "DON"
+ },
+ {
+  "address": "0:36f7907853194b4c9610b2cb786f1f7e9a6eeb52083ad3b65bcf5a4d16e7df30",
+  "name": "DONDON",
+  "symbol": "DONDON"
  },
  {
   "address": "0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110",
@@ -3015,6 +3153,11 @@
   "symbol": "MY"
  },
  {
+  "address": "0:729f9ad6328db9e1ab51903f032877242b615420f62c12c53aa2ca3220ae8ce9",
+  "name": "MineX",
+  "symbol": "MineX"
+ },
+ {
   "address": "0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e",
   "name": "Telegram's Cat",
   "symbol": "Mittens"
@@ -3280,6 +3423,11 @@
   "symbol": "PWJ"
  },
  {
+  "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
+  "name": "Mintless Points",
+  "symbol": "Points"
+ },
+ {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
   "name": "Ton Raffles Token",
   "symbol": "RAFF"
@@ -3405,6 +3553,11 @@
   "symbol": "SAC"
  },
  {
+  "address": "0:93630f42a4a9beee23bf542ffb0ecaa478ad41cdefaefbe31e64ca1f8d083cb4",
+  "name": "SAD MEOW",
+  "symbol": "SADMEOW"
+ },
+ {
   "address": "0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d",
   "name": "Saintcoin",
   "symbol": "SAINT"
@@ -3490,6 +3643,11 @@
   "symbol": "SLUT"
  },
  {
+  "address": "0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2",
+  "name": "Sushi\u2019n\u2019Girls",
+  "symbol": "SNG"
+ },
+ {
   "address": "0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c",
   "name": "BOLTWIFSOCK",
   "symbol": "SOCK"
@@ -3563,6 +3721,11 @@
   "address": "0:73c9eb19de9d5618dae080d4898ba2452b7bebd0686a269e20c647abf68ba38d",
   "name": "TonTake",
   "symbol": "TAKE"
+ },
+ {
+  "address": "0:0458dc1dc193b509c44fb11c4cb51d0eb67eff19dfcad5a050b179439a75c420",
+  "name": "TAKEN",
+  "symbol": "TAKEN"
  },
  {
   "address": "0:01056fee89f91332fbd1d0f1eadcda0d1c34c3a04812313a14f2869390ef8789",
@@ -3695,6 +3858,11 @@
   "symbol": "TLB500"
  },
  {
+  "address": "0:147609b3bbdebe9936901671162d7ec64e95a3c2c25ad0bbc67aafecf3a85caf",
+  "name": "Trump/Telegram Make America Great Again",
+  "symbol": "TMAGA"
+ },
+ {
   "address": "0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1",
   "name": "Ton Milk",
   "symbol": "TMILK"
@@ -3803,6 +3971,11 @@
   "address": "0:59181c65852a41cd07c5763ec0a896bab486afb026850580e5d82e49e5320579",
   "name": "Ton Trump",
   "symbol": "TRUMP"
+ },
+ {
+  "address": "0:255ec5f9c9716d4cf3922c404271dad6b7266f0b8f27051ae3c8272e08e807c8",
+  "name": "Trump MP3",
+  "symbol": "TRUMP3"
  },
  {
   "address": "0:b90d7df13ff8d91130c383725afc7d9780e1ce18fd6d3f2f7cbfa86172251ea6",
@@ -4391,6 +4564,11 @@
   "symbol": "pTON"
  },
  {
+  "address": "0:671963027f7f85659ab55b821671688601cdcf1ee674fc7fbbb1a776a18d34a3",
+  "name": "Proxy TON",
+  "symbol": "pTON"
+ },
+ {
   "address": "0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b",
   "decimals": 9,
   "name": "Shards of Notcoin NFT bond",
@@ -4409,146 +4587,6 @@
   "websites": [
    "https://app.bemo.finance/"
   ]
- },
- {
-  "address": "0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97",
-  "name": "LP Token for AMBR-oUSDC",
-  "symbol": "AMBR-oUSDC LP"
- },
- {
-  "address": "0:4cb7638015bf33e782273f9649b0273110ea151dd48b817b830057ed3b8756d1",
-  "name": "LP Token for BOLT-WTON",
-  "symbol": "BOLT-WTON LP"
- },
- {
-  "address": "0:233e7bb3b9ec79c7b2ce227047a2c406460943d7662ddd7090a85ce17e81b032",
-  "name": "LP Token for FNZ-AMBR",
-  "symbol": "FNZ-AMBR LP"
- },
- {
-  "address": "0:60aae4b8c84b5bde1c8abece145246a9ff86d77ccd9375341ef9432a0edd458a",
-  "name": "LP Token for FNZ-oUSDC",
-  "symbol": "FNZ-oUSDC LP"
- },
- {
-  "address": "0:b904f18b6168b5356999a8d0e2adcacdaa88978a5e965073cb2e027d4c4834be",
-  "name": "LP Token for FNZ-WTON",
-  "symbol": "FNZ-WTON LP"
- },
- {
-  "address": "0:c942ee7bf6e238f9b0416d97448c50a9793c8697d386c4c6f081c471294a80b4",
-  "name": "LP Token for oETH-AMBR",
-  "symbol": "oETH-AMBR LP"
- },
- {
-  "address": "0:f63c4e62515dfd0049d2ad3e717e2f0f5018bd3a10fd9467144ecbc0a1454a5a",
-  "name": "LP Token for oETH-FNZ",
-  "symbol": "oETH-FNZ LP"
- },
- {
-  "address": "0:31a95a81ef642fbe6ed10707dd75c7f0adcd353bfb494a5d4b574452d2e827b8",
-  "name": "LP Token for oETH-oUSDC",
-  "symbol": "oETH-oUSDC LP"
- },
- {
-  "address": "0:922b681fda087d31e58e65cc0d4de95a82ca64e943bd7fb45aefd9ec29ca29ff",
-  "name": "LP Token for oETH-oUSDT",
-  "symbol": "oETH-oUSDT LP"
- },
- {
-  "address": "0:7b8383585bb617ca10e1ba57a9d7e41fa654b39fd1d061ec03dc8af656cb6256",
-  "name": "LP Token for oETH-WTON",
-  "symbol": "oETH-WTON LP"
- },
- {
-  "address": "0:9803186a693b42be699cec194d470bfc7284becfdd9d3224a8feae9d65a28701",
-  "name": "LP Token for oUSDT-AMBR",
-  "symbol": "oUSDT-AMBR LP"
- },
- {
-  "address": "0:14ab4d0fe47df659e27b5382cdbd5da61201125cfd986d6156b2fe2338282066",
-  "name": "LP Token for oUSDT-FNZ",
-  "symbol": "oUSDT-FNZ LP"
- },
- {
-  "address": "0:c35e262a8025e7d76d87b5e3745799cf573c6c69fb94cc39a45cf27d8beda2e9",
-  "name": "LP Token for oUSDT-oUSDC",
-  "symbol": "oUSDT-oUSDC LP"
- },
- {
-  "address": "0:29dd8c6a684d5687251e1dad3eecf1a38f15d974fcb8eddf3009d44f387c01f8",
-  "name": "LP Token for oUSDT-WTON",
-  "symbol": "oUSDT-WTON LP"
- },
- {
-  "address": "0:5417d0151be1a2f1ae6c72c6b03ab923578fab25fff53aeff1249a45d3f41d62",
-  "name": "LP Token for TGR-oETH",
-  "symbol": "TGR-oETH LP"
- },
- {
-  "address": "0:d34cd8d3a33e3473ac5574acecbf95f85d889fccbfa2c3777d72a0908b4be9da",
-  "name": "LP Token for TGR-oUSDC",
-  "symbol": "TGR-oUSDC LP"
- },
- {
-  "address": "0:abf02bf3e218157485e1a381b13861e391520b43620aa2d180539f8cd7135c36",
-  "name": "LP Token for TGR-oUSDT",
-  "symbol": "TGR-oUSDT LP"
- },
- {
-  "address": "0:e2e03c28022f72d12a5686c17a552c6ca4ad34ae157c4fe461e6eda537a8b8db",
-  "name": "LP Token for TGR-WTON",
-  "symbol": "TGR-WTON LP"
- },
- {
-  "address": "0:afe41587f4f404b99c567b9cacedd1381f5ff855ccdc112e0cf8291afa7f19f9",
-  "name": "LP Token for WTON-AMBR",
-  "symbol": "WTON-AMBR LP"
- },
- {
-  "address": "0:e02d84194bc4a2c31a0a321dcdd6145fec4930b82324ae143576e4d60c3afbc3",
-  "name": "LP Token for WTON-FNZ",
-  "symbol": "WTON-FNZ LP"
- },
- {
-  "address": "0:d5e6449fc822ffa80c910c888a3df01bb32748c00d0e22a9a1ce6583be1b21a9",
-  "name": "LP Token for WTON-oUSDC",
-  "symbol": "WTON-oUSDC LP"
- },
- {
-  "address": "0:120592f06b6bdf76c8280c5db0f7aa5d71c049251c433575cf50becd326d1676",
-  "name": "LP Token for GRAM-pTON LP",
-  "symbol": "GRAM-pTON LP"
- },
- {
-  "address": "0:139eae96db1bf5d02d7d2cd942dbac45b535757dbccc917997402587aadbfa3a",
-  "name": "LP Token for pTON-JETTON",
-  "symbol": "pTON-JETTON LP"
- },
- {
-  "address": "0:119adaeab087fcfa593d6c7f08495fd40ac1bc912de21f30bb6d5f2cb10022e2",
-  "name": "LP Token for PUNK-pTON",
-  "symbol": "PUNK-pTON LP"
- },
- {
-  "address": "0:19152e5d27c493aca727e559e9b58b282882d76c061a0e17492636f352b3640d",
-  "name": "LP Token for FNZ-pTON",
-  "symbol": "FNZ-pTON LP"
- },
- {
-  "address": "0:ed6473ad55669ff54214eab9a32cf34b4c6c4d2cda20bcae7151994c46067043",
-  "name": "LP Token for STON-pTON",
-  "symbol": "STON-pTON LP"
- },
- {
-  "address": "0:aa14fa522ed72cb5446dad72d10aff70ca37ebc3bff8e3f9f0bc3f098929928d",
-  "name": "LP Token for RAFF-pTON",
-  "symbol": "RAFF-pTON LP"
- },
- {
-  "address": "0:a033394315eaf75ea3a7b90a442d778648c06357fe8f59f58b125bda6b7aafd9",
-  "name": "LP Token for MC-pTON",
-  "symbol": "MC-pTON LP"
  },
  {
   "address": "0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea",
