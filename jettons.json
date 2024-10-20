@@ -353,6 +353,22 @@
   "symbol": "DOGS"
  },
  {
+  "address": "0:65556e7bb5227b68f9026da81c2a3c77bd5be5fb216b53032c981d7267ff2bf2",
+  "decimals": 9,
+  "description": "DOGE MEMES TOPPLE REGIMES (DOMES) - Inspired by Pavel Durovs",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXR5Z67M3hS3E3kWFVrsdx5YfMzvccscvJqPHVHCV4CLV",
+  "name": "DOGE MEMES TOPPLE REGIMES",
+  "social": [
+   "https://x.com/DogeMemeTon",
+   "https://t.me/domeschannel",
+   "https://t.me/domesofficial"
+  ],
+  "symbol": "DOMES",
+  "websites": [
+   "https://domescoin.com"
+  ]
+ },
+ {
   "address": "EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz",
   "description": "Pavel's dog with a hoodie https://smartbotsland.com/blog/social-networks/pavel-durov - $DOODIE is a meme coin on the TON Blockchain. https://t.me/dogwifhoodie_ton",
   "image": "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/doodie.jpg",
@@ -1026,6 +1042,36 @@
   ]
  },
  {
+  "address": "EQAcUhiGl07GB8mBHCdYkyzG63ULyzco6_ImDCe3iCqYYpTX",
+  "description": "\u041c\u0430\u0437\u0437\u0438 (Muzzy) \u2014 \u043e\u0433\u0440\u043e\u043c\u043d\u044b\u0439 \u0437\u0435\u043b\u0451\u043d\u044b\u0439 \u043f\u0440\u0438\u0448\u0435\u043b\u0435\u0446, \u043f\u043e\u0445\u043e\u0436\u0438\u0439 \u0438 \u043d\u0430 \u043c\u0435\u0434\u0432\u0435\u0434\u044f, \u0438 \u043d\u0430 \u0441\u043d\u0435\u0436\u043d\u043e\u0433\u043e \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u043f\u0438\u0442\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0447\u0430\u0441\u0430\u043c\u0438 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u043c\u0438 \u0438 \u043d\u0435 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u044f\u0449\u0438\u0439 \u0437\u0435\u043c\u043d\u0443\u044e \u0435\u0434\u0443. https://t.me/muzzyton",
+  "image": "https://i.ibb.co/kxPM7JY/IMG-0247.jpg",
+  "name": "MUZZY",
+  "social": [
+   "https://t.me/muzzyton",
+   "https://x.com/lkyton",
+   "https://academy.luckyton.org"
+  ],
+  "symbol": "MUZZY",
+  "websites": [
+   "https://muzzy.live/"
+  ]
+ },
+ {
+  "address": "0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9",
+  "decimals": 9,
+  "description": "Notcoin locked in liquidity in Storm Trade (storm.tg)",
+  "image": "https://static.storm.tg/not-slp-logo.png",
+  "name": "NOT Storm LP",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "NOT-SLP",
+  "websites": [
+   "https://storm.tg"
+  ]
+ },
+ {
   "address": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
   "decimals": 9,
   "name": "Notcoin",
@@ -1289,6 +1335,20 @@
   ]
  },
  {
+  "address": "0:86c97b2aad5c8330fd016714b78bb29efb387dba875d5471135208263c9302d9",
+  "description": "Investment token with rewards and fund",
+  "image": "https://raw.githubusercontent.com/redoi-foundation/art/main/logo/redoi.webp",
+  "name": "REDO Invest",
+  "social": [
+   "https://t.me/redoinveston",
+   "https://x.com/redoinveston"
+  ],
+  "symbol": "REDOI",
+  "websites": [
+   "https://redoifoundation.org"
+  ]
+ },
+ {
   "address": "EQDQEsrlf5ALa7-Gpz2nDK6t332bcyQoP0BzHj2KKTrXYVYB",
   "description": "Study $REKT OR GET REKT",
   "image": "https://i.postimg.cc/25t0Lc76/logo-for-token.png",
@@ -1476,6 +1536,21 @@
   "decimals": 9,
   "name": "STON",
   "symbol": "STON"
+ },
+ {
+  "address": "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c",
+  "decimals": 9,
+  "description": "The utility token of the Storm Trade protocol (storm.tg).",
+  "image": "https://static.storm.tg/TOKEN.png",
+  "name": "STORM",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "STORM",
+  "websites": [
+   "https://storm.tg"
+  ]
  },
  {
   "address": "EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft",
@@ -2036,6 +2111,18 @@
   "symbol": "hTON1"
  },
  {
+  "address": "UQCeObLCa6FoY3Xa7ZOwKX9aWoQk34M9TaHGWEhpj0wjne78",
+  "description": "1st iranian tech group token for teach people about cryptocurrencies and how to use them to make moneys and much more .",
+  "image": "https://s6.uplod.ir/i/01140/gnhjvxu90rtg.png",
+  "name": "iOSF1",
+  "social": [
+   "https://t.me/iOSF1",
+   "https://youtube.com/iOSF1",
+   "https://instagram.com/iOSF1.ir"
+  ],
+  "symbol": "iOSF1"
+ },
+ {
   "address": "0:9b48bb73351f4b1e294510273439c641cf76a9e3363353a811e040ba119a08cc",
   "name": "Russian Blue ",
   "symbol": "$Blu"
@@ -2281,6 +2368,11 @@
   "symbol": "BUFFY"
  },
  {
+  "address": "0:c8fd05d87a2c2b58df3932b384b9c671b265fc5ca36c8de84e8f3935df4134a6",
+  "name": "Bull on TON",
+  "symbol": "BULL"
+ },
+ {
   "address": "0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d",
   "name": "Burncoin",
   "symbol": "BURN"
@@ -2426,6 +2518,11 @@
   "symbol": "DARKDUROV"
  },
  {
+  "address": "0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1",
+  "name": "Diamond Bull Technology",
+  "symbol": "DBT"
+ },
+ {
   "address": "0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c",
   "name": "DexCoyote Legends",
   "symbol": "DCL"
@@ -2494,6 +2591,11 @@
   "address": "0:90c50594d1981b428bd546dac7654812513b23f556d58808f65c0346782df92f",
   "name": "Don",
   "symbol": "DON"
+ },
+ {
+  "address": "0:36f7907853194b4c9610b2cb786f1f7e9a6eeb52083ad3b65bcf5a4d16e7df30",
+  "name": "DONDON",
+  "symbol": "DONDON"
  },
  {
   "address": "0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110",
@@ -3321,6 +3423,11 @@
   "symbol": "PWJ"
  },
  {
+  "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
+  "name": "Mintless Points",
+  "symbol": "Points"
+ },
+ {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
   "name": "Ton Raffles Token",
   "symbol": "RAFF"
@@ -3444,6 +3551,11 @@
   "address": "0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd",
   "name": "Save Ass Coin",
   "symbol": "SAC"
+ },
+ {
+  "address": "0:93630f42a4a9beee23bf542ffb0ecaa478ad41cdefaefbe31e64ca1f8d083cb4",
+  "name": "SAD MEOW",
+  "symbol": "SADMEOW"
  },
  {
   "address": "0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d",
@@ -3611,6 +3723,11 @@
   "symbol": "TAKE"
  },
  {
+  "address": "0:0458dc1dc193b509c44fb11c4cb51d0eb67eff19dfcad5a050b179439a75c420",
+  "name": "TAKEN",
+  "symbol": "TAKEN"
+ },
+ {
   "address": "0:01056fee89f91332fbd1d0f1eadcda0d1c34c3a04812313a14f2869390ef8789",
   "name": "Ape by Ton",
   "symbol": "TAPE"
@@ -3741,6 +3858,11 @@
   "symbol": "TLB500"
  },
  {
+  "address": "0:147609b3bbdebe9936901671162d7ec64e95a3c2c25ad0bbc67aafecf3a85caf",
+  "name": "Trump/Telegram Make America Great Again",
+  "symbol": "TMAGA"
+ },
+ {
   "address": "0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1",
   "name": "Ton Milk",
   "symbol": "TMILK"
@@ -3849,6 +3971,11 @@
   "address": "0:59181c65852a41cd07c5763ec0a896bab486afb026850580e5d82e49e5320579",
   "name": "Ton Trump",
   "symbol": "TRUMP"
+ },
+ {
+  "address": "0:255ec5f9c9716d4cf3922c404271dad6b7266f0b8f27051ae3c8272e08e807c8",
+  "name": "Trump MP3",
+  "symbol": "TRUMP3"
  },
  {
   "address": "0:b90d7df13ff8d91130c383725afc7d9780e1ce18fd6d3f2f7cbfa86172251ea6",
