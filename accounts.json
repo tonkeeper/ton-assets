@@ -796,6 +796,36 @@
   "require_memo": true
  },
  {
+  "address": "0:97ad93444915089e812238ff10abe9066d0b03ea3dba2a8630fb9c9f88aa455c",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:1f5806c73d03bbc96eb7eebf16067f1f2e8e270cfa16d57001aa9eaf7456f008",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:1b44ec553616b0e4551037038834bdf0bdaa1f0440e10f3331d9841585612a68",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:cf06c94efdae26faaa1d85092fc4daee78eba09e69c36dac051c1d8ffde35f40",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:91887059ba56a03790b0696d7a402ac0691dff62fcd398e813f97d3b2736fa58",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },

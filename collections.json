@@ -20,7 +20,32 @@
   ]
  },
  {
+  "address": "EQD7E8LeHTywS2q1cUjMJZW9lEn4Hdw9dAW7ft-qoWpnkLul",
+  "name": "TEST"
+ },
+ {
   "address": "EQA-2g3g7Jj169mrA5PR49LjmIC1TIQfaGEcZ8UnDZYfsrno",
   "name": "The Gateway"
+ },
+ {
+  "address": "EQDAicW4BJTBec7C_E1qaJDvem4BiKwmCzH9eIlvQi6DSRnb",
+  "name": "Tonkeeper Adventure"
+ },
+ {
+  "address": "0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2",
+  "description": "Exclusive NFT collectibles within Totemancer. Each totem represents a powerful asset, offering special in-game enhancements and tangible benefits.",
+  "image": "https://totemancer.com/ton/tc.png",
+  "name": "Totemancer",
+  "social": [
+   "https://t.me/TotemancerBot",
+   "https://t.me/Totemancer",
+   "https://t.me/Totemancer_RU",
+   "https://t.me/TotemancerChat",
+   "https://x.com/Totemancer",
+   "https://vk.com/Totemancer"
+  ],
+  "websites": [
+   "https://totemancer.com"
+  ]
  }
 ]
