@@ -2777,6 +2777,11 @@
   "symbol": "GEMSTON"
  },
  {
+  "address": "0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba",
+  "name": "\u26fd\ufe0fGasGod",
+  "symbol": "GG"
+ },
+ {
   "address": "0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2",
   "name": "Grabscape governance token",
   "symbol": "GGT"
@@ -3307,6 +3312,11 @@
   "symbol": "PEPE"
  },
  {
+  "address": "0:897713bd65a57aa2b1dde28b172315a257ab660c0b996aa4a238b29caf6bb97e",
+  "name": "PEPE.MP3",
+  "symbol": "PEPE.MP3"
+ },
+ {
   "address": "0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b",
   "name": "Petcoin",
   "symbol": "PET"
@@ -3582,6 +3592,11 @@
   "symbol": "SADMEOW"
  },
  {
+  "address": "0:93d40bdb9fbc1f909e39087454d4f71d61dee00a75bb4eae768687f6507c3709",
+  "name": "SAD WOOF",
+  "symbol": "SADWOOF"
+ },
+ {
   "address": "0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d",
   "name": "Saintcoin",
   "symbol": "SAINT"
@@ -3645,6 +3660,11 @@
   "address": "0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4",
   "name": "Shitcoin",
   "symbol": "SHIT"
+ },
+ {
+  "address": "0:403eeb032b45bfa44c92fdd30a851402a5f171d2ccde0d984b434101a28e2a86",
+  "name": "Shark Invest Club",
+  "symbol": "SIC"
  },
  {
   "address": "0:418cc07e7a971da285742ca4803a5d76b1e7bde0e9e59545855e2d26a98646b1",
