@@ -416,6 +416,20 @@
   ]
  },
  {
+  "address": "0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208",
+  "description": "DUST is the governance token for the DeDust Protocol.",
+  "image": "ipfs://QmaZn8y3JndrePjeUbDQtByPV6ezHwP67pVaJG3WWpamLB",
+  "name": "DeDust",
+  "social": [
+   "https://t.me/dedust",
+   "https://x.com/dedust_io"
+  ],
+  "symbol": "DUST",
+  "websites": [
+   "https://dedust.io"
+  ]
+ },
+ {
   "address": "0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1",
   "description": "DYOR Coin is the utility token by DYOR.io, the biggest analytics platform on TON Blockchain.",
   "image": "https://storage.dyor.io/jettons/EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz/dyorcoin.png",
@@ -1418,20 +1432,6 @@
   "symbol": "SAFET",
   "websites": [
    "https://safemoonton.com"
-  ]
- },
- {
-  "address": "0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208",
-  "description": "SCALE is a utility token that will be used to support all independent developers.",
-  "image": "ipfs://QmSMiXsZYMefwrTQ3P6HnDQaCpecS4EWLpgKK5EX1G8iA8",
-  "name": "Scaleton",
-  "social": [
-   "https://t.me/Scaleton",
-   "https://twitter.com/ScaletonCo"
-  ],
-  "symbol": "SCALE",
-  "websites": [
-   "https://scaleton.io"
   ]
  },
  {
