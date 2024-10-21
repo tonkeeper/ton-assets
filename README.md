@@ -7,14 +7,14 @@ This is a list of popular addresses and assets. We are open to pull request but 
 Short list. Full in [accounts.json](accounts.json)
 
 Name           | Address
----------------|-----------
+@saeidsma---------------|-----------UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
 [CAT Services](https://tonviewer.com/0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802) | EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
 [TON Foundation (OLD)](https://tonviewer.com/0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8) | EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N
 [TON Ecosystem Reserve (OLD)](https://tonviewer.com/0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270) | EQAhE3sLxHZpsyZ_HecMuwzvXHKLjYx4kEUehhOy2JmCcHCT
-[Elector Contract](https://tonviewer.com/-1:3333333333333333333333333333333333333333333333333333333333333333) | Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF
-[Config Contract](https://tonviewer.com/-1:5555555555555555555555555555555555555555555555555555555555555555) | Ef9VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVbxn
-[System](https://tonviewer.com/-1:0000000000000000000000000000000000000000000000000000000000000000) | Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU
-[Log tests Contract](https://tonviewer.com/-1:34517c7bdf5187c55af4f8b61fdc321588c7ab768dee24b006df29106458d7cf) | Ef80UXx731GHxVr0-LYf3DIViMerdo3uJLAG3ykQZFjXz2kW
+[Elector Contract](https://tonviewer.com/-1:3333333333333333333333333333333333333333333333333333333333333333) | UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
+[Config Contract](https://tonviewer.com/-1:5555555555555555555555555555555555555555555555555555555555555555) | UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
+[System](https://tonviewer.com/-1:0000000000000000000000000000000000000000000000000000000000000000) | UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
+[Log tests Contract](https://tonviewer.com/-1:34517c7bdf5187c55af4f8b61fdc321588c7ab768dee24b006df29106458d7cf) | -UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
 [.ton DNS](https://tonviewer.com/0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf) | EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz
 [TON Believers Fund](https://tonviewer.com/0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7) | EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2
 [Tonstakers](https://tonviewer.com/0:a45b17f28409229b78360e3290420f13e4fe20f90d7e2bf8c4ac6703259e22fa) | EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
@@ -74,7 +74,7 @@ Name           | Address
 ## Jettons
 
 Name           | Address
----------------|-----------
+@saeidsma---------------|-----------UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
 [ Vladimir Putin's Dog](https://tonviewer.com/0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542) | EQA0tQ880E68-ZGsugW3kjm5hk_5hUAWTdVggFlJmqqVQgCm
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
 [$TON Mixer](https://tonviewer.com/0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5) | EQAdFbynSUlzIlh_I4fXuYaer3rvY0TG0BK-NQZ-Y871pZoM
@@ -126,7 +126,6 @@ Name           | Address
 [Baby Ton Cat](https://tonviewer.com/0:954e7c7f9f6511a3d72e267393f051f8cf525c4b11a4c979d0a46c11def13251) | EQCVTnx_n2URo9cuJnOT8FH4z1JcSxGkyXnQpGwR3vEyUeEr
 [Baby Yoda](https://tonviewer.com/0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7) | EQC7vuKEYLdC72YhUWt3AUVA-Oi66Q1DxTHXH7r6pXaV50j7
 [BabyRedo](https://tonviewer.com/0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3) | EQCMUI-C7CQjVQanwD5Nrws0o06SKVMjHbLPNw8PXW6t01db
-[Bakalchuk](https://tonviewer.com/0:ef39c29f72785e150fb40ce3df085afcc3664f307108f4ca0ee0092140b9b335) | EQDvOcKfcnheFQ-0DOPfCFr8w2ZPMHEI9MoO4AkhQLmzNTFT
 [Baron](https://tonviewer.com/0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca) | EQBiHSLVzoicc-LQPDXJc_rF-WRft0aFihccFduA6fQ1ynYM
 [Batymchanin Coin](https://tonviewer.com/0:9704ab35ee9a9540dfc688da1a8519b142f29dbbcfb62f4594ac8a092819508b) | EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH
 [Bayerische Motoren Werke AG Coin](https://tonviewer.com/0:66f143ad8511cc1abeab0ac351355c0502b6077163a0c3aa408f8259d91890fb) | EQBm8UOthRHMGr6rCsNRNVwFArYHcWOgw6pAj4JZ2RiQ-yI1
