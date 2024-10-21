@@ -430,9 +430,9 @@
  },
  {
   "address": "0:ce3cdcf95089b75ee5ce9824a4ff506f40b75090c4be96637c2b8d38b1097224",
-  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/tonmobile_service_288.svg",
-  "name": "TonMobile Service",
-  "require_memo": false
+  "image": "https://img.mobile.ag/logo_mobile_r_400x400.png",
+  "name": "Mobile",
+  "require_memo": true
  },
  {
   "address": "0:80d4123841167ca989ac912443cc99a4b9c1a87584536427ff6fd85c92395ae9",
