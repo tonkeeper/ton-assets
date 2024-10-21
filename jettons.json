@@ -117,6 +117,19 @@
   "symbol": "BITPIX"
  },
  {
+  "address": "EQBm8UOthRHMGr6rCsNRNVwFArYHcWOgw6pAj4JZ2RiQ-yI1",
+  "description": "BMW Coin is like a Dogcoin - only BMW",
+  "image": "https://raw.githubusercontent.com/2006vlad2006/website/refs/heads/main/BMW_logo_GitHub.png",
+  "name": "Bayerische Motoren Werke AG Coin",
+  "social": [
+   "https://t.me/bmwcoin_ton"
+  ],
+  "symbol": "BMW",
+  "websites": [
+   "https://bmwcoin.info"
+  ]
+ },
+ {
   "address": "0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e",
   "description": "Official token of the Huebel Company",
   "image": "https://cloudflare-ipfs.com/ipfs/QmX47dodUg1acXoxYDULWTNfShXRW5uHrCmoKSUNR9xKQw",
