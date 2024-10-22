@@ -619,7 +619,7 @@ Name           | Address
 [The Matrix](https://tonviewer.com/0:13a53eb373d32b5a79238a38fdac5d1fc914f9d56c6c5c078193d01037679193) | EQATpT6zc9MrWnkjijj9rF0fyRT51WxsXAeBk9AQN2eRk4Nv
 [The Open League MEME](https://tonviewer.com/0:8e291ace7b37997c28242873be3c19e179ec578eb147652f9e44ee43ffc87960) | EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N
 [The Open SOFT](https://tonviewer.com/0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1) | EQCHrhcBGVVlre8ngBlxLtfte37OGsXeJSmFSmABL8x44QH2
-[The Pixels](https://tonviewer.com/0:0c2a87ce0d1582f1d92ceb6f592ba14df413902e6c2d1d22307b52f4bafb26a2) | EQAMKofODRWC8dks629ZK6FN9BOQLmwtHSIwe1L0uvsmopaW
+[The Pixels](https://tonviewer.com/0:c2ce9ae8ec30656aec5dd5a683430406a0649a235792c92cd6946df9e6770aba) | EQDCzpro7DBlauxd1aaDQwQGoGSaI1eSySzWlG355ncKum_l
 [The Resistance Cat](https://tonviewer.com/0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4) | EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j
 [The Resistance Cock](https://tonviewer.com/0:636ccef1f5ca8f0aa142635ec5490af6311a191b39fd786e5501e43bbeca9b5c) | EQBjbM7x9cqPCqFCY17FSQr2MRoZGzn9eG5VAeQ7vsqbXPhX
 [The Resistance Girl](https://tonviewer.com/0:9c61458a8631b1c2ab64fe37bd2d6d95e11a0599b84e511f5ee34e18e8541311) | EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh
