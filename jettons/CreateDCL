@@ -1,0 +1,11 @@
+name: DexCoyote Legends
+description: DexCoyote Legends is a new generation crypto game on the TON blockchain-network.
+image: "https://github.com/kir32232/ETFex/blob/main/IMG_1490.jpeg?raw=true"  
+address: "0:EQArTcL5c1TlCoeLwTIRgHOMmebxMxnhSYnz65ttLRWBHL17"
+symbol: DCL
+max_supply: 10000000
+websites:
+  - "https://dclgame.com"
+social:
+  - "https://t.me/dexcoyote"
+  - "https://t.me/chatdcl"
