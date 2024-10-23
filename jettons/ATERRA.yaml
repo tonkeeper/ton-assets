@@ -1,0 +1,8 @@
+name: Absurd Territory
+description: Utility token for Absurd Territory project
+image: "https://absurd.coliseum-game.ru/imgs/aterra.png"  
+address: "0:71937f4dd0ebe99090774bb63726a65799f9ba9b37f496bc9c109251f4619a83"
+symbol: ATERRA
+max_supply: 21000000
+social:
+  - "https://t.me/aterra_official"
