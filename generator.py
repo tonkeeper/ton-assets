@@ -101,7 +101,13 @@ def merge_accounts(accounts):
 
 
 def merge_collections():
-    collections = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
+    raw = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
+    collections = []
+    for c in raw:
+        if isinstance(c, list):
+            collections.extend(c)
+        else:
+            collections.append(c)
     with open('collections.json', 'w') as out:
         json.dump(collections, out, indent=" ", sort_keys=True)
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in collections])
