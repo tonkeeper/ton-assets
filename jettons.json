@@ -3012,6 +3012,11 @@
   "symbol": "LIFEYT"
  },
  {
+  "address": "0:90f05482a0e9c221a797dbd60518e8067519fba7d035b92f208958d9290c910f",
+  "name": "Liquidator",
+  "symbol": "LIQ"
+ },
+ {
   "address": "0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054",
   "name": "Lucky TON",
   "symbol": "LKY"
@@ -3139,6 +3144,11 @@
  {
   "address": "0:87e3837bdc15c4853f34eb72802bfdbba02a26bc99e601a79bb28f9d668c80cb",
   "name": "MMM2049",
+  "symbol": "MMM"
+ },
+ {
+  "address": "0:ef2d322b96fb09cd51113037f1fbae0afe286df1d7a3aff38563b11af99e661a",
+  "name": "Mr. MeMe",
   "symbol": "MMM"
  },
  {
@@ -3300,6 +3310,11 @@
   "address": "0:a6f8acc9ea469c2bd961ae739a1d1f96d4a2469be1f8d796c482c234e085530c",
   "name": "PDF Miner Boost",
   "symbol": "PDFB"
+ },
+ {
+  "address": "0:46b6c9b6ead767e9b46366b98b66464caa4f8af3077847aea4e769ed3d4e14cd",
+  "name": "PEDRO",
+  "symbol": "PEDRO"
  },
  {
   "address": "0:97cceec78682b97c342e08e344e3797cf90b2b7aae73abcf5954d8449dadb878",
@@ -4290,6 +4305,11 @@
   "address": "0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb",
   "name": "teh upen netwerg",
   "symbol": "tun"
+ },
+ {
+  "address": "0:1f1798f724c2296652e6002bfb51bed11fb5a689532e5788af7203581ef367a8",
+  "name": "uTON",
+  "symbol": "uTON"
  },
  {
   "address": "0:e01ce5b481b7c4a1d0e295cf15926b3f1736a10b1857a2cec6c095d7873f2ec0",
