@@ -4177,6 +4177,11 @@
   "symbol": "WTF"
  },
  {
+  "address": "0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3",
+  "name": "X Empire",
+  "symbol": "X"
+ },
+ {
   "address": "0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602",
   "name": "xCryproMarket",
   "symbol": "XCM"
