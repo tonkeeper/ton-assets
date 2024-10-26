@@ -1,8 +1,20 @@
 {
-  "address": "0:e1abf0e3414309a9f5cb3fc2bc27a4a53afa27d3c5d040ad13e3dc689f67b4c5",
-  "name": "RealShahnameh",
-  "symbol": "REAL",
-  "decimals": "9",
-  "image": "https://cache.tonapi.io/imgproxy/Dxq5eYmU-HqSQoVYzgtT0RKGsAkC17lDwsNI2zSXecA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9yZWFsc2hhaG5hbWVoLmdpdGh1Yi5pby9yZWFsdG9uLzExNzU1ODU0MC5wbmc.webp",
-  "description": "REAL is the Shahnameh game's utility token, linked to the Iranian Rial. Starting with 227 tokens, the supply grows with players!"
+  "mintable": true,
+  "total_supply": "227000000000000000000",
+  "admin": {
+    "address": "0:0000000000000000000000000000000000000000000000000000000000000000",
+    "name": "blockburner.ton",
+    "is_scam": false,
+    "is_wallet": false
+  },
+  "metadata": {
+    "address": "0:e1abf0e3414309a9f5cb3fc2bc27a4a53afa27d3c5d040ad13e3dc689f67b4c5",
+    "name": "RealShahnameh",
+    "symbol": "REAL",
+    "decimals": "9",
+    "image": "https://cache.tonapi.io/imgproxy/Dxq5eYmU-HqSQoVYzgtT0RKGsAkC17lDwsNI2zSXecA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9yZWFsc2hhaG5hbWVoLmdpdGh1Yi5pby9yZWFsdG9uLzExNzU1ODU0MC5wbmc.webp",
+    "description": "REAL is the Shahnameh game's utility token, linked to the Iranian Rial. Starting with 227 tokens, the supply grows with players!"
+  },
+  "verification": "none",
+  "holders_count": 7
 }
