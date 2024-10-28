@@ -92,6 +92,20 @@
   ]
  },
  {
+  "name": "Honey Badger",
+  "description": "Honey Badger (BADG) meme token",
+  "image": "https://raw.githubusercontent.com/MShahboz/MShahboz/refs/heads/main/IMG_4233.jpeg",
+  "address": "0:a2b1605a1e884ec3be1aa4e724bb76a8e300904c6ed9f1bebda817633e883a0d",
+  "symbol": "BADG",
+  "websites": [
+    "https://t.me/Badgrobot"
+  ],
+  "social": [
+    "https://t.me/BADG_meme",
+    "https://x.com/BADG_meme"
+  ]
+ },
+ {
   "address": "EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH",
   "description": "Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/Batymchanin-coin/main/LOGOGOOD2.png",
