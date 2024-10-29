@@ -1208,6 +1208,21 @@
   "symbol": "PEPE"
  },
  {
+  "address": "0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13",
+  "description": "$PGC is the native token of PiggyPiggy, the first workplace simulation and social game launched on Telegram and TON.",
+  "image": "https://restaurant.piggypiggy.io/piggycoin.png",
+  "name": "PiggyPiggyCoin",
+  "social": [
+   "https://t.me/piggypiggyofficial",
+   "https://t.me/piggypiggychat",
+   "https://x.com/piggypiggygame"
+  ],
+  "symbol": "PGC",
+  "websites": [
+   "http://t.me/PiggyPiggyofficialbot"
+  ]
+ },
+ {
   "address": "0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7",
   "description": "Palladium Venture Foundation",
   "image": "https://raw.githubusercontent.com/Palladium-foundation/website/main/logo.png",
