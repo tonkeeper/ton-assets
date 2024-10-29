@@ -1295,9 +1295,6 @@
 - address: 0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb
   name: teh upen netwerg
   symbol: tun
-- address: 0:1f1798f724c2296652e6002bfb51bed11fb5a689532e5788af7203581ef367a8
-  name: uTON
-  symbol: uTON
 - address: 0:e01ce5b481b7c4a1d0e295cf15926b3f1736a10b1857a2cec6c095d7873f2ec0
   name: Wrapped Ymakanic Coin
   symbol: wYKC

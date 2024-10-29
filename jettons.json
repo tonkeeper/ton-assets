@@ -4322,11 +4322,6 @@
   "symbol": "tun"
  },
  {
-  "address": "0:1f1798f724c2296652e6002bfb51bed11fb5a689532e5788af7203581ef367a8",
-  "name": "uTON",
-  "symbol": "uTON"
- },
- {
   "address": "0:e01ce5b481b7c4a1d0e295cf15926b3f1736a10b1857a2cec6c095d7873f2ec0",
   "name": "Wrapped Ymakanic Coin",
   "symbol": "wYKC"
@@ -4724,5 +4719,19 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
+ },
+ {
+  "address": "0:1f1798f724c2296652e6002bfb51bed11fb5a689532e5788af7203581ef367a8",
+  "description": "UTONIC TON, the Liquid Re-staking Token of UTONIC.",
+  "image": "https://utonic-finance.oss-ap-southeast-1.aliyuncs.com/assets/uton.png",
+  "name": "uTON",
+  "social": [
+   "https://twitter.com/UTONIC_uTON",
+   "https://t.me/utonic_uton"
+  ],
+  "symbol": "uTON",
+  "websites": [
+   "https://utonic.org"
+  ]
  }
 ]
