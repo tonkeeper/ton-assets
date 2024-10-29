@@ -1501,6 +1501,21 @@
   "symbol": "SNT"
  },
  {
+  "address": "0:ad5a9fc06d769643fc73b705d68abdb493cd0dc3e3c9a3d1011201cd804a5bdb",
+  "description": "He is a sponge",
+  "image": "https://raw.githubusercontent.com/Ov3RRR/test/refs/heads/main/5kjUbDIj_400x400.jpg?token=GHSAT0AAAAAACZRTP6E665KT42XS4TMQCUQZY6D72Q",
+  "name": "SPONGE",
+  "social": [
+   "https://t.me/spngton",
+   "https://x.com/spngton",
+   "https://t.me/heissponge"
+  ],
+  "symbol": "SPNG",
+  "websites": [
+   "https://spongeton.org/"
+  ]
+ },
+ {
   "address": "0:adc5b7daf5b5579fbc2c7cae55ef67d7d5116e73c9050c5ee988c8a858436010",
   "decimals": 9,
   "description": "SquidTG Metaverse Governance Token \ud83e\udd91",
