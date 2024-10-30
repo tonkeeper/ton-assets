@@ -35,7 +35,7 @@ Name           | Address
 [TONAPI gas proxy](https://tonviewer.com/0:b6eacb041642f30b424d2f6f58795e6e932acefffa779326f1c256347820b4cd) | EQC26ssEFkLzC0JNL29YeV5ukyrO__p3kybxwlY0eCC0zUsI
 [TONAPI gas proxy](https://tonviewer.com/0:87116a10bfc9cc340b837eb03b059ee162aaef9b6fa22dc9e435b3e73a173df9) | EQCHEWoQv8nMNAuDfrA7BZ7hYqrvm2-iLcnkNbPnOhc9-UQi
 [TONAPI gas proxy](https://tonviewer.com/0:51b3631fe3f915981f4114cdeb1237e850b7fae43055b13dbcdc96e50f1c16ce) | EQBRs2Mf4_kVmB9BFM3rEjfoULf65DBVsT283JblDxwWzgho
-[The Open Network Foundation](https://tonviewer.com/0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3) | EQAFmjUoZUqKFEBGYFEMbv-m61sFStgAfUR8J6hJDwUU09iT
+[TON Foundation](https://tonviewer.com/0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3) | EQAFmjUoZUqKFEBGYFEMbv-m61sFStgAfUR8J6hJDwUU09iT
 [Hipo Treasury](https://tonviewer.com/0:8bc991cfe177bc7e9721433efa3befd199485a55cffd040a06c89af026b71bcf) | EQCLyZHP4Xe8fpchQz76O-_RmUhaVc_9BAoGyJrwJrcbz2eZ
 [Telegram](https://tonviewer.com/0:8c397c43f9ff0b49659b5d0a302b1a93af7ccc63e5f5c0c4f25a9dc1f8b47ab3) | EQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6s3Va
 [battery.ton](https://tonviewer.com/0:8f2d840ec05d118f98459a057b1fcab535c57b9371222be15667fee932ceaf53) | EQCPLYQOwF0Rj5hFmgV7H8q1NcV7k3EiK-FWZ_7pMs6vU2N2
