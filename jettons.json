@@ -517,6 +517,20 @@
   "symbol": "GLINT-TON"
  },
  {
+  "address": "0:a43b42c4dafdce37118c0fbcae22bda8cdf4d8e326d4997e759a82c1060e3b08",
+  "description": "It\u2019s just a $BUTTON,but if you press it you become RICH AF?",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmf93AqmNvQzzdxRCvQEkdqmCSETXMFkdunNNC5F1N31Z3",
+  "name": "Press That Button",
+  "social": [
+   "https://t.me/tonbuybutton",
+   "https://x.com/tonbuybutton"
+  ],
+  "symbol": "BUTTON",
+  "websites": [
+   "https://tonbutton.net/"
+  ]
+ },
+ {
   "address": "0:C97192095E0F3193F8BCC0DD100128525DE76A16F816CEE2F88B9D25D58AD637",
   "description": "Durov`s Code is a token dedicated to the biography of the Durov brothers",
   "image": " https://github.com/DurovsCode/logo/blob/main/wt3.png?raw=true ",
