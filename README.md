@@ -57,6 +57,8 @@ Name           | Address
 [Fragment](https://tonviewer.com/0:e6f3d8824f46b1efbab9afc684793428c55fed69b46a15a49be69a29bc49e530) | EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb
 [Pavel Durov](https://tonviewer.com/0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d) | EQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinaPP
 [Notcoin](https://tonviewer.com/0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112) | EQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REsF3
+[BLKS](https://tonviewer.com/UQBsPll4Qw1YTj6HpOYlphNoInf6bl2w_Cv5aGknjuIUoGif) | UQBsPll4Qw1YTj6HpOYlphNoInf6bl2w_Cv5aGknjuIUoGif
+
 
 
 ## NFT collections
@@ -758,7 +760,7 @@ Name           | Address
 [матрёшка](https://tonviewer.com/0:905737d037268c177108eaed19b7b51672deaee90545de7fa73d406ed07aa979) | EQCQVzfQNyaMF3EI6u0Zt7UWct6u6QVF3n-nPUBu0HqpedY-
 [чебурашка](https://tonviewer.com/0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246) | EQABxFYjGY4quYR2wSSltiY7mf9LANIirtk_u_-I9eiCRiry
 [⛽️GasGod](https://tonviewer.com/0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba) | EQAtyIuO-2x0bp_imQhyOHVT5-Xx8K8tdqsGkED-BME9urj_
-
+[BLKS](https://tonviewer.com/EQD1dXVNpGspVyNOuQQKGNDylVW7eDa_x43b39q4LP3ZjJCw) | EQD1dXVNpGspVyNOuQQKGNDylVW7eDa_x43b39q4LP3ZjJCw
 
 ## Structure
 
