@@ -649,6 +649,9 @@
 - address: 0:5a392b795c8a8f26326e1df88ad5967b54ca44e95661c09a1d63faa72bda8844
   name: Not Floki Ton
   symbol: NFTON
+- address: 0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6
+  name: NikolAI
+  symbol: NIKO
 - address: 0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684
   name: NO Rocket
   symbol: 'NO'
