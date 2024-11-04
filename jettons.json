@@ -4513,5 +4513,27 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+ {
+    "name": "RealShahnameh"
+    "description": "REAL is the Shahnameh game's utility token, linked to the Iranian Rial. Starting with 227 tokens, the supply grows with players!",
+    "type": "JETTON",
+    "image": "https://realshahnameh.github.io/realton/117558540.png",
+    "symbol": "REAL",
+    "decimals": 9,
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p",
+    "id": "0:e1abf0e3414309a9f5cb3fc2bc27a4a53afa27d3c5d040ad13e3dc689f67b4c5",
+    "website": "https://shahnameh-bot.io",
+    "links": [
+        {
+            "name": "telegram_News",
+            "url": "https://t.me/Shahnameh_News"
+        },
+        {
+            "name": "telegram_DApp",
+            "url": "https://t.me/Shahnameh_bot"
+        }
+    ]
+}
 ]
