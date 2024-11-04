@@ -1,15 +1,7 @@
 [
  {
   "address": "0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf",
-  "description": "\u041f\u0440\u043e\u0441\u0442\u043e \u0441\u0430\u043c\u0430\u044f \u0442\u043e\u043f\u043e\u0432\u0430\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f \u0432 \u0441\u0435\u0442\u0438 \u0422\u041e\u041d.",
-  "max_items": 128,
-  "name": "Cryptodickbutt",
-  "social": [
-   "https://t.me/cryptozhopohuy"
-  ],
-  "websites": [
-   "https://cryptozhopohuy.org"
-  ]
+  "name": "KZH"
  },
  {
   "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
@@ -20,7 +12,32 @@
   ]
  },
  {
+  "address": "EQD7eDxP_wLX18kr8uyYfs6srlgoNMfRbXNYM8dmMXT2vxwk",
+  "name": "CALLIGRAFUTURISM \u2014 24: Units"
+ },
+ {
   "address": "EQA-2g3g7Jj169mrA5PR49LjmIC1TIQfaGEcZ8UnDZYfsrno",
   "name": "The Gateway"
+ },
+ {
+  "address": "EQDAicW4BJTBec7C_E1qaJDvem4BiKwmCzH9eIlvQi6DSRnb",
+  "name": "Tonkeeper Adventure"
+ },
+ {
+  "address": "0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2",
+  "description": "Exclusive NFT collectibles within Totemancer. Each totem represents a powerful asset, offering special in-game enhancements and tangible benefits.",
+  "image": "https://totemancer.com/ton/tc.png",
+  "name": "Totemancer",
+  "social": [
+   "https://t.me/TotemancerBot",
+   "https://t.me/Totemancer",
+   "https://t.me/Totemancer_RU",
+   "https://t.me/TotemancerChat",
+   "https://x.com/Totemancer",
+   "https://vk.com/Totemancer"
+  ],
+  "websites": [
+   "https://totemancer.com"
+  ]
  }
 ]

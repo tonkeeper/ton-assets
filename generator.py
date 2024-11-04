@@ -56,6 +56,8 @@ def merge_jettons():
             jettons.extend(j)
         else:
             jettons.append(j)
+            
+    already_exist_address = dict()
     for j in jettons:
         if len(set(j.keys()) - ALLOWED_KEYS) > 0 :
             raise Exception("invalid keys %s in %s" % (set(j.keys()) - ALLOWED_KEYS, j.get('name')))
@@ -63,6 +65,11 @@ def merge_jettons():
             raise Exception("name, symbol and address are required %s "  % j.get("name"))
         if 'image' in j and j['image'].startswith('https://cache.tonapi.io'):
             raise Exception("don't use cache.tonapi.io as image source in %v", j.get("name"))
+
+        normalized = normalize_address(j["address"], True)
+        if (exist := already_exist_address.get(normalized)):
+            raise Exception(f"duplicate address for {j['name']} and {exist}")
+        already_exist_address[normalized] = j["name"]
         for field in ['symbol', 'name', 'address', 'description', 'image', 'coinmarketcap', 'coingecko']:
             if not isinstance(j.get(field, ''), str):
                 raise Exception("invalid image field type %s" % j.get("name"))
@@ -94,7 +101,13 @@ def merge_accounts(accounts):
 
 
 def merge_collections():
-    collections = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
+    raw = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
+    collections = []
+    for c in raw:
+        if isinstance(c, list):
+            collections.extend(c)
+        else:
+            collections.append(c)
     with open('collections.json', 'w') as out:
         json.dump(collections, out, indent=" ", sort_keys=True)
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in collections])
@@ -104,6 +117,7 @@ def main():
     collect_all_dexes()
     jettons = merge_jettons()
     collections = merge_collections()
+    # accounts = merge_accounts([{'name': x[0] + " master", 'address': x[1]} for x in jettons])
     accounts = merge_accounts([])
     jettons_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_JETTONS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in jettons])
     accounts_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_ACCOUNTS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in accounts])
