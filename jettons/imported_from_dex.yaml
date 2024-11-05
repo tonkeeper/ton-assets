@@ -46,6 +46,9 @@
 - address: 0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0
   name: ALWIN AirDrop
   symbol: ALWIN
+- address: 0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f
+  name: Amocucinare
+  symbol: AMORE
 - address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
   name: Andy
   symbol: ANDY

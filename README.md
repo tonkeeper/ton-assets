@@ -101,6 +101,7 @@ Name           | Address
 [Alliance](https://tonviewer.com/0:3a3594e565b371d7ddafd0d763a3a6a5c484408b212a0caa87a79474515330e4) | EQA6NZTlZbNx192v0Ndjo6alxIRAiyEqDKqHp5R0UVMw5ANv
 [AltOOshka](https://tonviewer.com/0:ece3f316991c9298f6ec5ba33267c0f2fa4f818b4bd934d495b7a2c4d8b0bf75) | EQDs4_MWmRySmPbsW6MyZ8Dy-k-Bi0vZNNSVt6LE2LC_ddUP
 [Ambra](https://tonviewer.com/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
+[Amocucinare](https://tonviewer.com/0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f) | EQC7js8NLX3v57ZuRmuusNtMSBdki4va_qyL7sAwdmosf_xK
 [Andy](https://tonviewer.com/0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f) | EQDhnXQgjkymx2DgbcLZqvLClyBEsFAAr-RotkrXhf1OD3Gp
 [Anthill World](https://tonviewer.com/0:9c3737962aac1825bd53f9a2142e8cf4c42802741bb74a88dcbd501333e8d534) | EQCcNzeWKqwYJb1T-aIULoz0xCgCdBu3SojcvVATM-jVNBAZ
 [Ape by Ton](https://tonviewer.com/0:01056fee89f91332fbd1d0f1eadcda0d1c34c3a04812313a14f2869390ef8789) | EQABBW_uifkTMvvR0PHq3NoNHDTDoEgSMToU8oaTkO-Hif5A
