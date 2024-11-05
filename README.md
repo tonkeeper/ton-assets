@@ -377,6 +377,7 @@ Name           | Address
 [NUTCOIN](https://tonviewer.com/0:b9cef491cc302d2fe928bb71e9c956ce57fc3edb4db0262e98d03c0033b18a99) | EQC5zvSRzDAtL-kou3HpyVbOV_w-202wJi6Y0DwAM7GKmfCY
 [Neo Dog](https://tonviewer.com/0:6dccde67f4d9161a33bab8c96137b17c51dc2263e085a1d3ee8a9d31e4350e1b) | EQBtzN5n9NkWGjO6uMlhN7F8UdwiY-CFodPuip0x5DUOG7K4
 [New World Order](https://tonviewer.com/0:c3ae6ab597aeae34342aaea95b4d0311628adf5f220b0ee149841b051d5130dd) | EQDDrmq1l66uNDQqrqlbTQMRYorfXyILDuFJhBsFHVEw3Wu4
+[NikolAI](https://tonviewer.com/0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6) | EQDo8QC6mVi7Gq6uGWDF4XVp3cZ4wKZ-bqKBkmhVMPm-1ojm
 [Nikolai KOT Durov](https://tonviewer.com/0:fe2d6f635366ed4aefdc96b73e71725a1c94ba2ca27af5031ca4b6c514f53173) | EQD-LW9jU2btSu_clrc-cXJaHJS6LKJ69QMcpLbFFPUxc4Ux
 [Nobby Game](https://tonviewer.com/0:41f843111099081d5606e433e29253a158f72c09ac632fd1ca9a046fb86b73ff) | EQBB-EMREJkIHVYG5DPiklOhWPcsCaxjL9HKmgRvuGtz_1lu
 [Not Floki Ton](https://tonviewer.com/0:5a392b795c8a8f26326e1df88ad5967b54ca44e95661c09a1d63faa72bda8844) | EQBaOSt5XIqPJjJuHfiK1ZZ7VMpE6VZhwJodY_qnK9qIRAUh
