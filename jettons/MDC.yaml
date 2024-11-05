@@ -1,0 +1,11 @@
+name: McDonald's Coin
+description: A commemorative token launched by McDonald's.
+image: "https://img1.baidu.com/it/u=549118935,333429300&fm=253&fmt=auto&app=138&f=PNG?w=256&h=256" 
+address: 0:8d5e1d6c7fe9c32172e7762c6b9545be77a2751157ff97f95dc4289ddd656a1f
+symbol: MDC
+websites:
+  - "https://www.mcdonalds.com/"
+social:
+  - "https://mcdonalds.tumblr.com/"
+  - "https://www.facebook.com/McDonalds"
+  - "https://x.com/McDonalds"
