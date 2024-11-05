@@ -2366,6 +2366,11 @@
   "symbol": "BOGE"
  },
  {
+  "address": "0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9",
+  "name": "Airina Bolgur",
+  "symbol": "BOLGUR"
+ },
+ {
   "address": "0:3b31a0299df9902c75820bb789e96b94cc9ea3b8cb68a706672f035a00bedfdf",
   "name": "Bonescoin",
   "symbol": "BONES"
@@ -3091,6 +3096,11 @@
   "symbol": "MAMA"
  },
  {
+  "address": "0:70a26c0a6ca1e8cf65aa5fb5fe6a3a729ec87cf28d44b5489c6108a440163b7f",
+  "name": "Mandarin",
+  "symbol": "MANDA"
+ },
+ {
   "address": "0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f",
   "name": "Commander",
   "symbol": "MANDER"
@@ -3159,6 +3169,11 @@
   "address": "0:9e6c890a66af6ee8cd4c1956de99fd3217f40e35c018fa3f88a458edcca605fc",
   "name": "Merch Coin",
   "symbol": "MERCH"
+ },
+ {
+  "address": "0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c",
+  "name": "MERO Mercury Coin",
+  "symbol": "MERO"
  },
  {
   "address": "0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5",
@@ -3764,6 +3779,11 @@
   "address": "0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1",
   "name": "The Open SOFT",
   "symbol": "SOFT"
+ },
+ {
+  "address": "0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1",
+  "name": "Sorry Mate",
+  "symbol": "SORRY"
  },
  {
   "address": "0:41f843111099081d5606e433e29253a158f72c09ac632fd1ca9a046fb86b73ff",
