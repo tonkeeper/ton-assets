@@ -3010,6 +3010,11 @@
   "symbol": "JBCT"
  },
  {
+  "address": "0:0d0115303ab251df0862112595b904e72a39bb12850a70ed43424464473523ea",
+  "name": "Jetty",
+  "symbol": "JETTON"
+ },
+ {
   "address": "0:1e8da83f1813c1752a55646716ad242e6660d0c5a6090ac1f30744504dec846b",
   "name": "JETMOON",
   "symbol": "JMT"

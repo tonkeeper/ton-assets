@@ -299,6 +299,7 @@ Name           | Address
 [JarvisBot](https://tonviewer.com/0:a890c3a67527a01823a5a56a0efc303b10a53f7f77c0b9978d25f585173232b4) | EQCokMOmdSegGCOlpWoO_DA7EKU_f3fAuZeNJfWFFzIytNSr
 [Jason Statham](https://tonviewer.com/0:47715128230676d8689f2fb06d5531a4cc928b4280beae6a95ebf9e3ed247e84) | EQBHcVEoIwZ22GifL7BtVTGkzJKLQoC-rmqV6_nj7SR-hL2P
 [JetTon](https://tonviewer.com/0:105e5589bc66db15f13c177a12f2cf3b94881da2f4b8e7922c58569176625eb5) | EQAQXlWJvGbbFfE8F3oS8s87lIgdovS455IsWFaRdmJetTon
+[Jetty](https://tonviewer.com/0:0d0115303ab251df0862112595b904e72a39bb12850a70ed43424464473523ea) | EQANARUwOrJR3whiESWVuQTnKjm7EoUKcO1DQkRkRzUj6nib
 [JogjaTON](https://tonviewer.com/0:80e1ad1f8b908290aa307d954049839c6b3f6726185623b0e28d4dafb2887230) | EQCA4a0fi5CCkKowfZVASYOcaz9nJhhWI7DijU2vsohyMGNn
 [John Doge](https://tonviewer.com/0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da) | EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH
 [Junior Invest](https://tonviewer.com/0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268) | EQA8N_V6_0tJ1792_FO0P51mup7eJcUb7ZC00VdE0LDyaHBo
