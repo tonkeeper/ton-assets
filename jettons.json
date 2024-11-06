@@ -287,6 +287,23 @@
   ]
  },
  {
+  "address": "0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d",
+  "image": "https://token.cryptaskr.com/token-image.png"
+  "description": "Unlock rewards with Cryptaskr! Complete tasks to earn points, convert them into CRT tokens, and swap for TON.",
+  "name": "Cryptaskr",
+  "social": [
+   "https://x.com/cryptaskr",
+   "https://t.me/cryptaskr",
+   "https://www.youtube.com/channel/UC_329QsRrTQ9x7XwdNdReUQ",
+   "https://t.me/cryptaskrannouncement",
+   "https://t.me/Cryptaskr_bot/CRT"
+  ],
+  "symbol": "CRT",
+  "websites": [
+   "https://cryptaskr.com"
+  ]
+ },
+ {
   "address": "EQDQkBzgrQ2QSXLFaUGz3vA1vX1qkyKf3XBVOvf0r6ILthSb",
   "image": "https://raw.githubusercontent.com/Pashasrs89/logo/4515ab5a92ee2c0558a031e083f90e3e44f24aaa/IMG_4860.jpeg",
   "name": "CULTURE",
