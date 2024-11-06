@@ -509,6 +509,7 @@ Name           | Address
 [Riki](https://tonviewer.com/0:eabdd4caa5144eb24d7f888fbc171c75bbb5b9e2346e986ce09f48d0a09498d5) | EQDqvdTKpRROsk1_iI-8Fxx1u7W54jRumGzgn0jQoJSY1bqX
 [Rio Global Invest Club](https://tonviewer.com/0:3afe1b0df89dcc98b6a824f31437e83688de1f1bb487b13403969b89ef22640a) | EQA6_hsN-J3MmLaoJPMUN-g2iN4fG7SHsTQDlpuJ7yJkCgyC
 [Riwatex Meme](https://tonviewer.com/0:44ac32844dd9fa8f2c4bb588a013e4cf9972a6dc0bdb415a809c358db829d60f) | EQBErDKETdn6jyxLtYigE-TPmXKm3AvbQVqAnDWNuCnWD4XP
+[RoOLZ](https://tonviewer.com/0:19c09757099a0ef4921bc014cbd9aff3cce00f85e2c809ae181bb94d2250d9cc) | EQAZwJdXCZoO9JIbwBTL2a_zzOAPheLICa4YG7lNIlDZzMmx
 [Roach Coin Sniper](https://tonviewer.com/0:5c0c806c1b7f1726c3f1778fa47426e1bcdc1be396a1b2097c3a7b142b69261f) | EQBcDIBsG38XJsPxd4-kdCbhvNwb45ahsgl8OnsUK2kmH2Rt
 [Rocket Cats](https://tonviewer.com/0:0704f2f9439d6441632d22d4f76eeb9a0f3d2cfc1ab890dd7be3e44ab65a8ebb) | EQAHBPL5Q51kQWMtItT3buuaDz0s_Bq4kN174-RKtlqOu07o
 [RocketonTon](https://tonviewer.com/0:48feec2dafa6861a1f9aea05d957d4710955fd32583a856c2a5b0174385ebf31) | EQBI_uwtr6aGGh-a6gXZV9RxCVX9Mlg6hWwqWwF0OF6_MbjI
