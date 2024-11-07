@@ -675,6 +675,25 @@
   ]
  },
  {
+  "address": "EQAZwJdXCZoO9JIbwBTL2a_zzOAPheLICa4YG7lNIlDZzMmx",
+  "description": "Become Godlike and HODL GODL",
+  "image": "https://amber-definite-xerinae-508.mypinata.cloud/ipfs/QmPCHLvC1EkWgwd6h6bCJKYeKpMS8E7XpNMEqKias94sX6",
+  "name": "RoOLZ",
+  "social": [
+   "https://t.me/roolzgods",
+   "https://t.me/roolznft",
+   "https://t.meRoolzru",
+   "https://t.me/roolzanime",
+   "X.com/roolznft",
+   "tiktok.com/@roolznft",
+   "instagram.com/roolznft"
+  ],
+  "symbol": "GODL",
+  "websites": [
+   "https://roolz.ai"
+  ]
+ },
+ {
   "address": "EQBCoynGYslAMjv_gRl_2_B1KMOvh9ZW-ae0p7SaXZy6KFjY",
   "description": "SCAM 100%",
   "image": "https://kappa.lol/l1Xg1",
@@ -804,6 +823,21 @@
   "websites": [
    "https://jetton.fund",
    "https://coinmarketcap.com/currencies/jetton/"
+  ]
+ },
+ {
+  "address": "0:0d0115303ab251df0862112595b904e72a39bb12850a70ed43424464473523ea",
+  "description": "Jetty is a restless rebellious teenager of the JetTon universe. You never know what is going to happen next second, her mood changes every moment. So lookout if you decide to join her party!",
+  "image": "https://d121vty759npai.cloudfront.net/images/ae1e66409367403eb62595e13537c2ae.png",
+  "name": "Jetty",
+  "social": [
+   "https://t.me/jettymem",
+   "https://x.com/JetTonGames",
+   "https://t.me/jeton_games?start=cd2K9XURAQe_cd2LEZSnalE"
+  ],
+  "symbol": "JETTON",
+  "websites": [
+   "https://jetton.fan"
   ]
  },
  {
@@ -2271,6 +2305,11 @@
   "symbol": "ALWIN"
  },
  {
+  "address": "0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f",
+  "name": "Amocucinare",
+  "symbol": "AMORE"
+ },
+ {
   "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
   "name": "Andy",
   "symbol": "ANDY"
@@ -2364,6 +2403,11 @@
   "address": "0:5e27143499fe78ff083775227313a238e18a2bbd5087ae32d24534e455d8cbd9",
   "name": "TON BOGE MEMECOIN",
   "symbol": "BOGE"
+ },
+ {
+  "address": "0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9",
+  "name": "Airina Bolgur",
+  "symbol": "BOLGUR"
  },
  {
   "address": "0:3b31a0299df9902c75820bb789e96b94cc9ea3b8cb68a706672f035a00bedfdf",
@@ -2464,6 +2508,11 @@
   "address": "0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5",
   "name": "Cash AMA Radio",
   "symbol": "CASH"
+ },
+ {
+  "address": "0:61e1731a848f53f356e3d836c077ded92d00e81ccdabbf6539079f4355991537",
+  "name": "CATA",
+  "symbol": "CATA"
  },
  {
   "address": "0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41",
@@ -3091,6 +3140,11 @@
   "symbol": "MAMA"
  },
  {
+  "address": "0:70a26c0a6ca1e8cf65aa5fb5fe6a3a729ec87cf28d44b5489c6108a440163b7f",
+  "name": "Mandarin",
+  "symbol": "MANDA"
+ },
+ {
   "address": "0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f",
   "name": "Commander",
   "symbol": "MANDER"
@@ -3159,6 +3213,11 @@
   "address": "0:9e6c890a66af6ee8cd4c1956de99fd3217f40e35c018fa3f88a458edcca605fc",
   "name": "Merch Coin",
   "symbol": "MERCH"
+ },
+ {
+  "address": "0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c",
+  "name": "MERO Mercury Coin",
+  "symbol": "MERO"
  },
  {
   "address": "0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5",
@@ -3764,6 +3823,11 @@
   "address": "0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1",
   "name": "The Open SOFT",
   "symbol": "SOFT"
+ },
+ {
+  "address": "0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1",
+  "name": "Sorry Mate",
+  "symbol": "SORRY"
  },
  {
   "address": "0:41f843111099081d5606e433e29253a158f72c09ac632fd1ca9a046fb86b73ff",
