@@ -101,7 +101,13 @@ def merge_accounts(accounts):
 
 
 def merge_collections():
-    collections = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
+    raw = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
+    collections = []
+    for c in raw:
+        if isinstance(c, list):
+            collections.extend(c)
+        else:
+            collections.append(c)
     with open('collections.json', 'w') as out:
         json.dump(collections, out, indent=" ", sort_keys=True)
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in collections])
@@ -111,6 +117,7 @@ def main():
     collect_all_dexes()
     jettons = merge_jettons()
     collections = merge_collections()
+    # accounts = merge_accounts([{'name': x[0] + " master", 'address': x[1]} for x in jettons])
     accounts = merge_accounts([])
     jettons_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_JETTONS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in jettons])
     accounts_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_ACCOUNTS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in accounts])
