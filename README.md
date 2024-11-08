@@ -276,6 +276,7 @@ Name           | Address
 [Great Minds Classic](https://tonviewer.com/0:9be0630172871273bb1e19eaa8c296f8391546a6cb3a7873899ee8b6eab02008) | EQCb4GMBcocSc7seGeqowpb4ORVGpss6eHOJnui26rAgCJ6K
 [Grim Reaper](https://tonviewer.com/0:d7f4e0ba06ade84de352e98923e96ca0365bc21c48a241e5d32031adc5095a43) | EQDX9OC6Bq3oTeNS6Ykj6WygNlvCHEiiQeXTIDGtxQlaQ_FX
 [Grouche coin](https://tonviewer.com/0:2eeeac5f560320d2da67a2c06901160e1bef96d4452e5ffe47fef390b5356e1e) | EQAu7qxfVgMg0tpnosBpARYOG--W1EUuX_5H_vOQtTVuHnrn
+[HAMSTERBATYA](https://tonviewer.com/0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d) | EQC_BL8coX-feVxZ-_XGFU6YcBcKeAxqHiVjinN_t1ADTUwr
 [HEDGE coin](https://tonviewer.com/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
 [Hachiko Inu](https://tonviewer.com/0:e362287713324c235561d00b49e6a5a8fe34ea69d3d0820443df7fb12e0c4128) | EQDjYih3EzJMI1Vh0AtJ5qWo_jTqadPQggRD33-xLgxBKBLf
 [Hamster Kombat](https://tonviewer.com/0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d) | EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo
