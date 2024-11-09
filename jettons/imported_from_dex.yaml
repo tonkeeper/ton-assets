@@ -82,6 +82,9 @@
 - address: 0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca
   name: Baron
   symbol: BARO
+- address: 0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d
+  name: HAMSTERBATYA
+  symbol: BATYA
 - address: 0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e
   name: Billionaire Boys Club
   symbol: BBC
