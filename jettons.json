@@ -622,6 +622,45 @@
   ]
  },
  {
+  "address": "EQCE_6TevKEpj8OTz3rZt1D5bR6fENQbSN2bbW0jzxbWGGIo",
+  "description": "interest-bearing farmix token for NOT pool",
+  "image": "https://static.farmix.tg/fNOT.webp",
+  "name": "FibNOT",
+  "social": [
+   "https://t.me/farmixton"
+  ],
+  "symbol": "FNOT",
+  "websites": [
+   "https://farmix.tg"
+  ]
+ },
+ {
+  "address": "EQC-jlX83DYZgSWRW5q_XuHLWWFQPp2xGmc8BCoeWckKpeHs",
+  "description": "interest-bearing farmix token for STONFI-TON pool",
+  "image": "https://static.farmix.tg/fTON.webp",
+  "name": "FibStonfiTON",
+  "social": [
+   "https://t.me/farmixton"
+  ],
+  "symbol": "FTONS",
+  "websites": [
+   "https://farmix.tg"
+  ]
+ },
+ {
+  "address": "EQD6gQSWCayHh0FvUnTXlpfizIWiq7UeE4gYvXGYtEhIYJ8q",
+  "description": "interest-bearing farmix token for USDT pool",
+  "image": "https://static.farmix.tg/fUSDT.webp",
+  "name": "FibUSDT",
+  "social": [
+   "https://t.me/farmixton"
+  ],
+  "symbol": "FUSDT",
+  "websites": [
+   "https://farmix.tg"
+  ]
+ },
+ {
   "address": "EQAj680BapntDEm6parX4BfX_S1Jcb1qpF63BREiHZYBGENE",
   "image": "https://gattogame.github.io/Gatto/500x500.png",
   "name": "Gatto",
