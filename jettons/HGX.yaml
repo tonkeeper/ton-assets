@@ -1,0 +1,13 @@
+name: HangarX
+description: "HangarX: Your all-in-one Web3 gaming portal! Choose from multiple games, play, and earn easily."
+image: "https://asset.battlecity.io/Metadata/hgx_logo.png"
+address: 0:f2ce31b3978f34770efdc68b258858cb1e9f1833def7424b3a9d311848edaa8a
+symbol: $HGX
+decimals: 9
+websites:
+  - "https://hangarx.io/"
+social:
+  - "https://x.com/Hangarxio"
+  - "https://t.me/hangarxg"
+  - "https://t.me/hangarxgaming_bot"
+  - "https://t.me/hangarxgam"
