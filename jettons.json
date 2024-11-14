@@ -622,6 +622,45 @@
   ]
  },
  {
+  "address": "EQCE_6TevKEpj8OTz3rZt1D5bR6fENQbSN2bbW0jzxbWGGIo",
+  "description": "interest-bearing farmix token for NOT pool",
+  "image": "https://static.farmix.tg/fNOT.webp",
+  "name": "FibNOT",
+  "social": [
+   "https://t.me/farmixton"
+  ],
+  "symbol": "FNOT",
+  "websites": [
+   "https://farmix.tg"
+  ]
+ },
+ {
+  "address": "EQC-jlX83DYZgSWRW5q_XuHLWWFQPp2xGmc8BCoeWckKpeHs",
+  "description": "interest-bearing farmix token for STONFI-TON pool",
+  "image": "https://static.farmix.tg/fTON.webp",
+  "name": "FibStonfiTON",
+  "social": [
+   "https://t.me/farmixton"
+  ],
+  "symbol": "FTONS",
+  "websites": [
+   "https://farmix.tg"
+  ]
+ },
+ {
+  "address": "EQD6gQSWCayHh0FvUnTXlpfizIWiq7UeE4gYvXGYtEhIYJ8q",
+  "description": "interest-bearing farmix token for USDT pool",
+  "image": "https://static.farmix.tg/fUSDT.webp",
+  "name": "FibUSDT",
+  "social": [
+   "https://t.me/farmixton"
+  ],
+  "symbol": "FUSDT",
+  "websites": [
+   "https://farmix.tg"
+  ]
+ },
+ {
   "address": "EQAj680BapntDEm6parX4BfX_S1Jcb1qpF63BREiHZYBGENE",
   "image": "https://gattogame.github.io/Gatto/500x500.png",
   "name": "Gatto",
@@ -924,6 +963,20 @@
   "symbol": "LAVE"
  },
  {
+  "address": "0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3",
+  "description": "Utility token for Redoi foundation",
+  "image": "https://raw.githubusercontent.com/redoi-foundation/art/main/logo/lemonia.webp",
+  "name": "LEMONIA",
+  "social": [
+   "https://t.me/redoinveston",
+   "https://x.com/redoinveston"
+  ],
+  "symbol": "LEMONIA",
+  "websites": [
+   "https://redoifoundation.org"
+  ]
+ },
+ {
   "address": "0:77f0c23f335359a05ae3c4efeb4c51454af0cb0f988a17ed63d4355e495c8fc2",
   "description": "In crypto with balance",
   "image": "https://github.com/Rebalancer/picture/blob/main/libra%20normalmente.png?raw=true",
@@ -1151,6 +1204,19 @@
   "decimals": 9,
   "name": "Notcoin",
   "symbol": "NOT"
+ },
+ {
+  "address": "EQCq-qyyXPaR16-w0LWTB-Y-BANVoy1quRwd-RkdTOARv4cU",
+  "description": "TG: @notelephant community token",
+  "image": "https://s3.dev.blum.codes/5eb31c2a-36ce-4f96-a69f-ac1b80d95598/2864d273-447e-4359-a569-cbf0b559efee",
+  "name": "NOTELEPHANT",
+  "social": [
+   "https://t.me/notelephant"
+  ],
+  "symbol": "ELPHNT",
+  "websites": [
+   "https://notelephant.store/"
+  ]
  },
  {
   "address": "EQC6KPc3IH2m1CY7Z3Uonqj7azE-R_RQEimEQ-OHVECu7Npe",
@@ -1547,6 +1613,20 @@
    "https://vk.com/vkcoinswap"
   ],
   "symbol": "SNT"
+ },
+ {
+  "address": "EQB7hH6wJbzrZYEbggsOcBeWUEmgO7llkwTKdgDU4Q___SPN",
+  "image": "https://raw.githubusercontent.com/spinnercoin/logo/refs/heads/main/main.png",
+  "name": "SpinnerCoin",
+  "social": [
+   "https://t.me/SpinnerCoin",
+   "https://t.me/SpinnerCoin_chat",
+   "https://t.me/SpinnerCoin_bot"
+  ],
+  "symbol": "SPN",
+  "websites": [
+   "https://spinnercoin.org"
+  ]
  },
  {
   "address": "0:ad5a9fc06d769643fc73b705d68abdb493cd0dc3e3c9a3d1011201cd804a5bdb",
@@ -2360,6 +2440,11 @@
   "symbol": "BARO"
  },
  {
+  "address": "0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d",
+  "name": "HAMSTERBATYA",
+  "symbol": "BATYA"
+ },
+ {
   "address": "0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e",
   "name": "Billionaire Boys Club",
   "symbol": "BBC"
@@ -2600,6 +2685,11 @@
   "symbol": "COFE"
  },
  {
+  "address": "0:0b9a26c42a8d38026d373eb843b11a7fe7202b8c6c6bc57e990c4c12dcd7d0f5",
+  "name": "Commissionaire",
+  "symbol": "COM"
+ },
+ {
   "address": "0:581525de91f9a95191c14f079d9a03420ebf6461ac7a0d85c9995d1f70149034",
   "name": "Comrade cat",
   "symbol": "COMCAT"
@@ -2628,6 +2718,11 @@
   "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
   "name": "Cute Cats",
   "symbol": "CuteCats"
+ },
+ {
+  "address": "0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6",
+  "name": "Dancing Cat",
+  "symbol": "DANCINGCAT"
  },
  {
   "address": "0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4",
@@ -3090,9 +3185,19 @@
   "symbol": "LEA"
  },
  {
+  "address": "0:38277a3f5d37562f3a99e5c7ca74a333200a38ddaaf0f557cb6c2e31a256884a",
+  "name": "Lego Resistance Dog",
+  "symbol": "LEDO"
+ },
+ {
   "address": "0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d",
   "name": "CAT LESHA",
   "symbol": "LESHA"
+ },
+ {
+  "address": "0:8f8eefbd24dd1f2b8053a0ebc0e9a3dd0724790a6cab346a9e321b91cf7e5913",
+  "name": "Lets Fuckin Go",
+  "symbol": "LFGO"
  },
  {
   "address": "0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a",
@@ -3373,6 +3478,11 @@
   "address": "0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043",
   "name": "OAAL AI",
   "symbol": "OAAL"
+ },
+ {
+  "address": "0:4cb09038d90dadb71c114a0af21cc4fabd8a6f910d9513ed691e4310beaed535",
+  "name": "OnlyX",
+  "symbol": "ONLYX"
  },
  {
   "address": "0:dff38153f2d74765e236f8b5dd6fc80f311a87452001ae68bc8c8ecccef56918",
@@ -4303,6 +4413,11 @@
   "address": "0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba",
   "name": "What The",
   "symbol": "WTF"
+ },
+ {
+  "address": "0:61e2cad28f29d0c5ad579193d065c343192d41b96511b4842ca26a98776bd7ee",
+  "name": "Wuffi",
+  "symbol": "WUF"
  },
  {
   "address": "0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3",

@@ -79,6 +79,9 @@
 - address: 0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca
   name: Baron
   symbol: BARO
+- address: 0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d
+  name: HAMSTERBATYA
+  symbol: BATYA
 - address: 0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e
   name: Billionaire Boys Club
   symbol: BBC
@@ -223,6 +226,9 @@
 - address: 0:3d75ac8429f96b2fec087fe18a1a2ce3dbaa6f5f4402231c26460ab383953f73
   name: Coffee
   symbol: COFE
+- address: 0:0b9a26c42a8d38026d373eb843b11a7fe7202b8c6c6bc57e990c4c12dcd7d0f5
+  name: Commissionaire
+  symbol: COM
 - address: 0:581525de91f9a95191c14f079d9a03420ebf6461ac7a0d85c9995d1f70149034
   name: Comrade cat
   symbol: COMCAT
@@ -241,6 +247,9 @@
 - address: 0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4
   name: Cute Cats
   symbol: CuteCats
+- address: 0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6
+  name: Dancing Cat
+  symbol: DANCINGCAT
 - address: 0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4
   name: DARK DUROV
   symbol: DARKDUROV
@@ -517,9 +526,15 @@
 - address: 0:3a3594e565b371d7ddafd0d763a3a6a5c484408b212a0caa87a79474515330e4
   name: Alliance
   symbol: LEA
+- address: 0:38277a3f5d37562f3a99e5c7ca74a333200a38ddaaf0f557cb6c2e31a256884a
+  name: Lego Resistance Dog
+  symbol: LEDO
 - address: 0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d
   name: CAT LESHA
   symbol: LESHA
+- address: 0:8f8eefbd24dd1f2b8053a0ebc0e9a3dd0724790a6cab346a9e321b91cf7e5913
+  name: Lets Fuckin Go
+  symbol: LFGO
 - address: 0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a
   name: DAOLegion
   symbol: LGN24
@@ -688,6 +703,9 @@
 - address: 0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043
   name: OAAL AI
   symbol: OAAL
+- address: 0:4cb09038d90dadb71c114a0af21cc4fabd8a6f910d9513ed691e4310beaed535
+  name: OnlyX
+  symbol: ONLYX
 - address: 0:dff38153f2d74765e236f8b5dd6fc80f311a87452001ae68bc8c8ecccef56918
   name: OpenCoin
   symbol: OPEN
@@ -1247,6 +1265,9 @@
 - address: 0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba
   name: What The
   symbol: WTF
+- address: 0:61e2cad28f29d0c5ad579193d065c343192d41b96511b4842ca26a98776bd7ee
+  name: Wuffi
+  symbol: WUF
 - address: 0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3
   name: X Empire
   symbol: X
