@@ -3,6 +3,8 @@ description: The First National Cryptocurrency of Chuvashia. Instrument of suppo
 image: "https://raw.githubusercontent.com/ChuvashiaBulgaria/PublicDocs/refs/heads/main/bulcoin.jpg"
 address: EQD_tFz9JQRVZNMgy3bzvnzei9deo9qc5NMtumG4_sx1zZRc
 symbol: BLC
+websites:
+  - "https://bulcoin.ton"
 social:
   - "https://t.me/bulcoin_blc"
   - "https://t.me/chuvash_crypto"
