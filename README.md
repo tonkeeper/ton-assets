@@ -317,6 +317,7 @@ Name           | Address
 [Kito](https://tonviewer.com/0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7) | EQCSLLVQ8qdhEqZUKaiKU7F6sVfnNPmQ4FsCpCo8olo795LP
 [Kote Coin](https://tonviewer.com/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
+[LAMBO](https://tonviewer.com/0:c4d623eb3fcd0bd7b473907dd896e5ec11c9f98be6cf15fb9edb9f6e30a28513) | EQDE1iPrP80L17RzkH3YluXsEcn5i-bPFfue259uMKKFE3h0
 [LEMONIA](https://tonviewer.com/0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3) | EQC8cPrQx6Qsi-NHMcC1PpRmtaieCiUBcb-d095q6ENUs7XT
 [LLAMA](https://tonviewer.com/0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067) | EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j
 [LP Token for ARBUZ-TON](https://tonviewer.com/0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367) | EQChrWJNhwrazRcwYZU74S0DQuqJK6FT40xk7uKNLVmjZ9Da
@@ -411,6 +412,7 @@ Name           | Address
 [MuscleCare](https://tonviewer.com/0:576ed808a1cbdbd741902959d08d942ac77b578c68c1599c92f1f87661c1dbb0) | EQBXbtgIocvb10GQKVnQjZQqx3tXjGjBWZyS8fh2YcHbsAhT
 [MyTonWallet Coin](https://tonviewer.com/0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28) | EQCFVNlRb-NHHDQfv3Q9xvDXBLJlay855_xREsq5ZDX6KN-w
 [NET PRESENT VALUE](https://tonviewer.com/0:7328860ffd6567612e640dbcfedf36adf7c86d3425d05157e691a1fb7cb75c11) | EQBzKIYP_WVnYS5kDbz-3zat98htNCXQUVfmkaH7fLdcEaT3
+[NEWJET](https://tonviewer.com/0:2c9c6fe0aec4f5d98e9c151d9e82f0e115c64b4d538b404feca8c939c16a8acf) | EQAsnG_grsT12Y6cFR2egvDhFcZLTVOLQE_sqMk5wWqKzw6z
 [NO Rocket](https://tonviewer.com/0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684) | EQDnHBmARrJgDiHRaiwShwoLAdLoA73GL4lRn3V9eFKmhDwT
 [NOT Storm LP](https://tonviewer.com/0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9) | EQAqtjTPy9vjuXUDaR4HgMPQfJBpIQorJLmRuk-ZQbRT-eiY
 [NOTCOIN INU](https://tonviewer.com/0:ba28f737207da6d4263b6775289ea8fb6b313e47f45012298443e3875440aeec) | EQC6KPc3IH2m1CY7Z3Uonqj7azE-R_RQEimEQ-OHVECu7Npe
@@ -564,6 +566,7 @@ Name           | Address
 [Shark Invest Club](https://tonviewer.com/0:403eeb032b45bfa44c92fdd30a851402a5f171d2ccde0d984b434101a28e2a86) | EQBAPusDK0W_pEyS_dMKhRQCpfFx0szeDZhLQ0EBoo4qhhXk
 [Shitcoin](https://tonviewer.com/0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4) | EQB4gPfG0YtoiJHCMTUuzxP9fKXy9nx6TFh-dcAltrnNpLNo
 [Simple Ton Coin](https://tonviewer.com/0:42c988aa9138c0b791819d55e0b972d0a6097469ed70c495d867a0226d12f265) | EQBCyYiqkTjAt5GBnVXguXLQpgl0ae1wxJXYZ6AibRLyZdem
+[Slopy](https://tonviewer.com/0:0e365c05bf398a068b1bcc7bc704c06974732f20eefb2bb873e0d640ee4a8e99) | EQAONlwFvzmKBosbzHvHBMBpdHMvIO77K7hz4NZA7kqOmf8r
 [Slowpoke](https://tonviewer.com/0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9) | EQDK3ReFkb6L3uE3GmMDJaxWby4PA_UYGClgFfJuXY52-TOK
 [Snoop Ton](https://tonviewer.com/0:d2620d9eb3f2f4c6919f3c9ea4dfd4b1180e8c087c15d041d8dac99e17b68500) | EQDSYg2es_L0xpGfPJ6k39SxGA6MCHwV0EHY2smeF7aFAJW4
 [Sorry Mate](https://tonviewer.com/0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1) | EQDhUoC8vFkB8BCDOVrYHylnFeLA343csl8_KSnj4FP3wc0_
