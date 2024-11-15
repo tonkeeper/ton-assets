@@ -921,6 +921,21 @@
   ]
  },
  {
+  "address": "0:5f5d17debad4cbfa6715243e2d41f4560b5007463f504490a589913feb69fff1",
+  "description": "Legendary Kirby on Ton Blockchain!",
+  "image": "https://raw.githubusercontent.com/iambigkirby/assets/9d8ad3a7f348c7d6bd5b3950087dc285c0965a82/images/Kirby-Logo.png",
+  "name": "KIRBY",
+  "social": [
+   "https://x.com/kirbytoncoin",
+   "https://t.me/bigkirby",
+   "https://t.me/bigkirbychat"
+  ],
+  "symbol": "KIRBY",
+  "websites": [
+   "https://bigkirby.xyz"
+  ]
+ },
+ {
   "address": "0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04",
   "description": "Kote Coin. It's the only one.",
   "name": "Kote Coin",
@@ -1202,7 +1217,7 @@
  {
   "address": "0:2c9c6fe0aec4f5d98e9c151d9e82f0e115c64b4d538b404feca8c939c16a8acf",
   "description": "Token by crypto channel @TonNewbie",
-  "image": "https://ibb.co/3W62KKr",
+  "image": "https://raw.githubusercontent.com/Ov3RRR/test/refs/heads/main/NEWJET_Icon.png",
   "name": "NEWJET",
   "social": [
    "https://t.me/NewbieJet",
