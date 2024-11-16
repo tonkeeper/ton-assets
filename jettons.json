@@ -1088,6 +1088,21 @@
   ]
  },
  {
+  "address": "0:ae3e6d351e576276e439e7168117fd64696fd6014cb90c77b2f2cbaacd4fcc00",
+  "description": "Something MAJOR is coming!",
+  "image": "https://major.bot/images/tasks/major_logo.png",
+  "name": "Major",
+  "social": [
+   "https://t.me/major",
+   "https://x.com/majoroftelegram?mx=2",
+   "https://www.youtube.com/@Majortg"
+  ],
+  "symbol": "MAJOR",
+  "websites": [
+   "https://major.bot/"
+  ]
+ },
+ {
   "address": "0:0be9ed5434f164b27f35f7ca8e0fa2880a7a65c3a7fd70c205b905b7c55f6577",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/mars/m_j_v2_512.png",
@@ -3177,11 +3192,6 @@
   "address": "0:2fbc476ae31e4aea8c23b0c2385fa0312a44c15d52885648921c32edea2d8b16",
   "name": "Bear Country Token",
   "symbol": "JBCT"
- },
- {
-  "address": "0:1d438a3a1713d4a23feba12460430a5185fc26af44730a3eb524f2a40ea8f2a6",
-  "name": "JustMoney",
-  "symbol": "JM"
  },
  {
   "address": "0:1e8da83f1813c1752a55646716ad242e6660d0c5a6090ac1f30744504dec846b",

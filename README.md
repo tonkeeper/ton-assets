@@ -309,7 +309,6 @@ Name           | Address
 [JogjaTON](https://tonviewer.com/0:80e1ad1f8b908290aa307d954049839c6b3f6726185623b0e28d4dafb2887230) | EQCA4a0fi5CCkKowfZVASYOcaz9nJhhWI7DijU2vsohyMGNn
 [John Doge](https://tonviewer.com/0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da) | EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH
 [Junior Invest](https://tonviewer.com/0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268) | EQA8N_V6_0tJ1792_FO0P51mup7eJcUb7ZC00VdE0LDyaHBo
-[JustMoney](https://tonviewer.com/0:1d438a3a1713d4a23feba12460430a5185fc26af44730a3eb524f2a40ea8f2a6) | EQAdQ4o6FxPUoj_roSRgQwpRhfwmr0RzCj61JPKkDqjyprOc
 [KAKAXA](https://tonviewer.com/0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a) | EQDqz7LTwgj016kiTiSooM_ft8kveL2P4pj4fkJmsUV_an_X
 [KING OF REFERRAL COIN](https://tonviewer.com/0:93b3a788f7f498a19d813d8d2e9e458dcbbb2518631afb029df92a0a64e3679f) | EQCTs6eI9_SYoZ2BPY0unkWNy7slGGMa-wKd-SoKZONnn9ge
 [KINGYTON](https://tonviewer.com/0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc) | EQC-tdRjjoYMz3MXKW4pj95bNZgvRyWwZ23Jix3ph7guvHxJ
@@ -362,6 +361,7 @@ Name           | Address
 [Magic Crystal](https://tonviewer.com/0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36) | EQCbKMTmEAdSnzsK85LOpaDkDH3HjujEbTePMSeirvEaNq-U
 [Magic Vip People](https://tonviewer.com/0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4) | EQDAiXxX8J2CHo4un2mAYFuexI620Y33CWfLFZK-7LcR9Pps
 [MagicDeer](https://tonviewer.com/0:3bf482125cc47cbdef403a2a541378b986da7acfa23bca7482f43281a3ccc7b0) | EQA79IISXMR8ve9AOipUE3i5htp6z6I7ynSC9DKBo8zHsIYr
+[Major](https://tonviewer.com/0:ae3e6d351e576276e439e7168117fd64696fd6014cb90c77b2f2cbaacd4fcc00) | EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR
 [Making Money TON](https://tonviewer.com/0:b27dd55b7f091c05f0529f9ec6467318fc144ee2f606ec79e45a7807e3514b33) | EQCyfdVbfwkcBfBSn57GRnMY_BRO4vYG7HnkWngH41FLM-5Y
 [Mandarin](https://tonviewer.com/0:70a26c0a6ca1e8cf65aa5fb5fe6a3a729ec87cf28d44b5489c6108a440163b7f) | EQBwomwKbKHoz2WqX7X-ajpynsh88o1EtUicYQikQBY7f635
 [Mantle](https://tonviewer.com/0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd) | EQAEuikLQVh2lDMrV99nTHqFL_TXEyCEJ1xKMuPT60tfvdps
