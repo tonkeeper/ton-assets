@@ -266,6 +266,7 @@ Name           | Address
 [GRIMACE COIN](https://tonviewer.com/0:ce0e4a5fc59e23a1edd1c417248e0bc20901fe4d7c68cdb3704cea0252838c09) | EQDODkpfxZ4joe3RxBckjgvCCQH-TXxozbNwTOoCUoOMCfX8
 [GROK](https://tonviewer.com/0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c) | EQA2IyKaO7fKV37GxQGbRY_yZdE47ZdQXbOnX55OWhCwbL6H
 [Galaxy Online](https://tonviewer.com/0:65b22736d7ad2c703f6b697a1aeb583046f070debb1e2f6f8aeb9779635717a7) | EQBlsic2160scD9raXoa61gwRvBw3rseL2-K65d5Y1cXpyzK
+[Game Hunters](https://tonviewer.com/0:387b04f019fbbba55402f998c8deca05c05e97ad724e36363a3261b32fca5608) | EQA4ewTwGfu7pVQC-ZjI3soFwF6XrXJONjY6MmGzL8pWCDj3
 [Game of Ton](https://tonviewer.com/0:ce58e263820fe8da254590d27e0be48b21555eee61cf60843d64b138bed4731c) | EQDOWOJjgg_o2iVFkNJ-C-SLIVVe7mHPYIQ9ZLE4vtRzHHFM
 [Gatto](https://tonviewer.com/0:23ebcd016a99ed0c49baa5aad7e017d7fd2d4971bd6aa45eb70511221d960118) | EQAj680BapntDEm6parX4BfX_S1Jcb1qpF63BREiHZYBGENE
 [GazTon](https://tonviewer.com/0:dcc0b382e295825999371e19470f1a42d48aa5c09aceb8eae06fac492a2b75c6) | EQDcwLOC4pWCWZk3HhlHDxpC1IqlwJrOuOrgb6xJKit1xr8O
