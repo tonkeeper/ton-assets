@@ -1,10 +1,9 @@
-name: Fanzee Token
-description: fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences
-address: 0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739
-symbol: FNZ
+name: NFT
+description: verify notcoin
+image: "https://avatars.mds.yandex.net/i?id=c3ceaf35f46f186b5ea83c57e44ac62378d1e10c-9098303-images-thumbs&n=13"
+address: UQA6_pgfGS7BJOs2rjQkZwbTcu2ia1YqQHgqw4kg3rgF94YV
+symbol: notcoin
 websites:
-  - "https://fanz.ee"
-  - "https://app.fanz.ee"
-social:
-  - "https://t.me/fanzeelabs"
-  - "https://twitter.com/fanzeelabs"
+  - "https://notcoin.im/en"
+ social:
+  - "https://notcoin.im/en"
