@@ -503,6 +503,7 @@ Name           | Address
 [Petcoin](https://tonviewer.com/0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b) | EQBJOJ2eL_CUFT_0r9meoqjKUwRttC_-NUJyvWQxszVWe1WY
 [Pi Ton Network](https://tonviewer.com/0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c) | EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p
 [PiggyPiggyCoin](https://tonviewer.com/0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13) | EQBxH3N3nBx_-HEvQ2bs2vrC-M6-WxgIJKl1NqaEVH1sE-CT
+[PirateCash](https://tonviewer.com/0:c26f696830807c612e77184a36af68204bd016d43cfecd7fdab380edc57575bb) | EQDCb2loMIB8YS53GEo2r2ggS9AW1Dz-zX_as4DtxXV1u8XY
 [Pizza Gram](https://tonviewer.com/0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc) | EQDoqIKkOevVZukmf1L8nGhcjlha4sfvgl8GIRpTj_b53HyR
 [PizzaTon Token](https://tonviewer.com/0:20a2d4a45f4e8c216f80d278b9c8aa9e365c1cde70129db3b57701a8fa4c2983) | EQAgotSkX06MIW-A0ni5yKqeNlwc3nASnbO1dwGo-kwpg2Zg
 [PlanTon](https://tonviewer.com/0:33dada4cd9195ffb4edb55eeb68a3c28cd1125977678b5c6d4ae1ec11bafa309) | EQAz2tpM2Rlf-07bVe62ijwozREll3Z4tcbUrh7BG6-jCb18
