@@ -1518,6 +1518,21 @@
   ]
  },
  {
+  "address": "EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p",
+  "description": "REAL is the Shahnameh game's utility token, linked to the Iranian Rial. Starting with 227 tokens, the supply grows with players!",
+  "image": "https://storage.dyor.io/jettons/EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p/image.png",
+  "name": "RealShahnameh",
+  "social": [
+   "https://x.com/shahnamehgamefi",
+   "https://tonscan.org/jetton/EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p",
+   "https://t.me/Shahnameh_news"
+  ],
+  "symbol": "REAL",
+  "websites": [
+   "https://shahnameh-bot.io//"
+  ]
+ },
+ {
   "address": "0:5893d469f238059b113a5c820e88f252c4e6c0c2de837538517533fbb7725085",
   "description": "Get Rebalancer to your portfolio",
   "image": "https://raw.githubusercontent.com/Rebalancer/picture/main/rebalancer%20(2).png",
