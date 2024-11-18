@@ -293,8 +293,9 @@ Name           | Address
 [Harry Gorilla](https://tonviewer.com/0:6e2935797d33ab40e80277107751ab6116d636540a5bd6282862428202015f8f) | EQBuKTV5fTOrQOgCdxB3UathFtY2VApb1igoYkKCAgFfj44x
 [Hasbulla](https://tonviewer.com/0:296b467923494c7a2b524d4b72b5c7b9679cb861a9398c1c12f02c39dcfd436a) | EQApa0Z5I0lMeitSTUtytce5Z5y4Yak5jBwS8Cw53P1Davtw
 [Hedgehog in the fog](https://tonviewer.com/0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34) | EQCLWvCj44QYTeLujnCYKH7DoAuk_O7QI-LnAt3X5bOfNFMy
-[Hipo Staked TON](https://tonviewer.com/0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8) | EQC_jgnSXeKZuY7rEE2gF43xh4FgUHCCXeycNPXSL39luA7K
+[Hipo Governance Token](https://tonviewer.com/0:b14b6c4ebc1bc70baceb9b216cdf532d16f0fb96b965b1f4b04dca8eb7915c9f) | EQCxS2xOvBvHC6zrmyFs31MtFvD7lrllsfSwTcqOt5Fcn-fa
 [Hipo Staked TON](https://tonviewer.com/0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87) | EQDPdq8xjAhytYqfGSX8KcFWIReCufsB9Wdg0pLlYSO_h76w
+[Hipo Staked TON (depricated)](https://tonviewer.com/0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8) | EQC_jgnSXeKZuY7rEE2gF43xh4FgUHCCXeycNPXSL39luA7K
 [Hipo Staked TON v1](https://tonviewer.com/0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63) | EQBNo5qAG8I8J6IxGaz15SfQVB-kX98YhKV_mT36Xo5vYxUa
 [Hmmcoin](https://tonviewer.com/0:ceae0d465ce6efa4ba104a99c6c5c6f9c00e36f95d8270597a3ebdb9b15a0956) | EQDOrg1GXObvpLoQSpnGxcb5wA42-V2CcFl6Pr25sVoJVmTv
 [Holy Coin](https://tonviewer.com/0:1656fdb1eadc6873935e97d0a5b5b7d848130e39fd11f6c6fb1a7a98fb89dc9a) | EQAWVv2x6txoc5Nel9CltbfYSBMOOf0R9sb7GnqY-4ncmjcQ
