@@ -207,6 +207,7 @@ Name           | Address
 [DYOR Coin](https://tonviewer.com/0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1) | EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz
 [DYOR Vault](https://tonviewer.com/0:dacaea937930943b921d18c34da7ed31d95c5ec17948b2246554b2c6422b2747) | EQDayuqTeTCUO5IdGMNNp-0x2VxewXlIsiRlVLLGQisnRy1b
 [Dancing Cat](https://tonviewer.com/0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6) | EQAnzdfxDYsmUrLTOL7E6ANRWPR-6TlB-LAv-lifsh-55lZF
+[Dark](https://tonviewer.com/0:7f13ec43e11bc7a8707e6ea09f06e5a19e3f2581810537d7b2999ac2d9833151) | EQB_E-xD4RvHqHB-bqCfBuWhnj8lgYEFN9eymZrC2YMxUUA3
 [Darts Coin](https://tonviewer.com/0:56391a57b1002d127565e530261179a43c3f154f08cbf105a35858ea107aacdd) | EQBWORpXsQAtEnVl5TAmEXmkPD8VTwjL8QWjWFjqEHqs3Xei
 [DeBoost](https://tonviewer.com/0:999099e14267266c0c5fccb71fbede8ebaca8c498260fa0a72f1c23cd528e037) | EQCZkJnhQmcmbAxfzLcfvt6OusqMSYJg-gpy8cI81SjgN9Os
 [DeDust](https://tonviewer.com/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
