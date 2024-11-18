@@ -337,6 +337,7 @@ Name           | Address
 [LP Token for KINGY-hTON](https://tonviewer.com/0:ea8318adfd02ec9503305b2f54b88e7a076703e63b6d4507ca4b2011d57e5a61) | EQDqgxit_QLslQMwWy9UuI56B2cD5jttRQfKSyAR1X5aYfpH
 [LP Token for RAFF-TON](https://tonviewer.com/0:60d90c3b931b173d682c76eead08aab5b614f68b386deabbbd0fb693ad96be87) | EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H
 [LP Token for SCALE-TON](https://tonviewer.com/0:dc9b4e9196b7ae32eae6fb28a4f566cbea423ad7b07becead2445fd98e809816) | EQDcm06RlreuMurm-yik9WbL6kI617B77OrSRF_ZjoCYFuny
+[LP Token for STORM-pTON](https://tonviewer.com/0:7de57e6ee41ee97eb8b8aed881e320e488c8767ecb16ff688438414a7cb9807a) | EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo
 [LP Token for TONNEL-TON](https://tonviewer.com/0:2fb467bc35ea7f5e772641826bab35a38ddb136b28332f5edbbc7ffc463af2cf) | EQAvtGe8Nep_XncmQYJrqzWjjdsTaygzL17bvH_8Rjryz1xu
 [LP Token for UP-TON](https://tonviewer.com/0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c) | EQABy0q1lpLkU09k7srKCCjeAm32D2nZ15WtmWgb81RvjLbP
 [LP Token for jNANO-TON](https://tonviewer.com/0:bace166d17381305b4d0e1b1b58f9161e5b590013b6238c7490003bdf3f8f544) | EQC6zhZtFzgTBbTQ4bG1j5Fh5bWQATtiOMdJAAO98_j1REBU
@@ -564,6 +565,7 @@ Name           | Address
 [STON](https://tonviewer.com/0:3690254dc15b2297610cda60744a45f2b710aa4234b89adb630e99d79b01bd4f) | EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO
 [STORM](https://tonviewer.com/0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c) | EQBsosmcZrD6FHijA7qWGLw5wo_aH8UN435hi935jJ_STORM
 [STORM Vault](https://tonviewer.com/0:df2807a89cb6f0f7244847e632a8c4dee6cee7262006a7c3699d696b092040d4) | EQDfKAeonLbw9yRIR-YyqMTe5s7nJiAGp8NpnWlrCSBA1CS-
+[STORM staked on JVault.xyz](https://tonviewer.com/0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b) | EQC5AstfTny_upAnB55sgtY7D8aoHh4P-OSrYakf2mYnS_zr
 [SafeMars](https://tonviewer.com/0:0964496b0d3824b747b1202ad55103e3375f649d63a7886b090bf02e9f2a9f3c) | EQAJZElrDTgkt0exICrVUQPjN19knWOniGsJC_AunyqfPA0w
 [SafemoonTon](https://tonviewer.com/0:602f0dd12e410b80e254535a07b47cf09284dd6f84607d3f088131ba93f88b9d) | EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc
 [Saintcoin](https://tonviewer.com/0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d) | EQD7rlGEfvNUXYbEwT-Ll7SUD7LuGkubUeU-TQXsShMwXY0H

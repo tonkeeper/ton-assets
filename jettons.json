@@ -1941,6 +1941,21 @@
   "symbol": "STON"
  },
  {
+  "address": "0:7de57e6ee41ee97eb8b8aed881e320e488c8767ecb16ff688438414a7cb9807a",
+  "decimals": 9,
+  "description": "Liquidity pool token for STORM and Proxy TON on STON.fi DEX. Liquidity pool link: https://app.ston.fi/pools/EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo",
+  "image": "https://i.imgur.com/MOyb2xz.png",
+  "name": "LP Token for STORM-pTON",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "STORM-pTON LP",
+  "websites": [
+   "https://storm.tg"
+  ]
+ },
+ {
   "address": "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c",
   "decimals": 9,
   "description": "The utility token of the Storm Trade protocol (storm.tg).",
@@ -5107,6 +5122,21 @@
   "decimals": 9,
   "name": "Shards of Notcoin NFT bond",
   "symbol": "wNOT"
+ },
+ {
+  "address": "0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b",
+  "decimals": 9,
+  "description": "These jettons confirm ownership of STORM staked on JVault. Staking pool link: https://app.storm.tg/token",
+  "image": "https://i.imgur.com/R1KCvuY.png",
+  "name": "STORM staked on JVault.xyz",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "st-STORM-30D",
+  "websites": [
+   "https://storm.tg"
+  ]
  },
  {
   "address": "EQAORkhhrXis_XxLAAfyxTyNceNXLtaHcJ5FhXxpNJ8xsDGc",
