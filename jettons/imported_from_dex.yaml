@@ -793,6 +793,9 @@
 - address: 0:5f97fa738bcb7f7d85c9132819a33f1c21dd6c7639cf4ec069bea8878e08174b
   name: Kartoshka
   symbol: POTATO
+- address: 0:7593497137b452b838c95da8f0ca9924bcc7b27fa9481fca9173b050c832bad9
+  name: POUCHI
+  symbol: POUCHI
 - address: 0:3391461c68ff89cdc0de413cccc6e1f7a6d5a144de32be9e313eefdc6e9b84d7
   name: Player Pump Player
   symbol: PPP
