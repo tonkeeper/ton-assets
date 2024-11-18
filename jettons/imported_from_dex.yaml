@@ -1208,6 +1208,9 @@
 - address: 0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd
   name: TonUP
   symbol: UP
+- address: 0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024
+  name: Us Usach
+  symbol: USACH
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
