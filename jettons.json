@@ -1048,7 +1048,7 @@
   "address": "0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375",
   "decimals": 9,
   "description": "Shave, Liquidate, Laugh \u2014 The Meme Coin Way!",
-  "image": "https://i.imgur.com/Hv9vYFt.png",
+  "image": "https://static.storm.tg/LIQUID.png",
   "name": "LIQUIDATION",
   "social": [
    "https://t.me/liquidtonchat",
@@ -1972,7 +1972,7 @@
   "address": "0:7de57e6ee41ee97eb8b8aed881e320e488c8767ecb16ff688438414a7cb9807a",
   "decimals": 9,
   "description": "Liquidity pool token for STORM and Proxy TON on STON.fi DEX. Liquidity pool link: https://app.ston.fi/pools/EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo",
-  "image": "https://i.imgur.com/MOyb2xz.png",
+  "image": "https://static.storm.tg/STORM-pTON-LP.png",
   "name": "LP Token for STORM-pTON",
   "social": [
    "https://t.me/storm_trade_news",
@@ -5182,7 +5182,7 @@
   "address": "0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b",
   "decimals": 9,
   "description": "These jettons confirm ownership of STORM staked on JVault. Staking pool link: https://app.storm.tg/token",
-  "image": "https://i.imgur.com/R1KCvuY.png",
+  "image": "https://static.storm.tg/st-STORM-30D.png",
   "name": "STORM staked on JVault.xyz",
   "social": [
    "https://t.me/storm_trade_news",
