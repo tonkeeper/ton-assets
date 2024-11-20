@@ -1045,6 +1045,18 @@
   ]
  },
  {
+  "address": "0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375",
+  "decimals": 9,
+  "description": "Shave, Liquidate, Laugh \u2014 The Meme Coin Way!",
+  "image": "https://i.imgur.com/Hv9vYFt.png",
+  "name": "LIQUIDATION",
+  "social": [
+   "https://t.me/liquidtonchat",
+   "https://t.me/KovalevskiyLife"
+  ],
+  "symbol": "LIQUID"
+ },
+ {
   "address": "0:2b310049627d7149911f613eb0e465185bce027558f7c8568053fde33139306e",
   "description": "SecondLive is the leading AI and XR Social Nexus, using GenAI to craft virtual autonomous worlds for crypto enthusiasts, creators, AI fans, and business partners across Web2 and Web3.",
   "image": "https://cdn.secondlive.world/logo.png",
