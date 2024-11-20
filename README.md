@@ -704,6 +704,7 @@ Name           | Address
 [Tonke](https://tonviewer.com/0:9094377a7b25039563f6348527d99c8667c92d83f1ca5c1dbcf23bf82a9d587e) | EQCQlDd6eyUDlWP2NIUn2ZyGZ8ktg_HKXB288jv4Kp1Yflo6
 [Tonkey](https://tonviewer.com/0:bac1af06060f53c5cc231916096efb80aa33e2d641457b9d3e834786801bf14c) | EQC6wa8GBg9TxcwjGRYJbvuAqjPi1kFFe50-g0eGgBvxTCbe
 [Tonnel Network Token](https://tonviewer.com/0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32) | EQDNDv54v_TEU5t26rFykylsdPQsv5nsSZaH_v7JSJPtMitv
+[Tonny](https://tonviewer.com/0:bb8a57d48f67a08e2b69341816f3a23766bd652449ea7f5330b1c31ce7d1e369) | EQC7ilfUj2egjitpNBgW86I3Zr1lJEnqf1MwscMc59HjaU_U
 [Tonoreum](https://tonviewer.com/0:91864bf1896f4c978e052d3c4678fb35c4ca8101ff9ac5a90180211f23c6301d) | EQCRhkvxiW9Ml44FLTxGePs1xMqBAf-axakBgCEfI8YwHTWW
 [Tonstakers TON](https://tonviewer.com/0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000) | EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav
 [Tony Tontana](https://tonviewer.com/0:db8aa9762abf6d1d37de0d19abe6c3878cd5c5921a66de9930aba36b98e9c88a) | EQDbiql2Kr9tHTfeDRmr5sOHjNXFkhpm3pkwq6NrmOnIinlU
@@ -751,6 +752,7 @@ Name           | Address
 [What The](https://tonviewer.com/0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba) | EQCRyx0kmadq2UcZu7GP6hH9tYtqWC4R5HTk6uKloainuqoB
 [Where's Waldo](https://tonviewer.com/0:e61af89164dab2cebe8afd66b7aef9edbc345a1b18d4c504bf648f9faaa38526) | EQDmGviRZNqyzr6K_Wa3rvntvDRaGxjUxQS_ZI-fqqOFJlrz
 [Whiskers](https://tonviewer.com/0:8e6e1e3e65a8213af6bcb82cff00c327be27ccdcf4be129a542442505d79e53f) | EQCObh4-ZaghOva8uCz_AMMnvifM3PS-EppUJEJQXXnlP0zX
+[Wisdomise](https://tonviewer.com/0:1716717f0863c85c3e41e7a0be5cf1324c02623780b5848d3e2631b94ae73ac3) | EQAXFnF_CGPIXD5B56C-XPEyTAJiN4C1hI0-JjG5Suc6wzDA
 [Wojak on TON](https://tonviewer.com/0:3b71f70f0a9161da8dd91fa124c41724fd275b2c7fec70011b1d72b16a695f4a) | EQA7cfcPCpFh2o3ZH6EkxBck_SdbLH_scAEbHXKxamlfSvGH
 [Wonnie](https://tonviewer.com/0:e68ff8bb54c5ecb7317d7538103323cacaf408ca7603d0a27ba48f2fd4b538d3) | EQDmj_i7VMXstzF9dTgQMyPKyvQIynYD0KJ7pI8v1LU400Rh
 [Wrapped NANO](https://tonviewer.com/0:8e1a9d46015939d69ad5070e433bc40dde528895424a8d76d9725e5a5e02f986) | EQCOGp1GAVk51prVBw5DO8QN3lKIlUJKjXbZcl5aXgL5hkwy
