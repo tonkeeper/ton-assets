@@ -1,5 +1,21 @@
 [
  {
+  "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
+  "decimals": 9,
+  "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
+  "image": "https://raw.githubusercontent.com/jayp89/Etnetsa/refs/heads/main/Asset%202%40300x-8.png",
+  "name": "ET NETSA COIN",
+  "social": [
+   "https://etn.ethio-tech.com/wp-content/uploads/2023/06/$ETN%20Whitepaper.pdf",
+   "https://t.me/et_apps",
+   "https://x.com/etNetsa"
+  ],
+  "symbol": "$ETN",
+  "websites": [
+   "https://etn.ethio-tech.com/"
+  ]
+ },
+ {
   "address": "EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb",
   "description": "Operating startup of the mining company",
   "image": "https://i.postimg.cc/BZMY4sKN/photo-2023-12-08-12-58-58-1-1.png",
