@@ -1,0 +1,12 @@
+name: NOYcoin
+description: Coin of the NOY group of companies.
+address: EQAZ5bjZ2TthIG-2qjgSrGWhKUl1NvXaBYIfqepbhSfJxJFs
+image: "https://autonoy.ru/img/logo.png"
+symbol: NOY
+websites:
+  - "https://autonoy.ru"
+  - "https://taxinoy.ru"
+social:
+  - "https://t.me/autonoy_bot"
+  - "http://vk.com/autonoy"
+decimals: 9  
