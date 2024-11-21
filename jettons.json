@@ -1744,6 +1744,20 @@
   ]
  },
  {
+  "address": "EQCIiZ6b5fYSHLfCCAqi4KsIeqQAD3H_HSP-V5r4OUgTEuAs",
+  "description": "\u26fd\ufe0f https://audio.gaspump.tg/SADDOGE_1.mp3 | why i`m sad?",
+  "image": "https://i.ibb.co/yP40H6F/IMG-20241023-205430-378.jpg",
+  "name": "Sad Doge",
+  "social": [
+   "https://t.me/saddogeCTO",
+   "https://x.com/SADDOGE_mp3"
+  ],
+  "symbol": "SADDOGE",
+  "websites": [
+   "https://dexscreener.com/ton/EQCeAnm5DPOIY0YDx4sphpc7k44A26Rw6EsRiiL548qDWv_m"
+  ]
+ },
+ {
   "address": "EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc",
   "decimals": 9,
   "description": "SafemoonTon is not just a meme project - it's a movement. We're building an ecosystem that will make a lasting impact on TON Blockchain and the crypto industry at large.",

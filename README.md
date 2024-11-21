@@ -575,6 +575,7 @@ Name           | Address
 [STORM](https://tonviewer.com/0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c) | EQBsosmcZrD6FHijA7qWGLw5wo_aH8UN435hi935jJ_STORM
 [STORM Vault](https://tonviewer.com/0:df2807a89cb6f0f7244847e632a8c4dee6cee7262006a7c3699d696b092040d4) | EQDfKAeonLbw9yRIR-YyqMTe5s7nJiAGp8NpnWlrCSBA1CS-
 [STORM staked on JVault.xyz](https://tonviewer.com/0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b) | EQC5AstfTny_upAnB55sgtY7D8aoHh4P-OSrYakf2mYnS_zr
+[Sad Doge](https://tonviewer.com/0:88899e9be5f6121cb7c2080aa2e0ab087aa4000f71ff1d23fe579af839481312) | EQCIiZ6b5fYSHLfCCAqi4KsIeqQAD3H_HSP-V5r4OUgTEuAs
 [SafeMars](https://tonviewer.com/0:0964496b0d3824b747b1202ad55103e3375f649d63a7886b090bf02e9f2a9f3c) | EQAJZElrDTgkt0exICrVUQPjN19knWOniGsJC_AunyqfPA0w
 [SafemoonTon](https://tonviewer.com/0:602f0dd12e410b80e254535a07b47cf09284dd6f84607d3f088131ba93f88b9d) | EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc
 [Saintcoin](https://tonviewer.com/0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d) | EQD7rlGEfvNUXYbEwT-Ll7SUD7LuGkubUeU-TQXsShMwXY0H
