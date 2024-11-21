@@ -760,6 +760,21 @@
   "require_memo": true
  },
  {
+  "address": "0:cad898b200a0934ee416c2039bbf3f5d7f1a323172875b3c19d378a6f540f7b1",
+  "name": "Nobitex",
+  "require_memo": true
+ },
+ {
+  "address": "0:4532d5bcdfb05d3275cbf255bc91c3635cd48d63b719441581c5542a4750fdf5",
+  "name": "Nobitex",
+  "require_memo": true
+ },
+ {
+  "address": "0:a32d52ced80a23fe4fe90ba94593ef686de03f9fbdaa069e642826a95234b982",
+  "name": "Nobitex",
+  "require_memo": true
+ },
+ {
   "address": "0:fac8ffcb6f89572a1232d59e91c65909ae408663fd2ceaecd35f35b5e9d670f4",
   "name": "Bitpin1",
   "require_memo": true
