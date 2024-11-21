@@ -391,9 +391,6 @@
 - address: 0:3571d5c4296aedf88d94ecc575849f05a5dbb026ee82c9da22a0062d3abf76d7
   name: NotBlumHmstrCatiDogsWoof
   symbol: GEM
-- address: 0:7c3b4249fa1a9e0c0a830b5386eb33d805fa55f90cf03de77492971b20b5ec98
-  name: Gem
-  symbol: GEM
 - address: 0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4
   name: GEMSTON
   symbol: GEMSTON
