@@ -122,6 +122,19 @@
   ]
  },
  {
+  "address": "0:f6111725910e67ea5bf72ad85d6eadc268e3929a563bcd07306066bdad320aec",
+  "description": "BBQ COIN",
+  "image": "https://bbqcoin.pages.dev/bbqcoin.png",
+  "name": "BBQ COIN",
+  "social": [
+   "http://x.com/BBQ_Coin"
+  ],
+  "symbol": "BBQ",
+  "websites": [
+   "https://www.bbqcoin.ai/"
+  ]
+ },
+ {
   "address": "0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e",
   "decimals": 9,
   "description": "PIXEL [BITPIX] is a token based on the decentralized and high-speed blockchain technologies of The Open Network.",
