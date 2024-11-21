@@ -262,6 +262,7 @@ Name           | Address
 [GAMEE](https://tonviewer.com/0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700) | EQCqnhZndBGbwjPpV8K_8WOK58ZkQPXlS_bshau9DKWnAF-p
 [GAS000](https://tonviewer.com/0:7cba170a3e6f486af204ce89c690f1bce5a2085cfa27af9c8f49eb1a5d19d553) | EQB8uhcKPm9IavIEzonGkPG85aIIXPonr5yPSesaXRnVU2JJ
 [GEMSTON](https://tonviewer.com/0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4) | EQBX6K9aXVl3nXINCyPPL86C4ONVmQ8vK360u6dykFKXpHCa
+[GEONERGO COIN](https://tonviewer.com/0:cc7bc6ff626d82f60b924c2ed04338ac3e0ffbfce2c45a0b85d5d24c5137fc71) | EQDMe8b_Ym2C9guSTC7QQzisPg_7_OLEWguF1dJMUTf8cfsF
 [GLITCH](https://tonviewer.com/0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425) | EQCwaOWpWvxlh--VaCJSkf8I5xEmuCXKKkXuGM3P9PAkJclJ
 [GM](https://tonviewer.com/0:7d7b64496899d7fed00b0c14b221be688f460724b6bc16772c17ee4c8d7a256d) | EQB9e2RJaJnX_tALDBSyIb5oj0YHJLa8FncsF-5MjXolbUzC
 [GOLD](https://tonviewer.com/0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c) | EQByVysfErmFFWpaCXIHU68SF0v6O0g59KWhrqxeBPDyjEQ_
