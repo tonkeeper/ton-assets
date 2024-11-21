@@ -1,5 +1,21 @@
 [
  {
+  "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
+  "decimals": 9,
+  "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
+  "image": "https://raw.githubusercontent.com/jayp89/Etnetsa/refs/heads/main/Asset%202%40300x-8.png",
+  "name": "ET NETSA COIN",
+  "social": [
+   "https://etn.ethio-tech.com/wp-content/uploads/2023/06/$ETN%20Whitepaper.pdf",
+   "https://t.me/et_apps",
+   "https://x.com/etNetsa"
+  ],
+  "symbol": "$ETN",
+  "websites": [
+   "https://etn.ethio-tech.com/"
+  ]
+ },
+ {
   "address": "EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb",
   "description": "Operating startup of the mining company",
   "image": "https://i.postimg.cc/BZMY4sKN/photo-2023-12-08-12-58-58-1-1.png",
@@ -327,6 +343,19 @@
   "symbol": "CUB",
   "websites": [
    "https://cubigator.site"
+  ]
+ },
+ {
+  "address": "EQB_E-xD4RvHqHB-bqCfBuWhnj8lgYEFN9eymZrC2YMxUUA3",
+  "description": "The token that took 1 place in the BlumMemePad Best Token Competition. $DARK is a next-generation token offering access to exclusive channels and events.",
+  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/dark.JPG",
+  "name": "Dark",
+  "social": [
+   "https://t.me/darkmemtoken"
+  ],
+  "symbol": "DARK",
+  "websites": [
+   "https://x.com/coindark7"
   ]
  },
  {
@@ -673,6 +702,30 @@
   ]
  },
  {
+  "address": "EQDMe8b_Ym2C9guSTC7QQzisPg_7_OLEWguF1dJMUTf8cfsF",
+  "description": "The only tokens in the world for the purchase of Geonergo Green Energy Project products for half their market value",
+  "image": "https://github.com/GeonerGO/website/blob/main/logo.png?raw=true",
+  "name": "GEONERGO COIN",
+  "social": [
+   "https://t.me/GeonerGO"
+  ],
+  "symbol": "GEONERGO",
+  "websites": [
+   "https://geonergo.com"
+  ]
+ },
+ {
+  "address": "EQA4ewTwGfu7pVQC-ZjI3soFwF6XrXJONjY6MmGzL8pWCDj3",
+  "description": "$GH is the first jetton on TON, created by gamers for gamers. Built by https://gamehunters.pro",
+  "name": "Game Hunters",
+  "social": [
+   "https://t.me/gh_coin",
+   "https://t.me/gh_coin_cis",
+   "https://twitter.com/gh_jetton"
+  ],
+  "symbol": "GH"
+ },
+ {
   "address": "EQBlsic2160scD9raXoa61gwRvBw3rseL2-K65d5Y1cXpyzK",
   "description": "Galaxy Online is an online strategy game with a huge meta-universe consisting of many galaxies.",
   "image": "https://galaxyonline.io/images/redesign/coin-galaxy.png",
@@ -921,6 +974,21 @@
   ]
  },
  {
+  "address": "0:5f5d17debad4cbfa6715243e2d41f4560b5007463f504490a589913feb69fff1",
+  "description": "Legendary Kirby on Ton Blockchain!",
+  "image": "https://raw.githubusercontent.com/iambigkirby/assets/9d8ad3a7f348c7d6bd5b3950087dc285c0965a82/images/Kirby-Logo.png",
+  "name": "KIRBY",
+  "social": [
+   "https://x.com/kirbytoncoin",
+   "https://t.me/bigkirby",
+   "https://t.me/bigkirbychat"
+  ],
+  "symbol": "KIRBY",
+  "websites": [
+   "https://bigkirby.xyz"
+  ]
+ },
+ {
   "address": "0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04",
   "description": "Kote Coin. It's the only one.",
   "name": "Kote Coin",
@@ -945,6 +1013,21 @@
   "symbol": "LAIKA",
   "websites": [
    "https://www.laikaonton.com/"
+  ]
+ },
+ {
+  "address": "0:c4d623eb3fcd0bd7b473907dd896e5ec11c9f98be6cf15fb9edb9f6e30a28513",
+  "description": "Wen $LAMBO ?!",
+  "image": "https://raw.githubusercontent.com/vanyaindigo/lambo/3113b43ea760ee902c0cc70ed4830c03eec2520c/LAMBO_640x640.jpg",
+  "name": "LAMBO",
+  "social": [
+   "https://t.me/lambospeak",
+   "https://t.me/wen_lambo_ton",
+   "https://x.com/LAMBOtokenTON"
+  ],
+  "symbol": "LAMBO",
+  "websites": [
+   "https://lambo.tg"
   ]
  },
  {
@@ -989,6 +1072,18 @@
   "websites": [
    "https://rebalancer.pro/libration"
   ]
+ },
+ {
+  "address": "0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375",
+  "decimals": 9,
+  "description": "Shave, Liquidate, Laugh \u2014 The Meme Coin Way!",
+  "image": "https://static.storm.tg/LIQUID.png",
+  "name": "LIQUIDATION",
+  "social": [
+   "https://t.me/liquidtonchat",
+   "https://t.me/KovalevskiyLife"
+  ],
+  "symbol": "LIQUID"
  },
  {
   "address": "0:2b310049627d7149911f613eb0e465185bce027558f7c8568053fde33139306e",
@@ -1055,6 +1150,19 @@
   "symbol": "MAGIC",
   "websites": [
    "https://tonalchemists.wtf"
+  ]
+ },
+ {
+  "address": "0:ae3e6d351e576276e439e7168117fd64696fd6014cb90c77b2f2cbaacd4fcc00",
+  "name": "Major",
+  "social": [
+   "https://t.me/major",
+   "https://x.com/majoroftelegram?mx=2",
+   "https://www.youtube.com/@Majortg"
+  ],
+  "symbol": "MAJOR",
+  "websites": [
+   "https://major.bot/"
   ]
  },
  {
@@ -1182,6 +1290,21 @@
   "symbol": "MUZZY",
   "websites": [
    "https://muzzy.live/"
+  ]
+ },
+ {
+  "address": "0:2c9c6fe0aec4f5d98e9c151d9e82f0e115c64b4d538b404feca8c939c16a8acf",
+  "description": "Token by crypto channel @TonNewbie",
+  "image": "https://raw.githubusercontent.com/Ov3RRR/test/refs/heads/main/NEWJET_Icon.png",
+  "name": "NEWJET",
+  "social": [
+   "https://t.me/NewbieJet",
+   "https://t.me/NewJetChat",
+   "https://x.com/newjetton"
+  ],
+  "symbol": "NEW",
+  "websites": [
+   "https://new-jetton.site"
   ]
  },
  {
@@ -1334,6 +1457,23 @@
   "symbol": "PGC",
   "websites": [
    "http://t.me/PiggyPiggyofficialbot"
+  ]
+ },
+ {
+  "address": "EQDCb2loMIB8YS53GEo2r2ggS9AW1Dz-zX_as4DtxXV1u8XY",
+  "decimals": 8,
+  "description": "It's wrapped token for real PirateCash",
+  "name": "PirateCash",
+  "social": [
+   "https://t.me/piratecash",
+   "https://twitter.com/PirateCash_NET",
+   "https://www.facebook.com/PirateCash",
+   "https://discord.gg/cbTdqxx",
+   "https://www.reddit.com/r/PirateCash/"
+  ],
+  "symbol": "PIRATE",
+  "websites": [
+   "https://p.cash/"
   ]
  },
  {
@@ -1592,6 +1732,20 @@
   ]
  },
  {
+  "address": "EQAONlwFvzmKBosbzHvHBMBpdHMvIO77K7hz4NZA7kqOmf8r",
+  "description": "Slopy (SLOPY) is a meme token with a dynamic royalty system for holders on ETH. Royalties are randomly awarded to holders during transactions.",
+  "image": "https://slopy.io/200logoton.png",
+  "name": "Slopy",
+  "social": [
+   "https://twitter.com/Slopymeme",
+   "https://t.me/slopyportal"
+  ],
+  "symbol": "SLOPY",
+  "websites": [
+   "https://slopy.io"
+  ]
+ },
+ {
   "address": "EQDSYg2es_L0xpGfPJ6k39SxGA6MCHwV0EHY2smeF7aFAJW4",
   "description": "Snoop Ton is a meme coin with ecosystem",
   "image": "https://i.postimg.cc/Cx12f8Np/IMG-5623.jpg",
@@ -1703,10 +1857,160 @@
   ]
  },
  {
+  "address": "0:ab9d7bda5f91c06fc3cf737acfed24b63080a65db1b5e95400d503a24c047ed5",
+  "description": "DUST/TON Vault for DeDust Pool",
+  "image": "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp",
+  "name": "DUST Vault",
+  "social": [
+   "https://t.me/settleton",
+   "https://t.me/settleton_ru",
+   "https://t.me/settleton_fa"
+  ],
+  "symbol": "STL_DUST_TON",
+  "websites": [
+   "https://settleton.finance"
+  ]
+ },
+ {
+  "address": "0:dacaea937930943b921d18c34da7ed31d95c5ec17948b2246554b2c6422b2747",
+  "description": "DYOR/TON Vault for DeDust Pool",
+  "image": "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp",
+  "name": "DYOR Vault",
+  "social": [
+   "https://t.me/settleton",
+   "https://t.me/settleton_ru",
+   "https://t.me/settleton_fa"
+  ],
+  "symbol": "STL_DYOR_TON",
+  "websites": [
+   "https://settleton.finance"
+  ]
+ },
+ {
+  "address": "0:3848b9a49c1d1a8e9c7101e5a3a80a5638ba968d52882bf34ef4c8eb4090cc60",
+  "description": "HYDRA/TON Vault for DeDust Pool",
+  "image": "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp",
+  "name": "HYDRA Vault",
+  "social": [
+   "https://t.me/settleton",
+   "https://t.me/settleton_ru",
+   "https://t.me/settleton_fa"
+  ],
+  "symbol": "STL_HYDRA_TON",
+  "websites": [
+   "https://settleton.finance"
+  ]
+ },
+ {
+  "address": "0:5b46607213a02eec4061be961e41f69a6bfdb4ccb56b2a7ae5d38d25b42eff1d",
+  "description": "JETTON/TON Vault for DeDust Pool",
+  "image": "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp",
+  "name": "JETTON Vault",
+  "social": [
+   "https://t.me/settleton",
+   "https://t.me/settleton_ru",
+   "https://t.me/settleton_fa"
+  ],
+  "symbol": "STL_JETTON_TON",
+  "websites": [
+   "https://settleton.finance"
+  ]
+ },
+ {
+  "address": "0:f26a93829fdf8448a4ed3cce22a7c92433be18fb668e63cf048a96c5b27fffaa",
+  "description": "JVT/TON Vault for DeDust Pool",
+  "image": "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp",
+  "name": "JVT Vault",
+  "social": [
+   "https://t.me/settleton",
+   "https://t.me/settleton_ru",
+   "https://t.me/settleton_fa"
+  ],
+  "symbol": "STL_JVT_TON",
+  "websites": [
+   "https://settleton.finance"
+  ]
+ },
+ {
+  "address": "0:9be109c3d18d14d6f271f1c311831aef109c2f02062f504726af26ba707f0292",
+  "description": "Middle Risk Token 1 by SettleTON, First TON Liquidity Pool Index Fund",
+  "image": "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp",
+  "name": "SettleTON Index - Middle 1",
+  "social": [
+   "https://t.me/settleton",
+   "https://t.me/settleton_ru",
+   "https://t.me/settleton_fa"
+  ],
+  "symbol": "STL_MID_1",
+  "websites": [
+   "https://settleton.finance"
+  ]
+ },
+ {
+  "address": "0:df2807a89cb6f0f7244847e632a8c4dee6cee7262006a7c3699d696b092040d4",
+  "description": "STORM/TON Vault for DeDust Pool",
+  "image": "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp",
+  "name": "STORM Vault",
+  "social": [
+   "https://t.me/settleton",
+   "https://t.me/settleton_ru",
+   "https://t.me/settleton_fa"
+  ],
+  "symbol": "STL_STORM_TON",
+  "websites": [
+   "https://settleton.finance"
+  ]
+ },
+ {
+  "address": "0:56f5e805e4e407d61a20ad94c83e3aaefa0854be28c633f658aca4c679f8c5e7",
+  "description": "USDT/TON Vault for DeDust Pool",
+  "image": "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp",
+  "name": "USDT Vault",
+  "social": [
+   "https://t.me/settleton",
+   "https://t.me/settleton_ru",
+   "https://t.me/settleton_fa"
+  ],
+  "symbol": "STL_USDT_TON",
+  "websites": [
+   "https://settleton.finance"
+  ]
+ },
+ {
+  "address": "0:64216a0ead5819dca7d1719fc912cfa6673665a1c5fcf7338ca5b2ce65f12f80",
+  "description": "WEB3/TON Vault for DeDust Pool",
+  "image": "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp",
+  "name": "WEB3 Vault",
+  "social": [
+   "https://t.me/settleton",
+   "https://t.me/settleton_ru",
+   "https://t.me/settleton_fa"
+  ],
+  "symbol": "STL_WEB3_TON",
+  "websites": [
+   "https://settleton.finance"
+  ]
+ },
+ {
   "address": "EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO",
   "decimals": 9,
   "name": "STON",
   "symbol": "STON"
+ },
+ {
+  "address": "0:7de57e6ee41ee97eb8b8aed881e320e488c8767ecb16ff688438414a7cb9807a",
+  "decimals": 9,
+  "description": "Liquidity pool token for STORM and Proxy TON on STON.fi DEX. Liquidity pool link: https://app.ston.fi/pools/EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo",
+  "image": "https://static.storm.tg/STORM-pTON-LP.png",
+  "name": "LP Token for STORM-pTON",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "STORM-pTON LP",
+  "websites": [
+   "https://storm.tg"
+  ]
  },
  {
   "address": "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c",
@@ -1999,6 +2303,21 @@
   "symbol": "Tnr"
  },
  {
+  "address": "EQC7ilfUj2egjitpNBgW86I3Zr1lJEnqf1MwscMc59HjaU_U",
+  "description": "Tonny is a meme & tap-to-earn project where users can get $xTonny by playing Tonny bot and referring users.",
+  "image": "https://drive.google.com/file/d/1SxXXaGshDbKrc8S-8KHM1iuHGOsE4lBh/view?usp=sharing",
+  "name": "Tonny",
+  "social": [
+   "https://t.me/tonny_community",
+   "https://x.com/Tonny_io",
+   "https://t.me/Tonny_io"
+  ],
+  "symbol": "TONNY",
+  "websites": [
+   "https://tonny.io"
+  ]
+ },
+ {
   "address": "EQBEbKm5z-T5psz8iRtCRYjDH-OGbRAsfhQtdKf1ma2dqS7o",
   "description": "TryTON is a project aimed at popularizing the TON network among participants from other networks through its applications: wallet, bridge, and AirDrop game.",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GplVmGPFy2aa2ZRvYm-uxoC4I2Q1H674Gym4DxDqdPmGUBovLHnIoDHiPG72ORx8PAYTk7HPtlqH1Do-c8CMG-GhxiIOl8XAl6cTv5DnKnh_RVGdvJVyWF9B2BjLBvYNz8rxrcYD-GxbcqjGhbB9ID0IKKoevalLlFMo4y1S1B5IccbGDn7S922-YcQq/s320/ava_01.jpg",
@@ -2278,13 +2597,40 @@
   ]
  },
  {
+  "address": "0:b14b6c4ebc1bc70baceb9b216cdf532d16f0fb96b965b1f4b04dca8eb7915c9f",
+  "description": "Offering profit shares, exclusive perks, and voting power.",
+  "image": "https://hpo.hipo.finance/HPO.png",
+  "name": "Hipo Governance Token",
+  "social": [
+   "https://t.me/HipoFinance",
+   "https://x.com/hipofinance",
+   "https://www.youtube.com/@HipoFinance",
+   "https://medium.com/@hipofinance"
+  ],
+  "symbol": "HPO",
+  "websites": [
+   "https://hpo.hipo.finance"
+  ]
+ },
+ {
   "address": "0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87",
+  "description": "Hipo liquid staking protocol",
+  "image": "https://app.hipo.finance/hton.png",
   "name": "Hipo Staked TON",
-  "symbol": "hTON"
+  "social": [
+   "https://t.me/HipoFinance",
+   "https://x.com/hipofinance",
+   "https://www.youtube.com/@HipoFinance",
+   "https://medium.com/@hipofinance"
+  ],
+  "symbol": "hTON",
+  "websites": [
+   "https://app.hipo.finance"
+  ]
  },
  {
   "address": "0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8",
-  "name": "Hipo Staked TON",
+  "name": "Hipo Staked TON (depricated)",
   "symbol": "hTON"
  },
  {
@@ -2567,6 +2913,11 @@
  {
   "address": "0:c8fd05d87a2c2b58df3932b384b9c671b265fc5ca36c8de84e8f3935df4134a6",
   "name": "Bull on TON",
+  "symbol": "BULL"
+ },
+ {
+  "address": "0:bdcd64eb763ec39b964e97562e817fd24a019c492794062be6593a15ea3a0057",
+  "name": "Bullish Balloons ",
   "symbol": "BULL"
  },
  {
@@ -3630,6 +3981,11 @@
   "symbol": "POTATO"
  },
  {
+  "address": "0:7593497137b452b838c95da8f0ca9924bcc7b27fa9481fca9173b050c832bad9",
+  "name": "POUCHI",
+  "symbol": "POUCHI"
+ },
+ {
   "address": "0:3391461c68ff89cdc0de413cccc6e1f7a6d5a144de32be9e313eefdc6e9b84d7",
   "name": "Player Pump Player",
   "symbol": "PPP"
@@ -3698,6 +4054,11 @@
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
   "name": "Ton Raffles Token",
   "symbol": "RAFF"
+ },
+ {
+  "address": "0:cb951be445fe5d6d388316d77c70fe5ededa80a1ce4df61745d7e9262e0d3697",
+  "name": "RAGE",
+  "symbol": "RAGE"
  },
  {
   "address": "0:85f68631a37ef10865f50d285913079a54625ee8ab9ca74ced28eeaf0ac44034",
@@ -4315,6 +4676,11 @@
   "symbol": "UP"
  },
  {
+  "address": "0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024",
+  "name": "Us Usach",
+  "symbol": "USACH"
+ },
+ {
   "address": "0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d",
   "name": "Utya",
   "symbol": "UTYA"
@@ -4408,6 +4774,11 @@
   "address": "0:c055e4f32616921d529f7912f2b4c990ea713c0b965173e932ffcd53850d8016",
   "name": "woosh",
   "symbol": "WOOSH"
+ },
+ {
+  "address": "0:1716717f0863c85c3e41e7a0be5cf1324c02623780b5848d3e2631b94ae73ac3",
+  "name": "Wisdomise",
+  "symbol": "WSDM"
  },
  {
   "address": "0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba",
@@ -4865,6 +5236,21 @@
   "decimals": 9,
   "name": "Shards of Notcoin NFT bond",
   "symbol": "wNOT"
+ },
+ {
+  "address": "0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b",
+  "decimals": 9,
+  "description": "These jettons confirm ownership of STORM staked on JVault. Staking pool link: https://app.storm.tg/token",
+  "image": "https://static.storm.tg/st-STORM-30D.png",
+  "name": "STORM staked on JVault.xyz",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "st-STORM-30D",
+  "websites": [
+   "https://storm.tg"
+  ]
  },
  {
   "address": "EQAORkhhrXis_XxLAAfyxTyNceNXLtaHcJ5FhXxpNJ8xsDGc",
