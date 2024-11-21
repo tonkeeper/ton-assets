@@ -159,6 +159,7 @@ Name           | Address
 [CAVIAR COIN](https://tonviewer.com/0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e) | EQD6W0raB1aGCr86pWd7-oWpA3QW2VXCJ9smlYcChkIhflt2
 [CHADUROV](https://tonviewer.com/0:2e0c6dd9d15d3ca1a77ac10ccd2b44f5cc76d4fc763fe85b5e99d5ac109f5d1e) | EQAuDG3Z0V08oad6wQzNK0T1zHbU_HY_6FtemdWsEJ9dHr1M
 [CHORRY](https://tonviewer.com/0:36147a2b4f3bd8a6c337b7fe88a8cba2829259081ffee47f340aa6c821a50bab) | EQA2FHorTzvYpsM3t_6IqMuigpJZCB_-5H80CqbIIaULq272
+[COPA](https://tonviewer.com/0:f9c7c833dc88532d1dbe0c69262f47a15a4ed094890e4c81aedee843b8be2c6c) | EQD5x8gz3IhTLR2-DGkmL0ehWk7QlIkOTIGu3uhDuL4sbDGb
 [CRYPTON](https://tonviewer.com/0:f7e8bc69ea9e053331d04e15b3bc535aaa16d3f108a9e2b305d4d623092818ea) | EQD36Lxp6p4FMzHQThWzvFNaqhbT8Qip4rMF1NYjCSgY6ksE
 [CULTURE](https://tonviewer.com/0:d0901ce0ad0d904972c56941b3def035bd7d6a93229fdd70553af7f4afa20bb6) | EQDQkBzgrQ2QSXLFaUGz3vA1vX1qkyKf3XBVOvf0r6ILthSb
 [Capybara](https://tonviewer.com/0:9358a65447706527e8e74ff184f11b4444338c435968b3bf94a778a94244e2ef) | EQCTWKZUR3BlJ-jnT_GE8RtERDOMQ1los7-Up3ipQkTi700i
