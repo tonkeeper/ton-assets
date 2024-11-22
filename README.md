@@ -437,6 +437,7 @@ Name           | Address
 [NEWJET](https://tonviewer.com/0:2c9c6fe0aec4f5d98e9c151d9e82f0e115c64b4d538b404feca8c939c16a8acf) | EQAsnG_grsT12Y6cFR2egvDhFcZLTVOLQE_sqMk5wWqKzw6z
 [NO Rocket](https://tonviewer.com/0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684) | EQDnHBmARrJgDiHRaiwShwoLAdLoA73GL4lRn3V9eFKmhDwT
 [NOT Storm LP](https://tonviewer.com/0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9) | EQAqtjTPy9vjuXUDaR4HgMPQfJBpIQorJLmRuk-ZQbRT-eiY
+[NOTAI](https://tonviewer.com/0:95e5d5cdad6554d73ed589d10abd72f9881fcf5ecdb39bd2cb7bd6cf81292575) | EQCV5dXNrWVU1z7VidEKvXL5iB_PXs2zm9LLe9bPgSklde0z
 [NOTCOIN INU](https://tonviewer.com/0:ba28f737207da6d4263b6775289ea8fb6b313e47f45012298443e3875440aeec) | EQC6KPc3IH2m1CY7Z3Uonqj7azE-R_RQEimEQ-OHVECu7Npe
 [NOTELEPHANT](https://tonviewer.com/0:aafaacb25cf691d7afb0d0b59307e63e040355a32d6ab91c1df9191d4ce011bf) | EQCq-qyyXPaR16-w0LWTB-Y-BANVoy1quRwd-RkdTOARv4cU
 [NOTGEM](https://tonviewer.com/0:450e083a3b5fe26683aa4a065a9f343df63234b51a5e0a5499c6b0d4fe8db3bd) | EQBFDgg6O1_iZoOqSgZanzQ99jI0tRpeClSZxrDU_o2zvRX5
