@@ -2515,6 +2515,21 @@
   "symbol": "ULT"
  },
  {
+  "address": "0:1a726533c23adee04a594a575141c93d66e587805d9c4ae4ad1bb50dfe187a1c",
+  "decimals": 9,
+  "description": "The utility token of Uniton.ai. Unite projects and users",
+  "image": "https://bafybeiabbynbq2i65gwyl5awpt7bto57pmw2jvn3znr4dp7xvmzjj6lypa.ipfs.w3s.link/Uniton_ai_logo.png",
+  "name": "uniton.ai",
+  "social": [
+   "https://t.me/unitonai",
+   "https://t.me/uniton_ru"
+  ],
+  "symbol": "UNIT",
+  "websites": [
+   "https://uniton.ai"
+  ]
+ },
+ {
   "address": "0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11",
   "description": "Native Tether USD locked in liquidity in Storm Trade (storm.tg)",
   "image": "https://static.storm.tg/usdt-slp-logo.png",
