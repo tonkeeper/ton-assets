@@ -146,6 +146,26 @@
   "symbol": "BITPIX"
  },
  {
+  "address": "EQA30iFe8bdC7ZKw94key8UA21Aey4FDVxQ2TWDcQTZ2LsJf",
+  "description": "BLOCKTUBE.TV COMMUNITY JETTON - %2 TRANSFER TAXATION APPLIES",
+  "image": "https://blocktube.tv/wp-content/uploads/2024/11/blt_new_512px.png",
+  "name": "BLT",
+  "social": [
+   "https://www.youtube.com/@blocktube_tv",
+   "https://x.com/blocktube_tv",
+   "https://www.facebook.com/blocktubetv",
+   "https://www.linkedin.com/company/blocktubetv/",
+   "https://www.instagram.com/blocktubetv/",
+   "https://www.tiktok.com/@blocktubetv",
+   "https://t.me/blocktube_tv",
+   "https://discord.gg/blocktubetv"
+  ],
+  "symbol": "BLT",
+  "websites": [
+   "https://blocktube.tv"
+  ]
+ },
+ {
   "address": "EQBm8UOthRHMGr6rCsNRNVwFArYHcWOgw6pAj4JZ2RiQ-yI1",
   "description": "BMW Coin is like a Dogcoin - only BMW",
   "image": "https://raw.githubusercontent.com/2006vlad2006/website/refs/heads/main/BMW_logo_GitHub.png",
