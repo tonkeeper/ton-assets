@@ -1,0 +1,13 @@
+symbol: PIRATE
+address: EQDCb2loMIB8YS53GEo2r2ggS9AW1Dz-zX_as4DtxXV1u8XY
+name: "PirateCash"
+decimals: 8
+description: "It's wrapped token for real PirateCash"
+social:
+  - "https://t.me/piratecash"
+  - "https://twitter.com/PirateCash_NET"
+  - "https://www.facebook.com/PirateCash"
+  - "https://discord.gg/cbTdqxx"
+  - "https://www.reddit.com/r/PirateCash/"
+websites:
+  - "https://p.cash/"

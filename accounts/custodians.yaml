@@ -94,9 +94,9 @@
   name: "Huobi"
   require_memo: true 
 - address: "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd"
-  name: "TonMobile Service"
-  require_memo: false
-  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/tonmobile_service_288.svg"
+  name: "Mobile"
+  require_memo: true
+  image: "https://img.mobile.ag/logo_mobile_r_400x400.png"
 - address: "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl"
   name: "Kucoin 1"
   require_memo: true
@@ -150,14 +150,14 @@
   name: "Bybit 6"
   require_memo: true
   image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
+- address: "UQB_l_Nt2j997cnhL4wJxPief7wXUnqz9n3kw7FVKXpW5ODF"
+  name: "Bybit 7"
+  require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp"
   name: "bit.com"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bit_com_288.svg"
-- address: "EQChN26L-fJm7HxrEc5uXNAqm9o2O56oiKLiOdI4NXK8mm96"
-  name: "AvanChange 1"
-  require_memo: true
-  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg"
 - address: "UQChN26L-fJm7HxrEc5uXNAqm9o2O56oiKLiOdI4NXK8mjK_"
   name: "AvanChange 2"
   require_memo: true
@@ -276,6 +276,12 @@
 - address: "EQDAflHltpSTd1j0X0ADBxyE9MSmi9sWiiLD1si4nNYYb7Kq"
   name: "Bitget13"
   require_memo: true
+- address: "EQAXl6XExQorMSzpkn_28S79OwtY_zEURRGMLS5kMStdeQng"
+  name: "Bitget14"
+  require_memo: true
+- address: "EQBggwBbNUqxxHhaqM6Ck-5cnBgukkjyfpyQdPNcFjQggwrJ"
+  name: "Bitget15"
+  require_memo: true
 - address: "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb"
   name: "Binance"
   require_memo: true
@@ -283,10 +289,22 @@
 - address: "UQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2iNl"
   name: "Binance Hot Wallet"
   image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg"
+- address: "UQDKHZ7e70CzqdvZCC83Z4WVR8POC_ZB0J1Y4zo88G-zCSRH"
+  name: "Binance Hot Wallet"
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/binance.svg"
 - address: "UQCi-sp63-vVxZcBCNH3kGXO8ysMFD-xNIkGa2hM3X7pXCoH"
   name: "BitMart"
   require_memo: true
 - address: "UQBdWoMOSCFHkfSrU1KQDGJNO_88Xv1jAZaxgBWOt4mZDwmZ"
+  name: Nobitex
+  require_memo: true
+- address: "UQDK2JiyAKCTTuQWwgObvz9dfxoyMXKHWzwZ03im9UD3sXEb"
+  name: Nobitex
+  require_memo: true
+- address: "UQBFMtW837BdMnXL8lW8kcNjXNSNY7cZRBWBxVQqR1D99XCV"
+  name: Nobitex
+  require_memo: true
+- address: "UQCjLVLO2Aoj_k_pC6lFk-9obeA_n72qBp5kKCapUjS5guWp"
   name: Nobitex
   require_memo: true
 - address: "UQD6yP_Lb4lXKhIy1Z6RxlkJrkCGY_0s6uzTXzW16dZw9I7C"
@@ -304,3 +322,30 @@
 - address: "UQDKbo8qPfyHW4Zz2Gd_OBjEuMAtGqSBqGoMYb0J-CafHcOL"
   name: "Foxbit"
   require_memo: true
+- address: "EQBg3vN_sOb0GxinPCSW2WslRCNEhkyg7ZcYmm834kOcVomh"
+  name: "Richamster"
+  require_memo: true
+- address: "UQDh0IFe3M5hBWA44bLOLEsZmf7_8cjoYR8C10aKAzFq1gAu"
+  name: "BFinance"
+  require_memo: true
+  image: "https://cdn.bfinance.app/bf-logo.svg"
+- address: "UQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXKdd"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCFsx"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAbROxVNhaw5FUQNwOINL3wvaofBEDhDzMx2YQVhWEqaC0x"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQAI1"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WOof"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
