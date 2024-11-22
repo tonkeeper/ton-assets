@@ -706,6 +706,7 @@ Name           | Address
 [Ton Miner](https://tonviewer.com/0:795a3a3bc9775a07bd32068376604bfc8953e301d30e6dffc3ab8d042cb68f96) | EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb
 [Ton Raffles Token](https://tonviewer.com/0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a) | EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h
 [Ton Stars](https://tonviewer.com/0:b7e69198f5eacf3a737be706697e93b253983052798bbd4104eb5a0e6e99288a) | EQC35pGY9erPOnN75wZpfpOyU5gwUnmLvUEE61oObpkoilgq
+[Ton Ton Coin](https://tonviewer.com/0:96b7108519f68c675603f107cfd723ee8893021b05884372a71b113c7c1a1975) | EQCWtxCFGfaMZ1YD8QfP1yPuiJMCGwWIQ3KnGxE8fBoZdVKy
 [Ton Trump](https://tonviewer.com/0:59181c65852a41cd07c5763ec0a896bab486afb026850580e5d82e49e5320579) | EQBZGBxlhSpBzQfFdj7AqJa6tIavsCaFBYDl2C5J5TIFecrH
 [Ton Turbo](https://tonviewer.com/0:40f9e07a90d547f3d013cfa0978cfd6c7617c0771fd4eb3cbe7e80ee595cbce4) | EQBA-eB6kNVH89ATz6CXjP1sdhfAdx_U6zy-foDuWVy85DdH
 [Ton Whales liquid staking token](https://tonviewer.com/0:744a8c6e183c79aa356dd0ffdb3c80857967452c1995a291e18e07ecd2afb0b1) | EQB0SoxuGDx5qjVt0P_bPICFeWdFLBmVopHhjgfs0q-wsTON

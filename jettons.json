@@ -2435,6 +2435,21 @@
   ]
  },
  {
+  "address": "UQCWtxCFGfaMZ1YD8QfP1yPuiJMCGwWIQ3KnGxE8fBoZdQ93",
+  "description": "Join the game via Telegram, take advantage of Ton Ton Coin Aidrop opportunities, and earn.",
+  "image": "https://raw.githubusercontent.com/Pamenarti/LotusChain/refs/heads/main/source/logos.png",
+  "name": "Ton Ton Coin",
+  "social": [
+   "https://t.me/TonTonCoinGlobalChat",
+   "https://t.me/TonTonCoinBot",
+   "https://t.me/tontoncoinoffical"
+  ],
+  "symbol": "TTC",
+  "websites": [
+   "https://www.ttcoin.online/"
+  ]
+ },
+ {
   "address": "0:2198385630a13f7995f494ede6c7925241cf96d8ef88950ec16972cc8a8c9e13",
   "image": "https://raw.githubusercontent.com/GbGr/pavlik228-assets/refs/heads/main/tvm.png",
   "name": "TVM",
