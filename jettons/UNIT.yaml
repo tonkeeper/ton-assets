@@ -1,0 +1,11 @@
+name: uniton.ai
+description: "The utility token of Uniton.ai. Unite projects and users"
+symbol: UNIT
+image: "https://bafybeiabbynbq2i65gwyl5awpt7bto57pmw2jvn3znr4dp7xvmzjj6lypa.ipfs.w3s.link/Uniton_ai_logo.png"
+address: "0:1a726533c23adee04a594a575141c93d66e587805d9c4ae4ad1bb50dfe187a1c"
+decimals: 9
+websites:
+  - "https://uniton.ai"
+social:
+  - "https://t.me/unitonai"
+  - "https://t.me/uniton_ru"
