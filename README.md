@@ -669,6 +669,7 @@ Name           | Address
 [TPLANT](https://tonviewer.com/0:0406101449227f36a6093b75913640543297c07fb86777d5fb5818594aa2dac5) | EQAEBhAUSSJ_NqYJO3WRNkBUMpfAf7hnd9X7WBhZSqLaxYko
 [TRANSPARENT](https://tonviewer.com/0:2be8556a41f92d2ac8e10e1b64fac4278d7b0e8de8697fa5abfd33e8cc66d6e0) | EQAr6FVqQfktKsjhDhtk-sQnjXsOjehpf6Wr_TPozGbW4Dhx
 [TVM](https://tonviewer.com/0:2198385630a13f7995f494ede6c7925241cf96d8ef88950ec16972cc8a8c9e13) | EQAhmDhWMKE_eZX0lO3mx5JSQc-W2O-IlQ7BaXLMioyeEzT1
+[TYIELD](https://tonviewer.com/0:10b20774fe688788407d2cba0f8fad9cf94eabfbe5f8a5801134c7ac9769d805) | EQAQsgd0_miHiEB9LLoPj62c-U6r--X4pYARNMesl2nYBRsE
 [TapOk](https://tonviewer.com/0:ad7e1ca61254be4aa97d52e23766f3a619b2b54fca6c150ca1d81746022ae6a8) | EQCtfhymElS-Sql9UuI3ZvOmGbK1T8psFQyh2BdGAirmqJ21
 [Taurus](https://tonviewer.com/0:47fa54e01a87bac7ec01a1919b39205d5637c89af2c40366ee792fc9477181b2) | EQBH-lTgGoe6x-wBoZGbOSBdVjfImvLEA2bueS_JR3GBsqFb
 [Tektoniks](https://tonviewer.com/0:a1d37d53a6846d76bc71af4289521f209c49096d5de2370f502be75a1f4754f4) | EQCh031TpoRtdrxxr0KJUh8gnEkJbV3iNw9QK-daH0dU9HJV
