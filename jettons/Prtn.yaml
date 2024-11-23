@@ -1,12 +1,10 @@
-- name: ProTON
-  symbol: PRTN
-  description: This token is designed specifically for the "ProTON" community, aiming to build an internal economy within our group. It is intended to streamline interactions among members who wish to buy, sell, and engage in charitable activities.
-  address: EQBCHMY4xNfQn9tU70qlibOcl8YbSrXb4-J_rAVqeTsAWlJu
-  image: "https://i.postimg.cc/nVqW3jfk/19caa8db-723b-4317-913e-bb93b68913c0.png"
-  websites:
-    - "https://storm.tg"
-  social:
-    - "https://youtube.com/channel/UCZmGPl4jnVmfR5IJaqE0J9Q"
-    - "https://t.me/proton_miners"
-    - "https://t.me/prtn_fun_token"
-    - "https://m.vk.com/protonmining"
+name: ProTON
+symbol: PRTN
+description: This token is designed specifically for the "ProTON" community, aiming to build an internal economy within our group. It is intended to streamline interactions among members who wish to buy, sell, and engage in charitable activities.
+address: EQBCHMY4xNfQn9tU70qlibOcl8YbSrXb4-J_rAVqeTsAWlJu
+image: "https://i.postimg.cc/nVqW3jfk/19caa8db-723b-4317-913e-bb93b68913c0.png"
+social:
+  - "https://youtube.com/channel/UCZmGPl4jnVmfR5IJaqE0J9Q"
+  - "https://t.me/proton_miners"
+  - "https://t.me/prtn_fun_token"
+  - "https://m.vk.com/protonmining"
