@@ -1,14 +1,12 @@
 name: CROSS COIN
 description: CROSS COIN IS A LOW-FEE, PEER-TO-PEER ELECTRONIC CASH ALTERNATIVE TO FIAT, DESIGNED FOR SEAMLESS CROSS-BLOCKCHAIN TRANSACTIONS.
-image: "https://cache.tonapi.io/imgproxy/cJVlpBqI7weRtsD_MjcL_KxOP9Xf-oEGc2kE17E0cWc/rs:fill:200:200:1/g:no/aHR0cHM6Ly93d3cuZXllbW90aW9uLm1lL0Nyb3NzQ29pbi5wbmc.webp"
-address: 0:ba37ec87782369d597012c3cc6c9052aee6cf45266a0ef9e5321c95ba4a1d71d
+image: "https://www.eyemotion.me/CrossCoin.png"
+address: "EQC6N-yHeCNp1ZcBLDzGyQUq7mz0Umag755TIclbpKHXHZdd"
 symbol: CRSC
-decimals: 3
 websites:
-  - ""
+  - "https://crossgaming.me/"
 social:
-  - ""
-  - ""
-  - ""
+  - "https://t.me/CrossCoinChannel"
+  - "https://www.facebook.com/profile.php?id=61569368041832"
 
 
