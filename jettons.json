@@ -2621,6 +2621,23 @@
   ]
  },
  {
+  "address": "0:3aa59787efab4b4790864a7518396451633d19702533cffd46cf4deb04568f0b",
+  "decimals": 0,
+  "description": "Coin for TonVillages game. Play at t.me/TonVillagesBot",
+  "image": "https://vllg.pages.dev/logo.png",
+  "name": "TonVillages Coin",
+  "social": [
+   "https://t.me/TonVillages",
+   "https://t.me/TonVillagesChat",
+   "https://t.me/TonVillagesEN",
+   "https://t.me/TonVillagesChatEN"
+  ],
+  "symbol": "VLLG",
+  "websites": [
+   "https://t.me/TonVillagesBot"
+  ]
+ },
+ {
   "address": "0:f0357fc5b38b7f3ee523cb7ad965771ca070b867216a0239f3d2fcb285f8a390",
   "description": "VNST is a stablecoin backed by the Basket of Stablecoins, ensuring its reserve, not tethered to any fiat currency for users in Vietnam and globally.",
   "image": "https://vnst.io/assets/images/cryptos/vnst.png",

@@ -719,6 +719,7 @@ Name           | Address
 [TonTake](https://tonviewer.com/0:73c9eb19de9d5618dae080d4898ba2452b7bebd0686a269e20c647abf68ba38d) | EQBzyesZ3p1WGNrggNSJi6JFK3vr0GhqJp4gxker9oujjcuv
 [TonTogether](https://tonviewer.com/0:1c8effafefaba966046844d50cead0a677a77d434f6c5954c5a8275f2deb8fe0) | EQAcjv-v76upZgRoRNUM6tCmd6d9Q09sWVTFqCdfLeuP4P3b
 [TonUP](https://tonviewer.com/0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd) | EQCvaf0JMrv6BOvPpAgee08uQM_uRpUd__fhA7Nm8twzvbE_
+[TonVillages Coin](https://tonviewer.com/0:3aa59787efab4b4790864a7518396451633d19702533cffd46cf4deb04568f0b) | EQA6pZeH76tLR5CGSnUYOWRRYz0ZcCUzz_1Gz03rBFaPC1M-
 [Tonbet Token](https://tonviewer.com/0:e73687f5ca2840fc9b5773bd006490a0c39fdbd6120a90919c7415d2e4afa9dd) | EQDnNof1yihA_JtXc70AZJCgw5_b1hIKkJGcdBXS5K-p3S-_
 [Toned Ape Coin](https://tonviewer.com/0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0) | EQDYIz3EJa1GPp78qEvG0ZjFJoSsBbSo2i-n00lb-h5D8HxT
 [TonexCoin](https://tonviewer.com/0:7e6a33328b9f9628880e1e76ce180a5f7245066e5ead0e4dd0b7c3ca99bfb12c) | EQB-ajMyi5-WKIgOHnbOGApfckUGbl6tDk3Qt8PKmb-xLAvp
