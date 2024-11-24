@@ -109,6 +109,7 @@ Name           | Address
 [Ape by Ton](https://tonviewer.com/0:01056fee89f91332fbd1d0f1eadcda0d1c34c3a04812313a14f2869390ef8789) | EQABBW_uifkTMvvR0PHq3NoNHDTDoEgSMToU8oaTkO-Hif5A
 [AquaUSD](https://tonviewer.com/0:160f2c40452977a25d86d5130b3307a9af7bfa4deaf996cde388096178ab2182) | EQAWDyxARSl3ol2G1RMLMwepr3v6Ter5ls3jiAlheKshgg0K
 [AquaXP](https://tonviewer.com/0:dc94dd61ffcfe3ce97d79da86325db67e10613269cb948d6b553357c3db5d462) | EQDclN1h_8_jzpfXnahjJdtn4QYTJpy5SNa1UzV8PbXUYl8g
+[ArixDEX](https://tonviewer.com/0:8b53a2883e36496e1c989517c435cde741c9360d6ba5b14ab68093f25842bdc1) | EQCLU6KIPjZJbhyYlRfENc3nQck2DWulsUq2gJPyWEK9wfDd
 [Azure](https://tonviewer.com/0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2) | EQCj2tbgoppYqw7t_CLcj3nZnRhODIQDlcHvJpD7jl0jokNT
 [BANANA](https://tonviewer.com/0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0) | EQDgyXtVBaUTYrNIYEyVTOIUCWItOPlj5eViJH7URrFI8DDR
 [BARASH](https://tonviewer.com/0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd) | EQD39LNnyg6uEQv5jqkF76F45VY4sszDqqz2N8KbL1QQ3XPr

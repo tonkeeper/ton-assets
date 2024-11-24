@@ -122,6 +122,21 @@
   ]
  },
  {
+  "address": "0:8b53a2883e36496e1c989517c435cde741c9360d6ba5b14ab68093f25842bdc1",
+  "decimals": 9,
+  "description": "ArixDEX is a cross-chain solution that enables seamless token transfers across multiple blockchain networks (TON, Fantom, Ethereum, BSC, Base and Solana). Designed to optimize trading efficiency, ArixDEX provides a secure and decentralized environment for users to exchange digital assets without relying on centralized intermediaries. The network also features a governance token, ARIX, and an innovative Telegram bot for token mining, fostering community engagement and participation.",
+  "image": "https://arix.exchange/logo.png",
+  "name": "ArixDEX",
+  "social": [
+   "https://twitter.com/arixdexofficial",
+   "https://t.me/arixdex"
+  ],
+  "symbol": "ARIX",
+  "websites": [
+   "https://arix.exchange"
+  ]
+ },
+ {
   "address": "EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH",
   "description": "Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/Batymchanin-coin/main/LOGOGOOD2.png",
