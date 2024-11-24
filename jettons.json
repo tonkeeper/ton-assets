@@ -79,6 +79,20 @@
   "symbol": "ARUT"
  },
  {
+  "address": "EQBQTF_AFEN5PM8rYg3rcNbAH86zNbIXKhZjMw3jq8yj-QT6",
+  "description": "$ASTAHOV (SKLAD ASTAHOVA) is a meme token created by the community for the community.",
+  "image": "https://coubnft.mypinata.cloud/ipfs/QmRJjhUEGBCXoKvct5MZCWvieCvFAPMAwktSaY1D59gNBe",
+  "name": "SKLAD ASTAHOVA",
+  "social": [
+   "https://t.me/sklad_astahova",
+   "https://x.com/SKLADASTAHOVA"
+  ],
+  "symbol": "ASTAHOV",
+  "websites": [
+   "https://astahovcoin.ru/eng"
+  ]
+ },
+ {
   "address": "0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2",
   "decimals": 9,
   "description": "The cutest dog on TON",
