@@ -1,7 +1,7 @@
-name: Cryptaskr Token
-description: Unlock rewards with Cryptaskr! Complete tasks to earn points, convert them into CRT tokens, and swap for TON.
+name: "Cryptaskr Token"
+address: 0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d
+description: "Unlock rewards with Cryptaskr! Complete tasks to earn points, convert them into CRT tokens, and swap for TON."
 image: "https://token.cryptaskr.com/token-image.png"
-address: EQAbdeMKZK5bzKU6ko6a9wMDpbEiPwK_COa_20FEPcspXa33
 symbol: CRT
 websites:
   - "https://cryptaskr.com"
