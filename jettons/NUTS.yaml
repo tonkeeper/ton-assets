@@ -1,4 +1,8 @@
 symbol: NUTS
+description: NUTS is not just a meme coin launched on BLUM. It’s a full-fledged gaming app with rewards
 address: EQB4xBFt2Wbs8EVAZDPmZ9ua0e55-ucRW_Zd0LNue59Wic_U
 name: "NUTS"
 decimals: 9
+social:
+  - "https://x.com/nutscrypto_meme"
+  - "https://twitter.com/fanzeelabs"
