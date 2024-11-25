@@ -454,6 +454,9 @@
 - address: 0:1656fdb1eadc6873935e97d0a5b5b7d848130e39fd11f6c6fb1a7a98fb89dc9a
   name: Holy Coin
   symbol: HOLY
+- address: 0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc
+  name: Hipo Governance Token
+  symbol: HPO
 - address: 0:f83f7d94d74b2736821abe8aba7183d3411f367b00233b6d1ea6282b59102ea7
   name: Hydra
   symbol: HYDRA
