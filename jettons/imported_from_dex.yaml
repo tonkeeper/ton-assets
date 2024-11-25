@@ -1226,6 +1226,9 @@
 - address: 0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5
   name: Vincere
   symbol: VC
+- address: 0:491153a8b7e25ccfa6e3e3985454d447847643b6e17bb6ce592488235bfb6506
+  name: Vilarso
+  symbol: VILARSO
 - address: 0:f49a2c6d7edc3be8551c574365d2842608f6c9f3a0d42c635be360353cec590a
   name: VIP Coin
   symbol: VIP
