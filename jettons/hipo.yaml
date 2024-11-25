@@ -1,8 +1,7 @@
-- address: 0:b14b6c4ebc1bc70baceb9b216cdf532d16f0fb96b965b1f4b04dca8eb7915c9f
+- address: 0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc
   name: Hipo Governance Token
   symbol: HPO
-  description: Offering profit shares, exclusive perks, and voting power.
-  image: https://hpo.hipo.finance/HPO.png
+  image: https://hpo.hipo.finance/hpo.png
   websites:
     - https://hpo.hipo.finance
   social:
