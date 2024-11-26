@@ -1,6 +1,7 @@
 address: EQAIalTAgWuKTauWxQ9GDxstb_RGEARS8vfd_NbSpZPQtN21
 symbol: GEEKS
 name: GEEKS
+images: "https://app.geeks.finance/assets/img/geeks_logo.png"
 decimals: 9
 social:
   - "https://t.me/GEEKS_house"
