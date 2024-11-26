@@ -340,3 +340,7 @@
   name: "Wallet in Telegram"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQBYlghPFM5pd05MWodM3LxCTGi2p9njRBYiiEBID9meCByX"
+  name: "Beeharvest"
+  require_memo: true
+  image: "https://api.beeharvest.life/upload/ambr.png"
