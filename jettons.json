@@ -218,6 +218,20 @@
   "symbol": "BOLT"
  },
  {
+  "address": "EQBNQP99hnmms5G9pBQaVmC_SZoIdJExqj1jLLCv1OflgzgA",
+  "description": "BONES is the next big meme coin on TON dedicated to famous DOGS",
+  "image": "https://bonesclub.me/media/e216c49a3f56b57b299af1a67f26ea26.png",
+  "name": "BONES Club",
+  "social": [
+   "https://t.me/the_bones_club",
+   "https://x.com/bonesclub_"
+  ],
+  "symbol": "BONES",
+  "websites": [
+   "https://bonesclub.me"
+  ]
+ },
+ {
   "address": "0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3",
   "description": "The first baby meme coin on TON with a utility that's first of its kind, a multisig wallet as a telegram bot with free access to Baby Redo holders.",
   "image": "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/bredo.jpg",
