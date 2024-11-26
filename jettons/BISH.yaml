@@ -1,0 +1,13 @@
+version: 1
+name: "BISH"
+symbol: "BISHKEK"
+description: "BishkekToken (BISH) — это уникальный цифровой актив, созданный для продвижения и поддержки города Бишкек, столицы Кыргызстана. Этот токен символизирует объединение сообщества, развитие городской инфраструктуры и популяризацию культурного наследия региона.
+
+BishkekToken можно использовать для различных городских инициатив, таких как поддержка местных проектов, проведение мероприятий и внедрение современных финансовых технологий в городской жизни."
+image: "https://github.com/tazhibaevnurs/BISH-token/blob/main/Flag_of_Bishkek_Kyrgyzstan.svg.svg" 
+decimals: 9
+address: "EQA3Xsi-TdevIkhuAJQKG3p5L7ZBohpO5X9hwSDDmlgwk4ue"
+website: ""
+socials:
+  - telegram: "https://t.me/bishToken"
+  - twitter: ""
