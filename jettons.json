@@ -2911,6 +2911,21 @@
   ]
  },
  {
+  "address": "0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542",
+  "description": "In July 2012, Yume, a 3-month-old female Akita puppy, was sent from Tokyo, Japan to Moscow as a gesture of gratitude from Akita Prefecture for Russia\u2019s aid after the 2011 T\u014dhoku earthquake and tsunami. The puppy\u2019s name, Yume, translates to \u201cdream\u201d in Japanese. (launched on \u26fd\ufe0f GasPump)",
+  "image": "https://raw.githubusercontent.com/yumeonton/LOGO/refs/heads/main/200x200.png",
+  "name": "Vladimir Putin's Dog",
+  "social": [
+   "https://t.me/yumeonton",
+   "https://t.me/tontrendingnft",
+   "https://www.x.com/yumeonton"
+  ],
+  "symbol": "YUME",
+  "websites": [
+   "https://www.yumeonton.com/"
+  ]
+ },
+ {
   "address": "EQBv2cEJ-T-1GNRdzaY_JYoJvpAISuFHOKmJZPQnoUqEHTlU",
   "description": "$AMBER is a token created by AmberTON, a company that develops useful and free applications and games for TON users. The $AMBER token serves as a tool for interaction within the AmberTON ecosystem, allowing users to earn rewards for participating in projects, improving, and testing applications. The main goal is to create an accessible environment where everyone can benefit from and enjoy using TON-based technologies.",
   "image": "https://api.beeharvest.life/upload/ambr.png",
@@ -5229,11 +5244,6 @@
   "address": "0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72",
   "name": "Meme Inc",
   "symbol": "YOBA"
- },
- {
-  "address": "0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542",
-  "name": " Vladimir Putin's Dog",
-  "symbol": "YUME"
  },
  {
   "address": "0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11",
