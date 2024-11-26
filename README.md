@@ -625,6 +625,7 @@ Name           | Address
 [SybilZero](https://tonviewer.com/0:b2fd9a3f6a174209c0f21906b3b8054a59af0a496f77d23d5523c93d65025807) | EQCy_Zo_ahdCCcDyGQazuAVKWa8KSW930j1VI8k9ZQJYB4_V
 [T-Project Jetton](https://tonviewer.com/0:57e2bba1e75227dbfb0b2ba196f262a32526ada14a7cc4c3b160f123b12877cb) | EQBX4ruh51In2_sLK6GW8mKjJSatoUp8xMOxYPEjsSh3y_CB
 [TAKEN](https://tonviewer.com/0:0458dc1dc193b509c44fb11c4cb51d0eb67eff19dfcad5a050b179439a75c420) | EQAEWNwdwZO1CcRPsRxMtR0Otn7_Gd_K1aBQsXlDmnXEIDfv
+[TAP KING](https://tonviewer.com/0:cf04481dc80292b832ffd9a6d55bee6a412d17e41126a9eff84f007497e2c908) | EQDPBEgdyAKSuDL_2abVW-5qQS0X5BEmqe_4TwB0l-LJCLOA
 [TCoin](https://tonviewer.com/0:57c0c1aca2e5330ad31b1e671e50f49b1c86f88b7107588edae8d11fe424f2a3) | EQBXwMGsouUzCtMbHmceUPSbHIb4i3EHWI7a6NEf5CTyozI9
 [TDOG](https://tonviewer.com/0:f85d35d625ec2e36d9e12864e465a3f4c2c2ef4323609155dc3cb5b9ccf4d077) | EQD4XTXWJewuNtnhKGTkZaP0wsLvQyNgkVXcPLW5zPTQdykb
 [TFOX](https://tonviewer.com/0:b4d27996002b23f372e99c5640e2bd700c707876765d4e7908f0d264bbb8c5c6) | EQC00nmWACsj83LpnFZA4r1wDHB4dnZdTnkI8NJku7jFxirg
