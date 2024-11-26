@@ -1,8 +1,9 @@
-{
-  "address": "0:5639454a573c7f5ea92c62b3a05e183a5cd96ff56ce578c26aac27e93d075877",
-  "name": "DUROVMP3",
-  "symbol": "DUROV",
-  "decimals": "9",
-  "image": "https://cache.tonapi.io/imgproxy/-4E2WrJrewzEnS7PSVQYHOjFqAGi8weXxzwB8COQU98/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvaDR3MENGMDYvVW50aXRsZWQtZGVzaWduLnBuZw.webp",
-  "description": "WE ARE HERE!"
-}
+```yaml
+name: DUROVMP3
+description: WE ARE HERE!
+image: https://raw.githubusercontent.com/Nhello99/Logo/refs/heads/main/Untitled%20design.png
+address: 0:5639454a573c7f5ea92c62b3a05e183a5cd96ff56ce578c26aac27e93d075877
+symbol: DUROV
+socials: https://t.me/durovmp3portal
+  - 
+```
