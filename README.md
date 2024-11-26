@@ -760,6 +760,7 @@ Name           | Address
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
 [VIP Coin](https://tonviewer.com/0:f49a2c6d7edc3be8551c574365d2842608f6c9f3a0d42c635be360353cec590a) | EQD0mixtftw76FUcV0Nl0oQmCPbJ86DULGNb42A1POxZCk3U
 [VISHNYA](https://tonviewer.com/0:832092854dfe50a168a2ebefca4e4f1ba3a78a891fba864e47510c22c427bc49) | EQCDIJKFTf5QoWii6-_KTk8bo6eKiR-6hk5HUQwixCe8SW-I
+[VLODMER SMERKS](https://tonviewer.com/0:21010f117449c3af9d8b0a9c2d07eed341cc5d0b95bb6d2de8c79f8a4a35705e) | EQAhAQ8RdEnDr52LCpwtB-7TQcxdC5W7bS3ox5-KSjVwXlOJ
 [VNST Token](https://tonviewer.com/0:f0357fc5b38b7f3ee523cb7ad965771ca070b867216a0239f3d2fcb285f8a390) | EQDwNX_Fs4t_PuUjy3rZZXccoHC4ZyFqAjnz0vyyhfijkMk0
 [VOMER](https://tonviewer.com/0:6d14df21f1d4ad4ef239f2d11273f4bbd1e86404b4aecd0a8283904b210c8a30) | EQBtFN8h8dStTvI58tESc_S70ehkBLSuzQqCg5BLIQyKMBC1
 [VZGLYAD AVTORA](https://tonviewer.com/0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a) | EQAC7ARsJ6ScpxGXPKK3-w2hXvGiDTfE9wlxN02HmaLtKhvw
