@@ -123,7 +123,6 @@ Name           | Address
 [BLT](https://tonviewer.com/0:37d2215ef1b742ed92b0f7891ecbc500db501ecb81435714364d60dc4136762e) | EQA30iFe8bdC7ZKw94key8UA21Aey4FDVxQ2TWDcQTZ2LsJf
 [BLUPE](https://tonviewer.com/0:a7964987cf9c929552df794ab33e4ea96a3c39bdd538f09ccbe9282f02cfaf86) | EQCnlkmHz5ySlVLfeUqzPk6pajw5vdU48JzL6SgvAs-vhmSR
 [BOLTWIFSOCK](https://tonviewer.com/0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c) | EQARb2CYeCT73K-a_cWXycgbcWlleEx4fq4RCbZ7cWBtPN8s
-[BONES Club](https://tonviewer.com/0:4d40ff7d8679a6b391bda4141a5660bf499a08749131aa3d632cb0afd4e7e583) | EQBNQP99hnmms5G9pBQaVmC_SZoIdJExqj1jLLCv1OflgzgA
 [BOOBA Coin](https://tonviewer.com/0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81) | EQCavQv8vsZ1waQnqz3lmGEw2HkUM2clUrzjJotwpwzrgcx4
 [BORIS](https://tonviewer.com/0:bf06bf7f705232c2b2a80064770b91019eb32b5ae794d33a90fb43ac95daa800) | EQC_Br9_cFIywrKoAGR3C5EBnrMrWueU0zqQ-0OsldqoADyW
 [BORIS PIXEL](https://tonviewer.com/0:a0142bd9095eaaa81fb629e97a0ff915e33116e0514e41f615e0a0c335310974) | EQCgFCvZCV6qqB-2Kel6D_kV4zEW4FFOQfYV4KDDNTEJdItn
