@@ -92,7 +92,7 @@
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/huobi_288.svg"
 - address: "EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB"
   name: "Huobi"
-  require_memo: true 
+  require_memo: true
 - address: "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd"
   name: "Mobile"
   require_memo: true
@@ -131,7 +131,7 @@
   require_memo: true
   image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQBKHz68xmvc76kCRb31QaUK2hxoikh1NLFYer_9kwOINDtf"
-  name: "Bybit 2" 
+  name: "Bybit 2"
   require_memo: true
   image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "UQDNUlwVkE17QCfq4IsxhiQmDzcc6Mn0_MoM23tYOFQQfBIU"
@@ -188,7 +188,7 @@
 - address: "EQDftQdPITnb-x8-gj3f15dtpQbn94F1yYxiftLoQPeGBizQ"
   name: "FixedFloat"
   require_memo: true
-  image: "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg" 
+  image: "https://fixedfloat.com/assets/images/brand/fixedfloat/brand-icon-whitebg.svg"
 - address: "EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q"
   name: "Gate.io"
   require_memo: true
@@ -215,10 +215,10 @@
   require_memo: true
 - address: "UQBqWnahU4z5WWWQ7DcIRwZJw0JiS_kuY6anoVJU7e2pBEZK"
   name: "Bitfinex"
-  require_memo: true  
+  require_memo: true
 - address: "UQBZsGXF1mJhpTF2YOlu7kdqpqEbdJvcvowNHz2_JCANHCo7"
   name: "OMPFinex"
-  require_memo: true  
+  require_memo: true
 - address: "UQAscR8-n759ngxVUOmPDOzue7CfBt_xIr-bi7kex_yd5CQr"
   name: "SportsBet.io"
   require_memo: true
@@ -230,7 +230,7 @@
   require_memo: true
 - address: "UQCaWCwjJmuOpH63ERijwEDUKyMLImb-z_4tPNOQwJIsNZuT"
   name: "BigOne"
-  require_memo: true  
+  require_memo: true
 - address: "UQDdUoUFrxXG5SBr3Y9smjtUH4DKmK6KUGarP_jeH_XmeM3K"
   name: "Farhad Exchange"
   require_memo: true
@@ -340,3 +340,7 @@
   name: "Wallet in Telegram"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQBYlghPFM5pd05MWodM3LxCTGi2p9njRBYiiEBID9meCByX"
+  name: "Beeharvest"
+  require_memo: true
+  image: "https://api.beeharvest.life/upload/ambr.png"
