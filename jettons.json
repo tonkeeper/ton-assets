@@ -93,6 +93,16 @@
   ]
  },
  {
+  "address": "0:71937f4dd0ebe99090774bb63726a65799f9ba9b37f496bc9c109251f4619a83",
+  "description": "Utility token for Absurd Territory project",
+  "image": "https://absurd.coliseum-game.ru/imgs/aterra.png",
+  "name": "Absurd Territory",
+  "social": [
+   "https://t.me/aterra_official"
+  ],
+  "symbol": "ATERRA"
+ },
+ {
   "address": "0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2",
   "decimals": 9,
   "description": "The cutest dog on TON",
