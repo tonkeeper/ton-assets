@@ -1769,6 +1769,21 @@
   ]
  },
  {
+  "address": "0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530",
+  "decimals": 9,
+  "description": "PONCH is the native token of the Ponchiqs Game Studio, driving utility across all games and platforms. Use PONCH to purchase in-game items, trade NFTs, stake for rewards, and access exclusive content. Whether it\u2019s upgrading characters, earning rewards in tournaments, or buying collectible merchandise, PONCH connects players to an immersive, rewarding gaming experience. Play, earn, and own with PONCH \u2014 your gateway to the Ponchiqs ecosystem.",
+  "image": "https://cdnipfs.blob.core.windows.net/cdn/ponch/ponch.png",
+  "name": "Ponchiqs",
+  "social": [
+   "https://t.me/ponchiqs",
+   "https://x.com/ponchiqs"
+  ],
+  "symbol": "PONCH",
+  "websites": [
+   "https://ponchiqs.com/"
+  ]
+ },
+ {
   "address": "EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK",
   "description": "POO is a utility-based memecoin launched by the team behind Godex.fi",
   "image": "https://imagedelivery.net/__7OzTpQdb1LdIHM_a20MQ/57fdfbaf-1a0d-41ef-dadd-835eae931e00/public",
