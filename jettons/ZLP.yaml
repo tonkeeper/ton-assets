@@ -1,0 +1,10 @@
+name: Zalupa
+description: "Memecoin with community driven options. Blockchain poetry."
+image: "https://cache.tonapi.io/imgproxy/j9_xdQnexxyXjT73FLQ_VBd8A8BaqC6TgHZN-C-IgNM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9iaWdwdW1wLmZyYTEuY2RuLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vcHJvZC84YzJjMTNhZV9EMDgzOUIwRS0zQjdDLTRDRjktOEYzRC01NTIwOTk3NThBN0EuanBlZw.webp"
+address: EQBaIL7480HbrlCSlqaPRW7sZ6wFhoCzuVQWbp9RC838AO33
+symbol: ZLP
+decimals: 9
+websites:
+  - "https://zalupa.app"
+social:
+  - "https://t.me/zlp_jetton"
