@@ -1,0 +1,10 @@
+name: Epichost
+description: "The Epic coin on TON"
+image: "https://www.epichost.in/ui/resellerdata/660000_689999/675394/supersite2/supersite/themes/EliteGreen-epichost/images/myUploadedImages/epichostlogo.png"
+address: 0:298a7253f59255d6663d36cf3b4cd7fac25bc7846261f2e503e232157b6e6e1f
+symbol: Epic
+decimals: 9
+websites:
+  - "https://epichost.in"
+social:
+  - "https://t.me/TheEpicCoin"
