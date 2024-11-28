@@ -584,6 +584,7 @@ Name           | Address
 [SAUD](https://tonviewer.com/0:2dcbb7322c88c5ed4f8ad15806fe0724b1300ab482e46c908d8cf62567ce5c09) | EQAty7cyLIjF7U-K0VgG_gcksTAKtILkbJCNjPYlZ85cCZAA
 [SCAM](https://tonviewer.com/0:b9d88ddcdab999a546afd0bad4eaaef0b97a139a13889ef68584a8d9e90b82e6) | EQC52I3c2rmZpUav0LrU6q7wuXoTmhOInvaFhKjZ6QuC5tV5
 [SEED](https://tonviewer.com/0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719) | EQAtwmCISetV3ncZRb1QDiHcbSgfo-Y37-zPL6NhedGHGaTf
+[SHEGLOV](https://tonviewer.com/0:8ddbb8429c234147a826dc4a1ac48c78cd3b6fedf2c612b5740e8cdd7b3ace54) | EQCN27hCnCNBR6gm3EoaxIx4zTtv7fLGErV0DozdezrOVBGI
 [SHEP the Dogonaut](https://tonviewer.com/0:3aa3ef1881b139913aab813448194b10073238179d322b9388c151d1985028b5) | EQA6o-8YgbE5kTqrgTRIGUsQBzI4F50yK5OIwVHRmFAotdVO
 [SHIC Coin](https://tonviewer.com/0:c1ad99ba1a487cb3763dd8d7d42a1ef567084a666670d08804d63ddee9901fba) | EQDBrZm6Gkh8s3Y92NfUKh71ZwhKZmZw0IgE1j3e6ZAfuqbd
 [SHIVA the cat on Ton](https://tonviewer.com/0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc) | EQAQAYqUr9IDiiMQKvXXHtLhT77WvbhH7VGhvPPJmBVF3O7y
