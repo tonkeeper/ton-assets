@@ -643,6 +643,20 @@
   "symbol": "DILS"
  },
  {
+  "address": "EQDmo04M0R-61EW7T5qOvydXMWxldS3-7ksoHSSne5U_AgW0",
+  "description": "Created by dog \u200b\u200blovers for dog lovers.",
+  "image": "https://dogefi.org/dogefi-icon.png",
+  "name": "DogeFi",
+  "social": [
+   "https://t.me/dogefichat",
+   "https://x.com/tg_cryprouser"
+  ],
+  "symbol": "DOGEFI",
+  "websites": [
+   "https://dogefi.org"
+  ]
+ },
+ {
   "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
   "name": "Dogs",
   "symbol": "DOGS"
