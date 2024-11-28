@@ -1,12 +1,15 @@
-name: Degrees°
-description: Angles
+name: "Degrees"
+description: "Angles"
 
-→ channel @degrees, @prodegrees
-→ community @degreeston
-→ not clicker @prodegreesbot
+links:
+  channel:
+    - "https://degrees.t.me"
+    - "https://prodegrees.t.me"
+  community: "https://degreeston.t.me"
+  bot: "https://prodegreesbot.t.me"
 
-/\/\/ º
-image: "https://i.getgems.io/XfB09VekpTDCcqe0LoxA1QmPJIFqhYtzf7dlo0-fY58/rs:fill:200:200:1/g:ce/att:1/czM6Ly9nZXRnZW1zLW5mdC9uZnQvYy82NWZkODY0OWIzMmMxNTY5YjJiZGQwNjIvYXZhdGFyLzUxMjU4NS5zdmc"
+symbol: "/\\/\\/ º"
+image: "https://raw.githubusercontent.com/msilenkov/ONE/245f76be45fc9e32a60de758bf8c39e5dce99cd7/degrees.svg"
 address: "0:f2bd3b92c32358d75b6eb78e053e41b30fd3d46cd70f814ff005afb4aeecee1a"
 social:
   - "https://t.me/degrees"
