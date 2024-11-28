@@ -174,6 +174,15 @@
   ]
  },
  {
+  "address": "0:aeda1bf9c5fe358ac5b95045c4c10909056e4790dedaae3082c8f3e9a2fca4cf",
+  "image": "https://crypto-billions.github.io/resources/icon.png",
+  "name": "BITON",
+  "symbol": "BITON",
+  "websites": [
+   "https://www.cryptobillions.org"
+  ]
+ },
+ {
   "address": "0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e",
   "decimals": 9,
   "description": "PIXEL [BITPIX] is a token based on the decentralized and high-speed blockchain technologies of The Open Network.",
@@ -242,6 +251,18 @@
    "https://t.me/boltlink"
   ],
   "symbol": "BOLT"
+ },
+ {
+  "address": "EQBdyXiXNlJUwd6Db5nRNvlaJPBYxXOcJF6KR4KG5DQZQ4xk",
+  "description": "Booli is a promising NFT project working on the $BOOLI token.",
+  "image": "https://i.ibb.co/mbYCFtt/BOOLI-2.png",
+  "name": "Booli",
+  "social": [
+   "https://t.me/nftbooli",
+   "https://t.me/boolichat",
+   "https://x.com/NFT_BULL_2024"
+  ],
+  "symbol": "BOOLI"
  },
  {
   "address": "0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3",
@@ -371,6 +392,19 @@
   "symbol": "COPA",
   "websites": [
    "https://cocopark.io/"
+  ]
+ },
+ {
+  "address": "0:8faa11816423ad414671fa4e437041a9e5741991d7d03947ea58ae99d0ba3abd",
+  "description": "COSA NOSTRA is a crypto community token. Become a part of the community - HOLD and watch your balance grow!",
+  "image": "https://i.imgur.com/bJaMEkF.png",
+  "name": "COSA NOSTRA",
+  "social": [
+   "https://t.me/Cosa_Nostra_RU"
+  ],
+  "symbol": "COSA",
+  "websites": [
+   "https://crypto-cosanostra.io/"
   ]
  },
  {
@@ -609,6 +643,20 @@
   "symbol": "DILS"
  },
  {
+  "address": "EQDmo04M0R-61EW7T5qOvydXMWxldS3-7ksoHSSne5U_AgW0",
+  "description": "Created by dog \u200b\u200blovers for dog lovers.",
+  "image": "https://dogefi.org/dogefi-icon.png",
+  "name": "DogeFi",
+  "social": [
+   "https://t.me/dogefichat",
+   "https://x.com/tg_cryprouser"
+  ],
+  "symbol": "DOGEFI",
+  "websites": [
+   "https://dogefi.org"
+  ]
+ },
+ {
   "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
   "name": "Dogs",
   "symbol": "DOGS"
@@ -661,6 +709,21 @@
    "https://t.me/notduckcoin"
   ],
   "symbol": "DUCK"
+ },
+ {
+  "address": "EQAst_WeG36CEhCoW6mOg4FU5nctQcgRvp7FYuNkxfwKS5UC",
+  "description": "The token that took 1 place in the BlumMemePad Best Token Competition. DURKA is something that is often done in the crypto market.",
+  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/LOGO_DURKA.png",
+  "name": "DURKA",
+  "social": [
+   "https://t.me/durkatoken",
+   "https://x.com/DurkaToken",
+   "https://www.youtube.com/channel/UCOCRvYxXQmuCOiFNuGUiFgg"
+  ],
+  "symbol": "DURKA",
+  "websites": [
+   "https://www.durka.org"
+  ]
  },
  {
   "address": "EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et",
@@ -824,6 +887,21 @@
   "symbol": "ENRG"
  },
  {
+  "address": "0:dd3dfe7f338e77aa06028c6d28d48d52abf252eaa097517f9391a4cd4641fe1c",
+  "description": "Fly Beyond Limits! || finchcoin.org",
+  "image": "https://finchcoin.org/finchlogo_300.jpg",
+  "name": "Finch Coin",
+  "social": [
+   "https://t.me/FinchCoin_org",
+   "https://t.me/FinchAirdropBot",
+   "https://x.com/FinchCoin_org"
+  ],
+  "symbol": "FINCH",
+  "websites": [
+   "https://finchcoin.org"
+  ]
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
@@ -932,6 +1010,21 @@
   "symbol": "GDV",
   "websites": [
    "https://goldverse.io"
+  ]
+ },
+ {
+  "address": "EQA42um-pf3bJ6KH08Fv8-ALGOt0a4-460etgeaydJjYRu-O",
+  "decimals": 9,
+  "description": "GECKO \u2014 In the world of beasts b\u0435 \u0430 gecko, just chill.",
+  "image": "https://raw.githubusercontent.com/11g13g/gecko/refs/heads/main/gecko.jpeg",
+  "name": "GECKO",
+  "social": [
+   "https://t.me/gecko_in_hoodie",
+   "https://x.com/gecko_in_hoodie"
+  ],
+  "symbol": "$GECKO",
+  "websites": [
+   "https://geckoinhoodie.xyz/"
   ]
  },
  {
@@ -1983,6 +2076,20 @@
   ]
  },
  {
+  "address": "0:051a19b1d7df681fa9262fbf0f1811f2031e1de4288975f5f04a30cae45e4817",
+  "description": "Automated yield farming aggregator",
+  "image": "https://raw.githubusercontent.com/Beetroot-fi/contracts/refs/heads/master/LOGO.PNG",
+  "name": "Beetroot",
+  "social": [
+   "https://t.me/BeetrootFinance",
+   "https://x.com/beetroot_fi"
+  ],
+  "symbol": "ROOT",
+  "websites": [
+   "https://app.beetroot.finance"
+  ]
+ },
+ {
   "address": "EQCweXSZaX5k5xOtXLbGgfF8FY6Dbg6rNiPrd9d0f_-kDSHZ",
   "description": "E/acc token for digital life",
   "name": "RubeTON",
@@ -2037,6 +2144,19 @@
   "symbol": "SAFET",
   "websites": [
    "https://safemoonton.com"
+  ]
+ },
+ {
+  "address": "EQCN27hCnCNBR6gm3EoaxIx4zTtv7fLGErV0DozdezrOVBGI",
+  "description": "SHEGLOV \u0441\u0435\u0433\u043e\u0434\u043d\u044f - \u0434\u043e\u0440\u043e\u0436\u0435, \u0447\u0435\u043c \u0432\u0447\u0435\u0440\u0430",
+  "image": "https://drive.google.com/file/d/1G6GDzH-r6moHtitD-2vTXe2jbq5VfcQZ/view?usp=sharing",
+  "name": "SHEGLOV",
+  "social": [
+   "https://www.tiktok.com/@oleg_sheglov"
+  ],
+  "symbol": "SHEGLOV",
+  "websites": [
+   "https://t.me/oleg_sheglov"
   ]
  },
  {
@@ -3089,7 +3209,7 @@
   "symbol": "hTON1"
  },
  {
-  "address": "UQCeObLCa6FoY3Xa7ZOwKX9aWoQk34M9TaHGWEhpj0wjne78",
+  "address": "EQB_frCufFqUGVQuDd8UiNO9O1skgO0gzsSEpjHZ-wykdBD3",
   "description": "1st iranian tech group token for teach people about cryptocurrencies and how to use them to make moneys and much more .",
   "image": "https://s6.uplod.ir/i/01140/gnhjvxu90rtg.png",
   "name": "iOSF1",
