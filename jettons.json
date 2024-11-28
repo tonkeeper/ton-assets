@@ -395,6 +395,19 @@
   ]
  },
  {
+  "address": "0:8faa11816423ad414671fa4e437041a9e5741991d7d03947ea58ae99d0ba3abd",
+  "description": "COSA NOSTRA is a crypto community token. Become a part of the community - HOLD and watch your balance grow!",
+  "image": "https://i.imgur.com/bJaMEkF.png",
+  "name": "COSA NOSTRA",
+  "social": [
+   "https://t.me/Cosa_Nostra_RU"
+  ],
+  "symbol": "COSA",
+  "websites": [
+   "https://crypto-cosanostra.io/"
+  ]
+ },
+ {
   "address": "0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d",
   "description": "Unlock rewards with Cryptaskr! Complete tasks to earn points, convert them into CRT tokens, and swap for TON.",
   "image": "https://token.cryptaskr.com/token-image.png",
