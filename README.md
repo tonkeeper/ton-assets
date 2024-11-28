@@ -143,6 +143,7 @@ Name           | Address
 [Bayerische Motoren Werke AG Coin](https://tonviewer.com/0:66f143ad8511cc1abeab0ac351355c0502b6077163a0c3aa408f8259d91890fb) | EQBm8UOthRHMGr6rCsNRNVwFArYHcWOgw6pAj4JZ2RiQ-yI1
 [Bear Coin](https://tonviewer.com/0:6dbfb237a59a4c0140a179fd95ae4f94d46702134d2b44eb8780c27d0af8e875) | EQBtv7I3pZpMAUChef2Vrk-U1GcCE00rROuHgMJ9CvjodRZW
 [Bear Country Token](https://tonviewer.com/0:2fbc476ae31e4aea8c23b0c2385fa0312a44c15d52885648921c32edea2d8b16) | EQAvvEdq4x5K6owjsMI4X6AxKkTBXVKIVkiSHDLt6i2LFnnQ
+[Beetroot](https://tonviewer.com/0:051a19b1d7df681fa9262fbf0f1811f2031e1de4288975f5f04a30cae45e4817) | EQAFGhmx199oH6kmL78PGBHyAx4d5CiJdfXwSjDK5F5IFyfC
 [Big Catch](https://tonviewer.com/0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41) | EQD5LIYmzzDMDXPkXeO48Yqj3Y76WiLoFcMkuPz4KptPQeKy
 [Billionaire Boys Club](https://tonviewer.com/0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e) | EQBN2iDBrdAVRXz95RJbcftDCYZYDZmiWB4cbyZDj8h7Xn6c
 [Birbcoin](https://tonviewer.com/0:826959dd795512bbc1a3fbd921d0588f8aff236556b2be03eced18c191420264) | EQCCaVndeVUSu8Gj-9kh0FiPiv8jZVayvgPs7RjBkUICZJMA

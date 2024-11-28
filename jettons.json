@@ -2062,6 +2062,20 @@
   ]
  },
  {
+  "address": "0:051a19b1d7df681fa9262fbf0f1811f2031e1de4288975f5f04a30cae45e4817",
+  "description": "Automated yield farming aggregator",
+  "image": "https://raw.githubusercontent.com/Beetroot-fi/contracts/refs/heads/master/LOGO.PNG",
+  "name": "Beetroot",
+  "social": [
+   "https://t.me/BeetrootFinance",
+   "https://x.com/beetroot_fi"
+  ],
+  "symbol": "ROOT",
+  "websites": [
+   "https://app.beetroot.finance"
+  ]
+ },
+ {
   "address": "EQCweXSZaX5k5xOtXLbGgfF8FY6Dbg6rNiPrd9d0f_-kDSHZ",
   "description": "E/acc token for digital life",
   "name": "RubeTON",
