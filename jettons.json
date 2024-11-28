@@ -93,6 +93,16 @@
   ]
  },
  {
+  "address": "0:71937f4dd0ebe99090774bb63726a65799f9ba9b37f496bc9c109251f4619a83",
+  "description": "Utility token for Absurd Territory project",
+  "image": "https://absurd.coliseum-game.ru/imgs/aterra.png",
+  "name": "Absurd Territory",
+  "social": [
+   "https://t.me/aterra_official"
+  ],
+  "symbol": "ATERRA"
+ },
+ {
   "address": "0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2",
   "decimals": 9,
   "description": "The cutest dog on TON",
@@ -164,6 +174,15 @@
   ]
  },
  {
+  "address": "0:aeda1bf9c5fe358ac5b95045c4c10909056e4790dedaae3082c8f3e9a2fca4cf",
+  "image": "https://crypto-billions.github.io/resources/icon.png",
+  "name": "BITON",
+  "symbol": "BITON",
+  "websites": [
+   "https://www.cryptobillions.org"
+  ]
+ },
+ {
   "address": "0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e",
   "decimals": 9,
   "description": "PIXEL [BITPIX] is a token based on the decentralized and high-speed blockchain technologies of The Open Network.",
@@ -173,6 +192,22 @@
    "http://t.me/TheOpenPixel"
   ],
   "symbol": "BITPIX"
+ },
+ {
+  "address": "EQD_tFz9JQRVZNMgy3bzvnzei9deo9qc5NMtumG4_sx1zZRc",
+  "decimals": 9,
+  "description": "The First National Cryptocurrency of Chuvashia. Instrument of support of Chuvash independence, culture, projects and privatization",
+  "image": "https://raw.githubusercontent.com/ChuvashiaBulgaria/PublicDocs/refs/heads/main/bulcoin.jpg",
+  "name": "BulCoin",
+  "social": [
+   "https://t.me/bulcoin_blc",
+   "https://t.me/chuvash_crypto",
+   "https://x.com/Bulcoin_BLC"
+  ],
+  "symbol": "BLC",
+  "websites": [
+   "https://bulcoin.ton.run/"
+  ]
  },
  {
   "address": "EQA30iFe8bdC7ZKw94key8UA21Aey4FDVxQ2TWDcQTZ2LsJf",
@@ -216,6 +251,18 @@
    "https://t.me/boltlink"
   ],
   "symbol": "BOLT"
+ },
+ {
+  "address": "EQBdyXiXNlJUwd6Db5nRNvlaJPBYxXOcJF6KR4KG5DQZQ4xk",
+  "description": "Booli is a promising NFT project working on the $BOOLI token.",
+  "image": "https://i.ibb.co/mbYCFtt/BOOLI-2.png",
+  "name": "Booli",
+  "social": [
+   "https://t.me/nftbooli",
+   "https://t.me/boolichat",
+   "https://x.com/NFT_BULL_2024"
+  ],
+  "symbol": "BOOLI"
  },
  {
   "address": "0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3",
@@ -345,6 +392,36 @@
   "symbol": "COPA",
   "websites": [
    "https://cocopark.io/"
+  ]
+ },
+ {
+  "address": "0:8faa11816423ad414671fa4e437041a9e5741991d7d03947ea58ae99d0ba3abd",
+  "description": "COSA NOSTRA is a crypto community token. Become a part of the community - HOLD and watch your balance grow!",
+  "image": "https://i.imgur.com/bJaMEkF.png",
+  "name": "COSA NOSTRA",
+  "social": [
+   "https://t.me/Cosa_Nostra_RU"
+  ],
+  "symbol": "COSA",
+  "websites": [
+   "https://crypto-cosanostra.io/"
+  ]
+ },
+ {
+  "address": "0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d",
+  "description": "Unlock rewards with Cryptaskr! Complete tasks to earn points, convert them into CRT tokens, and swap for TON.",
+  "image": "https://token.cryptaskr.com/token-image.png",
+  "name": "Cryptaskr Token",
+  "social": [
+   "https://x.com/cryptaskr",
+   "https://t.me/cryptaskr",
+   "https://www.youtube.com/channel/UC_329QsRrTQ9x7XwdNdReUQ",
+   "https://t.me/cryptaskrannouncement",
+   "https://t.me/Cryptaskr_bot/CRT"
+  ],
+  "symbol": "CRT",
+  "websites": [
+   "https://cryptaskr.com"
   ]
  },
  {
@@ -566,6 +643,20 @@
   "symbol": "DILS"
  },
  {
+  "address": "EQDmo04M0R-61EW7T5qOvydXMWxldS3-7ksoHSSne5U_AgW0",
+  "description": "Created by dog \u200b\u200blovers for dog lovers.",
+  "image": "https://dogefi.org/dogefi-icon.png",
+  "name": "DogeFi",
+  "social": [
+   "https://t.me/dogefichat",
+   "https://x.com/tg_cryprouser"
+  ],
+  "symbol": "DOGEFI",
+  "websites": [
+   "https://dogefi.org"
+  ]
+ },
+ {
   "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
   "name": "Dogs",
   "symbol": "DOGS"
@@ -618,6 +709,21 @@
    "https://t.me/notduckcoin"
   ],
   "symbol": "DUCK"
+ },
+ {
+  "address": "EQAst_WeG36CEhCoW6mOg4FU5nctQcgRvp7FYuNkxfwKS5UC",
+  "description": "The token that took 1 place in the BlumMemePad Best Token Competition. DURKA is something that is often done in the crypto market.",
+  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/LOGO_DURKA.png",
+  "name": "DURKA",
+  "social": [
+   "https://t.me/durkatoken",
+   "https://x.com/DurkaToken",
+   "https://www.youtube.com/channel/UCOCRvYxXQmuCOiFNuGUiFgg"
+  ],
+  "symbol": "DURKA",
+  "websites": [
+   "https://www.durka.org"
+  ]
  },
  {
   "address": "EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et",
@@ -781,6 +887,21 @@
   "symbol": "ENRG"
  },
  {
+  "address": "0:dd3dfe7f338e77aa06028c6d28d48d52abf252eaa097517f9391a4cd4641fe1c",
+  "description": "Fly Beyond Limits! || finchcoin.org",
+  "image": "https://finchcoin.org/finchlogo_300.jpg",
+  "name": "Finch Coin",
+  "social": [
+   "https://t.me/FinchCoin_org",
+   "https://t.me/FinchAirdropBot",
+   "https://x.com/FinchCoin_org"
+  ],
+  "symbol": "FINCH",
+  "websites": [
+   "https://finchcoin.org"
+  ]
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
@@ -889,6 +1010,21 @@
   "symbol": "GDV",
   "websites": [
    "https://goldverse.io"
+  ]
+ },
+ {
+  "address": "EQA42um-pf3bJ6KH08Fv8-ALGOt0a4-460etgeaydJjYRu-O",
+  "decimals": 9,
+  "description": "GECKO \u2014 In the world of beasts b\u0435 \u0430 gecko, just chill.",
+  "image": "https://raw.githubusercontent.com/11g13g/gecko/refs/heads/main/gecko.jpeg",
+  "name": "GECKO",
+  "social": [
+   "https://t.me/gecko_in_hoodie",
+   "https://x.com/gecko_in_hoodie"
+  ],
+  "symbol": "$GECKO",
+  "websites": [
+   "https://geckoinhoodie.xyz/"
   ]
  },
  {
@@ -1726,6 +1862,21 @@
   ]
  },
  {
+  "address": "0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530",
+  "decimals": 9,
+  "description": "PONCH is the native token of the Ponchiqs Game Studio, driving utility across all games and platforms. Use PONCH to purchase in-game items, trade NFTs, stake for rewards, and access exclusive content. Whether it\u2019s upgrading characters, earning rewards in tournaments, or buying collectible merchandise, PONCH connects players to an immersive, rewarding gaming experience. Play, earn, and own with PONCH \u2014 your gateway to the Ponchiqs ecosystem.",
+  "image": "https://cdnipfs.blob.core.windows.net/cdn/ponch/ponch.png",
+  "name": "Ponchiqs",
+  "social": [
+   "https://t.me/ponchiqs",
+   "https://x.com/ponchiqs"
+  ],
+  "symbol": "PONCH",
+  "websites": [
+   "https://ponchiqs.com/"
+  ]
+ },
+ {
   "address": "EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK",
   "description": "POO is a utility-based memecoin launched by the team behind Godex.fi",
   "image": "https://imagedelivery.net/__7OzTpQdb1LdIHM_a20MQ/57fdfbaf-1a0d-41ef-dadd-835eae931e00/public",
@@ -1925,6 +2076,20 @@
   ]
  },
  {
+  "address": "0:051a19b1d7df681fa9262fbf0f1811f2031e1de4288975f5f04a30cae45e4817",
+  "description": "Automated yield farming aggregator",
+  "image": "https://raw.githubusercontent.com/Beetroot-fi/contracts/refs/heads/master/LOGO.PNG",
+  "name": "Beetroot",
+  "social": [
+   "https://t.me/BeetrootFinance",
+   "https://x.com/beetroot_fi"
+  ],
+  "symbol": "ROOT",
+  "websites": [
+   "https://app.beetroot.finance"
+  ]
+ },
+ {
   "address": "EQCweXSZaX5k5xOtXLbGgfF8FY6Dbg6rNiPrd9d0f_-kDSHZ",
   "description": "E/acc token for digital life",
   "name": "RubeTON",
@@ -1982,6 +2147,19 @@
   ]
  },
  {
+  "address": "EQCN27hCnCNBR6gm3EoaxIx4zTtv7fLGErV0DozdezrOVBGI",
+  "description": "SHEGLOV \u0441\u0435\u0433\u043e\u0434\u043d\u044f - \u0434\u043e\u0440\u043e\u0436\u0435, \u0447\u0435\u043c \u0432\u0447\u0435\u0440\u0430",
+  "image": "https://drive.google.com/file/d/1G6GDzH-r6moHtitD-2vTXe2jbq5VfcQZ/view?usp=sharing",
+  "name": "SHEGLOV",
+  "social": [
+   "https://www.tiktok.com/@oleg_sheglov"
+  ],
+  "symbol": "SHEGLOV",
+  "websites": [
+   "https://t.me/oleg_sheglov"
+  ]
+ },
+ {
   "address": "0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc",
   "decimals": 9,
   "description": "Real meme cat on TON",
@@ -2008,6 +2186,21 @@
   "symbol": "SLOPY",
   "websites": [
    "https://slopy.io"
+  ]
+ },
+ {
+  "address": "EQAhAQ8RdEnDr52LCpwtB-7TQcxdC5W7bS3ox5-KSjVwXlOJ",
+  "description": "CMO and bezt sembol of Blum \ud83e\udda0",
+  "image": "https://raw.githubusercontent.com/VLODMERSMERKS/SMERKS/refs/heads/main/assets/VLODMER_SMERKS.png",
+  "name": "VLODMER SMERKS",
+  "social": [
+   "https://t.me/vlodmersmerks",
+   "https://t.me/vlodmersmerkshub",
+   "https://x.com/VLODMERSMERKS"
+  ],
+  "symbol": "SMERKS",
+  "websites": [
+   "https://smerks.xyz"
   ]
  },
  {
@@ -2863,6 +3056,21 @@
   ]
  },
  {
+  "address": "0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542",
+  "description": "In July 2012, Yume, a 3-month-old female Akita puppy, was sent from Tokyo, Japan to Moscow as a gesture of gratitude from Akita Prefecture for Russia\u2019s aid after the 2011 T\u014dhoku earthquake and tsunami. The puppy\u2019s name, Yume, translates to \u201cdream\u201d in Japanese. (launched on \u26fd\ufe0f GasPump)",
+  "image": "https://raw.githubusercontent.com/yumeonton/LOGO/refs/heads/main/200x200.png",
+  "name": "Vladimir Putin's Dog",
+  "social": [
+   "https://t.me/yumeonton",
+   "https://t.me/tontrendingnft",
+   "https://www.x.com/yumeonton"
+  ],
+  "symbol": "YUME",
+  "websites": [
+   "https://www.yumeonton.com/"
+  ]
+ },
+ {
   "address": "EQBv2cEJ-T-1GNRdzaY_JYoJvpAISuFHOKmJZPQnoUqEHTlU",
   "description": "$AMBER is a token created by AmberTON, a company that develops useful and free applications and games for TON users. The $AMBER token serves as a tool for interaction within the AmberTON ecosystem, allowing users to earn rewards for participating in projects, improving, and testing applications. The main goal is to create an accessible environment where everyone can benefit from and enjoy using TON-based technologies.",
   "image": "https://api.beeharvest.life/upload/ambr.png",
@@ -3001,7 +3209,7 @@
   "symbol": "hTON1"
  },
  {
-  "address": "UQCeObLCa6FoY3Xa7ZOwKX9aWoQk34M9TaHGWEhpj0wjne78",
+  "address": "EQB_frCufFqUGVQuDd8UiNO9O1skgO0gzsSEpjHZ-wykdBD3",
   "description": "1st iranian tech group token for teach people about cryptocurrencies and how to use them to make moneys and much more .",
   "image": "https://s6.uplod.ir/i/01140/gnhjvxu90rtg.png",
   "name": "iOSF1",
@@ -5181,11 +5389,6 @@
   "address": "0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72",
   "name": "Meme Inc",
   "symbol": "YOBA"
- },
- {
-  "address": "0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542",
-  "name": " Vladimir Putin's Dog",
-  "symbol": "YUME"
  },
  {
   "address": "0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11",

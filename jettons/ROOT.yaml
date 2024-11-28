@@ -1,0 +1,10 @@
+name: Beetroot
+description: Automated yield farming aggregator
+image: "https://raw.githubusercontent.com/Beetroot-fi/contracts/refs/heads/master/LOGO.PNG"
+address: 0:051a19b1d7df681fa9262fbf0f1811f2031e1de4288975f5f04a30cae45e4817
+symbol: ROOT
+websites:
+  - "https://app.beetroot.finance"
+social:
+  - "https://t.me/BeetrootFinance"
+  - "https://x.com/beetroot_fi"
