@@ -1,0 +1,21 @@
+ticker: INVESV
+token:
+  name: "Investavimas Visiems (Investing For All)"
+  description: "A utility token for purchasing courses, services, and products related to stock market trading, offered by a Lithuanian trading school expanding globally."
+  logo: "https://github.com/MrAlvydas/INVESV/blob/main/INVESVLOGO.jpg?raw=true"
+  website: "http://investavimasvisiems.lt"
+
+issuer:
+  name: "Investavimas Visiems"
+  contact: "Tomas.D@Investavimasvisiems.lt"
+
+technical:
+  contract_address: "EQBhhzbnyYLIcWxCzU-UK77FIGD9wP03_lhhWfqPuLj1EC8"
+  blockchain: "TON"
+
+social:
+  - "https://t.me/investingforeveryone"
+  - "https://x.com/TDulkys29068"
+  - "https://discord.gg/V7P36may"
+  - "https://www.tiktok.com/@tomas.dul"
+
