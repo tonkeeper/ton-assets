@@ -1,5 +1,5 @@
 name: "Degrees"
-description: "Angles"
+description: "Degrees collection"
 
 links:
   channel:
@@ -8,7 +8,6 @@ links:
   community: "https://degreeston.t.me"
   bot: "https://prodegreesbot.t.me"
 
-symbol: "/\\/\\/ º"
 image: "https://raw.githubusercontent.com/msilenkov/ONE/245f76be45fc9e32a60de758bf8c39e5dce99cd7/degrees.svg"
 address: "0:f2bd3b92c32358d75b6eb78e053e41b30fd3d46cd70f814ff005afb4aeecee1a"
 social:
