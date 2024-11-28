@@ -819,7 +819,7 @@ Name           | Address
 [dTON](https://tonviewer.com/0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad) | EQDP4FKs4AqothucWAPdHJfsntegHdknrwmg8qV9eBVlrWma
 [donotfomoew](https://tonviewer.com/0:16b0818ca0695b8c9248b2293ef7fe80e088a875bd4cecb5b7926bb4e6ff2e8e) | EQAWsIGMoGlbjJJIsik-9_6A4Iiodb1M7LW3kmu05v8ujo9h
 [eNOT COIN](https://tonviewer.com/0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a) | EQCSn3u5g0mGg4eBnP36kauDc9Flt4VphS-0TXz0f60wOqsI
-[iOSF1](https://tonviewer.com/0:9e39b2c26ba1686375daed93b0297f5a5a8424df833d4da1c65848698f4c239d) | EQCeObLCa6FoY3Xa7ZOwKX9aWoQk34M9TaHGWEhpj0wjnbM5
+[iOSF1](https://tonviewer.com/0:7f7eb0ae7c5a9419542e0ddf1488d3bd3b5b2480ed20cec484a631d9fb0ca474) | EQB_frCufFqUGVQuDd8UiNO9O1skgO0gzsSEpjHZ-wykdBD3
 [indicaTon](https://tonviewer.com/0:ad9cd74f9c0e0d4ede1743f336d5d2b2a1447b75afd25fbbaab4efb08751deaa) | EQCtnNdPnA4NTt4XQ_M21dKyoUR7da_SX7uqtO-wh1HeqsX4
 [jDAI](https://tonviewer.com/0:e8fd927243f62a0730706d5a4c9a16e121d74ab513fdf47ba0649d78685b1cc6) | EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B
 [jUSDC](https://tonviewer.com/0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df) | EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728
