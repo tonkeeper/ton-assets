@@ -956,6 +956,21 @@
   ]
  },
  {
+  "address": "EQA42um-pf3bJ6KH08Fv8-ALGOt0a4-460etgeaydJjYRu-O",
+  "decimals": 9,
+  "description": "GECKO \u2014 In the world of beasts b\u0435 \u0430 gecko,  just chill.",
+  "image": "https://github.com/11g13g/gecko/blob/main/gecko.jpeg",
+  "name": "GECKO",
+  "social": [
+   "https://t.me/gecko_in_hoodie",
+   "https://x.com/gecko_in_hoodie"
+  ],
+  "symbol": "$GECKO",
+  "websites": [
+   "https://geckoinhoodie.xyz/"
+  ]
+ },
+ {
   "address": "EQDMe8b_Ym2C9guSTC7QQzisPg_7_OLEWguF1dJMUTf8cfsF",
   "description": "The only tokens in the world for the purchase of Geonergo Green Energy Project products for half their market value",
   "image": "https://github.com/GeonerGO/website/blob/main/logo.png?raw=true",
