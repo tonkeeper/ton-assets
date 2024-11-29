@@ -1154,6 +1154,9 @@
 - address: 0:b3c7d43b7242995e4c9366c0a74d7c5029bafe974ebeab3f70ad759678dce5c0
   name: TON RENAISSANCE
   symbol: TONR
+- address: 0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b
+  name: TON SCAM
+  symbol: TONSCAM
 - address: 0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81
   name: ToonTools
   symbol: TOON
@@ -1253,6 +1256,9 @@
 - address: 0:dd0a16bf2be67dee52a5e7df4ed060c0b74a72d9952ea27b385ae7fce6daba35
   name: "Du Rove\u2019s Wall"
   symbol: WALL
+- address: 0:310bef9e2ad5dee3e7bd3e160eae4f9f8f1f14d769784f8204a739027f7162cd
+  name: Watch Coin
+  symbol: WCN
 - address: 0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b
   name: Web3 TON Token
   symbol: WEB3
