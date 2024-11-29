@@ -50,6 +50,10 @@
   name: "OKX 9"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "EQCbm3Od4lJ65y0hCD9RmNcQxyiEU7RzPlfsrbLhiayCnNuU"
+  name: "OKX 10"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
@@ -296,6 +300,15 @@
   name: "BitMart"
   require_memo: true
 - address: "UQBdWoMOSCFHkfSrU1KQDGJNO_88Xv1jAZaxgBWOt4mZDwmZ"
+  name: Nobitex
+  require_memo: true
+- address: "UQDK2JiyAKCTTuQWwgObvz9dfxoyMXKHWzwZ03im9UD3sXEb"
+  name: Nobitex
+  require_memo: true
+- address: "UQBFMtW837BdMnXL8lW8kcNjXNSNY7cZRBWBxVQqR1D99XCV"
+  name: Nobitex
+  require_memo: true
+- address: "UQCjLVLO2Aoj_k_pC6lFk-9obeA_n72qBp5kKCapUjS5guWp"
   name: Nobitex
   require_memo: true
 - address: "UQD6yP_Lb4lXKhIy1Z6RxlkJrkCGY_0s6uzTXzW16dZw9I7C"

@@ -91,7 +91,7 @@ def merge_accounts(accounts):
         accs = yaml.safe_load(open(file))
         main_page.extend([(x['name'], x['address']) for x in accs])
         accounts.extend(yaml.safe_load(open(file)))
-    for file in ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml', 'accounts/validators.yaml', 'accounts/scammers.yaml', 'accounts/notcoin.yaml'):
+    for file in ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml', 'accounts/validators.yaml', 'accounts/scammers.yaml', 'accounts/notcoin.yaml', 'accounts/dapps.yaml'):
         accounts.extend(yaml.safe_load(open(file)))
     with open('accounts.json', 'w') as out:
         for a in accounts:
