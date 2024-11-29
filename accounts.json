@@ -1235,5 +1235,10 @@
   "address": "0:f698fef380eefe8a650986a62bcb78b4eda27f491e770daa2432ea5f000a1bb7",
   "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
   "name": "Notcoin Voucher Swap F"
+ },
+ {
+  "address": "0:ef64bfe2a6518bef63a7d62a50747e8a73a10472b84227426935da3aebdf909e",
+  "image": "https://totemancer.com/ton/tc.png",
+  "name": "Totemancer"
  }
 ]

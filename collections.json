@@ -89,10 +89,27 @@
   "name": "Tonkeeper Adventure"
  },
  {
+  "address": "0:dfdb68e5d54fe1d1d4417912266a4777de16752e3f99c669e567272a8732633d",
+  "description": "Exclusive SBT (Soulbound Token) achievements within Totemancer. Each badge representing proof of your in-game milestones and accomplishments. SBTs can only be earned through your gameplay progress.",
+  "image": "https://totemancer.com/ton/tc.png",
+  "name": "Totemancer: Badges",
+  "social": [
+   "https://t.me/TotemancerBot",
+   "https://t.me/Totemancer",
+   "https://t.me/Totemancer_RU",
+   "https://t.me/TotemancerChat",
+   "https://x.com/Totemancer",
+   "https://vk.com/Totemancer"
+  ],
+  "websites": [
+   "https://totemancer.com"
+  ]
+ },
+ {
   "address": "0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2",
   "description": "Exclusive NFT collectibles within Totemancer. Each totem represents a powerful asset, offering special in-game enhancements and tangible benefits.",
   "image": "https://totemancer.com/ton/tc.png",
-  "name": "Totemancer",
+  "name": "Totemancer: Totems",
   "social": [
    "https://t.me/TotemancerBot",
    "https://t.me/Totemancer",
