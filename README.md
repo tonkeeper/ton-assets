@@ -186,6 +186,7 @@ Name           | Address
 [Curio Gas Token](https://tonviewer.com/0:b5e9470f0ce1756017037c8dfe48d03c9ebf040a588244ddcee5dffe49205c51) | EQC16UcPDOF1YBcDfI3-SNA8nr8ECliCRN3O5d_-SSBcUSjf
 [Cute Cats](https://tonviewer.com/0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4) | EQCy95IhvMjCGDzvhm5WpqlFXjaPmVYJRWvGtRBcI8B69E3z
 [Cygnus Global USDT](https://tonviewer.com/0:48070de617f4c3309a960198a156cc9404c5a95b0fdd79fb592e20b14e6ac250) | EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy
+[D-ONE](https://tonviewer.com/0:a0194301feed4692bb24c36a38d3b220f3299099f9315ae3d6d9de0836e4283c) | EQCgGUMB_u1Gkrskw2o407Ig8ymQmfkxWuPW2d4INuQoPFJO
 [DAOLegion](https://tonviewer.com/0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a) | EQDtqSANqK4LqgDk4f_q9mIvOaVy212ulavP9em2eYwKOiJw
 [DARK DUROV](https://tonviewer.com/0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4) | EQAlDLg8O1n086na4MG0FldSBkIqpls6oBi5R7YRAt401Dcd
 [DARK ELON on Ton](https://tonviewer.com/0:2fc09c95a17230a35ed28afe6d1def9bc1731eb767dc70f9c480c0c52f21b404) | EQAvwJyVoXIwo17Siv5tHe-bwXMet2fccPnEgMDFLyG0BKUV
