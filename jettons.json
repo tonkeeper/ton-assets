@@ -1022,7 +1022,7 @@
    "https://t.me/gecko_in_hoodie",
    "https://x.com/gecko_in_hoodie"
   ],
-  "symbol": "$GECKO",
+  "symbol": "GECKO",
   "websites": [
    "https://geckoinhoodie.xyz/"
   ]
@@ -2545,6 +2545,17 @@
   "websites": [
    "https://catteftelonton.xyz/"
   ]
+ },
+ {
+  "address": "EQC-OHxhI9r5ojKf6QMLFjhQrKoawN1thhHFCvImINhfK40C",
+  "description": "TETRIX - First AI-born token in control \ud83e\udd16 Join the future!",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqc-ohxhi9r5ojkf6qmlfjhqrkoawn1thhhfcviminhfk40c.png",
+  "name": "TETRIX",
+  "social": [
+   "https://t.me/T3TR1Xc01n",
+   "https://x.com/T3TR1Xc01n"
+  ],
+  "symbol": "TETRIX"
  },
  {
   "address": "0:dcc0b382e295825999371e19470f1a42d48aa5c09aceb8eae06fac492a2b75c6",
@@ -5141,6 +5152,11 @@
   "symbol": "TONR"
  },
  {
+  "address": "0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b",
+  "name": "TON SCAM",
+  "symbol": "TONSCAM"
+ },
+ {
   "address": "0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81",
   "name": "ToonTools",
   "symbol": "TOON"
@@ -5299,6 +5315,11 @@
   "address": "0:dd0a16bf2be67dee52a5e7df4ed060c0b74a72d9952ea27b385ae7fce6daba35",
   "name": "Du Rove\u2019s Wall",
   "symbol": "WALL"
+ },
+ {
+  "address": "0:310bef9e2ad5dee3e7bd3e160eae4f9f8f1f14d769784f8204a739027f7162cd",
+  "name": "Watch Coin",
+  "symbol": "WCN"
  },
  {
   "address": "0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b",

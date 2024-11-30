@@ -74,7 +74,8 @@ Name           | Address
 [Telegram usernames](https://tonviewer.com/0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2) | EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi
 [The Gateway](https://tonviewer.com/0:3eda0de0ec98f5ebd9ab0393d1e3d2e39880b54c841f68611c67c5270d961fb2) | EQA-2g3g7Jj169mrA5PR49LjmIC1TIQfaGEcZ8UnDZYfsrno
 [Tonkeeper Adventure](https://tonviewer.com/0:c089c5b80494c179cec2fc4d6a6890ef7a6e0188ac260b31fd78896f422e8349) | EQDAicW4BJTBec7C_E1qaJDvem4BiKwmCzH9eIlvQi6DSRnb
-[Totemancer](https://tonviewer.com/0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2) | EQBfThrlgdINBPdzVi_yLjCioYZqc8XOBYgePglglLmCwmrc
+[Totemancer: Badges](https://tonviewer.com/0:dfdb68e5d54fe1d1d4417912266a4777de16752e3f99c669e567272a8732633d) | EQDf22jl1U_h0dRBeRImakd33hZ1Lj-ZxmnlZycqhzJjPfxx
+[Totemancer: Totems](https://tonviewer.com/0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2) | EQBfThrlgdINBPdzVi_yLjCioYZqc8XOBYgePglglLmCwmrc
 
 
 ## Jettons
@@ -644,6 +645,7 @@ Name           | Address
 [TAP KING](https://tonviewer.com/0:cf04481dc80292b832ffd9a6d55bee6a412d17e41126a9eff84f007497e2c908) | EQDPBEgdyAKSuDL_2abVW-5qQS0X5BEmqe_4TwB0l-LJCLOA
 [TCoin](https://tonviewer.com/0:57c0c1aca2e5330ad31b1e671e50f49b1c86f88b7107588edae8d11fe424f2a3) | EQBXwMGsouUzCtMbHmceUPSbHIb4i3EHWI7a6NEf5CTyozI9
 [TDOG](https://tonviewer.com/0:f85d35d625ec2e36d9e12864e465a3f4c2c2ef4323609155dc3cb5b9ccf4d077) | EQD4XTXWJewuNtnhKGTkZaP0wsLvQyNgkVXcPLW5zPTQdykb
+[TETRIX](https://tonviewer.com/0:be387c6123daf9a2329fe9030b163850acaa1ac0dd6d8611c50af22620d85f2b) | EQC-OHxhI9r5ojKf6QMLFjhQrKoawN1thhHFCvImINhfK40C
 [TFOX](https://tonviewer.com/0:b4d27996002b23f372e99c5640e2bd700c707876765d4e7908f0d264bbb8c5c6) | EQC00nmWACsj83LpnFZA4r1wDHB4dnZdTnkI8NJku7jFxirg
 [TGXP](https://tonviewer.com/0:b6dc9f679620c0a5c591856315699fa35fcf6fbb4d942a157e3a302129b37be8) | EQC23J9nliDApcWRhWMVaZ-jX89vu02UKhV-OjAhKbN76HzT
 [THANK YOU! СПАСИБО! 谢谢 شكرا ¡GRACIAS! MERCI!](https://tonviewer.com/0:c0186c5ecfdb534ff2a0e7f0fd72ac58be634f1863f6c6c1f9b9b8de91eb3137) | EQDAGGxez9tTT_Kg5_D9cqxYvmNPGGP2xsH5ubjekesxN8x8
@@ -671,6 +673,7 @@ Name           | Address
 [TON PET MEMECOIN](https://tonviewer.com/0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123) | EQAmQGimKRrSHDLllvdUdeDsX1CszGy_SPgNNN8wE2ihIwnP
 [TON RENAISSANCE](https://tonviewer.com/0:b3c7d43b7242995e4c9366c0a74d7c5029bafe974ebeab3f70ad759678dce5c0) | EQCzx9Q7ckKZXkyTZsCnTXxQKbr-l06-qz9wrXWWeNzlwO09
 [TON REX](https://tonviewer.com/0:75eaf886eac262deb45aac0ed385e1a3101ce2e69565c0895cdf47ef37799226) | EQB16viG6sJi3rRarA7TheGjEBzi5pVlwIlc30fvN3mSJjdM
+[TON SCAM](https://tonviewer.com/0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b) | EQBMXKRTIgCYxqyBhBx33b1WdQtyCnOii7KNQl_Pw8Z7O909
 [TON SHIBA](https://tonviewer.com/0:e527c99710ffff68548ee416cc303a2f30bb542d92df1260db1a47583d55bf31) | EQDlJ8mXEP__aFSO5BbMMDovMLtULZLfEmDbGkdYPVW_MYYJ
 [TON SHIP](https://tonviewer.com/0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d) | EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs
 [TON Storm LP](https://tonviewer.com/0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea) | EQCNY2AQ3ZDYwJAqx_nzl9i9Xhd_Ex7izKJM6JTxXRnO6n1F
@@ -792,6 +795,7 @@ Name           | Address
 [WTON](https://tonviewer.com/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
 [Wakeup DAO Token](https://tonviewer.com/0:10125077b6b3308f4c029d55586059c9adba7008efcd5c3693ba3f5a62280ba2) | EQAQElB3trMwj0wCnVVYYFnJrbpwCO_NXDaTuj9aYigLovXw
 [Wallet Exchanger](https://tonviewer.com/0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a) | EQBtUKPbhABPYtltiKWA547s4ZhJ5wZHvVV1eyfV7sEyGs2J
+[Watch Coin](https://tonviewer.com/0:310bef9e2ad5dee3e7bd3e160eae4f9f8f1f14d769784f8204a739027f7162cd) | EQAxC--eKtXe4-e9PhYOrk-fjx8U12l4T4IEpzkCf3FizUUz
 [Web3 TON Token](https://tonviewer.com/0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b) | EQBtcL4JA-PdPiUkB8utHcqdaftmUSTqdL8Z1EeXePLti_nK
 [Weed coin - cannabis meme coin on TON](https://tonviewer.com/0:9f12c892308fbd98456a16f035037c67eeae0315861cfd1ab26508ef7880ff78) | EQCfEsiSMI-9mEVqFvA1A3xn7q4DFYYc_RqyZQjveID_eG2I
 [What The](https://tonviewer.com/0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba) | EQCRyx0kmadq2UcZu7GP6hH9tYtqWC4R5HTk6uKloainuqoB
