@@ -368,6 +368,20 @@
   "symbol": "CHILD"
  },
  {
+  "address": "EQCK9EhO4T_y3i8ypPL2ghraeUwWYhZ8tL2XFqyxg7kWX2EZ",
+  "description": "The next generation of gamified social interaction. As the driving force behind a platform that blends gaming with dynamic social media experiences, ChiliVersus empowers users to participate in rivalries, complete interactive tasks, and engage in meaningful connections.",
+  "image": "https://chiliversus.com/coin.png",
+  "name": "ChiliVersus",
+  "social": [
+   "https://t.me/ChiliVersus",
+   "https://x.com/ChiliVersus"
+  ],
+  "symbol": "CHVRS",
+  "websites": [
+   "https://chiliversus.com"
+  ]
+ },
+ {
   "address": "0:b80f1e4cab2f6a86a1e91f4725fd4f217a3067721357667fcbd3f3a3db32d8e4",
   "description": "Telegram's favorite COIN! The Coin everyone should have. From Telegram's famous \"The Coin\" sticker pack!",
   "image": "https://raw.githubusercontent.com/TheCoinOnTon/TheCoin/main/coin%20logo%20png.png",
