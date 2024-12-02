@@ -245,6 +245,7 @@ Name           | Address
 [Dogs](https://tonviewer.com/0:afc49cb8786f21c87045b19ede78fc6b46c51048513f8e9a6d44060199c1bf0c) | EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS
 [Dogwifhoodie](https://tonviewer.com/0:4d45c0551e5a5a9f7f3716b59640c28e8d22cb2daa11764b5d92d487f1de9809) | EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz
 [Don](https://tonviewer.com/0:90c50594d1981b428bd546dac7654812513b23f556d58808f65c0346782df92f) | EQCQxQWU0ZgbQovVRtrHZUgSUTsj9VbViAj2XANGeC35L2aS
+[Donald Duck](https://tonviewer.com/0:d8c1728e2cb4488b2999f45a19a311a0d376dec1450d3e9a1835edcea85ccd63) | EQDYwXKOLLRIiymZ9FoZoxGg03bewUUNPpoYNe3OqFzNY2N9
 [Donut The Dog](https://tonviewer.com/0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110) | EQB2ho8cuNzitlhg_H29pOHUxRD-VlxvIbN0ZVORNh8REGre
 [Dracoin](https://tonviewer.com/0:44fcfd9b28ef5d1c64b052165b42feaf6be611b84594119b82bff8845e03bea6) | EQBE_P2bKO9dHGSwUhZbQv6va-YRuEWUEZuCv_iEXgO-psTz
 [Dracoin](https://tonviewer.com/0:44fcfd9b28ef5d1c64b052165b42feaf6be611b84594119b82bff8845e03bea7) | EQBE_P2bKO9dHGSwUhZbQv6va-YRuEWUEZuCv_iEXgO-p9TS
