@@ -623,6 +623,7 @@ Name           | Address
 [Shards of Notcoin NFT bond](https://tonviewer.com/0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b) | EQCIXQn940RNcOk6GzSorRSiA9WZC9xUz-6lyhl6Ap6na2sh
 [Shark Invest Club](https://tonviewer.com/0:403eeb032b45bfa44c92fdd30a851402a5f171d2ccde0d984b434101a28e2a86) | EQBAPusDK0W_pEyS_dMKhRQCpfFx0szeDZhLQ0EBoo4qhhXk
 [Shitcoin](https://tonviewer.com/0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4) | EQB4gPfG0YtoiJHCMTUuzxP9fKXy9nx6TFh-dcAltrnNpLNo
+[Shitdrops](https://tonviewer.com/0:2e584f9b551eced5b4a4c0dfe63ddca2be92b0e657d6738eec82fb9ccf2cd9e3) | EQAuWE-bVR7O1bSkwN_mPdyivpKw5lfWc47sgvuczyzZ49S3
 [Simple Ton Coin](https://tonviewer.com/0:42c988aa9138c0b791819d55e0b972d0a6097469ed70c495d867a0226d12f265) | EQBCyYiqkTjAt5GBnVXguXLQpgl0ae1wxJXYZ6AibRLyZdem
 [Slopy](https://tonviewer.com/0:0e365c05bf398a068b1bcc7bc704c06974732f20eefb2bb873e0d640ee4a8e99) | EQAONlwFvzmKBosbzHvHBMBpdHMvIO77K7hz4NZA7kqOmf8r
 [Slowpoke](https://tonviewer.com/0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9) | EQDK3ReFkb6L3uE3GmMDJaxWby4PA_UYGClgFfJuXY52-TOK
