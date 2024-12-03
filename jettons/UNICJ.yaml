@@ -1,0 +1,10 @@
+name: UniCoin Jetton
+description: Token for working with DApps from UniMas
+image: "https://cache.tonapi.io/imgproxy/EbW0w-DW6B6OHDay3mbWPNs_cN6n5X6Qt8SggX6Anuc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby9uZldmOW1QL0lNRy0yMjkxLnBuZw.webp"
+address: 0:a7a7dac07d52c9f769b372876eea1b84bb4c0b7b86d585db1dc98fdbc0b2b6a5
+symbol: UNICJ
+websites:
+  - "https://my.bio/unicj"
+social:
+  - "https://t.me/masov_mas"
+  - "https://t.me/unicoin_tg"
