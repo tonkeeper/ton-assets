@@ -375,6 +375,7 @@ Name           | Address
 [LP Token for UP-TON](https://tonviewer.com/0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c) | EQABy0q1lpLkU09k7srKCCjeAm32D2nZ15WtmWgb81RvjLbP
 [LP Token for jNANO-TON](https://tonviewer.com/0:bace166d17381305b4d0e1b1b58f9161e5b590013b6238c7490003bdf3f8f544) | EQC6zhZtFzgTBbTQ4bG1j5Fh5bWQATtiOMdJAAO98_j1REBU
 [LUPA](https://tonviewer.com/0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff) | EQBXRzatxryKKnW6mNGEZiEFMGET655W40ROx1qnZP-S_-p6
+[LUXE DUCK](https://tonviewer.com/0:064748236a0e7d90971f1ef9baabaecdcc8c8c958fc3a8427fdfd931a9904c07) | EQAGR0gjag59kJcfHvm6q67NzIyMlY_DqEJ_39kxqZBMB2Cj
 [Laika](https://tonviewer.com/0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0) | EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw
 [Lavandos](https://tonviewer.com/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [Lego Resistance Dog](https://tonviewer.com/0:38277a3f5d37562f3a99e5c7ca74a333200a38ddaaf0f557cb6c2e31a256884a) | EQA4J3o_XTdWLzqZ5cfKdKMzIAo43arw9VfLbC4xolaISkWD
