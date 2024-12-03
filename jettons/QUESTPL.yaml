@@ -1,0 +1,12 @@
+name: QUESTPL
+description: QUESTPL is the utility token for Pleasure Quest, a gamified ecosystem on The Open Network that combines NFT characters, task-based rewards, and a multi-level referral system. It powers in-app transactions, rewards, and ecosystem governance.
+image: "https://questpl.com/img/logo_trans.png"
+address: EQD2prpNBfCRa0fZpSHJvpvqFT7hW8Sw6uhcxGgmIAWigAe_
+symbol: QUESTPL
+decimals: 9
+websites:
+  - "https://questpl.com/"
+social:
+  - "https://twitter.com/Pleasure_PLQT"
+  - "https://t.me/pleasure_quest"
+  - "https://t.me/PleasureQuest_bot"
