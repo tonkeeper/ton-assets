@@ -1,0 +1,10 @@
+name: Leo Coin
+description: Leo is a cryptocurrency on the TON network, supporting DeFi, content creation, and social interaction.
+image: "https://raw.githubusercontent.com/TheLeocoin/website/refs/heads/main/logo.png"
+address: "0:695ef86bd4cacab6da86957291d11988bbad68a930ac792e8c0a5cda77bf2e08"
+websites:
+  - "https://leocoin.club"
+social:
+  - "https://t.me/theleocoin"
+  - "https://t.me/leocoinclub"
+  - "https://x.com/leocoinclub"
