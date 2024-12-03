@@ -176,6 +176,7 @@ Name           | Address
 [COPA](https://tonviewer.com/0:f9c7c833dc88532d1dbe0c69262f47a15a4ed094890e4c81aedee843b8be2c6c) | EQD5x8gz3IhTLR2-DGkmL0ehWk7QlIkOTIGu3uhDuL4sbDGb
 [COSA NOSTRA](https://tonviewer.com/0:8faa11816423ad414671fa4e437041a9e5741991d7d03947ea58ae99d0ba3abd) | EQCPqhGBZCOtQUZx-k5DcEGp5XQZkdfQOUfqWK6Z0Lo6vdw7
 [CRYPTON](https://tonviewer.com/0:f7e8bc69ea9e053331d04e15b3bc535aaa16d3f108a9e2b305d4d623092818ea) | EQD36Lxp6p4FMzHQThWzvFNaqhbT8Qip4rMF1NYjCSgY6ksE
+[CUBE_Fund](https://tonviewer.com/0:e71ddc84a56c86285c92e24e208ffd7c732cba4d5eb850ab9728e3c7fc07d042) | EQDnHdyEpWyGKFyS4k4gj_18cyy6TV64UKuXKOPH_AfQQvol
 [CULTURE](https://tonviewer.com/0:d0901ce0ad0d904972c56941b3def035bd7d6a93229fdd70553af7f4afa20bb6) | EQDQkBzgrQ2QSXLFaUGz3vA1vX1qkyKf3XBVOvf0r6ILthSb
 [Capybara](https://tonviewer.com/0:9358a65447706527e8e74ff184f11b4444338c435968b3bf94a778a94244e2ef) | EQCTWKZUR3BlJ-jnT_GE8RtERDOMQ1los7-Up3ipQkTi700i
 [Cash AMA Radio](https://tonviewer.com/0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5) | EQDIq-S2SqvytT9tv71lhFZ_0rw9OkXLeiAhmhmr3UqJxVow
