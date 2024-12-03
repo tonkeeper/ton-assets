@@ -3,7 +3,7 @@ image: "https://i.imgur.com/vNIHbVB.png"
 address: "EQBMIIYlgAI5HtWc2GTNWh5bDKY0GwHW6i3CqGxORqLDXNuE"
 symbol: WTB
 decimals: 9
-website:
+websites:
   - "https://x.com/catfromblumbot"
 social:
   - "https://t.me/catfromblumbot"
