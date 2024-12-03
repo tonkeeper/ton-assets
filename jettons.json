@@ -368,6 +368,20 @@
   "symbol": "CHILD"
  },
  {
+  "address": "EQCK9EhO4T_y3i8ypPL2ghraeUwWYhZ8tL2XFqyxg7kWX2EZ",
+  "description": "The next generation of gamified social interaction. As the driving force behind a platform that blends gaming with dynamic social media experiences, ChiliVersus empowers users to participate in rivalries, complete interactive tasks, and engage in meaningful connections.",
+  "image": "https://chiliversus.com/coin.png",
+  "name": "ChiliVersus",
+  "social": [
+   "https://t.me/ChiliVersus",
+   "https://x.com/ChiliVersus"
+  ],
+  "symbol": "CHVRS",
+  "websites": [
+   "https://chiliversus.com"
+  ]
+ },
+ {
   "address": "0:b80f1e4cab2f6a86a1e91f4725fd4f217a3067721357667fcbd3f3a3db32d8e4",
   "description": "Telegram's favorite COIN! The Coin everyone should have. From Telegram's famous \"The Coin\" sticker pack!",
   "image": "https://raw.githubusercontent.com/TheCoinOnTon/TheCoin/main/coin%20logo%20png.png",
@@ -396,8 +410,8 @@
  },
  {
   "address": "0:8faa11816423ad414671fa4e437041a9e5741991d7d03947ea58ae99d0ba3abd",
-  "description": "COSA NOSTRA is a crypto community token. Become a part of the community - HOLD and watch your balance grow!",
-  "image": "https://i.imgur.com/bJaMEkF.png",
+  "description": "COSA NOSTRA - Is a crypto community token. Become a part of the community - HOLD and watch your balance grow!",
+  "image": "https://crypto-cosanostra.io/cosaCoin_logo.png",
   "name": "COSA NOSTRA",
   "social": [
    "https://t.me/Cosa_Nostra_RU"
@@ -643,6 +657,20 @@
   "symbol": "DILS"
  },
  {
+  "address": "EQDYwXKOLLRIiymZ9FoZoxGg03bewUUNPpoYNe3OqFzNY2N9",
+  "description": "DODU Ton is a meme coin with ecosystem. The idea behind this meme token is to elect Donald Duck as the President of all meme coins launched on the TON network.",
+  "image": "https://i.postimg.cc/1zX1cFLt/photo-2024-04-11-12-33-59.jpg",
+  "name": "Donald Duck",
+  "social": [
+   "https://t.me/dodumemecoin",
+   "https://twitter.com/DonaldDuckTon"
+  ],
+  "symbol": "DODU",
+  "websites": [
+   "https://dodumemecoin.com/"
+  ]
+ },
+ {
   "address": "EQDmo04M0R-61EW7T5qOvydXMWxldS3-7ksoHSSne5U_AgW0",
   "description": "Created by dog \u200b\u200blovers for dog lovers.",
   "image": "https://dogefi.org/dogefi-icon.png",
@@ -867,6 +895,22 @@
   "symbol": "E4"
  },
  {
+  "address": "EQCO_DFX8vXjytw8nLPj1UFZgGVL_4b-lhknP4sTLnv91hlm",
+  "description": "\u041d\u0430\u0448\u0430 \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0437\u0430 \u041a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u044b, \u0422\u0440\u0435\u0439\u0434\u0438\u043d\u0433, \u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 \u043d\u0430 \u0411\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0435 TON. JUST HODL",
+  "image": "https://optim.tildacdn.com/tild6234-3832-4232-b538-316365393137/-/resize/512x/-/format/webp/2024-11-24_14-35-10_.png",
+  "name": "Elchanin",
+  "social": [
+   "https://t.me/elchanin_bitcoin_crypto",
+   "https://t.me/btccryptochat",
+   "https://vk.com/elchanin_bitcoin_crypto",
+   "https://www.youtube.com/@elchanin_bitcoin_crypto"
+  ],
+  "symbol": "ELCHANIN",
+  "websites": [
+   "https://ru.tradingview.com/u/ilyaelchanin/"
+  ]
+ },
+ {
   "address": "EQAWqZE17MQgawh-Jo_Z8Wh_dGc1zpo7rL6r2w4L7XK_HygW",
   "description": "1st Motion-sensing GameFi utility token beyond games",
   "image": "https://peach-holy-lizard-605.mypinata.cloud/ipfs/Qmd1oCnNwfVRid8nvWBPEdqp18Nv3NK3xL1yYWCgcnw3Ky",
@@ -1022,7 +1066,7 @@
    "https://t.me/gecko_in_hoodie",
    "https://x.com/gecko_in_hoodie"
   ],
-  "symbol": "$GECKO",
+  "symbol": "GECKO",
   "websites": [
    "https://geckoinhoodie.xyz/"
   ]
@@ -1464,6 +1508,20 @@
   "symbol": "LSQG"
  },
  {
+  "address": "EQAGR0gjag59kJcfHvm6q67NzIyMlY_DqEJ_39kxqZBMB2Cj",
+  "description": "The world of cryptocurrency is filled with too many boring and similar projects. It's time to change the game! LUXE DUCK \u2014 a stylish, bold, and confident duck that\u2019s ready to claim the",
+  "image": "https://s3.blum.codes/9a58664c-fb63-412d-8700-ac87479123b8/8bf50cba-cd58-4648-8d9f-73e65addbf3e",
+  "name": "LUXE DUCK",
+  "social": [
+   "https://t.me/luxeduck",
+   "https://x.com/LuxeDuck"
+  ],
+  "symbol": "LUXE",
+  "websites": [
+   "http://luxe-duck.com/"
+  ]
+ },
+ {
   "address": "EQDhbM11gCkwVSLu11jTPUGQKXPjfW_J1psPqc8mwZwM7Imf",
   "description": "TonAlchemists is an innovative project on the TON blockchain, with a mission to create a better, more welcoming community. Our goal is to facilitate networking and build a \"TON family\".",
   "image": "https://i.postimg.cc/CxH6g4Jg/icon.png",
@@ -1489,6 +1547,20 @@
   "symbol": "MAJOR",
   "websites": [
    "https://major.bot/"
+  ]
+ },
+ {
+  "address": "0:97ad906709af67ae956e84dc178e016436519853c01af6c5dc23ec221bca025e",
+  "description": "Climbing a mountain is impossible without the support of a strong woman, so Marge came to Homer's aid.",
+  "image": "https://raw.githubusercontent.com/Gen-Co-Sush/IMG/refs/heads/main/photo_2024-11-30_17-32-20.jpg",
+  "name": "MARGE",
+  "social": [
+   "https://t.me/pumpsimpsons",
+   "https://t.me/pumpsimpsonschat"
+  ],
+  "symbol": "MARGE",
+  "websites": [
+   "http://simpsonston.com/"
   ]
  },
  {
@@ -1946,6 +2018,22 @@
   ]
  },
  {
+  "address": "EQD2prpNBfCRa0fZpSHJvpvqFT7hW8Sw6uhcxGgmIAWigAe_",
+  "decimals": 9,
+  "description": "QUESTPL is the utility token for Pleasure Quest, a gamified ecosystem on The Open Network that combines NFT characters, task-based rewards, and a multi-level referral system. It powers in-app transactions, rewards, and ecosystem governance.",
+  "image": "https://questpl.com/img/logo_trans.png",
+  "name": "QUESTPL",
+  "social": [
+   "https://twitter.com/Pleasure_PLQT",
+   "https://t.me/pleasure_quest",
+   "https://t.me/PleasureQuest_bot"
+  ],
+  "symbol": "QUESTPL",
+  "websites": [
+   "https://questpl.com/"
+  ]
+ },
+ {
   "address": "EQCD7lrrxpOcq5A5R6nTLeF1kuIbl1BKCe5OnanGe3cB4FVB",
   "description": "RabBitcoin serves as the native token of the Rocky Rabbit platform, powering the Play-to-Earn ecosystem and enabling seamless in-game transactions and rewards.",
   "image": "https://cdn.rockyrabbit.io/rbtc-icon/512x512.png",
@@ -2157,6 +2245,20 @@
   "symbol": "SHEGLOV",
   "websites": [
    "https://t.me/oleg_sheglov"
+  ]
+ },
+ {
+  "address": "EQAuWE-bVR7O1bSkwN_mPdyivpKw5lfWc47sgvuczyzZ49S3",
+  "description": "Born from the chaos of scammy projects, Shitdrops turn the tables by blending humor with the ChiliVersus mission to build a transparent and engaging digital ecosystem. With 1 SHITDROPS equaling 1 CHVRS, it seamlessly bridges the fun of memes with real value in ChiliVersus\u2014the next-gen gamified social media platform. It\u2019s more than just a joke\u2014it\u2019s a bold, spicy catalyst for change!",
+  "image": "https://chiliversus.com/meme/shitdrops.png",
+  "name": "Shitdrops",
+  "social": [
+   "https://t.me/ChiliVersus",
+   "https://x.com/ChiliVersus"
+  ],
+  "symbol": "SHITDROPS",
+  "websites": [
+   "https://chiliversus.com"
   ]
  },
  {
@@ -2547,6 +2649,17 @@
   ]
  },
  {
+  "address": "EQC-OHxhI9r5ojKf6QMLFjhQrKoawN1thhHFCvImINhfK40C",
+  "description": "TETRIX - First AI-born token in control \ud83e\udd16 Join the future!",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqc-ohxhi9r5ojkf6qmlfjhqrkoawn1thhhfcviminhfk40c.png",
+  "name": "TETRIX",
+  "social": [
+   "https://t.me/T3TR1Xc01n",
+   "https://x.com/T3TR1Xc01n"
+  ],
+  "symbol": "TETRIX"
+ },
+ {
   "address": "0:dcc0b382e295825999371e19470f1a42d48aa5c09aceb8eae06fac492a2b75c6",
   "name": "GazTon",
   "social": [
@@ -2800,21 +2913,6 @@
    "https://t.me/tenerechat"
   ],
   "symbol": "Tnr"
- },
- {
-  "address": "EQC7ilfUj2egjitpNBgW86I3Zr1lJEnqf1MwscMc59HjaU_U",
-  "description": "Tonny is a meme & tap-to-earn project where users can get $xTonny by playing Tonny bot and referring users.",
-  "image": "https://drive.google.com/file/d/1SxXXaGshDbKrc8S-8KHM1iuHGOsE4lBh/view?usp=sharing",
-  "name": "Tonny",
-  "social": [
-   "https://t.me/tonny_community",
-   "https://x.com/Tonny_io",
-   "https://t.me/Tonny_io"
-  ],
-  "symbol": "TONNY",
-  "websites": [
-   "https://tonny.io"
-  ]
  },
  {
   "address": "EQBEbKm5z-T5psz8iRtCRYjDH-OGbRAsfhQtdKf1ma2dqS7o",
@@ -3094,6 +3192,11 @@
   "websites": [
    "www.bluebonk.com"
   ]
+ },
+ {
+  "address": "EQB-lj-Asl2eiBS1CsePpEbbsXL8PcTCeXfjkq8mKfdC2gR2",
+  "name": "Tonny",
+  "symbol": "TONNY"
  },
  {
   "address": "EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728",
@@ -3729,6 +3832,11 @@
   "address": "0:36f7907853194b4c9610b2cb786f1f7e9a6eeb52083ad3b65bcf5a4d16e7df30",
   "name": "DONDON",
   "symbol": "DONDON"
+ },
+ {
+  "address": "0:a0194301feed4692bb24c36a38d3b220f3299099f9315ae3d6d9de0836e4283c",
+  "name": "D-ONE",
+  "symbol": "DONE"
  },
  {
   "address": "0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110",
@@ -5141,6 +5249,11 @@
   "symbol": "TONR"
  },
  {
+  "address": "0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b",
+  "name": "TON SCAM",
+  "symbol": "TONSCAM"
+ },
+ {
   "address": "0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81",
   "name": "ToonTools",
   "symbol": "TOON"
@@ -5299,6 +5412,11 @@
   "address": "0:dd0a16bf2be67dee52a5e7df4ed060c0b74a72d9952ea27b385ae7fce6daba35",
   "name": "Du Rove\u2019s Wall",
   "symbol": "WALL"
+ },
+ {
+  "address": "0:310bef9e2ad5dee3e7bd3e160eae4f9f8f1f14d769784f8204a739027f7162cd",
+  "name": "Watch Coin",
+  "symbol": "WCN"
  },
  {
   "address": "0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b",
