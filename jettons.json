@@ -1869,6 +1869,19 @@
   ]
  },
  {
+  "address": "EQCNAgBOXxWPavXRfBq3bWcXzlhQCmPBlSVTg2pyfPKzFUx2",
+  "description": "ORANGE is a meme coin with no intrinsic value or expectation of financial return. This coin is for entertainment purposes only.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcnagboxxwpavxrfbq3bwcxzlhqcmpblsvtg2pyfpkzfux2.png",
+  "name": "TON Orange",
+  "social": [
+   "https://t.me/tonorangelur"
+  ],
+  "symbol": "ORG",
+  "websites": [
+   "https://t.me/orange_tonlur"
+  ]
+ },
+ {
   "address": "EQD1AOxSwDn3UX0PCBDNVGE4xNkAJPsjzOEBRILfvFdR4H2B",
   "description": "PROBULL Game Token",
   "image": "https://api-v1-srvr-game.probull.org/2-12.png",
