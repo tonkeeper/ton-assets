@@ -5,3 +5,11 @@
 - symbol: CUBE
   name: CUBE
   address: "EQAU8l7U3671W50Azy0g0J9xv7X8TtQ3tF6kFS8lBZ9VpiEJ"
+
+- symbol: ALIVE
+  name: AliveBoard
+  address: "EQAlKuU3JVwD1BcsSqLfigW75kbtPxnpo6Uur4GjBvSfgTTD"
+  
+- symbol: OKO
+  name: cryptoOKO
+  address: "EQA44OGUEsdesnOQ_Ws3BKiAwpRrm9Ai5T_2jI9My6p6Eu3-"
