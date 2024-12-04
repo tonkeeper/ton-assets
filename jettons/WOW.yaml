@@ -1,0 +1,13 @@
+yaml
+name: WOW
+description: Wow is not just a memecoin. Wow is a lifestyle. Wow is a movement. Wow is a cool ambitious Character with just 1 TON and a big dream. Wow is here to put smile on many faces. Join him on this exciting adventure as we make waves on the TON Blockchain.
+image: "https://blumwow.com/wp-content/uploads/2024/11/blumwow.png"
+address: EQA630fFhTPEX3Bolw77FrilrteazJdGV7V6nexsDfm0vGJW
+symbol: WOW
+max_supply: 1000000000
+decimals: 9
+websites:
+  - "https://blumwow.com/"
+social:
+  - "https://x.com/wowwemadeit"
+  - "https://t.me/wowwemadeit"
