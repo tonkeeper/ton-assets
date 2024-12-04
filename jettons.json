@@ -2105,6 +2105,21 @@
   ]
  },
  {
+  "address": "EQDHqjdmRYpmc4zk7Vnymj5JB47aUuAvcvZ-JV-MI06Sctb0",
+  "description": "Resistance Blum is a coin inspired by the spirit of digital resistance championed by Pavel Durov",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqdhqjdmrypmc4zk7vnymj5jb47auuavcvz-jv-mi06sctb0.png?size=xl&key=8c9c73",
+  "name": "Resistance Blum",
+  "social": [
+   "https://t.me/reblcrypto",
+   "https://twitter.com/reblcrypto"
+  ],
+  "symbol": "REBL",
+  "websites": [
+   "reblcrypto.ton",
+   "https://dexscreener.com/ton/eqcesipbaqazepilcqljmh10lzn35vaik1hwwcnudbh6w2js"
+  ]
+ },
+ {
   "address": "EQBjbM7x9cqPCqFCY17FSQr2MRoZGzn9eG5VAeQ7vsqbXPhX",
   "description": "The Resistance Cock is a memecoin on the TON blockchain - $RECO is a meme coin on the TON Blockchain.  https://t.me/RECO_Portal",
   "image": "https://raw.githubusercontent.com/TheResistanceCock/images/main/reco.jpg",
