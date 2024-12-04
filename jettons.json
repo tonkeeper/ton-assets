@@ -2992,6 +2992,22 @@
   ]
  },
  {
+  "address": "0:1b12eb7baeb51a4a690db86f2c7cf9aab704cb766b332fe9674228e609788b43",
+  "decimals": 9,
+  "description": "Due to current market conditions I now identify as a memecoin.  \n\nThe ticker is $UWU.",
+  "image": "https://storage.googleapis.com/foruai/ton-assets/2dcaba55-922e-48fc-a16f-6fcd30931277.webp",
+  "name": "ForU AI",
+  "social": [
+   "https://x.com/memecoinuwu",
+   "https://t.me/memecoinuwu",
+   "https://t.me/ForUAICryptoBot"
+  ],
+  "symbol": "UWU",
+  "websites": [
+   "https://uwu-meme.fun"
+  ]
+ },
+ {
   "address": "0:3bbe9955b44382e871df1f080f0ba124776a7db558a9fbbb3a85f6776abf86ac",
   "description": "UXUY is a social infrastructure that includes social protocols and a series of Dapps.",
   "image": "https://static.uxlink.io/uxlink_website/website/uxuy.png",
