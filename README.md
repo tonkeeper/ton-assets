@@ -104,6 +104,7 @@ Name           | Address
 [Airina Bolgur](https://tonviewer.com/0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9) | EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub
 [AkitaOnTon](https://tonviewer.com/0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2) | EQD6ikvSPUcpE6HB_OjxCMVkFwrtK73CVV1VLR6NWEykojuQ
 [Aleg Tonkoff](https://tonviewer.com/0:7b85db7cf5834ca1a0a0b3c662883d9a65132bdae8b99a8a70d86fc8a1685fd1) | EQB7hdt89YNMoaCgs8ZiiD2aZRMr2ui5mopw2G_IoWhf0cY6
+[AliveBoard](https://tonviewer.com/0:252ae537255c03d4172c4aa2df8a05bbe646ed3f19e9a3a52eaf81a306f49f81) | EQAlKuU3JVwD1BcsSqLfigW75kbtPxnpo6Uur4GjBvSfgTTD
 [Alliance](https://tonviewer.com/0:3a3594e565b371d7ddafd0d763a3a6a5c484408b212a0caa87a79474515330e4) | EQA6NZTlZbNx192v0Ndjo6alxIRAiyEqDKqHp5R0UVMw5ANv
 [AltOOshka](https://tonviewer.com/0:ece3f316991c9298f6ec5ba33267c0f2fa4f818b4bd934d495b7a2c4d8b0bf75) | EQDs4_MWmRySmPbsW6MyZ8Dy-k-Bi0vZNNSVt6LE2LC_ddUP
 [AmberTON](https://tonviewer.com/0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d) | EQBv2cEJ-T-1GNRdzaY_JYoJvpAISuFHOKmJZPQnoUqEHTlU
@@ -830,6 +831,7 @@ Name           | Address
 [cTON](https://tonviewer.com/0:86cf8401d283627a87b58c367b440cad933ab8aa7b383419e8ff7d1a00c945f8) | EQCGz4QB0oNieoe1jDZ7RAytkzq4qns4NBno_30aAMlF-N2j
 [cTON-TON](https://tonviewer.com/0:337b5692647635c941b3d41167747eb693e558a5761e0e26287c25d34590a517) | EQAze1aSZHY1yUGz1BFndH62k-VYpXYeDiYofCXTRZClF8Qr
 [cats are liquidity](https://tonviewer.com/0:bfa25b403c97507329007fa3ee2816c7b535d5485f0209876a857ea1fa69b01a) | EQC_oltAPJdQcykAf6PuKBbHtTXVSF8CCYdqhX6h-mmwGv59
+[cryptoOKO](https://tonviewer.com/0:38e0e19412c75eb27390fd6b3704a880c2946b9bd022e53ff68c8f4ccbaa7a12) | EQA44OGUEsdesnOQ_Ws3BKiAwpRrm9Ai5T_2jI9My6p6Eu3-
 [ctUSD](https://tonviewer.com/0:9fb449ce8fb43d0f682c713c01d9d8357c7cd0d4a49dd64dd585926990174a4e) | EQCftEnOj7Q9D2gscTwB2dg1fHzQ1KSd1k3VhZJpkBdKTrX7
 [ctUSD-USDT](https://tonviewer.com/0:72ee98ebe88073a96f2fb95099efcd1ebed9e48881778d9491443c5ea9271f66) | EQBy7pjr6IBzqW8vuVCZ780evtnkiIF3jZSRRDxeqScfZoU9
 [dTON](https://tonviewer.com/0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad) | EQDP4FKs4AqothucWAPdHJfsntegHdknrwmg8qV9eBVlrWma
