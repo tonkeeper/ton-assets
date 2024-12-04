@@ -1,0 +1,10 @@
+name: Sample Jetton
+description: Sample of Jetton
+image: "https://47494614.github.io/first_contract_front_end/icon.png"
+address: EQADpXQegndk0ckU6c5Qcnj7w6A1HSvZIJFJHo6FegzNY-hz
+symbol: JTN
+websites:
+  - "https://47494614.github.io/first_contract_front_end"
+social:
+  - ""
+  - ""
