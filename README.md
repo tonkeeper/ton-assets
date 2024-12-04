@@ -68,6 +68,7 @@ Name           | Address
 [Booli Reborn](https://tonviewer.com/0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55) | EQCsCWwWEHS0BaEhcwJ3ft3GEXoC0Xd1CJ3hgASj14-NVb_r
 [CALLIGRAFUTURISM — 24: Units](https://tonviewer.com/0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf) | EQD7eDxP_wLX18kr8uyYfs6srlgoNMfRbXNYM8dmMXT2vxwk
 [DILS COIN GENESIS](https://tonviewer.com/0:c202dd4b9af103c981b880bdfc2872bd8473fc0606159278fdc40a2ae4f8d234) | EQDCAt1LmvEDyYG4gL38KHK9hHP8BgYVknj9xAoq5PjSNDB0
+[Degrees](https://tonviewer.com/0:f2bd3b92c32358d75b6eb78e053e41b30fd3d46cd70f814ff005afb4aeecee1a) | EQDyvTuSwyNY11tut44FPkGzD9PUbNcPgU_wBa-0ruzuGiDf
 [GLOBULA](https://tonviewer.com/0:11ebe25ad438ceaac268173a50b44bd58f0bf2ebec04c44d272d5e7ee2b3d8fd) | EQAR6-Ja1DjOqsJoFzpQtEvVjwvy6-wExE0nLV5-4rPY_SKN
 [KZH](https://tonviewer.com/0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf) | EQDaaxtmY6Dk0YzIV0zNnbUpbjZ92TJHBvO72esc0srwv8K2
 [Spinners](https://tonviewer.com/0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058) | EQAZKtHcN6mhbzhbzcnuj-94r5P-hZYBKEwQ4_-dc-2AWMqZ
