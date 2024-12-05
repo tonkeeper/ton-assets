@@ -13,3 +13,11 @@
 - symbol: OKO
   name: cryptoOKO
   address: "EQA44OGUEsdesnOQ_Ws3BKiAwpRrm9Ai5T_2jI9My6p6Eu3-"
+
+- symbol: FROY
+  name: SOKOROCKET
+  address: "EQDW0wojDImjtJ-z88TmAdgVBPW8vQs2mqK-w5poyA-dowPd"
+
+  - symbol: MKAT
+  name: Memeerkat
+  address: "EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_"
