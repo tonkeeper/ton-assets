@@ -595,6 +595,9 @@
 - address: 0:576ed808a1cbdbd741902959d08d942ac77b578c68c1599c92f1f87661c1dbb0
   name: MuscleCare
   symbol: MCL
+- address: 0:a2bd285efa78a031a9c08a5f22471c0ab29ef8700d2ad1ad349263c1b4b7d11d
+  name: Mihaylets Community
+  symbol: MCOM
 - address: 0:de5cbf52f80a467ac4146c12d88b64464bd52959f00118017c8c40e1ffa5d08c
   name: Melon
   symbol: MELON

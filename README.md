@@ -406,6 +406,7 @@ Name           | Address
 [Meridian](https://tonviewer.com/0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7) | EQCymLRXp1QYxZKek4CTInckB1ey5TkyAJQpPAlNetiO54Vt
 [MiDtoken](https://tonviewer.com/0:a05b788c898aa4a818ea611dfdd70e76e7ede99c5cd5b2d1e56d9e1d92e956fe) | EQCgW3iMiYqkqBjqYR391w525-3pnFzVstHlbZ4dkulW_oz5
 [Microdiving](https://tonviewer.com/0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5) | EQDhSXj-di6Wo6__Pqd51dHZHel0MQeaegmhCWm-tkwwtem8
+[Mihaylets Community](https://tonviewer.com/0:a2bd285efa78a031a9c08a5f22471c0ab29ef8700d2ad1ad349263c1b4b7d11d) | EQCivShe-nigManAil8iRxwKsp74cA0q0a00kmPBtLfRHQgB
 [Milyman](https://tonviewer.com/0:9f2784aed75874fcc0765d1bc88e6f20c34cb6001e116447cea0f3b07b2548ce) | EQCfJ4Su11h0_MB2XRvIjm8gw0y2AB4RZEfOoPOweyVIzvda
 [MineX](https://tonviewer.com/0:729f9ad6328db9e1ab51903f032877242b615420f62c12c53aa2ca3220ae8ce9) | EQByn5rWMo254atRkD8DKHckK2FUIPYsEsU6osoyIK6M6Wt0
 [Mining Base Coin](https://tonviewer.com/0:49d870b19012a1f2cf5bab7c1d50211828ddd530ffe77ac65745794c610112c6) | EQBJ2HCxkBKh8s9bq3wdUCEYKN3VMP_nesZXRXlMYQESxhYk
