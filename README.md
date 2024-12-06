@@ -212,6 +212,7 @@ Name           | Address
 [DAOLegion](https://tonviewer.com/0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a) | EQDtqSANqK4LqgDk4f_q9mIvOaVy212ulavP9em2eYwKOiJw
 [DARK DUROV](https://tonviewer.com/0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4) | EQAlDLg8O1n086na4MG0FldSBkIqpls6oBi5R7YRAt401Dcd
 [DARK ELON on Ton](https://tonviewer.com/0:2fc09c95a17230a35ed28afe6d1def9bc1731eb767dc70f9c480c0c52f21b404) | EQAvwJyVoXIwo17Siv5tHe-bwXMet2fccPnEgMDFLyG0BKUV
+[DANDY](https://tonviewer.com/0:7e4f0471816b202cb1d4a8d95734946f04a3f9d82a7d6b953fcfad3b1b3403a1) | EQB-TwRxgWsgLLHUqNlXNJRvBKP52Cp9a5U_z607GzQDoe3j
 [DEANON](https://tonviewer.com/0:53507e9c768ce9d935ae8c0a9a98d8e0982ad7715ec5ada43a2a2783bbba58b0) | EQBTUH6cdozp2TWujAqamNjgmCrXcV7FraQ6KieDu7pYsMjm
 [DEFI HUNTERS DAO](https://tonviewer.com/0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d) | EQCW5g1evnQN2OZZEVe-23aSvEsgPauWZlF27ZIz5REhnWRy
 [DEPOSIT](https://tonviewer.com/0:5cf8be42cf344a991dfe4dd3b0066e25f97c8977126ddc77c022bfea32229a07) | EQBc-L5CzzRKmR3-TdOwBm4l-XyJdxJt3HfAIr_qMiKaB7WM
