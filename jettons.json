@@ -6099,5 +6099,13 @@
   "websites": [
    "https://utonic.org"
   ]
+ },
+ {
+  "address": "0:949c4c66760c002800e2fa3d8a3ca4e1c90a9373b53ae7472033483bf14cd95e",
+  "decimals": 9,
+  "description": "Proxy Ton Jetton for TONCO",
+  "image": "https://tonco.io/static/token/WTTON_TOKEN.png",
+  "name": "Wrapped for TONCO TON",
+  "symbol": "wTTon"
  }
 ]
