@@ -1456,6 +1456,17 @@
   ]
  },
  {
+  "address": "EQAdzk6jaFLdLKhda9k57cF3ID1MWE7DZGUP-Kz3klkbqvcD",
+  "description": "$LIGHT aims to inspire users to be honest, transparent, and strive for growth. Together with $DARK, it creates a unique ecosystem where light and darkness intertwine, giving meaning to every action.",
+  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/light.jpg",
+  "name": "LIGHT",
+  "social": [
+   "https://twitter.com/lightmemetoken",
+   "https://t.me/lightmemetoken"
+  ],
+  "symbol": "LIGHT"
+ },
+ {
   "address": "0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375",
   "decimals": 9,
   "description": "Shave, Liquidate, Laugh \u2014 The Meme Coin Way!",
