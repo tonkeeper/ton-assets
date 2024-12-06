@@ -147,6 +147,20 @@
   ]
  },
  {
+  "address": "EQDmw0xG9mF1l0KLgcjsDnnu79SkM0I4o09tAmRnkUBJuol5",
+  "description": "The original and most important culture memecoin on TON. $BALD is the movement of polished domes and unstoppable gains. Truly fair launched, real roadmap with doxxed founders. Created by @CoreyWilton | @BaldWorldOrder on Telegram and X.",
+  "image": "https://bald.sgp1.cdn.digitaloceanspaces.com/logo.png",
+  "name": "Bald World Order",
+  "social": [
+   "https://x.com/BaldWorldOrder",
+   "https://t.me/baldworldorder"
+  ],
+  "symbol": "BALD",
+  "websites": [
+   "https://baldworldorder.xyz"
+  ]
+ },
+ {
   "address": "EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH",
   "description": "Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/Batymchanin-coin/main/LOGOGOOD2.png",
@@ -1242,6 +1256,19 @@
   "symbol": "HOLD",
   "websites": [
    "https://fintopio.com"
+  ]
+ },
+ {
+  "address": "EQCz_xK2vAf6DHSrmSQ3mV-uEigJbKPP0tWUpqkqYW-RHoLD",
+  "description": "Hold to earn.If you can't hold, you won't be rich!",
+  "image": "https://static.holdcoin.xyz/token/logo.png",
+  "name": "Holdcoin",
+  "social": [
+   "https://t.me/Holdcoin_Channel"
+  ],
+  "symbol": "HOL\u00d0",
+  "websites": [
+   "https://t.me/theHoldCoinBot/app"
   ]
  },
  {

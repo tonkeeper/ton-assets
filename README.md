@@ -144,6 +144,7 @@ Name           | Address
 [Baby Yoda](https://tonviewer.com/0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7) | EQC7vuKEYLdC72YhUWt3AUVA-Oi66Q1DxTHXH7r6pXaV50j7
 [BabyRedo](https://tonviewer.com/0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3) | EQCMUI-C7CQjVQanwD5Nrws0o06SKVMjHbLPNw8PXW6t01db
 [Bakalchuk](https://tonviewer.com/0:ef39c29f72785e150fb40ce3df085afcc3664f307108f4ca0ee0092140b9b335) | EQDvOcKfcnheFQ-0DOPfCFr8w2ZPMHEI9MoO4AkhQLmzNTFT
+[Bald World Order](https://tonviewer.com/0:e6c34c46f6617597428b81c8ec0e79eeefd4a4334238a34f6d026467914049ba) | EQDmw0xG9mF1l0KLgcjsDnnu79SkM0I4o09tAmRnkUBJuol5
 [Baron](https://tonviewer.com/0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca) | EQBiHSLVzoicc-LQPDXJc_rF-WRft0aFihccFduA6fQ1ynYM
 [Batymchanin Coin](https://tonviewer.com/0:9704ab35ee9a9540dfc688da1a8519b142f29dbbcfb62f4594ac8a092819508b) | EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH
 [Bayerische Motoren Werke AG Coin](https://tonviewer.com/0:66f143ad8511cc1abeab0ac351355c0502b6077163a0c3aa408f8259d91890fb) | EQBm8UOthRHMGr6rCsNRNVwFArYHcWOgw6pAj4JZ2RiQ-yI1
@@ -334,6 +335,7 @@ Name           | Address
 [Hipo Staked TON (depricated)](https://tonviewer.com/0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8) | EQC_jgnSXeKZuY7rEE2gF43xh4FgUHCCXeycNPXSL39luA7K
 [Hipo Staked TON v1](https://tonviewer.com/0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63) | EQBNo5qAG8I8J6IxGaz15SfQVB-kX98YhKV_mT36Xo5vYxUa
 [Hmmcoin](https://tonviewer.com/0:ceae0d465ce6efa4ba104a99c6c5c6f9c00e36f95d8270597a3ebdb9b15a0956) | EQDOrg1GXObvpLoQSpnGxcb5wA42-V2CcFl6Pr25sVoJVmTv
+[Holdcoin](https://tonviewer.com/0:b3ff12b6bc07fa0c74ab992437995fae1228096ca3cfd2d594a6a92a616f911e) | EQCz_xK2vAf6DHSrmSQ3mV-uEigJbKPP0tWUpqkqYW-RHoLD
 [Holy Coin](https://tonviewer.com/0:1656fdb1eadc6873935e97d0a5b5b7d848130e39fd11f6c6fb1a7a98fb89dc9a) | EQAWVv2x6txoc5Nel9CltbfYSBMOOf0R9sb7GnqY-4ncmjcQ
 [Hot Cherry](https://tonviewer.com/0:4a45235191e3f5fb68dc8394ff7ffff4b391e3fafadb7cd2cc432f1d9d9b3bc5) | EQBKRSNRkeP1-2jcg5T_f__0s5Hj-vrbfNLMQy8dnZs7xd_p
 [Huebel Bolt](https://tonviewer.com/0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e) | EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw
