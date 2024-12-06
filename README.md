@@ -335,6 +335,7 @@ Name           | Address
 [Hipo Staked TON (depricated)](https://tonviewer.com/0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8) | EQC_jgnSXeKZuY7rEE2gF43xh4FgUHCCXeycNPXSL39luA7K
 [Hipo Staked TON v1](https://tonviewer.com/0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63) | EQBNo5qAG8I8J6IxGaz15SfQVB-kX98YhKV_mT36Xo5vYxUa
 [Hmmcoin](https://tonviewer.com/0:ceae0d465ce6efa4ba104a99c6c5c6f9c00e36f95d8270597a3ebdb9b15a0956) | EQDOrg1GXObvpLoQSpnGxcb5wA42-V2CcFl6Pr25sVoJVmTv
+[Holdcoin](https://tonviewer.com/0:b3ff12b6bc07fa0c74ab992437995fae1228096ca3cfd2d594a6a92a616f911e) | EQCz_xK2vAf6DHSrmSQ3mV-uEigJbKPP0tWUpqkqYW-RHoLD
 [Holy Coin](https://tonviewer.com/0:1656fdb1eadc6873935e97d0a5b5b7d848130e39fd11f6c6fb1a7a98fb89dc9a) | EQAWVv2x6txoc5Nel9CltbfYSBMOOf0R9sb7GnqY-4ncmjcQ
 [Hot Cherry](https://tonviewer.com/0:4a45235191e3f5fb68dc8394ff7ffff4b391e3fafadb7cd2cc432f1d9d9b3bc5) | EQBKRSNRkeP1-2jcg5T_f__0s5Hj-vrbfNLMQy8dnZs7xd_p
 [Huebel Bolt](https://tonviewer.com/0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e) | EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw

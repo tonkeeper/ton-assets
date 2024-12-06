@@ -1259,6 +1259,19 @@
   ]
  },
  {
+  "address": "EQCz_xK2vAf6DHSrmSQ3mV-uEigJbKPP0tWUpqkqYW-RHoLD",
+  "description": "Hold to earn.If you can't hold, you won't be rich!",
+  "image": "https://static.holdcoin.xyz/token/logo.png",
+  "name": "Holdcoin",
+  "social": [
+   "https://t.me/Holdcoin_Channel"
+  ],
+  "symbol": "HOL\u00d0",
+  "websites": [
+   "https://t.me/theHoldCoinBot/app"
+  ]
+ },
+ {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
   "decimals": 9,
   "image": "https://i.ibb.co/gZQ4Jqg/john-doge-transparent.png",
