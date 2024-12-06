@@ -1334,9 +1334,15 @@
 - address: 0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a
   name: eNOT COIN
   symbol: eNOT
+- address: 0:9b9117699eb5997e6d3b74fe67ff08c6c7a9653641cd21d999fa0a4841c0cff8
+  name: jBTC
+  symbol: jBTC
 - address: 0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861
   name: Bitget Wallet Token
   symbol: jBWB
+- address: 0:9bd52017d6178af6d2bc6b9097b5849b7475e43cf01758a4f2dd8cf93c7d6582
+  name: jETH
+  symbol: jETH
 - address: 0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700
   name: GAMEE
   symbol: jGMEE
