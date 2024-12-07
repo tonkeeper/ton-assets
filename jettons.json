@@ -45,6 +45,22 @@
   ]
  },
  {
+  "address": "EQDxYWM-OPwQPinCwpNcqtd12vxzh5QkiUe_kq7c8ChktutE",
+  "description": "ALS.BOT platform token - anti-liquidation system",
+  "image": "https://als.bot/CoolAdmin/images/icon/als-logo-transparent-small.png",
+  "name": "ALS",
+  "social": [
+   "https://t.me/als_trading",
+   "https://t.me/+A9iVPDfcTWo4N2Fi",
+   "https://x.com/webeonic"
+  ],
+  "symbol": "ALSBOT",
+  "websites": [
+   "https://als.bot",
+   "https://docs-als.notion.site/ALS-Docs-ba03a172810649faa3dc4b2a0ada6de8"
+  ]
+ },
+ {
   "address": "0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49",
   "name": "Ambra",
   "symbol": "AMBR"

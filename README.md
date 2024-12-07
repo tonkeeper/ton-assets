@@ -96,6 +96,7 @@ Name           | Address
 [AIYA PowerCell](https://tonviewer.com/0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a) | EQAzBy-W8GJjUPfU-8eV0Jz56Jc5dIvvP-qznHKQhlqzGkoZ
 [ALENKA](https://tonviewer.com/0:982d6dae5f23220887d06b0ca9d856e693c0ea0e13266237bd708354e3a220ac) | EQCYLW2uXyMiCIfQawyp2Fbmk8DqDhMmYje9cINU46IgrEEu
 [ALL](https://tonviewer.com/0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d) | EQDlnVo-6abJzyHlU8uB7pRjE7OIKt4HTTDPG4hfwOf5jTPg
+[ALS](https://tonviewer.com/0:f161633e38fc103e29c2c2935caad775dafc738794248947bf92aedcf02864b6) | EQDxYWM-OPwQPinCwpNcqtd12vxzh5QkiUe_kq7c8ChktutE
 [ALWIN AirDrop](https://tonviewer.com/0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0) | EQDN7LXx6C4TWB4qMoe1Z5O114rPw9Jar2-oOhWXRvrc4Nh3
 [ANON](https://tonviewer.com/0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886) | EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ
 [ANON XP](https://tonviewer.com/0:bc236959c32064b29c82a5e745927fdc1a69be575130f09e9d0dff8e9d5bfffc) | EQC8I2lZwyBkspyCpedFkn_cGmm-V1Ew8J6dDf-OnVv__AXP
