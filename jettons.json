@@ -45,6 +45,22 @@
   ]
  },
  {
+  "address": "EQDxYWM-OPwQPinCwpNcqtd12vxzh5QkiUe_kq7c8ChktutE",
+  "description": "ALS.BOT platform token - anti-liquidation system",
+  "image": "https://als.bot/CoolAdmin/images/icon/als-logo-transparent-small.png",
+  "name": "ALS",
+  "social": [
+   "https://t.me/als_trading",
+   "https://t.me/+A9iVPDfcTWo4N2Fi",
+   "https://x.com/webeonic"
+  ],
+  "symbol": "ALSBOT",
+  "websites": [
+   "https://als.bot",
+   "https://docs-als.notion.site/ALS-Docs-ba03a172810649faa3dc4b2a0ada6de8"
+  ]
+ },
+ {
   "address": "0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49",
   "name": "Ambra",
   "symbol": "AMBR"
@@ -103,6 +119,20 @@
   "symbol": "ATERRA"
  },
  {
+  "address": "0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07",
+  "description": "We are a big community token AXM. We have Axiome Wallet for staking (20% rewards per month), AxiomePay (VISA, MasterCard, UnionPay), Testnet DEX NEXDEX will be in January.",
+  "image": "https://storage.dyor.io/jettons/EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4/image.jpeg",
+  "name": "AXMTON",
+  "social": [
+   "https://t.me/axiometon",
+   "https://t.me/+cTzKAaTWTqk1NWIy"
+  ],
+  "symbol": "AXMTON",
+  "websites": [
+   "https://axmton.ru/"
+  ]
+ },
+ {
   "address": "0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2",
   "decimals": 9,
   "description": "The cutest dog on TON",
@@ -144,6 +174,34 @@
   "symbol": "ARIX",
   "websites": [
    "https://arix.exchange"
+  ]
+ },
+ {
+  "address": "EQDmw0xG9mF1l0KLgcjsDnnu79SkM0I4o09tAmRnkUBJuol5",
+  "description": "The original and most important culture memecoin on TON. $BALD is the movement of polished domes and unstoppable gains. Truly fair launched, real roadmap with doxxed founders. Created by @CoreyWilton | @BaldWorldOrder on Telegram and X.",
+  "image": "https://bald.sgp1.cdn.digitaloceanspaces.com/logo.png",
+  "name": "Bald World Order",
+  "social": [
+   "https://x.com/BaldWorldOrder",
+   "https://t.me/baldworldorder"
+  ],
+  "symbol": "BALD",
+  "websites": [
+   "https://baldworldorder.xyz"
+  ]
+ },
+ {
+  "address": "0:f17f77a7febca6846d1bc07184b795e86510162514324824c5fb8aac1f2e0d9b",
+  "description": "\u041c\u044b \u043d\u0435 \u0436\u0434\u0451\u043c \u0430\u043b\u044c\u0442\u0441\u0435\u0437\u043e\u043d. \u041c\u044b \u0436\u0434\u0451\u043c \u0411\u0430\u043d\u0430\u043d\u0430 \u0426\u0430\u0439\u043a\u043b. \u0421\u043e\u0441\u043a\u0443\u0447\u0430\u043b\u0438\u0441\u044c \u0437\u0430 \u0434\u0440\u043e\u043f\u0430\u043c\u0438? HODL - \u0438 \u0436\u0434\u0451\u043c \u0414\u0440\u043e\u043f\u044b.",
+  "image": "https://storage.dyor.io/jettons/EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2/image.png",
+  "name": "BananaCycle",
+  "social": [
+   "https://x.com/bananacyclelove",
+   "https://t.me/bananacycle"
+  ],
+  "symbol": "BANC",
+  "websites": [
+   "https://bananacycle.xyz/"
   ]
  },
  {
@@ -739,21 +797,6 @@
   "symbol": "DUCK"
  },
  {
-  "address": "EQAst_WeG36CEhCoW6mOg4FU5nctQcgRvp7FYuNkxfwKS5UC",
-  "description": "The token that took 1 place in the BlumMemePad Best Token Competition. DURKA is something that is often done in the crypto market.",
-  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/LOGO_DURKA.png",
-  "name": "DURKA",
-  "social": [
-   "https://t.me/durkatoken",
-   "https://x.com/DurkaToken",
-   "https://www.youtube.com/channel/UCOCRvYxXQmuCOiFNuGUiFgg"
-  ],
-  "symbol": "DURKA",
-  "websites": [
-   "https://www.durka.org"
-  ]
- },
- {
   "address": "EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et",
   "description": "$DUROV is a community-driven project, inspired by Pavel Durov - the founder of Telegram. Explore our Airdrop bot, our NFT collection, or even our Staking platform!",
   "image": "https://i.postimg.cc/Sshx4fq4/2024-05-29-10-13-59.jpg",
@@ -895,7 +938,7 @@
   "symbol": "E4"
  },
  {
-  "address": "EQCO_DFX8vXjytw8nLPj1UFZgGVL_4b-lhknP4sTLnv91hlm",
+  "address": "EQCiraXQrHT8GPoCZBog54-JSoeqJXilYO1VeOiNBvYBW1Kv",
   "description": "\u041d\u0430\u0448\u0430 \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0437\u0430 \u041a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u044b, \u0422\u0440\u0435\u0439\u0434\u0438\u043d\u0433, \u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 \u043d\u0430 \u0411\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0435 TON. JUST HODL",
   "image": "https://optim.tildacdn.com/tild6234-3832-4232-b538-316365393137/-/resize/512x/-/format/webp/2024-11-24_14-35-10_.png",
   "name": "Elchanin",
@@ -1260,6 +1303,19 @@
   ]
  },
  {
+  "address": "EQCz_xK2vAf6DHSrmSQ3mV-uEigJbKPP0tWUpqkqYW-RHoLD",
+  "description": "Hold to earn.If you can't hold, you won't be rich!",
+  "image": "https://static.holdcoin.xyz/token/logo.png",
+  "name": "Holdcoin",
+  "social": [
+   "https://t.me/Holdcoin_Channel"
+  ],
+  "symbol": "HOL\u00d0",
+  "websites": [
+   "https://t.me/theHoldCoinBot/app"
+  ]
+ },
+ {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
   "decimals": 9,
   "image": "https://i.ibb.co/gZQ4Jqg/john-doge-transparent.png",
@@ -1442,6 +1498,17 @@
   "websites": [
    "https://rebalancer.pro/libration"
   ]
+ },
+ {
+  "address": "EQAdzk6jaFLdLKhda9k57cF3ID1MWE7DZGUP-Kz3klkbqvcD",
+  "description": "$LIGHT aims to inspire users to be honest, transparent, and strive for growth. Together with $DARK, it creates a unique ecosystem where light and darkness intertwine, giving meaning to every action.",
+  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/light.jpg",
+  "name": "LIGHT",
+  "social": [
+   "https://twitter.com/lightmemetoken",
+   "https://t.me/lightmemetoken"
+  ],
+  "symbol": "LIGHT"
  },
  {
   "address": "0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375",
@@ -3258,6 +3325,26 @@
   "symbol": "OKO"
  },
  {
+  "address": "EQDW0wojDImjtJ-z88TmAdgVBPW8vQs2mqK-w5poyA-dowPd",
+  "name": "SOKOROCKET",
+  "symbol": "FROY"
+ },
+ {
+  "address": "EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_",
+  "name": "Memeerkat",
+  "symbol": "MKAT"
+ },
+ {
+  "address": "EQAZzvY6tSq2IghR8S3mXgc387Wl6yX54MVQdnFJ2EHQ94CB",
+  "name": "\ud83d\udd34\ud83d\udfe2Triggered DRAGO",
+  "symbol": "DRAGO"
+ },
+ {
+  "address": "EQBsTwY-0y5e1i6eVLklvkLwS2QJMllwWP7c4uq0ni6qxAvE",
+  "name": "PUMPCORN",
+  "symbol": "PUMPCORN"
+ },
+ {
   "address": "EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728",
   "decimals": 6,
   "description": "USDC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -4381,6 +4468,11 @@
   "address": "0:576ed808a1cbdbd741902959d08d942ac77b578c68c1599c92f1f87661c1dbb0",
   "name": "MuscleCare",
   "symbol": "MCL"
+ },
+ {
+  "address": "0:a2bd285efa78a031a9c08a5f22471c0ab29ef8700d2ad1ad349263c1b4b7d11d",
+  "name": "Mihaylets Community",
+  "symbol": "MCOM"
  },
  {
   "address": "0:de5cbf52f80a467ac4146c12d88b64464bd52959f00118017c8c40e1ffa5d08c",
@@ -5593,9 +5685,19 @@
   "symbol": "eNOT"
  },
  {
+  "address": "0:9b9117699eb5997e6d3b74fe67ff08c6c7a9653641cd21d999fa0a4841c0cff8",
+  "name": "jBTC",
+  "symbol": "jBTC"
+ },
+ {
   "address": "0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861",
   "name": "Bitget Wallet Token",
   "symbol": "jBWB"
+ },
+ {
+  "address": "0:9bd52017d6178af6d2bc6b9097b5849b7475e43cf01758a4f2dd8cf93c7d6582",
+  "name": "jETH",
+  "symbol": "jETH"
  },
  {
   "address": "0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700",
@@ -6099,5 +6201,13 @@
   "websites": [
    "https://utonic.org"
   ]
+ },
+ {
+  "address": "0:949c4c66760c002800e2fa3d8a3ca4e1c90a9373b53ae7472033483bf14cd95e",
+  "decimals": 9,
+  "description": "Proxy Ton Jetton for TONCO",
+  "image": "https://tonco.io/static/token/WTTON_TOKEN.png",
+  "name": "Wrapped for TONCO TON",
+  "symbol": "wTTon"
  }
 ]
