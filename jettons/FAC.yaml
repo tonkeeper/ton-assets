@@ -1,0 +1,11 @@
+name: Farsi
+description: Farsi Token (FAC) is a community-driven cryptocurrency on the TON Network, inspired by Persian culture. It offers secure, fast transactions with low fees, connecting art, technology, and global accessibility.
+image: "https://raw.githubusercontent.com/farsitoken/web/refs/heads/main/farsitoken-icon.png"
+address: EQCMf6FNr0tJ9nS-I-8UzlM1ycLApolydKYqNRqC9eEiV8Qj
+symbol: FAC
+websites:
+  - "https://farsitoken.com"
+social:
+  - "https://t.me/farsitoken"
+  - "https://x.com/farsitoken"
+  - "https://instagram.com/farsitoken"
