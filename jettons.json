@@ -1428,6 +1428,17 @@
   ]
  },
  {
+  "address": "EQCDU9gNsGU71zFuAW498HV9JI4y01TknJpgtxvLPUanPkxR",
+  "description": "Crazy people's",
+  "image": "https://storage.dyor.io/jettons/EQCDU9gNsGU71zFuAW498HV9JI4y01TknJpgtxvLPUanPkxR/image.jpeg",
+  "name": "KuKuCoin",
+  "social": [
+   "https://t.me/KuKuCoin_chat",
+   "https://x.com/coinkukucoin"
+  ],
+  "symbol": "KUKU"
+ },
+ {
   "address": "0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0",
   "description": "Laika is one of the oldest memecoins on TON, celebrating and honoring the first dog sent to space. Distributed through airdrops, don't buy expecting financial returns.",
   "image": "https://raw.githubusercontent.com/LaikaToTheMoon/Laika/main/LaikaResized.png",
