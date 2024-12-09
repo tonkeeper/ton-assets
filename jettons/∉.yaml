@@ -1,0 +1,10 @@
+name: Pervomart
+symbol: "∉"
+description: "Anonymous community for helping homeless animals"
+address: 0:f8fb94f32fe8e94e9596cce2e1e0e8836d16282089006ff57b183f2a4a5e74f1
+decimals: 0
+image: "https://pervomart.ru/sites/pvm/files/kitty.png"
+websites:
+  - "https://pervomart.ru/"
+social:
+  - "https://t.me/pervomart_ru"
