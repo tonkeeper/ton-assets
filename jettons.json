@@ -337,6 +337,19 @@
   ]
  },
  {
+  "address": "0:165365ccbfd5663e63ab68b9920929f25ca8f4a6ac5f77255ed510f36ed5eee1",
+  "description": "Bubb AI Agent is an innovative project integrated into the TON ecosystem that combines artificial intelligence (AI) and blockchain technologies",
+  "name": "Bubb Ai Agent",
+  "social": [
+   "https://t.me/Bubb_Ai_Chat",
+   "https://x.com/bubb_Ai"
+  ],
+  "symbol": "BUBB",
+  "websites": [
+   "https://bubb.fun"
+  ]
+ },
+ {
   "address": "EQDWUK0DUCfrbFRSykAhuvoIFrk-nqcg7sZ7liQ53bBTHf1K",
   "description": "The Bull token will be implemented in the internal market of our game",
   "image": "https://raw.githubusercontent.com/Muvan97/Bull/main/bullcoin.png",
