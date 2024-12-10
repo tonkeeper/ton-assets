@@ -297,6 +297,7 @@ Name           | Address
 [ForU AI](https://tonviewer.com/0:1b12eb7baeb51a4a690db86f2c7cf9aab704cb766b332fe9674228e609788b43) | EQAbEut7rrUaSmkNuG8sfPmqtwTLdmszL-lnQijmCXiLQ5O9
 [Fort Emblem](https://tonviewer.com/0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537) | EQBsOuAAfsbY3rFNWiQm032rj4ox8BllNEIBytAC87klN2Fv
 [Frogy LIVE](https://tonviewer.com/0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6) | EQAA8LaTXHBojqCA5nVHz9-MBoHTw1l3Ordeuy_Z7yGrxocS
+[Fswap](https://tonviewer.com/0:acb8c35704976feeeb94a4422a0bdb6205d930d25bb8e1e9dd0b47f52f255fc5) | EQCsuMNXBJdv7uuUpEIqC9tiBdkw0lu44endC0f1LyVfxZPD
 [GAMEE](https://tonviewer.com/0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700) | EQCqnhZndBGbwjPpV8K_8WOK58ZkQPXlS_bshau9DKWnAF-p
 [GAS000](https://tonviewer.com/0:7cba170a3e6f486af204ce89c690f1bce5a2085cfa27af9c8f49eb1a5d19d553) | EQB8uhcKPm9IavIEzonGkPG85aIIXPonr5yPSesaXRnVU2JJ
 [GECKO](https://tonviewer.com/0:38dae9bea5fddb27a287d3c16ff3e00b18eb746b8fb8eb47ad81e6b27498d846) | EQA42um-pf3bJ6KH08Fv8-ALGOt0a4-460etgeaydJjYRu-O
