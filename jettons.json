@@ -791,6 +791,19 @@
   ]
  },
  {
+  "address": "EQDi8ieFKs69iSiI21CIUtwM9TkZKvr-NfJtrFtqDjO8lG6w",
+  "description": "This is something that cannot be touched. Please do not touch it.",
+  "name": "DONT",
+  "social": [
+   "https://t.me/cryptorun",
+   "https://x.com/PleaseDontTou4"
+  ],
+  "symbol": "DONT",
+  "websites": [
+   "https://pleasedonttouch.fun"
+  ]
+ },
+ {
   "address": "EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz",
   "description": "Pavel's dog with a hoodie https://smartbotsland.com/blog/social-networks/pavel-durov - $DOODIE is a meme coin on the TON Blockchain. https://t.me/dogwifhoodie_ton",
   "image": "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/doodie.jpg",
