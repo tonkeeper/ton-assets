@@ -583,6 +583,7 @@ Name           | Address
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [REDO Invest](https://tonviewer.com/0:86c97b2aad5c8330fd016714b78bb29efb387dba875d5471135208263c9302d9) | EQCGyXsqrVyDMP0BZxS3i7Ke-zh9uoddVHETUggmPJMC2WXv
 [REKT](https://tonviewer.com/0:d012cae57f900b6bbf86a73da70caeaddf7d9b7324283f40731e3d8a293ad761) | EQDQEsrlf5ALa7-Gpz2nDK6t332bcyQoP0BzHj2KKTrXYVYB
+[RIDO](https://tonviewer.com/0:532b0a7c102a0917624ac45127ef3e0f917ee8f561280271c961f43e7f36cbba) | EQBTKwp8ECoJF2JKxFEn7z4PkX7o9WEoAnHJYfQ-fzbLuqyC
 [RING](https://tonviewer.com/0:213d4338a3c4052e88fd4fa9769ae5033f117a687dcd7a8d2bbd6654c706c393) | EQAhPUM4o8QFLoj9T6l2muUDPxF6aH3Neo0rvWZUxwbDk85t
 [RUG POLICE](https://tonviewer.com/0:175132cd54c6bf1db9bf197d8dcf1beda0e03f8895367794dfd04ef5e4c63f45) | EQAXUTLNVMa_Hbm_GX2NzxvtoOA_iJU2d5Tf0E715MY_RUGP
 [RULO CMO](https://tonviewer.com/0:78bdb4ae36472f662ab467e5c0ddb5427cde618f97018af14903da4f0ad3a8b4) | EQB4vbSuNkcvZiq0Z-XA3bVCfN5hj5cBivFJA9pPCtOotAfE
