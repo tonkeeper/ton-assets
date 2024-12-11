@@ -1,0 +1,10 @@
+name: RUBRU
+description: "RUBRU is a stablecoin on the TON blockchain. RUBRU is a Russian alternative to USDT."
+image: "https://staking-rubru.pro/logo-RUBRU.webp"
+address: "EQBLfHc4sZqgfknqc5LvjjxcXKHqKyh5bTc5rKcWIh3W8OT9"
+symbol: RUBRU
+decimals: 9
+websites:
+  - "https://rubru.pro/"
+social:
+  - "https://t.me/rubru"
