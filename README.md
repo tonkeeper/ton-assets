@@ -583,6 +583,7 @@ Name           | Address
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [REDO Invest](https://tonviewer.com/0:86c97b2aad5c8330fd016714b78bb29efb387dba875d5471135208263c9302d9) | EQCGyXsqrVyDMP0BZxS3i7Ke-zh9uoddVHETUggmPJMC2WXv
 [REKT](https://tonviewer.com/0:d012cae57f900b6bbf86a73da70caeaddf7d9b7324283f40731e3d8a293ad761) | EQDQEsrlf5ALa7-Gpz2nDK6t332bcyQoP0BzHj2KKTrXYVYB
+[RIDO](https://tonviewer.com/0:532b0a7c102a0917624ac45127ef3e0f917ee8f561280271c961f43e7f36cbba) | EQBTKwp8ECoJF2JKxFEn7z4PkX7o9WEoAnHJYfQ-fzbLuqyC
 [RING](https://tonviewer.com/0:213d4338a3c4052e88fd4fa9769ae5033f117a687dcd7a8d2bbd6654c706c393) | EQAhPUM4o8QFLoj9T6l2muUDPxF6aH3Neo0rvWZUxwbDk85t
 [RUG POLICE](https://tonviewer.com/0:175132cd54c6bf1db9bf197d8dcf1beda0e03f8895367794dfd04ef5e4c63f45) | EQAXUTLNVMa_Hbm_GX2NzxvtoOA_iJU2d5Tf0E715MY_RUGP
 [RULO CMO](https://tonviewer.com/0:78bdb4ae36472f662ab467e5c0ddb5427cde618f97018af14903da4f0ad3a8b4) | EQB4vbSuNkcvZiq0Z-XA3bVCfN5hj5cBivFJA9pPCtOotAfE
@@ -669,6 +670,7 @@ Name           | Address
 [Steamy Julia](https://tonviewer.com/0:cd2ebaf09bb9652a471ed1802b0dbe778de10fdeb4519c9569bc3280d7aef94f) | EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft
 [Stec Network](https://tonviewer.com/0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18) | EQAMSx9XLYJ6lYB9LL0kAPjZPhGYdlV7QQsPgRrVGv3qGLNt
 [Stellarium](https://tonviewer.com/0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74) | EQBjMUhuZnLRu45LtJNixAmWH48IrB61qk1wVWJqZKuNdDvm
+[Stick](https://tonviewer.com/0:63b599571d531cf268acc37db1c0033b89adae5265e89e15c6adab44ac18f856) | EQBjtZlXHVMc8misw32xwAM7ia2uUmXonhXGratErBj4Vjm5
 [Sushi’n’Girls](https://tonviewer.com/0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2) | EQBSVKw3FK2o_aFJyMbdddTDQKLgvobVIzLwx8o9TwoksuK-
 [SybilZero](https://tonviewer.com/0:b2fd9a3f6a174209c0f21906b3b8054a59af0a496f77d23d5523c93d65025807) | EQCy_Zo_ahdCCcDyGQazuAVKWa8KSW930j1VI8k9ZQJYB4_V
 [T-Project Jetton](https://tonviewer.com/0:57e2bba1e75227dbfb0b2ba196f262a32526ada14a7cc4c3b160f123b12877cb) | EQBX4ruh51In2_sLK6GW8mKjJSatoUp8xMOxYPEjsSh3y_CB
