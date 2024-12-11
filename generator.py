@@ -1,9 +1,8 @@
 #!/bin/env python3
 import json
-
-import yaml
 import glob
 import base64
+import yaml
 
 from dexes import __get_stonfi_assets, __get_megaton_assets, __get_dedust_assets
 
@@ -13,86 +12,126 @@ EXPLORER_COLLECTIONS = "https://tonviewer.com/"
 
 DEXES_FILE_NAME = "imported_from_dex.yaml"
 
+ALLOWED_KEYS = {
+    'symbol', 'name', 'address', 'description', 'image', 'social', 'websites',
+    'decimals', 'coinmarketcap', 'coingecko', 'token', 'issuer', 'technical', 'ticker'
+}
+
 
 def collect_all_dexes():
     temp, jettons = list(), list()
     for file in sorted(glob.glob("jettons/*.yaml")):
         if file.endswith(DEXES_FILE_NAME):
             continue
-        temp.append(yaml.safe_load(open(file)))
-
-    for item in temp:
-        if isinstance(item, list):
-            jettons.extend(item)
-        else:
-            jettons.append(item)
+        try:
+            with open(file, encoding='utf-8') as f:
+                content = yaml.safe_load(f)
+                if content:
+                    if isinstance(content, list):
+                        temp.extend(content)
+                    else:
+                        temp.append(content)
+                else:
+                    print(f"Warning: {file} is empty or invalid.")
+        except yaml.YAMLError as e:
+            print(f"Error parsing {file}: {e}")
 
     already_exist_address = dict()
-    for jetton in jettons:
-        already_exist_address[normalize_address(jetton["address"], True)] = True
+    for jetton in temp:
+        if isinstance(jetton, dict) and "technical" in jetton and "contract_address" in jetton["technical"]:
+            jetton["address"] = jetton["technical"]["contract_address"]
+
+        if "address" not in jetton or not jetton["address"]:
+            print(f"Error: Missing 'address' in jetton: {jetton}")
+            continue
+
+        try:
+            normalized_address = normalize_address(jetton["address"], True)
+        except Exception as e:
+            print(f"Error normalizing address for jetton {jetton.get('name', 'unknown')}: {e}")
+            continue
+
+        already_exist_address[normalized_address] = True
 
     assets = __get_dedust_assets() + __get_stonfi_assets() + __get_megaton_assets()
     assets_for_save = dict()
-    for idx, asset in enumerate(assets):
-        asset.address = normalize_address(asset.address, True)
-        if already_exist_address.get(asset.address, None):
-            continue
-        assets_for_save[asset.address] = {
-            'name': asset.name,
-            'address': asset.address,
-            'symbol': asset.symbol
-        }
+    for asset in assets:
+        normalized_address = normalize_address(asset.address, True)
+        if normalized_address not in already_exist_address:
+            assets_for_save[normalized_address] = {
+                'name': asset.name,
+                'address': asset.address,
+                'symbol': asset.symbol
+            }
 
     with open(f"jettons/{DEXES_FILE_NAME}", "w") as yaml_file:
-        yaml.dump(list(sorted(assets_for_save.values(), key=lambda x: x['symbol'])), yaml_file, default_flow_style=False)
+        yaml.dump(list(assets_for_save.values()), yaml_file, default_flow_style=False)
 
-ALLOWED_KEYS =  {'symbol', 'name', 'address', 'description', 'image', 'social', 'websites', 'decimals', 'coinmarketcap', 'coingecko'}
 
 def merge_jettons():
-    temp = [yaml.safe_load(open(file)) for file in sorted(glob.glob("jettons/*.yaml"))]
+    temp = []
+    for file in sorted(glob.glob("jettons/*.yaml")):
+        try:
+            with open(file, encoding='utf-8') as f:
+                content = yaml.safe_load(f)
+                if content:
+                    temp.append(content)
+                else:
+                    print(f"Warning: File {file} is empty or invalid and will be skipped.")
+        except yaml.YAMLError as e:
+            print(f"Error parsing YAML file {file}: {e}")
+            continue
+
     jettons = []
     for j in temp:
         if isinstance(j, list):
             jettons.extend(j)
         else:
             jettons.append(j)
-            
+
     already_exist_address = dict()
     for j in jettons:
-        if len(set(j.keys()) - ALLOWED_KEYS) > 0 :
-            raise Exception("invalid keys %s in %s" % (set(j.keys()) - ALLOWED_KEYS, j.get('name')))
+        if 'token' in j:
+            j['name'] = j['token'].get('name')
+            j['symbol'] = j.get('ticker')
+        if 'technical' in j:
+            j['address'] = j['technical'].get('contract_address')
+
         if len(set(j.keys()) & {"name", "symbol", "address"}) < 3:
-            raise Exception("name, symbol and address are required %s "  % j.get("name"))
-        if 'image' in j and j['image'].startswith('https://cache.tonapi.io'):
-            raise Exception("don't use cache.tonapi.io as image source in %v", j.get("name"))
+            print(f"Warning: Skipping jetton with missing required fields: {j}")
+            continue
+        if set(j.keys()) - ALLOWED_KEYS:
+            print(f"Warning: Jetton {j.get('name', 'unknown')} contains invalid keys: {set(j.keys()) - ALLOWED_KEYS}")
+            continue
 
-        normalized = normalize_address(j["address"], True)
-        if (exist := already_exist_address.get(normalized)):
-            raise Exception(f"duplicate address for {j['name']} and {exist}")
+        try:
+            normalized = normalize_address(j["address"], True)
+        except Exception as e:
+            print(f"Warning: Skipping jetton due to invalid address: {j.get('name', 'unknown')} - {e}")
+            continue
+
+        if normalized in already_exist_address:
+            print(f"Warning: Duplicate address found for {j['name']} and {already_exist_address[normalized]}")
+            continue
         already_exist_address[normalized] = j["name"]
-        for field in ['symbol', 'name', 'address', 'description', 'image', 'coinmarketcap', 'coingecko']:
-            if not isinstance(j.get(field, ''), str):
-                raise Exception("invalid image field type %s" % j.get("name"))
-        for field in ['social', 'websites']:
-            if field in j and (not isinstance(j[field], list) or any([not isinstance(x, str) for x in j[field]])):
-                raise Exception("invalid image field type %s" % j.get("name"))
-        if 'decimals' in j:
-            j['decimals'] = int(j['decimals'])
-
 
     with open('jettons.json', 'w') as out:
-        json.dump(jettons, out, indent=" ", sort_keys=True)
+        json.dump(jettons, out, indent=4, sort_keys=True)
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in jettons])
 
 
 def merge_accounts(accounts):
     main_page = list()
     for file in ('accounts/infrastructure.yaml', 'accounts/defi.yaml', 'accounts/celebrities.yaml'):
-        accs = yaml.safe_load(open(file))
-        main_page.extend([(x['name'], x['address']) for x in accs])
-        accounts.extend(yaml.safe_load(open(file)))
-    for file in ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml', 'accounts/validators.yaml', 'accounts/scammers.yaml', 'accounts/notcoin.yaml', 'accounts/dapps.yaml'):
-        accounts.extend(yaml.safe_load(open(file)))
+        with open(file, encoding='utf-8') as f:
+            accs = yaml.safe_load(f)
+            main_page.extend([(x['name'], x['address']) for x in accs])
+            accounts.extend(accs)
+    for file in ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml',
+                 'accounts/validators.yaml', 'accounts/scammers.yaml', 'accounts/notcoin.yaml'):
+        with open(file, encoding='utf-8') as f:
+            accounts.extend(yaml.safe_load(f))
+
     with open('accounts.json', 'w') as out:
         for a in accounts:
             a['address'] = normalize_address(a['address'], True)
@@ -101,7 +140,7 @@ def merge_accounts(accounts):
 
 
 def merge_collections():
-    raw = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
+    raw = [yaml.safe_load(open(file, encoding='utf-8')) for file in sorted(glob.glob("collections/*.yaml"))]
     collections = []
     for c in raw:
         if isinstance(c, list):
@@ -113,45 +152,40 @@ def merge_collections():
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in collections])
 
 
-def main():
-    collect_all_dexes()
-    jettons = merge_jettons()
-    collections = merge_collections()
-    # accounts = merge_accounts([{'name': x[0] + " master", 'address': x[1]} for x in jettons])
-    accounts = merge_accounts([])
-    jettons_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_JETTONS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in jettons])
-    accounts_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_ACCOUNTS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in accounts])
-    collections_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_COLLECTIONS,  normalize_address(j[1], True), normalize_address(j[1], False)) for j in collections])
-
-    open('README.md', 'w').write(open("readme.md.template").read() % (accounts_md, collections_md, jettons_md))
-
-
 def normalize_address(a, to_raw):
+    if not a:
+        raise Exception("Missing address")
     if len(a) == 48:
-        raw = base64.urlsafe_b64decode(a)
-        workchain = raw[1]
-        if workchain == 255:
-            workchain = -1
-        addr = raw[2:34]
+        try:
+            if not to_raw:
+                return a
+            raw = base64.urlsafe_b64decode(a)
+            workchain = raw[1]
+            if workchain == 255:
+                workchain = -1
+            addr = raw[2:34]
+            return f"{workchain}:{addr.hex()}"
+        except Exception:
+            raise Exception(f"Invalid Base64 address format: {a}")
+
     elif ":" in a:
         parts = a.split(":")
         if len(parts) != 2:
-            raise Exception("invalid address %s" % a)
+            raise Exception(f"Invalid address format: {a}")
         workchain = int(parts[0])
         addr = bytearray.fromhex(parts[1])
-    else:
-        raise Exception("invalid address %s" % a)
-    if to_raw:
-        return "%d:%s" % (workchain, addr.hex())
+        if to_raw:
+            return f"{workchain}:{addr.hex()}"
+        else:
+            human = bytearray(36)
+            human[0] = 0x11
+            human[1] = 255 if workchain == -1 else workchain
+            human[2:34] = addr
+            human[34:] = crc16(human[:34])
+            return base64.urlsafe_b64encode(human).decode()
 
-    if workchain == -1:
-        workchain = 255
-    human = bytearray(36)
-    human[0] = 0x11
-    human[1] = workchain
-    human[2:34] = addr
-    human[34:] = crc16(human[:34])
-    return base64.urlsafe_b64encode(human).decode()
+    else:
+        raise Exception(f"Invalid address format: {a}")
 
 
 def crc16(data):
@@ -170,6 +204,31 @@ def crc16(data):
                 reg &= 0xffff
                 reg ^= POLY
     return reg // 256, reg % 256
+
+
+def main():
+    collect_all_dexes()
+    jettons = merge_jettons()
+    collections = merge_collections()
+    accounts = merge_accounts([])
+
+    jettons_md = "\n".join([
+        "[%s](%s%s) | %s" % (j[0], EXPLORER_JETTONS, normalize_address(j[1], True), normalize_address(j[1], False))
+        for j in jettons
+    ])
+    accounts_md = "\n".join([
+        "[%s](%s%s) | %s" % (j[0], EXPLORER_ACCOUNTS, normalize_address(j[1], True), normalize_address(j[1], False))
+        for j in accounts
+    ])
+    collections_md = "\n".join([
+        "[%s](%s%s) | %s" % (j[0], EXPLORER_COLLECTIONS, normalize_address(j[1], True), normalize_address(j[1], False))
+        for j in collections
+    ])
+
+    with open("readme.md.template", encoding="utf-8") as template_file:
+        readme_content = template_file.read() % (accounts_md, collections_md, jettons_md)
+    with open('README.md', 'w', encoding="utf-8") as md_file:
+        md_file.write(readme_content)
 
 
 if __name__ == '__main__':
