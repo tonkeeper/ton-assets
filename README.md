@@ -396,6 +396,7 @@ Name           | Address
 [LUXE DUCK](https://tonviewer.com/0:064748236a0e7d90971f1ef9baabaecdcc8c8c958fc3a8427fdfd931a9904c07) | EQAGR0gjag59kJcfHvm6q67NzIyMlY_DqEJ_39kxqZBMB2Cj
 [Laika](https://tonviewer.com/0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0) | EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw
 [Lavandos](https://tonviewer.com/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
+[Leagushka](https://tonviewer.com/0:3309d04825d6599e97e7e21eedec03a4e44ecc01ac54b0844006ea25562199ae) | EQAzCdBIJdZZnpfn4h7t7AOk5E7MAaxUsIRABuolViGZrhzI
 [Lego Resistance Dog](https://tonviewer.com/0:38277a3f5d37562f3a99e5c7ca74a333200a38ddaaf0f557cb6c2e31a256884a) | EQA4J3o_XTdWLzqZ5cfKdKMzIAo43arw9VfLbC4xolaISkWD
 [Lets Fuckin Go](https://tonviewer.com/0:8f8eefbd24dd1f2b8053a0ebc0e9a3dd0724790a6cab346a9e321b91cf7e5913) | EQCPju-9JN0fK4BToOvA6aPdByR5CmyrNGqeMhuRz35ZE8C1
 [Libration](https://tonviewer.com/0:77f0c23f335359a05ae3c4efeb4c51454af0cb0f988a17ed63d4355e495c8fc2) | EQB38MI_M1NZoFrjxO_rTFFFSvDLD5iKF-1j1DVeSVyPwqGE

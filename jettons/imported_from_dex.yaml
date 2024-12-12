@@ -376,6 +376,9 @@
 - address: 0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528
   name: FREEDOM
   symbol: FREE
+- address: 0:3309d04825d6599e97e7e21eedec03a4e44ecc01ac54b0844006ea25562199ae
+  name: Leagushka
+  symbol: FROG
 - address: 0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6
   name: Frogy LIVE
   symbol: FROGY
