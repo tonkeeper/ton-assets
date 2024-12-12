@@ -1,0 +1,12 @@
+name: BulCoin
+description: The First National Cryptocurrency of Chuvashia. Instrument of support of Chuvash independence, culture, projects and privatization
+image: "https://raw.githubusercontent.com/ChuvashiaBulgaria/PublicDocs/refs/heads/main/bulcoin.jpg"
+address: "EQD_tFz9JQRVZNMgy3bzvnzei9deo9qc5NMtumG4_sx1zZRc"
+symbol: BLC
+decimals: 9
+websites:
+  - "https://bulcoin.ton.run/"
+social:
+  - "https://t.me/bulcoin_blc"
+  - "https://t.me/chuvash_crypto"
+  - "https://x.com/Bulcoin_BLC"
