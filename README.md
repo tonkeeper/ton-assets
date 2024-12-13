@@ -307,6 +307,7 @@ Name           | Address
 [GEONERGO COIN](https://tonviewer.com/0:cc7bc6ff626d82f60b924c2ed04338ac3e0ffbfce2c45a0b85d5d24c5137fc71) | EQDMe8b_Ym2C9guSTC7QQzisPg_7_OLEWguF1dJMUTf8cfsF
 [GLITCH](https://tonviewer.com/0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425) | EQCwaOWpWvxlh--VaCJSkf8I5xEmuCXKKkXuGM3P9PAkJclJ
 [GM](https://tonviewer.com/0:7d7b64496899d7fed00b0c14b221be688f460724b6bc16772c17ee4c8d7a256d) | EQB9e2RJaJnX_tALDBSyIb5oj0YHJLa8FncsF-5MjXolbUzC
+[GOATS](https://tonviewer.com/0:b609442a309b9590efe2a1713d32f5bd724341bb1a8507b5dc7bb060c059d66a) | EQC2CUQqMJuVkO_ioXE9MvW9ckNBuxqFB7Xce7BgwFnWagem
 [GOLD](https://tonviewer.com/0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c) | EQByVysfErmFFWpaCXIHU68SF0v6O0g59KWhrqxeBPDyjEQ_
 [GOPNIK CATS](https://tonviewer.com/0:33a94600fd06ef5f61a451a52eeb097a4d3730cb9832b6f529da0ab0f455532c) | EQAzqUYA_QbvX2GkUaUu6wl6TTcwy5gytvUp2gqw9FVTLGfY
 [GPU — M2M coin](https://tonviewer.com/0:882d632d4eefd2845bb458f667671f527c25fbd1d4f2a41112b9b28c6543d039) | EQCILWMtTu_ShFu0WPZnZx9SfCX70dTypBESubKMZUPQOd53

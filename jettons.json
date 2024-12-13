@@ -1251,6 +1251,20 @@
   ]
  },
  {
+  "address": "EQC2CUQqMJuVkO_ioXE9MvW9ckNBuxqFB7Xce7BgwFnWagem",
+  "description": "Baa-lieve the hype!",
+  "image": "https://dev.goatsbot.xyz/images/logo.webp",
+  "name": "GOATS",
+  "social": [
+   "https://x.com/GOATS_immortal",
+   "https://t.me/realgoats_channel"
+  ],
+  "symbol": "GOATS",
+  "websites": [
+   "https://ton.goatsbot.xyz/"
+  ]
+ },
+ {
   "address": "0:25e67ae49ec3465f01696bc3cf8bebebde4314bce7b9d615067bdc0e80f7fef6",
   "image": "https://tongodcoin.github.io/tongodcoin/logo.png",
   "name": "TON GOD",
