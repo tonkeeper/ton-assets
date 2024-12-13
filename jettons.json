@@ -1494,6 +1494,21 @@
   ]
  },
  {
+  "address": "0:68dd6d7d3bddaa2e376861b11101316d414875429fcd649e8953f957c8b9c650",
+  "description": "\ud83d\udc08 Ultimate RPG on TON.",
+  "image": "https://i.ibb.co/JFhQ1vX/logo-kat.png",
+  "name": "Kat Knight",
+  "social": [
+   "https://www.youtube.com/@KatKnight_TONGame",
+   "https://x.com/TONKatKnight",
+   "https://t.me/KatKnightCommunity"
+  ],
+  "symbol": "KAT",
+  "websites": [
+   "https://katknight.io/"
+  ]
+ },
+ {
   "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
   "description": "Is an ecosystem token in the TON blockchain with a large Telegram community.",
   "image": "https://i.ibb.co/FbTCKRP/logotokenkingy.png",
