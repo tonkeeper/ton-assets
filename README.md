@@ -149,6 +149,7 @@ Name           | Address
 [Bakalchuk](https://tonviewer.com/0:ef39c29f72785e150fb40ce3df085afcc3664f307108f4ca0ee0092140b9b335) | EQDvOcKfcnheFQ-0DOPfCFr8w2ZPMHEI9MoO4AkhQLmzNTFT
 [Bald World Order](https://tonviewer.com/0:e6c34c46f6617597428b81c8ec0e79eeefd4a4334238a34f6d026467914049ba) | EQDmw0xG9mF1l0KLgcjsDnnu79SkM0I4o09tAmRnkUBJuol5
 [BananaCycle](https://tonviewer.com/0:f17f77a7febca6846d1bc07184b795e86510162514324824c5fb8aac1f2e0d9b) | EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2
+[Barokuz](https://tonviewer.com/0:24b5044e4ef1608e374655d6e3beb178f3eae877d430d95c1fa791a84fa17551) | EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu
 [Baron](https://tonviewer.com/0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca) | EQBiHSLVzoicc-LQPDXJc_rF-WRft0aFihccFduA6fQ1ynYM
 [Batymchanin Coin](https://tonviewer.com/0:9704ab35ee9a9540dfc688da1a8519b142f29dbbcfb62f4594ac8a092819508b) | EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH
 [Bayerische Motoren Werke AG Coin](https://tonviewer.com/0:66f143ad8511cc1abeab0ac351355c0502b6077163a0c3aa408f8259d91890fb) | EQBm8UOthRHMGr6rCsNRNVwFArYHcWOgw6pAj4JZ2RiQ-yI1
@@ -715,6 +716,7 @@ Name           | Address
 [TON SCAM](https://tonviewer.com/0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b) | EQBMXKRTIgCYxqyBhBx33b1WdQtyCnOii7KNQl_Pw8Z7O909
 [TON SHIBA](https://tonviewer.com/0:e527c99710ffff68548ee416cc303a2f30bb542d92df1260db1a47583d55bf31) | EQDlJ8mXEP__aFSO5BbMMDovMLtULZLfEmDbGkdYPVW_MYYJ
 [TON SHIP](https://tonviewer.com/0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d) | EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs
+[TON Shaker](https://tonviewer.com/0:e36e3a37f78deb87f871c723099d2879afffad43108d550b4bf1d693b53a2f03) | EQDjbjo3943rh_hxxyMJnSh5r_-tQxCNVQtL8daTtTovA21s
 [TON Storm LP](https://tonviewer.com/0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea) | EQCNY2AQ3ZDYwJAqx_nzl9i9Xhd_Ex7izKJM6JTxXRnO6n1F
 [TON7DAO](https://tonviewer.com/0:3b9cb248f84a1ce680731019e52f37b34c4c06351bf2479b57ee25874fc28fc1) | EQA7nLJI-Eoc5oBzEBnlLzezTEwGNRvyR5tX7iWHT8KPwVy1
 [TONALD TRUMP](https://tonviewer.com/0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9) | EQCX_vSR8q0OSN74_BSq_ZieLZuNGx7wt0sXq1t5EI0q2SRI
