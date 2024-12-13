@@ -467,6 +467,19 @@
         ]
     },
     {
+        "address": "EQB-vc00g9PeUWLptSAH4g1J5kYS7WTgtVEfhI6oKdQtRudE",
+        "description": "Clayton is blue, fluffy friend of TON.",
+        "image": "https://i.ibb.co/r6SLkLj/256t1.png",
+        "name": "Clayton",
+        "social": [
+            "https://t.me/clayton"
+        ],
+        "symbol": "$CLAY",
+        "websites": [
+            "https://t.me/claytoncoinbot"
+        ]
+    },
+    {
         "address": "0:b80f1e4cab2f6a86a1e91f4725fd4f217a3067721357667fcbd3f3a3db32d8e4",
         "description": "Telegram's favorite COIN! The Coin everyone should have. From Telegram's famous \"The Coin\" sticker pack!",
         "image": "https://raw.githubusercontent.com/TheCoinOnTon/TheCoin/main/coin%20logo%20png.png",
@@ -1235,6 +1248,20 @@
         "symbol": "GMC",
         "websites": [
             "https://greatmindsclassic.vip/"
+        ]
+    },
+    {
+        "address": "EQC2CUQqMJuVkO_ioXE9MvW9ckNBuxqFB7Xce7BgwFnWagem",
+        "description": "Baa-lieve the hype!",
+        "image": "https://dev.goatsbot.xyz/images/logo.webp",
+        "name": "GOATS",
+        "social": [
+            "https://x.com/GOATS_immortal",
+            "https://t.me/realgoats_channel"
+        ],
+        "symbol": "GOATS",
+        "websites": [
+            "https://ton.goatsbot.xyz/"
         ]
     },
     {
@@ -2827,6 +2854,22 @@
         ]
     },
     {
+        "address": "EQBgI-rl6SzhJp5Rtoqg0JlWsgPH4rnVkU6EAnD1yvOuzMPG",
+        "description": "$SW Token - Super WONTON \ud83e\udd5f \ud83d\udd25 Born to Cook, So LFC! Created by the WONTON Fam, $SW showcases the superpower of WONTON and the strength of the community. \ud83d\udcaa",
+        "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbgi-rl6szhjp5rtoqg0jlwsgph4rnvku6eand1yvouzmpg.png",
+        "name": "SuperWonton",
+        "social": [
+            "https://x.com/SuperwontonOrg",
+            "https://t.me/superwonton"
+        ],
+        "symbol": "SW",
+        "websites": [
+            "http://superwonton.xyz/",
+            "https://dexscreener.com/ton/eqa8mzxhfmgid8_k65boet_sxvyebpypwafe4pww2r2sqkbc",
+            "https://www.geckoterminal.com/ton/pools/EQA8MzXHfmGid8_K65boEt_sXVyEbPYPwaFe4PwW2R2sQKbC"
+        ]
+    },
+    {
         "address": "EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft",
         "description": "NFT Sticker on TON. Girl meta. Community take over.",
         "image": "https://raw.githubusercontent.com/SteamyJulia/crypto-assets/main/julia%20(1).png",
@@ -3517,6 +3560,18 @@
         "symbol": "jWBTC"
     },
     {
+        "address": "EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu",
+        "decimals": "9",
+        "description": "Ben De\u011fil Biziz Hepimiz Barokuz",
+        "image": "https://storage.dyor.io/jettons/EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu/image.jpeg",
+        "name": "Barokuz",
+        "social": [
+            "https://t.me/barokuz",
+            "https://x.com/barokuz"
+        ],
+        "symbol": "BRK"
+    },
+    {
         "address": "EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy",
         "description": "cgUSDT is a Jetton-standard variable price inflation-resistant stablecoin.",
         "image": "https://ton.cygnus.finance/jetton-metadata/cgusdt.svg",
@@ -3610,6 +3665,20 @@
         "address": "0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63",
         "name": "Hipo Staked TON v1",
         "symbol": "hTON1"
+    },
+    {
+        "address": "EQCxvMXPTfbX_gY5e31EQUJgiNzpc0TNDIOnP8uZ8br-k27B",
+        "decimals": 9,
+        "description": "Token of the project \"I Know This Place..?\". Trans-media universe including game series, short films and interaction with the public. The token is integrated into the universe and is used to get a VIP subscription, add player items to the game, and more. Find out more information on the project website https://i-Know.net",
+        "image": "https://i-know.net/iKnow_token.png",
+        "name": "iKnow",
+        "social": [
+            "t.me/IKTP_RU"
+        ],
+        "symbol": "IKNOW",
+        "websites": [
+            "https://i-Know.net"
+        ]
     },
     {
         "address": "EQB_frCufFqUGVQuDd8UiNO9O1skgO0gzsSEpjHZ-wykdBD3",
@@ -5724,139 +5793,9 @@
         "symbol": "FROG"
     },
     {
-        "address": "EQCavQv8vsZ1waQnqz3lmGEw2HkUM2clUrzjJotwpwzrgcx4",
-        "name": "BOOBA Coin",
-        "symbol": "BOOBA"
-    },
-    {
-        "address": "EQAGmoDyXkjFXu_sdtRY6QVhFsDTxoXRDIuJJ2HHoh0nl4W5",
-        "name": "TradeBet",
-        "symbol": "TRB"
-    },
-    {
-        "address": "EQDzTDu-LWLeUgA7vXe8YwGz9PYGKJ-cz-JlKZD9TGVX74cG",
-        "name": "DOGG TON",
-        "symbol": "DOGG"
-    },
-    {
-        "address": "EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA",
-        "name": "Utya",
-        "symbol": "UTYA"
-    },
-    {
-        "address": "EQCivShe-nigManAil8iRxwKsp74cA0q0a00kmPBtLfRHQgB",
-        "name": "Mihaylets Community",
-        "symbol": "MCOM"
-    },
-    {
-        "address": "EQC24zbmyONM-m3DeCCYQpDRiinGjOu2cCHevwUFGWvdotAQ",
-        "name": "Spotty",
-        "symbol": "Spotty"
-    },
-    {
-        "address": "EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C",
-        "name": "TON Cats Jetton",
-        "symbol": "CATS"
-    },
-    {
-        "address": "EQDu9ijk44grAHe3Dy9qYOy-hic-vJr4d1CH3HNyN-gT5LyL",
-        "name": "ChronoTech Token",
-        "symbol": "jTIME"
-    },
-    {
-        "address": "EQACLXDwit01stiqK9FvYiJo15luVzfD5zU8uwDSq6JXxbP8",
-        "name": "Spintria",
-        "symbol": "SP"
-    },
-    {
-        "address": "EQBh4XMahI9T81bj2DbAd97ZLQDoHM2rv2U5B59DVZkVN1pl",
-        "name": "CATA",
-        "symbol": "CATA"
-    },
-    {
-        "address": "EQAmQGimKRrSHDLllvdUdeDsX1CszGy_SPgNNN8wE2ihIwnP",
-        "name": "TON PET MEMECOIN",
-        "symbol": "TPET"
-    },
-    {
-        "address": "EQCX_vSR8q0OSN74_BSq_ZieLZuNGx7wt0sXq1t5EI0q2SRI",
-        "name": "TONALD TRUMP",
-        "symbol": "TONALD"
-    },
-    {
-        "address": "EQC1bH4tFR2tEVQuW4i2RwwpccoaSy-GRQEqYrCKgZNfNw0r",
-        "name": "Shards of Anonymous Telegram Numbers",
-        "symbol": "8num"
-    },
-    {
-        "address": "EQBE6A9Pf7DGcOVjnzoR_kEoi0uGgSBRVT4GMsbEqIoTCcNt",
-        "name": "GRAND",
-        "symbol": "GRAND"
-    },
-    {
-        "address": "EQD4Vj5a5obPYY2QfgQMfZ0qi3GPlSRxBu_n6qIBJWUmrPZ8",
-        "name": "TON FLOKI",
-        "symbol": "TFLOKI"
-    },
-    {
-        "address": "EQDqz7LTwgj016kiTiSooM_ft8kveL2P4pj4fkJmsUV_an_X",
-        "name": "KAKAXA",
-        "symbol": "KAKAXA"
-    },
-    {
-        "address": "EQBxbQytL64wuTz51KcpOLdTDSOhqrV1LaPKDrhOqLB3v4qj",
-        "name": "Buffy",
-        "symbol": "BUFFY"
-    },
-    {
-        "address": "EQB8O0JJ-hqeDAqDC1OG6zPYBfpV-QzwPed0kpcbILXsmAxG",
-        "name": "Gem",
-        "symbol": "GEM"
-    },
-    {
-        "address": "EQDjOH3noUJVCXLSBxCh2agnh4OELDvoGBXwUNTxzZpaEWH4",
-        "name": "TON KONG",
-        "symbol": "KONG"
-    },
-    {
-        "address": "EQCYLW2uXyMiCIfQawyp2Fbmk8DqDhMmYje9cINU46IgrEEu",
-        "name": "ALENKA",
-        "symbol": "ALENKA"
-    },
-    {
-        "address": "EQB64g1YNILqmPFdjG1_uxWqCEP0VY141Y2pP0L1YDBdTKQ3",
-        "name": "1PLAYER TOKEN",
-        "symbol": "1PTON"
-    },
-    {
-        "address": "EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC",
-        "name": "Tonk Inu",
-        "symbol": "TONK"
-    },
-    {
-        "address": "EQAaV7Q9M0vrO5HfKrPNnQneXB-S9RyBneMNeX4KzECIYrdk",
-        "name": "MrKrabs",
-        "symbol": "KRABS"
-    },
-    {
-        "address": "EQCqnhZndBGbwjPpV8K_8WOK58ZkQPXlS_bshau9DKWnAF-p",
-        "name": "GAMEE",
-        "symbol": "jGMEE"
-    },
-    {
-        "address": "EQC47YfVLWo-U_z7s6iEOkYAAEKF_C0-gBiB8KJL6s5m4JOP",
-        "name": "TOWER",
-        "symbol": "jTOWER"
-    },
-    {
         "address": "EQCaXA23e6IRVs6yKqjKSl_FGXq1bnIt43UFtSFOGP4WU3d5",
         "name": "Things Regular Token",
         "symbol": "THNG"
-    },
-    {
-        "address": "EQCRyx0kmadq2UcZu7GP6hH9tYtqWC4R5HTk6uKloainuqoB",
-        "name": "What The",
-        "symbol": "WTF"
     },
     {
         "address": "EQCNCUxFwMsNYKTv89WuRX5pyxDCWqlgBi4Tl8zytjllNTaC",
@@ -5864,84 +5803,9 @@
         "symbol": "TIME"
     },
     {
-        "address": "EQBCECrR9MCGD9DRLTMdB4YHXXz1v3jeQBOFbOX9BmBomvcF",
-        "name": "3CATS in a Trench Coat",
-        "symbol": "3CATS"
-    },
-    {
-        "address": "EQAXFnF_CGPIXD5B56C-XPEyTAJiN4C1hI0-JjG5Suc6wzDA",
-        "name": "Wisdomise",
-        "symbol": "WSDM"
-    },
-    {
-        "address": "EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j",
-        "name": "The Resistance Cat",
-        "symbol": "$RECA"
-    },
-    {
-        "address": "EQBaK9EduDjr0WHEB6NJ3JCOb_ITnX09ek5YT1-73toagYCp",
-        "name": "Memelandia Ton",
-        "symbol": "MEMELAND"
-    },
-    {
-        "address": "EQCxXcLuDo7OLyks-iGODGCpPTi5G9Yhq3DVwpjTV53xfuOu",
-        "name": "BIG BALLS BIRDS",
-        "symbol": "BALLS"
-    },
-    {
-        "address": "EQC_BL8coX-feVxZ-_XGFU6YcBcKeAxqHiVjinN_t1ADTUwr",
-        "name": "HAMSTERBATYA",
-        "symbol": "BATYA"
-    },
-    {
-        "address": "EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2",
-        "name": "Paper Plane",
-        "symbol": "PLANE"
-    },
-    {
-        "address": "EQCLWvCj44QYTeLujnCYKH7DoAuk_O7QI-LnAt3X5bOfNFMy",
-        "name": "Hedgehog in the fog",
-        "symbol": "HIF"
-    },
-    {
-        "address": "EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_",
-        "name": "Flamingo Coin",
-        "symbol": "FLAM"
-    },
-    {
-        "address": "EQDo8QC6mVi7Gq6uGWDF4XVp3cZ4wKZ-bqKBkmhVMPm-1ojm",
-        "name": "NikolAI",
-        "symbol": "NIKO"
-    },
-    {
-        "address": "EQC7js8NLX3v57ZuRmuusNtMSBdki4va_qyL7sAwdmosf_xK",
-        "name": "Amocucinare",
-        "symbol": "AMORE"
-    },
-    {
-        "address": "EQB64Q2183H9XqsrR9h6tV83AnRlFX86MJWRCMQlsgQU2-yv",
-        "name": "Morfey",
-        "symbol": "MORFEY"
-    },
-    {
-        "address": "EQDN11TTPTxw_xSPJs_zyrzIRml4JXDlppAmYzJq--tmpA6V",
-        "name": "tepe",
-        "symbol": "TEPE"
-    },
-    {
-        "address": "EQBX6K9aXVl3nXINCyPPL86C4ONVmQ8vK360u6dykFKXpHCa",
-        "name": "GEMSTON",
-        "symbol": "GEMSTON"
-    },
-    {
-        "address": "EQDYIz3EJa1GPp78qEvG0ZjFJoSsBbSo2i-n00lb-h5D8HxT",
-        "name": "Toned Ape Coin",
-        "symbol": "TAC"
-    },
-    {
-        "address": "EQCktEmAsvYBn8DPS6lu4QfatjEJJRLwD94aDqb8Ss6etuaA",
-        "name": "TIGER",
-        "symbol": "TIGER"
+        "address": "EQC1bH4tFR2tEVQuW4i2RwwpccoaSy-GRQEqYrCKgZNfNw0r",
+        "name": "Shards of Anonymous Telegram Numbers",
+        "symbol": "8num"
     },
     {
         "address": "EQB4zZusHsbU2vVTPqjhlokIOoiZhEdCMT703CWEzhTOo__X",
@@ -5949,19 +5813,164 @@
         "symbol": "X"
     },
     {
+        "address": "EQCavQv8vsZ1waQnqz3lmGEw2HkUM2clUrzjJotwpwzrgcx4",
+        "name": "BOOBA Coin",
+        "symbol": "BOOBA"
+    },
+    {
+        "address": "EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j",
+        "name": "The Resistance Cat",
+        "symbol": "$RECA"
+    },
+    {
+        "address": "EQCRyx0kmadq2UcZu7GP6hH9tYtqWC4R5HTk6uKloainuqoB",
+        "name": "What The",
+        "symbol": "WTF"
+    },
+    {
+        "address": "EQB64Q2183H9XqsrR9h6tV83AnRlFX86MJWRCMQlsgQU2-yv",
+        "name": "Morfey",
+        "symbol": "MORFEY"
+    },
+    {
+        "address": "EQD4Vj5a5obPYY2QfgQMfZ0qi3GPlSRxBu_n6qIBJWUmrPZ8",
+        "name": "TON FLOKI",
+        "symbol": "TFLOKI"
+    },
+    {
+        "address": "EQC47YfVLWo-U_z7s6iEOkYAAEKF_C0-gBiB8KJL6s5m4JOP",
+        "name": "TOWER",
+        "symbol": "jTOWER"
+    },
+    {
+        "address": "EQBE6A9Pf7DGcOVjnzoR_kEoi0uGgSBRVT4GMsbEqIoTCcNt",
+        "name": "GRAND",
+        "symbol": "GRAND"
+    },
+    {
+        "address": "EQAaV7Q9M0vrO5HfKrPNnQneXB-S9RyBneMNeX4KzECIYrdk",
+        "name": "MrKrabs",
+        "symbol": "KRABS"
+    },
+    {
+        "address": "EQBX4ruh51In2_sLK6GW8mKjJSatoUp8xMOxYPEjsSh3y_CB",
+        "name": "T-Project Jetton",
+        "symbol": "TTTU"
+    },
+    {
+        "address": "EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA",
+        "name": "Utya",
+        "symbol": "UTYA"
+    },
+    {
+        "address": "EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2",
+        "name": "Paper Plane",
+        "symbol": "PLANE"
+    },
+    {
+        "address": "EQBh4XMahI9T81bj2DbAd97ZLQDoHM2rv2U5B59DVZkVN1pl",
+        "name": "CATA",
+        "symbol": "CATA"
+    },
+    {
+        "address": "EQB8O0JJ-hqeDAqDC1OG6zPYBfpV-QzwPed0kpcbILXsmAxG",
+        "name": "Gem",
+        "symbol": "GEM"
+    },
+    {
+        "address": "EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC",
+        "name": "Tonk Inu",
+        "symbol": "TONK"
+    },
+    {
+        "address": "EQBaK9EduDjr0WHEB6NJ3JCOb_ITnX09ek5YT1-73toagYCp",
+        "name": "Memelandia Ton",
+        "symbol": "MEMELAND"
+    },
+    {
+        "address": "EQDN11TTPTxw_xSPJs_zyrzIRml4JXDlppAmYzJq--tmpA6V",
+        "name": "tepe",
+        "symbol": "TEPE"
+    },
+    {
+        "address": "EQACLXDwit01stiqK9FvYiJo15luVzfD5zU8uwDSq6JXxbP8",
+        "name": "Spintria",
+        "symbol": "SP"
+    },
+    {
+        "address": "EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C",
+        "name": "TON Cats Jetton",
+        "symbol": "CATS"
+    },
+    {
+        "address": "EQC24zbmyONM-m3DeCCYQpDRiinGjOu2cCHevwUFGWvdotAQ",
+        "name": "Spotty",
+        "symbol": "Spotty"
+    },
+    {
         "address": "EQBKRSNRkeP1-2jcg5T_f__0s5Hj-vrbfNLMQy8dnZs7xd_p",
         "name": "Hot Cherry",
         "symbol": "CHERRY"
     },
     {
-        "address": "EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p",
-        "name": "Pi Ton Network",
-        "symbol": "PITON"
+        "address": "EQBCECrR9MCGD9DRLTMdB4YHXXz1v3jeQBOFbOX9BmBomvcF",
+        "name": "3CATS in a Trench Coat",
+        "symbol": "3CATS"
+    },
+    {
+        "address": "EQCivShe-nigManAil8iRxwKsp74cA0q0a00kmPBtLfRHQgB",
+        "name": "Mihaylets Community",
+        "symbol": "MCOM"
+    },
+    {
+        "address": "EQCktEmAsvYBn8DPS6lu4QfatjEJJRLwD94aDqb8Ss6etuaA",
+        "name": "TIGER",
+        "symbol": "TIGER"
+    },
+    {
+        "address": "EQAGmoDyXkjFXu_sdtRY6QVhFsDTxoXRDIuJJ2HHoh0nl4W5",
+        "name": "TradeBet",
+        "symbol": "TRB"
+    },
+    {
+        "address": "EQDqz7LTwgj016kiTiSooM_ft8kveL2P4pj4fkJmsUV_an_X",
+        "name": "KAKAXA",
+        "symbol": "KAKAXA"
+    },
+    {
+        "address": "EQDu9ijk44grAHe3Dy9qYOy-hic-vJr4d1CH3HNyN-gT5LyL",
+        "name": "ChronoTech Token",
+        "symbol": "jTIME"
     },
     {
         "address": "EQBng_Ux8DLKeaLZ4kN4eec-U-SJ1fMtYvqQANtL0oxKRQh_",
         "name": "sTONks",
         "symbol": "sTONks"
+    },
+    {
+        "address": "EQCX_vSR8q0OSN74_BSq_ZieLZuNGx7wt0sXq1t5EI0q2SRI",
+        "name": "TONALD TRUMP",
+        "symbol": "TONALD"
+    },
+    {
+        "address": "EQC_BL8coX-feVxZ-_XGFU6YcBcKeAxqHiVjinN_t1ADTUwr",
+        "name": "HAMSTERBATYA",
+        "symbol": "BATYA"
+    },
+    {
+        "address": "EQDYIz3EJa1GPp78qEvG0ZjFJoSsBbSo2i-n00lb-h5D8HxT",
+        "name": "Toned Ape Coin",
+        "symbol": "TAC"
+    },
+    {
+        "address": "EQDzTDu-LWLeUgA7vXe8YwGz9PYGKJ-cz-JlKZD9TGVX74cG",
+        "name": "DOGG TON",
+        "symbol": "DOGG"
+    },
+    {
+        "address": "EQDo8QC6mVi7Gq6uGWDF4XVp3cZ4wKZ-bqKBkmhVMPm-1ojm",
+        "name": "NikolAI",
+        "symbol": "NIKO"
     },
     {
         "address": "EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB",
@@ -5974,9 +5983,69 @@
         "symbol": "jMNT"
     },
     {
-        "address": "EQBX4ruh51In2_sLK6GW8mKjJSatoUp8xMOxYPEjsSh3y_CB",
-        "name": "T-Project Jetton",
-        "symbol": "TTTU"
+        "address": "EQAXFnF_CGPIXD5B56C-XPEyTAJiN4C1hI0-JjG5Suc6wzDA",
+        "name": "Wisdomise",
+        "symbol": "WSDM"
+    },
+    {
+        "address": "EQBxbQytL64wuTz51KcpOLdTDSOhqrV1LaPKDrhOqLB3v4qj",
+        "name": "Buffy",
+        "symbol": "BUFFY"
+    },
+    {
+        "address": "EQBX6K9aXVl3nXINCyPPL86C4ONVmQ8vK360u6dykFKXpHCa",
+        "name": "GEMSTON",
+        "symbol": "GEMSTON"
+    },
+    {
+        "address": "EQC7js8NLX3v57ZuRmuusNtMSBdki4va_qyL7sAwdmosf_xK",
+        "name": "Amocucinare",
+        "symbol": "AMORE"
+    },
+    {
+        "address": "EQCYLW2uXyMiCIfQawyp2Fbmk8DqDhMmYje9cINU46IgrEEu",
+        "name": "ALENKA",
+        "symbol": "ALENKA"
+    },
+    {
+        "address": "EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p",
+        "name": "Pi Ton Network",
+        "symbol": "PITON"
+    },
+    {
+        "address": "EQDjOH3noUJVCXLSBxCh2agnh4OELDvoGBXwUNTxzZpaEWH4",
+        "name": "TON KONG",
+        "symbol": "KONG"
+    },
+    {
+        "address": "EQCxXcLuDo7OLyks-iGODGCpPTi5G9Yhq3DVwpjTV53xfuOu",
+        "name": "BIG BALLS BIRDS",
+        "symbol": "BALLS"
+    },
+    {
+        "address": "EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_",
+        "name": "Flamingo Coin",
+        "symbol": "FLAM"
+    },
+    {
+        "address": "EQAmQGimKRrSHDLllvdUdeDsX1CszGy_SPgNNN8wE2ihIwnP",
+        "name": "TON PET MEMECOIN",
+        "symbol": "TPET"
+    },
+    {
+        "address": "EQB64g1YNILqmPFdjG1_uxWqCEP0VY141Y2pP0L1YDBdTKQ3",
+        "name": "1PLAYER TOKEN",
+        "symbol": "1PTON"
+    },
+    {
+        "address": "EQCqnhZndBGbwjPpV8K_8WOK58ZkQPXlS_bshau9DKWnAF-p",
+        "name": "GAMEE",
+        "symbol": "jGMEE"
+    },
+    {
+        "address": "EQCLWvCj44QYTeLujnCYKH7DoAuk_O7QI-LnAt3X5bOfNFMy",
+        "name": "Hedgehog in the fog",
+        "symbol": "HIF"
     },
     {
         "address": "EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC",
