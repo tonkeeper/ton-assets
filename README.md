@@ -716,6 +716,7 @@ Name           | Address
 [TON SCAM](https://tonviewer.com/0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b) | EQBMXKRTIgCYxqyBhBx33b1WdQtyCnOii7KNQl_Pw8Z7O909
 [TON SHIBA](https://tonviewer.com/0:e527c99710ffff68548ee416cc303a2f30bb542d92df1260db1a47583d55bf31) | EQDlJ8mXEP__aFSO5BbMMDovMLtULZLfEmDbGkdYPVW_MYYJ
 [TON SHIP](https://tonviewer.com/0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d) | EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs
+[TON Shaker](https://tonviewer.com/0:e36e3a37f78deb87f871c723099d2879afffad43108d550b4bf1d693b53a2f03) | EQDjbjo3943rh_hxxyMJnSh5r_-tQxCNVQtL8daTtTovA21s
 [TON Storm LP](https://tonviewer.com/0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea) | EQCNY2AQ3ZDYwJAqx_nzl9i9Xhd_Ex7izKJM6JTxXRnO6n1F
 [TON7DAO](https://tonviewer.com/0:3b9cb248f84a1ce680731019e52f37b34c4c06351bf2479b57ee25874fc28fc1) | EQA7nLJI-Eoc5oBzEBnlLzezTEwGNRvyR5tX7iWHT8KPwVy1
 [TONALD TRUMP](https://tonviewer.com/0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9) | EQCX_vSR8q0OSN74_BSq_ZieLZuNGx7wt0sXq1t5EI0q2SRI

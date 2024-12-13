@@ -3135,6 +3135,22 @@
   ]
  },
  {
+  "address": "0:e36e3a37f78deb87f871c723099d2879afffad43108d550b4bf1d693b53a2f03",
+  "description": "Join the Shakeconomy! Shake your phone, earn real crypto, and turn your efforts into rewards.",
+  "image": "https://cdn.shaker.telegame.studio/misc/coin.png",
+  "name": "TON Shaker",
+  "social": [
+   "https://t.me/tonshaker_news",
+   "https://x.com/tonshaker"
+  ],
+  "symbol": "TOSH",
+  "websites": [
+   "https://tonshaker.com",
+   "https://t.me/tonshakerbot",
+   "https://ton-shaker.gitbook.io/whitepaper"
+  ]
+ },
+ {
   "address": "0:2198385630a13f7995f494ede6c7925241cf96d8ef88950ec16972cc8a8c9e13",
   "image": "https://raw.githubusercontent.com/GbGr/pavlik228-assets/refs/heads/main/tvm.png",
   "name": "TVM",
