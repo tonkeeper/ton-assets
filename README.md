@@ -149,6 +149,7 @@ Name           | Address
 [Bakalchuk](https://tonviewer.com/0:ef39c29f72785e150fb40ce3df085afcc3664f307108f4ca0ee0092140b9b335) | EQDvOcKfcnheFQ-0DOPfCFr8w2ZPMHEI9MoO4AkhQLmzNTFT
 [Bald World Order](https://tonviewer.com/0:e6c34c46f6617597428b81c8ec0e79eeefd4a4334238a34f6d026467914049ba) | EQDmw0xG9mF1l0KLgcjsDnnu79SkM0I4o09tAmRnkUBJuol5
 [BananaCycle](https://tonviewer.com/0:f17f77a7febca6846d1bc07184b795e86510162514324824c5fb8aac1f2e0d9b) | EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2
+[Barokuz](https://tonviewer.com/0:24b5044e4ef1608e374655d6e3beb178f3eae877d430d95c1fa791a84fa17551) | EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu
 [Baron](https://tonviewer.com/0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca) | EQBiHSLVzoicc-LQPDXJc_rF-WRft0aFihccFduA6fQ1ynYM
 [Batymchanin Coin](https://tonviewer.com/0:9704ab35ee9a9540dfc688da1a8519b142f29dbbcfb62f4594ac8a092819508b) | EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH
 [Bayerische Motoren Werke AG Coin](https://tonviewer.com/0:66f143ad8511cc1abeab0ac351355c0502b6077163a0c3aa408f8259d91890fb) | EQBm8UOthRHMGr6rCsNRNVwFArYHcWOgw6pAj4JZ2RiQ-yI1

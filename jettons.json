@@ -3549,6 +3549,18 @@
   "symbol": "jWBTC"
  },
  {
+  "address": "EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu",
+  "decimals": 9,
+  "description": "Ben De\u011fil Biziz Hepimiz Barokuz",
+  "image": "https://storage.dyor.io/jettons/EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu/image.jpeg",
+  "name": "Barokuz",
+  "social": [
+   "https://t.me/barokuz",
+   "https://x.com/barokuz"
+  ],
+  "symbol": "BRK"
+ },
+ {
   "address": "EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy",
   "description": "cgUSDT is a Jetton-standard variable price inflation-resistant stablecoin.",
   "image": "https://ton.cygnus.finance/jetton-metadata/cgusdt.svg",
