@@ -166,7 +166,6 @@ Name           | Address
 [Botfather](https://tonviewer.com/0:609599c3e670a5202dd086acacb3a327e53824f4dcca91af4c9c1a5f2565f27b) | EQBglZnD5nClIC3Qhqyss6Mn5Tgk9NzKka9MnBpfJWXye9p4
 [Boys Club](https://tonviewer.com/0:2d62f45d3f29bf54fe372424e169fcd38631b3f0e55b1a7cbfc1359a69e97aef) | EQAtYvRdPym_VP43JCThafzThjGz8OVbGny_wTWaael671Uq
 [Brett](https://tonviewer.com/0:2799a9c935f3b4ec41d902c1e875ee00cb10856e88a86c5d7e634e10ed41bdb2) | EQAnmanJNfO07EHZAsHode4AyxCFboiobF1-Y04Q7UG9sinZ
-[Bubb Ai Agent](https://tonviewer.com/0:165365ccbfd5663e63ab68b9920929f25ca8f4a6ac5f77255ed510f36ed5eee1) | EQAWU2XMv9VmPmOraLmSCSnyXKj0pqxfdyVe1RDzbtXu4X38
 [Buffy](https://tonviewer.com/0:716d0cad2fae30b93cf9d4a72938b7530d23a1aab5752da3ca0eb84ea8b077bf) | EQBxbQytL64wuTz51KcpOLdTDSOhqrV1LaPKDrhOqLB3v4qj
 [BulCoin](https://tonviewer.com/0:ffb45cfd25045564d320cb76f3be7cde8bd75ea3da9ce4d32dba61b8fecc75cd) | EQD_tFz9JQRVZNMgy3bzvnzei9deo9qc5NMtumG4_sx1zZRc
 [Bull on TON](https://tonviewer.com/0:c8fd05d87a2c2b58df3932b384b9c671b265fc5ca36c8de84e8f3935df4134a6) | EQDI_QXYeiwrWN85MrOEucZxsmX8XKNsjehOjzk130E0pn1c
@@ -367,7 +366,6 @@ Name           | Address
 [Kartoshka](https://tonviewer.com/0:5f97fa738bcb7f7d85c9132819a33f1c21dd6c7639cf4ec069bea8878e08174b) | EQBfl_pzi8t_fYXJEygZoz8cId1sdjnPTsBpvqiHjggXS3Ep
 [Kito](https://tonviewer.com/0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7) | EQCSLLVQ8qdhEqZUKaiKU7F6sVfnNPmQ4FsCpCo8olo795LP
 [Kote Coin](https://tonviewer.com/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
-[KuKuCoin](https://tonviewer.com/0:8353d80db0653bd7316e016e3df0757d248e32d354e49c9a60b71bcb3d46a73e) | EQCDU9gNsGU71zFuAW498HV9JI4y01TknJpgtxvLPUanPkxR
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
 [LAMBO](https://tonviewer.com/0:c4d623eb3fcd0bd7b473907dd896e5ec11c9f98be6cf15fb9edb9f6e30a28513) | EQDE1iPrP80L17RzkH3YluXsEcn5i-bPFfue259uMKKFE3h0
 [LEMONIA](https://tonviewer.com/0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3) | EQC8cPrQx6Qsi-NHMcC1PpRmtaieCiUBcb-d095q6ENUs7XT
