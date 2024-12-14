@@ -1,0 +1,11 @@
+name: Kolo
+description: "Digital currency empowering Africa with secure, decentralized transactions."
+image: "https://raw.githubusercontent.com/Kolo-Cash/website/refs/heads/main/Kolo-logo.png"
+address: EQDhYtiz38Fp9-Nryz1ZBk39srnLJpABFf69m3HCPGf1cDzd
+symbol: KOL
+max_supply: 1000000000
+websites:
+  - "https://www.kolocash.com"
+social:
+  - "https://t.me/kolocash"
+  - "https://x.com/kolocash237"
