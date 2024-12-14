@@ -1,0 +1,10 @@
+- address: 0:06d39e7ce13bc669cdd551aaca5397dfc712976080ef9db35669c674d4ccbffc
+  name: Pie Token
+  symbol: PIE
+  description: Pie Trading Platform Official Jetton on TON blockchain (https://pie.trading)
+  image: https://dl4.pizzaton.me/khan_pie/vendor/jetton/logo.png
+  websites:
+    - https://pie.trading
+  social:
+    - https://t.me/PieTrade
+    - https://x.com/Pie_Exchange
