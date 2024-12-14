@@ -111,7 +111,7 @@
  {
   "address": "0:da575430fcbd3f8c25e0bed61c2817111a3388af1fc2673a2a644d622200c7e6",
   "description": "Asterion is a platform that makes sending and receiving money worldwide easy, fast, and cheap. It uses real-world assets to connect cryptocurrencies with traditional money, so you can use them for everyday purchases.",
-  "image": "https://i.imgur.com/D6GxoZt.png",
+  "image": "https://asterion.finance/images/D6GxoZt.png",
   "name": "ASTERION",
   "social": [
    "https://t.me/asterionglobal",
@@ -1073,7 +1073,7 @@
  {
   "address": "EQCsuMNXBJdv7uuUpEIqC9tiBdkw0lu44endC0f1LyVfxZPD",
   "description": "Fswap is a user-friendly and safe platform for cryptocurrency exchange. The service provides fast transactions, high level of protection of user funds without registration.",
-  "image": "https://imgur.com/X8aadNT",
+  "image": "https://i.ibb.co/d2cxvDN/Frame-738004272.png",
   "name": "Fswap",
   "social": [
    "https://x.com/official_fswap",
@@ -1491,6 +1491,21 @@
   "symbol": "JVS",
   "websites": [
    "https://jarvisbot.pro/"
+  ]
+ },
+ {
+  "address": "0:68dd6d7d3bddaa2e376861b11101316d414875429fcd649e8953f957c8b9c650",
+  "description": "\ud83d\udc08 Ultimate RPG on TON.",
+  "image": "https://i.ibb.co/JFhQ1vX/logo-kat.png",
+  "name": "Kat Knight",
+  "social": [
+   "https://www.youtube.com/@KatKnight_TONGame",
+   "https://x.com/TONKatKnight",
+   "https://t.me/KatKnightCommunity"
+  ],
+  "symbol": "KAT",
+  "websites": [
+   "https://katknight.io/"
   ]
  },
  {
@@ -3135,6 +3150,22 @@
   ]
  },
  {
+  "address": "0:e36e3a37f78deb87f871c723099d2879afffad43108d550b4bf1d693b53a2f03",
+  "description": "Join the Shakeconomy! Shake your phone, earn real crypto, and turn your efforts into rewards.",
+  "image": "https://cdn.shaker.telegame.studio/misc/coin.png",
+  "name": "TON Shaker",
+  "social": [
+   "https://t.me/tonshaker_news",
+   "https://x.com/tonshaker"
+  ],
+  "symbol": "TOSH",
+  "websites": [
+   "https://tonshaker.com",
+   "https://t.me/tonshakerbot",
+   "https://ton-shaker.gitbook.io/whitepaper"
+  ]
+ },
+ {
   "address": "0:2198385630a13f7995f494ede6c7925241cf96d8ef88950ec16972cc8a8c9e13",
   "image": "https://raw.githubusercontent.com/GbGr/pavlik228-assets/refs/heads/main/tvm.png",
   "name": "TVM",
@@ -3547,6 +3578,18 @@
   "description": "WBTC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.",
   "name": "jWBTC",
   "symbol": "jWBTC"
+ },
+ {
+  "address": "EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu",
+  "decimals": 9,
+  "description": "Ben De\u011fil Biziz Hepimiz Barokuz",
+  "image": "https://storage.dyor.io/jettons/EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu/image.jpeg",
+  "name": "Barokuz",
+  "social": [
+   "https://t.me/barokuz",
+   "https://x.com/barokuz"
+  ],
+  "symbol": "BRK"
  },
  {
   "address": "EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy",
