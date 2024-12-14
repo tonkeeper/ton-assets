@@ -246,6 +246,23 @@
   ]
  },
  {
+  "address": "EQAbhSZWmHWv_OfW7M9Mm18y9AXMgoLsgS0AgLs0xY5NkT44",
+  "description": "Bees coin is a Telegram bot-based project expanding into a decentralized platform",
+  "image": "https://cdn.beecoin.finance/logo.png",
+  "name": "BeesCoin",
+  "social": [
+   "https://t.me/Bee_coinbot",
+   "https://t.me/beecoin_official",
+   "https://www.youtube.com/@BeeeCoin",
+   "https://x.com/BeeeCoin",
+   "https://github.com/Beeecoin"
+  ],
+  "symbol": "BEES",
+  "websites": [
+   "https://beecoin.finance/"
+  ]
+ },
+ {
   "address": "0:aeda1bf9c5fe358ac5b95045c4c10909056e4790dedaae3082c8f3e9a2fca4cf",
   "image": "https://crypto-billions.github.io/resources/icon.png",
   "name": "BITON",
