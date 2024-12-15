@@ -2,15 +2,15 @@ Please make sure you change the original .yaml fields in the accounts/, Collecti
 Example pull request:
 
 ```yaml
-name: the name of your token
-description: description of your token
-image: "link to your token logo" !!! (don't use ton.api)!!!
-address: Address of your token 
-symbol: Symbol of your token
+name: RUSKRIPTOXOLDINGACTIV
+description: RUSKRIPTOXOLDINGACTIV
+image: https://ibb.org.ru/images/2024/12/13/RKXACOIN.png"
+address: EQDoUfM2R3d0CwVNq4uf6E-y_NifWvvP_R6aDb_PTb97ABie
+symbol: RKXA
 websites:
   - "link"
 social:
-  - "link"
+  - "https://t.me/rkhagroup"
 ```
 
 
@@ -19,13 +19,13 @@ social:
 Пример пул реквеста:
 
 ```yaml
-name: имя вашего токена
-description: описание вашего токена
-image: "ссылка на лого вашего токена" !!! (не используйте ton.api)!!!
-address: Адрес вашего токена 
-symbol: Сивол вашего токена
+name: RUSKRIPTOXOLDINGACTIV
+description: RUSKRIPTOXOLDINGACTIV
+image: https://ibb.org.ru/images/2024/12/13/RKXACOIN.png"
+address: EQDoUfM2R3d0CwVNq4uf6E-y_NifWvvP_R6aDb_PTb97ABie
+symbol: RKXA
 websites:
   - "ссылка"
 social:
-  - "ссылка"
+  - "https://t.me/rkhagroup"
   ```
