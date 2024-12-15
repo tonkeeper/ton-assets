@@ -111,7 +111,7 @@
  {
   "address": "0:da575430fcbd3f8c25e0bed61c2817111a3388af1fc2673a2a644d622200c7e6",
   "description": "Asterion is a platform that makes sending and receiving money worldwide easy, fast, and cheap. It uses real-world assets to connect cryptocurrencies with traditional money, so you can use them for everyday purchases.",
-  "image": "https://i.imgur.com/D6GxoZt.png",
+  "image": "https://asterion.finance/images/D6GxoZt.png",
   "name": "ASTERION",
   "social": [
    "https://t.me/asterionglobal",
@@ -243,6 +243,23 @@
   "symbol": "BBQ",
   "websites": [
    "https://www.bbqcoin.ai/"
+  ]
+ },
+ {
+  "address": "EQAbhSZWmHWv_OfW7M9Mm18y9AXMgoLsgS0AgLs0xY5NkT44",
+  "description": "Bees coin is a Telegram bot-based project expanding into a decentralized platform",
+  "image": "https://cdn.beecoin.finance/logo.png",
+  "name": "BeesCoin",
+  "social": [
+   "https://t.me/Bee_coinbot",
+   "https://t.me/beecoin_official",
+   "https://www.youtube.com/@BeeeCoin",
+   "https://x.com/BeeeCoin",
+   "https://github.com/Beeecoin"
+  ],
+  "symbol": "BEES",
+  "websites": [
+   "https://beecoin.finance/"
   ]
  },
  {
@@ -464,6 +481,19 @@
   "symbol": "CHVRS",
   "websites": [
    "https://chiliversus.com"
+  ]
+ },
+ {
+  "address": "EQB-vc00g9PeUWLptSAH4g1J5kYS7WTgtVEfhI6oKdQtRudE",
+  "description": "Clayton is blue, fluffy friend of TON.",
+  "image": "https://i.ibb.co/r6SLkLj/256t1.png",
+  "name": "Clayton",
+  "social": [
+   "https://t.me/clayton"
+  ],
+  "symbol": "$CLAY",
+  "websites": [
+   "https://t.me/claytoncoinbot"
   ]
  },
  {
@@ -1060,7 +1090,7 @@
  {
   "address": "EQCsuMNXBJdv7uuUpEIqC9tiBdkw0lu44endC0f1LyVfxZPD",
   "description": "Fswap is a user-friendly and safe platform for cryptocurrency exchange. The service provides fast transactions, high level of protection of user funds without registration.",
-  "image": "https://imgur.com/X8aadNT",
+  "image": "https://i.ibb.co/d2cxvDN/Frame-738004272.png",
   "name": "Fswap",
   "social": [
    "https://x.com/official_fswap",
@@ -1235,6 +1265,20 @@
   "symbol": "GMC",
   "websites": [
    "https://greatmindsclassic.vip/"
+  ]
+ },
+ {
+  "address": "EQC2CUQqMJuVkO_ioXE9MvW9ckNBuxqFB7Xce7BgwFnWagem",
+  "description": "Baa-lieve the hype!",
+  "image": "https://i.imghippo.com/files/EBdZ3382ac.png",
+  "name": "GOATS",
+  "social": [
+   "https://x.com/GOATS_immortal",
+   "https://t.me/realgoats_channel"
+  ],
+  "symbol": "GOATS",
+  "websites": [
+   "https://ton.goatsbot.xyz/"
   ]
  },
  {
@@ -1464,6 +1508,21 @@
   "symbol": "JVS",
   "websites": [
    "https://jarvisbot.pro/"
+  ]
+ },
+ {
+  "address": "0:68dd6d7d3bddaa2e376861b11101316d414875429fcd649e8953f957c8b9c650",
+  "description": "\ud83d\udc08 Ultimate RPG on TON.",
+  "image": "https://i.ibb.co/JFhQ1vX/logo-kat.png",
+  "name": "Kat Knight",
+  "social": [
+   "https://www.youtube.com/@KatKnight_TONGame",
+   "https://x.com/TONKatKnight",
+   "https://t.me/KatKnightCommunity"
+  ],
+  "symbol": "KAT",
+  "websites": [
+   "https://katknight.io/"
   ]
  },
  {
@@ -2138,7 +2197,7 @@
   ]
  },
  {
-  "address": "EQBvQCUmWb6SquFZ6xIjiD1mFYXWjp84_5Zcjertyb1-0B9D",
+  "address": "EQAApxF7dXyVi4BbUsUQLxlOrGJEcnbJrpY6m8XF6sD83mkh",
   "description": "Full of care for your grandma. The TON meme hackathon, participants create viral mechanics aimed at uniting the community and exchanging creative ideas.",
   "image": "https://s.iimg.su/s/07/YZoWGMK82yxS289sIQt61qNYZAUXO95QLekZdpVm.png",
   "name": "Pirozh Coin",
@@ -3108,6 +3167,22 @@
   ]
  },
  {
+  "address": "0:e36e3a37f78deb87f871c723099d2879afffad43108d550b4bf1d693b53a2f03",
+  "description": "Join the Shakeconomy! Shake your phone, earn real crypto, and turn your efforts into rewards.",
+  "image": "https://cdn.shaker.telegame.studio/misc/coin.png",
+  "name": "TON Shaker",
+  "social": [
+   "https://t.me/tonshaker_news",
+   "https://x.com/tonshaker"
+  ],
+  "symbol": "TOSH",
+  "websites": [
+   "https://tonshaker.com",
+   "https://t.me/tonshakerbot",
+   "https://ton-shaker.gitbook.io/whitepaper"
+  ]
+ },
+ {
   "address": "0:2198385630a13f7995f494ede6c7925241cf96d8ef88950ec16972cc8a8c9e13",
   "image": "https://raw.githubusercontent.com/GbGr/pavlik228-assets/refs/heads/main/tvm.png",
   "name": "TVM",
@@ -3522,6 +3597,18 @@
   "symbol": "jWBTC"
  },
  {
+  "address": "EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu",
+  "decimals": 9,
+  "description": "Ben De\u011fil Biziz Hepimiz Barokuz",
+  "image": "https://storage.dyor.io/jettons/EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu/image.jpeg",
+  "name": "Barokuz",
+  "social": [
+   "https://t.me/barokuz",
+   "https://x.com/barokuz"
+  ],
+  "symbol": "BRK"
+ },
+ {
   "address": "EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy",
   "description": "cgUSDT is a Jetton-standard variable price inflation-resistant stablecoin.",
   "image": "https://ton.cygnus.finance/jetton-metadata/cgusdt.svg",
@@ -3615,6 +3702,20 @@
   "address": "0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63",
   "name": "Hipo Staked TON v1",
   "symbol": "hTON1"
+ },
+ {
+  "address": "EQCxvMXPTfbX_gY5e31EQUJgiNzpc0TNDIOnP8uZ8br-k27B",
+  "decimals": 9,
+  "description": "Token of the project \"I Know This Place..?\". Trans-media universe including game series, short films and interaction with the public. The token is integrated into the universe and is used to get a VIP subscription, add player items to the game, and more. Find out more information on the project website https://i-Know.net",
+  "image": "https://i-know.net/iKnow_token.png",
+  "name": "iKnow",
+  "social": [
+   "t.me/IKTP_RU"
+  ],
+  "symbol": "IKNOW",
+  "websites": [
+   "https://i-Know.net"
+  ]
  },
  {
   "address": "EQB_frCufFqUGVQuDd8UiNO9O1skgO0gzsSEpjHZ-wykdBD3",
