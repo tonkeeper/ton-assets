@@ -63,6 +63,25 @@
   ]
  },
  {
+  "address": "0:f2bd3b92c32358d75b6eb78e053e41b30fd3d46cd70f814ff005afb4aeecee1a",
+  "description": "Degrees\u2019 is a limited collection of 361\u00b0 available items. Each Degree\u00b0 has its own unique angle, contains a maths fact about its value and is an essential component to getting a complete user experience in the Degrees\u00b0 app.",
+  "image": "https://raw.githubusercontent.com/msilenkov/ONE/245f76be45fc9e32a60de758bf8c39e5dce99cd7/degrees.svg",
+  "links": {
+   "bot": "https://prodegreesbot.t.me",
+   "channel": [
+    "https://degrees.t.me",
+    "https://prodegrees.t.me"
+   ],
+   "community": "https://degreeston.t.me"
+  },
+  "name": "Degrees",
+  "social": [
+   "https://degrees.t.me",
+   "https://prodegrees.t.me",
+   "https://degreeston.t.me"
+  ]
+ },
+ {
   "address": "EQD7eDxP_wLX18kr8uyYfs6srlgoNMfRbXNYM8dmMXT2vxwk",
   "name": "CALLIGRAFUTURISM \u2014 24: Units"
  },
