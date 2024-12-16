@@ -1,0 +1,12 @@
+name: BNK jetton
+description: BNK is a limited supply token that is the primary mining method for the official ARC token from the Arhitec.ton project.
+image: "https://cache.tonapi.io/imgproxy/cOMlJuViiVXDCkAghnyNj7plX8pAZ9pv3WhklvebpTY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3RvbmtlZXBlci9vcGVudG9uYXBpL21hc3Rlci9wa2cvcmVmZXJlbmNlcy9tZWRpYS90b2tlbl9wbGFjZWhvbGRlci5wbmc.webp"
+address: EQAj1qW6WZTd7sd33Uk48O3TqxNPMjYrgwRHAcBM8RcQCQAD
+symbol: BNK
+websites:
+  - "https://architec.ton"
+  - "https://architecton.tech"
+social:
+  - "https://t.me/architecton_tech"
+  - "https:///t.me/architecton_eu"
+  - "https://x.com/architec_ton"
