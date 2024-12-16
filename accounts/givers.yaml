@@ -37,7 +37,6 @@
 - address: "kf-uNWj4JmTJefr7IfjBSYQhFbd3JqtQ6cxuNIsJqDQ8SiEA"
   name: "Large Giver 9"
 - address: "kf8mO4l6ZB_eaMn1OqjLRrrkiBcSt7kYTvJC_dzJLdpEDKxn"
-  name: "Large Giver 10"
-- address: "EQDoUfM2R3d0CwVNq4uf6E-y_NifWvvP_R6aDb_PTb97ABie"
+  name: "Large Giver 10" 
+  - address: "EQDoUfM2R3d0CwVNq4uf6E-y_NifWvvP_R6aDb_PTb97ABie"
   name: "RKXA"
-  
