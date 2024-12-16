@@ -1,9 +1,9 @@
-name: "Innovation coin"
-symbol: "INVEN"
-description: "INVEN is a utility token designed for the InvenHub ecosystem, focusing on innovative blockchain solutions and digital asset management. The token serves as the primary medium of exchange within the platform, enabling seamless transactions and access to platform features."
+name: Innovation coin
+description: INVEN is a utility token designed for the InvenHub ecosystem, focusing on innovative blockchain solutions and digital asset management. The token serves as the primary medium of exchange within the platform, enabling seamless transactions and access to platform features.
 image: "https://raw.githubusercontent.com/Innovative-and-Coin/Inven/main/logo.png"
-decimals: 9
-address: "EQDTnJuDdC4jTf_ZfZbQXK1VUa-zVWF1GY9Bv_N9HpO9Kgp5"
-social:
-  website: "https://invenhub.store"
-  telegram: "https://t.me/Inven_Coin"
+address: EQDTnJuDdC4jTf_ZfZbQXK1VUa-zVWF1GY9Bv_N9HpO9Kgp5
+symbol: INVEN
+websites:
+  -"https://invenhub.store"
+social: 
+  -"https://t.me/Inven_Coin"
