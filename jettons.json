@@ -1832,6 +1832,18 @@
   ]
  },
  {
+  "address": "EQAJMs3n99DUSDKnYoO_vc62OvA7FK6bACMVlj1Jdg21dDYl",
+  "coingecko": "https://www.geckoterminal.com/ton/pools/EQC96AJm1AoBt5t2laXe6XTCuEord16RCJcYHdP5I_vm01Md?utm_source=coingecko&utm_medium=referral&utm_campaign=searchresults",
+  "description": "it's better to work at McDonald's",
+  "image": "https://i.ibb.co/9p5tkZ6/IMG-2608.png",
+  "name": "McBlum",
+  "social": [
+   "https://t.me/mcblumchat",
+   "https://x.com/BlumMc_"
+  ],
+  "symbol": "BM"
+ },
+ {
   "address": "EQBf6-YoR9xylol_NwjHrLkrTFAZJCX-bsd-Xx_902OaPaBf",
   "decimals": 9,
   "name": "MEGA",

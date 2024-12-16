@@ -435,6 +435,7 @@ Name           | Address
 [Margaritis](https://tonviewer.com/0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777) | EQBjEw-SOe8yV2kIbGVZGrsPpLTaaoAOE87CGXI2ca4XdzXA
 [Mars](https://tonviewer.com/0:0be9ed5434f164b27f35f7ca8e0fa2880a7a65c3a7fd70c205b905b7c55f6577) | EQAL6e1UNPFksn8198qOD6KICnplw6f9cMIFuQW3xV9ld3Ro
 [Mass Vehicle Ledger Token](https://tonviewer.com/0:f6c9acc0db07f9018da3a04cc65031a4d1c416c446b635d88fe1981ff7e785d3) | EQD2yazA2wf5AY2joEzGUDGk0cQWxEa2NdiP4Zgf9-eF04tp
+[McBlum](https://tonviewer.com/0:0932cde7f7d0d44832a76283bfbdceb63af03b14ae9b002315963d49760db574) | EQAJMs3n99DUSDKnYoO_vc62OvA7FK6bACMVlj1Jdg21dDYl
 [Megaton LP KAI-oUSDC](https://tonviewer.com/0:e5dbdf8fd953b114397ae1701995e51ccad1984bff28e4fbf18c22c22a053479) | EQDl29-P2VOxFDl64XAZleUcytGYS_8o5PvxjCLCKgU0eUUJ
 [Megaton LP WTON-oAZIT](https://tonviewer.com/0:68817b30bd1599a7b7c9d4fa956a4a0af936f935bc53d72051c2803078625e6d) | EQBogXswvRWZp7fJ1PqVakoK-Tb5NbxT1yBRwoAweGJeba_o
 [Megaton LP WTON-oKLAY](https://tonviewer.com/0:a2f2bc7eb8b720ecd14721adc3039e51de3d95033acd237169327715e7168c97) | EQCi8rx-uLcg7NFHIa3DA55R3j2VAzrNI3FpMncV5xaMl9ld
