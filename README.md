@@ -658,6 +658,7 @@ Name           | Address
 [Shards of Anonymous Telegram Numbers](https://tonviewer.com/0:b56c7e2d151dad11542e5b88b6470c2971ca1a4b2f8645012a62b08a81935f37) | EQC1bH4tFR2tEVQuW4i2RwwpccoaSy-GRQEqYrCKgZNfNw0r
 [Shards of Notcoin NFT bond](https://tonviewer.com/0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b) | EQCIXQn940RNcOk6GzSorRSiA9WZC9xUz-6lyhl6Ap6na2sh
 [Shark Invest Club](https://tonviewer.com/0:403eeb032b45bfa44c92fdd30a851402a5f171d2ccde0d984b434101a28e2a86) | EQBAPusDK0W_pEyS_dMKhRQCpfFx0szeDZhLQ0EBoo4qhhXk
+[Shill Team 6](https://tonviewer.com/0:8c4cd150750e16e71e01ec89001a0af1a19c5d0038e06c35d5031551b63bcb50) | EQCMTNFQdQ4W5x4B7IkAGgrxoZxdADjgbDXVAxVRtjvLUJw_
 [Shitcoin](https://tonviewer.com/0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4) | EQB4gPfG0YtoiJHCMTUuzxP9fKXy9nx6TFh-dcAltrnNpLNo
 [Shitdrops](https://tonviewer.com/0:2e584f9b551eced5b4a4c0dfe63ddca2be92b0e657d6738eec82fb9ccf2cd9e3) | EQAuWE-bVR7O1bSkwN_mPdyivpKw5lfWc47sgvuczyzZ49S3
 [Simple Ton Coin](https://tonviewer.com/0:42c988aa9138c0b791819d55e0b972d0a6097469ed70c495d867a0226d12f265) | EQBCyYiqkTjAt5GBnVXguXLQpgl0ae1wxJXYZ6AibRLyZdem
@@ -805,6 +806,7 @@ Name           | Address
 [Trump MP3](https://tonviewer.com/0:255ec5f9c9716d4cf3922c404271dad6b7266f0b8f27051ae3c8272e08e807c8) | EQAlXsX5yXFtTPOSLEBCcdrWtyZvC48nBRrjyCcuCOgHyFFS
 [Trump/Telegram Make America Great Again](https://tonviewer.com/0:147609b3bbdebe9936901671162d7ec64e95a3c2c25ad0bbc67aafecf3a85caf) | EQAUdgmzu96-mTaQFnEWLX7GTpWjwsJa0LvGeq_s86hcr1nh
 [TrumpWifHat](https://tonviewer.com/0:d5ddc6f388f1f3f3011c0d8b7ef620cea2695cddb159412c745a26450afedf87) | EQDV3cbziPHz8wEcDYt-9iDOomlc3bFZQSx0WiZFCv7fh7oX
+[Trust](https://tonviewer.com/0:b97c03f9eb3ea2c9383589d8ff995d550687e2d8ac09d477fc9b63f41e984380) | EQC5fAP56z6iyTg1idj_mV1VBofi2KwJ1Hf8m2P0HphDgE10
 [TryTON](https://tonviewer.com/0:446ca9b9cfe4f9a6ccfc891b424588c31fe3866d102c7e142d74a7f599ad9da9) | EQBEbKm5z-T5psz8iRtCRYjDH-OGbRAsfhQtdKf1ma2dqS7o
 [Tvorog](https://tonviewer.com/0:745384c7ebd0810fa01e3bfc8714c5bebbdd14987ffae46c3902465b96ddc63b) | EQB0U4TH69CBD6AeO_yHFMW-u90UmH_65Gw5AkZblt3GO4R6
 [Twister The Dog](https://tonviewer.com/0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55) | EQDqrKJj1ZQeGTHSmjDkoe-1BrvKJ3tJzjWo-6y63lfvVU9R
