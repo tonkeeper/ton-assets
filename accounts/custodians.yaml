@@ -353,9 +353,5 @@
   name: "Wallet in Telegram"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
-- address: "EQDoUfM2R3d0CwVNq4uf6E-y_NifWvvP_R6aDb_PTb97ABie"
-  name: "RKXA"
-  require_memo: true
-  image: "https://ibb.org.ru/images/2024/12/13/RKXACOIN.png"
 
 
