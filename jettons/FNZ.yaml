@@ -1,10 +1,9 @@
-name: Fanzee Token
-description: fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences
-address: 0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739
-symbol: FNZ
-websites:
-  - "https://fanz.ee"
-  - "https://app.fanz.ee"
+name: BoberBucks
+description: Meme token for gamers and the crypto community. Use BBK to buy V-Bucks at the best price and support the token’s ecosystem.
+symbol: BBK
+image: https://imgur.com/wcOzbhg
+decimals: 9
+address: EQAY9bTuiBcQ6NlrEIbRX7ud1Gizp-iKRzR8_D3faloZD0zG
 social:
-  - "https://t.me/fanzeelabs"
-  - "https://twitter.com/fanzeelabs"
+  - "https://t.me/blackboberk1ng"
+  - "https://t.me/BoberBucks"
