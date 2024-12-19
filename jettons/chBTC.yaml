@@ -1,0 +1,10 @@
+name: ckBTC
+description: ckBTC — a multi-chain bitcoin twin, created by chain-key cryptography and Internet Computer smart contracts that directly hold raw bitcoin.
+image: "https://raw.githubusercontent.com/octopus-network/omnity-token-imgs/94bc9daab7dde6d68e72188f2e1ecfaa46e3e380/ckBTC.svg"
+address: EQD3IJCxBHFRNCFFLmtnoIyMEYt_Zio3WT0YQQujA2tSuCTZ
+symbol: ckBTC
+websites:
+  - "https://www.omnity.network"
+social:
+  - "https://x.com/OmnityNetwork"
+  - "https://github.com/octopus-network"
