@@ -2,15 +2,15 @@ Please make sure you change the original .yaml fields in the accounts/, Collecti
 Example pull request:
 
 ```yaml
-name: the name of your token
-description: description of your token
-image: "link to your token logo" !!! (don't use ton.api)!!!
-address: Address of your token 
-symbol: Symbol of your token
+name: Donkeyton
+description: has joined the Ton Chain
+image: (https://i.postimg.cc/GpYnCdBP/3.jpg)
+address: EQBh0GTe1QrRDfBb3zF_5131ykR64T0y9aIy2LygDt0iWUNx 
+symbol: DONT
 websites:
-  - "link"
+  - (https://donkeyton.org)
 social:
-  - "link"
+  - (https://t.me/donkeyton)
 ```
 
 
