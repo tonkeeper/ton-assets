@@ -844,6 +844,7 @@ Name           | Address
 [WTON](https://tonviewer.com/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
 [Wakeup DAO Token](https://tonviewer.com/0:10125077b6b3308f4c029d55586059c9adba7008efcd5c3693ba3f5a62280ba2) | EQAQElB3trMwj0wCnVVYYFnJrbpwCO_NXDaTuj9aYigLovXw
 [Wallet Exchanger](https://tonviewer.com/0:6d50a3db84004f62d96d88a580e78eece19849e70647bd55757b27d5eec1321a) | EQBtUKPbhABPYtltiKWA547s4ZhJ5wZHvVV1eyfV7sEyGs2J
+[Warthog](https://tonviewer.com/0:88a9178415f1f764dc6a5c38b6c4697c9e67eb32e406e1a02011be7ab9101af0) | EQCIqReEFfH3ZNxqXDi2xGl8nmfrMuQG4aAgEb56uRAa8BmW
 [Watch Coin](https://tonviewer.com/0:310bef9e2ad5dee3e7bd3e160eae4f9f8f1f14d769784f8204a739027f7162cd) | EQAxC--eKtXe4-e9PhYOrk-fjx8U12l4T4IEpzkCf3FizUUz
 [Web3 TON Token](https://tonviewer.com/0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b) | EQBtcL4JA-PdPiUkB8utHcqdaftmUSTqdL8Z1EeXePLti_nK
 [Weed coin - cannabis meme coin on TON](https://tonviewer.com/0:9f12c892308fbd98456a16f035037c67eeae0315861cfd1ab26508ef7880ff78) | EQCfEsiSMI-9mEVqFvA1A3xn7q4DFYYc_RqyZQjveID_eG2I

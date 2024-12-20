@@ -3065,6 +3065,20 @@
   ]
  },
  {
+  "address": "EQCIqReEFfH3ZNxqXDi2xGl8nmfrMuQG4aAgEb56uRAa8BmW",
+  "description": "Warthog (THOG) is a memecoin with a mission, a unique cryptocurrency inspired by the global viral trend of the Warthog \"KASONGO\" and its endearing \"reverse turbo\" antics. But $THOG is more than just a meme; it's a movement",
+  "image": "https://thogtoken.com/assets/img/thogtoken.png",
+  "name": "Warthog",
+  "social": [
+   "https://x.com/thogtoken",
+   "https://t.me/thogtoken"
+  ],
+  "symbol": "THOG",
+  "websites": [
+   "https://thogtoken.com"
+  ]
+ },
+ {
   "address": "0:3a43774c81511f5d0f6d3412f67cc96312123f6b343e477bef3e08c6397c2817",
   "coingecko": "https://www.coingecko.com/en/coins/ton-inu",
   "description": "Dive into our toolkits, your secret weapons for making your crypto journey secure, seamless, and seriously cool $TINU.",
