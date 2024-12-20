@@ -449,6 +449,12 @@
   ]
  },
  {
+  "address": "0:61e1731a848f53f356e3d836c077ded92d00e81ccdabbf6539079f4355991537",
+  "image": "https://brainwavehq.org/aHR0cHM6Ly9pLmliYi5jby9UYlpRWGZTL2NhdGEtbG9nby5wbmc.webp",
+  "name": "CATA",
+  "symbol": "CATA"
+ },
+ {
   "address": "EQA3AshPEVly8wQ6mZincrKC_CkJSKXqqjyg0VMsVjF_CATS",
   "name": "CATS",
   "symbol": "CATS"
@@ -4046,11 +4052,6 @@
   "address": "0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5",
   "name": "Cash AMA Radio",
   "symbol": "CASH"
- },
- {
-  "address": "0:61e1731a848f53f356e3d836c077ded92d00e81ccdabbf6539079f4355991537",
-  "name": "CATA",
-  "symbol": "CATA"
  },
  {
   "address": "0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41",
