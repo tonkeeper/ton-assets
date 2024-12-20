@@ -332,6 +332,22 @@
   ]
  },
  {
+  "address": "EQAj1qW6WZTd7sd33Uk48O3TqxNPMjYrgwRHAcBM8RcQCQAD",
+  "description": "BNK is a limited supply token that is the primary mining method for the official ARC token from the Arhitec.ton project.",
+  "image": "https://raw.githubusercontent.com/Architec-Ton/banktoken/refs/heads/main/docs/BNK.png",
+  "name": "BNK jetton",
+  "social": [
+   "https://t.me/architecton_tech",
+   "https:///t.me/architecton_eu",
+   "https://x.com/architec_ton"
+  ],
+  "symbol": "BNK",
+  "websites": [
+   "https://architec.ton",
+   "https://architecton.tech"
+  ]
+ },
+ {
   "address": "0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e",
   "description": "Official token of the Huebel Company",
   "image": "https://cloudflare-ipfs.com/ipfs/QmX47dodUg1acXoxYDULWTNfShXRW5uHrCmoKSUNR9xKQw",
