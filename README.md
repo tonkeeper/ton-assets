@@ -258,6 +258,7 @@ Name           | Address
 [DogeFi](https://tonviewer.com/0:e6a34e0cd11fbad445bb4f9a8ebf2757316c65752dfeee4b281d24a77b953f02) | EQDmo04M0R-61EW7T5qOvydXMWxldS3-7ksoHSSne5U_AgW0
 [Dogecoin TON](https://tonviewer.com/0:698675afec4910be322418f8cc35a718b57a36744a852326cf4dff08c720468c) | EQBphnWv7EkQvjIkGPjMNacYtXo2dEqFIybPTf8IxyBGjNSz
 [Dogs](https://tonviewer.com/0:afc49cb8786f21c87045b19ede78fc6b46c51048513f8e9a6d44060199c1bf0c) | EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS
+[DogsAI](https://tonviewer.com/0:b0f816d021f24319e9eb6ac8f4486b9cf1f9014c83fdacd9d5ad22c476a7a18c) | EQCw-BbQIfJDGenrasj0SGuc8fkBTIP9rNnVrSLEdqehjF4V
 [Dogwifhoodie](https://tonviewer.com/0:4d45c0551e5a5a9f7f3716b59640c28e8d22cb2daa11764b5d92d487f1de9809) | EQBNRcBVHlpan383FrWWQMKOjSLLLaoRdktdktSH8d6YCYtz
 [Don](https://tonviewer.com/0:90c50594d1981b428bd546dac7654812513b23f556d58808f65c0346782df92f) | EQCQxQWU0ZgbQovVRtrHZUgSUTsj9VbViAj2XANGeC35L2aS
 [Donald Duck](https://tonviewer.com/0:d8c1728e2cb4488b2999f45a19a311a0d376dec1450d3e9a1835edcea85ccd63) | EQDYwXKOLLRIiymZ9FoZoxGg03bewUUNPpoYNe3OqFzNY2N9

@@ -989,6 +989,21 @@
   ]
  },
  {
+  "address": "EQCw-BbQIfJDGenrasj0SGuc8fkBTIP9rNnVrSLEdqehjF4V",
+  "description": "DOGSAI \u2014 \u044d\u0442\u043e \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u0442\u043e\u043a\u0435\u043d, \u044d\u0442\u043e \u0438\u043d\u043d\u043e\u0432\u0430\u0442\u043e\u0440 \u043d\u0430 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0435",
+  "image": "https://github.com/cristcrusher/dogsai/blob/main/photo_2024-12-17_10-19-05.jpg",
+  "name": "DogsAI",
+  "social": [
+   "https://t.me/doggyAI_bot",
+   "https://x.com/doggyaibot"
+  ],
+  "symbol": "DOGSAI",
+  "websites": [
+   "https://dogsai.ee",
+   "https://app.dogsai.ee"
+  ]
+ },
+ {
   "address": "0:C97192095E0F3193F8BCC0DD100128525DE76A16F816CEE2F88B9D25D58AD637",
   "description": "Durov`s Code is a token dedicated to the biography of the Durov brothers",
   "image": " https://github.com/DurovsCode/logo/blob/main/wt3.png?raw=true ",
