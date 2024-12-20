@@ -102,6 +102,7 @@ Name           | Address
 [ANON XP](https://tonviewer.com/0:bc236959c32064b29c82a5e745927fdc1a69be575130f09e9d0dff8e9d5bfffc) | EQC8I2lZwyBkspyCpedFkn_cGmm-V1Ew8J6dDf-OnVv__AXP
 [ARBUZ](https://tonviewer.com/0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45) | EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1
 [ARBUZ](https://tonviewer.com/0:ecac262d6606cee7b3d0e3b6fda32b6342b5238b1fa0cf6c083f4f3c0c452f87) | EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC
+[ARC jetton](https://tonviewer.com/0:5745d6539393f8f662f49ce61f0d1d55477dcddec3d4801ecf35031a8fa0e1c4) | EQBXRdZTk5P49mL0nOYfDR1VR33N3sPUgB7PNQMaj6DhxOJH
 [ARUTCOIN](https://tonviewer.com/0:d612c57c643f371e1a4904b5ae07faf9e572f0342a59c1c068f9418db61709b5) | EQDWEsV8ZD83HhpJBLWuB_r55XLwNCpZwcBo-UGNthcJtboi
 [ASTERION](https://tonviewer.com/0:da575430fcbd3f8c25e0bed61c2817111a3388af1fc2673a2a644d622200c7e6) | EQDaV1Qw_L0_jCXgvtYcKBcRGjOIrx_CZzoqZE1iIgDH5lWi
 [AXMTON](https://tonviewer.com/0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07) | EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4
