@@ -487,6 +487,7 @@ Name           | Address
 [MyTonWallet Coin](https://tonviewer.com/0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28) | EQCFVNlRb-NHHDQfv3Q9xvDXBLJlay855_xREsq5ZDX6KN-w
 [NET PRESENT VALUE](https://tonviewer.com/0:7328860ffd6567612e640dbcfedf36adf7c86d3425d05157e691a1fb7cb75c11) | EQBzKIYP_WVnYS5kDbz-3zat98htNCXQUVfmkaH7fLdcEaT3
 [NEWJET](https://tonviewer.com/0:2c9c6fe0aec4f5d98e9c151d9e82f0e115c64b4d538b404feca8c939c16a8acf) | EQAsnG_grsT12Y6cFR2egvDhFcZLTVOLQE_sqMk5wWqKzw6z
+[NISMO](https://tonviewer.com/0:48d6fc92f9b56a52b4a606d8706732e98e2ed2b2612aadb01c4528c7644278a5) | EQBI1vyS-bVqUrSmBthwZzLpji7SsmEqrbAcRSjHZEJ4pVhu
 [NO Rocket](https://tonviewer.com/0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684) | EQDnHBmARrJgDiHRaiwShwoLAdLoA73GL4lRn3V9eFKmhDwT
 [NOT Storm LP](https://tonviewer.com/0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9) | EQAqtjTPy9vjuXUDaR4HgMPQfJBpIQorJLmRuk-ZQbRT-eiY
 [NOTAI](https://tonviewer.com/0:95e5d5cdad6554d73ed589d10abd72f9881fcf5ecdb39bd2cb7bd6cf81292575) | EQCV5dXNrWVU1z7VidEKvXL5iB_PXs2zm9LLe9bPgSklde0z
