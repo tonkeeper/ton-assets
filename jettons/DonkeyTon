@@ -1,9 +1,17 @@
-name: Donkey Ton
-description: holders DonkeyTon with the legend of...
-image: "https://i.postimg.cc/GpYnCdBP/3.jpg"
-address: EQBh0GTe1QrRDfBb3zF_5131ykR64T0y9aIy2LygDt0iWUNx
-symbol: DONT
-max_supply: 99901000889
-websites:
-  - "https://www.resistanceduck.com/"
-  - "https://www.donkeyton.org"
+[
+ {
+  "address": "EQBh0GTe1QrRDfBb3zF_5131ykR64T0y9aIy2LygDt0iWUNx",
+  "decimals": 9,
+  "description": "www.donkeyton.org swap in: ston.fi telegram bot : https://t.me/donkeyton https://tonscan.org/jetton/EQBh0GTe1QrRDfBb3zF_5131ykR64T0y9aIy2LygDt0iWUNx#holders DonkeyTon with the legend of .......... has joined the Ton Chain and cryptocurrency. Upgrading projects are coming soon.... Coming soon....",
+  "image": "https://i.postimg.cc/GpYnCdBP/3.jpg",
+  "name": "Donkeyton",
+  "social": [
+   "https://t.me/donkeyton"
+  ],
+  "symbol": "DONT",
+  "websites": [
+   "https://donkeyton.org"
+  ]
+ },
+ {
+ 
