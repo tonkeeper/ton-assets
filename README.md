@@ -910,6 +910,7 @@ Name           | Address
 [xRocket Token](https://tonviewer.com/0:157c463688a4a91245218052c5580807792cf6347d9757e32f0ee88a179a6549) | EQAVfEY2iKSpEkUhgFLFWAgHeSz2NH2XV-MvDuiKF5plSbsU
 [Ærly🕊️Birds](https://tonviewer.com/0:e9b73b1efbe02d9f8843b767469774f100dd0093ab5a61712234a3a0ec40226c) | EQDptzse--Atn4hDt2dGl3TxAN0Ak6taYXEiNKOg7EAibChH
 [Баффи](https://tonviewer.com/0:2d08cce9caa9925630a1dba09f76a2a3dca8af1cd7d7a2fe7245803875d6e3e4) | EQAtCMzpyqmSVjCh26CfdqKj3KivHNfXov5yRYA4ddbj5BdP
+[Биг Шавуха](https://tonviewer.com/0:af7d65bece657ce3c9072d3660964ebf206df00560fd21c9c9822d8e4ba927e5) | EQCvfWW-zmV848kHLTZglk6_IG3wBWD9IcnJgi2OS6kn5dON
 [Бобо медведь](https://tonviewer.com/0:1af36ac901d023a51e4dec4ba7aa9292cdd0e470250245b037ed7424bc4abf7a) | EQAa82rJAdAjpR5N7EunqpKSzdDkcCUCRbA37XQkvEq_ek6T
 [ВОЛК](https://tonviewer.com/0:23a038e03c2de782980cb47052f1ad6d50a73850b649e7256886763be7393e09) | EQAjoDjgPC3ngpgMtHBS8a1tUKc4ULZJ5yVohnY75zk-Cdoi
 [ВОЛК](https://tonviewer.com/0:f66f9932ff01df9d825e6f01381bba0759aa28b2bf2a383eb3219d02a70086d3) | EQD2b5ky_wHfnYJebwE4G7oHWaoosr8qOD6zIZ0CpwCG00iw
