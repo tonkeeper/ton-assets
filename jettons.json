@@ -3614,6 +3614,21 @@
   "symbol": "WTON"
  },
  {
+  "address": "EQAIK9sA6xo2mM1BybZcuBKbm1j5Ocu0jaeg__Lh7RJ_JuuG",
+  "decimals": 9,
+  "description": "XP is a gaming token created within the AVACOIN ecosystem. It is designed to support and drive the development of both existing and future gaming projects. XP will serve as a cornerstone of the ecosystem, connecting all games and ensuring their sustainable growth and seamless integration.",
+  "image": "https://i.postimg.cc/JnBfFD2r/xp200.png",
+  "name": "XP",
+  "social": [
+   "https://t.me/avagoldcoin_bot",
+   "https://t.me/avagoldcoin",
+   "https://x.com/avagoldcoin",
+   "https://instagram.com/avagoldcoin",
+   "https://www.youtube.com/@AVA-GOLDCOIN"
+  ],
+  "symbol": "XP"
+ },
+ {
   "address": "EQCnPJgHTd77jJOCLjGDfsuS5tA6y2n7U01daMdDkGZU-dbZ",
   "decimals": 9,
   "description": "YSR \u2014 Your Sustainable Resource, a community token uniting people around the idea of a sustainable future. Our mission is to create an ecosystem where every community member has the opportunity to contribute to environmental, social, and economic sustainability. Join YSR, and together we will build a better tomorrow.",
