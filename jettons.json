@@ -3517,6 +3517,21 @@
   ]
  },
  {
+  "address": "0:9735267dde342668dd08e44f25058ab5c4a5d612c4c36b92a460b9ed863ce53c",
+  "coingecko": "https://www.coingecko.com/en/coins/war-three-kingdoms",
+  "description": "Easy and fast Three Kingdomes Idle RPG",
+  "image": "https://res.dashfun.games/icons/w3kt-256.png",
+  "name": "War Three Kingdoms",
+  "social": [
+   "https://t.me/war3kingdoms",
+   "https://x.com/war3kingdom"
+  ],
+  "symbol": "W3KT",
+  "websites": [
+   "https://www.w3kt.com"
+  ]
+ },
+ {
   "address": "EQDmGviRZNqyzr6K_Wa3rvntvDRaGxjUxQS_ZI-fqqOFJlrz",
   "description": "Inspired by Where's Waldo",
   "image": "https://waldonton.com/images/07be62d038ecd50c77aad06033bbc6f4.png",
