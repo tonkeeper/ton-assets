@@ -105,6 +105,7 @@ Name           | Address
 [ARC jetton](https://tonviewer.com/0:5745d6539393f8f662f49ce61f0d1d55477dcddec3d4801ecf35031a8fa0e1c4) | EQBXRdZTk5P49mL0nOYfDR1VR33N3sPUgB7PNQMaj6DhxOJH
 [ARUTCOIN](https://tonviewer.com/0:d612c57c643f371e1a4904b5ae07faf9e572f0342a59c1c068f9418db61709b5) | EQDWEsV8ZD83HhpJBLWuB_r55XLwNCpZwcBo-UGNthcJtboi
 [ASTERION](https://tonviewer.com/0:da575430fcbd3f8c25e0bed61c2817111a3388af1fc2673a2a644d622200c7e6) | EQDaV1Qw_L0_jCXgvtYcKBcRGjOIrx_CZzoqZE1iIgDH5lWi
+[AVACOIN](https://tonviewer.com/0:11f8a05dbb02f8c3e2e0ef64055f8b564ce0090864bbd859061eb24bf50b7b3f) | EQAR-KBduwL4w-Lg72QFX4tWTOAJCGS72FkGHrJL9Qt7P9ln
 [AXMTON](https://tonviewer.com/0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07) | EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4
 [Absurd Territory](https://tonviewer.com/0:71937f4dd0ebe99090774bb63726a65799f9ba9b37f496bc9c109251f4619a83) | EQBxk39N0OvpkJB3S7Y3JqZXmfm6mzf0lrycEJJR9GGag58e
 [Airina Bolgur](https://tonviewer.com/0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9) | EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub
