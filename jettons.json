@@ -2680,17 +2680,6 @@
   ]
  },
  {
-  "address": "0:af7d65bece657ce3c9072d3660964ebf206df00560fd21c9c9822d8e4ba927e5",
-  "decimals": 9,
-  "description": "It's just for fun.",
-  "image": "https://storage.dyor.io/jettons/EQAkk6Zy2BXq23gtZp3mpAOqVw_bwAj4XWwG_nxXsSkxW62H/image.jpeg",
-  "name": "\u0411\u0438\u0433 \u0428\u0430\u0432\u0443\u0445\u0430",
-  "social": [
-   "https://t.me/SHWRM"
-  ],
-  "symbol": "SHWRM"
- },
- {
   "address": "EQAONlwFvzmKBosbzHvHBMBpdHMvIO77K7hz4NZA7kqOmf8r",
   "description": "Slopy (SLOPY) is a meme token with a dynamic royalty system for holders on ETH. Royalties are randomly awarded to holders during transactions.",
   "image": "https://slopy.io/200logoton.png",
