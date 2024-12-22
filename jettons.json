@@ -149,6 +149,21 @@
   "symbol": "ATERRA"
  },
  {
+  "address": "EQAR-KBduwL4w-Lg72QFX4tWTOAJCGS72FkGHrJL9Qt7P9ln",
+  "decimals": 9,
+  "description": "AVACOIN is the first fully integrated ecosystem built on Telegram mini-apps, combining play2earn, learn2earn, staking elements, and a marketplace on a single convenient platform.",
+  "image": "https://i.postimg.cc/HLDmNR6j/logo-200x200.png",
+  "name": "AVACOIN",
+  "social": [
+   "https://t.me/avagoldcoin_bot",
+   "https://t.me/avagoldcoin",
+   "https://x.com/avagoldcoin",
+   "https://instagram.com/avagoldcoin",
+   "https://www.youtube.com/@AVA-GOLDCOIN"
+  ],
+  "symbol": "AVACN"
+ },
+ {
   "address": "0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07",
   "description": "We are a big community token AXM. We have Axiome Wallet for staking (20% rewards per month), AxiomePay (VISA, MasterCard, UnionPay), Testnet DEX NEXDEX will be in January.",
   "image": "https://storage.dyor.io/jettons/EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4/image.jpeg",
@@ -3612,6 +3627,21 @@
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
+ },
+ {
+  "address": "EQAIK9sA6xo2mM1BybZcuBKbm1j5Ocu0jaeg__Lh7RJ_JuuG",
+  "decimals": 9,
+  "description": "XP is a gaming token created within the AVACOIN ecosystem. It is designed to support and drive the development of both existing and future gaming projects. XP will serve as a cornerstone of the ecosystem, connecting all games and ensuring their sustainable growth and seamless integration.",
+  "image": "https://i.postimg.cc/JnBfFD2r/xp200.png",
+  "name": "XP",
+  "social": [
+   "https://t.me/avagoldcoin_bot",
+   "https://t.me/avagoldcoin",
+   "https://x.com/avagoldcoin",
+   "https://instagram.com/avagoldcoin",
+   "https://www.youtube.com/@AVA-GOLDCOIN"
+  ],
+  "symbol": "XP"
  },
  {
   "address": "EQCnPJgHTd77jJOCLjGDfsuS5tA6y2n7U01daMdDkGZU-dbZ",

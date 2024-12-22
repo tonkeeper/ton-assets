@@ -105,6 +105,7 @@ Name           | Address
 [ARC jetton](https://tonviewer.com/0:5745d6539393f8f662f49ce61f0d1d55477dcddec3d4801ecf35031a8fa0e1c4) | EQBXRdZTk5P49mL0nOYfDR1VR33N3sPUgB7PNQMaj6DhxOJH
 [ARUTCOIN](https://tonviewer.com/0:d612c57c643f371e1a4904b5ae07faf9e572f0342a59c1c068f9418db61709b5) | EQDWEsV8ZD83HhpJBLWuB_r55XLwNCpZwcBo-UGNthcJtboi
 [ASTERION](https://tonviewer.com/0:da575430fcbd3f8c25e0bed61c2817111a3388af1fc2673a2a644d622200c7e6) | EQDaV1Qw_L0_jCXgvtYcKBcRGjOIrx_CZzoqZE1iIgDH5lWi
+[AVACOIN](https://tonviewer.com/0:11f8a05dbb02f8c3e2e0ef64055f8b564ce0090864bbd859061eb24bf50b7b3f) | EQAR-KBduwL4w-Lg72QFX4tWTOAJCGS72FkGHrJL9Qt7P9ln
 [AXMTON](https://tonviewer.com/0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07) | EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4
 [Absurd Territory](https://tonviewer.com/0:71937f4dd0ebe99090774bb63726a65799f9ba9b37f496bc9c109251f4619a83) | EQBxk39N0OvpkJB3S7Y3JqZXmfm6mzf0lrycEJJR9GGag58e
 [Airina Bolgur](https://tonviewer.com/0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9) | EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub
@@ -867,6 +868,7 @@ Name           | Address
 [Wrapped for TONCO TON](https://tonviewer.com/0:949c4c66760c002800e2fa3d8a3ca4e1c90a9373b53ae7472033483bf14cd95e) | EQCUnExmdgwAKADi-j2KPKThyQqTc7U650cgM0g78UzZXn9J
 [Wuffi](https://tonviewer.com/0:61e2cad28f29d0c5ad579193d065c343192d41b96511b4842ca26a98776bd7ee) | EQBh4srSjynQxa1XkZPQZcNDGS1BuWURtIQsomqYd2vX7oll
 [X Empire](https://tonviewer.com/0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3) | EQB4zZusHsbU2vVTPqjhlokIOoiZhEdCMT703CWEzhTOo__X
+[XP](https://tonviewer.com/0:082bdb00eb1a3698cd41c9b65cb8129b9b58f939cbb48da7a0fff2e1ed127f26) | EQAIK9sA6xo2mM1BybZcuBKbm1j5Ocu0jaeg__Lh7RJ_JuuG
 [YSR](https://tonviewer.com/0:a73c98074ddefb8c93822e31837ecb92e6d03acb69fb534d5d68c743906654f9) | EQCnPJgHTd77jJOCLjGDfsuS5tA6y2n7U01daMdDkGZU-dbZ
 [Yoken](https://tonviewer.com/0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26) | EQCDkrpCu-FFVPQJnManjlf8XCN75wjX_AKrrEFFQ1mfJqZo
 [ZEUS](https://tonviewer.com/0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11) | EQCTUG05xJSNRFhAza1M9UjKkXqawGcSlxWHTCqM5F0MEWKN
