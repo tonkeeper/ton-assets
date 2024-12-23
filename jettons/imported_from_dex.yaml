@@ -1000,6 +1000,9 @@
 - address: 0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1
   name: The Open SOFT
   symbol: SOFT
+- address: 0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48
+  name: SOON
+  symbol: SOON
 - address: 0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1
   name: Sorry Mate
   symbol: SORRY
