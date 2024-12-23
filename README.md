@@ -423,6 +423,7 @@ Name           | Address
 [MASHA](https://tonviewer.com/0:8e7bb09d83152c69606d6b80204715ad77a0fbaf34af23c9b08103e1d1521c2e) | EQCOe7CdgxUsaWBta4AgRxWtd6D7rzSvI8mwgQPh0VIcLlsn
 [MAZNIA](https://tonviewer.com/0:4e0d592739570a22ac04b40aa273a240ee0015134026db1ca2c823cd99e2d1d0) | EQBODVknOVcKIqwEtAqic6JA7gAVE0Am2xyiyCPNmeLR0Mfz
 [MEGA](https://tonviewer.com/0:5febe62847dc7296897f3708c7acb92b4c50192425fe6ec77e5f1ffdd3639a3d) | EQBf6-YoR9xylol_NwjHrLkrTFAZJCX-bsd-Xx_902OaPaBf
+[MEMEZONE](https://tonviewer.com/0:af7d65bece657ce3c9072d3660964ebf206df00560fd21c9c9822d8e4ba927e5) | EQCvfWW-zmV848kHLTZglk6_IG3wBWD9IcnJgi2OS6kn5dON
 [MERO Mercury Coin](https://tonviewer.com/0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c) | EQDAPgCBDBb-HsYEa4ooC7xkUcjjAFlQDpdYYvPeq9AVfC7b
 [META](https://tonviewer.com/0:5ae8ea1f738bd06755d92d361191b5f8a965160427f4b05060a3491dc5d970ea) | EQBa6Oofc4vQZ1XZLTYRkbX4qWUWBCf0sFBgo0kdxdlw6rqN
 [MINOTAUR](https://tonviewer.com/0:6a69044de9e45e253cd9fbc470eeecd6b1cf63bfce5ccdd80cccb19ae7d25bdb) | EQBqaQRN6eReJTzZ-8Rw7uzWsc9jv85czdgMzLGa59Jb24vK
