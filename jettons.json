@@ -85,6 +85,22 @@
   "symbol": "APC"
  },
  {
+  "address": "EQBXRdZTk5P49mL0nOYfDR1VR33N3sPUgB7PNQMaj6DhxOJH",
+  "description": "ARC is the utility token released by the ecosystem Architec.ton, based on the Telegram ecosystem. ARC is the main token used inside apps (games etc.) in Architec.ton ecosystem.",
+  "image": "https://raw.githubusercontent.com/Architec-Ton/banktoken/refs/heads/main/docs/ARC.png",
+  "name": "ARC jetton",
+  "social": [
+   "https://t.me/architecton_tech",
+   "https:///t.me/architecton_eu",
+   "https://x.com/architec_ton"
+  ],
+  "symbol": "ARC",
+  "websites": [
+   "https://architecton.tech",
+   "https://architec.ton"
+  ]
+ },
+ {
   "address": "EQDWEsV8ZD83HhpJBLWuB_r55XLwNCpZwcBo-UGNthcJtboi",
   "description": "100% RICH",
   "image": "https://kappa.lol/baXhR",
@@ -131,6 +147,21 @@
    "https://t.me/aterra_official"
   ],
   "symbol": "ATERRA"
+ },
+ {
+  "address": "EQAR-KBduwL4w-Lg72QFX4tWTOAJCGS72FkGHrJL9Qt7P9ln",
+  "decimals": 9,
+  "description": "AVACOIN is the first fully integrated ecosystem built on Telegram mini-apps, combining play2earn, learn2earn, staking elements, and a marketplace on a single convenient platform.",
+  "image": "https://i.postimg.cc/HLDmNR6j/logo-200x200.png",
+  "name": "AVACOIN",
+  "social": [
+   "https://t.me/avagoldcoin_bot",
+   "https://t.me/avagoldcoin",
+   "https://x.com/avagoldcoin",
+   "https://instagram.com/avagoldcoin",
+   "https://www.youtube.com/@AVA-GOLDCOIN"
+  ],
+  "symbol": "AVACN"
  },
  {
   "address": "0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07",
@@ -217,6 +248,18 @@
   "websites": [
    "https://bananacycle.xyz/"
   ]
+ },
+ {
+  "address": "EQB1SXkGMcEWGEi51hZaSUAB7RRNmiPDpii_jPrhEfvruoFd",
+  "decimals": 9,
+  "description": "Invest in the future with BAROK, An innovative, powerful, and prestigious digital asset. Join now and seize the opportunities!",
+  "image": "https://storage.dyor.io/jettons/EQB1SXkGMcEWGEi51hZaSUAB7RRNmiPDpii_jPrhEfvruoFd/image.jpeg",
+  "name": "BAROK",
+  "social": [
+   "https://t.me/barokuz",
+   "https://x.com/barokuz"
+  ],
+  "symbol": "BAROK"
  },
  {
   "address": "EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH",
@@ -329,6 +372,22 @@
   "symbol": "BMW",
   "websites": [
    "https://bmwcoin.info"
+  ]
+ },
+ {
+  "address": "EQAj1qW6WZTd7sd33Uk48O3TqxNPMjYrgwRHAcBM8RcQCQAD",
+  "description": "BNK is a limited supply token that is the primary mining method for the official ARC token from the Arhitec.ton project.",
+  "image": "https://raw.githubusercontent.com/Architec-Ton/banktoken/refs/heads/main/docs/BNK.png",
+  "name": "BNK jetton",
+  "social": [
+   "https://t.me/architecton_tech",
+   "https:///t.me/architecton_eu",
+   "https://x.com/architec_ton"
+  ],
+  "symbol": "BNK",
+  "websites": [
+   "https://architec.ton",
+   "https://architecton.tech"
   ]
  },
  {
@@ -447,6 +506,12 @@
    "https://mars.tonplanets.ru",
    "https://tonplanets.ru"
   ]
+ },
+ {
+  "address": "0:61e1731a848f53f356e3d836c077ded92d00e81ccdabbf6539079f4355991537",
+  "image": "https://brainwavehq.org/aHR0cHM6Ly9pLmliYi5jby9UYlpRWGZTL2NhdGEtbG9nby5wbmc.webp",
+  "name": "CATA",
+  "symbol": "CATA"
  },
  {
   "address": "EQA3AshPEVly8wQ6mZincrKC_CkJSKXqqjyg0VMsVjF_CATS",
@@ -983,6 +1048,21 @@
   ]
  },
  {
+  "address": "EQCw-BbQIfJDGenrasj0SGuc8fkBTIP9rNnVrSLEdqehjF4V",
+  "description": "DOGSAI \u2014 \u044d\u0442\u043e \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u0442\u043e\u043a\u0435\u043d, \u044d\u0442\u043e \u0438\u043d\u043d\u043e\u0432\u0430\u0442\u043e\u0440 \u043d\u0430 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0435",
+  "image": "https://github.com/cristcrusher/dogsai/blob/main/photo_2024-12-17_10-19-05.jpg",
+  "name": "DogsAI",
+  "social": [
+   "https://t.me/doggyAI_bot",
+   "https://x.com/doggyaibot"
+  ],
+  "symbol": "DOGSAI",
+  "websites": [
+   "https://dogsai.ee",
+   "https://app.dogsai.ee"
+  ]
+ },
+ {
   "address": "0:C97192095E0F3193F8BCC0DD100128525DE76A16F816CEE2F88B9D25D58AD637",
   "description": "Durov`s Code is a token dedicated to the biography of the Durov brothers",
   "image": " https://github.com/DurovsCode/logo/blob/main/wt3.png?raw=true ",
@@ -1445,6 +1525,22 @@
   "symbol": "INTI"
  },
  {
+  "address": "0:618736e7c982c8708c310b353e50aefb148183f703d0dff86158716a3ee2e3d4",
+  "description": "A utility token for purchasing courses, services, and products related to stock market trading and investing offered by a Lithuanian trading school expanding globally.",
+  "image": "https://plum-competitive-ox-347.mypinata.cloud/ipfs/bafkreih2wb54t6fa5miqocounjpzefbrnsgpke2kpyslr5jonr6t6ifcgi",
+  "name": "Investavimas Visiems (Investing For All)",
+  "social": [
+   "https://t.me/investingforeveryonee",
+   "https://x.com/invesvv",
+   "https://discord.gg/V7P36may",
+   "https://www.tiktok.com/@tomas.dul"
+  ],
+  "symbol": "INVESV",
+  "websites": [
+   "http://investavimasvisiems.lt"
+  ]
+ },
+ {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
   "decimals": 9,
   "image": "https://i.ibb.co/gZQ4Jqg/john-doge-transparent.png",
@@ -1856,6 +1952,20 @@
   "symbol": "MEH"
  },
  {
+  "address": "0:af7d65bece657ce3c9072d3660964ebf206df00560fd21c9c9822d8e4ba927e5",
+  "description": "MEMEZONE is a meme token that combines humor and investment into one platform. Each meme created by users can be turned into a unique NFT that will be linked to the MEMEZONE token.",
+  "image": "https://www.memezone.tech/MEZO_token_256_logo.png",
+  "name": "MEMEZONE",
+  "social": [
+   "https://t.me/memezone_tech",
+   "https://x.com/memezone_tech"
+  ],
+  "symbol": "MEZO",
+  "websites": [
+   "https://memezone.tech"
+  ]
+ },
+ {
   "address": "EQD1fHR0E9crSTPO_iDFHvcowvCq7Q1Y_zMoogIFzwIdMgRb",
   "description": "We buy shitcoins on TON early, sell them x10-100, add the profit to the fund to buy more and buy back MF tokens. So technically you can hold MF tokens and profit from the shitcoins show while resting in your villa.",
   "image": "https://cyan-indirect-ant-156.mypinata.cloud/ipfs/QmRrkRnw86PuttBnZK76qqqSR9pKLaVPPkWEhmnEicetqu",
@@ -1955,6 +2065,17 @@
   "websites": [
    "https://new-jetton.site"
   ]
+ },
+ {
+  "address": "0:48d6fc92f9b56a52b4a606d8706732e98e2ed2b2612aadb01c4528c7644278a5",
+  "description": "Nismo Token - The crypto that goes vroom! Where car culture meets meme magic\u2014fast trades, fast laughs, and full throttle fun. Buckle up!",
+  "image": "https://i.imghippo.com/files/EClH6157nJ.png",
+  "name": "NISMO",
+  "social": [
+   "https://t.me/nismopepe",
+   "https://x.com/nismo_on_ton"
+  ],
+  "symbol": "NISMO"
  },
  {
   "address": "0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9",
@@ -2217,6 +2338,17 @@
    "https://t.me/b_Appka_hub"
   ],
   "symbol": "PRZH"
+ },
+ {
+  "address": "EQA_Folx_KqdfRxBbZ9ZBVaDTdQ_zAgzORJgwksP4OHRy-Co",
+  "description": "Purple Turtle here. \u041f\u0435\u0440\u0432\u044b\u0439 \u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d. \u041f\u043e\u0434\u043d\u0438\u043c\u0435\u043c\u0441\u044f \u0432\u044b\u0448\u0435 \u0437\u0432\u0435\u0437\u0434\u2728",
+  "image": "https://storage.dyor.io/jettons/EQA_Folx_KqdfRxBbZ9ZBVaDTdQ_zAgzORJgwksP4OHRy-Co/image.jpeg",
+  "name": "PurpleTurtle",
+  "social": [
+   "https://x.com/putuTON",
+   "https://t.me/purpleturtleTON"
+  ],
+  "symbol": "PUTU"
  },
  {
   "address": "0:c2ce9ae8ec30656aec5dd5a683430406a0649a235792c92cd6946df9e6770aba",
@@ -2560,6 +2692,17 @@
   "websites": [
    "https://onshiva.com"
   ]
+ },
+ {
+  "address": "0:2493a672d815eadb782d669de6a403aa570fdbc008f85d6c06fe7c57b129315b",
+  "decimals": 9,
+  "description": "It's just for fun.",
+  "image": "https://storage.dyor.io/jettons/EQAkk6Zy2BXq23gtZp3mpAOqVw_bwAj4XWwG_nxXsSkxW62H/image.jpeg",
+  "name": "\u0411\u0438\u0433 \u0428\u0430\u0432\u0443\u0445\u0430",
+  "social": [
+   "https://t.me/SHWRM"
+  ],
+  "symbol": "SHWRM"
  },
  {
   "address": "EQAONlwFvzmKBosbzHvHBMBpdHMvIO77K7hz4NZA7kqOmf8r",
@@ -2931,6 +3074,16 @@
   ]
  },
  {
+  "address": "EQDZe4l54bGIyJrPCwRXkybLDNptuUfnSxjl1JlKy8fYk45C",
+  "description": "A token for replenishing an account in the BaZoom application with a bonus to the replenishment amount and the right to claim a portion of the project\u2019s profit in TON.",
+  "image": "https://scarlet-many-sheep-216.mypinata.cloud/ipfs/bafkreiffbhqcf36gc5jofjxl4bpvb4c6h2mjiugjeervjgxubljqp7b72m",
+  "name": "BaZoom",
+  "social": [
+   "https://t.me/TON_Taxi_Bot"
+  ],
+  "symbol": "TAXI"
+ },
+ {
   "address": "0:57c0c1aca2e5330ad31b1e671e50f49b1c86f88b7107588edae8d11fe424f2a3",
   "description": "Early token with long history \ud83d\udc26 (launched on \u26fd\ufe0f GasPump",
   "image": "https://tcoin.tech/data/official-logo.png",
@@ -3019,6 +3172,20 @@
   "symbol": "TGXP",
   "websites": [
    "https://tongems0x.club/"
+  ]
+ },
+ {
+  "address": "EQCIqReEFfH3ZNxqXDi2xGl8nmfrMuQG4aAgEb56uRAa8BmW",
+  "description": "Warthog (THOG) is a memecoin with a mission, a unique cryptocurrency inspired by the global viral trend of the Warthog \"KASONGO\" and its endearing \"reverse turbo\" antics. But $THOG is more than just a meme; it's a movement",
+  "image": "https://thogtoken.com/assets/img/thogtoken.png",
+  "name": "Warthog",
+  "social": [
+   "https://x.com/thogtoken",
+   "https://t.me/thogtoken"
+  ],
+  "symbol": "THOG",
+  "websites": [
+   "https://thogtoken.com"
   ]
  },
  {
@@ -3400,6 +3567,21 @@
   ]
  },
  {
+  "address": "0:9735267dde342668dd08e44f25058ab5c4a5d612c4c36b92a460b9ed863ce53c",
+  "coingecko": "https://www.coingecko.com/en/coins/war-three-kingdoms",
+  "description": "Easy and fast Three Kingdomes Idle RPG",
+  "image": "https://res.dashfun.games/icons/w3kt-256.png",
+  "name": "War Three Kingdoms",
+  "social": [
+   "https://t.me/war3kingdoms",
+   "https://x.com/war3kingdom"
+  ],
+  "symbol": "W3KT",
+  "websites": [
+   "https://www.w3kt.com"
+  ]
+ },
+ {
   "address": "EQDmGviRZNqyzr6K_Wa3rvntvDRaGxjUxQS_ZI-fqqOFJlrz",
   "description": "Inspired by Where's Waldo",
   "image": "https://waldonton.com/images/07be62d038ecd50c77aad06033bbc6f4.png",
@@ -3480,6 +3662,21 @@
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
+ },
+ {
+  "address": "EQAIK9sA6xo2mM1BybZcuBKbm1j5Ocu0jaeg__Lh7RJ_JuuG",
+  "decimals": 9,
+  "description": "XP is a gaming token created within the AVACOIN ecosystem. It is designed to support and drive the development of both existing and future gaming projects. XP will serve as a cornerstone of the ecosystem, connecting all games and ensuring their sustainable growth and seamless integration.",
+  "image": "https://i.postimg.cc/JnBfFD2r/xp200.png",
+  "name": "XP",
+  "social": [
+   "https://t.me/avagoldcoin_bot",
+   "https://t.me/avagoldcoin",
+   "https://x.com/avagoldcoin",
+   "https://instagram.com/avagoldcoin",
+   "https://www.youtube.com/@AVA-GOLDCOIN"
+  ],
+  "symbol": "XP"
  },
  {
   "address": "EQCnPJgHTd77jJOCLjGDfsuS5tA6y2n7U01daMdDkGZU-dbZ",
@@ -3581,6 +3778,16 @@
   "symbol": "PUMPCORN"
  },
  {
+  "address": "EQAmLDfD9kc5nrqCfrCRQ1pK3KL6wB7Ya4Nud5HjNbwnbiWF",
+  "name": "KITSU",
+  "symbol": "KITSU"
+ },
+ {
+  "address": "EQCQoiC8ss0QIjpTz-RI89OzmyXxxt0CTOsGueRd9Vp-0Dy8",
+  "name": "Chloe",
+  "symbol": "CHLOE"
+ },
+ {
   "address": "EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728",
   "decimals": 6,
   "description": "USDC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -3607,18 +3814,6 @@
   "description": "WBTC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.",
   "name": "jWBTC",
   "symbol": "jWBTC"
- },
- {
-  "address": "EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu",
-  "decimals": 9,
-  "description": "Ben De\u011fil Biziz Hepimiz Barokuz",
-  "image": "https://storage.dyor.io/jettons/EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu/image.jpeg",
-  "name": "Barokuz",
-  "social": [
-   "https://t.me/barokuz",
-   "https://x.com/barokuz"
-  ],
-  "symbol": "BRK"
  },
  {
   "address": "EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy",
@@ -4035,11 +4230,6 @@
   "address": "0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5",
   "name": "Cash AMA Radio",
   "symbol": "CASH"
- },
- {
-  "address": "0:61e1731a848f53f356e3d836c077ded92d00e81ccdabbf6539079f4355991537",
-  "name": "CATA",
-  "symbol": "CATA"
  },
  {
   "address": "0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41",
@@ -5402,6 +5592,11 @@
   "symbol": "SOFT"
  },
  {
+  "address": "0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48",
+  "name": "SOON",
+  "symbol": "SOON"
+ },
+ {
   "address": "0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1",
   "name": "Sorry Mate",
   "symbol": "SORRY"
@@ -5425,6 +5620,11 @@
   "address": "0:f753cc9cda6a137bcc826d4958c64321fd208258b92ec506a6da569be220dfa5",
   "name": "Secure Sockets Layer",
   "symbol": "SSL"
+ },
+ {
+  "address": "0:8c4cd150750e16e71e01ec89001a0af1a19c5d0038e06c35d5031551b63bcb50",
+  "name": "Shill Team 6",
+  "symbol": "ST6"
  },
  {
   "address": "0:47715128230676d8689f2fb06d5531a4cc928b4280beae6a95ebf9e3ed247e84",
@@ -5730,6 +5930,11 @@
   "address": "0:255ec5f9c9716d4cf3922c404271dad6b7266f0b8f27051ae3c8272e08e807c8",
   "name": "Trump MP3",
   "symbol": "TRUMP3"
+ },
+ {
+  "address": "0:b97c03f9eb3ea2c9383589d8ff995d550687e2d8ac09d477fc9b63f41e984380",
+  "name": "Trust",
+  "symbol": "TRUST"
  },
  {
   "address": "0:b90d7df13ff8d91130c383725afc7d9780e1ce18fd6d3f2f7cbfa86172251ea6",
