@@ -3074,6 +3074,16 @@
   ]
  },
  {
+  "address": "EQDZe4l54bGIyJrPCwRXkybLDNptuUfnSxjl1JlKy8fYk45C",
+  "description": "A token for replenishing an account in the BaZoom application with a bonus to the replenishment amount and the right to claim a portion of the project\u2019s profit in TON.",
+  "image": "https://scarlet-many-sheep-216.mypinata.cloud/ipfs/bafkreiffbhqcf36gc5jofjxl4bpvb4c6h2mjiugjeervjgxubljqp7b72m",
+  "name": "BaZoom",
+  "social": [
+   "https://t.me/TON_Taxi_Bot"
+  ],
+  "symbol": "TAXI"
+ },
+ {
   "address": "0:57c0c1aca2e5330ad31b1e671e50f49b1c86f88b7107588edae8d11fe424f2a3",
   "description": "Early token with long history \ud83d\udc26 (launched on \u26fd\ufe0f GasPump",
   "image": "https://tcoin.tech/data/official-logo.png",

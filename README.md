@@ -146,6 +146,7 @@ Name           | Address
 [BRUSKI](https://tonviewer.com/0:c433d4f57e909ae7a0bc34aa787bf36e1a17524be9b088f4afbdf92c4e8b9e67) | EQDEM9T1fpCa56C8NKp4e_NuGhdSS-mwiPSvvfksToueZ0IP
 [BUCKY @BuckyBuyBot](https://tonviewer.com/0:287fcc08942bf0595e9f96a9d7813979d8ede8397e76a597051f09b1bb26557c) | EQAof8wIlCvwWV6flqnXgTl52O3oOX52pZcFHwmxuyZVfK03
 [BUTTON](https://tonviewer.com/0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11) | EQB4vB9R1WZ0SYodVmGmKl_MrBGQFbYB8iWClXyf7zetEUv0
+[BaZoom](https://tonviewer.com/0:d97b8979e1b188c89acf0b04579326cb0cda6db947e74b18e5d4994acbc7d893) | EQDZe4l54bGIyJrPCwRXkybLDNptuUfnSxjl1JlKy8fYk45C
 [Baby Notcoin](https://tonviewer.com/0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620) | EQDxRD-NX0xtsu2id0tufZLdxBNoiKkzjAQqBh65Zxq2IK48
 [Baby Ton Cat](https://tonviewer.com/0:954e7c7f9f6511a3d72e267393f051f8cf525c4b11a4c979d0a46c11def13251) | EQCVTnx_n2URo9cuJnOT8FH4z1JcSxGkyXnQpGwR3vEyUeEr
 [Baby Yoda](https://tonviewer.com/0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7) | EQC7vuKEYLdC72YhUWt3AUVA-Oi66Q1DxTHXH7r6pXaV50j7
