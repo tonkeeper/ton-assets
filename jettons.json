@@ -913,6 +913,22 @@
   ]
  },
  {
+  "address": "EQBbIiA9g8eohAbE9-gCCjlAqz3_i5EyvCW0daegABESATqU",
+  "coingecko": "https://www.geckoterminal.com/ton/pools/EQByx1aHo4Lmo1bdSYzsq2F-akQZw9ZzfR4nSyq16h_YE-wG",
+  "coinmarketcap": "https://coinmarketcap.com/dexscan/ton/EQByx1aHo4Lmo1bdSYzsq2F-akQZw9ZzfR4nSyq16h_YE-wG/",
+  "description": "I'm DORK, and I'm the OG Meme in the TON ecosystem.",
+  "image": "https://dorkme.me/logo.jpg",
+  "name": "DORK",
+  "social": [
+   "https://x.com/crypto_dorkmeme",
+   "https://t.me/dorkmeme"
+  ],
+  "symbol": "DORK",
+  "websites": [
+   "https://dorkme.me"
+  ]
+ },
+ {
   "address": "0:44fcfd9b28ef5d1c64b052165b42feaf6be611b84594119b82bff8845e03bea6",
   "name": "Dracoin",
   "symbol": "DRA"
