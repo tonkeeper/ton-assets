@@ -1,5 +1,20 @@
 [
  {
+  "address": "EQDHv6pcsK_1zWuJMIWiBwczJXKPXsh17j1lCPtt3rXyxFQW",
+  "decimals": 9,
+  "description": "Official deathdedesign coin",
+  "image": "https://i.ibb.co/5Txn7R8/Logo.png",
+  "name": "Deathdedecoin",
+  "social": [
+   "https://t.me/deathdeart",
+   "https://x.com/Deathcoin666"
+  ],
+  "symbol": "DEATHCOIN",
+  "websites": [
+   "http://deathcoin.vip"
+  ]
+ },
+ {
   "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
   "decimals": 9,
   "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
