@@ -1,5 +1,20 @@
 [
  {
+  "address": "EQDHv6pcsK_1zWuJMIWiBwczJXKPXsh17j1lCPtt3rXyxFQW",
+  "decimals": 9,
+  "description": "Official deathdedesign coin",
+  "image": "https://i.ibb.co/5Txn7R8/Logo.png",
+  "name": "Deathdedecoin",
+  "social": [
+   "https://t.me/deathdeart",
+   "https://x.com/Deathcoin666"
+  ],
+  "symbol": "DEATHCOIN",
+  "websites": [
+   "http://deathcoin.vip"
+  ]
+ },
+ {
   "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
   "decimals": 9,
   "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
@@ -910,6 +925,22 @@
   "symbol": "DOODIE",
   "websites": [
    "https://dogwifhoodie.fun"
+  ]
+ },
+ {
+  "address": "EQBbIiA9g8eohAbE9-gCCjlAqz3_i5EyvCW0daegABESATqU",
+  "coingecko": "https://www.geckoterminal.com/ton/pools/EQByx1aHo4Lmo1bdSYzsq2F-akQZw9ZzfR4nSyq16h_YE-wG",
+  "coinmarketcap": "https://coinmarketcap.com/dexscan/ton/EQByx1aHo4Lmo1bdSYzsq2F-akQZw9ZzfR4nSyq16h_YE-wG/",
+  "description": "I'm DORK, and I'm the OG Meme in the TON ecosystem.",
+  "image": "https://dorkme.me/logo.jpg",
+  "name": "DORK",
+  "social": [
+   "https://x.com/crypto_dorkmeme",
+   "https://t.me/dorkmeme"
+  ],
+  "symbol": "DORK",
+  "websites": [
+   "https://dorkme.me"
   ]
  },
  {
@@ -1952,6 +1983,20 @@
   "symbol": "MEH"
  },
  {
+  "address": "0:af7d65bece657ce3c9072d3660964ebf206df00560fd21c9c9822d8e4ba927e5",
+  "description": "MEMEZONE is a meme token that combines humor and investment into one platform. Each meme created by users can be turned into a unique NFT that will be linked to the MEMEZONE token.",
+  "image": "https://www.memezone.tech/MEZO_token_256_logo.png",
+  "name": "MEMEZONE",
+  "social": [
+   "https://t.me/memezone_tech",
+   "https://x.com/memezone_tech"
+  ],
+  "symbol": "MEZO",
+  "websites": [
+   "https://memezone.tech"
+  ]
+ },
+ {
   "address": "EQD1fHR0E9crSTPO_iDFHvcowvCq7Q1Y_zMoogIFzwIdMgRb",
   "description": "We buy shitcoins on TON early, sell them x10-100, add the profit to the fund to buy more and buy back MF tokens. So technically you can hold MF tokens and profit from the shitcoins show while resting in your villa.",
   "image": "https://cyan-indirect-ant-156.mypinata.cloud/ipfs/QmRrkRnw86PuttBnZK76qqqSR9pKLaVPPkWEhmnEicetqu",
@@ -2680,6 +2725,17 @@
   ]
  },
  {
+  "address": "0:2493a672d815eadb782d669de6a403aa570fdbc008f85d6c06fe7c57b129315b",
+  "decimals": 9,
+  "description": "It's just for fun.",
+  "image": "https://storage.dyor.io/jettons/EQAkk6Zy2BXq23gtZp3mpAOqVw_bwAj4XWwG_nxXsSkxW62H/image.jpeg",
+  "name": "\u0411\u0438\u0433 \u0428\u0430\u0432\u0443\u0445\u0430",
+  "social": [
+   "https://t.me/SHWRM"
+  ],
+  "symbol": "SHWRM"
+ },
+ {
   "address": "EQAONlwFvzmKBosbzHvHBMBpdHMvIO77K7hz4NZA7kqOmf8r",
   "description": "Slopy (SLOPY) is a meme token with a dynamic royalty system for holders on ETH. Royalties are randomly awarded to holders during transactions.",
   "image": "https://slopy.io/200logoton.png",
@@ -3047,6 +3103,16 @@
   "websites": [
    "tonchain.meme"
   ]
+ },
+ {
+  "address": "EQDZe4l54bGIyJrPCwRXkybLDNptuUfnSxjl1JlKy8fYk45C",
+  "description": "A token for replenishing an account in the BaZoom application with a bonus to the replenishment amount and the right to claim a portion of the project\u2019s profit in TON.",
+  "image": "https://scarlet-many-sheep-216.mypinata.cloud/ipfs/bafkreiffbhqcf36gc5jofjxl4bpvb4c6h2mjiugjeervjgxubljqp7b72m",
+  "name": "BaZoom",
+  "social": [
+   "https://t.me/TON_Taxi_Bot"
+  ],
+  "symbol": "TAXI"
  },
  {
   "address": "0:57c0c1aca2e5330ad31b1e671e50f49b1c86f88b7107588edae8d11fe424f2a3",
@@ -5555,6 +5621,11 @@
   "address": "0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1",
   "name": "The Open SOFT",
   "symbol": "SOFT"
+ },
+ {
+  "address": "0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48",
+  "name": "SOON",
+  "symbol": "SOON"
  },
  {
   "address": "0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1",

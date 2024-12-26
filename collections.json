@@ -29,6 +29,16 @@
   "name": "KZH"
  },
  {
+  "address": "EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS",
+  "description": "NFT Spaceship collection from MMPro BUMP team",
+  "image": "https://ipfs.filebase.io/ipfs/QmYkdzwxiViJ3Ceqx3iXX6VTqGKkuhVqEecgiiF5nvJe7j",
+  "name": "NFT Spaceship",
+  "social": [
+   "https://t.me/marketmakingpro",
+   "https://x.com/MarketmakingX"
+  ]
+ },
+ {
   "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
   "name": "Telegram usernames",
   "websites": [
