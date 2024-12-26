@@ -57,7 +57,7 @@ Name           | Address
 [Fragment](https://tonviewer.com/0:43512860d54980cf24d59868a30e679927fb1373c10964db7500edcdf690abc4) | EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN
 [Fragment](https://tonviewer.com/0:e6f3d8824f46b1efbab9afc684793428c55fed69b46a15a49be69a29bc49e530) | EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb
 [Pavel Durov](https://tonviewer.com/0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d) | EQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinaPP
-[Notcoin](https://tonviewer.com/0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112) | EQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REsF3
+[Notcoin](https://tonviewer.com/0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112)| EQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REsF3
 
 
 ## NFT collections
