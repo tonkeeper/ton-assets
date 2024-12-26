@@ -1,0 +1,8 @@
+name: Vibe/Rub
+symbol: RUBV
+description: "This is a stablecoin pegged to the ruble."
+address: EQCbHPjOKvYcDuNsIvJuMDeKyGSVFftVAJuEMdaliniyRGEQ
+decimals: 9
+image: "https://cdn4.cdn-telegram.org/file/nvVrICW0XyFVaH2Ld_kEs6kJwjgJ3C-DmT40i1kInHEQZK_yog7RUfuOtJqOhmkncBoiGzjjBiFCQQUoUAEBttRF0yssoeqoPJ17BqHc624Jj1E7-2djMcqmmHZlOtO1cFCjT9Avq83DNAkcxm5ajxNgyLrlUE4PupgjyRb67gQ0fp1sTMd9CmNwsYCppsrbvvCazcJKIQZEyFXnRak1HAZKgeC2ljFqgm8fq5m293Q3inBk9KGuShK5JSHYr_sdGHNIUllwjkQSZWGvj2P4uTA_EEvA9OfFCI_FcyEUHqTyNKQmaR98pD1oaCaQbUceSoqRNCJREF0Xc3RnRiewCA.jpg"
+social:
+  - "https://t.me/viberub"
