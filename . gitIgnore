@@ -55,7 +55,7 @@ cover/
 # Translations
 *.mo
 *.pot
-*.nix
+*.replit.nix
 *.replit
 
 # Django stuff:
