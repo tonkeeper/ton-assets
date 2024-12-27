@@ -8,7 +8,16 @@ app.use(express.static('.'));
 
 // Root route
 app.get('/', (req, res) => {
-  res.json({ message: 'Welcome to TON Assets API' });
+  res.json({
+    message: 'Welcome to TON Assets API',
+    description: 'API for accessing TON blockchain assets information',
+    endpoints: {
+      health: '/api/health',
+      accounts: '/accounts.json',
+      collections: '/collections.json',
+      jettons: '/jettons.json'
+    }
+  });
 });
 
 // Basic route
