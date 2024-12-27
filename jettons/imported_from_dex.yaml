@@ -826,6 +826,9 @@
 - address: 0:bfa25b403c97507329007fa3ee2816c7b535d5485f0209876a857ea1fa69b01a
   name: cats are liquidity
   symbol: PRRR
+- address: 0:00a7117b757c958b805b52c5102f194eac62447276c9ae963a9bc5c5eac0fcde
+  name: Pirozh Coin
+  symbol: PRZH
 - address: 0:20a2d4a45f4e8c216f80d278b9c8aa9e365c1cde70129db3b57701a8fa4c2983
   name: PizzaTon Token
   symbol: PTJ
