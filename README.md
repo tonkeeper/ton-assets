@@ -199,6 +199,7 @@ Name           | Address
 [Capybara](https://tonviewer.com/0:9358a65447706527e8e74ff184f11b4444338c435968b3bf94a778a94244e2ef) | EQCTWKZUR3BlJ-jnT_GE8RtERDOMQ1los7-Up3ipQkTi700i
 [Cash AMA Radio](https://tonviewer.com/0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5) | EQDIq-S2SqvytT9tv71lhFZ_0rw9OkXLeiAhmhmr3UqJxVow
 [Cashback](https://tonviewer.com/0:adf8f18a394013fe83ce8d6b9c2d60a9fe895765e9529e32224f63cf5bb5640b) | EQCt-PGKOUAT_oPOjWucLWCp_olXZelSnjIiT2PPW7VkCxvM
+[Cat Gold Miner](https://tonviewer.com/0:c6f21acc9a3583ee23fb3a9d97919ea31a116d054ab306bc298f8839d3f5513e) | EQDG8hrMmjWD7iP7Op2XkZ6jGhFtBUqzBrwpj4g50_VRPgYp
 [Cat Teftel](https://tonviewer.com/0:793ef6429fe19e07cceccb3f7a5ee5c05d9fef08a1a779b0a57366671a16318f) | EQB5PvZCn-GeB8zsyz96XuXAXZ_vCKGnebClc2ZnGhYxj7pR
 [Catizen](https://tonviewer.com/0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400) | EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7
 [Chad on TON](https://tonviewer.com/0:e99e37c4c12263754b9f6ad1dda2913db192ca983ee781726f6e2c647a5eb3b5) | EQDpnjfEwSJjdUufatHdopE9sZLKmD7ngXJvbixkel6zta5B
