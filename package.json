@@ -1,0 +1,11 @@
+
+{
+  "name": "ton-assets",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

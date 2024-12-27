@@ -1,5 +1,5 @@
 modules = ["python-3.12", "nodejs-22"]
-run = "pnpm run dev"
+run = "npm run dev"
 
 [nix]
 channel = "stable-24_05"
