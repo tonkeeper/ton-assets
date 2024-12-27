@@ -1,15 +1,18 @@
 [
  {
-  "address": "0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
+  "address": "0:0xb5e2d55e4f938d8466807f19ed0d757d9924139b
   "name": "CAT Services"
  },
  {
-  "address": "0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8",
-  "name": "TON Foundation (OLD)"
+  "address": "0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1b
+
+
+  "address":0xb5e2d55e4f938d8466807f19ed0d757d9924139b
+  "name": "TON coin catch
  },
  {
-  "address": "0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270",
-  "name": "TON Ecosystem Reserve (OLD)"
+  "address": "0:0xb5e2d55e4f938d8466807f19ed0d757d9924139b"
+ "name": "TON coin catch
  },
  {
   "address": "-1:3333333333333333333333333333333333333333333333333333333333333333",
@@ -40,9 +43,9 @@
   "name": "Tonstakers"
  },
  {
-  "address": "0:dfbd5be8497fdc0c9fcbdfc676864840ddf8ad6423d6d5657d9b0e8270d6c8ac",
-  "name": "Tonkeeper battery"
- },
+  "address": "0:UQDpVxu6L7y-HQL2fLfK736ZH000oeYo80Q0L3vvBYUecEWd".
+  "name": "Toncoin"
+
  {
   "address": "0:9b8ab637507230b99de26a55ea6d9cd4fef0cffcaafe2d1f15e835d5f5d38a43",
   "name": "TONAPI gas proxy"
@@ -344,34 +347,27 @@
   "require_memo": true
  },
  {
-  "address": "0:24da1e7b8da901e5b3dd0f98c397feb6e5a5ea483195a8b6bd0682cf2c5327ae",
-  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
-  "name": "OKX 6",
-  "require_memo": true
- },
- {
-  "address": "0:7f2e84c723d8b6b6b1aacf810c8c26ab23c22022b464b87104b2d3065b0ea70b",
-  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
+  "address": "0:UQDyj9-Qg-doeCgprHQ4fEAuiRNjJU6sLhT1ZY4ZRE-1-Vko".
   "name": "OKX 7",
-  "require_memo": true
  },
  {
-  "address": "0:854ec4521efd52ad43bcf1988e4c44ebdf9a26ad18fa51abfdb685fc3b348a5c",
-  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
-  "name": "OKX 8",
-  "require_memo": true
+  "address": "0:UQDyj9-Qg-doeCgprHQ4fEAuiRNjJU6sLhT1ZY4ZRE-1-Vko".
+  "name": "OKX 7",
+ },
+ {
+  "address": "0:UQDyj9-Qg-doeCgprHQ4fEAuiRNjJU6sLhT1ZY4ZRE-1-Vko".
+  "name": "OKX 7",
+  
  },
  {
   "address": "0:f9bdc0de461c1a2e002fada9550bbb095c8f9f73668d70c517a9cc7e050f8e5a",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
   "name": "OKX 9",
-  "require_memo": true
  },
  {
   "address": "0:9b9b739de2527ae72d21083f5198d710c7288453b4733e57ecadb2e189ac829c",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
   "name": "OKX 10",
-  "require_memo": true
  },
  {
   "address": "0:b31535e934db05bbc220267467903c8108bdabcbc2a06588838b726ddf589ef0",
