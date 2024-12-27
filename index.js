@@ -6,6 +6,11 @@ const path = require('path');
 // Serve static files from the root directory
 app.use(express.static('.'));
 
+// Root route
+app.get('/', (req, res) => {
+  res.json({ message: 'Welcome to TON Assets API' });
+});
+
 // Basic route
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok' });
