@@ -1,8 +1,9 @@
 name: GoidaCoin
 description: "The best Russian coin ever... 👌"
-image: "https://cache.tonapi.io/imgproxy/T_YnerxG1KoWhQygqksyqCjJ4Jau0m8tELfgW4sRycI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvRFpSVjRDZmcvR29pZGEtQ29pbi1sb2dvLmpwZw.webp"  
+image: "https://i.postimg.cc/DZRV4Cfg/Goida-Coin-logo.jpg"  
 address: "0:6894d0ed5033e676af87bc58f173d264b9dc8723c18fd8106bf7c8d8932ded35"
-decimals: 2,
 symbol: GOIDA
+websites:
+  - "https://dexscreener.com/ton/eqdjrh33qiybcll5ieerogsalwqrxltnjjcif6yoacwocf_k"
 social:
   - "https://t.me/rus_goidacoin"
