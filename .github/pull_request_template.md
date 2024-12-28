@@ -2,15 +2,13 @@ Please make sure you change the original .yaml fields in the accounts/, Collecti
 Example pull request:
 
 ```yaml
-name: the name of your token
-description: description of your token
-image: "link to your token logo" !!! (don't use ton.api)!!!
-address: Address of your token 
-symbol: Symbol of your token
-websites:
-  - "link"
+name: Nu Pogodi
+description: The “Nu Pogodi” token is a cryptocurrency inspired by the iconic Soviet cartoon. Like the Wolf chasing the Hare, its price can quickly rise, leaving others behind. Investors should expect rapid, unpredictable movements.
+image: https://share.icloud.com/photos/05frB2SRg4n_hUqHkhhnLeGVg
+address: EQC7uoXAZq7vDB10Ut0Oq33ee2kEKvGAaZYTM-1bubjZkyRk 
+symbol: NPG
 social:
-  - "link"
+  - https://x.com/npg_community?s=21
 ```
 
 
