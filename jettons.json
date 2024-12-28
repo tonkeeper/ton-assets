@@ -1,5 +1,20 @@
 [
  {
+  "address": "EQDHv6pcsK_1zWuJMIWiBwczJXKPXsh17j1lCPtt3rXyxFQW",
+  "decimals": 9,
+  "description": "Official deathdedesign coin",
+  "image": "https://i.ibb.co/5Txn7R8/Logo.png",
+  "name": "Deathdedecoin",
+  "social": [
+   "https://t.me/deathdeart",
+   "https://x.com/Deathcoin666"
+  ],
+  "symbol": "DEATHCOIN",
+  "websites": [
+   "http://deathcoin.vip"
+  ]
+ },
+ {
   "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
   "decimals": 9,
   "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
@@ -514,6 +529,21 @@
   "symbol": "CATA"
  },
  {
+  "address": "EQDG8hrMmjWD7iP7Op2XkZ6jGhFtBUqzBrwpj4g50_VRPgYp",
+  "description": "Where Purr-fectly adorable meets Purr-fectly profitable!",
+  "image": "https://catgoldminer.ai/CATGOLD_TOKEN.png",
+  "name": "Cat Gold Miner",
+  "social": [
+   "https://t.me/catgoldminerann",
+   "https://x.com/catgoldminer",
+   "https://youtube.com/@catgoldminerofficial"
+  ],
+  "symbol": "CATGOLD",
+  "websites": [
+   "https://catgoldminer.ai"
+  ]
+ },
+ {
   "address": "EQA3AshPEVly8wQ6mZincrKC_CkJSKXqqjyg0VMsVjF_CATS",
   "name": "CATS",
   "symbol": "CATS"
@@ -910,6 +940,22 @@
   "symbol": "DOODIE",
   "websites": [
    "https://dogwifhoodie.fun"
+  ]
+ },
+ {
+  "address": "EQBbIiA9g8eohAbE9-gCCjlAqz3_i5EyvCW0daegABESATqU",
+  "coingecko": "https://www.geckoterminal.com/ton/pools/EQByx1aHo4Lmo1bdSYzsq2F-akQZw9ZzfR4nSyq16h_YE-wG",
+  "coinmarketcap": "https://coinmarketcap.com/dexscan/ton/EQByx1aHo4Lmo1bdSYzsq2F-akQZw9ZzfR4nSyq16h_YE-wG/",
+  "description": "I'm DORK, and I'm the OG Meme in the TON ecosystem.",
+  "image": "https://dorkme.me/logo.jpg",
+  "name": "DORK",
+  "social": [
+   "https://x.com/crypto_dorkmeme",
+   "https://t.me/dorkmeme"
+  ],
+  "symbol": "DORK",
+  "websites": [
+   "https://dorkme.me"
   ]
  },
  {
@@ -3786,6 +3832,16 @@
   "address": "EQCQoiC8ss0QIjpTz-RI89OzmyXxxt0CTOsGueRd9Vp-0Dy8",
   "name": "Chloe",
   "symbol": "CHLOE"
+ },
+ {
+  "address": "EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P",
+  "name": "AiPhABeT",
+  "symbol": "APHBT"
+ },
+ {
+  "address": "EQA5Fl34x7J9_rmvWrlAx8Xc_Ey_H5BRmtd3dDbDxBf0y6IY",
+  "name": "PINQ",
+  "symbol": "PINQ"
  },
  {
   "address": "EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728",
