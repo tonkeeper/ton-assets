@@ -1,0 +1,12 @@
+{
+  "address": "0:229ffbfb826042b91391960b0e03e7f5346dea414f463255462cadf384c0aeac",
+  "name": "CEDARBAG",
+  "symbol": "CIB",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/3F7URx23B0canCHmiV35ZtN6YtmR8QZ8eRUTfaZEgRU/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zMy5ibHVtLmNvZGVzLzZiZWRjNTg4LTlmZDUtNGU4Ni1iMDExLWVhMmQ0YjM5YWQ3ZS9lM2ViMjQ3MC1kZjQ1LTQzYWEtYmQ5NS03ZDJhMGNiZmY2ODA.webp",
+  "description": "online shop bag"
+websites:
+  - "https://cedarbag.ir/token"
+social:
+  - "https://t.me/cedarbag20"
+}
