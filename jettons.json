@@ -1185,6 +1185,21 @@
   ]
  },
  {
+  "address": "0:c7e85f1b5cbfd942d4fdcdf6198a74f6361b2b7176b5548e64a0ef7cb25cfcac",
+  "description": "\ud83d\udea4 RELAX - FISH - EARN \ud83c\udfa3 Idle Fishing offers a relaxing experience where you can easily collect resources and upgrade your boats. With a basic investment package at the start, you\u2019ll receive amazing rewards to own valuable boats and kickstart your journey toward massive profits.",
+  "image": "https://cdn.playtoearn.fish/FISHUP.webp",
+  "name": "FishUP",
+  "social": [
+   "https://x.com/IdleFishing_P2E",
+   "https://www.youtube.com/@IdleFishing_P2E",
+   "https://t.me/idlefishing"
+  ],
+  "symbol": "FISHUP",
+  "websites": [
+   "https://playtoearn.fish/"
+  ]
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
