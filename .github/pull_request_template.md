@@ -8,7 +8,8 @@ image: https://share.icloud.com/photos/05frB2SRg4n_hUqHkhhnLeGVg
 address: EQC7uoXAZq7vDB10Ut0Oq33ee2kEKvGAaZYTM-1bubjZkyRk 
 symbol: NPG
 social:
-  - https://x.com/npg_community?s=21
+  - "https://x.com/npg_community?s=21"
+  - "https://t.me/+Ylg6ImLvsRc4YjRi"
 ```
 
 
@@ -17,13 +18,12 @@ social:
 Пример пул реквеста:
 
 ```yaml
-name: имя вашего токена
-description: описание вашего токена
-image: "ссылка на лого вашего токена" !!! (не используйте ton.api)!!!
-address: Адрес вашего токена 
-symbol: Сивол вашего токена
-websites:
-  - "ссылка"
+name: Nu Pogodi
+description: The “Nu Pogodi” token is a cryptocurrency inspired by the iconic Soviet cartoon. Like the Wolf chasing the Hare, its price can quickly rise, leaving others behind. Investors should expect rapid, unpredictable movements.
+image: https://share.icloud.com/photos/05frB2SRg4n_hUqHkhhnLeGVg
+address: EQC7uoXAZq7vDB10Ut0Oq33ee2kEKvGAaZYTM-1bubjZkyRk  
+symbol: NPG
 social:
-  - "ссылка"
+  - "https://x.com/npg_community?s=21"
+  - "https://t.me/+Ylg6ImLvsRc4YjRi"
   ```
