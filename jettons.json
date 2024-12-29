@@ -529,21 +529,6 @@
   "symbol": "CATA"
  },
  {
-  "address": "EQDG8hrMmjWD7iP7Op2XkZ6jGhFtBUqzBrwpj4g50_VRPgYp",
-  "description": "Where Purr-fectly adorable meets Purr-fectly profitable!",
-  "image": "https://catgoldminer.ai/CATGOLD_TOKEN.png",
-  "name": "Cat Gold Miner",
-  "social": [
-   "https://t.me/catgoldminerann",
-   "https://x.com/catgoldminer",
-   "https://youtube.com/@catgoldminerofficial"
-  ],
-  "symbol": "CATGOLD",
-  "websites": [
-   "https://catgoldminer.ai"
-  ]
- },
- {
   "address": "EQA3AshPEVly8wQ6mZincrKC_CkJSKXqqjyg0VMsVjF_CATS",
   "name": "CATS",
   "symbol": "CATS"
@@ -1182,21 +1167,6 @@
   "symbol": "FINCH",
   "websites": [
    "https://finchcoin.org"
-  ]
- },
- {
-  "address": "0:c7e85f1b5cbfd942d4fdcdf6198a74f6361b2b7176b5548e64a0ef7cb25cfcac",
-  "description": "\ud83d\udea4 RELAX - FISH - EARN \ud83c\udfa3 Idle Fishing offers a relaxing experience where you can easily collect resources and upgrade your boats. With a basic investment package at the start, you\u2019ll receive amazing rewards to own valuable boats and kickstart your journey toward massive profits.",
-  "image": "https://cdn.playtoearn.fish/FISHUP.webp",
-  "name": "FishUP",
-  "social": [
-   "https://x.com/IdleFishing_P2E",
-   "https://www.youtube.com/@IdleFishing_P2E",
-   "https://t.me/idlefishing"
-  ],
-  "symbol": "FISHUP",
-  "websites": [
-   "https://playtoearn.fish/"
   ]
  },
  {
@@ -3849,16 +3819,6 @@
   "symbol": "CHLOE"
  },
  {
-  "address": "EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P",
-  "name": "AiPhABeT",
-  "symbol": "APHBT"
- },
- {
-  "address": "EQA5Fl34x7J9_rmvWrlAx8Xc_Ey_H5BRmtd3dDbDxBf0y6IY",
-  "name": "PINQ",
-  "symbol": "PINQ"
- },
- {
   "address": "EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728",
   "decimals": 6,
   "description": "USDC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -4286,11 +4246,6 @@
   "address": "0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11",
   "name": "BUTTON",
   "symbol": "BUTTON"
- },
- {
-  "address": "0:35e1e4ce64499e4b9690967cdee30587d924e60b4eb68a8c852881d61b08e2ff",
-  "name": "C4",
-  "symbol": "C4"
  },
  {
   "address": "0:83ec74343293a7a0d2a9225bbd984651f894bb6a87b850e3875c110195056dda",
