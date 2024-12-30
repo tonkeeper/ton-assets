@@ -2847,6 +2847,19 @@
   ]
  },
  {
+  "address": "0:ee4a37eb44ef12a67f5702e81b954802c34b11e6f72099aac0e4c9088f780083",
+  "description": "SPR - mem token launched on the blum memepad platform aiming to build the largest meme-token community on the TON blockchain",
+  "image": "https://cdn.sprcoin.org/jettons/EQDuSjfrRO8Spn9XAugblUgCw0sR5vcgmarA5MkIj3gAg2a1/SPR.png",
+  "name": "SPeculatoR",
+  "social": [
+   "https://t.me/Community_SPR"
+  ],
+  "symbol": "SPR",
+  "websites": [
+   "https://sprcoin.org"
+  ]
+ },
+ {
   "address": "0:adc5b7daf5b5579fbc2c7cae55ef67d7d5116e73c9050c5ee988c8a858436010",
   "decimals": 9,
   "description": "SquidTG Metaverse Governance Token \ud83e\udd91",
