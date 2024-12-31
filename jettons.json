@@ -2115,6 +2115,21 @@
   ]
  },
  {
+  "address": "0:eba9765f751f8cab00182266244746073c36b3322239fa853368bc6fb87e2f33",
+  "description": "MMPRO Token is a part of our whole ecosystem. The Marketmaking.pro is an agency who provides marketmaking and liquidity services to the exchanges and projects.",
+  "image": "https://tap-static.s3.nl-ams.scw.cloud/partner/20241227_lgt8UzwMusxSDTXq.webp",
+  "name": "MMPRO Token",
+  "social": [
+   "https://t.me/marketmakingpro",
+   "https://www.youtube.com/@mmprogroup",
+   "https://x.com/MarketmakingX"
+  ],
+  "symbol": "MMPRO",
+  "websites": [
+   "https://marketmaking.pro/"
+  ]
+ },
+ {
   "address": "0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3",
   "description": "MonkeyRush Token",
   "image": "https://raw.githubusercontent.com/rafnicore/monkeyrush/refs/heads/main/monker.png",
@@ -4278,6 +4293,11 @@
   "address": "0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81",
   "name": "BOOBA Coin",
   "symbol": "BOOBA"
+ },
+ {
+  "address": "0:a91689cc1452c10b77094a89823d69d5263cf2c52100f75508b339c7b1c6dfc5",
+  "name": "Boom",
+  "symbol": "BOOM"
  },
  {
   "address": "0:bf06bf7f705232c2b2a80064770b91019eb32b5ae794d33a90fb43ac95daa800",
