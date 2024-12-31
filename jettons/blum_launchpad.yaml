@@ -45,3 +45,11 @@
 - symbol: PINQ
   name: PINQ
   address: "EQA5Fl34x7J9_rmvWrlAx8Xc_Ey_H5BRmtd3dDbDxBf0y6IY"
+      
+- symbol: LAZY
+  name: LazyCoin
+  address: "EQBBT7wVw95n16wTzOzTWlYqcjh2z0jY-1qm8dep4R4PxGEK"
+      
+- symbol: ESALAT
+  name: Esalat
+  address: "EQBLS1l0xq007CZTkueNivBNG8VuaOF3SDMn1bzImyEOudJZ"
