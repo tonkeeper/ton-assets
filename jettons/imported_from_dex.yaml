@@ -166,6 +166,9 @@
 - address: 0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11
   name: BUTTON
   symbol: BUTTON
+- address: 0:35e1e4ce64499e4b9690967cdee30587d924e60b4eb68a8c852881d61b08e2ff
+  name: C4
+  symbol: C4
 - address: 0:83ec74343293a7a0d2a9225bbd984651f894bb6a87b850e3875c110195056dda
   name: a TON of MILADYS
   symbol: CABAL
