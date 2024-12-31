@@ -142,6 +142,7 @@ Name           | Address
 [Blockton News](https://tonviewer.com/0:ca13f38afaa91fc94d3c25b3059225f912dc57cc5d3a8f75e727ee23309f2819) | EQDKE_OK-qkfyU08JbMFkiX5EtxXzF06j3XnJ-4jMJ8oGRyz
 [BlueBonk](https://tonviewer.com/0:ea28bf3c752737bdd8942f4202c99d963914bec478df7da3dace0fa510c7146a) | EQDqKL88dSc3vdiUL0ICyZ2WORS-xHjffaPazg-lEMcUar8x
 [Bonescoin](https://tonviewer.com/0:3b31a0299df9902c75820bb789e96b94cc9ea3b8cb68a706672f035a00bedfdf) | EQA7MaApnfmQLHWCC7eJ6WuUzJ6juMtopwZnLwNaAL7f35Ew
+[Boom](https://tonviewer.com/0:a91689cc1452c10b77094a89823d69d5263cf2c52100f75508b339c7b1c6dfc5) | EQCpFonMFFLBC3cJSomCPWnVJjzyxSEA91UIsznHscbfxZwX
 [Bos Pump](https://tonviewer.com/0:f197e7a28ba55840420933413608da754a16c6a7c016a7ef987f2936951661be) | EQDxl-eii6VYQEIJM0E2CNp1ShbGp8AWp--Yfyk2lRZhvut2
 [Botfather](https://tonviewer.com/0:609599c3e670a5202dd086acacb3a327e53824f4dcca91af4c9c1a5f2565f27b) | EQBglZnD5nClIC3Qhqyss6Mn5Tgk9NzKka9MnBpfJWXye9p4
 [Boys Club](https://tonviewer.com/0:2d62f45d3f29bf54fe372424e169fcd38631b3f0e55b1a7cbfc1359a69e97aef) | EQAtYvRdPym_VP43JCThafzThjGz8OVbGny_wTWaael671Uq
