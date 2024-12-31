@@ -294,6 +294,7 @@ Name           | Address
 [Energy Cells](https://tonviewer.com/0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a) | EQDA6v7olSvZCEr2yNhUlM4eBnRF11lsHLrtkkh7MSMICt4r
 [Engage ADS on Ton Open Network](https://tonviewer.com/0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896) | EQDE2iOVhvteBA8bCxywcmCOPVxJGltPhft8RYDTXiv4lmvM
 [Epidemy](https://tonviewer.com/0:bbcc4d8155c2e2c9b04cb90d6088e3d898ee098bcf09d76afb76ea8c2563ad17) | EQC7zE2BVcLiybBMuQ1giOPYmO4Ji88J12r7duqMJWOtFxtr
+[Esalat](https://tonviewer.com/0:4b4b5974c6ad34ec265392e78d8af04d1bc56e68e177483327d5bcc89b210eb9) | EQBLS1l0xq007CZTkueNivBNG8VuaOF3SDMn1bzImyEOudJZ
 [FLOX](https://tonviewer.com/0:e0e59518a1b5db4240db28224a0e7a4077d04a85d23bb305497727d987f2d7be) | EQDg5ZUYobXbQkDbKCJKDnpAd9BKhdI7swVJdyfZh_LXvrfl
 [FLYKI Token](https://tonviewer.com/0:9efd7ad27e0e0c9cbdfeae8d5a900116c5d7c789731ddb8fd7813261ae2a027a) | EQCe_XrSfg4MnL3-ro1akAEWxdfHiXMd24_XgTJhrioCek9R
 [FRANC](https://tonviewer.com/0:12c3ee18332a771c32cb4e08c3954d4407d77547970a815cd43d06e2cc758007) | EQASw-4YMyp3HDLLTgjDlU1EB9d1R5cKgVzUPQbizHWABz6U
@@ -418,6 +419,7 @@ Name           | Address
 [LUXE DUCK](https://tonviewer.com/0:064748236a0e7d90971f1ef9baabaecdcc8c8c958fc3a8427fdfd931a9904c07) | EQAGR0gjag59kJcfHvm6q67NzIyMlY_DqEJ_39kxqZBMB2Cj
 [Laika](https://tonviewer.com/0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0) | EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw
 [Lavandos](https://tonviewer.com/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
+[LazyCoin](https://tonviewer.com/0:414fbc15c3de67d7ac13ccecd35a562a723876cf48d8fb5aa6f1d7a9e11e0fc4) | EQBBT7wVw95n16wTzOzTWlYqcjh2z0jY-1qm8dep4R4PxGEK
 [Leagushka](https://tonviewer.com/0:3309d04825d6599e97e7e21eedec03a4e44ecc01ac54b0844006ea25562199ae) | EQAzCdBIJdZZnpfn4h7t7AOk5E7MAaxUsIRABuolViGZrhzI
 [Lego Resistance Dog](https://tonviewer.com/0:38277a3f5d37562f3a99e5c7ca74a333200a38ddaaf0f557cb6c2e31a256884a) | EQA4J3o_XTdWLzqZ5cfKdKMzIAo43arw9VfLbC4xolaISkWD
 [Lets Fuckin Go](https://tonviewer.com/0:8f8eefbd24dd1f2b8053a0ebc0e9a3dd0724790a6cab346a9e321b91cf7e5913) | EQCPju-9JN0fK4BToOvA6aPdByR5CmyrNGqeMhuRz35ZE8C1
