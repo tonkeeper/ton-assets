@@ -118,6 +118,9 @@
 - address: 0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81
   name: BOOBA Coin
   symbol: BOOBA
+- address: 0:a91689cc1452c10b77094a89823d69d5263cf2c52100f75508b339c7b1c6dfc5
+  name: Boom
+  symbol: BOOM
 - address: 0:bf06bf7f705232c2b2a80064770b91019eb32b5ae794d33a90fb43ac95daa800
   name: BORIS
   symbol: BORIS
@@ -166,6 +169,9 @@
 - address: 0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11
   name: BUTTON
   symbol: BUTTON
+- address: 0:35e1e4ce64499e4b9690967cdee30587d924e60b4eb68a8c852881d61b08e2ff
+  name: C4
+  symbol: C4
 - address: 0:83ec74343293a7a0d2a9225bbd984651f894bb6a87b850e3875c110195056dda
   name: a TON of MILADYS
   symbol: CABAL
