@@ -1,0 +1,9 @@
+name: Memes Token
+description: $MEMES is an index of the Top-10 meme coins on CoinMarketCap, calculated using a unique formula. This formula ensures a fair determination of the weighted average price in real-time.
+address: UQB8rk-DoSiSYWjMRDx79nl2kgNKwE9ngUiOhf5fq5Busoit
+symbol: MEMES
+websites:
+  - "https://t.me/memes_announcements"
+social:
+  - "https://t.me/memes_announcements"
+  - "https://x.com/memeland_tg"
