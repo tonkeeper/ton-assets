@@ -4,6 +4,23 @@ address: EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
 decimals: 9
 description: The primary token of the Phoenix Paw project.
 image: https://github.com/PhoenixPaw/PhoenixPaw/blob/e3c80dbb36c5cc64f0aee1f913d99785fdb76245/photo_2024-12-28_19-02-35.jpg
+
+liquidity_pools:
+  - name: "Official Phoenix Paw Pool"
+    address: "EQCR43SC9DIpXwlJpz7TCUXY033rS3CEjWj99j35PiMPX3un"
+    platform: "DeDust"
+    url: "https://dedust.io/pools/EQCR43SC9DIpXwlJpz7TCUXY033rS3CEjWj99j35PiMPX3un"
+    note: "This is the official pool under full control of the Phoenix Paw team."
+
+deprecated_pools:
+  - name: "Old Phoenix Paw Pool"
+    address: "EQAdltEfzXG_xteLFaKFGd-HPVKrEJqv_FdC7z2roOddRNdM"
+    platform: "DeDust"
+    url: 
+/EQAdltEfzXG_xteLFaKFGd-HPVKrEJqv_FdC7z2roOddRNdM"
+    note: 
+This pool is no longer under the control of the Phoenix Paw team. Please use the new official pool."
+
 website: https://t.me/PhoenixPaw
 
 https://coinmarketcap.com/community/share/post/348012477
