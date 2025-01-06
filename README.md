@@ -593,6 +593,7 @@ Name           | Address
 [Pepe on Ton](https://tonviewer.com/0:395604cda7b3145ac51bd57ad41c530300a5920f20142b2be644606e2a7ef8b4) | EQA5VgTNp7MUWsUb1XrUHFMDAKWSDyAUKyvmRGBuKn74tChu
 [Petachi](https://tonviewer.com/0:22eaf577158bcf8509d833e831951597129299f1533da75bfd7a8a4ad0c73ef3) | EQAi6vV3FYvPhQnYM-gxlRWXEpKZ8VM9p1v9eopK0Mc-89aS
 [Petcoin](https://tonviewer.com/0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b) | EQBJOJ2eL_CUFT_0r9meoqjKUwRttC_-NUJyvWQxszVWe1WY
+[Phoenix Paw](https://tonviewer.com/0:01b522d2ceb00e21258f7c88c1976566792b6433578768fad4c514e3f2663ef6) | EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
 [Pi Ton Network](https://tonviewer.com/0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c) | EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p
 [PiggyPiggyCoin](https://tonviewer.com/0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13) | EQBxH3N3nBx_-HEvQ2bs2vrC-M6-WxgIJKl1NqaEVH1sE-CT
 [PirateCash](https://tonviewer.com/0:c26f696830807c612e77184a36af68204bd016d43cfecd7fdab380edc57575bb) | EQDCb2loMIB8YS53GEo2r2ggS9AW1Dz-zX_as4DtxXV1u8XY
