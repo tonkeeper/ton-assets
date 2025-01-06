@@ -1,16 +1,12 @@
 name: Phoenix Paw
-symbol: PHXPW
-address: EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
-decimals: 9
 description: The primary token of the Phoenix Paw project.
-image: https://github.com/PhoenixPaw/PhoenixPaw/blob/e3c80dbb36c5cc64f0aee1f913d99785fdb76245/photo_2024-12-28_19-02-35.jpg
-
-social: https://phoenixpawproject.com
- https://twitter.com/PawPhoenixoff
- https://www.reddit.com/user/Proof-Occasion-1290/
- https://medium.com/@phoenixpaw555/new-year-magic-at-phoenixpaw-334428ce36bb
-
-https://t.me/PhoenixPaw    
- https://www.instagram.com/phoenix_pawoff 
-
-https://www.instagram.com/phoenix_paw_
+image: "https://github.com/PhoenixPaw/PhoenixPaw/blob/e3c80dbb36c5cc64f0aee1f913d99785fdb76245/photo_2024-12-28_19-02-35.jpg"
+address: EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
+symbol: PHXPW
+website:
+   -"https://phoenixpaw.io"
+social:
+-"https://twitter.com/PawPhoenixoff"     -"https://www.reddit.com/user/Proof-Occasion-1290/" -"https://medium.com/@phoenixpaw555/new-year-magic-at-phoenixpaw-334428ce36bb"
+-"https://t.me/PhoenixPaw" -"https://www.instagram.com/phoenix_pawoff"
+-"https://www.instagram.com/phoenix_paw"
+-"https://www.tiktok.com/@phoenix_ownerden?_t=ZS-8sqRbD4q4DS&_r=1"
