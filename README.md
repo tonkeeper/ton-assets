@@ -403,6 +403,7 @@ Name           | Address
 [LIGHT](https://tonviewer.com/0:1dce4ea36852dd2ca85d6bd939edc177203d4c584ec364650ff8acf792591baa) | EQAdzk6jaFLdLKhda9k57cF3ID1MWE7DZGUP-Kz3klkbqvcD
 [LIQUIDATION](https://tonviewer.com/0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375) | EQA20ynxJzJrhahBncnTdWu87NNkuKL_T81DAGmihpIDdWsA
 [LLAMA](https://tonviewer.com/0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067) | EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j
+[LP Token for $ETN-TON](https://tonviewer.com/0:6deddacf856c904485674a40f34e186255cab59703d3dfbd43617fa0187ccdf5) | EQBt7drPhWyQRIVnSkDzThhiVcq1lwPT371DYX-gGHzN9bwh
 [LP Token for ARBUZ-TON](https://tonviewer.com/0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367) | EQChrWJNhwrazRcwYZU74S0DQuqJK6FT40xk7uKNLVmjZ9Da
 [LP Token for DFC-TON](https://tonviewer.com/0:84868f284afcd59de33eab700b57d18c3a8473946370ac6b6ae29db1dd29c89c) | EQCEho8oSvzVneM-q3ALV9GMOoRzlGNwrGtq4p2x3SnInMVA
 [LP Token for FISH-TON](https://tonviewer.com/0:618b7dbad45d30f48df0a8bbf700cb86181e94f86efaebaacf3270c02c77d46f) | EQBhi3261F0w9I3wqLv3AMuGGB6U-G7666rPMnDALHfUb767

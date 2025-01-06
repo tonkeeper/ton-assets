@@ -1928,6 +1928,21 @@
   "symbol": "LOVE"
  },
  {
+  "address": "0:6deddacf856c904485674a40f34e186255cab59703d3dfbd43617fa0187ccdf5",
+  "decimals": 9,
+  "description": "Liquidity pool token for ET NETSA COIN and Proxy TON on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:6deddacf856c904485674a40f34e186255cab59703d3dfbd43617fa0187ccdf5.png",
+  "name": "LP Token for $ETN-TON",
+  "social": [
+   "https://t.me/et_apps",
+   "https://x.com/etNetsa"
+  ],
+  "symbol": "$ETN-TON LP",
+  "websites": [
+   "https://ston.fi/"
+  ]
+ },
+ {
   "address": "0:d30bc8eaf594982f618540bec24633ceff995b6bcd2b667908d09cda95c1305e",
   "decimals": 0,
   "description": "SquidTG Egg Token (Legacy)",
