@@ -1278,6 +1278,21 @@
   ]
  },
  {
+  "address": "EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz",
+  "description": "Fufenshmertz Pakost' Inc. coin. We have identity, purpose and community. (official coin), I believe in the project \ud83d\udcaa \ud83d\udcaa \ud83d\udcaa",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqd0kpcrmh-sko2z5-vojgvfjtt58to-2nmvxqg5ocfqftwz.png?size=lg&key=5cfb6a",
+  "name": "FPIBANK",
+  "social": [
+   "https://t.me/bankfpi",
+   "https://www.youtube.com/@nowkie",
+   "https://discord.com/invite/v73hSmUSkn"
+  ],
+  "symbol": "FPIBANK",
+  "websites": [
+   "fpibank.com"
+  ]
+ },
+ {
   "address": "EQCsuMNXBJdv7uuUpEIqC9tiBdkw0lu44endC0f1LyVfxZPD",
   "description": "Fswap is a user-friendly and safe platform for cryptocurrency exchange. The service provides fast transactions, high level of protection of user funds without registration.",
   "image": "https://i.ibb.co/d2cxvDN/Frame-738004272.png",
