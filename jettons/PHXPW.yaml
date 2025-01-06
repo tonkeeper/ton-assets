@@ -4,17 +4,13 @@ address: EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
 decimals: 9
 description: The primary token of the Phoenix Paw project.
 image: https://github.com/PhoenixPaw/PhoenixPaw/blob/e3c80dbb36c5cc64f0aee1f913d99785fdb76245/photo_2024-12-28_19-02-35.jpg
-links:
-  website: "https://phoenixpawproject.com"
-  twitter: "https://twitter.com/PawPhoenixoff"
-  reddit: "https://www.reddit.com/user/Proof-Occasion-1290/"
-  medium: "https://medium.com/@phoenixpaw555/new-year-magic-at-phoenixpaw-334428ce36bb"
-  telegram: "https://t.me/PhoenixPaw"
-  github: "https://github.com/PhoenixPaw/PhoenixPaw"
-  instagram:
-    - ru: "https://www.instagram.com/phoenix_pawoff"
-    - eng: "https://www.instagram.com/phoenix_paw_eng"
-  youtube: "https://youtube.com/@phoenix_paw1?si=WQrH_cLXbmi1xSYc"
-  tiktok: "https://vt.tiktok.com/ZS6PFhWCy/"
-  facebook: "https://www.facebook.com/groups/1704725113644946/?ref=share&mibextid=NSMWBT"
-  coinmarketcap: "https://coinmarketcap.com/community/share/post/348012477"
+
+social: https://phoenixpawproject.com
+ https://twitter.com/PawPhoenixoff
+ https://www.reddit.com/user/Proof-Occasion-1290/
+ https://medium.com/@phoenixpaw555/new-year-magic-at-phoenixpaw-334428ce36bb
+
+https://t.me/PhoenixPaw    
+ https://www.instagram.com/phoenix_pawoff 
+
+https://www.instagram.com/phoenix_paw_
