@@ -4,14 +4,7 @@ address: EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
 decimals: 9
 description: The primary token of the Phoenix Paw project.
 image: https://github.com/PhoenixPaw/PhoenixPaw/blob/e3c80dbb36c5cc64f0aee1f913d99785fdb76245/photo_2024-12-28_19-02-35.jpg
-liquidity_pools:
-  - name: Official Phoenix Paw Pool
-    address: EQAdltEfzXG_xteLFaKFGd-HPVKrEJqv_FdC7z2roOddRNdM
-    platform: "Ston.fi"
-    url: >
-      https://app.ston.fi/swap?utm_source=tonkeeper&utm_medium=organic&utm_campaign=defi
-      &utm_content=EQDCJLoiQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gAd30c86&chartVisible=false
-      &ft=TON&tt=EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
+
 links:
   website: "https://phoenixpawproject.com"
   twitter: "https://twitter.com/PawPhoenixoff"
