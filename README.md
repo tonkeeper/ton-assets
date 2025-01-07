@@ -374,10 +374,10 @@ Name           | Address
 [Hydra](https://tonviewer.com/0:f83f7d94d74b2736821abe8aba7183d3411f367b00233b6d1ea6282b59102ea7) | EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_
 [INSECT](https://tonviewer.com/0:5e720dc4ebcdb633569939986accc59a49118fef5dac0d19108073b831280344) | EQBecg3E6822M1aZOZhqzMWaSRGP712sDRkQgHO4MSgDRDHq
 [INTIMIZER Token](https://tonviewer.com/0:203ee90f51cc02f4b1bbb8f6ef6eecab3223c5145bb3a83c1d8d657fd72701f6) | EQAgPukPUcwC9LG7uPbvbuyrMiPFFFuzqDwdjWV_1ycB9sLF
+[INVESTING FOR EVERYONE](https://tonviewer.com/0:618736e7c982c8708c310b353e50aefb148183f703d0dff86158716a3ee2e3d4) | EQBhhzbnyYLIcIwxCzU-UK77FIGD9wPQ3_hhWHFqPuLj1EC8
 [Ice](https://tonviewer.com/0:d67eeb8342f4fc1e123f82136b6a2d4b3930355c61f0d78a5520f6aa2805da92) | EQDWfuuDQvT8HhI_ghNrai1LOTA1XGHw14pVIPaqKAXakk_L
 [Infinity](https://tonviewer.com/0:047d436f074d64de4872c8c25e42ee98eb4f5338fb66ffe327d3ed763496f849) | EQAEfUNvB01k3khyyMJeQu6Y609TOPtm_-Mn0-12NJb4SXwR
 [Informatoken](https://tonviewer.com/0:cc03b311b0b8ff03a6f35f8544c3beb1fb72c12278a9312f5119d72c9a7c4537) | EQDMA7MRsLj_A6bzX4VEw76x-3LBInipMS9RGdcsmnxFN6CG
-[Investavimas Visiems (Investing For All)](https://tonviewer.com/0:618736e7c982c8708c310b353e50aefb148183f703d0dff86158716a3ee2e3d4) | EQBhhzbnyYLIcIwxCzU-UK77FIGD9wPQ3_hhWHFqPuLj1EC8
 [JETMOON](https://tonviewer.com/0:1e8da83f1813c1752a55646716ad242e6660d0c5a6090ac1f30744504dec846b) | EQAejag_GBPBdSpVZGcWrSQuZmDQxaYJCsHzB0RQTeyEa0Nh
 [JETTON Vault](https://tonviewer.com/0:5b46607213a02eec4061be961e41f69a6bfdb4ccb56b2a7ae5d38d25b42eff1d) | EQBbRmByE6Au7EBhvpYeQfaaa_20zLVrKnrl040ltC7_Hfhs
 [JVT Vault](https://tonviewer.com/0:f26a93829fdf8448a4ed3cce22a7c92433be18fb668e63cf048a96c5b27fffaa) | EQDyapOCn9-ESKTtPM4ip8kkM74Y-2aOY88EipbFsn__qskC
