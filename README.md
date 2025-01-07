@@ -434,6 +434,7 @@ Name           | Address
 [Lucky TON](https://tonviewer.com/0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054) | EQCyDhcASwIm8-eVVTzMEESYAeQ7ettasfuGXUG1tkDwVJbc
 [Luna or Not](https://tonviewer.com/0:19a28f48d8bc5aa5c897410dc3e11274246a0268e1390d4510748cc883f5f29a) | EQAZoo9I2LxapciXQQ3D4RJ0JGoCaOE5DUUQdIzIg_Xymtoq
 [MAMA](https://tonviewer.com/0:7d0f5fd1a20ea2b58b8da0b908526b239a417b854fd4512cc5904c22bfa66c78) | EQB9D1_Rog6itYuNoLkIUmsjmkF7hU_UUSzFkEwiv6ZseCac
+[MANDARIN](https://tonviewer.com/0:cfcd95686b3ce51299df502c05b8481b38d0744e310b7c7392f92e43dd1ff881) | EQDPzZVoazzlEpnfUCwFuEgbONB0TjELfHOS-S5D3R_4gT5G
 [MARGE](https://tonviewer.com/0:97ad906709af67ae956e84dc178e016436519853c01af6c5dc23ec221bca025e) | EQCXrZBnCa9nrpVuhNwXjgFkNlGYU8Aa9sXcI-wiG8oCXpWz
 [MARIO](https://tonviewer.com/0:f6393dfcb2fcfc045fdce0e54f315f37bae3678e50c9def7ca4a9330abeafe6f) | EQD2OT38svz8BF_c4OVPMV83uuNnjlDJ3vfKSpMwq-r-b1Bq
 [MASHA](https://tonviewer.com/0:8e7bb09d83152c69606d6b80204715ad77a0fbaf34af23c9b08103e1d1521c2e) | EQCOe7CdgxUsaWBta4AgRxWtd6D7rzSvI8mwgQPh0VIcLlsn

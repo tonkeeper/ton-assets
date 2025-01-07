@@ -2172,6 +2172,19 @@
   ]
  },
  {
+  "address": "0:cfcd95686b3ce51299df502c05b8481b38d0744e310b7c7392f92e43dd1ff881",
+  "description": "A unique token evolving into an eco-friendly AI agent for environmental solutions.",
+  "name": "MANDARIN",
+  "social": [
+   "https://t.me/mndrn_coin",
+   "https://x.com/mndrncoin"
+  ],
+  "symbol": "MNDRN",
+  "websites": [
+   "https://mndrn.xyz"
+  ]
+ },
+ {
   "address": "0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3",
   "description": "MonkeyRush Token",
   "image": "https://raw.githubusercontent.com/rafnicore/monkeyrush/refs/heads/main/monker.png",
