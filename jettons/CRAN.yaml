@@ -1,0 +1,12 @@
+name: CranCoin
+description: $CRAN is a meme coin that can be used as money in internet payments. Currently, it is collected by users for free.
+image: "https://crancoin.org/icon/cran.png"
+address: EQD4kVf3LsWJu4svilDhT29rQSGdOJFi2X1zkuiI3vHh_NcT
+symbol: CRAN
+decimals: 9
+websites:
+  - "https://crancoin.org"
+social:
+  - "https://t.me/CranCoin"
+  - "https://t.me/CranCoinBot"
+  - "https://x.com/Cran_Coin"
