@@ -490,6 +490,7 @@ Name           | Address
 [Melon](https://tonviewer.com/0:de5cbf52f80a467ac4146c12d88b64464bd52959f00118017c8c40e1ffa5d08c) | EQDeXL9S-ApGesQUbBLYi2RGS9UpWfABGAF8jEDh_6XQjOR6
 [Meme Fund](https://tonviewer.com/0:f57c747413d72b4933cefe20c51ef728c2f0aaed0d58ff3328a20205cf021d32) | EQD1fHR0E9crSTPO_iDFHvcowvCq7Q1Y_zMoogIFzwIdMgRb
 [Meme Inc](https://tonviewer.com/0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72) | EQBRmwuHXat8BiOgkkarCk7HucRBjcyOb8efwOuT45Cectl5
+[MemeIndexDAO](https://tonviewer.com/0:643d09e7f48c5b82ead4def8026b19ce772b7fbe0a070f75e3f51b810aafaf8f) | EQBkPQnn9IxbgurU3vgCaxnOdyt_vgoHD3Xj9RuBCq-vj2SM
 [Memecoin](https://tonviewer.com/0:735fd00ab6ee043e31dc2bd289e9dcad2548e596047f0544c7901c0303c824bc) | EQBzX9AKtu4EPjHcK9KJ6dytJUjllgR_BUTHkBwDA8gkvK2l
 [Memeerkat](https://tonviewer.com/0:c09182f533e2629ec0a7b388f5724b982f9530b705e65bc695bb6982354c44ca) | EQDAkYL1M-JinsCns4j1ckuYL5UwtwXmW8aVu2mCNUxEyu3_
 [Memelandia Ton](https://tonviewer.com/0:5a2bd11db838ebd161c407a349dc908e6ff2139d7d3d7a4e584f5fbbdeda1a81) | EQBaK9EduDjr0WHEB6NJ3JCOb_ITnX09ek5YT1-73toagYCp
