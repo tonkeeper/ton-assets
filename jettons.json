@@ -500,6 +500,19 @@
   ]
  },
  {
+  "address": "EQBYnUrIlwBrWqp_rl-VxeSBvTR2VmTfC4ManQ657n_BUILD",
+  "description": "Utility token for Telegram toolset",
+  "image": "https://cdn.joincommunity.xyz/build/build_logo.png",
+  "name": "BUILD",
+  "social": [
+   "https://t.me/join_community"
+  ],
+  "symbol": "BUILD",
+  "websites": [
+   "https://openbuilders.xyz/"
+  ]
+ },
+ {
   "address": "EQDWUK0DUCfrbFRSykAhuvoIFrk-nqcg7sZ7liQ53bBTHf1K",
   "description": "The Bull token will be implemented in the internal market of our game",
   "image": "https://raw.githubusercontent.com/Muvan97/Bull/main/bullcoin.png",
