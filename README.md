@@ -188,6 +188,7 @@ Name           | Address
 [Bullish Balloons ](https://tonviewer.com/0:bdcd64eb763ec39b964e97562e817fd24a019c492794062be6593a15ea3a0057) | EQC9zWTrdj7Dm5ZOl1YugX_SSgGcSSeUBivmWToV6joAV-vV
 [Burncoin](https://tonviewer.com/0:cd2736cd280f08c765fb4efd7f8f1742a9e84f42025a35b8aca08912ab9b2b9d) | EQDNJzbNKA8Ix2X7Tv1_jxdCqehPQgJaNbisoIkSq5srnfLs
 [C4](https://tonviewer.com/0:35e1e4ce64499e4b9690967cdee30587d924e60b4eb68a8c852881d61b08e2ff) | EQA14eTOZEmeS5aQlnze4wWH2STmC062ioyFKIHWGwji_4NH
+[CANNABIS](https://tonviewer.com/0:4e0bbccbe36379a6e9b766419fc26ac482770e24d5738884f996f9606f4cdd96) | EQBOC7zL42N5pum3ZkGfwmrEgncOJNVziIT5lvlgb0zdlppI
 [CARAT](https://tonviewer.com/0:f970ea1f187d4ba596e4ab15b6885f95084e52cca80fd4adc0071767c7a4ce83) | EQD5cOofGH1LpZbkqxW2iF-VCE5SzKgP1K3ABxdnx6TOg1u1
 [CARDIFY Coin](https://tonviewer.com/0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc) | EQAdz16aPWCmAYldTiX_g-NRzT-spbN8tCk9dJIHfAiC3L4p
 [CAT LESHA](https://tonviewer.com/0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d) | EQA5-G7djF86kQlspnEu4RI2HN-zgu81DcE_ap0yuA84fa1x

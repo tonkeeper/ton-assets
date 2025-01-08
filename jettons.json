@@ -561,6 +561,21 @@
   "symbol": "Borka"
  },
  {
+  "address": "0:4e0bbccbe36379a6e9b766419fc26ac482770e24d5738884f996f9606f4cdd96",
+  "description": "$CANA is a Meme coin advocating for the global legalization of cannabis to regulate its abuse and foster healthy use of the medicinal herb...",
+  "image": "https://storage.dyor.io/jettons/EQBOC7zL42N5pum3ZkGfwmrEgncOJNVziIT5lvlgb0zdlppI/image.jpeg",
+  "name": "CANNABIS",
+  "social": [
+   "https://t.me/CANA_Updates",
+   "https://t.me/CANA_Meme",
+   "https://x.com/Cana_BEINGS"
+  ],
+  "symbol": "CANA",
+  "websites": [
+   "https://canabeings.io"
+  ]
+ },
+ {
   "address": "0:adf8f18a394013fe83ce8d6b9c2d60a9fe895765e9529e32224f63cf5bb5640b",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/cash/logo.png",
