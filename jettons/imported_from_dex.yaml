@@ -157,6 +157,9 @@
 - address: 0:716d0cad2fae30b93cf9d4a72938b7530d23a1aab5752da3ca0eb84ea8b077bf
   name: Buffy
   symbol: BUFFY
+- address: 0:589d4ac897006b5aaa7fae5f95c5e481bd34765664df0b831a9d0eb9ee7fc150
+  name: BUILD
+  symbol: BUILD
 - address: 0:c8fd05d87a2c2b58df3932b384b9c671b265fc5ca36c8de84e8f3935df4134a6
   name: Bull on TON
   symbol: BULL
