@@ -540,21 +540,6 @@
     - "https://t.me/jvault_ru"
     - "https://t.me/jvault_notifications"
     
-- name: STORM staked on JVault.xyz
-  symbol: st-STORM-30D
-  description: "These jettons confirm ownership of STORM staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/STORM"
-  address: 0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b
-  image: "https://jvault.xyz/media/staking_v2/images/mainnet_STORM.webp"
-  websites:
-    - "https://jvault.xyz"
-    - "https://t.me/jvaultbot"
-    - "https://app.storm.tg/?ref=4A9Nrg42wC"
-    - "https://t.me/storm_trade_news_ru"
-  social:
-    - "https://t.me/jvault"
-    - "https://t.me/jvault_ru"
-    - "https://t.me/jvault_notifications"
-    
 - name: A5 staked on JVault.xyz
   symbol: st-A5-3D
   description: "These jettons confirm ownership of A5 staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/A5-STAKE-1"
