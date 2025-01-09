@@ -968,6 +968,19 @@
   ]
  },
  {
+  "address": "0:b71fd5c381b144fd6e5f449d5f349bb5f8564ad5a1a5186b13b0b47875646118",
+  "description": "Dogeton - Department of Government Efficiency. Son of Elon Musk  all TON community",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqc3h9xdgbfe_w5frj1fnju1-fzk1aglggstslr4dwrhgj62.png?size=lg&key=8260a2",
+  "name": "DOGETON",
+  "social": [
+   "https://t.me/dogetonfun"
+  ],
+  "symbol": "DOGETON",
+  "websites": [
+   "https://dogeton.fun"
+  ]
+ },
+ {
   "address": "0:afc49cb8786f21c87045b19ede78fc6b46c51048513f8e9a6d44060199c1bf0c",
   "name": "Dogs",
   "symbol": "DOGS"
