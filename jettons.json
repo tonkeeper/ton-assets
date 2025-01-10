@@ -6711,6 +6711,60 @@
   ]
  },
  {
+  "address": "0:87c3aa472d4e8d033acd6667c3f6f3217102bd83d426a3733c9b5b6abea74642",
+  "description": "These jettons confirm ownership of JVault Token staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/JVT",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_JVT.webp",
+  "name": "JVT staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-JVT-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/JVault",
+   "https://t.me/JVault_ru"
+  ]
+ },
+ {
+  "address": "0:1ad4cf33271ba7d300ce290fcca1161814fe1e13bd0bc9ac71cbe848acca30ca",
+  "description": "These jettons confirm ownership of JVault Token staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/JVT",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_JVT.webp",
+  "name": "JVT staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-JVT-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/JVault",
+   "https://t.me/JVault_ru"
+  ]
+ },
+ {
+  "address": "0:843f925d2788e06b333b6b99ea38c21cbd72c951e1b009c3359d6e7e2d340197",
+  "description": "These jettons confirm ownership of JVault Token staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/JVT",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_JVT.webp",
+  "name": "JVT staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-JVT-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/JVault",
+   "https://t.me/JVault_ru"
+  ]
+ },
+ {
   "address": "0:6686d5ce2fee0d29705bb4acd9cf64d165a520e5eaf39d8caa13d23fa5d15d90",
   "description": "These jettons confirm ownership of JVault Token staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/JVT",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_JVT.webp",
@@ -6766,6 +6820,54 @@
   ]
  },
  {
+  "address": "0:f73137549f03eb0467f35092975922c96519728307e5fb5da8b6fcf1cf3ccbbf",
+  "description": "These jettons confirm ownership of Sustainix staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/STX",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_STX.webp",
+  "name": "STX staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-STX-1D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot"
+  ]
+ },
+ {
+  "address": "0:49ea9eab77eb85388d5a0f27ad0997eb491ac7951e5c85f18f2f74494ea9acbf",
+  "description": "These jettons confirm ownership of Sustainix staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/STX",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_STX.webp",
+  "name": "STX staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-STX-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot"
+  ]
+ },
+ {
+  "address": "0:6e74f4783c6c7c9598aef06b93140ce4f6d974df2208f9cf86ca07958219a94a",
+  "description": "These jettons confirm ownership of Sustainix staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/STX",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_STX.webp",
+  "name": "STX staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-STX-30D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot"
+  ]
+ },
+ {
   "address": "0:ed380c235c73c9c8a2664031e16f7aa12bf758457436f4e9486b5c2937e11837",
   "description": "These jettons confirm ownership of Sustainix staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/STX",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_STX.webp",
@@ -6798,6 +6900,38 @@
   ]
  },
  {
+  "address": "0:fe7d515478a4abb6d7361fa59fe777e540577f708cf5747157745625c7e9b308",
+  "description": "These jettons confirm ownership of White Ray staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/WHR-STAKING",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_WHR-STAKING.webp",
+  "name": "WHR staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-WHR-30D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot"
+  ]
+ },
+ {
+  "address": "0:55310181d6ea45f9e62b0da3907b9e255483e2b380e85621f73a0fea2ba46bfb",
+  "description": "These jettons confirm ownership of White Ray staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/WHR-STAKING",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_WHR-STAKING.webp",
+  "name": "WHR staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-WHR-90D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot"
+  ]
+ },
+ {
   "address": "0:c4fd9a7135a73ff8b3fb510caa535ca7e843f5e82d3b65ab261e04501bf2de01",
   "description": "These jettons confirm ownership of White Ray staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/WHR-STAKING",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_WHR-STAKING.webp",
@@ -6808,6 +6942,38 @@
    "https://t.me/jvault_notifications"
   ],
   "symbol": "st-WHR-180D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot"
+  ]
+ },
+ {
+  "address": "0:2e425044ad145a96a6da159f8f468db98866349f537972ed67c3d10bc732fe29",
+  "description": "These jettons confirm ownership of JETMOON staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/JMT-JETMOON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_JMT-JETMOON.webp",
+  "name": "JMT staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-JMT-12D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot"
+  ]
+ },
+ {
+  "address": "0:26bbf135cf87279539dcbe741e54a645f53a274653a7c1c1b37723c380c36183",
+  "description": "These jettons confirm ownership of JETMOON staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/JMT-JETMOON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_JMT-JETMOON.webp",
+  "name": "JMT staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-JMT-30D",
   "websites": [
    "https://jvault.xyz",
    "https://t.me/jvaultbot"
@@ -6849,6 +7015,66 @@
   ]
  },
  {
+  "address": "0:5682270452aac47c6f3fc6fd44c2a3ade14664883de12bbdb8a28bd3a751c8b9",
+  "description": "These jettons confirm ownership of Web3 TON Token staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/WEB3",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_WEB3.webp",
+  "name": "WEB3 staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-WEB3-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/tondnsnews",
+   "https://t.me/web3ton",
+   "https://x.com/web3tontoken",
+   "https://webdom.market"
+  ]
+ },
+ {
+  "address": "0:3e0f00fafd7949933f9ccfb4f67fb09b6b85d9c5122a210beaeb21278b0c857f",
+  "description": "These jettons confirm ownership of Web3 TON Token staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/WEB3",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_WEB3.webp",
+  "name": "WEB3 staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-WEB3-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/tondnsnews",
+   "https://t.me/web3ton",
+   "https://x.com/web3tontoken",
+   "https://webdom.market"
+  ]
+ },
+ {
+  "address": "0:dd0ce3feb0f23c6a1e7d62fcab4b80d642aa562dea2f313120820f5c620c5add",
+  "description": "These jettons confirm ownership of Web3 TON Token staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/WEB3",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_WEB3.webp",
+  "name": "WEB3 staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-WEB3-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/tondnsnews",
+   "https://t.me/web3ton",
+   "https://x.com/web3tontoken",
+   "https://webdom.market"
+  ]
+ },
+ {
   "address": "0:674e6e4c9cb4af79d68a7943e737684b5daafa161def372ceef88d3ae2770784",
   "description": "These jettons confirm ownership of Web3 TON Token staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/WEB3",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_WEB3.webp",
@@ -6866,6 +7092,38 @@
    "https://t.me/web3ton",
    "https://x.com/web3tontoken",
    "https://webdom.market"
+  ]
+ },
+ {
+  "address": "0:d3efefc1552cf9df021c6376c132f5b13f8af845d15379319ce8380da928a3fd",
+  "description": "These jettons confirm ownership of PIG staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/PIG-JVT",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_PIG-JVT.webp",
+  "name": "PIG staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-PIG-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot"
+  ]
+ },
+ {
+  "address": "0:95674076e5398fe3cdce3277bbd2c9ee54167431cbab8d17463cc6963e0e2b23",
+  "description": "These jettons confirm ownership of PIG staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/PIG-JVT",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_PIG-JVT.webp",
+  "name": "PIG staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-PIG-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot"
   ]
  },
  {
@@ -6954,6 +7212,42 @@
   ]
  },
  {
+  "address": "0:a49107af8045a97722211e2aa767170d2920f7f28705a742ef0b85eb571aaae4",
+  "description": "These jettons confirm ownership of LP Token for BATYM-TON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BATYMLPLOCK",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BATYMLPLOCK.webp",
+  "name": "BATYM-TON LP staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BATYM-TON LP-180D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/Batymchanin",
+   "https://app.ston.fi/pools/EQBIT2FreWZttcTpdgrKfhLo4VZ57rc6O1IdbC1RXDxlzQNs"
+  ]
+ },
+ {
+  "address": "0:e8a662bc4b129c19b9c3eeadf45edbdc3360e9a87519a9efb9f73e402a18f336",
+  "description": "These jettons confirm ownership of LP Token for BATYM-TON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BATYMLPLOCK",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BATYMLPLOCK.webp",
+  "name": "BATYM-TON LP staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BATYM-TON LP-360D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/Batymchanin",
+   "https://app.ston.fi/pools/EQBIT2FreWZttcTpdgrKfhLo4VZ57rc6O1IdbC1RXDxlzQNs"
+  ]
+ },
+ {
   "address": "0:6339f7fa90b01c5b508cb568afd5b38ab80b41f21c357e81913f557f7068c531",
   "description": "These jettons confirm ownership of LP Token for BATYM-TON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BATYMLPLOCK",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BATYMLPLOCK.webp",
@@ -6969,6 +7263,60 @@
    "https://t.me/jvaultbot",
    "https://t.me/Batymchanin",
    "https://app.ston.fi/pools/EQBIT2FreWZttcTpdgrKfhLo4VZ57rc6O1IdbC1RXDxlzQNs"
+  ]
+ },
+ {
+  "address": "0:7a079c68e2b9b4aeb2803672749dc2b828f4d7be5003bbcf40dcccfcd094d102",
+  "description": "These jettons confirm ownership of Hydra staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/HYDRA",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_HYDRA_OhVZV0k.webp",
+  "name": "HYDRA staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-HYDRA-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/Ton_HYDRA_Community",
+   "https://tonhydra.com"
+  ]
+ },
+ {
+  "address": "0:37d6cac1661d902475626f6398b292ed9ba078a7d4331506ef6dd7421794b56b",
+  "description": "These jettons confirm ownership of Hydra staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/HYDRA",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_HYDRA_OhVZV0k.webp",
+  "name": "HYDRA staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-HYDRA-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/Ton_HYDRA_Community",
+   "https://tonhydra.com"
+  ]
+ },
+ {
+  "address": "0:a97ff56333f6d3ac12c9543fb6745a56ca3e7059570dd2d169116baf3fd486fe",
+  "description": "These jettons confirm ownership of Hydra staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/HYDRA",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_HYDRA_OhVZV0k.webp",
+  "name": "HYDRA staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-HYDRA-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/Ton_HYDRA_Community",
+   "https://tonhydra.com"
   ]
  },
  {
@@ -6990,6 +7338,42 @@
   ]
  },
  {
+  "address": "0:530e7c0d0b7477d268789eddb32f6020de0b9862b97951fbf0bb96d75f1cac56",
+  "description": "These jettons confirm ownership of NOT Storm LP staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/NOT-SLP",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_NOT-SLP.webp",
+  "name": "NOT-SLP staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-NOT-SLP-1D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://app.storm.tg/?ref=4A9Nrg42wC",
+   "https://t.me/storm_trade_news"
+  ]
+ },
+ {
+  "address": "0:0747ed4f9c6792f8f0150946d610e97a3e106cecd4c2df7b214cca88f7e9cee8",
+  "description": "These jettons confirm ownership of NOT Storm LP staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/NOT-SLP",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_NOT-SLP.webp",
+  "name": "NOT-SLP staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-NOT-SLP-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://app.storm.tg/?ref=4A9Nrg42wC",
+   "https://t.me/storm_trade_news"
+  ]
+ },
+ {
   "address": "0:c7ee8abfbcb56b8bed610679281d2f963983b23f676d349601c3bdc8316c2f04",
   "description": "These jettons confirm ownership of NOT Storm LP staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/NOT-SLP",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_NOT-SLP.webp",
@@ -7005,6 +7389,57 @@
    "https://t.me/jvaultbot",
    "https://app.storm.tg/?ref=4A9Nrg42wC",
    "https://t.me/storm_trade_news"
+  ]
+ },
+ {
+  "address": "0:a145487723b1f1d7a6bf09e626a459292c99e30d6b9e7fbb2704be9df739719b",
+  "description": "These jettons confirm ownership of A5 staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/A5-STAKE-1",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_A5-STAKE-1.webp",
+  "name": "A5 staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-A5-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/a5_token"
+  ]
+ },
+ {
+  "address": "0:5f6d9476c735a48b8263269e53c82cc6df86545e5ebf617cf83c6ce1a23cfc23",
+  "description": "These jettons confirm ownership of A5 staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/A5-STAKE-1",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_A5-STAKE-1.webp",
+  "name": "A5 staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-A5-10D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/a5_token"
+  ]
+ },
+ {
+  "address": "0:64d82eba93debffa59fee1d5b7be699eccc075730f0b9e760db77c441ed534e1",
+  "description": "These jettons confirm ownership of A5 staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/A5-STAKE-1",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_A5-STAKE-1.webp",
+  "name": "A5 staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-A5-30D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/a5_token"
   ]
  },
  {
@@ -7061,6 +7496,63 @@
   ]
  },
  {
+  "address": "0:d4dfdf0cc1939e69e39a564e57d0cf230badc220e550221217210b8b8c1f1866",
+  "description": "These jettons confirm ownership of Bitton staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BITTON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BITTON.webp",
+  "name": "BITTON staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BITTON-30D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://bitton.io",
+   "https://t.me/bittonofficial",
+   "https://x.com/BittonOfficial"
+  ]
+ },
+ {
+  "address": "0:9ab6154891efa1d825eb66dd954e23481f000cfdfd7778b020377cc8400e02fb",
+  "description": "These jettons confirm ownership of Bitton staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BITTON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BITTON.webp",
+  "name": "BITTON staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BITTON-60D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://bitton.io",
+   "https://t.me/bittonofficial",
+   "https://x.com/BittonOfficial"
+  ]
+ },
+ {
+  "address": "0:146116872e13f3d0ccc0ca39dc9a60232191c33fda5498f4df5cd4ea793524dc",
+  "description": "These jettons confirm ownership of Bitton staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BITTON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BITTON.webp",
+  "name": "BITTON staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BITTON-90D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://bitton.io",
+   "https://t.me/bittonofficial",
+   "https://x.com/BittonOfficial"
+  ]
+ },
+ {
   "address": "0:d986bf47807d3e8c749ebbfbba98065804b851e44b41424315b4548d0752ed84",
   "description": "These jettons confirm ownership of Bitton staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BITTON",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BITTON.webp",
@@ -7077,6 +7569,63 @@
    "https://bitton.io",
    "https://t.me/bittonofficial",
    "https://x.com/BittonOfficial"
+  ]
+ },
+ {
+  "address": "0:90f304fbb1a150e183a8a24bd0c2007f35fce79b81a9d30e59722f310036e62a",
+  "description": "These jettons confirm ownership of RubeTON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/RUBETON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_RUBETON.webp",
+  "name": "RUBETON staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-RUBETON-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/rubeton",
+   "https://rubeton.app",
+   "https://x.com/rubetonworld"
+  ]
+ },
+ {
+  "address": "0:65a5aa5042bceb02e28f65013555cadf0e34c9262d8b7e879c237cae3aa2ed1e",
+  "description": "These jettons confirm ownership of RubeTON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/RUBETON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_RUBETON.webp",
+  "name": "RUBETON staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-RUBETON-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/rubeton",
+   "https://rubeton.app",
+   "https://x.com/rubetonworld"
+  ]
+ },
+ {
+  "address": "0:380fb14a46858f710e598d9dc1be95d55c4285d55fa726e2202b7a7d5bfd7573",
+  "description": "These jettons confirm ownership of RubeTON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/RUBETON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_RUBETON.webp",
+  "name": "RUBETON staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-RUBETON-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/rubeton",
+   "https://rubeton.app",
+   "https://x.com/rubetonworld"
   ]
  },
  {
@@ -7099,6 +7648,40 @@
   ]
  },
  {
+  "address": "0:ea98f4856a6f642421a19806447dc851ba69b4b95f227bb969ad8581461fdc42",
+  "description": "These jettons confirm ownership of Portal Network Token staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/POE",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_POE.webp",
+  "name": "POE staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-POE-5D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/portal_energy"
+  ]
+ },
+ {
+  "address": "0:f8a6f87ca229b8ff82ed81146ddcdcb4b635be41bb4e1ff106447e6fc1cb0276",
+  "description": "These jettons confirm ownership of Portal Network Token staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/POE",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_POE.webp",
+  "name": "POE staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-POE-365D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/portal_energy"
+  ]
+ },
+ {
   "address": "0:e0c6afec2b6bc85eb855d40120f84107545c11f2205c01b0eecab97bf2c5cc71",
   "description": "These jettons confirm ownership of Portal Network Token staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/POE",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_POE.webp",
@@ -7113,6 +7696,66 @@
    "https://jvault.xyz",
    "https://t.me/jvaultbot",
    "https://t.me/portal_energy"
+  ]
+ },
+ {
+  "address": "0:7b8536da32924ff07f3e650f7a3e256d67b0b6dbee2d89895b87db34c303e311",
+  "description": "These jettons confirm ownership of Airina Bolgur staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BOLGUR",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BOLGUR.webp",
+  "name": "BOLGUR staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BOLGUR-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/airinabolgur",
+   "https://www.geckoterminal.com/ru/ton/pools/EQB6LJt1HkKatm5esnyV3XiEwt9tybQfoaHPXykKZK5Fq3LC",
+   "https://dedust.io/swap/TON/EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub",
+   "https://t.me/bolgur_family"
+  ]
+ },
+ {
+  "address": "0:28b4903d9443b9250c4ce45ff028e132e5f0a9188c57db125a2ab50ffcdf46bf",
+  "description": "These jettons confirm ownership of Airina Bolgur staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BOLGUR",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BOLGUR.webp",
+  "name": "BOLGUR staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BOLGUR-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/airinabolgur",
+   "https://www.geckoterminal.com/ru/ton/pools/EQB6LJt1HkKatm5esnyV3XiEwt9tybQfoaHPXykKZK5Fq3LC",
+   "https://dedust.io/swap/TON/EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub",
+   "https://t.me/bolgur_family"
+  ]
+ },
+ {
+  "address": "0:3d196a80d6bfc32a876414b0a60d30287f95aad14730bf4df7540a0c709cc837",
+  "description": "These jettons confirm ownership of Airina Bolgur staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BOLGUR",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BOLGUR.webp",
+  "name": "BOLGUR staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BOLGUR-30D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/airinabolgur",
+   "https://www.geckoterminal.com/ru/ton/pools/EQB6LJt1HkKatm5esnyV3XiEwt9tybQfoaHPXykKZK5Fq3LC",
+   "https://dedust.io/swap/TON/EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub",
+   "https://t.me/bolgur_family"
   ]
  },
  {
@@ -7136,6 +7779,25 @@
   ]
  },
  {
+  "address": "0:770c78c6d792e27344df24761d3edea3a27b3ba64dde57789622a76ad54df44d",
+  "description": "These jettons confirm ownership of Kilogram staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/KILOGRAM",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_KILOGRAM.webp",
+  "name": "KG staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-KG-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/kgonton",
+   "https://dexscreener.com/ton/eqavhfbs04wd1tppr_w-w2oh8cvcvqgzfzrcx5qlffqoqzoi",
+   "https://x.com/Tleubayev"
+  ]
+ },
+ {
   "address": "0:dd21d0dc17177bcc91c0f9f7246cbc32b813ebc7e04a84736ba4459f773e505d",
   "description": "These jettons confirm ownership of Kilogram staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/KILOGRAM",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_KILOGRAM.webp",
@@ -7152,6 +7814,57 @@
    "https://t.me/kgonton",
    "https://dexscreener.com/ton/eqavhfbs04wd1tppr_w-w2oh8cvcvqgzfzrcx5qlffqoqzoi",
    "https://x.com/Tleubayev"
+  ]
+ },
+ {
+  "address": "0:eb189169c6abbc98f00fb44d95fa878a2cc2242f5a1c9ce0ed07e20caa58dd4e",
+  "description": "These jettons confirm ownership of Snoop Ton staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/SNOOP",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_SNOOP.webp",
+  "name": "SNOOP staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-SNOOP-15D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/snoop_news_ton"
+  ]
+ },
+ {
+  "address": "0:bfa68fb388da59d86308e2bd3a2e061cc1de465c6df30cb2edc4867e51461d5c",
+  "description": "These jettons confirm ownership of Snoop Ton staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/SNOOP",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_SNOOP.webp",
+  "name": "SNOOP staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-SNOOP-30D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/snoop_news_ton"
+  ]
+ },
+ {
+  "address": "0:e5d16f382563a8e10b1a8ea0a39ebadf77629d8a448a6f86b84e1926dd51c71f",
+  "description": "These jettons confirm ownership of Snoop Ton staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/SNOOP",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_SNOOP.webp",
+  "name": "SNOOP staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-SNOOP-60D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/snoop_news_ton"
   ]
  },
  {
@@ -7172,6 +7885,26 @@
   ]
  },
  {
+  "address": "0:736d0c8f0232848decfa0e3f46e5041408de67edc75fac4fec61710158bfd600",
+  "description": "These jettons confirm ownership of VLODMER SMERKS staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/SMERKS",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_SMERKS.webp",
+  "name": "SMERKS staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-SMERKS-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/vlodmersmerkshub",
+   "https://app.ston.fi/swap?chartVisible=false&chartInterval=1w&ft=TON&tt=EQAhAQ8RdEnDr52LCpwtB-7TQcxdC5W7bS3ox5-KSjVwXlOJ",
+   "https://dexscreener.com/ton/EQAhAQ8RdEnDr52LCpwtB-7TQcxdC5W7bS3ox5-KSjVwXlOJ",
+   "https://t.me/vlodmersmerks"
+  ]
+ },
+ {
   "address": "0:9dfdb15cf4bbcabb698f32ada8fd2cea2f2b35a95b3606cc93c265b10b30cbad",
   "description": "These jettons confirm ownership of VLODMER SMERKS staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/SMERKS",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_SMERKS.webp",
@@ -7189,6 +7922,63 @@
    "https://app.ston.fi/swap?chartVisible=false&chartInterval=1w&ft=TON&tt=EQAhAQ8RdEnDr52LCpwtB-7TQcxdC5W7bS3ox5-KSjVwXlOJ",
    "https://dexscreener.com/ton/EQAhAQ8RdEnDr52LCpwtB-7TQcxdC5W7bS3ox5-KSjVwXlOJ",
    "https://t.me/vlodmersmerks"
+  ]
+ },
+ {
+  "address": "0:ca06d0a4c2737483194bb4fd9d9ade13e700e1c4362165235894ad0891f2a3f9",
+  "description": "These jettons confirm ownership of BEETON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BEETON1",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BEETON1.webp",
+  "name": "BEE staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BEE-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/beetontoken",
+   "https://t.me/beetonchat",
+   "https://bee-ton.ru/"
+  ]
+ },
+ {
+  "address": "0:1f307e99115f01ec72c5023e94af4659112ef0792e1b0f97f38fb3dcf9dfa843",
+  "description": "These jettons confirm ownership of BEETON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BEETON1",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BEETON1.webp",
+  "name": "BEE staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BEE-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/beetontoken",
+   "https://t.me/beetonchat",
+   "https://bee-ton.ru/"
+  ]
+ },
+ {
+  "address": "0:6a7e4a77f2cbc455a9ecc2bfac0e43ec20e750b27f5ed0ff9139402fc87c5587",
+  "description": "These jettons confirm ownership of BEETON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BEETON1",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BEETON1.webp",
+  "name": "BEE staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BEE-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/beetontoken",
+   "https://t.me/beetonchat",
+   "https://bee-ton.ru/"
   ]
  },
  {
@@ -7228,6 +8018,57 @@
   ]
  },
  {
+  "address": "0:2d86fb8e0e9a8d9945a18ad6b766fcba37223563f02df79f4d645f7d2a1bb056",
+  "description": "These jettons confirm ownership of TonexCoin staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/TNX",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_TNX.webp",
+  "name": "TNX staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-TNX-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/Tonex_app"
+  ]
+ },
+ {
+  "address": "0:57571da31f34212936239758d3febe03092d31f4355c293bd23c1e36ef21f903",
+  "description": "These jettons confirm ownership of TonexCoin staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/TNX",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_TNX.webp",
+  "name": "TNX staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-TNX-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/Tonex_app"
+  ]
+ },
+ {
+  "address": "0:cf7eff611e3d680f0e60f35e289b1a5347add0bcd9604adb6768e69394341f24",
+  "description": "These jettons confirm ownership of TonexCoin staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/TNX",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_TNX.webp",
+  "name": "TNX staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-TNX-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/Tonex_app"
+  ]
+ },
+ {
   "address": "0:ab94502a9b992c3282644fb95068690aecab27f20e12f6996ffd4e25ffe6bc1b",
   "description": "These jettons confirm ownership of TonexCoin staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/TNX",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_TNX.webp",
@@ -7242,6 +8083,57 @@
    "https://jvault.xyz",
    "https://t.me/jvaultbot",
    "https://t.me/Tonex_app"
+  ]
+ },
+ {
+  "address": "0:c6b5120cde96c5ecc3b96eb7b83df4d91deb87a3cbab5ac82626b575f5437e7f",
+  "description": "These jettons confirm ownership of BEETON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BEETON2",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BEETON2_hwUyx79.webp",
+  "name": "BEE staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BEE-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/beetontoken"
+  ]
+ },
+ {
+  "address": "0:f583ac48fa82b456730e4653a2c4acd509ad7086558b0cfce2160b791ccb3661",
+  "description": "These jettons confirm ownership of BEETON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BEETON2",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BEETON2_hwUyx79.webp",
+  "name": "BEE staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BEE-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/beetontoken"
+  ]
+ },
+ {
+  "address": "0:82e68182873bf54728a7222fa17a03abd9c3780ac39e48deb4ea653a493ebde6",
+  "description": "These jettons confirm ownership of BEETON staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/BEETON2",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_BEETON2_hwUyx79.webp",
+  "name": "BEE staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-BEE-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/beetontoken"
   ]
  },
  {
@@ -7314,6 +8206,24 @@
   ]
  },
  {
+  "address": "0:bec2582ca5f1883c88da6d14b2c53cac47228e4411f18323a9168cce15a1b996",
+  "description": "These jettons confirm ownership of cryptoOKO staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/OKO",
+  "image": "https://jvault.xyz/media/",
+  "name": "OKO staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-OKO-30D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/tgOKOclub",
+   "https://t.me/tgOKOclubchat"
+  ]
+ },
+ {
   "address": "0:93bbe8abbcf915a41a9d3082c562a7ab6067a6a9c92e77e26ddbd0d9729bb2d4",
   "description": "These jettons confirm ownership of cryptoOKO staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/OKO",
   "image": "https://jvault.xyz/media/",
@@ -7366,6 +8276,46 @@
    "https://t.me/TonArnold",
    "https://t.me/TonArnold/5",
    "https://dedust.io/pools/EQC7sNOmiBeWQk73GxzUBzlJhdrvOhiSWnbrDboSFE2IkVG2"
+  ]
+ },
+ {
+  "address": "0:27372c537342c82b72a0d8c1caec00f162767e53f6ee58253aa6dff125573633",
+  "description": "These jettons confirm ownership of Jetton staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/FOXY-TON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_FOXY-TON.webp",
+  "name": "LP staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-LP-3D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://swap.coffee/dex?referral=user_UQCvSdxm_xP_Ruw2d0G1lIGAZ57OV54HOPX9yUDExC4mKBSP&ft=TON&st=EQD4m0ebo-qtzdez21mbznMuBkgaP21cE-cEdeIHjPiqO1SI",
+   "https://t.me/neuroAlisaNews",
+   "https://t.me/neuroAlisaChat",
+   "https://dedust.io/pools/EQAmJJ09Gdk2J_K_4EAONYYSP9oqG-5yydVGzVPnbB4HQR_J"
+  ]
+ },
+ {
+  "address": "0:1fcd435f03dfd255c5e2162c3b7e01da781095df54da1d7cf6c7735ce59c1819",
+  "description": "These jettons confirm ownership of Jetton staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/FOXY-TON",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_FOXY-TON.webp",
+  "name": "LP staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-LP-10D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://swap.coffee/dex?referral=user_UQCvSdxm_xP_Ruw2d0G1lIGAZ57OV54HOPX9yUDExC4mKBSP&ft=TON&st=EQD4m0ebo-qtzdez21mbznMuBkgaP21cE-cEdeIHjPiqO1SI",
+   "https://t.me/neuroAlisaNews",
+   "https://t.me/neuroAlisaChat",
+   "https://dedust.io/pools/EQAmJJ09Gdk2J_K_4EAONYYSP9oqG-5yydVGzVPnbB4HQR_J"
   ]
  },
  {
@@ -7423,6 +8373,40 @@
   ]
  },
  {
+  "address": "0:b57609c2d48d679923c117bda7dd54876eb51413006fe83a13c839ae54bb15dc",
+  "description": "These jettons confirm ownership of Leagushka staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/FROG",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_FROG.webp",
+  "name": "FROG staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-FROG-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/leagushqa"
+  ]
+ },
+ {
+  "address": "0:6783c0b478518061f752003b49244d7db453891e545ef0f7b5b4c9d2d175eb56",
+  "description": "These jettons confirm ownership of Leagushka staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/FROG",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_FROG.webp",
+  "name": "FROG staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-FROG-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/leagushqa"
+  ]
+ },
+ {
   "address": "0:dc12b54e89ca8f417f73cf5467cc4846732cb7979107a086f178c3400ae596c6",
   "description": "These jettons confirm ownership of Leagushka staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/FROG",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_FROG.webp",
@@ -7440,6 +8424,40 @@
   ]
  },
  {
+  "address": "0:000141d19ed005d9db0af5a34a45e16f0591a0b9059c008ce413a896c9c6ffda",
+  "description": "These jettons confirm ownership of Liquidator staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/LIQUIDATOR",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_LIQUIDATOR.webp",
+  "name": "LIQ staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-LIQ-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/dmtholders"
+  ]
+ },
+ {
+  "address": "0:26ac02a6cb6227959161d42117c8f4f7bec59ab249cfa48587e7778253109af3",
+  "description": "These jettons confirm ownership of Liquidator staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/LIQUIDATOR",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_LIQUIDATOR.webp",
+  "name": "LIQ staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-LIQ-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/dmtholders"
+  ]
+ },
+ {
   "address": "0:c99303c017d06e494864b1df9923f7b5523204d937aa97151d1489e84a9576f3",
   "description": "These jettons confirm ownership of Liquidator staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/LIQUIDATOR",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_LIQUIDATOR.webp",
@@ -7454,23 +8472,6 @@
    "https://jvault.xyz",
    "https://t.me/jvaultbot",
    "https://t.me/dmtholders"
-  ]
- },
- {
-  "address": "0:e73932976c345a1bcded7b9f4e8a10cda80ef437df2535eab52c018fc7a81db8",
-  "description": "These jettons confirm ownership of JVault Token staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/TEST-POOL2",
-  "image": "https://jvault.xyz/media/",
-  "name": "JVT staked on JVault.xyz",
-  "social": [
-   "https://t.me/jvault",
-   "https://t.me/jvault_ru",
-   "https://t.me/jvault_notifications"
-  ],
-  "symbol": "st-JVT-1D",
-  "websites": [
-   "https://jvault.xyz",
-   "https://t.me/jvaultbot",
-   "https://t.me"
   ]
  },
  {
@@ -7544,6 +8545,40 @@
   ]
  },
  {
+  "address": "0:3244124da3551d5e29a6cb58006b74fd11fb08be8fccc3e5f5759053756db44f",
+  "description": "These jettons confirm ownership of TON SCAM staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/TONSCAM",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_TONSCAM.webp",
+  "name": "SCAM staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-SCAM-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/dmtholders"
+  ]
+ },
+ {
+  "address": "0:35eb1b695e07fcb7b906ef6e2ca4be61f5b7bb10e54d6b4e2b2ea890fa0250f4",
+  "description": "These jettons confirm ownership of TON SCAM staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/TONSCAM",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_TONSCAM.webp",
+  "name": "SCAM staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-SCAM-14D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/dmtholders"
+  ]
+ },
+ {
   "address": "0:abcf78f7782e16c7fc07b635bfca07b4527a4623e4c5b26475133494ac7777f9",
   "description": "These jettons confirm ownership of TON SCAM staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/TONSCAM",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_TONSCAM.webp",
@@ -7577,6 +8612,60 @@
    "https://machinegpt.org/",
    "https://swap.coffee/dex?ft=TON&st=EQBY0xJhGYOPRkSevy2YUcG7jRixBlMZRUlOxOi2KF99kZIO",
    "https://dyor.io/ru/token/EQBY0xJhGYOPRkSevy2YUcG7jRixBlMZRUlOxOi2KF99kZIO"
+  ]
+ },
+ {
+  "address": "0:6d5c31a4c3c13dc1d1691ef18499fc3806769d7d732d3c048c7c591e75a41c17",
+  "description": "These jettons confirm ownership of Phoenix staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/THEFIRSTBLD",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_THEFIRSTBLD.webp",
+  "name": "PHXPW staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-PHXPW-30D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/PhoenixPaw",
+   "https://x.com/PawPhoenixoff"
+  ]
+ },
+ {
+  "address": "0:a32fe3aa1908097fc69461ac896717684c23c93cc8c0ee0ead1e82861eda02d1",
+  "description": "These jettons confirm ownership of Phoenix staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/THEFIRSTBLD",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_THEFIRSTBLD.webp",
+  "name": "PHXPW staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-PHXPW-60D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/PhoenixPaw",
+   "https://x.com/PawPhoenixoff"
+  ]
+ },
+ {
+  "address": "0:13ebda28ea2098b297754d0c58b13d3e690f3899e1b2f2abf02cfdc14401b16e",
+  "description": "These jettons confirm ownership of Phoenix staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/THEFIRSTBLD",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_THEFIRSTBLD.webp",
+  "name": "PHXPW staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-PHXPW-120D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/PhoenixPaw",
+   "https://x.com/PawPhoenixoff"
   ]
  },
  {

@@ -94,7 +94,10 @@ Name           | Address
 [3CATS in a Trench Coat](https://tonviewer.com/0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a) | EQBCECrR9MCGD9DRLTMdB4YHXXz1v3jeQBOFbOX9BmBomvcF
 [@BTC25 MEMECOIN TonMiner](https://tonviewer.com/0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5) | EQC7rnHHtMVBKyhiGnAbtYIlzGxS0dfi3ZbHExFX0LYi9cAH
 [A5](https://tonviewer.com/0:195a32ff6c07a664e2ceeedc58f9d1e4a7da1236443d190503479aca84be695f) | EQAZWjL_bAemZOLO7txY-dHkp9oSNkQ9GQUDR5rKhL5pX692
+[A5 staked on JVault.xyz](https://tonviewer.com/0:5f6d9476c735a48b8263269e53c82cc6df86545e5ebf617cf83c6ce1a23cfc23) | EQBfbZR2xzWki4JjJp5TyCzG34ZUXl6_YXz4PGzhojz8I46m
+[A5 staked on JVault.xyz](https://tonviewer.com/0:64d82eba93debffa59fee1d5b7be699eccc075730f0b9e760db77c441ed534e1) | EQBk2C66k96_-ln-4dW3vmmezMB1cw8LnnYNt3xEHtU04QhQ
 [A5 staked on JVault.xyz](https://tonviewer.com/0:798b6a9f0aec1a9e3bb5abc7220bedda88d43222a23996754583e2825899c005) | EQB5i2qfCuwanju1q8ciC-3aiNQyIqI5lnVFg-KCWJnABQtA
+[A5 staked on JVault.xyz](https://tonviewer.com/0:a145487723b1f1d7a6bf09e626a459292c99e30d6b9e7fbb2704be9df739719b) | EQChRUh3I7Hx16a_CeYmpFkpLJnjDWuef7snBL6d9zlxm5dm
 [AI Coin](https://tonviewer.com/0:48cef1de34697508200b8026bf882f8e88aff894586cfd304ab513633fa7e2d3) | EQBIzvHeNGl1CCALgCa_iC-OiK_4lFhs_TBKtRNjP6fi0024
 [AIC staked on JVault.xyz](https://tonviewer.com/0:77d4405ce211ca49fd8338999b1757a24bfa918f06aaeb0bb3be4ec01b5e6927) | EQB31EBc4hHKSf2DOJmbF1eiS_qRjwaq6wuzvk7AG15pJ6mo
 [AIMLAB](https://tonviewer.com/0:5c666687bb64397bdac614c9ed9bef14d6cecef88576cc3a23d27689d3695b36) | EQBcZmaHu2Q5e9rGFMntm-8U1s7O-IV2zDoj0naJ02lbNnlC
@@ -137,19 +140,33 @@ Name           | Address
 [BARASH](https://tonviewer.com/0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd) | EQD39LNnyg6uEQv5jqkF76F45VY4sszDqqz2N8KbL1QQ3XPr
 [BAROK](https://tonviewer.com/0:7549790631c1161848b9d6165a494001ed144d9a23c3a628bf8cfae111fbebba) | EQB1SXkGMcEWGEi51hZaSUAB7RRNmiPDpii_jPrhEfvruoFd
 [BATYM-TON LP staked on JVault.xyz](https://tonviewer.com/0:6339f7fa90b01c5b508cb568afd5b38ab80b41f21c357e81913f557f7068c531) | EQBjOff6kLAcW1CMtWiv1bOKuAtB8hw1foGRP1V_cGjFMUZ2
+[BATYM-TON LP staked on JVault.xyz](https://tonviewer.com/0:a49107af8045a97722211e2aa767170d2920f7f28705a742ef0b85eb571aaae4) | EQCkkQevgEWpdyIhHiqnZxcNKSD38ocFp0LvC4XrVxqq5D1s
+[BATYM-TON LP staked on JVault.xyz](https://tonviewer.com/0:e8a662bc4b129c19b9c3eeadf45edbdc3360e9a87519a9efb9f73e402a18f336) | EQDopmK8SxKcGbnD7q30XtvcM2DpqHUZqe-59z5AKhjzNuWX
 [BBQ COIN](https://tonviewer.com/0:f6111725910e67ea5bf72ad85d6eadc268e3929a563bcd07306066bdad320aec) | EQD2ERclkQ5n6lv3Kthdbq3CaOOSmlY7zQcwYGa9rTIK7CNZ
+[BEE staked on JVault.xyz](https://tonviewer.com/0:1f307e99115f01ec72c5023e94af4659112ef0792e1b0f97f38fb3dcf9dfa843) | EQAfMH6ZEV8B7HLFAj6Ur0ZZES7weS4bD5fzj7Pc-d-oQ8V8
 [BEE staked on JVault.xyz](https://tonviewer.com/0:4acb55a6c2a14b42580424ef604509c00c3ce99ab1fff7fa2dd67d08ec13dbaa) | EQBKy1WmwqFLQlgEJO9gRQnADDzpmrH_9_ot1n0I7BPbqqwY
+[BEE staked on JVault.xyz](https://tonviewer.com/0:6a7e4a77f2cbc455a9ecc2bfac0e43ec20e750b27f5ed0ff9139402fc87c5587) | EQBqfkp38svEVanswr-sDkPsIOdQsn9e0P-ROUAvyHxVh9n5
 [BEE staked on JVault.xyz](https://tonviewer.com/0:7cff7e6892f0f69964586c8f19d5ddca8b1d5487a70f28533530028221254366) | EQB8_35okvD2mWRYbI8Z1d3Kix1Uh6cPKFM1MAKCISVDZi2o
+[BEE staked on JVault.xyz](https://tonviewer.com/0:82e68182873bf54728a7222fa17a03abd9c3780ac39e48deb4ea653a493ebde6) | EQCC5oGChzv1RyinIi-hegOr2cN4CsOeSN606mU6ST695ntG
+[BEE staked on JVault.xyz](https://tonviewer.com/0:c6b5120cde96c5ecc3b96eb7b83df4d91deb87a3cbab5ac82626b575f5437e7f) | EQDGtRIM3pbF7MO5bre4PfTZHeuHo8urWsgmJrV19UN-f5aB
+[BEE staked on JVault.xyz](https://tonviewer.com/0:ca06d0a4c2737483194bb4fd9d9ade13e700e1c4362165235894ad0891f2a3f9) | EQDKBtCkwnN0gxlLtP2dmt4T5wDhxDYhZSNYlK0IkfKj-QWr
+[BEE staked on JVault.xyz](https://tonviewer.com/0:f583ac48fa82b456730e4653a2c4acd509ad7086558b0cfce2160b791ccb3661) | EQD1g6xI-oK0VnMORlOixKzVCa1whlWLDPziFgt5HMs2YSQX
 [BEETON](https://tonviewer.com/0:91535482df135ffebdf7abc359ccbba0866bdd136d494582198f8a1129475129) | EQCRU1SC3xNf_r33q8NZzLughmvdE21JRYIZj4oRKUdRKRDb
 [BEGEMOTIK](https://tonviewer.com/0:fcfeba39b490f25a6d1abcf21379f67ef5993343d191bc068a58b5f54a40ca4c) | EQD8_ro5tJDyWm0avPITefZ-9ZkzQ9GRvAaKWLX1SkDKTGUt
 [BEN](https://tonviewer.com/0:2293c76d850d8d85e46592f9c24493ee0dc9869a2b5379910bf5d36429f4327d) | EQAik8dthQ2NheRlkvnCRJPuDcmGmitTeZEL9dNkKfQyffjo
 [BER THE BEAR](https://tonviewer.com/0:7f2bd4cc4bd8e563515351f5b786904279da98b0c77e81c8db5a89307b7e6d09) | EQB_K9TMS9jlY1FTUfW3hpBCedqYsMd-gcjbWokwe35tCWYW
 [BIG BALLS BIRDS](https://tonviewer.com/0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e) | EQCxXcLuDo7OLyks-iGODGCpPTi5G9Yhq3DVwpjTV53xfuOu
 [BITON](https://tonviewer.com/0:aeda1bf9c5fe358ac5b95045c4c10909056e4790dedaae3082c8f3e9a2fca4cf) | EQCu2hv5xf41isW5UEXEwQkJBW5HkN7arjCCyPPpovykzzdO
+[BITTON staked on JVault.xyz](https://tonviewer.com/0:146116872e13f3d0ccc0ca39dc9a60232191c33fda5498f4df5cd4ea793524dc) | EQAUYRaHLhPz0MzAyjncmmAjIZHDP9pUmPTfXNTqeTUk3FGy
+[BITTON staked on JVault.xyz](https://tonviewer.com/0:9ab6154891efa1d825eb66dd954e23481f000cfdfd7778b020377cc8400e02fb) | EQCathVIke-h2CXrZt2VTiNIHwAM_f13eLAgN3zIQA4C-6N5
+[BITTON staked on JVault.xyz](https://tonviewer.com/0:d4dfdf0cc1939e69e39a564e57d0cf230badc220e550221217210b8b8c1f1866) | EQDU398MwZOeaeOaVk5X0M8jC63CIOVQIhIXIQuLjB8YZj58
 [BITTON staked on JVault.xyz](https://tonviewer.com/0:d986bf47807d3e8c749ebbfbba98065804b851e44b41424315b4548d0752ed84) | EQDZhr9HgH0-jHSeu_u6mAZYBLhR5EtBQkMVtFSNB1LthLDZ
 [BLT](https://tonviewer.com/0:37d2215ef1b742ed92b0f7891ecbc500db501ecb81435714364d60dc4136762e) | EQA30iFe8bdC7ZKw94key8UA21Aey4FDVxQ2TWDcQTZ2LsJf
 [BLUPE](https://tonviewer.com/0:a7964987cf9c929552df794ab33e4ea96a3c39bdd538f09ccbe9282f02cfaf86) | EQCnlkmHz5ySlVLfeUqzPk6pajw5vdU48JzL6SgvAs-vhmSR
 [BNK jetton](https://tonviewer.com/0:23d6a5ba5994ddeec777dd4938f0edd3ab134f32362b83044701c04cf1171009) | EQAj1qW6WZTd7sd33Uk48O3TqxNPMjYrgwRHAcBM8RcQCQAD
+[BOLGUR staked on JVault.xyz](https://tonviewer.com/0:28b4903d9443b9250c4ce45ff028e132e5f0a9188c57db125a2ab50ffcdf46bf) | EQAotJA9lEO5JQxM5F_wKOEy5fCpGIxX2xJaKrUP_N9Gv6nZ
+[BOLGUR staked on JVault.xyz](https://tonviewer.com/0:3d196a80d6bfc32a876414b0a60d30287f95aad14730bf4df7540a0c709cc837) | EQA9GWqA1r_DKodkFLCmDTAof5Wq0Ucwv033VAoMcJzIN_Nx
+[BOLGUR staked on JVault.xyz](https://tonviewer.com/0:7b8536da32924ff07f3e650f7a3e256d67b0b6dbee2d89895b87db34c303e311) | EQB7hTbaMpJP8H8-ZQ96PiVtZ7C22-4tiYlbh9s0wwPjEXGe
 [BOLGUR staked on JVault.xyz](https://tonviewer.com/0:b5af836c4b7e11c5a388081f64567007150b0ff77f54c7dc83365aa1abf8fadf) | EQC1r4NsS34RxaOICB9kVnAHFQsP939Ux9yDNlqhq_j63xiA
 [BOLTWIFSOCK](https://tonviewer.com/0:116f60987824fbdcaf9afdc597c9c81b716965784c787eae1109b67b71606d3c) | EQARb2CYeCT73K-a_cWXycgbcWlleEx4fq4RCbZ7cWBtPN8s
 [BOOBA Coin](https://tonviewer.com/0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81) | EQCavQv8vsZ1waQnqz3lmGEw2HkUM2clUrzjJotwpwzrgcx4
@@ -320,6 +337,8 @@ Name           | Address
 [FPIBANK](https://tonviewer.com/0:f42a9711321fac28edb3e7ebce8e0bc58d34f9f2d3bed8d9afc6a839a1c15016) | EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz
 [FRANC](https://tonviewer.com/0:12c3ee18332a771c32cb4e08c3954d4407d77547970a815cd43d06e2cc758007) | EQASw-4YMyp3HDLLTgjDlU1EB9d1R5cKgVzUPQbizHWABz6U
 [FREEDOM](https://tonviewer.com/0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528) | EQBhj9Fwtr0ZwftDF13f6d1aqh5Cegdqit8BCTwbjL71KN3Z
+[FROG staked on JVault.xyz](https://tonviewer.com/0:6783c0b478518061f752003b49244d7db453891e545ef0f7b5b4c9d2d175eb56) | EQBng8C0eFGAYfdSADtJJE19tFOJHlRe8Pe1tMnS0XXrVljn
+[FROG staked on JVault.xyz](https://tonviewer.com/0:b57609c2d48d679923c117bda7dd54876eb51413006fe83a13c839ae54bb15dc) | EQC1dgnC1I1nmSPBF72n3VSHbrUUEwBv6DoTyDmuVLsV3PTD
 [FROG staked on JVault.xyz](https://tonviewer.com/0:dc12b54e89ca8f417f73cf5467cc4846732cb7979107a086f178c3400ae596c6) | EQDcErVOicqPQX9zz1RnzEhGcyy3l5EHoIbxeMNACuWWxvde
 [FUCK MORGENSHTERN](https://tonviewer.com/0:3860cf5c167e2cc1051f17d0605056fb50362cee17d61bdacc857527e96a751b) | EQA4YM9cFn4swQUfF9BgUFb7UDYs7hfWG9rMhXUn6Wp1G0Kx
 [FUNMONET](https://tonviewer.com/0:ca8139a203cf8b57a99d1923348f4f297c3a274466df88c66b42ed2b7987e725) | EQDKgTmiA8-LV6mdGSM0j08pfDonRGbfiMZrQu0reYfnJYZd
@@ -376,6 +395,9 @@ Name           | Address
 [HAMSTERBATYA](https://tonviewer.com/0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d) | EQC_BL8coX-feVxZ-_XGFU6YcBcKeAxqHiVjinN_t1ADTUwr
 [HEDGE coin](https://tonviewer.com/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
 [HYDRA Vault](https://tonviewer.com/0:3848b9a49c1d1a8e9c7101e5a3a80a5638ba968d52882bf34ef4c8eb4090cc60) | EQA4SLmknB0ajpxxAeWjqApWOLqWjVKIK_NO9MjrQJDMYKHK
+[HYDRA staked on JVault.xyz](https://tonviewer.com/0:37d6cac1661d902475626f6398b292ed9ba078a7d4331506ef6dd7421794b56b) | EQA31srBZh2QJHVib2OYspLtm6B4p9QzFQbvbddCF5S1a0RX
+[HYDRA staked on JVault.xyz](https://tonviewer.com/0:7a079c68e2b9b4aeb2803672749dc2b828f4d7be5003bbcf40dcccfcd094d102) | EQB6B5xo4rm0rrKANnJ0ncK4KPTXvlADu89A3Mz80JTRAraY
+[HYDRA staked on JVault.xyz](https://tonviewer.com/0:a97ff56333f6d3ac12c9543fb6745a56ca3e7059570dd2d169116baf3fd486fe) | EQCpf_VjM_bTrBLJVD-2dFpWyj5wWVcN0tFpEWuvP9SG_iG8
 [HYDRA staked on JVault.xyz](https://tonviewer.com/0:b1ac7aab76b42dbeb313caefb94069ddd4d68983663e4c646883cf6e36fcac64) | EQCxrHqrdrQtvrMTyu-5QGnd1NaJg2Y-TGRog89uNvysZGj9
 [Hachiko Inu](https://tonviewer.com/0:e362287713324c235561d00b49e6a5a8fe34ea69d3d0820443df7fb12e0c4128) | EQDjYih3EzJMI1Vh0AtJ5qWo_jTqadPQggRD33-xLgxBKBLf
 [Hamster Kombat](https://tonviewer.com/0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d) | EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo
@@ -401,9 +423,13 @@ Name           | Address
 [JETMOON](https://tonviewer.com/0:1e8da83f1813c1752a55646716ad242e6660d0c5a6090ac1f30744504dec846b) | EQAejag_GBPBdSpVZGcWrSQuZmDQxaYJCsHzB0RQTeyEa0Nh
 [JETTON Vault](https://tonviewer.com/0:5b46607213a02eec4061be961e41f69a6bfdb4ccb56b2a7ae5d38d25b42eff1d) | EQBbRmByE6Au7EBhvpYeQfaaa_20zLVrKnrl040ltC7_Hfhs
 [JMT staked on JVault.xyz](https://tonviewer.com/0:0e5037d868f1c6241019e475dba0da98457cccac5e69f34b1ac060d4532f2a57) | EQAOUDfYaPHGJBAZ5HXboNqYRXzMrF5p80sawGDUUy8qV4Hr
+[JMT staked on JVault.xyz](https://tonviewer.com/0:26bbf135cf87279539dcbe741e54a645f53a274653a7c1c1b37723c380c36183) | EQAmu_E1z4cnlTncvnQeVKZF9TonRlOnwcGzdyPDgMNhg65J
+[JMT staked on JVault.xyz](https://tonviewer.com/0:2e425044ad145a96a6da159f8f468db98866349f537972ed67c3d10bc732fe29) | EQAuQlBErRRalqbaFZ-PRo25iGY0n1N5cu1nw9ELxzL-Ke96
 [JVT Vault](https://tonviewer.com/0:f26a93829fdf8448a4ed3cce22a7c92433be18fb668e63cf048a96c5b27fffaa) | EQDyapOCn9-ESKTtPM4ip8kkM74Y-2aOY88EipbFsn__qskC
+[JVT staked on JVault.xyz](https://tonviewer.com/0:1ad4cf33271ba7d300ce290fcca1161814fe1e13bd0bc9ac71cbe848acca30ca) | EQAa1M8zJxun0wDOKQ_MoRYYFP4eE70Lyaxxy-hIrMowyloH
 [JVT staked on JVault.xyz](https://tonviewer.com/0:6686d5ce2fee0d29705bb4acd9cf64d165a520e5eaf39d8caa13d23fa5d15d90) | EQBmhtXOL-4NKXBbtKzZz2TRZaUg5erznYyqE9I_pdFdkIXu
-[JVT staked on JVault.xyz](https://tonviewer.com/0:e73932976c345a1bcded7b9f4e8a10cda80ef437df2535eab52c018fc7a81db8) | EQDnOTKXbDRaG83te59OihDNqA70N98lNeq1LAGPx6gduFmv
+[JVT staked on JVault.xyz](https://tonviewer.com/0:843f925d2788e06b333b6b99ea38c21cbd72c951e1b009c3359d6e7e2d340197) | EQCEP5JdJ4jgazM7a5nqOMIcvXLJUeGwCcM1nW5-LTQBl7Wf
+[JVT staked on JVault.xyz](https://tonviewer.com/0:87c3aa472d4e8d033acd6667c3f6f3217102bd83d426a3733c9b5b6abea74642) | EQCHw6pHLU6NAzrNZmfD9vMhcQK9g9Qmo3M8m1tqvqdGQvGi
 [JVault Token](https://tonviewer.com/0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc) | EQC8FoZMlBcZhZ6Pr9sHGyHzkFv9y2B5X9tN61RvucLRzFZz
 [JarvisBot](https://tonviewer.com/0:a890c3a67527a01823a5a56a0efc303b10a53f7f77c0b9978d25f585173232b4) | EQCokMOmdSegGCOlpWoO_DA7EKU_f3fAuZeNJfWFFzIytNSr
 [Jason Statham](https://tonviewer.com/0:47715128230676d8689f2fb06d5531a4cc928b4280beae6a95ebf9e3ed247e84) | EQBHcVEoIwZ22GifL7BtVTGkzJKLQoC-rmqV6_nj7SR-hL2P
@@ -413,6 +439,7 @@ Name           | Address
 [John Doge](https://tonviewer.com/0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da) | EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH
 [Junior Invest](https://tonviewer.com/0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268) | EQA8N_V6_0tJ1792_FO0P51mup7eJcUb7ZC00VdE0LDyaHBo
 [KAKAXA](https://tonviewer.com/0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a) | EQDqz7LTwgj016kiTiSooM_ft8kveL2P4pj4fkJmsUV_an_X
+[KG staked on JVault.xyz](https://tonviewer.com/0:770c78c6d792e27344df24761d3edea3a27b3ba64dde57789622a76ad54df44d) | EQB3DHjG15Lic0TfJHYdPt6jons7pk3eV3iWIqdq1U30TdKJ
 [KG staked on JVault.xyz](https://tonviewer.com/0:dd21d0dc17177bcc91c0f9f7246cbc32b813ebc7e04a84736ba4459f773e505d) | EQDdIdDcFxd7zJHA-fckbLwyuBPrx-BKhHNrpEWfdz5QXbwZ
 [KING OF REFERRAL COIN](https://tonviewer.com/0:93b3a788f7f498a19d813d8d2e9e458dcbbb2518631afb029df92a0a64e3679f) | EQCTs6eI9_SYoZ2BPY0unkWNy7slGGMa-wKd-SoKZONnn9ge
 [KINGYTON](https://tonviewer.com/0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc) | EQC-tdRjjoYMz3MXKW4pj95bNZgvRyWwZ23Jix3ph7guvHxJ
@@ -428,6 +455,8 @@ Name           | Address
 [LAMBO](https://tonviewer.com/0:c4d623eb3fcd0bd7b473907dd896e5ec11c9f98be6cf15fb9edb9f6e30a28513) | EQDE1iPrP80L17RzkH3YluXsEcn5i-bPFfue259uMKKFE3h0
 [LEMONIA](https://tonviewer.com/0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3) | EQC8cPrQx6Qsi-NHMcC1PpRmtaieCiUBcb-d095q6ENUs7XT
 [LIGHT](https://tonviewer.com/0:1dce4ea36852dd2ca85d6bd939edc177203d4c584ec364650ff8acf792591baa) | EQAdzk6jaFLdLKhda9k57cF3ID1MWE7DZGUP-Kz3klkbqvcD
+[LIQ staked on JVault.xyz](https://tonviewer.com/0:000141d19ed005d9db0af5a34a45e16f0591a0b9059c008ce413a896c9c6ffda) | EQAAAUHRntAF2dsK9aNKReFvBZGguQWcAIzkE6iWycb_2mpp
+[LIQ staked on JVault.xyz](https://tonviewer.com/0:26ac02a6cb6227959161d42117c8f4f7bec59ab249cfa48587e7778253109af3) | EQAmrAKmy2InlZFh1CEXyPT3vsWasknPpIWH53eCUxCa8xkk
 [LIQ staked on JVault.xyz](https://tonviewer.com/0:c99303c017d06e494864b1df9923f7b5523204d937aa97151d1489e84a9576f3) | EQDJkwPAF9BuSUhksd-ZI_e1UjIE2TeqlxUdFInoSpV28xN_
 [LIQUID staked on JVault.xyz](https://tonviewer.com/0:8145989ba9af5146367c1f4acf728951bddf14f95af64a4f70fc994eeaa3f685) | EQCBRZibqa9RRjZ8H0rPcolRvd8U-Vr2Sk9w_JlO6qP2hc2R
 [LIQUIDATION](https://tonviewer.com/0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375) | EQA20ynxJzJrhahBncnTdWu87NNkuKL_T81DAGmihpIDdWsA
@@ -447,6 +476,8 @@ Name           | Address
 [LP Token for TONNEL-TON](https://tonviewer.com/0:2fb467bc35ea7f5e772641826bab35a38ddb136b28332f5edbbc7ffc463af2cf) | EQAvtGe8Nep_XncmQYJrqzWjjdsTaygzL17bvH_8Rjryz1xu
 [LP Token for UP-TON](https://tonviewer.com/0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c) | EQABy0q1lpLkU09k7srKCCjeAm32D2nZ15WtmWgb81RvjLbP
 [LP Token for jNANO-TON](https://tonviewer.com/0:bace166d17381305b4d0e1b1b58f9161e5b590013b6238c7490003bdf3f8f544) | EQC6zhZtFzgTBbTQ4bG1j5Fh5bWQATtiOMdJAAO98_j1REBU
+[LP staked on JVault.xyz](https://tonviewer.com/0:1fcd435f03dfd255c5e2162c3b7e01da781095df54da1d7cf6c7735ce59c1819) | EQAfzUNfA9_SVcXiFiw7fgHaeBCV31TaHXz2x3Nc5ZwYGR6B
+[LP staked on JVault.xyz](https://tonviewer.com/0:27372c537342c82b72a0d8c1caec00f162767e53f6ee58253aa6dff125573633) | EQAnNyxTc0LIK3Kg2MHK7ADxYnZ-U_buWCU6pt_xJVc2M5Ua
 [LP staked on JVault.xyz](https://tonviewer.com/0:5ecf4eafbf6d5033bdd9f767f52429cee4e37cf4b7204efc6fdb15aca2f7215d) | EQBez06vv21QM73Z92f1JCnO5ON89LcgTvxv2xWsovchXQpg
 [LP staked on JVault.xyz](https://tonviewer.com/0:8493d83199fd2c053a8e506bb87aa3e3927bcdb99a8d2b132309c87c5ab9d926) | EQCEk9gxmf0sBTqOUGu4eqPjknvNuZqNKxMjCch8WrnZJspZ
 [LP staked on JVault.xyz](https://tonviewer.com/0:9d7290c2d22b542e68fdc6c2c5f1dc968ecd2e070e7e359b871974a9f2166ae9) | EQCdcpDC0itULmj9xsLF8dyWjs0uBw5-NZuHGXSp8hZq6TSh
@@ -554,6 +585,8 @@ Name           | Address
 [NISMO](https://tonviewer.com/0:48d6fc92f9b56a52b4a606d8706732e98e2ed2b2612aadb01c4528c7644278a5) | EQBI1vyS-bVqUrSmBthwZzLpji7SsmEqrbAcRSjHZEJ4pVhu
 [NO Rocket](https://tonviewer.com/0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684) | EQDnHBmARrJgDiHRaiwShwoLAdLoA73GL4lRn3V9eFKmhDwT
 [NOT Storm LP](https://tonviewer.com/0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9) | EQAqtjTPy9vjuXUDaR4HgMPQfJBpIQorJLmRuk-ZQbRT-eiY
+[NOT-SLP staked on JVault.xyz](https://tonviewer.com/0:0747ed4f9c6792f8f0150946d610e97a3e106cecd4c2df7b214cca88f7e9cee8) | EQAHR-1PnGeS-PAVCUbWEOl6PhBs7NTC33shTMqI9-nO6CGL
+[NOT-SLP staked on JVault.xyz](https://tonviewer.com/0:530e7c0d0b7477d268789eddb32f6020de0b9862b97951fbf0bb96d75f1cac56) | EQBTDnwNC3R30mh4nt2zL2Ag3guYYrl5Ufvwu5bXXxysVqrZ
 [NOT-SLP staked on JVault.xyz](https://tonviewer.com/0:c7ee8abfbcb56b8bed610679281d2f963983b23f676d349601c3bdc8316c2f04) | EQDH7oq_vLVri-1hBnkoHS-WOYOyP2dtNJYBw73IMWwvBN8E
 [NOTAI](https://tonviewer.com/0:95e5d5cdad6554d73ed589d10abd72f9881fcf5ecdb39bd2cb7bd6cf81292575) | EQCV5dXNrWVU1z7VidEKvXL5iB_PXs2zm9LLe9bPgSklde0z
 [NOTCOIN INU](https://tonviewer.com/0:ba28f737207da6d4263b6775289ea8fb6b313e47f45012298443e3875440aeec) | EQC6KPc3IH2m1CY7Z3Uonqj7azE-R_RQEimEQ-OHVECu7Npe
@@ -577,6 +610,7 @@ Name           | Address
 [OAAL AI](https://tonviewer.com/0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043) | EQCvsARFU_tJCRq7eFTrs2ORasCwDIPLQo7ZlkehsMmgQzd8
 [OKO staked on JVault.xyz](https://tonviewer.com/0:70a966bd08abe407c9590abfdebd28d9cf8cd0593d49b18510c5e85f82f9c35d) | EQBwqWa9CKvkB8lZCr_evSjZz4zQWT1JsYUQxehfgvnDXRqN
 [OKO staked on JVault.xyz](https://tonviewer.com/0:93bbe8abbcf915a41a9d3082c562a7ab6067a6a9c92e77e26ddbd0d9729bb2d4) | EQCTu-irvPkVpBqdMILFYqerYGemqckud-Jt29DZcpuy1Lum
+[OKO staked on JVault.xyz](https://tonviewer.com/0:bec2582ca5f1883c88da6d14b2c53cac47228e4411f18323a9168cce15a1b996) | EQC-wlgspfGIPIjabRSyxTysRyKORBHxgyOpFozOFaG5loZl
 [OLBITX](https://tonviewer.com/0:6eaf71916af4b4ecd688572b2e1b89a576090642435e090c6e76e25bc4afe8d9) | EQBur3GRavS07NaIVysuG4mldgkGQkNeCQxuduJbxK_o2QD3
 [ONE](https://tonviewer.com/0:be1b2f9c5a15ca35279c794b1ef92f7f15a4cafbe5080e41440fa725e56a4b01) | EQC-Gy-cWhXKNSeceUse-S9_FaTK--UIDkFED6cl5WpLASd6
 [ONLYX staked on JVault.xyz](https://tonviewer.com/0:961c626105fd1063d7c1cceac0a2b54410f1d329e342634a0ae4187bb06e7964) | EQCWHGJhBf0QY9fBzOrAorVEEPHTKeNCY0oK5Bh7sG55ZPzc
@@ -616,11 +650,18 @@ Name           | Address
 [PEPETON](https://tonviewer.com/0:623460639948e849bf2c21118637ec057be7f810289067654683fa00a414cfc1) | EQBiNGBjmUjoSb8sIRGGN-wFe-f4ECiQZ2VGg_oApBTPwdpH
 [PEPE`S TON CLUB](https://tonviewer.com/0:4ffe1859f853d31e7802de70ff01b146c1eed5595498a1f918afdbdb3e4d5e17) | EQBP_hhZ-FPTHngC3nD_AbFGwe7VWVSYofkYr9vbPk1eFwtl
 [PHOTON](https://tonviewer.com/0:98447413aaa1321d36111facf0c16979c00ed204f854e4076032c23fab3a7725) | EQCYRHQTqqEyHTYRH6zwwWl5wA7SBPhU5AdgMsI_qzp3JbQ5
+[PHXPW staked on JVault.xyz](https://tonviewer.com/0:13ebda28ea2098b297754d0c58b13d3e690f3899e1b2f2abf02cfdc14401b16e) | EQAT69oo6iCYspd1TQxYsT0-aQ84meGy8qvwLP3BRAGxbu29
+[PHXPW staked on JVault.xyz](https://tonviewer.com/0:6d5c31a4c3c13dc1d1691ef18499fc3806769d7d732d3c048c7c591e75a41c17) | EQBtXDGkw8E9wdFpHvGEmfw4BnadfXMtPASMfFkedaQcF66q
+[PHXPW staked on JVault.xyz](https://tonviewer.com/0:a32fe3aa1908097fc69461ac896717684c23c93cc8c0ee0ead1e82861eda02d1) | EQCjL-OqGQgJf8aUYayJZxdoTCPJPMjA7g6tHoKGHtoC0dsM
 [PIG](https://tonviewer.com/0:f4ec95fb4c45c0536e05a1f8357725a3633fe2daf97d263f259a1c1b0796defc) | EQD07JX7TEXAU24Fofg1dyWjYz_i2vl9Jj8lmhwbB5be_EMj
 [PIG staked on JVault.xyz](https://tonviewer.com/0:302e07186607be2b9373b3a9655b6e428b81e609dc64b2db0d5f0f8058dfbe81) | EQAwLgcYZge-K5Nzs6llW25Ci4HmCdxkstsNXw-AWN--gV32
+[PIG staked on JVault.xyz](https://tonviewer.com/0:95674076e5398fe3cdce3277bbd2c9ee54167431cbab8d17463cc6963e0e2b23) | EQCVZ0B25TmP483OMne70snuVBZ0McurjRdGPMaWPg4rIzuF
+[PIG staked on JVault.xyz](https://tonviewer.com/0:d3efefc1552cf9df021c6376c132f5b13f8af845d15379319ce8380da928a3fd) | EQDT7-_BVSz53wIcY3bBMvWxP4r4RdFTeTGc6DgNqSij_ajY
 [PINQ](https://tonviewer.com/0:39165df8c7b27dfeb9af5ab940c7c5dcfc4cbf1f90519ad7777436c3c417f4cb) | EQA5Fl34x7J9_rmvWrlAx8Xc_Ey_H5BRmtd3dDbDxBf0y6IY
 [PIXEL](https://tonviewer.com/0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e) | EQB3BZ69feVd7xEXeS2x-HwQhzGAh7Hg6h1eAm4ryA4BLvLf
 [POE staked on JVault.xyz](https://tonviewer.com/0:e0c6afec2b6bc85eb855d40120f84107545c11f2205c01b0eecab97bf2c5cc71) | EQDgxq_sK2vIXrhV1AEg-EEHVFwR8iBcAbDuyrl78sXMcbzx
+[POE staked on JVault.xyz](https://tonviewer.com/0:ea98f4856a6f642421a19806447dc851ba69b4b95f227bb969ad8581461fdc42) | EQDqmPSFam9kJCGhmAZEfchRumm0uV8ie7lprYWBRh_cQlzB
+[POE staked on JVault.xyz](https://tonviewer.com/0:f8a6f87ca229b8ff82ed81146ddcdcb4b635be41bb4e1ff106447e6fc1cb0276) | EQD4pvh8oim4_4LtgRRt3Ny0tjW-QbtOH_EGRH5vwcsCdhub
 [PONKE TON](https://tonviewer.com/0:bc5e450459be9bcdbcc4f5e55a012a0a502c9803f0944002c6135e635889c4aa) | EQC8XkUEWb6bzbzE9eVaASoKUCyYA_CUQALGE15jWInEqla6
 [POO by Godex](https://tonviewer.com/0:c423df36e8cc49985c1541a22e8288ebe1afba72678058e93983ce8774281aa7) | EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK
 [PORK on TON](https://tonviewer.com/0:d03312970845ace082c996dc19297c9e067aabefd7afbf444e011162d8d6a942) | EQDQMxKXCEWs4ILJltwZKXyeBnqr79evv0ROARFi2NapQthS
@@ -668,7 +709,10 @@ Name           | Address
 [REKT](https://tonviewer.com/0:d012cae57f900b6bbf86a73da70caeaddf7d9b7324283f40731e3d8a293ad761) | EQDQEsrlf5ALa7-Gpz2nDK6t332bcyQoP0BzHj2KKTrXYVYB
 [RIDO](https://tonviewer.com/0:532b0a7c102a0917624ac45127ef3e0f917ee8f561280271c961f43e7f36cbba) | EQBTKwp8ECoJF2JKxFEn7z4PkX7o9WEoAnHJYfQ-fzbLuqyC
 [RING](https://tonviewer.com/0:213d4338a3c4052e88fd4fa9769ae5033f117a687dcd7a8d2bbd6654c706c393) | EQAhPUM4o8QFLoj9T6l2muUDPxF6aH3Neo0rvWZUxwbDk85t
+[RUBETON staked on JVault.xyz](https://tonviewer.com/0:380fb14a46858f710e598d9dc1be95d55c4285d55fa726e2202b7a7d5bfd7573) | EQA4D7FKRoWPcQ5ZjZ3BvpXVXEKF1V-nJuIgK3p9W_11cypx
+[RUBETON staked on JVault.xyz](https://tonviewer.com/0:65a5aa5042bceb02e28f65013555cadf0e34c9262d8b7e879c237cae3aa2ed1e) | EQBlpapQQrzrAuKPZQE1VcrfDjTJJi2LfoecI3yuOqLtHj77
 [RUBETON staked on JVault.xyz](https://tonviewer.com/0:736a80960e93b86e5072d36477c4530e3de2aa07621f1df1e43ab01c54e21997) | EQBzaoCWDpO4blBy02R3xFMOPeKqB2IfHfHkOrAcVOIZl9G0
+[RUBETON staked on JVault.xyz](https://tonviewer.com/0:90f304fbb1a150e183a8a24bd0c2007f35fce79b81a9d30e59722f310036e62a) | EQCQ8wT7saFQ4YOookvQwgB_Nfznm4Gp0w5Zci8xADbmKiPL
 [RUG POLICE](https://tonviewer.com/0:175132cd54c6bf1db9bf197d8dcf1beda0e03f8895367794dfd04ef5e4c63f45) | EQAXUTLNVMa_Hbm_GX2NzxvtoOA_iJU2d5Tf0E715MY_RUGP
 [RUGP staked on JVault.xyz](https://tonviewer.com/0:f183b619632c51988761e50cf44b00e4aa40d71b7ce0c1dbd4188db778b87bb5) | EQDxg7YZYyxRmIdh5Qz0SwDkqkDXG3zgwdvUGI23eLh7tVM-
 [RULO CMO](https://tonviewer.com/0:78bdb4ae36472f662ab467e5c0ddb5427cde618f97018af14903da4f0ad3a8b4) | EQB4vbSuNkcvZiq0Z-XA3bVCfN5hj5cBivFJA9pPCtOotAfE
@@ -707,6 +751,8 @@ Name           | Address
 [SAKE](https://tonviewer.com/0:882149bb76706099caee6c37c52d9579da87b517f1c574366231f7abf6b8a986) | EQCIIUm7dnBgmcrubDfFLZV52oe1F_HFdDZiMfer9riphpQo
 [SAUD](https://tonviewer.com/0:2dcbb7322c88c5ed4f8ad15806fe0724b1300ab482e46c908d8cf62567ce5c09) | EQAty7cyLIjF7U-K0VgG_gcksTAKtILkbJCNjPYlZ85cCZAA
 [SCAM](https://tonviewer.com/0:b9d88ddcdab999a546afd0bad4eaaef0b97a139a13889ef68584a8d9e90b82e6) | EQC52I3c2rmZpUav0LrU6q7wuXoTmhOInvaFhKjZ6QuC5tV5
+[SCAM staked on JVault.xyz](https://tonviewer.com/0:3244124da3551d5e29a6cb58006b74fd11fb08be8fccc3e5f5759053756db44f) | EQAyRBJNo1UdXimmy1gAa3T9EfsIvo_Mw-X1dZBTdW20Txa4
+[SCAM staked on JVault.xyz](https://tonviewer.com/0:35eb1b695e07fcb7b906ef6e2ca4be61f5b7bb10e54d6b4e2b2ea890fa0250f4) | EQA16xtpXgf8t7kG724spL5h9be7EOVNa04rLqiQ-gJQ9OGI
 [SCAM staked on JVault.xyz](https://tonviewer.com/0:abcf78f7782e16c7fc07b635bfca07b4527a4623e4c5b26475133494ac7777f9) | EQCrz3j3eC4Wx_wHtjW_yge0UnpGI-TFsmR1EzSUrHd3-Xr1
 [SEED](https://tonviewer.com/0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719) | EQAtwmCISetV3ncZRb1QDiHcbSgfo-Y37-zPL6NhedGHGaTf
 [SHEGLOV](https://tonviewer.com/0:8ddbb8429c234147a826dc4a1ac48c78cd3b6fedf2c612b5740e8cdd7b3ace54) | EQCN27hCnCNBR6gm3EoaxIx4zTtv7fLGErV0DozdezrOVBGI
@@ -716,8 +762,12 @@ Name           | Address
 [SIMBA](https://tonviewer.com/0:418cc07e7a971da285742ca4803a5d76b1e7bde0e9e59545855e2d26a98646b1) | EQBBjMB-epcdooV0LKSAOl12see94OnllUWFXi0mqYZGsXr2
 [SKLAD ASTAHOVA](https://tonviewer.com/0:504c5fc01443793ccf2b620deb70d6c01fceb335b2172a1663330de3abcca3f9) | EQBQTF_AFEN5PM8rYg3rcNbAH86zNbIXKhZjMw3jq8yj-QT6
 [SLUT](https://tonviewer.com/0:f1881739b47deb18bef156d845cfce12585c855503c63a6847821adfd550382c) | EQDxiBc5tH3rGL7xVthFz84SWFyFVQPGOmhHghrf1VA4LBTu
+[SMERKS staked on JVault.xyz](https://tonviewer.com/0:736d0c8f0232848decfa0e3f46e5041408de67edc75fac4fec61710158bfd600) | EQBzbQyPAjKEjez6Dj9G5QQUCN5n7cdfrE_sYXEBWL_WAEGm
 [SMERKS staked on JVault.xyz](https://tonviewer.com/0:9dfdb15cf4bbcabb698f32ada8fd2cea2f2b35a95b3606cc93c265b10b30cbad) | EQCd_bFc9LvKu2mPMq2o_SzqLys1qVs2BsyTwmWxCzDLrUuZ
 [SNOOP staked on JVault.xyz](https://tonviewer.com/0:9a8d05211f4b2df41809657d4c93c8eeeea7d43072b28a726a64f78133ed3f04) | EQCajQUhH0st9BgJZX1Mk8ju7qfUMHKyinJqZPeBM-0_BF-w
+[SNOOP staked on JVault.xyz](https://tonviewer.com/0:bfa68fb388da59d86308e2bd3a2e061cc1de465c6df30cb2edc4867e51461d5c) | EQC_po-ziNpZ2GMI4r06LgYcwd5GXG3zDLLtxIZ-UUYdXArc
+[SNOOP staked on JVault.xyz](https://tonviewer.com/0:e5d16f382563a8e10b1a8ea0a39ebadf77629d8a448a6f86b84e1926dd51c71f) | EQDl0W84JWOo4QsajqCjnrrfd2KdikSKb4a4Thkm3VHHHzHn
+[SNOOP staked on JVault.xyz](https://tonviewer.com/0:eb189169c6abbc98f00fb44d95fa878a2cc2242f5a1c9ce0ed07e20caa58dd4e) | EQDrGJFpxqu8mPAPtE2V-oeKLMIkL1ocnODtB-IMqljdTtds
 [SOKOROCKET](https://tonviewer.com/0:d6d30a230c89a3b49fb3f3c4e601d81504f5bcbd0b369aa2bec39a68c80f9da3) | EQDW0wojDImjtJ-z88TmAdgVBPW8vQs2mqK-w5poyA-dowPd
 [SOON](https://tonviewer.com/0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48) | EQCwe0g3cEFhsz4VK5nrtOZBkFeSISxhCVUqvON7Im__SOON
 [SPONGE](https://tonviewer.com/0:ad5a9fc06d769643fc73b705d68abdb493cd0dc3e3c9a3d1011201cd804a5bdb) | EQCtWp_AbXaWQ_xztwXWir20k80Nw-PJo9EBEgHNgEpb2_2d
@@ -726,7 +776,10 @@ Name           | Address
 [STORM](https://tonviewer.com/0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c) | EQBsosmcZrD6FHijA7qWGLw5wo_aH8UN435hi935jJ_STORM
 [STORM Vault](https://tonviewer.com/0:df2807a89cb6f0f7244847e632a8c4dee6cee7262006a7c3699d696b092040d4) | EQDfKAeonLbw9yRIR-YyqMTe5s7nJiAGp8NpnWlrCSBA1CS-
 [STORM staked on JVault.xyz](https://tonviewer.com/0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b) | EQC5AstfTny_upAnB55sgtY7D8aoHh4P-OSrYakf2mYnS_zr
+[STX staked on JVault.xyz](https://tonviewer.com/0:49ea9eab77eb85388d5a0f27ad0997eb491ac7951e5c85f18f2f74494ea9acbf) | EQBJ6p6rd-uFOI1aDyetCZfrSRrHlR5chfGPL3RJTqmsvzzV
+[STX staked on JVault.xyz](https://tonviewer.com/0:6e74f4783c6c7c9598aef06b93140ce4f6d974df2208f9cf86ca07958219a94a) | EQBudPR4PGx8lZiu8GuTFAzk9tl03yII-c-GygeVghmpSr1R
 [STX staked on JVault.xyz](https://tonviewer.com/0:ed380c235c73c9c8a2664031e16f7aa12bf758457436f4e9486b5c2937e11837) | EQDtOAwjXHPJyKJmQDHhb3qhK_dYRXQ29OlIa1wpN-EYN3C5
+[STX staked on JVault.xyz](https://tonviewer.com/0:f73137549f03eb0467f35092975922c96519728307e5fb5da8b6fcf1cf3ccbbf) | EQD3MTdUnwPrBGfzUJKXWSLJZRlygwfl-12otvzxzzzLv71t
 [Sad Doge](https://tonviewer.com/0:88899e9be5f6121cb7c2080aa2e0ab087aa4000f71ff1d23fe579af839481312) | EQCIiZ6b5fYSHLfCCAqi4KsIeqQAD3H_HSP-V5r4OUgTEuAs
 [SafeMars](https://tonviewer.com/0:0964496b0d3824b747b1202ad55103e3375f649d63a7886b090bf02e9f2a9f3c) | EQAJZElrDTgkt0exICrVUQPjN19knWOniGsJC_AunyqfPA0w
 [SafemoonTon](https://tonviewer.com/0:602f0dd12e410b80e254535a07b47cf09284dd6f84607d3f088131ba93f88b9d) | EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc
@@ -781,7 +834,10 @@ Name           | Address
 [TIGER](https://tonviewer.com/0:a4b44980b2f6019fc0cf4ba96ee107dab631092512f00fde1a0ea6fc4ace9eb6) | EQCktEmAsvYBn8DPS6lu4QfatjEJJRLwD94aDqb8Ss6etuaA
 [TIME](https://tonviewer.com/0:8d094c45c0cb0d60a4eff3d5ae457e69cb10c25aa960062e1397ccf2b6396535) | EQCNCUxFwMsNYKTv89WuRX5pyxDCWqlgBi4Tl8zytjllNTaC
 [TLB500 Index](https://tonviewer.com/0:23401b7987c4b32ee8031a9fbbe4889e3ee75d2d4df61464781f7177ccf48bc3) | EQAjQBt5h8SzLugDGp-75IiePuddLU32FGR4H3F3zPSLw7oL
+[TNX staked on JVault.xyz](https://tonviewer.com/0:2d86fb8e0e9a8d9945a18ad6b766fcba37223563f02df79f4d645f7d2a1bb056) | EQAthvuODpqNmUWhita3Zvy6NyI1Y_At959NZF99KhuwVrR_
+[TNX staked on JVault.xyz](https://tonviewer.com/0:57571da31f34212936239758d3febe03092d31f4355c293bd23c1e36ef21f903) | EQBXVx2jHzQhKTYjl1jT_r4DCS0x9DVcKTvSPB427yH5AyxV
 [TNX staked on JVault.xyz](https://tonviewer.com/0:ab94502a9b992c3282644fb95068690aecab27f20e12f6996ffd4e25ffe6bc1b) | EQCrlFAqm5ksMoJkT7lQaGkK7Ksn8g4S9plv_U4l_-a8G70n
+[TNX staked on JVault.xyz](https://tonviewer.com/0:cf7eff611e3d680f0e60f35e289b1a5347add0bcd9604adb6768e69394341f24) | EQDPfv9hHj1oDw5g814omxpTR63QvNlgSttnaOaTlDQfJOe7
 [TOGE](https://tonviewer.com/0:11ecbe27b6e054318d0a600029b2a44b0f909e3df63482d335e25ea138bbe778) | EQAR7L4ntuBUMY0KYAApsqRLD5CePfY0gtM14l6hOLvneBel
 [TOKI](https://tonviewer.com/0:b31da97af23fe829a766513bcaf4db35f4fffe6e4f0f72b1ddb979341f670804) | EQCzHal68j_oKadmUTvK9Ns19P_-bk8PcrHduXk0H2cIBA_W
 [TON Attack](https://tonviewer.com/0:7604e727930b08b23a9dfab6c09b86efaee9b7fcc24a312829f7be20efecc8a3) | EQB2BOcnkwsIsjqd-rbAm4bvrum3_MJKMSgp974g7-zIo5xv
@@ -924,10 +980,15 @@ Name           | Address
 [Volodemer](https://tonviewer.com/0:f9ac61a0562235ea74f99cbd1ab82c199533c26f008e223364231d682d6d76b4) | EQD5rGGgViI16nT5nL0auCwZlTPCbwCOIjNkIx1oLW12tFgo
 [WATCoin](https://tonviewer.com/0:84ab3db1dfe51bfc43b8639efdf0d368a8ac35b4ffed27a6fdcbe5f40b8bafb3) | EQCEqz2x3-Ub_EO4Y5798NNoqKw1tP_tJ6b9y-X0C4uvs8Zf
 [WEB3 Vault](https://tonviewer.com/0:64216a0ead5819dca7d1719fc912cfa6673665a1c5fcf7338ca5b2ce65f12f80) | EQBkIWoOrVgZ3KfRcZ_JEs-mZzZlocX89zOMpbLOZfEvgACY
+[WEB3 staked on JVault.xyz](https://tonviewer.com/0:3e0f00fafd7949933f9ccfb4f67fb09b6b85d9c5122a210beaeb21278b0c857f) | EQA-DwD6_XlJkz-cz7T2f7Cba4XZxRIqIQvq6yEniwyFf8nm
+[WEB3 staked on JVault.xyz](https://tonviewer.com/0:5682270452aac47c6f3fc6fd44c2a3ade14664883de12bbdb8a28bd3a751c8b9) | EQBWgicEUqrEfG8_xv1EwqOt4UZkiD3hK724oovTp1HIuZYi
 [WEB3 staked on JVault.xyz](https://tonviewer.com/0:674e6e4c9cb4af79d68a7943e737684b5daafa161def372ceef88d3ae2770784) | EQBnTm5MnLSvedaKeUPnN2hLXar6Fh3vNyzu-I064ncHhBC0
+[WEB3 staked on JVault.xyz](https://tonviewer.com/0:dd0ce3feb0f23c6a1e7d62fcab4b80d642aa562dea2f313120820f5c620c5add) | EQDdDOP-sPI8ah59YvyrS4DWQqpWLeovMTEggg9cYgxa3bKE
 [WEED on TON](https://tonviewer.com/0:372f1691401cd9fd0ccfb31d7a10027f01c849974c2de2bdf725fd0d0687d298) | EQA3LxaRQBzZ_QzPsx16EAJ_AchJl0wt4r33Jf0NBofSmOY8
 [WEN DIZEL](https://tonviewer.com/0:5eaeecfe45729016c54787a6eeb02ca5377fd5c9e67628bc82e218ae960fa741) | EQBeruz-RXKQFsVHh6busCylN3_VyeZ2KLyC4hiulg-nQVfj
+[WHR staked on JVault.xyz](https://tonviewer.com/0:55310181d6ea45f9e62b0da3907b9e255483e2b380e85621f73a0fea2ba46bfb) | EQBVMQGB1upF-eYrDaOQe54lVIPis4DoViH3Og_qK6Rr-5lI
 [WHR staked on JVault.xyz](https://tonviewer.com/0:c4fd9a7135a73ff8b3fb510caa535ca7e843f5e82d3b65ab261e04501bf2de01) | EQDE_ZpxNac_-LP7UQyqU1yn6EP16C07ZasmHgRQG_LeAcSN
+[WHR staked on JVault.xyz](https://tonviewer.com/0:fe7d515478a4abb6d7361fa59fe777e540577f708cf5747157745625c7e9b308) | EQD-fVFUeKSrttc2H6Wf53flQFd_cIz1dHFXdFYlx-mzCAUI
 [WINKO](https://tonviewer.com/0:9c1101fd38766dca0269580685898bbe3a8115423489cfa0f2ff453d844c92c8) | EQCcEQH9OHZtygJpWAaFiYu-OoEVQjSJz6Dy_0U9hEySyO4U
 [WOOD$ Credits](https://tonviewer.com/0:a476dd3b954a14b554000b85ca629a42833a5d2013861c2d7b67490f87e2417e) | EQCkdt07lUoUtVQAC4XKYppCgzpdIBOGHC17Z0kPh-JBfmXZ
 [WTON](https://tonviewer.com/0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2) | EQDQoc5M3Bh8eWFephi9bClhevelbZZvWhkqdo80XuY_0qXv
