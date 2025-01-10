@@ -1,20 +1,20 @@
-- name: TON Storm LP
-  symbol: TON-SLP
-  description: TON locked in liquidity in Storm Trade (storm.tg)
-  address: 0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea
-  image: "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/ton-slp-logo.png"
+- name: pTON-Porsche LP
+  symbol: Porsche-LP
+  description: TON locked in liquidity in Stone Trade (stone.tg)
+  address: EQAlvgrIh0xPmDCfAE474-d9ilZV7IBfDkGLeSc8vzw8hrC5
+  image: "https://s8.uupload.ir/files/img_20241219_170745_012_k2y2.jpg"
   websites:
     - "https://storm.tg"
   social:
-    - "https://t.me/storm_trade_news"
-    - "https://t.me/storm_trade_fam"
-- name: jUSDT Storm LP
-  symbol: jUSDT-SLP
+    - "https://x.com/Porsche"
+    - "https://t.me/porsch"
+- name: pTON-Porsche LP
+  symbol: Porsche-LP
   description: Bridged Tether USD locked in liquidity in Storm Trade (storm.tg)
-  image: "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/jusdt-slp-logo.png"
-  address: 0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc
+  image: "https://s8.uupload.ir/files/img_20241219_170745_012_k2y2.jpg"
+  address: EQAlvgrIh0xPmDCfAE474-d9ilZV7IBfDkGLeSc8vzw8hrC5
   websites:
-    - "https://storm.tg"
+    - "https://www.porsche.com"
   social:
-    - "https://t.me/storm_trade_news"
-    - "https://t.me/storm_trade_fam"
+    - "https://x.com/Porsche"
+    - "https://t.me/porsch"
