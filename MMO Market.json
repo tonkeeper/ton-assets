@@ -1,0 +1,10 @@
+{
+  "name": "MMK",
+  "address": "EQCRTHhyNziYus6JOmYovtn1IS4wOBYM4m4zpVlhpajQkgtF",
+  "symbol": "MMK",
+  "decimals": 9,
+  "description": "MMK là token của MMO Market, dùng để thanh toán và thưởng trong hệ sinh thái marketing cộng đồng.",
+  "website": "https://mmozone.net",
+  "logoURI": "https://cache.tonapi.io/imgproxy/R55prP32WkeFmSPfXDBMBEYINsy1sd8XYDzcD-zx85I/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdjEuYW5oc2lldXZpZXQuY29tLzIwMjQvMTIvMjUvMTIxMjEuanBn.webp",
+  "topics": ["mmk", "ton-blockchain", "payment", "marketing", "mmo-market"]
+}
