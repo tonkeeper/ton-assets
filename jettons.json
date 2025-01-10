@@ -2670,6 +2670,21 @@
   ]
  },
  {
+  "address": "0:915a941099f4a09692e9e83e5779b8b1e74012b41c637d040d92cb053ff22c89",
+  "description": "PINGO is the platform token issued by PinGo, the first AI+DePIN project on TON network.",
+  "image": "https://pingo-work.s3.ap-southeast-1.amazonaws.com/pingo1.webp",
+  "name": "PinGo",
+  "social": [
+   "https://x.com/PinGoAI",
+   "https://t.me/PinGo_AI",
+   "https://t.me/PinGo_MiniBot/join"
+  ],
+  "symbol": "PINGO",
+  "websites": [
+   "https://pingo.work/"
+  ]
+ },
+ {
   "address": "0:33dada4cd9195ffb4edb55eeb68a3c28cd1125977678b5c6d4ae1ec11bafa309",
   "description": "Official PlanTon. The chill crypto token for relaxed investors, unfused with good vibes",
   "image": "https://planton.fun/img/header/logo.webp",
