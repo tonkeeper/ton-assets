@@ -3435,6 +3435,21 @@
   "symbol": "TETRIX"
  },
  {
+  "address": "0:f0003c7b310689037853a8dc632a75fa17ba3c548d01aa8cc403fa3c808906b3",
+  "decimals": 9,
+  "description": "TFARM is a multiplayer farming game on the TON Blockchain where you can grow crops, raise animals, race horses in PvP, and earn tokens. All you need is a Telegram account to join this unique GameFi ecosystem!",
+  "image": "https://i.imghippo.com/files/Uc9255r.png",
+  "name": "TFARM",
+  "social": [
+   "https://x.com/Tfarmio",
+   "https://t.me/tfarm_community"
+  ],
+  "symbol": "TFARM",
+  "websites": [
+   "https://tfarm.io"
+  ]
+ },
+ {
   "address": "0:dcc0b382e295825999371e19470f1a42d48aa5c09aceb8eae06fac492a2b75c6",
   "name": "GazTon",
   "social": [
