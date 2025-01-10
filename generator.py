@@ -56,32 +56,37 @@ def merge_jettons():
             jettons.extend(j)
         else:
             jettons.append(j)
-            
+
     already_exist_address = dict()
     for j in jettons:
-        if len(set(j.keys()) - ALLOWED_KEYS) > 0 :
-            raise Exception("invalid keys %s in %s" % (set(j.keys()) - ALLOWED_KEYS, j.get('name')))
+        if len(set(j.keys()) - ALLOWED_KEYS) > 0:
+            raise Exception(f"invalid keys {set(j.keys()) - ALLOWED_KEYS} in {j.get('name')}")
         if len(set(j.keys()) & {"name", "symbol", "address"}) < 3:
-            raise Exception("name, symbol and address are required %s "  % j.get("name"))
+            raise Exception(f"name, symbol, and address are required in {j.get('name')}")
         if 'image' in j and j['image'].startswith('https://cache.tonapi.io'):
-            raise Exception("don't use cache.tonapi.io as image source in %v", j.get("name"))
+            raise Exception(f"don't use cache.tonapi.io as image source in {j.get('name')}")
 
         normalized = normalize_address(j["address"], True)
-        if (exist := already_exist_address.get(normalized)):
-            raise Exception(f"duplicate address for {j['name']} and {exist}")
+        if normalized in already_exist_address:
+            raise Exception(f"duplicate address for {j['name']} and {already_exist_address[normalized]}")
         already_exist_address[normalized] = j["name"]
+
+        j["address"] = normalized
+
         for field in ['symbol', 'name', 'address', 'description', 'image', 'coinmarketcap', 'coingecko']:
             if not isinstance(j.get(field, ''), str):
-                raise Exception("invalid image field type %s" % j.get("name"))
+                raise Exception(f"invalid field type for {field} in {j.get('name')}")
+
         for field in ['social', 'websites']:
-            if field in j and (not isinstance(j[field], list) or any([not isinstance(x, str) for x in j[field]])):
-                raise Exception("invalid image field type %s" % j.get("name"))
+            if field in j and (not isinstance(j[field], list) or any(not isinstance(x, str) for x in j[field])):
+                raise Exception(f"invalid list field type for {field} in {j.get('name')}")
+
         if 'decimals' in j:
             j['decimals'] = int(j['decimals'])
 
-
     with open('jettons.json', 'w') as out:
         json.dump(jettons, out, indent=" ", sort_keys=True)
+
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in jettons])
 
 
@@ -91,26 +96,37 @@ def merge_accounts(accounts):
         accs = yaml.safe_load(open(file))
         main_page.extend([(x['name'], x['address']) for x in accs])
         accounts.extend(yaml.safe_load(open(file)))
-    for file in ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml', 'accounts/validators.yaml', 'accounts/scammers.yaml', 'accounts/notcoin.yaml', 'accounts/dapps.yaml'):
+
+    files = ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml', 'accounts/validators.yaml',
+             'accounts/scammers.yaml', 'accounts/notcoin.yaml', 'accounts/dapps.yaml')
+    for file in files:
         accounts.extend(yaml.safe_load(open(file)))
+
+    for account in accounts:
+        account['address'] = normalize_address(account['address'], True)
+
     with open('accounts.json', 'w') as out:
-        for a in accounts:
-            a['address'] = normalize_address(a['address'], True)
         json.dump(accounts, out, indent=" ", sort_keys=True)
     return main_page
 
 
 def merge_collections():
     raw = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
-    collections = []
+    collections = list()
+
     for c in raw:
         if isinstance(c, list):
             collections.extend(c)
         else:
             collections.append(c)
+
+    for collection in collections:
+        collection['address'] = normalize_address(collection['address'], True)
+
     with open('collections.json', 'w') as out:
         json.dump(collections, out, indent=" ", sort_keys=True)
-    return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in collections])
+
+    return sorted([(c.get('name', 'unknown'), c.get('address', 'unknown')) for c in collections])
 
 
 def main():
