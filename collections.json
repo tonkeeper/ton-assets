@@ -96,6 +96,20 @@
   "name": "CALLIGRAFUTURISM \u2014 24: Units"
  },
  {
+  "address": "0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94",
+  "description": "Collection with soulbound tokens confirming ownership of jettons locked in JVault Locker (actual version)",
+  "image": "https://jvault.xyz/static/images/lock_collection.png",
+  "name": "JVault locks",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://x.com/jvault_app"
+  ],
+  "websites": [
+   "https://jvault.xyz/locker"
+  ]
+ },
+ {
   "address": "0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058",
   "description": "SpinnerCoin introduces an innovative Play-to-Earn (P2E) gaming experience leveraging the power of TON blockchain technology, combined with exclusive Non-Fungible Tokens (NFTs). Immerse yourself in a dynamic gaming universe where every spin unlocks thrilling adventures and lucrative rewards.",
   "image": "https://github.com/Spinnercoin/spinner-logos/blob/d707bc9e96668bf6683dca2fabbc7ae9975e283f/logocube4500.png?raw=true",
