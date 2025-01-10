@@ -1,17 +1,17 @@
 [
  {
-  "address": "0:c7bfaa5cb0aff5cd6b893085a207073325728f5ec875ee3d6508fb6ddeb5f2c4",
+  "address": "EQAlvgrIh0xPmDCfAE474-d9ilZV7IBfDkGLeSc8vzw8hrC5",
   "decimals": 9,
-  "description": "Official deathdedesign coin",
-  "image": "https://i.ibb.co/5Txn7R8/Logo.png",
-  "name": "Deathdedecoin",
+  "description": "Official Porsche coin",
+  "image": "https://s8.uupload.ir/files/img_20241219_170745_012_k2y2.jpg",
+  "name": "Porsche",
   "social": [
-   "https://t.me/deathdeart",
-   "https://x.com/Deathcoin666"
+   "https://t.me/porsch",
+   "https://x.com/Porsche"
   ],
-  "symbol": "DEATHCOIN",
+  "symbol": "Porsche",
   "websites": [
-   "http://deathcoin.vip"
+   "https://www.porsche.com"
   ]
  },
  {
