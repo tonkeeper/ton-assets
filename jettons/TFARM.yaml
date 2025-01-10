@@ -1,8 +1,9 @@
 name: TFARM
 description: TFARM is a multiplayer farming game on the TON Blockchain where you can grow crops, raise animals, race horses in PvP, and earn tokens. All you need is a Telegram account to join this unique GameFi ecosystem!
-image: "https://cache.tonapi.io/imgproxy/tFklnF2zTx94H1HmsTk-yO97-yZNfIZjyEKb-2Uw0O0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9ibHVtLXByb2QuZnJhMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9mZThlZTNmYy1kYzBkLTRhYzItOTI2Ni0wNTI2MzNiNDBhMWYvZWY4NmJkMTktMzllZi00YTZjLThjNmEtZjI5ZDI3OTYwM2Qw.webp"
+image: "https://i.imghippo.com/files/Uc9255r.png"
 address: "EQDwADx7MQaJA3hTqNxjKnX6F7o8VI0BqozEA_o8gIkGsx4F"
 symbol: TFARM
+decimals: 9
 websites:
   - "https://tfarm.io"
 social:
