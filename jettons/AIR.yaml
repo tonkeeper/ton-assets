@@ -1,14 +1,13 @@
 name: Parachute
-description: Aka Liberty has been created by Libertad 🚀🎉 Aka is for Us! 🌍💸
+description: $AIR Token serve as a gateway to airdrops on TON.
 image: "https://cache.tonapi.io/imgproxy/rZnps2yUz95NloyWnbAsXjZbBRLpMHkthA2US6F1AGM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvRHdLc1FSOWovY29pbi0yNTYucG5n.webp"
 address: EQAAQMH3Eqc8yWqmrJ5OwQfEJHDHFTpRliDL6n4ZUXIzTkqs
 symbol: AIR
 decimals: 9
-description: $AIR Token serve as a gateway to airdrops on TON.
 websites:
   - "https://www.parachute.finance/"
 social:
   - "https://t.me/parachuteannouncements"
   - "https://t.me/parachutetg"
   - "https://x.com/Parachute_ton"
-
+  
