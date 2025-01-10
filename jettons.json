@@ -2504,6 +2504,19 @@
   ]
  },
  {
+  "address": "0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38",
+  "description": "Token for the residents of Paphos \ud83c\udfdb\ufe0f\ud83c\udf1e",
+  "image": "https://i.ibb.co/cQ9PyCS/PAPHS.png",
+  "name": "Paphos Jetton",
+  "social": [
+   "https://x.com/stasia_apk"
+  ],
+  "symbol": "PAPHS",
+  "websites": [
+   "https://x.com/stasia_apk"
+  ]
+ },
+ {
   "address": "0:f500ec52c039f7517d0f0810cd546138c4d90024fb23cce1014482dfbc5751e0",
   "description": "PROBULL Game Token",
   "image": "https://api-v1-srvr-game.probull.org/2-12.png",
