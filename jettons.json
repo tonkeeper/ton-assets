@@ -1207,6 +1207,20 @@
   ]
  },
  {
+  "address": "0:eb25e13aada725b092badab3ca031dde3fb4c4f113013a740bb6797d4fb233fc",
+  "description": "Duplo is a popular blockchain game in the YupLand ecosystem. Yupik explore the worlds of AI - actively playing Duplo.YupLand is a strong community in the crypto world.A huge universe - clans, kingdoms, developers, researchers.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqdrjee6raclsjk62rpkax3ep7te8rmbonqltnl9t7iz_lx9.png?size=lg&key=95e7d2",
+  "name": "Duplo YupLand",
+  "social": [
+   "https://t.me/anons_yupland",
+   "https://twitter.com/duplo_yupland"
+  ],
+  "symbol": "Duplo",
+  "websites": [
+   "https://yupik.fun/duplo"
+  ]
+ },
+ {
   "address": "0:c97192095e0f3193f8bcc0dd100128525de76a16f816cee2f88b9d25d58ad637",
   "description": "Durov`s Code is a token dedicated to the biography of the Durov brothers",
   "image": " https://github.com/DurovsCode/logo/blob/main/wt3.png?raw=true ",

@@ -319,6 +319,7 @@ Name           | Address
 [Dubai #2049](https://tonviewer.com/0:614683e638899c5367b708b283e9e099fcf7cecf689815c398df5dfd1d4531d2) | EQBhRoPmOImcU2e3CLKD6eCZ_PfOz2iYFcOY3139HUUx0phP
 [Duck Coin](https://tonviewer.com/0:53732b598dd67014b8fa4ceec2786be7e1a326a97bdb5fe9ce0e20296ddd35d6) | EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3
 [DuckChain Token](https://tonviewer.com/0:d65e39d55a17857a66806859fe0a9e270de86f1a596b5ce67cc2a1e6f2c0c4c2) | EQDWXjnVWheFemaAaFn-Cp4nDehvGllrXOZ8wqHm8sDEwn_c
+[Duplo YupLand](https://tonviewer.com/0:eb25e13aada725b092badab3ca031dde3fb4c4f113013a740bb6797d4fb233fc) | EQDrJeE6raclsJK62rPKAx3eP7TE8RMBOnQLtnl9T7Iz_Lx9
 [Durov's Child](https://tonviewer.com/0:c5680842c4ac744c6399f61f291332e2d3203e69a69639028e936e640177aeaf) | EQDFaAhCxKx0TGOZ9h8pEzLi0yA-aaaWOQKOk25kAXeur1dS
 [Durov’s Code](https://tonviewer.com/0:c97192095e0f3193f8bcc0dd100128525de76a16f816cee2f88b9d25d58ad637) | EQDJcZIJXg8xk_i8wN0QAShSXedqFvgWzuL4i50l1YrWN9GN
 [E4](https://tonviewer.com/0:cd94d0363526d6b62816dfb597fff148bb863634d3f08a325ddcab66862ee074) | EQDNlNA2NSbWtigW37WX__FIu4Y2NNPwijJd3Ktmhi7gdCyv
