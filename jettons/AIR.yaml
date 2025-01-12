@@ -1,9 +1,8 @@
 name: Parachute
 description: $AIR Token serve as a gateway to airdrops on TON.
-image: "https://cache.tonapi.io/imgproxy/rZnps2yUz95NloyWnbAsXjZbBRLpMHkthA2US6F1AGM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvRHdLc1FSOWovY29pbi0yNTYucG5n.webp"
+image: "https://coffee-genetic-toucan-373.mypinata.cloud/ipfs/QmVtFTgeEAdZJCD9HQJQgHmkFdNrTa3wZBC3zrNAwadh7o"
 address: EQAAQMH3Eqc8yWqmrJ5OwQfEJHDHFTpRliDL6n4ZUXIzTkqs
 symbol: AIR
-decimals: 9
 websites:
   - "https://www.parachute.finance/"
 social:
