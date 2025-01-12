@@ -257,6 +257,7 @@ Name           | Address
 [CookieToken](https://tonviewer.com/0:dd2a4cce2a9b3b2252b416fe042661c322f39943b2edb026bebdee2a269a2917) | EQDdKkzOKps7IlK0Fv4EJmHDIvOZQ7LtsCa-ve4qJpopF4oq
 [Crumb Coin](https://tonviewer.com/0:a8641676cfd02edddcc334d8bc5e407186e21a9da0f511bdbfa05444610cb720) | EQCoZBZ2z9Au3dzDNNi8XkBxhuIanaD1Eb2_oFREYQy3IEBI
 [Cryptaskr Token](https://tonviewer.com/0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d) | EQAbdeMKZK5bzKU6ko6a9wMDpbEiPwK_COa_20FEPcspXa33
+[Crypto Gypsies Coin](https://tonviewer.com/0:a6115250e678edb4d4416b56eaa99b15ab959a1d89621bd054fdde413f506ed9) | EQCmEVJQ5njttNRBa1bqqZsVq5WaHYliG9BU_d5BP1Bu2QXY
 [Crypto Kings](https://tonviewer.com/0:bbf45aa71c685aa8fb2513aff598c21c72e1843fb203184cb61cb72b9681bc3c) | EQC79FqnHGhaqPslE6_1mMIccuGEP7IDGEy2HLcrloG8PE_X
 [Crystals](https://tonviewer.com/0:a2821d07c97169a021677ca43223c8d610aeca85b12c3a93058e8de051124a3b) | EQCigh0HyXFpoCFnfKQyI8jWEK7KhbEsOpMFjo3gURJKOxnD
 [Cubigator](https://tonviewer.com/0:9748c357dce0798cf80e2641338d8866ec53817e4037720ee9681a93630cd7ae) | EQCXSMNX3OB5jPgOJkEzjYhm7FOBfkA3cg7paBqTYwzXrjIi

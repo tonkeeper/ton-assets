@@ -1,5 +1,19 @@
 [
  {
+  "address": "0:a6115250e678edb4d4416b56eaa99b15ab959a1d89621bd054fdde413f506ed9",
+  "description": "The most gypsy token on TON",
+  "image": "https://i.ibb.co/dGCf511/IMG-1522.png",
+  "name": "Crypto Gypsies Coin",
+  "social": [
+   "https://t.me/token_ccc",
+   "https://x.com/ccc_token"
+  ],
+  "symbol": "CCC",
+  "websites": [
+   "https://ccctoken.xyz/"
+  ]
+ },
+ {
   "address": "0:c7bfaa5cb0aff5cd6b893085a207073325728f5ec875ee3d6508fb6ddeb5f2c4",
   "decimals": 9,
   "description": "Official deathdedesign coin",
