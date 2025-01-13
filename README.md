@@ -677,6 +677,7 @@ Name           | Address
 [Palladium](https://tonviewer.com/0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7) | EQDgGuB15VUI7wkJ9c5_tjQswWuePEtqTDXSHIYKMMSxx_2U
 [Paper Plane](https://tonviewer.com/0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34) | EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2
 [Paphos Jetton](https://tonviewer.com/0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38) | EQD4Yhgyi8-IL0xywwaKGgT3a3FcObp-L7Z4krGsvTbfODEQ
+[Parachute](https://tonviewer.com/0:0040c1f712a73cc96aa6ac9e4ec107c42470c7153a519620cbea7e195172334e) | EQAAQMH3Eqc8yWqmrJ5OwQfEJHDHFTpRliDL6n4ZUXIzTkqs
 [Pavel Durov](https://tonviewer.com/0:76daefc43c5e43caab594618c9d9889996237ec39642aba17f3d8e886ba6ef8b) | EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et
 [Pavul Durkev](https://tonviewer.com/0:a15e075f111da7b8bbd93f91224a509ff79a1767928388212618106ffd670d77) | EQChXgdfER2nuLvZP5EiSlCf95oXZ5KDiCEmGBBv_WcNdxz3
 [PeiPei](https://tonviewer.com/0:4eddbc2736a24df571af42bf1b2c0a975305233b7d782b0b882606699cc94e73) | EQBO3bwnNqJN9XGvQr8bLAqXUwUjO314KwuIJgZpnMlOc0ZD

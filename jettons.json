@@ -90,6 +90,21 @@
   ]
  },
  {
+  "address": "0:0040c1f712a73cc96aa6ac9e4ec107c42470c7153a519620cbea7e195172334e",
+  "description": "$AIR Token serve as a gateway to airdrops on TON.",
+  "image": "https://coffee-genetic-toucan-373.mypinata.cloud/ipfs/QmVtFTgeEAdZJCD9HQJQgHmkFdNrTa3wZBC3zrNAwadh7o",
+  "name": "Parachute",
+  "social": [
+   "https://t.me/parachuteannouncements",
+   "https://t.me/parachutetg",
+   "https://x.com/Parachute_ton"
+  ],
+  "symbol": "AIR",
+  "websites": [
+   "https://www.parachute.finance/"
+  ]
+ },
+ {
   "address": "0:600a90c9561d69a04412e40a50d3283f2bf27c482f6975a3279703e4ee18d50a",
   "description": "Aka Liberty has been created by Libertad \ud83d\ude80\ud83c\udf89 Aka is for Us! \ud83c\udf0d\ud83d\udcb8",
   "image": "https://i.postimg.cc/x8GS6SGG/photo-2024-12-16-20-54-54.png",
