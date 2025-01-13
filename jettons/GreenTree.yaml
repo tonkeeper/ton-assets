@@ -1,8 +1,8 @@
 name: GreenTree
 symbol: G.T
-address: EQBZm_Ieg9o9UMV57KTaIXICg7Zli15V4_2PCY2cmSSJWOkE  # آدرس قرارداد اصلی توکن شما
+address: EQBZm_Ieg9o9UMV57KTaIXICg7Zli15V4_2PCY2cmSSJWOkE
 decimals: 9
-image_url: bafkreigmckeohjiyv6xfv3ny4sivzitpcl2azd3ufe4jczq2fzmgagcwmm  # آدرس لوگوی توکن شما
+image_url: bafkreigmckeohjiyv6xfv3ny4sivzitpcl2azd3ufe4jczq2fzmgagcwmm
 description: An eco-friendly token to support sustainability.
-website: https://yourwebsite.com  # آدرس سایت پروژه شما را وارد کنید
+website: https://yourwebsite.com
 
