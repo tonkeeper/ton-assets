@@ -53,3 +53,7 @@
 - symbol: ESALAT
   name: Esalat
   address: "EQBLS1l0xq007CZTkueNivBNG8VuaOF3SDMn1bzImyEOudJZ"
+  
+- symbol: LUKO
+  name: lukocoin
+  address: "EQDN0PsBNn8lJphJE2ApQxbXeU5C-wi-KfCdQds8J5YEsAtY"
