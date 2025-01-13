@@ -125,6 +125,7 @@ Name           | Address
 [AliveBoard](https://tonviewer.com/0:252ae537255c03d4172c4aa2df8a05bbe646ed3f19e9a3a52eaf81a306f49f81) | EQAlKuU3JVwD1BcsSqLfigW75kbtPxnpo6Uur4GjBvSfgTTD
 [Alliance](https://tonviewer.com/0:3a3594e565b371d7ddafd0d763a3a6a5c484408b212a0caa87a79474515330e4) | EQA6NZTlZbNx192v0Ndjo6alxIRAiyEqDKqHp5R0UVMw5ANv
 [AltOOshka](https://tonviewer.com/0:ece3f316991c9298f6ec5ba33267c0f2fa4f818b4bd934d495b7a2c4d8b0bf75) | EQDs4_MWmRySmPbsW6MyZ8Dy-k-Bi0vZNNSVt6LE2LC_ddUP
+[Amanita Muhomor Coin](https://tonviewer.com/0:d5148695c63cbce286bad2c82db573b76ca773f2464fc419f84199b07c926abb) | EQDVFIaVxjy84oa60sgttXO3bKdz8kZPxBn4QZmwfJJqu_gY
 [AmberTON](https://tonviewer.com/0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d) | EQBv2cEJ-T-1GNRdzaY_JYoJvpAISuFHOKmJZPQnoUqEHTlU
 [Ambra](https://tonviewer.com/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
 [Amocucinare](https://tonviewer.com/0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f) | EQC7js8NLX3v57ZuRmuusNtMSBdki4va_qyL7sAwdmosf_xK
