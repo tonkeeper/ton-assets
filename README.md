@@ -441,6 +441,7 @@ Name           | Address
 [John Doge](https://tonviewer.com/0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da) | EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH
 [Junior Invest](https://tonviewer.com/0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268) | EQA8N_V6_0tJ1792_FO0P51mup7eJcUb7ZC00VdE0LDyaHBo
 [KAKAXA](https://tonviewer.com/0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a) | EQDqz7LTwgj016kiTiSooM_ft8kveL2P4pj4fkJmsUV_an_X
+[KEKIUS REBORN (TON)](https://tonviewer.com/0:b6dda36f7663265453296d4a98f33569473f93cdd1bd2dfc3b4f0fe46dfaa1a9) | EQC23aNvdmMmVFMpbUqY8zVpRz-TzdG9Lfw7Tw_kbfqhqcVU
 [KG staked on JVault.xyz](https://tonviewer.com/0:770c78c6d792e27344df24761d3edea3a27b3ba64dde57789622a76ad54df44d) | EQB3DHjG15Lic0TfJHYdPt6jons7pk3eV3iWIqdq1U30TdKJ
 [KG staked on JVault.xyz](https://tonviewer.com/0:dd21d0dc17177bcc91c0f9f7246cbc32b813ebc7e04a84736ba4459f773e505d) | EQDdIdDcFxd7zJHA-fckbLwyuBPrx-BKhHNrpEWfdz5QXbwZ
 [KING OF REFERRAL COIN](https://tonviewer.com/0:93b3a788f7f498a19d813d8d2e9e458dcbbb2518631afb029df92a0a64e3679f) | EQCTs6eI9_SYoZ2BPY0unkWNy7slGGMa-wKd-SoKZONnn9ge
