@@ -4249,6 +4249,11 @@
   "symbol": "ESALAT"
  },
  {
+  "address": "0:cdd0fb01367f252698491360294316d7794e42fb08be29f09d41db3c279604b0",
+  "name": "lukocoin",
+  "symbol": "LUKO"
+ },
+ {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
   "decimals": 6,
   "description": "USDC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",

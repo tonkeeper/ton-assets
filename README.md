@@ -1052,6 +1052,7 @@ Name           | Address
 [jUSDT](https://tonviewer.com/0:729c13b6df2c07cbf0a06ab63d34af454f3d320ec1bcd8fb5c6d24d0806a17c2) | EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA
 [jUSDT Storm LP](https://tonviewer.com/0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc) | EQAlM_4LY6sP1QOur5aGdFBSa5ma6nqwldflmm9mshq7vCLB
 [jWBTC](https://tonviewer.com/0:dc064187982e294dfdf8c771a6d395ef7a93b9c3ad0337167e5d3e08ebe5061b) | EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5
+[lukocoin](https://tonviewer.com/0:cdd0fb01367f252698491360294316d7794e42fb08be29f09d41db3c279604b0) | EQDN0PsBNn8lJphJE2ApQxbXeU5C-wi-KfCdQds8J5YEsAtY
 [meh](https://tonviewer.com/0:15c3eeac2bb3497a94a3807d605bad256049076334a62bda476d7b2d08294363) | EQAVw-6sK7NJepSjgH1gW60lYEkHYzSmK9pHbXstCClDY4BV
 [no cat](https://tonviewer.com/0:82bbf5d4cc80ff9ad53ecf6eb6249c2fbaba8f8a252cbab2ecb75b9ce6697035) | EQCCu_XUzID_mtU-z262JJwvurqPiiUsurLst1uc5mlwNQJl
 [povel durev](https://tonviewer.com/0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1) | EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0
