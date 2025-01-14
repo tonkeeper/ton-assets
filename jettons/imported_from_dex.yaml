@@ -91,6 +91,9 @@
 - address: 0:2d62f45d3f29bf54fe372424e169fcd38631b3f0e55b1a7cbfc1359a69e97aef
   name: Boys Club
   symbol: BCLUB
+- address: 0:a5c9e5aaf6189a3c9471b4a45984136bce718d883a2e5d9cb94d6b35410d83a2
+  name: Bomb Crypto
+  symbol: BCOIN
 - address: 0:6dbfb237a59a4c0140a179fd95ae4f94d46702134d2b44eb8780c27d0af8e875
   name: Bear Coin
   symbol: BEAR
