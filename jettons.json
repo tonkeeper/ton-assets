@@ -546,6 +546,19 @@
   ]
  },
  {
+  "address": "0:28f5705613e452997b6371198f9b2399306167f8509203bf70ccec25f6ee9c89",
+  "description": "Bubb AI Agent is an innovative project integrated into the TON ecosystem that combines artificial intelligence (AI) and blockchain technologies",
+  "name": "Bubb Ai Agent",
+  "social": [
+   "https://t.me/Bubb_Ai_Chat",
+   "https://x.com/bubb_Ai"
+  ],
+  "symbol": "BUBB",
+  "websites": [
+   "https://bubb.fun"
+  ]
+ },
+ {
   "address": "0:589d4ac897006b5aaa7fae5f95c5e481bd34765664df0b831a9d0eb9ee7fc150",
   "description": "Utility token for Telegram toolset",
   "image": "https://cdn.joincommunity.xyz/build/build_logo.png",
