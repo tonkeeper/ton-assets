@@ -581,6 +581,7 @@ Name           | Address
 [Mintless Points](https://tonviewer.com/0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832) | EQD6Z9DHc5Mx-8PI8I4BjGX0d2NhapaRAK12CgstweNoMint
 [Mistress](https://tonviewer.com/0:77a1e6819c862a15b907a6164c9c2b4e3b7eccb9de5bdcd49d2f43c062482bdd) | EQB3oeaBnIYqFbkHphZMnCtOO37Mud5b3NSdL0PAYkgr3Xur
 [MonkeyRush](https://tonviewer.com/0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3) | EQB-P4kptZYjVGOTMhTgwVtt1uH_R9SFlymxc0JqpcAXsxf5
+[Monster Fight](https://tonviewer.com/0:11e38e6a782788fd80d7231b6bf0650bf1bc103f8536bb2057ff4d88da942fea) | EQAR445qeCeI_YDXIxtr8GUL8bwQP4U2uyBX_02I2pQv6t2O
 [Morfey](https://tonviewer.com/0:7ae10db5f371fd5eab2b47d87ab55f37027465157f3a30959108c425b20414db) | EQB64Q2183H9XqsrR9h6tV83AnRlFX86MJWRCMQlsgQU2-yv
 [Mr. MeMe](https://tonviewer.com/0:ef2d322b96fb09cd51113037f1fbae0afe286df1d7a3aff38563b11af99e661a) | EQDvLTIrlvsJzVERMDfx-64K_iht8dejr_OFY7Ea-Z5mGqrF
 [MrKrabs](https://tonviewer.com/0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862) | EQAaV7Q9M0vrO5HfKrPNnQneXB-S9RyBneMNeX4KzECIYrdk
