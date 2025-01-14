@@ -4156,6 +4156,14 @@
   "symbol": "WOOD"
  },
  {
+  "address": "0:4ac9638e157949a7360ef1ee38246eae7fa2f7bf86d86db0419ca8fd387c015e",
+  "name": "WOOF",
+  "social": [
+   "https://t.me/lostdogscoeng"
+  ],
+  "symbol": "WOOF"
+ },
+ {
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
