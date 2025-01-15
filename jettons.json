@@ -4164,6 +4164,21 @@
   "symbol": "WOOF"
  },
  {
+  "address": "0:f0a45cc7c499bb7a451c9a372f7e809afd78a48201db9fcc25a6e0217a245f49",
+  "decimals": 9,
+  "description": "Get ready for the ultimate PvP i-Gaming experience built on the TON Blockchain.",
+  "image": "https://blockchain-service.s3.ap-southeast-1.amazonaws.com/wolf-fun/images/woofy-token.png",
+  "name": "Wolf Fun",
+  "social": [
+   "https://t.me/wolf_fun_ton",
+   "https://t.me/wolfdotfun_bot"
+  ],
+  "symbol": "WOOFY",
+  "websites": [
+   "https://wolf.fun"
+  ]
+ },
+ {
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"

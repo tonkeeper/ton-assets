@@ -1020,6 +1020,7 @@ Name           | Address
 [Whiskers](https://tonviewer.com/0:8e6e1e3e65a8213af6bcb82cff00c327be27ccdcf4be129a542442505d79e53f) | EQCObh4-ZaghOva8uCz_AMMnvifM3PS-EppUJEJQXXnlP0zX
 [Wisdomise](https://tonviewer.com/0:1716717f0863c85c3e41e7a0be5cf1324c02623780b5848d3e2631b94ae73ac3) | EQAXFnF_CGPIXD5B56C-XPEyTAJiN4C1hI0-JjG5Suc6wzDA
 [Wojak on TON](https://tonviewer.com/0:3b71f70f0a9161da8dd91fa124c41724fd275b2c7fec70011b1d72b16a695f4a) | EQA7cfcPCpFh2o3ZH6EkxBck_SdbLH_scAEbHXKxamlfSvGH
+[Wolf Fun](https://tonviewer.com/0:f0a45cc7c499bb7a451c9a372f7e809afd78a48201db9fcc25a6e0217a245f49) | EQDwpFzHxJm7ekUcmjcvfoCa_XikggHbn8wlpuAheiRfSSm8
 [Wonnie](https://tonviewer.com/0:e68ff8bb54c5ecb7317d7538103323cacaf408ca7603d0a27ba48f2fd4b538d3) | EQDmj_i7VMXstzF9dTgQMyPKyvQIynYD0KJ7pI8v1LU400Rh
 [Wrapped NANO](https://tonviewer.com/0:8e1a9d46015939d69ad5070e433bc40dde528895424a8d76d9725e5a5e02f986) | EQCOGp1GAVk51prVBw5DO8QN3lKIlUJKjXbZcl5aXgL5hkwy
 [Wrapped TON](https://tonviewer.com/0:4f0156ba7e3322831b271c5df7510ddabae7d5ae0d99f250594d8f51fa2b1f8c) | EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr
