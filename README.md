@@ -462,6 +462,7 @@ Name           | Address
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
 [LAMBO](https://tonviewer.com/0:c4d623eb3fcd0bd7b473907dd896e5ec11c9f98be6cf15fb9edb9f6e30a28513) | EQDE1iPrP80L17RzkH3YluXsEcn5i-bPFfue259uMKKFE3h0
 [LEMONIA](https://tonviewer.com/0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3) | EQC8cPrQx6Qsi-NHMcC1PpRmtaieCiUBcb-d095q6ENUs7XT
+[LIGHT](https://tonviewer.com/0:1dce4ea36852dd2ca85d6bd939edc177203d4c584ec364650ff8acf792591baa) | EQAdzk6jaFLdLKhda9k57cF3ID1MWE7DZGUP-Kz3klkbqvcD
 [LIQ staked on JVault.xyz](https://tonviewer.com/0:000141d19ed005d9db0af5a34a45e16f0591a0b9059c008ce413a896c9c6ffda) | EQAAAUHRntAF2dsK9aNKReFvBZGguQWcAIzkE6iWycb_2mpp
 [LIQ staked on JVault.xyz](https://tonviewer.com/0:26ac02a6cb6227959161d42117c8f4f7bec59ab249cfa48587e7778253109af3) | EQAmrAKmy2InlZFh1CEXyPT3vsWasknPpIWH53eCUxCa8xkk
 [LIQ staked on JVault.xyz](https://tonviewer.com/0:c99303c017d06e494864b1df9923f7b5523204d937aa97151d1489e84a9576f3) | EQDJkwPAF9BuSUhksd-ZI_e1UjIE2TeqlxUdFInoSpV28xN_
