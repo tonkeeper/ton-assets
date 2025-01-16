@@ -232,6 +232,9 @@
 - address: 0:bbf45aa71c685aa8fb2513aff598c21c72e1843fb203184cb61cb72b9681bc3c
   name: Crypto Kings
   symbol: CK
+- address: 0:7ebdcd3483d3de5162e9b52007e20d49e64612ed64e0b5511f848ea829d42d46
+  name: Clayton
+  symbol: CLAY
 - address: 0:18043b8b74bae30ca47549467ad19b8bb92cc70c8a04dbacd9131b81fdb8e21b
   name: TON Click
   symbol: CLICK
