@@ -944,6 +944,19 @@
   ]
  },
  {
+  "address": "0:7f13ec43e11bc7a8707e6ea09f06e5a19e3f2581810537d7b2999ac2d9833151",
+  "description": "The token that took 1 place in the BlumMemePad Best Token Competition. $DARK is a next-generation token offering access to exclusive channels and events.",
+  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/dark.JPG",
+  "name": "Dark",
+  "social": [
+   "https://t.me/darkmemtoken"
+  ],
+  "symbol": "DARK",
+  "websites": [
+   "https://x.com/coindark7"
+  ]
+ },
+ {
   "address": "0:2dff2a6a0690c0f8be1f3b1517a771ffa66f4cbc6d3545efd3aee2dc5c1684f9",
   "description": "A token for data enthusiasts",
   "image": "https://vahidbaghi.ir/hobby/dataphile.png",
