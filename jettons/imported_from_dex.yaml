@@ -1328,6 +1328,9 @@
 - address: 0:e68ff8bb54c5ecb7317d7538103323cacaf408ca7603d0a27ba48f2fd4b538d3
   name: Wonnie
   symbol: WON
+- address: 0:4ac9638e157949a7360ef1ee38246eae7fa2f7bf86d86db0419ca8fd387c015e
+  name: WOOF
+  symbol: WOOF
 - address: 0:c055e4f32616921d529f7912f2b4c990ea713c0b965173e932ffcd53850d8016
   name: woosh
   symbol: WOOSH
