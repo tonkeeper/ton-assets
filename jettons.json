@@ -1792,6 +1792,20 @@
   "symbol": "HEDGE"
  },
  {
+  "address": "0:116d552a66cb7f6ba5d530e8217e2fb9d2a827b39fce43c967bd9c5af40a4d40",
+  "description": "It's just a $HEX token, probably needed for something.",
+  "image": "https://cdn.hexcube.io/jettons/EQARbVUqZst_a6XVMOghfi-50qgns5_OQ8lnvZxa9ApNQCET/hex.png",
+  "name": "HexCube",
+  "social": [
+   "https://t.me/hexcube",
+   "https://x.com/thehexcube"
+  ],
+  "symbol": "HEX",
+  "websites": [
+   "https://hexcube.io"
+  ]
+ },
+ {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
   "decimals": 9,
   "name": "Hamster Kombat",
