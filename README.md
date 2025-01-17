@@ -584,6 +584,7 @@ Name           | Address
 [MonkeyRush](https://tonviewer.com/0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3) | EQB-P4kptZYjVGOTMhTgwVtt1uH_R9SFlymxc0JqpcAXsxf5
 [Monster Fight](https://tonviewer.com/0:11e38e6a782788fd80d7231b6bf0650bf1bc103f8536bb2057ff4d88da942fea) | EQAR445qeCeI_YDXIxtr8GUL8bwQP4U2uyBX_02I2pQv6t2O
 [Morfey](https://tonviewer.com/0:7ae10db5f371fd5eab2b47d87ab55f37027465157f3a30959108c425b20414db) | EQB64Q2183H9XqsrR9h6tV83AnRlFX86MJWRCMQlsgQU2-yv
+[Mortal Klicker](https://tonviewer.com/0:2683b078ca4f47d1b95ce19e5c958fa4f456c7cf25335b3cc10f45615efbfad2) | EQAmg7B4yk9H0blc4Z5clY-k9FbHzyUzWzzBD0VhXvv60uP_
 [Mr. MeMe](https://tonviewer.com/0:ef2d322b96fb09cd51113037f1fbae0afe286df1d7a3aff38563b11af99e661a) | EQDvLTIrlvsJzVERMDfx-64K_iht8dejr_OFY7Ea-Z5mGqrF
 [MrKrabs](https://tonviewer.com/0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862) | EQAaV7Q9M0vrO5HfKrPNnQneXB-S9RyBneMNeX4KzECIYrdk
 [Mumba](https://tonviewer.com/0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7) | EQCXIHAWDAJEJhMiNVqeUvp3I6O7y_P2sD80zEsJXeUi56mb
