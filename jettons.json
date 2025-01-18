@@ -3143,6 +3143,20 @@
   ]
  },
  {
+  "address": "0:054f335e1dcc81c0ef083efbcea62e95fe7e01e8ee4fe6478bab6c44e2cf23f7",
+  "description": "The core of the Saiyan ecosystem, used for upgrades and purchases in-game. Listed on DEX, $SAIYAN is essential for unlocking progress and maximizing rewards!",
+  "image": "https://cdn.saiyan.gg/saiyan.webp",
+  "name": "Saiyan",
+  "social": [
+   "https://x.com/Saiyan_P2E",
+   "https://t.me/saiyanzeni"
+  ],
+  "symbol": "SAIYAN",
+  "websites": [
+   "https://saiyan.gg/"
+  ]
+ },
+ {
   "address": "0:8ddbb8429c234147a826dc4a1ac48c78cd3b6fedf2c612b5740e8cdd7b3ace54",
   "description": "SHEGLOV \u0441\u0435\u0433\u043e\u0434\u043d\u044f - \u0434\u043e\u0440\u043e\u0436\u0435, \u0447\u0435\u043c \u0432\u0447\u0435\u0440\u0430",
   "image": "https://i.ibb.co/6DRdMV1/IMG-7594.png",
