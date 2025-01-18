@@ -1792,6 +1792,20 @@
   "symbol": "HEDGE"
  },
  {
+  "address": "0:116d552a66cb7f6ba5d530e8217e2fb9d2a827b39fce43c967bd9c5af40a4d40",
+  "description": "It's just a $HEX token, probably needed for something.",
+  "image": "https://cdn.hexcube.io/jettons/EQARbVUqZst_a6XVMOghfi-50qgns5_OQ8lnvZxa9ApNQCET/hex.png",
+  "name": "HexCube",
+  "social": [
+   "https://t.me/hexcube",
+   "https://x.com/thehexcube"
+  ],
+  "symbol": "HEX",
+  "websites": [
+   "https://hexcube.io"
+  ]
+ },
+ {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
   "decimals": 9,
   "name": "Hamster Kombat",
@@ -2404,6 +2418,25 @@
   "symbol": "MNDRN",
   "websites": [
    "https://mndrn.xyz"
+  ]
+ },
+ {
+  "address": "0:2683b078ca4f47d1b95ce19e5c958fa4f456c7cf25335b3cc10f45615efbfad2",
+  "description": "Mortal Klicker is a Telegram-based GameFi app featuring PvP battles and farming, rewarding players with $MOKL tokens on the TON blockchain.",
+  "image": "https://mokl.io/MOKL256.png",
+  "name": "Mortal Klicker",
+  "social": [
+   "https://t.me/moklgamefi",
+   "https://x.com/moklgamefi",
+   "https://www.instagram.com/moklgamefi/",
+   "https://www.tiktok.com/@moklgamefi",
+   "https://www.youtube.com/@moklgamefi"
+  ],
+  "symbol": "MOKL",
+  "websites": [
+   "https://mokl.io/",
+   "https://t.me/mokl_io_bot?start",
+   "https://t.me/mokl_miner_bot?start"
   ]
  },
  {
@@ -3107,6 +3140,20 @@
   "symbol": "SAFET",
   "websites": [
    "https://safemoonton.com"
+  ]
+ },
+ {
+  "address": "0:054f335e1dcc81c0ef083efbcea62e95fe7e01e8ee4fe6478bab6c44e2cf23f7",
+  "description": "The core of the Saiyan ecosystem, used for upgrades and purchases in-game. Listed on DEX, $SAIYAN is essential for unlocking progress and maximizing rewards!",
+  "image": "https://cdn.saiyan.gg/saiyan.webp",
+  "name": "Saiyan",
+  "social": [
+   "https://x.com/Saiyan_P2E",
+   "https://t.me/saiyanzeni"
+  ],
+  "symbol": "SAIYAN",
+  "websites": [
+   "https://saiyan.gg/"
   ]
  },
  {
