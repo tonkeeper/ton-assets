@@ -1,0 +1,10 @@
+name: test
+description: test
+image: "https://test.xyz/logo.jpg"
+address: EQDbKihXMZuNfl7m7VcNrHIyYYYgCFPhccIqNN_ocNn-Test
+symbol: test
+websites:
+  - "https://test.xyz"
+social:
+  - "https://t.me/test"
+  - "https://x.com/test"
