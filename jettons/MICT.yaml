@@ -1,0 +1,7 @@
+name: MicroCredit
+description: Digital micro-credit token.
+image: "https://raw.githubusercontent.com/micredit/MicroCreditWeb/refs/heads/main/mict-tech-logo.png"
+address: EQDTtusdnxjU7O5qyZyPMNBhxb96cZ69_5x17KaovygF2KLr
+symbol: MICT
+websites:
+  - "https://micredit.io"
