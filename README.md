@@ -985,6 +985,7 @@ Name           | Address
 [Ultron](https://tonviewer.com/0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430) | EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT
 [Us Usach](https://tonviewer.com/0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024) | EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
+[VERT](https://tonviewer.com/0:df8257eb7f43acdfc70a3c768e2aa41e9c9a65b36b3471ecbc69c4058cf0bf54) | EQDfglfrf0Os38cKPHaOKqQenJpls2s0cey8acQFjPC_VERT
 [VIP Coin](https://tonviewer.com/0:f49a2c6d7edc3be8551c574365d2842608f6c9f3a0d42c635be360353cec590a) | EQD0mixtftw76FUcV0Nl0oQmCPbJ86DULGNb42A1POxZCk3U
 [VISHNYA](https://tonviewer.com/0:832092854dfe50a168a2ebefca4e4f1ba3a78a891fba864e47510c22c427bc49) | EQCDIJKFTf5QoWii6-_KTk8bo6eKiR-6hk5HUQwixCe8SW-I
 [VLODMER SMERKS](https://tonviewer.com/0:21010f117449c3af9d8b0a9c2d07eed341cc5d0b95bb6d2de8c79f8a4a35705e) | EQAhAQ8RdEnDr52LCpwtB-7TQcxdC5W7bS3ox5-KSjVwXlOJ
