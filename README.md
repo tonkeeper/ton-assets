@@ -336,6 +336,7 @@ Name           | Address
 [EXTON COIN](https://tonviewer.com/0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a) | EQC-A0ZHiAliPJ6LYQQZ6x2WRJC0aHEmJ_OMG6pidb5ASpIY
 [EggsWisdom](https://tonviewer.com/0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b) | EQDCAjHxgyScUPS-Am_2nAH7C5XWM4fc2X9dVyWpFgHXG2rT
 [Elchanin](https://tonviewer.com/0:a2ada5d0ac74fc18fa02641a20e78f894a87aa2578a560ed5578e88d06f6015b) | EQCiraXQrHT8GPoCZBog54-JSoeqJXilYO1VeOiNBvYBW1Kv
+[Elefant Mine](https://tonviewer.com/0:3980dbc181e7cd275d70dc7b83d551cf36fb722ce51cd6895fe0a04b3e6c5e6d) | EQA5gNvBgefNJ11w3HuD1VHPNvtyLOUc1olf4KBLPmxebeQf
 [Energy Cells](https://tonviewer.com/0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a) | EQDA6v7olSvZCEr2yNhUlM4eBnRF11lsHLrtkkh7MSMICt4r
 [Engage ADS on Ton Open Network](https://tonviewer.com/0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896) | EQDE2iOVhvteBA8bCxywcmCOPVxJGltPhft8RYDTXiv4lmvM
 [Epidemy](https://tonviewer.com/0:bbcc4d8155c2e2c9b04cb90d6088e3d898ee098bcf09d76afb76ea8c2563ad17) | EQC7zE2BVcLiybBMuQ1giOPYmO4Ji88J12r7duqMJWOtFxtr

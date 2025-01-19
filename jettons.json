@@ -1355,6 +1355,20 @@
   "symbol": "ENRG"
  },
  {
+  "address": "0:3980dbc181e7cd275d70dc7b83d551cf36fb722ce51cd6895fe0a04b3e6c5e6d",
+  "description": "Native ElefantMine game utility token.",
+  "image": "https://prod.elefantmine.io/icons/dollar.svg",
+  "name": "Elefant Mine",
+  "social": [
+   "https://t.me/fantannouncements"
+  ],
+  "symbol": "FANT",
+  "websites": [
+   "https://elefantmine.com/",
+   "https://elefantmine.io/"
+  ]
+ },
+ {
   "address": "0:dd3dfe7f338e77aa06028c6d28d48d52abf252eaa097517f9391a4cd4641fe1c",
   "description": "Fly Beyond Limits! || finchcoin.org",
   "image": "https://finchcoin.org/finchlogo_300.jpg",
