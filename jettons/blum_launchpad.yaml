@@ -57,3 +57,7 @@
 - symbol: LUKO
   name: lukocoin
   address: "EQDN0PsBNn8lJphJE2ApQxbXeU5C-wi-KfCdQds8J5YEsAtY"
+  
+- symbol: BOYARE
+  name: BoyreCoin
+  address: "EQDtOG_p2Y6MWTgI6D2mm159IUZa-ROf750c9GKp6fzHYCzQ"
