@@ -1,0 +1,7 @@
+name: TestJeton
+image: "https://d8bddedf-ac40-4488-8101-05035bb63d25.selstorage.ru/BlackLogo.png"
+description: TestNet jetton
+address: "kQAUG5mCkCANPCwEkRdJoT_ZNVNu-GYxBqpmDd9zlSzTQfxe"
+symbol: TEST
+social:
+  - "link_test"
