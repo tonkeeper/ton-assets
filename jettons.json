@@ -4380,6 +4380,11 @@
   "symbol": "LUKO"
  },
  {
+  "address": "0:ed386fe9d98e8c593808e83da69b5e7d21465af9139fef9d1cf462a9e9fcc760",
+  "name": "BoyreCoin",
+  "symbol": "BOYARE"
+ },
+ {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
   "decimals": 6,
   "description": "USDC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",

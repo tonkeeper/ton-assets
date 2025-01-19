@@ -212,6 +212,7 @@ Name           | Address
 [Boom](https://tonviewer.com/0:a91689cc1452c10b77094a89823d69d5263cf2c52100f75508b339c7b1c6dfc5) | EQCpFonMFFLBC3cJSomCPWnVJjzyxSEA91UIsznHscbfxZwX
 [Bos Pump](https://tonviewer.com/0:f197e7a28ba55840420933413608da754a16c6a7c016a7ef987f2936951661be) | EQDxl-eii6VYQEIJM0E2CNp1ShbGp8AWp--Yfyk2lRZhvut2
 [Botfather](https://tonviewer.com/0:609599c3e670a5202dd086acacb3a327e53824f4dcca91af4c9c1a5f2565f27b) | EQBglZnD5nClIC3Qhqyss6Mn5Tgk9NzKka9MnBpfJWXye9p4
+[BoyreCoin](https://tonviewer.com/0:ed386fe9d98e8c593808e83da69b5e7d21465af9139fef9d1cf462a9e9fcc760) | EQDtOG_p2Y6MWTgI6D2mm159IUZa-ROf750c9GKp6fzHYCzQ
 [Boys Club](https://tonviewer.com/0:2d62f45d3f29bf54fe372424e169fcd38631b3f0e55b1a7cbfc1359a69e97aef) | EQAtYvRdPym_VP43JCThafzThjGz8OVbGny_wTWaael671Uq
 [Brett](https://tonviewer.com/0:2799a9c935f3b4ec41d902c1e875ee00cb10856e88a86c5d7e634e10ed41bdb2) | EQAnmanJNfO07EHZAsHode4AyxCFboiobF1-Y04Q7UG9sinZ
 [Bubb Ai Agent](https://tonviewer.com/0:165365ccbfd5663e63ab68b9920929f25ca8f4a6ac5f77255ed510f36ed5eee1) | EQAWU2XMv9VmPmOraLmSCSnyXKj0pqxfdyVe1RDzbtXu4X38
