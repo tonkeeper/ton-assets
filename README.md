@@ -105,6 +105,7 @@ Name           | Address
 [AIMLAB](https://tonviewer.com/0:5c666687bb64397bdac614c9ed9bef14d6cecef88576cc3a23d27689d3695b36) | EQBcZmaHu2Q5e9rGFMntm-8U1s7O-IV2zDoj0naJ02lbNnlC
 [AIYA PowerCell](https://tonviewer.com/0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a) | EQAzBy-W8GJjUPfU-8eV0Jz56Jc5dIvvP-qznHKQhlqzGkoZ
 [AKA Liberty](https://tonviewer.com/0:600a90c9561d69a04412e40a50d3283f2bf27c482f6975a3279703e4ee18d50a) | EQBgCpDJVh1poEQS5ApQ0yg_K_J8SC9pdaMnlwPk7hjVClMQ
+[ALEN](https://tonviewer.com/0:1839b48012e9db145c69242f4e1d29ba3cc94135b367b3b2af72e451b8407c6c) | EQAYObSAEunbFFxpJC9OHSm6PMlBNbNns7KvcuRRuEB8bIQI
 [ALENKA](https://tonviewer.com/0:982d6dae5f23220887d06b0ca9d856e693c0ea0e13266237bd708354e3a220ac) | EQCYLW2uXyMiCIfQawyp2Fbmk8DqDhMmYje9cINU46IgrEEu
 [ALL](https://tonviewer.com/0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d) | EQDlnVo-6abJzyHlU8uB7pRjE7OIKt4HTTDPG4hfwOf5jTPg
 [ALS](https://tonviewer.com/0:f161633e38fc103e29c2c2935caad775dafc738794248947bf92aedcf02864b6) | EQDxYWM-OPwQPinCwpNcqtd12vxzh5QkiUe_kq7c8ChktutE
