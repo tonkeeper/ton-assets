@@ -1,0 +1,16 @@
+name: "Voxel"
+description: "Interface design for Degrees° by 575"
+
+links:
+  channel:
+    - "https://degrees.t.me"
+    - "https://prodegrees.t.me"
+  community: "https://degreeston.t.me"
+  bot: "https://prodegreesbot.t.me"
+
+image: "https://raw.githubusercontent.com/msilenkov/ONE/165106f30eea913041f5020e06c2f9e1330eb673/voxel.svg"
+address: "0:c8e05547afc9603fb63f9a0da066d010c1155dd0b645d7a55ed97b49faa08f87"
+social:
+  - "https://degrees.t.me"
+  - "https://prodegrees.t.me"
+  - "https://degreeston.t.me"
