@@ -1,1 +1,12 @@
-
+name: Spark
+description: Spark is the TON token of the Lightning Miner App, you can mine SPK owning a TON NFT miner
+image: "https://bronze-adjacent-dove-648.mypinata.cloud/ipfs/bafkreihfrdrjy3acnsny7xpfvp24v5zj4fsj4k34pubbhcjuphtwbm4r6y"
+address: EQCQ6xeD2iILqqDzWy5kvzFcTPY4bioO8Auf5dVioQWvduNF
+symbol: SPK
+websites:
+  - "https://lightning-miner.com"
+social:
+  - "https://t.me/lbtcminer"
+  - "https://x.com/Lbtcminer"
+  - "https://www.tiktok.com/@lbtcminer"
+  - "https://medium.com/@lbtcminer"
