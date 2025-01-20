@@ -1,0 +1,13 @@
+name: notdoni
+image: "https://www.notdoni.com/landing/app/img/0928c493-3d3b-47a4-a5c7-be681466bb4e.png"
+description: Notdoni is a blockchain-based token built on the TON network, designed to simplify transactions on the Notdoni platform. With Notdoni, users can facilitate in-app payments and streamline royalty distribution for musicians. This token empowers artists by ensuring secure, efficient, and transparent payment methods, ultimately supporting the music industry and its creators.
+address: "EQDTq3x6MlVQbkLe-6pMkuVQlJDsHlyvOa4IjG3ni85wXuRu"
+symbol: NOTD
+websites:
+  - "https://api.notdoni.com/notd.html"
+social:
+  - "https://facebook.com/@notdoni/"
+  - "https://x.com/notdoni"
+  - "https://www.linkedin.com/company/notdoni"
+  - "https://youtube.com/@notdoni"
+  - "https://t.me/notdoni"
