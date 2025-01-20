@@ -87,6 +87,7 @@ Name           | Address
 [AI Coin](https://tonviewer.com/0:48cef1de34697508200b8026bf882f8e88aff894586cfd304ab513633fa7e2d3) | EQBIzvHeNGl1CCALgCa_iC-OiK_4lFhs_TBKtRNjP6fi0024
 [AIMLAB](https://tonviewer.com/0:5c666687bb64397bdac614c9ed9bef14d6cecef88576cc3a23d27689d3695b36) | EQBcZmaHu2Q5e9rGFMntm-8U1s7O-IV2zDoj0naJ02lbNnlC
 [AIYA PowerCell](https://tonviewer.com/0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a) | EQAzBy-W8GJjUPfU-8eV0Jz56Jc5dIvvP-qznHKQhlqzGkoZ
+[ALEN](https://tonviewer.com/0:1839b48012e9db145c69242f4e1d29ba3cc94135b367b3b2af72e451b8407c6c) | EQAYObSAEunbFFxpJC9OHSm6PMlBNbNns7KvcuRRuEB8bIQI
 [ALENKA](https://tonviewer.com/0:982d6dae5f23220887d06b0ca9d856e693c0ea0e13266237bd708354e3a220ac) | EQCYLW2uXyMiCIfQawyp2Fbmk8DqDhMmYje9cINU46IgrEEu
 [ALL](https://tonviewer.com/0:e59d5a3ee9a6c9cf21e553cb81ee946313b3882ade074d30cf1b885fc0e7f98d) | EQDlnVo-6abJzyHlU8uB7pRjE7OIKt4HTTDPG4hfwOf5jTPg
 [ALWIN AirDrop](https://tonviewer.com/0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0) | EQDN7LXx6C4TWB4qMoe1Z5O114rPw9Jar2-oOhWXRvrc4Nh3
