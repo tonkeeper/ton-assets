@@ -445,6 +445,9 @@
 - address: 0:573fe72f8bc8a87316789a8a14fd1cd3e8fef39d9a10d410c60b1a6e12fadccc
   name: Ryan Gosling
   symbol: GOSLING
+- address: 0:655a02a787fa9b1584d77ca8060103f193116c02b0ce4abf67940452cf276934
+  name: GOVNO
+  symbol: GOVNO
 - address: 0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51
   name: Goy Token
   symbol: GOY
@@ -667,6 +670,9 @@
 - address: 0:b27dd55b7f091c05f0529f9ec6467318fc144ee2f606ec79e45a7807e3514b33
   name: Making Money TON
   symbol: MMT
+- address: 0:2683b078ca4f47d1b95ce19e5c958fa4f456c7cf25335b3cc10f45615efbfad2
+  name: Mortal Klicker
+  symbol: MOKL
 - address: 0:11809f9a08f2323abe160dc90355c75740744f0234e304d6ada298914bd16750
   name: MOLOKO
   symbol: MOLOKO
@@ -961,6 +967,9 @@
 - address: 0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d
   name: Saintcoin
   symbol: SAINT
+- address: 0:054f335e1dcc81c0ef083efbcea62e95fe7e01e8ee4fe6478bab6c44e2cf23f7
+  name: Saiyan
+  symbol: SAIYAN
 - address: 0:882149bb76706099caee6c37c52d9579da87b517f1c574366231f7abf6b8a986
   name: SAKE
   symbol: SAKE
