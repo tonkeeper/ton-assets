@@ -637,6 +637,7 @@ Name           | Address
 [Only one token](https://tonviewer.com/0:d0da80734cee08b67f669aedd32f5bf94d488f4bd3ee008544ab5c4ca4b1de78) | EQDQ2oBzTO4Itn9mmu3TL1v5TUiPS9PuAIVEq1xMpLHeeEsI
 [OnlyX](https://tonviewer.com/0:4cb09038d90dadb71c114a0af21cc4fabd8a6f910d9513ed691e4310beaed535) | EQBMsJA42Q2ttxwRSgryHMT6vYpvkQ2VE-1pHkMQvq7VNXUU
 [OpenCoin](https://tonviewer.com/0:dff38153f2d74765e236f8b5dd6fc80f311a87452001ae68bc8c8ecccef56918) | EQDf84FT8tdHZeI2-LXdb8gPMRqHRSABrmi8jI7MzvVpGJKZ
+[OptimusX](https://tonviewer.com/0:813d37e084bfbf2ac9a70122c548031529363c95ea69daa6f9adae25e17b01c1) | EQCBPTfghL-_KsmnASLFSAMVKTY8lepp2qb5ra4l4XsBwYKM
 [Orbit Bridge Ton Azit](https://tonviewer.com/0:a6ce54a0448f0615526b191a9ac68fa3bd3a3bdb5d6dc086f404fe26e22299da) | EQCmzlSgRI8GFVJrGRqaxo-jvTo7211twIb0BP4m4iKZ2hmR
 [Orbit Bridge Ton Dai](https://tonviewer.com/0:005f01f471a8cfb0c17e9cd0b9933f9268b69e683af833b4357e85703ffbce5b) | EQAAXwH0cajPsMF-nNC5kz-SaLaeaDr4M7Q1foVwP_vOW1tR
 [Orbit Bridge Ton Ethereum](https://tonviewer.com/0:16e361eeb720de9bdf017b57f6ecfa17a1b82187cd6e99343e70681a2959912d) | EQAW42HutyDem98Be1f27PoXobghh81umTQ-cGgaKVmRLS7-
