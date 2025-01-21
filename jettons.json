@@ -2926,6 +2926,19 @@
   ]
  },
  {
+  "address": "0:d7c5881c63b548f7bbaa0676ef1e117110729772f2fd02c58ef6fa8488765643",
+  "description": "Q2N is the official token of the Qunest ecosystem",
+  "image": "https://qunest.com/logoTON.png",
+  "name": "Q2N AI",
+  "social": [
+   "https://t.me/q2nai"
+  ],
+  "symbol": "Q2N",
+  "websites": [
+   "https://q2n.ai"
+  ]
+ },
+ {
   "address": "0:f6a6ba4d05f0916b47d9a521c9be9bea153ee15bc4b0eae85cc468262005a280",
   "decimals": 9,
   "description": "QUESTPL is the utility token for Pleasure Quest, a gamified ecosystem on The Open Network that combines NFT characters, task-based rewards, and a multi-level referral system. It powers in-app transactions, rewards, and ecosystem governance.",
