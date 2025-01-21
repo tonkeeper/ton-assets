@@ -357,3 +357,6 @@
   name: "TEC Pay"
   require_memo: true
   image: "https://cdn.tonexpert.club/logo_solid.svg"
+- address: "UQAmcQ2JaplJ90fOtDvd9BuNWhJzM6tT8gn7MLjEV40RzV3m"
+  name: "Pie Trading Platform"
+  require_memo: true
