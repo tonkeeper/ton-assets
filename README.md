@@ -906,6 +906,7 @@ Name           | Address
 [TOWER](https://tonviewer.com/0:b8ed87d52d6a3e53fcfbb3a8843a4600004285fc2d3e801881f0a24beace66e0) | EQC47YfVLWo-U_z7s6iEOkYAAEKF_C0-gBiB8KJL6s5m4JOP
 [TPLANT](https://tonviewer.com/0:0406101449227f36a6093b75913640543297c07fb86777d5fb5818594aa2dac5) | EQAEBhAUSSJ_NqYJO3WRNkBUMpfAf7hnd9X7WBhZSqLaxYko
 [TRANSPARENT](https://tonviewer.com/0:2be8556a41f92d2ac8e10e1b64fac4278d7b0e8de8697fa5abfd33e8cc66d6e0) | EQAr6FVqQfktKsjhDhtk-sQnjXsOjehpf6Wr_TPozGbW4Dhx
+[TRUMP LEGACY TOKEN](https://tonviewer.com/0:9f38c0f48b4647416af3a56ef4358a2aa03c4d86ac0c4f27e1a60cd395568c1e) | EQCfOMD0i0ZHQWrzpW70NYoqoDxNhqwMTyfhpgzTlVaMHjfA
 [TVM](https://tonviewer.com/0:2198385630a13f7995f494ede6c7925241cf96d8ef88950ec16972cc8a8c9e13) | EQAhmDhWMKE_eZX0lO3mx5JSQc-W2O-IlQ7BaXLMioyeEzT1
 [TYIELD](https://tonviewer.com/0:10b20774fe688788407d2cba0f8fad9cf94eabfbe5f8a5801134c7ac9769d805) | EQAQsgd0_miHiEB9LLoPj62c-U6r--X4pYARNMesl2nYBRsE
 [TapOk](https://tonviewer.com/0:ad7e1ca61254be4aa97d52e23766f3a619b2b54fca6c150ca1d81746022ae6a8) | EQCtfhymElS-Sql9UuI3ZvOmGbK1T8psFQyh2BdGAirmqJ21
