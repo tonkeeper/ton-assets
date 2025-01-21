@@ -1013,6 +1013,20 @@
   "symbol": "DILS"
  },
  {
+  "address": "0:2aef4e8ca3f264faef3941d63274b7c9ac253fe11b3461cb35cd41c7cdf28588",
+  "description": "DLT, the Demo Lumia Token, is the core utility token of Lumia App, a GameFi project focused on RWA tokenization. It enables staking, progression, and NFT interactions, serving as a key element in the transition to an L1 RWA blockchain filled with real-world assets.",
+  "image": "https://lumia.network/img/dlt.svg",
+  "name": "Demo Lumia Token",
+  "social": [
+   "https://t.me/LumiaAppBot",
+   "https://t.me/lumia"
+  ],
+  "symbol": "DLT",
+  "websites": [
+   "https://lumia.network/"
+  ]
+ },
+ {
   "address": "0:d8c1728e2cb4488b2999f45a19a311a0d376dec1450d3e9a1835edcea85ccd63",
   "description": "DODU Ton is a meme coin with ecosystem. The idea behind this meme token is to elect Donald Duck as the President of all meme coins launched on the TON network.",
   "image": "https://i.postimg.cc/1zX1cFLt/photo-2024-04-11-12-33-59.jpg",

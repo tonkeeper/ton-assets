@@ -305,6 +305,7 @@ Name           | Address
 [DeDust](https://tonviewer.com/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
 [DeFinder Capital](https://tonviewer.com/0:f6eb371de82aa9cfb5b22ca547f31fdc0fa0fbb41ae89ba84a73272ff0bf2157) | EQD26zcd6Cqpz7WyLKVH8x_cD6D7tBrom6hKcycv8L8hV0GP
 [Deathdedecoin](https://tonviewer.com/0:c7bfaa5cb0aff5cd6b893085a207073325728f5ec875ee3d6508fb6ddeb5f2c4) | EQDHv6pcsK_1zWuJMIWiBwczJXKPXsh17j1lCPtt3rXyxFQW
+[Demo Lumia Token](https://tonviewer.com/0:2aef4e8ca3f264faef3941d63274b7c9ac253fe11b3461cb35cd41c7cdf28588) | EQAq706Mo_Jk-u85QdYydLfJrCU_4Rs0Ycs1zUHHzfKFiK2a
 [Democratic Digital Shekels](https://tonviewer.com/0:31fdc0185b4369cf458bf2709024632d41741db626c2a8ca141818935ccfe664) | EQAx_cAYW0Npz0WL8nCQJGMtQXQdtibCqMoUGBiTXM_mZLlv
 [DexCoyote Legends](https://tonviewer.com/0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c) | EQArTcL5c1TlCoeLwTIRgHOMmebxMxnhSYnz65ttLRWBHL17
 [Diablo Gato](https://tonviewer.com/0:d6b91d65e446e218f7f6ffb54ad1d6af27a6e45f08b8493c7c55f68caab26477) | EQDWuR1l5EbiGPf2_7VK0davJ6bkXwi4STx8VfaMqrJkd0tm
