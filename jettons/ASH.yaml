@@ -1,0 +1,10 @@
+- name: ASH COIN
+  symbol: ASH
+  description: ASH SHOES
+  address: EQB2JS4Lecf_98vj3Y6GVSG-HVFAwt3_VtxM3WXVorgSZM0Y
+  image: "https://ashrussia.ru/custom/new/img/general/logo.svg"
+  websites:
+    - "https://ashrussia.ru"
+  social:
+    - "t.me/ashrussia"
+    - "https://www.instagram.com/ash_russia/"
