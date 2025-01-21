@@ -353,3 +353,7 @@
   name: "Wallet in Telegram"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAeuGnYTvbX-IaCvMIsZYgV6TN1ECAAhTUZJ7F0YTjjdBYx"
+  name: "TEC Pay"
+  require_memo: true
+  image: "https://cdn.tonexpert.club/logo.jpg"
