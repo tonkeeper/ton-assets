@@ -436,6 +436,9 @@
 - address: 0:573fe72f8bc8a87316789a8a14fd1cd3e8fef39d9a10d410c60b1a6e12fadccc
   name: Ryan Gosling
   symbol: GOSLING
+- address: 0:655a02a787fa9b1584d77ca8060103f193116c02b0ce4abf67940452cf276934
+  name: GOVNO
+  symbol: GOVNO
 - address: 0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51
   name: Goy Token
   symbol: GOY
