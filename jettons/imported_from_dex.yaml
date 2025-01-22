@@ -877,6 +877,9 @@
 - address: 0:7c4f5ca5ca4b340c51645140b629e165cd7326fb10e3befeb00c34572ebea34c
   name: PUGWIFJET
   symbol: PWJ
+- address: 0:78db4c90b19a1b19ccb45580df48a1e91b6410970fa3d5ffed3eed49e3cf08ff
+  name: Not Pixel
+  symbol: PX
 - address: 0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832
   name: Mintless Points
   symbol: Points
