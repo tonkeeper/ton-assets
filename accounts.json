@@ -851,6 +851,12 @@
   "require_memo": true
  },
  {
+  "address": "0:1eb869d84ef6d7f88682bcc22c658815e9337510200085351927b1746138e374",
+  "image": "https://cdn.tonexpert.club/logo_solid.svg",
+  "name": "TEC Pay",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
