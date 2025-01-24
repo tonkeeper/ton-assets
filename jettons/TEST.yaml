@@ -1,7 +1,0 @@
-name: TestJeton
-image: "https://raw.githubusercontent.com/sharp10n/test/refs/heads/main/ton_symbol.jpg"
-description: TestNet jetton
-address: "kQAUG5mCkCANPCwEkRdJoT_ZNVNu-GYxBqpmDd9zlSzTQfxe"
-symbol: TEST
-social:
-  - "link_test"
