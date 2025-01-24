@@ -1,7 +1,7 @@
 name: ONE VPN
 description: ONEVPN is blockchain based open source Virtual Private Network provider. ONE VPN provides one subscription for all open source vpn apps all over the world.
 image: "https://cache.tonapi.io/imgproxy/Zu5Oktcf-r-09NFLDEiRR4kYQ7YRB_gi0EElmDoSy9o/rs:fill:200:200:1/g:no/aHR0cHM6Ly9vcHRpbS50aWxkYWNkbi5jb20vdGlsZDMyNjYtMzQ2Mi00NDM2LWI5NjYtMzk2MzMzNjI2MzM3Ly0vcmVzaXplLzExMHgvLS9mb3JtYXQvd2VicC9sb2dvXzQucG5n.webp"
-address: 0:EQAEWwbfNIHnYzUVQdWa0fQMVLpJvjsctmy08z8JKxKGkhpx
+address: EQAEWwbfNIHnYzUVQdWa0fQMVLpJvjsctmy08z8JKxKGkhpx
 symbol: ONE
 websites:
   - "https://vpn-one.com"
