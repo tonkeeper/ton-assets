@@ -1,6 +1,6 @@
 [
  {
-  "address": "EQCsCWwWEHS0BaEhcwJ3ft3GEXoC0Xd1CJ3hgASj14-NVb_r",
+  "address": "0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55",
   "name": "Booli Reborn"
  },
  {
@@ -12,7 +12,18 @@
   ]
  },
  {
-  "address": "EQAR6-Ja1DjOqsJoFzpQtEvVjwvy6-wExE0nLV5-4rPY_SKN",
+  "address": "0:e8aabf23d68f2ea7fb0c7da85861a52c2bb3eb3c02c9880a5d1d331b3d0c0ecf",
+  "name": "FIVA Genesis Access Keys",
+  "social": [
+   "https://x.com/FivaProtocol",
+   "https://t.me/fiva_community"
+  ],
+  "websites": [
+   "https://www.thefiva.com"
+  ]
+ },
+ {
+  "address": "0:11ebe25ad438ceaac268173a50b44bd58f0bf2ebec04c44d272d5e7ee2b3d8fd",
   "description": "Make a new beginning with this collection of objects and pieces found on the World's map via the GLOBULA interface. The question is: what are you going to do with these?",
   "name": "GLOBULA",
   "social": [
@@ -29,7 +40,7 @@
   "name": "KZH"
  },
  {
-  "address": "EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS",
+  "address": "0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0",
   "description": "NFT Spaceship collection from MMPro BUMP team",
   "image": "https://ipfs.filebase.io/ipfs/QmYkdzwxiViJ3Ceqx3iXX6VTqGKkuhVqEecgiiF5nvJe7j",
   "name": "NFT Spaceship",
@@ -62,7 +73,7 @@
   ]
  },
  {
-  "address": "EQDVJADeL16Dv-alWpWFSgQrP-IqGjcNrJwQH65bXgBzKt8C",
+  "address": "0:d52400de2f5e83bfe6a55a95854a042b3fe22a1a370dac9c101fae5b5e00732a",
   "description": "BeeHarvest NFT is a unique and innovative collection within the AmberTON and BeeHarvest ecosystem, opening new horizons for project participants. This collection is based on utility NFTs that are not only aesthetically appealing but also provide tangible bonuses to their owners.\nEach NFT in the collection has unique attributes that increase the resource harvesting percentage in the game, giving you significant advantages. The collection features 10 levels of NFTs, and you have the opportunity to merge them to create more powerful NFTs with even greater capabilities.\nYou can obtain and use these NFTs completely free by following simple rules that can be found in the official project channels or directly in the game. Don't miss your chance to be part of this revolutionary project and multiply your resources with BeeHarvest NFT!",
   "image": "https://api.beeharvest.life/nft/file/game_nft_collection.jpg",
   "name": "Beeharvest",
@@ -92,8 +103,22 @@
   ]
  },
  {
-  "address": "EQD7eDxP_wLX18kr8uyYfs6srlgoNMfRbXNYM8dmMXT2vxwk",
+  "address": "0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf",
   "name": "CALLIGRAFUTURISM \u2014 24: Units"
+ },
+ {
+  "address": "0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94",
+  "description": "Collection with soulbound tokens confirming ownership of jettons locked in JVault Locker (actual version)",
+  "image": "https://jvault.xyz/static/images/lock_collection.png",
+  "name": "JVault locks",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://x.com/jvault_app"
+  ],
+  "websites": [
+   "https://jvault.xyz/locker"
+  ]
  },
  {
   "address": "0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058",
@@ -110,11 +135,11 @@
   ]
  },
  {
-  "address": "EQA-2g3g7Jj169mrA5PR49LjmIC1TIQfaGEcZ8UnDZYfsrno",
+  "address": "0:3eda0de0ec98f5ebd9ab0393d1e3d2e39880b54c841f68611c67c5270d961fb2",
   "name": "The Gateway"
  },
  {
-  "address": "EQDAicW4BJTBec7C_E1qaJDvem4BiKwmCzH9eIlvQi6DSRnb",
+  "address": "0:c089c5b80494c179cec2fc4d6a6890ef7a6e0188ac260b31fd78896f422e8349",
   "name": "Tonkeeper Adventure"
  },
  {
