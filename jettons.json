@@ -3657,6 +3657,20 @@
   ]
  },
  {
+  "address": "0:1ef72ed45e14e38451a1e14d7b3c29377e0aa36444601a75df70855b8bc6647d",
+  "description": "TADA is the utility token of Ta-da, a platform that organizes crowds to provide high-quality data to AI",
+  "image": "https://tada-production-static-files.s3.eu-west-3.amazonaws.com/logo.png",
+  "name": "Ta-da Token",
+  "social": [
+   "https://x.com/Ta_da_io",
+   "https://t.me/Ta_da_chat"
+  ],
+  "symbol": "TADA",
+  "websites": [
+   "https://ta-da.io"
+  ]
+ },
+ {
   "address": "0:7604e727930b08b23a9dfab6c09b86efaee9b7fcc24a312829f7be20efecc8a3",
   "description": "Ton Attack utilises a unique set of strategy cards which is comprised of major memes on the Ton Blockchain.   Use these cards to shill your favourite projects. You can also earn $TAX by playing/spending on the new mini app.  https://t.me/OfficialTonAttack",
   "image": "https://universal-1.github.io/images/ton-attack.webp",
