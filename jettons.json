@@ -473,6 +473,20 @@
   ]
  },
  {
+  "address": "0:616145dd7608f4b5e0f9be07779474f391d79263fc5e9ce331659e23e0e52a7b",
+  "description": "Blockchemy is a blockchain-powered Telegram mini-game that merges alchemy-themed crafting with a player-driven economy, centered around BLOMY, its main utility token. Players can explore hidden storylines, craft unique items, and trade collectible cards in a decentralized marketplace. By earning and utilizing BLOMY, players have a real opportunity to profit from their in-game activities, turning gameplay into a rewarding experience where creativity and strategy translate into tangible value.",
+  "image": "https://blockchemy.io/logo.png",
+  "name": "Blockchemy",
+  "social": [
+   "https://x.com/blockchemy",
+   "https://t.me/blockchemy"
+  ],
+  "symbol": "BLOMY",
+  "websites": [
+   "https://blockchemy.io"
+  ]
+ },
+ {
   "address": "0:37d2215ef1b742ed92b0f7891ecbc500db501ecb81435714364d60dc4136762e",
   "description": "BLOCKTUBE.TV COMMUNITY JETTON - %2 TRANSFER TAXATION APPLIES",
   "image": "https://blocktube.tv/wp-content/uploads/2024/11/blt_new_512px.png",
