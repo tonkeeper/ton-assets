@@ -357,3 +357,11 @@
   name: "TEC Pay"
   require_memo: true
   image: "https://cdn.tonexpert.club/logo_solid.svg"
+- address: "EQDSBBmlrRW95LkW1ky4izVORPqOKs92faWpLpcXsTKB13YZ"
+  name: "XT.COM"
+  require_memo: true
+  image: "https://s2.coinmarketcap.com/static/img/exchanges/64x64/525.png"
+- address: "UQBGR6jV86zPtXzEKceesBFfVMhEfdwluRqYO7kTsW1RR8-d"
+  name: "XT.COM"
+  require_memo: true
+  image: "https://s2.coinmarketcap.com/static/img/exchanges/64x64/525.png"
