@@ -208,6 +208,20 @@
   ]
  },
  {
+  "address": "0:19cd9ce105dacfc311554075a53076c363f78e9372de50faf4ed559d5f8074d7",
+  "description": "Just hold ARNI to receive TON Deployed from sTONks.",
+  "image": "https://static.tildacdn.com/tild3163-6438-4631-a534-373165636364/ARNI_Logo.png",
+  "name": "Arnold investment",
+  "social": [
+   "https://t.me/arnoldton",
+   "https://t.me/TonArnold"
+  ],
+  "symbol": "ARNI",
+  "websites": [
+   "https://arnold-arni.site/"
+  ]
+ },
+ {
   "address": "0:d612c57c643f371e1a4904b5ae07faf9e572f0342a59c1c068f9418db61709b5",
   "description": "100% RICH",
   "image": "https://kappa.lol/baXhR",
@@ -470,6 +484,20 @@
   "symbol": "BLC",
   "websites": [
    "https://bulcoin.ton.run/"
+  ]
+ },
+ {
+  "address": "0:616145dd7608f4b5e0f9be07779474f391d79263fc5e9ce331659e23e0e52a7b",
+  "description": "Blockchemy is a blockchain-powered Telegram mini-game that merges alchemy-themed crafting with a player-driven economy, centered around BLOMY, its main utility token. Players can explore hidden storylines, craft unique items, and trade collectible cards in a decentralized marketplace. By earning and utilizing BLOMY, players have a real opportunity to profit from their in-game activities, turning gameplay into a rewarding experience where creativity and strategy translate into tangible value.",
+  "image": "https://blockchemy.io/logo.png",
+  "name": "Blockchemy",
+  "social": [
+   "https://x.com/blockchemy",
+   "https://t.me/blockchemy"
+  ],
+  "symbol": "BLOMY",
+  "websites": [
+   "https://blockchemy.io"
   ]
  },
  {
@@ -3640,6 +3668,20 @@
   "symbol": "JULIA",
   "websites": [
    "https://steamyjulia.com/"
+  ]
+ },
+ {
+  "address": "0:1ef72ed45e14e38451a1e14d7b3c29377e0aa36444601a75df70855b8bc6647d",
+  "description": "TADA is the utility token of Ta-da, a platform that organizes crowds to provide high-quality data to AI",
+  "image": "https://tada-production-static-files.s3.eu-west-3.amazonaws.com/logo.png",
+  "name": "Ta-da Token",
+  "social": [
+   "https://x.com/Ta_da_io",
+   "https://t.me/Ta_da_chat"
+  ],
+  "symbol": "TADA",
+  "websites": [
+   "https://ta-da.io"
   ]
  },
  {
