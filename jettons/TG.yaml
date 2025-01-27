@@ -1,0 +1,9 @@
+name: Tongile
+description: Official token of Tongile.com
+address: 0:41d31eb62a4742e73ddfb788a5ff4f7f4c2d03f78fb94f39c8416a2b77cc0d9a
+image: "https://tongile.com/logo/gradient/Tongile_Logo_Circle_Gradient.png"
+symbol: TG
+websites:
+  - "https://tongile.com/"
+social:
+  - "https://t.me/tongile"
