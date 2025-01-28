@@ -1,8 +1,9 @@
 name: HouseHolyByte
 description: HolyByte to your devices and life!
 image: "https://postimg.cc/cv59WTWW"
-address: EQCUxJsCVcPvOoNCW3tDLUx8ikNHfE98GkKuxGHYv9tg6nAU
+address: "EQCUxJsCVcPvOoNCW3tDLUx8ikNHfE98GkKuxGHYv9tg6nAU"
 symbol: HHB
+decimals: 9
 websites:
   - "https://householybyte.com/"
 social:
