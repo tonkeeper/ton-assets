@@ -494,6 +494,7 @@ Name           | Address
 [LP Token for TONNEL-TON](https://tonviewer.com/0:2fb467bc35ea7f5e772641826bab35a38ddb136b28332f5edbbc7ffc463af2cf) | EQAvtGe8Nep_XncmQYJrqzWjjdsTaygzL17bvH_8Rjryz1xu
 [LP Token for UP-TON](https://tonviewer.com/0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c) | EQABy0q1lpLkU09k7srKCCjeAm32D2nZ15WtmWgb81RvjLbP
 [LP Token for jNANO-TON](https://tonviewer.com/0:bace166d17381305b4d0e1b1b58f9161e5b590013b6238c7490003bdf3f8f544) | EQC6zhZtFzgTBbTQ4bG1j5Fh5bWQATtiOMdJAAO98_j1REBU
+[LP Token for pTON-REAL](https://tonviewer.com/0:bffeb62ecf959790c1d32b871998196a6315f75783002d5871b21b322b892898) | EQC__rYuz5WXkMHTK4cZmBlqYxX3V4MALVhxshsyK4komO7B
 [LP staked on JVault.xyz](https://tonviewer.com/0:1fcd435f03dfd255c5e2162c3b7e01da781095df54da1d7cf6c7735ce59c1819) | EQAfzUNfA9_SVcXiFiw7fgHaeBCV31TaHXz2x3Nc5ZwYGR6B
 [LP staked on JVault.xyz](https://tonviewer.com/0:27372c537342c82b72a0d8c1caec00f162767e53f6ee58253aa6dff125573633) | EQAnNyxTc0LIK3Kg2MHK7ADxYnZ-U_buWCU6pt_xJVc2M5Ua
 [LP staked on JVault.xyz](https://tonviewer.com/0:5ecf4eafbf6d5033bdd9f767f52429cee4e37cf4b7204efc6fdb15aca2f7215d) | EQBez06vv21QM73Z92f1JCnO5ON89LcgTvxv2xWsovchXQpg

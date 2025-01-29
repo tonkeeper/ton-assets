@@ -9321,6 +9321,21 @@
   "symbol": "oWEMIX$"
  },
  {
+  "address": "0:bffeb62ecf959790c1d32b871998196a6315f75783002d5871b21b322b892898",
+  "description": "Liquidity pool token for Proxy TON and RealShahnameh on STON.fi DEX",
+  "image": "https://raw.githubusercontent.com/Shahnameh-TON/real/c358826d77849d2086a42e0aa1dffdcad3fe22d5/tonreal.jpg",
+  "name": "LP Token for pTON-REAL",
+  "social": [
+   "https://app.ston.fi/swap?chartVisible=false&tt=EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p&ft=TON",
+   "https://app.tonkeeper.com/swap?ft=TON&open=1&tt=EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p",
+   "https://t.me/Real_SwapBot"
+  ],
+  "symbol": "pTON-REAL",
+  "websites": [
+   "https://www.geckoterminal.com/ton/pools/EQC__rYuz5WXkMHTK4cZmBlqYxX3V4MALVhxshsyK4komO7B"
+  ]
+ },
+ {
   "address": "0:8cdc1d7640ad5ee326527fc1ad0514f468b30dc84b0173f0e155f451b4e11f7c",
   "name": "Proxy TON",
   "symbol": "pTON"
