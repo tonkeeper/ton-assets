@@ -1,10 +1,10 @@
-name: TRUMP LEGACY TOKEN
-description: "A revolutionary meme token that represents the enduring legacy of Donald Trump, blending innovation, community, and the power of memes."
-image: "https://optim.tildacdn.pro/tild3365-3366-4665-b034-393634336631/-/resize/142x/-/format/webp/TRUMPL-M.png"
-address: EQCfOMD0i0ZHQWrzpW70NYoqoDxNhqwMTyfhpgzTlVaMHjfA
-symbol: TRUMPL
+name: Tambovstarfox
+description: "The token of the world-famous corgi kennel Tambovstarfox"
+image: "https://raw.githubusercontent.com/Tambovstarfox/website/refs/heads/main/logo.png"
+address: EQA3kRxAwFhI9ZKs1gD02S2QeU31oX37dVdvD5ZEw4PQ6OuW
+symbol: TSF
 websites:
-  - "https://trumplegacytoken.meme/"
+  - "https://tambovstarfox.ru/"
 social:
-  - "https://x.com/TrumpLegacyMeme"
-  - "https://t.me/trumplegacytoken"
+  - "https://t.me/tambovstarfox"
+  - "https://instagram.com/tambovstarfox"
