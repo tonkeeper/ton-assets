@@ -6137,6 +6137,11 @@
   "symbol": "Points"
  },
  {
+  "address": "0:09ea7b804eef41f463b29f395f623e8880a8a5fc68e7647f980f57e84b2e6a32",
+  "name": "MINT Coin",
+  "symbol": "Mint"
+ },
+ {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
   "name": "Ton Raffles Token",
   "symbol": "RAFF"
