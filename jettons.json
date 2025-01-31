@@ -5193,6 +5193,21 @@
   ]
  },
  {
+  "address": "EQCBTp5iK9qw3zZG-6ZZ5Kgktm3YnEW8lr_d-iy-v83bUwDh",
+  "description": "ton-key/ton-key is a special repository. TON key tKEY is a special jetton/token",
+  "image": "https://github.com/ton-key/ton-key/blob/a8c4c5fc56ec7aae7a04c2f7f472196229d0bf27/ton-key.jpg",
+  "name": "TON key",
+  "social": [
+   "https://x.com/is_tonkey",
+   "https://tonscan.org/jetton/EQCBTp5iK9qw3zZG-6ZZ5Kgktm3YnEW8lr_d-iy-v83bUwDh",
+   "https://t.me/tonkey_tg"
+  ],
+  "symbol": "tKEY",
+  "websites": [
+   "https://github.com/ton-key"
+  ]
+ },
+ {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD",
   "symbol": "USD\u20ae"
