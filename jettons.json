@@ -6782,6 +6782,11 @@
   "symbol": "UNIC"
  },
  {
+  "address": "0:cd75afd71f244613ffe93d169ed108885a602f5637f99823e7d1f4161e4b486e",
+  "name": "Unknown coin",
+  "symbol": "UNK"
+ },
+ {
   "address": "0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd",
   "name": "TonUP",
   "symbol": "UP"
