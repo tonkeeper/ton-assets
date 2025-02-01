@@ -1250,5 +1250,10 @@
   "address": "0:ef64bfe2a6518bef63a7d62a50747e8a73a10472b84227426935da3aebdf909e",
   "image": "https://totemancer.com/ton/tc.png",
   "name": "Totemancer"
+ },
+ {
+  "address": "EQDobEzi7cqGcyPrhn8hZidwGHkOv0iRRPnj4d3dcHKZkIzw",
+  "image": "https://raw.githubusercontent.com/namanamam/Dzybc/refs/heads/main/IMG_2492.png",
+  "name": "Dzybcoin"
  }
 ]
