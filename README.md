@@ -798,7 +798,6 @@ Name           | Address
 [jWBTC](https://tonviewer.com/0:dc064187982e294dfdf8c771a6d395ef7a93b9c3ad0337167e5d3e08ebe5061b) | EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5
 [meh](https://tonviewer.com/0:15c3eeac2bb3497a94a3807d605bad256049076334a62bda476d7b2d08294363) | EQAVw-6sK7NJepSjgH1gW60lYEkHYzSmK9pHbXstCClDY4BV
 [no cat](https://tonviewer.com/0:82bbf5d4cc80ff9ad53ecf6eb6249c2fbaba8f8a252cbab2ecb75b9ce6697035) | EQCCu_XUzID_mtU-z262JJwvurqPiiUsurLst1uc5mlwNQJl
-[pTON-REAL on STON.fi DEX](https://tonviewer.com/0:bffeb62ecf959790c1d32b871998196a6315f75783002d5871b21b322b892898) | EQC__rYuz5WXkMHTK4cZmBlqYxX3V4MALVhxshsyK4komO7B
 [povel durev](https://tonviewer.com/0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1) | EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0
 [povel durev (old)](https://tonviewer.com/0:25d02849cb29c65a0d2d18c08133ab2878a26b2ad366fc80137f5ee3705110c7) | EQAl0ChJyynGWg0tGMCBM6soeKJrKtNm_IATf17jcFEQx0Ww
 [sTONks](https://tonviewer.com/0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45) | EQBng_Ux8DLKeaLZ4kN4eec-U-SJ1fMtYvqQANtL0oxKRQh_
