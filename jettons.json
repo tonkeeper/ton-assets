@@ -9459,5 +9459,19 @@
   "image": "https://tonco.io/static/token/WTTON_TOKEN.png",
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
+ },
+ {
+  "address": "EQDobEzi7cqGcyPrhn8hZidwGHkOv0iRRPnj4d3dcHKZkIzw",
+  "description": "Dzybcoin Memecoinama",
+  "image": "https://raw.githubusercontent.com/namanamam/Dzybc/refs/heads/main/IMG_2492.png",
+  "name": "Dzybcoin",
+  "social": [
+   "https://t.me/dzybcoin",
+   "https://www.instagram.com/dzybcoin?igsh=MXB2c3RmMG9iMDZsdg%3D%3D&utm_source=qr"
+  ],
+  "symbol": "IDZYB",
+  "websites": [
+   "https://github.com/namanamam/Dzybc"
+  ]
  }
 ]
