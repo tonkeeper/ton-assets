@@ -1,0 +1,12 @@
+name: ET NETSA COIN
+symbol: "$ETN"
+description: "The Official Coin of ET Netsa Apps™. It's a community project to help show in real time what happens when there are holders, sellers, and buyers."
+address: 0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f
+decimals: 9
+image: "https://raw.githubusercontent.com/jayp89/Etnetsa/refs/heads/main/Asset%202%40300x-8.png"
+websites:
+  - "https://etn.ethio-tech.com/"
+social:
+  - "https://etn.ethio-tech.com/wp-content/uploads/2023/06/$ETN%20Whitepaper.pdf"
+  - "https://t.me/et_apps"
+  - "https://x.com/etNetsa"

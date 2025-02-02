@@ -1,0 +1,9 @@
+name: COPA
+description: Hatch, raise, and battle your own adorable NFT crocodiles in CoCo Park!
+image: "https://raw.githubusercontent.com/COCOPARK-PROJECT/cocopark-smartcontract-public/refs/heads/main/cocopark_logo.jpg"
+address: EQD5x8gz3IhTLR2-DGkmL0ehWk7QlIkOTIGu3uhDuL4sbDGb
+symbol: COPA
+websites:
+  - "https://cocopark.io/"
+social:
+  - "https://t.me/cocopark_group"
