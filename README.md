@@ -494,6 +494,7 @@ Name           | Address
 [LP Token for TONNEL-TON](https://tonviewer.com/0:2fb467bc35ea7f5e772641826bab35a38ddb136b28332f5edbbc7ffc463af2cf) | EQAvtGe8Nep_XncmQYJrqzWjjdsTaygzL17bvH_8Rjryz1xu
 [LP Token for UP-TON](https://tonviewer.com/0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c) | EQABy0q1lpLkU09k7srKCCjeAm32D2nZ15WtmWgb81RvjLbP
 [LP Token for jNANO-TON](https://tonviewer.com/0:bace166d17381305b4d0e1b1b58f9161e5b590013b6238c7490003bdf3f8f544) | EQC6zhZtFzgTBbTQ4bG1j5Fh5bWQATtiOMdJAAO98_j1REBU
+[LP Token for pTON-REAL](https://tonviewer.com/0:bffeb62ecf959790c1d32b871998196a6315f75783002d5871b21b322b892898) | EQC__rYuz5WXkMHTK4cZmBlqYxX3V4MALVhxshsyK4komO7B
 [LP staked on JVault.xyz](https://tonviewer.com/0:1fcd435f03dfd255c5e2162c3b7e01da781095df54da1d7cf6c7735ce59c1819) | EQAfzUNfA9_SVcXiFiw7fgHaeBCV31TaHXz2x3Nc5ZwYGR6B
 [LP staked on JVault.xyz](https://tonviewer.com/0:27372c537342c82b72a0d8c1caec00f162767e53f6ee58253aa6dff125573633) | EQAnNyxTc0LIK3Kg2MHK7ADxYnZ-U_buWCU6pt_xJVc2M5Ua
 [LP staked on JVault.xyz](https://tonviewer.com/0:5ecf4eafbf6d5033bdd9f767f52429cee4e37cf4b7204efc6fdb15aca2f7215d) | EQBez06vv21QM73Z92f1JCnO5ON89LcgTvxv2xWsovchXQpg
@@ -997,6 +998,7 @@ Name           | Address
 [UXLINK Token](https://tonviewer.com/0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293) | EQBh9XACT0B60U8Q48VnjyqCxzxpM4oA0c8rqKt4h70yk1V5
 [UXUY Token](https://tonviewer.com/0:3bbe9955b44382e871df1f080f0ba124776a7db558a9fbbb3a85f6776abf86ac) | EQA7vplVtEOC6HHfHwgPC6Ekd2p9tVip-7s6hfZ3ar-GrJBP
 [Ultron](https://tonviewer.com/0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430) | EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT
+[Unknown coin](https://tonviewer.com/0:cd75afd71f244613ffe93d169ed108885a602f5637f99823e7d1f4161e4b486e) | EQDNda_XHyRGE__pPRae0QiIWmAvVjf5mCPn0fQWHktIbiyl
 [Us Usach](https://tonviewer.com/0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024) | EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
 [VERT](https://tonviewer.com/0:df8257eb7f43acdfc70a3c768e2aa41e9c9a65b36b3471ecbc69c4058cf0bf54) | EQDfglfrf0Os38cKPHaOKqQenJpls2s0cey8acQFjPC_VERT
