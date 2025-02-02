@@ -1,0 +1,10 @@
+name: Dzybcoin
+symbol: "IDZYB"
+description: "Dzybcoin memecoinama"
+address: EQDobEzi7cqGcyPrhn8hZidwGHkOv0iRRPnj4d3dcHKZkIzw
+decimals: 9
+image: "https://raw.githubusercontent.com/namanamam/Dzybc/refs/heads/main/IMG_2492.png"
+websites:
+  - "https://github.com/namanamam/Dzybc"
+social:
+  - "https://t.me/dzybcoin"
