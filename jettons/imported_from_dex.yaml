@@ -7,6 +7,9 @@
 - address: 0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4
   name: The Resistance Cat
   symbol: $RECA
+- address: 0:a5edfab38859a75ad04d6955305e4b772d9686ecc194e56648960687b20413e9
+  name: TROMP
+  symbol: $TROMP
 - address: 0:bff0c5bda58b1617490640103c7b8ca9f35707beec9d8998ee01efe55487cc22
   name: TONWIFHAT
   symbol: $TWIF
