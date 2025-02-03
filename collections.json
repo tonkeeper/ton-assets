@@ -1,5 +1,9 @@
 [
  {
+  "address": "0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55",
+  "name": "Booli Reborn"
+ },
+ {
   "address": "0:c202dd4b9af103c981b880bdfc2872bd8473fc0606159278fdc40a2ae4f8d234",
   "name": "DILS COIN GENESIS",
   "websites": [
@@ -8,7 +12,18 @@
   ]
  },
  {
-  "address": "EQAR6-Ja1DjOqsJoFzpQtEvVjwvy6-wExE0nLV5-4rPY_SKN",
+  "address": "0:e8aabf23d68f2ea7fb0c7da85861a52c2bb3eb3c02c9880a5d1d331b3d0c0ecf",
+  "name": "FIVA Genesis Access Keys",
+  "social": [
+   "https://x.com/FivaProtocol",
+   "https://t.me/fiva_community"
+  ],
+  "websites": [
+   "https://www.thefiva.com"
+  ]
+ },
+ {
+  "address": "0:11ebe25ad438ceaac268173a50b44bd58f0bf2ebec04c44d272d5e7ee2b3d8fd",
   "description": "Make a new beginning with this collection of objects and pieces found on the World's map via the GLOBULA interface. The question is: what are you going to do with these?",
   "name": "GLOBULA",
   "social": [
@@ -25,6 +40,16 @@
   "name": "KZH"
  },
  {
+  "address": "0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0",
+  "description": "NFT Spaceship collection from MMPro BUMP team",
+  "image": "https://ipfs.filebase.io/ipfs/QmYkdzwxiViJ3Ceqx3iXX6VTqGKkuhVqEecgiiF5nvJe7j",
+  "name": "NFT Spaceship",
+  "social": [
+   "https://t.me/marketmakingpro",
+   "https://x.com/MarketmakingX"
+  ]
+ },
+ {
   "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
   "name": "Telegram usernames",
   "websites": [
@@ -33,8 +58,67 @@
   ]
  },
  {
-  "address": "EQD7eDxP_wLX18kr8uyYfs6srlgoNMfRbXNYM8dmMXT2vxwk",
+  "address": "0:c5e44022dc5a4785cb0bc0493960e990edf0c0cfcdf66c8621fcc757ba0a72ed",
+  "description": "Explore Anycraft\u2019s exclusive NFT collection, where each item is crafted by players from unique creations. In Anycraft, only the original inventor of an item or a new recipe has the right to mint an NFT. \u2b50 Gold stars mark first discoveries, while silver stars represent unique crafting methods. All NFTs can be imported back into the game for more crafting possibilities. Plus, each NFT unlocks free boosters and other benefits \u2014 check them out in Anycraft!",
+  "image": "https://public.anycraft.io/nft/assets/collection_logo.png",
+  "name": "Anycraft Unique Crafts",
+  "social": [
+   "https://t.me/anycraft_community",
+   "https://youtube.com/@Anycraftbot/shorts",
+   "https://tiktok.com/@anycraftbot",
+   "https://x.com/Anycraft_tma"
+  ],
+  "websites": [
+   "https://anycraft.io"
+  ]
+ },
+ {
+  "address": "0:d52400de2f5e83bfe6a55a95854a042b3fe22a1a370dac9c101fae5b5e00732a",
+  "description": "BeeHarvest NFT is a unique and innovative collection within the AmberTON and BeeHarvest ecosystem, opening new horizons for project participants. This collection is based on utility NFTs that are not only aesthetically appealing but also provide tangible bonuses to their owners.\nEach NFT in the collection has unique attributes that increase the resource harvesting percentage in the game, giving you significant advantages. The collection features 10 levels of NFTs, and you have the opportunity to merge them to create more powerful NFTs with even greater capabilities.\nYou can obtain and use these NFTs completely free by following simple rules that can be found in the official project channels or directly in the game. Don't miss your chance to be part of this revolutionary project and multiply your resources with BeeHarvest NFT!",
+  "image": "https://api.beeharvest.life/nft/file/game_nft_collection.jpg",
+  "name": "Beeharvest",
+  "social": [
+   "https://t.me/BeeHarvest",
+   "https://t.me/beeharvestbot",
+   "https://t.me/amberton"
+  ]
+ },
+ {
+  "address": "0:f2bd3b92c32358d75b6eb78e053e41b30fd3d46cd70f814ff005afb4aeecee1a",
+  "description": "Degrees\u2019 is a limited collection of 361\u00b0 available items. Each Degree\u00b0 has its own unique angle, contains a maths fact about its value and is an essential component to getting a complete user experience in the Degrees\u00b0 app.",
+  "image": "https://raw.githubusercontent.com/msilenkov/ONE/245f76be45fc9e32a60de758bf8c39e5dce99cd7/degrees.svg",
+  "links": {
+   "bot": "https://prodegreesbot.t.me",
+   "channel": [
+    "https://degrees.t.me",
+    "https://prodegrees.t.me"
+   ],
+   "community": "https://degreeston.t.me"
+  },
+  "name": "Degrees",
+  "social": [
+   "https://degrees.t.me",
+   "https://prodegrees.t.me",
+   "https://degreeston.t.me"
+  ]
+ },
+ {
+  "address": "0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf",
   "name": "CALLIGRAFUTURISM \u2014 24: Units"
+ },
+ {
+  "address": "0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94",
+  "description": "Collection with soulbound tokens confirming ownership of jettons locked in JVault Locker (actual version)",
+  "image": "https://jvault.xyz/static/images/lock_collection.png",
+  "name": "JVault locks",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://x.com/jvault_app"
+  ],
+  "websites": [
+   "https://jvault.xyz/locker"
+  ]
  },
  {
   "address": "0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058",
@@ -51,18 +135,35 @@
   ]
  },
  {
-  "address": "EQA-2g3g7Jj169mrA5PR49LjmIC1TIQfaGEcZ8UnDZYfsrno",
+  "address": "0:3eda0de0ec98f5ebd9ab0393d1e3d2e39880b54c841f68611c67c5270d961fb2",
   "name": "The Gateway"
  },
  {
-  "address": "EQDAicW4BJTBec7C_E1qaJDvem4BiKwmCzH9eIlvQi6DSRnb",
+  "address": "0:c089c5b80494c179cec2fc4d6a6890ef7a6e0188ac260b31fd78896f422e8349",
   "name": "Tonkeeper Adventure"
+ },
+ {
+  "address": "0:dfdb68e5d54fe1d1d4417912266a4777de16752e3f99c669e567272a8732633d",
+  "description": "Exclusive SBT (Soulbound Token) achievements within Totemancer. Each badge representing proof of your in-game milestones and accomplishments. SBTs can only be earned through your gameplay progress.",
+  "image": "https://totemancer.com/ton/tc.png",
+  "name": "Totemancer: Badges",
+  "social": [
+   "https://t.me/TotemancerBot",
+   "https://t.me/Totemancer",
+   "https://t.me/Totemancer_RU",
+   "https://t.me/TotemancerChat",
+   "https://x.com/Totemancer",
+   "https://vk.com/Totemancer"
+  ],
+  "websites": [
+   "https://totemancer.com"
+  ]
  },
  {
   "address": "0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2",
   "description": "Exclusive NFT collectibles within Totemancer. Each totem represents a powerful asset, offering special in-game enhancements and tangible benefits.",
   "image": "https://totemancer.com/ton/tc.png",
-  "name": "Totemancer",
+  "name": "Totemancer: Totems",
   "social": [
    "https://t.me/TotemancerBot",
    "https://t.me/Totemancer",

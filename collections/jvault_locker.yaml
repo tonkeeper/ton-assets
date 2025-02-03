@@ -1,0 +1,11 @@
+name: JVault locks
+description: Collection with soulbound tokens confirming ownership of jettons locked in JVault Locker (actual version)
+image: "https://jvault.xyz/static/images/lock_collection.png"
+address: "0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94"
+websites:
+  - "https://jvault.xyz/locker"
+social:
+  - "https://t.me/jvault"
+  - "https://t.me/jvault_ru"
+  - "https://x.com/jvault_app"
+

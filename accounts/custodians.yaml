@@ -50,6 +50,10 @@
   name: "OKX 9"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
+- address: "EQCbm3Od4lJ65y0hCD9RmNcQxyiEU7RzPlfsrbLhiayCnNuU"
+  name: "OKX 10"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg"
 - address: "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ"
   name: "FTX"
   require_memo: true
@@ -349,3 +353,7 @@
   name: "Wallet in Telegram"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAeuGnYTvbX-IaCvMIsZYgV6TN1ECAAhTUZJ7F0YTjjdBYx"
+  name: "TEC Pay"
+  require_memo: true
+  image: "https://cdn.tonexpert.club/logo_solid.svg"
