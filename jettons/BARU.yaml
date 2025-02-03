@@ -1,10 +1,10 @@
 name: Barru
-description: A project to help protect the environment, forests and world peace
+description: DeFi project to help protect the environment, forests and world peace
+image: "https://cache.tonapi.io/imgproxy/LP5KDo0MS-qevIqdgrXuGR4vMxCjsI39RfCxwYJVflw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9iYXJydS9iYXJydS5wbmc.webp"
 address: 0:0fa0c506a0a93ee7bbbda87c584882c4419ba09d117ca9de2786f890e2e2e4ae
 symbol: BARU
 websites:
-  - "https://barruprotocol.com"
-  - "https://app.barruprotocol.com"
+  - "https://barrucoin.com"
 social:
-  - "https://t.me/barruprotocol"
-  - "https://twitter.com/barruprotocol"
+  - "https://t.me/barrucoin"
+  - "https://x.com/barrucoin"
