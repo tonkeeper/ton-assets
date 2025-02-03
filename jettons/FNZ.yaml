@@ -1,10 +1,6 @@
-name: Fanzee Token
-description: fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences
-address: 0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739
-symbol: FNZ
-websites:
-  - "https://fanz.ee"
-  - "https://app.fanz.ee"
+name: School 71 token
+description: Токен создан в поддержку школе 71 Калининского района СПБ
+address: 0:0c9d98509937a8d52ebc81891466201c798aeef169968e258ef6954cc767ae49
+symbol: SCHT
 social:
-  - "https://t.me/fanzeelabs"
-  - "https://twitter.com/fanzeelabs"
+  - "https://t.me/school71_crypto"
