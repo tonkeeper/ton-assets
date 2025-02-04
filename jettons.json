@@ -2393,6 +2393,20 @@
   "symbol": "MEH"
  },
  {
+  "address": "0:af08315a295a85078792335af6a471d6014f8d8dc6d4eaf0c3514b1340aa888c",
+  "description": "The official token of the Merge Pals universe.",
+  "image": "https://cdn.mirailabs.co/merge-pals/MERGE.png",
+  "name": "Merge Token",
+  "social": [
+   "https://x.com/MergePals",
+   "https://t.me/mergepalsbot"
+  ],
+  "symbol": "MERGE",
+  "websites": [
+   "https://mergepals.io"
+  ]
+ },
+ {
   "address": "0:af7d65bece657ce3c9072d3660964ebf206df00560fd21c9c9822d8e4ba927e5",
   "description": "MEMEZONE is a meme token that combines humor and investment into one platform. Each meme created by users can be turned into a unique NFT that will be linked to the MEMEZONE token.",
   "image": "https://www.memezone.tech/MEZO_token_256_logo.png",

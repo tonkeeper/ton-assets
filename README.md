@@ -582,6 +582,7 @@ Name           | Address
 [Meow](https://tonviewer.com/0:bf906dbd1df8292515b6458200a5e408f4f3d877376c95eaa26ab7e8d3432f49) | EQC_kG29HfgpJRW2RYIApeQI9PPYdzdsleqiarfo00MvSTSs
 [Merch Coin](https://tonviewer.com/0:9e6c890a66af6ee8cd4c1956de99fd3217f40e35c018fa3f88a458edcca605fc) | EQCebIkKZq9u6M1MGVbemf0yF_QONcAY-j-IpFjtzKYF_AzS
 [Mercury coin](https://tonviewer.com/0:03bc6510b5bc170a0614fb4520e2b1a4c13a59afa232ce2929eaa301a581361d) | EQADvGUQtbwXCgYU-0Ug4rGkwTpZr6Iyzikp6qMBpYE2HXFq
+[Merge Token](https://tonviewer.com/0:af08315a295a85078792335af6a471d6014f8d8dc6d4eaf0c3514b1340aa888c) | EQCvCDFaKVqFB4eSM1r2pHHWAU-NjcbU6vDDUUsTQKqIjGa8
 [Meridian](https://tonviewer.com/0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7) | EQCymLRXp1QYxZKek4CTInckB1ey5TkyAJQpPAlNetiO54Vt
 [MiDtoken](https://tonviewer.com/0:a05b788c898aa4a818ea611dfdd70e76e7ede99c5cd5b2d1e56d9e1d92e956fe) | EQCgW3iMiYqkqBjqYR391w525-3pnFzVstHlbZ4dkulW_oz5
 [Microdiving](https://tonviewer.com/0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5) | EQDhSXj-di6Wo6__Pqd51dHZHel0MQeaegmhCWm-tkwwtem8
