@@ -1,0 +1,10 @@
+name: POSTAL
+description: "Multi-service platform for Telegram channel administrators and marketers \n\nhttps://postal.guru/coin"
+symbol: POST
+image: "https://optim.tildacdn.com/tild6161-3334-4039-b537-366437313934/-/resize/512x/-/format/webp/Logo_coin_white.png"
+address: "EQD5sTc_bzbWf-7Khl7Y-2yvpHjf4320MFM9cXP_v05XS2Qt"
+decimals: 9
+websites:
+  - "https://postal.guru/"
+social:
+  - "https://t.me/postal"
