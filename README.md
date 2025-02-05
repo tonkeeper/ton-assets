@@ -1058,6 +1058,7 @@ Name           | Address
 [YT tsTON (30-Jun-2025)](https://tonviewer.com/0:1ccbad2a836d910aaf3b03faa060af21a281208c2678e32c617672987655887c) | EQAcy60qg22RCq87A_qgYK8hooEgjCZ44yxhdnKYdlWIfKXL
 [Yoken](https://tonviewer.com/0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26) | EQCDkrpCu-FFVPQJnManjlf8XCN75wjX_AKrrEFFQ1mfJqZo
 [ZEUS](https://tonviewer.com/0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11) | EQCTUG05xJSNRFhAza1M9UjKkXqawGcSlxWHTCqM5F0MEWKN
+[Zencoin](https://tonviewer.com/0:bd0db04a122ea06f39fce5710d0c34e5bbd99644b301f1c0659b7d45f3473476) | EQC9DbBKEi6gbzn85XENDDTlu9mWRLMB8cBlm31F80c0dvba
 [a TON of MILADYS](https://tonviewer.com/0:83ec74343293a7a0d2a9225bbd984651f894bb6a87b850e3875c110195056dda) | EQCD7HQ0MpOnoNKpIlu9mEZR-JS7aoe4UOOHXBEBlQVt2js1
 [adDICKted](https://tonviewer.com/0:0e2ce27d8e14b5466cc44306b209c0fff20959848de6ee534e7e83535213f84d) | EQAOLOJ9jhS1RmzEQwayCcD_8glZhI3m7lNOfoNTUhP4Ta8n
 [bemo Staking Experience Point](https://tonviewer.com/0:0e464861ad78acfd7c4b0007f2c53c8d71e3572ed687709e45857c69349f31b0) | EQAORkhhrXis_XxLAAfyxTyNceNXLtaHcJ5FhXxpNJ8xsDGc
