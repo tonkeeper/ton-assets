@@ -1,8 +1,11 @@
 name: KarCat
-description: KarСat (KCT) is a token built on the TON blockchain by two caracal-loving enthusiasts. It’s all about combining a passion for crypto with a love for these stunning wild cats, creating something fun, unique, and community-focused.
+description: KarCat (KCT) is a token built on the TON blockchain by two caracal-loving enthusiasts. It’s all about combining a passion for crypto with a love for these stunning wild cats, creating something fun, unique, and community-focused.
 image: https://kar-cat.github.io/website/logo.png
 symbol: KCT
 address: EQBdtcqR7MdxIYC8IMgrJukSzojpXISx3U9yNr7_ozgzDyr2
+websites:
+    - https://karcat.ru/
 social:
+    - https://x.com/KarCatcoin
     - https://t.me/karcatcoin
     - https://t.me/karcatcoinru
