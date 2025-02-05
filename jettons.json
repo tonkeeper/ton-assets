@@ -771,7 +771,7 @@
   "social": [
    "https://t.me/clayton"
   ],
-  "symbol": "$CLAY",
+  "symbol": "CLAY",
   "websites": [
    "https://t.me/claytoncoinbot"
   ]
@@ -873,6 +873,21 @@
   "symbol": "CRYSTALS",
   "websites": [
    "https://app.runeston.org/"
+  ]
+ },
+ {
+  "address": "0:f43657c584aae26364f12eb76281e2db2214e43c108c569f5af339a91688598b",
+  "description": "Cybercoin is the digital currency designed to power the Cyberverse. Unlike typical meme coins, Cybercoin is planned with scalability, serving as the primary medium of exchange for goods within the Cyberverse ecosystem. With seamless integration into the Cyberverse's economy, Cybercoin will become the backbone of a thriving virtual world.",
+  "image": "https://i.postimg.cc/YSB0tdYJ/Cyber-Cars-Square-CC.png",
+  "name": "Cyber Technology Coin",
+  "social": [
+   "https://t.me/CyberCarsPublic",
+   "https://t.me/CyberCarsChat",
+   "https://x.com/CyberCarsLive"
+  ],
+  "symbol": "CTC",
+  "websites": [
+   "https://cybercarsgarage.com"
   ]
  },
  {
@@ -2067,19 +2082,6 @@
   ]
  },
  {
-  "address": "0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04",
-  "description": "Kote Coin. It's the only one.",
-  "name": "Kote Coin",
-  "social": [
-   "https://t.me/KoteCoin",
-   "https://t.me/KoteCoinRU"
-  ],
-  "symbol": "KOTE",
-  "websites": [
-   "https://kotecoin.com/"
-  ]
- },
- {
   "address": "0:8353d80db0653bd7316e016e3df0757d248e32d354e49c9a60b71bcb3d46a73e",
   "description": "Crazy people's",
   "image": "https://storage.dyor.io/jettons/EQCDU9gNsGU71zFuAW498HV9JI4y01TknJpgtxvLPUanPkxR/image.jpeg",
@@ -2391,6 +2393,20 @@
   "decimals": 9,
   "name": "meh",
   "symbol": "MEH"
+ },
+ {
+  "address": "0:af08315a295a85078792335af6a471d6014f8d8dc6d4eaf0c3514b1340aa888c",
+  "description": "The official token of the Merge Pals universe.",
+  "image": "https://cdn.mirailabs.co/merge-pals/MERGE.png",
+  "name": "Merge Token",
+  "social": [
+   "https://x.com/MergePals",
+   "https://t.me/mergepalsbot"
+  ],
+  "symbol": "MERGE",
+  "websites": [
+   "https://mergepals.io"
+  ]
  },
  {
   "address": "0:af7d65bece657ce3c9072d3660964ebf206df00560fd21c9c9822d8e4ba927e5",
@@ -4717,6 +4733,11 @@
   "symbol": "$RECA"
  },
  {
+  "address": "0:a5edfab38859a75ad04d6955305e4b772d9686ecc194e56648960687b20413e9",
+  "name": "TROMP",
+  "symbol": "$TROMP"
+ },
+ {
   "address": "0:bff0c5bda58b1617490640103c7b8ca9f35707beec9d8998ee01efe55487cc22",
   "name": "TONWIFHAT",
   "symbol": "$TWIF"
@@ -6780,6 +6801,11 @@
   "address": "0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25",
   "name": "UNICORN",
   "symbol": "UNIC"
+ },
+ {
+  "address": "0:cd75afd71f244613ffe93d169ed108885a602f5637f99823e7d1f4161e4b486e",
+  "name": "Unknown coin",
+  "symbol": "UNK"
  },
  {
   "address": "0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd",
@@ -9319,6 +9345,21 @@
   "address": "0:ec12e996666ad0a683255c676a49758376f41e5021a330426c437937e5ba8d87",
   "name": "Orbit Bridge Ton WEMIX$",
   "symbol": "oWEMIX$"
+ },
+ {
+  "address": "0:bffeb62ecf959790c1d32b871998196a6315f75783002d5871b21b322b892898",
+  "description": "Liquidity pool token for Proxy TON and RealShahnameh on STON.fi DEX",
+  "image": "https://raw.githubusercontent.com/Shahnameh-TON/real/c358826d77849d2086a42e0aa1dffdcad3fe22d5/tonreal.jpg",
+  "name": "LP Token for pTON-REAL",
+  "social": [
+   "https://app.ston.fi/swap?chartVisible=false&tt=EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p&ft=TON",
+   "https://app.tonkeeper.com/swap?ft=TON&open=1&tt=EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p",
+   "https://t.me/Real_SwapBot"
+  ],
+  "symbol": "pTON-REAL",
+  "websites": [
+   "https://www.geckoterminal.com/ton/pools/EQC__rYuz5WXkMHTK4cZmBlqYxX3V4MALVhxshsyK4komO7B"
+  ]
  },
  {
   "address": "0:8cdc1d7640ad5ee326527fc1ad0514f468b30dc84b0173f0e155f451b4e11f7c",
