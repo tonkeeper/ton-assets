@@ -2067,19 +2067,6 @@
   ]
  },
  {
-  "address": "0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04",
-  "description": "Kote Coin. It's the only one.",
-  "name": "Kote Coin",
-  "social": [
-   "https://t.me/KoteCoin",
-   "https://t.me/KoteCoinRU"
-  ],
-  "symbol": "KOTE",
-  "websites": [
-   "https://kotecoin.com/"
-  ]
- },
- {
   "address": "0:8353d80db0653bd7316e016e3df0757d248e32d354e49c9a60b71bcb3d46a73e",
   "description": "Crazy people's",
   "image": "https://storage.dyor.io/jettons/EQCDU9gNsGU71zFuAW498HV9JI4y01TknJpgtxvLPUanPkxR/image.jpeg",
