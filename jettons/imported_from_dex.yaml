@@ -7,6 +7,9 @@
 - address: 0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4
   name: The Resistance Cat
   symbol: $RECA
+- address: 0:a5edfab38859a75ad04d6955305e4b772d9686ecc194e56648960687b20413e9
+  name: TROMP
+  symbol: $TROMP
 - address: 0:bff0c5bda58b1617490640103c7b8ca9f35707beec9d8998ee01efe55487cc22
   name: TONWIFHAT
   symbol: $TWIF
@@ -1247,6 +1250,9 @@
 - address: 0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25
   name: UNICORN
   symbol: UNIC
+- address: 0:cd75afd71f244613ffe93d169ed108885a602f5637f99823e7d1f4161e4b486e
+  name: Unknown coin
+  symbol: UNK
 - address: 0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd
   name: TonUP
   symbol: UP
