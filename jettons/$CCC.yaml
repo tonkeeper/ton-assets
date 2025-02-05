@@ -1,10 +1,11 @@
-name: Crypto Gypsies Coin
-description: The most gypsy token on TON
-image: "https://i.ibb.co/dGCf511/IMG-1522.png"
-address: EQCmEVJQ5njttNRBa1bqqZsVq5WaHYliG9BU_d5BP1Bu2QXY
-symbol: CCC
+name: Travel Coin AI
+description: @tokentravel_bot HackTravel company token. This token can be used to pay in an online store for various goods as well as tours.  Link to the official telegram bot
+image: "https://i.ibb.co/fYLfN7L3/IMG-2607.png"
+address: 0:c5dc66ee227a6a4af2ef4a096fcf30c2399c91057701c7346b78119e7c48e3f5
+symbol: AVE
 websites:
-  - "https://ccctoken.xyz/"
+  - 
 social:
-  - "https://t.me/token_ccc"
-  - "https://x.com/ccc_token"
+  - "https://t.me/tokentravel_bot"
+  - "https://t.me/travel_token"
+  - "https://www.youtube.com/@hack_travel"
