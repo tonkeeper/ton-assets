@@ -1,10 +1,11 @@
+nano my-token.yaml
 name: "Square Meters Coin"
-symbol: "SMC"
-description: "SQm (Square Meter Token) — a revolutionary cryptographic 
+symbol: "SQC"
+description: "SQC (Square Meter Token) — a revolutionary cryptographic 
 token specifically designed for real estate transactions, where 
 calculations are based on square meters."
 image: "https://storage.dyor.io/jettons/images/1734612334/77502096.png"
 address: "EQA5CgrLnrbkAY1xbtNG119wLt1IZqynGxys1gsUQ6lS9zxb"
 decimals: 5
 website: "https://vimana.ltd"
-
+social: "https://t.me/commercial_agency"
