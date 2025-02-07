@@ -141,6 +141,7 @@ Name           | Address
 [AquaXP staked on JVault.xyz](https://tonviewer.com/0:18394115577cb15476b32f2faff654e5be36352c9915d236fa8a6168524c7713) | EQAYOUEVV3yxVHazLy-v9lTlvjY1LJkV0jb6imFoUkx3EzG_
 [ArixDEX](https://tonviewer.com/0:8b53a2883e36496e1c989517c435cde741c9360d6ba5b14ab68093f25842bdc1) | EQCLU6KIPjZJbhyYlRfENc3nQck2DWulsUq2gJPyWEK9wfDd
 [Arnold investment](https://tonviewer.com/0:19cd9ce105dacfc311554075a53076c363f78e9372de50faf4ed559d5f8074d7) | EQAZzZzhBdrPwxFVQHWlMHbDY_eOk3LeUPr07VWdX4B0193M
+[Astreides](https://tonviewer.com/0:7fc44f85a1340e9af09a07b259e57d47e6f11add8ec582141dbd1c971992ccff) | EQB_xE-FoTQOmvCaB7JZ5X1H5vEa3Y7FghQdvRyXGZLM_9qt
 [Azure](https://tonviewer.com/0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2) | EQCj2tbgoppYqw7t_CLcj3nZnRhODIQDlcHvJpD7jl0jokNT
 [BANANA](https://tonviewer.com/0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0) | EQDgyXtVBaUTYrNIYEyVTOIUCWItOPlj5eViJH7URrFI8DDR
 [BARASH](https://tonviewer.com/0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd) | EQD39LNnyg6uEQv5jqkF76F45VY4sszDqqz2N8KbL1QQ3XPr
@@ -827,6 +828,7 @@ Name           | Address
 [Shill Team 6](https://tonviewer.com/0:8c4cd150750e16e71e01ec89001a0af1a19c5d0038e06c35d5031551b63bcb50) | EQCMTNFQdQ4W5x4B7IkAGgrxoZxdADjgbDXVAxVRtjvLUJw_
 [Shitcoin](https://tonviewer.com/0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4) | EQB4gPfG0YtoiJHCMTUuzxP9fKXy9nx6TFh-dcAltrnNpLNo
 [Shitdrops](https://tonviewer.com/0:2e584f9b551eced5b4a4c0dfe63ddca2be92b0e657d6738eec82fb9ccf2cd9e3) | EQAuWE-bVR7O1bSkwN_mPdyivpKw5lfWc47sgvuczyzZ49S3
+[Simple Coin](https://tonviewer.com/0:7d401aa78852348ce9b0dcf53abf5bf82d4dd28af9bdc8f5c30c1f507fb7174c) | EQB9QBqniFI0jOmw3PU6v1v4LU3Sivm9yPXDDB9Qf7cXTDft
 [Simple Ton Coin](https://tonviewer.com/0:42c988aa9138c0b791819d55e0b972d0a6097469ed70c495d867a0226d12f265) | EQBCyYiqkTjAt5GBnVXguXLQpgl0ae1wxJXYZ6AibRLyZdem
 [Slopy](https://tonviewer.com/0:0e365c05bf398a068b1bcc7bc704c06974732f20eefb2bb873e0d640ee4a8e99) | EQAONlwFvzmKBosbzHvHBMBpdHMvIO77K7hz4NZA7kqOmf8r
 [Slowpoke](https://tonviewer.com/0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9) | EQDK3ReFkb6L3uE3GmMDJaxWby4PA_UYGClgFfJuXY52-TOK
