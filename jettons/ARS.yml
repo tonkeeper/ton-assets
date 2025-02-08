@@ -1,0 +1,26 @@
+name: Step To Mars
+description: Meme coin fueling the dream of Solar System colonization. A utility token for purchasing land plots on the Arcona Metareality planetary augmented reality layer, on the surface of Mars.
+image: "https://raw.githubusercontent.com/ArconaEcosystem/assets/1b362743b05b594d07239e4c745705121381db67/Vector.png"
+address: EQC6WzZ-q4suHXBr9sESL91eVnEsBc-k2r7U33oQoJ_2Ea9j
+symbol: ARS
+decimals: 18
+audit:
+  - notes: "Created using the trusted TON Minter platform (minter.ton.org), ensuring a standardized and secure foundation."
+websites:
+  - "https://www.metareality.space/step-to-mars"
+social:
+  - url: "https://t.me/arconadigitalland"
+    name: Telegram Channel
+  - url: "https://t.me/arcona_digital_land"
+    name: Telegram Group
+  - url: "https://twitter.com/ArconaMetaverse"
+    name: Twitter
+tags: 
+  - meme
+  - arcona
+  - solar system
+  - mars
+  - augmented reality
+  - metaverse
+  - metareality
+  - gamifi
