@@ -1,0 +1,8 @@
+name: BANDI Coin
+description: The official token of the t.me/botbandit
+image: "https://cache.tonapi.io/imgproxy/2crvE843MkmhgWji5w2rG2TqDAXoWoLQkRm6GtUNFPA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hbmFsbml5LWRlbW9uLnJ1L2JhbmRpX2xvZ28ucG5n.webp"
+address: 0:5372bc6dc3178a55aca4432c0afa008b36f7b24ef69eff3bb6907ce98eb21ccf
+symbol: BANDI
+websites:
+social:
+      - "https://t.me/botbandit"
