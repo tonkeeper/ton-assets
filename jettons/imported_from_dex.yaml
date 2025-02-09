@@ -391,6 +391,9 @@
 - address: 0:d1874559a045971eda548bc34a6a036521f258c6cb1ae727a57fb51630bdf2dd
   name: TONFOMO
   symbol: FOMO
+- address: 0:f42a9711321fac28edb3e7ebce8e0bc58d34f9f2d3bed8d9afc6a839a1c15016
+  name: FPI Bank
+  symbol: FPIBANK
 - address: 0:12c3ee18332a771c32cb4e08c3954d4407d77547970a815cd43d06e2cc758007
   name: FRANC
   symbol: FRE
