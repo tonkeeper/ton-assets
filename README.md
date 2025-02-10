@@ -352,6 +352,7 @@ Name           | Address
 [Esalat](https://tonviewer.com/0:4b4b5974c6ad34ec265392e78d8af04d1bc56e68e177483327d5bcc89b210eb9) | EQBLS1l0xq007CZTkueNivBNG8VuaOF3SDMn1bzImyEOudJZ
 [FLOX](https://tonviewer.com/0:e0e59518a1b5db4240db28224a0e7a4077d04a85d23bb305497727d987f2d7be) | EQDg5ZUYobXbQkDbKCJKDnpAd9BKhdI7swVJdyfZh_LXvrfl
 [FLYKI Token](https://tonviewer.com/0:9efd7ad27e0e0c9cbdfeae8d5a900116c5d7c789731ddb8fd7813261ae2a027a) | EQCe_XrSfg4MnL3-ro1akAEWxdfHiXMd24_XgTJhrioCek9R
+[FOMOBANK](https://tonviewer.com/0:dca028dfb0e9a7d6b34e78b3ed39c33eac96dbb655497d63ca434b104cf3153c) | EQDcoCjfsOmn1rNOeLPtOcM-rJbbtlVJfWPKQ0sQTPMVPKCb
 [FPIBANK](https://tonviewer.com/0:f42a9711321fac28edb3e7ebce8e0bc58d34f9f2d3bed8d9afc6a839a1c15016) | EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz
 [FRANC](https://tonviewer.com/0:12c3ee18332a771c32cb4e08c3954d4407d77547970a815cd43d06e2cc758007) | EQASw-4YMyp3HDLLTgjDlU1EB9d1R5cKgVzUPQbizHWABz6U
 [FREEDOM](https://tonviewer.com/0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528) | EQBhj9Fwtr0ZwftDF13f6d1aqh5Cegdqit8BCTwbjL71KN3Z

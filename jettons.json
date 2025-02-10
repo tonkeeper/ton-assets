@@ -1535,6 +1535,19 @@
   ]
  },
  {
+  "address": "0:dca028dfb0e9a7d6b34e78b3ed39c33eac96dbb655497d63ca434b104cf3153c",
+  "description": "Caught FOMO for not buying other tokens? Buy FOMOBANK! Caught FOMO for not selling other tokens? Buy FOMOBANK! Did you catch fomo? Buy FOMOBANK!",
+  "name": "FOMOBANK",
+  "social": [
+   "https://t.me/fomobank_coin",
+   "https://x.com/fomobank_token"
+  ],
+  "symbol": "FOMOBANK",
+  "websites": [
+   "https://fomobank.xyz/"
+  ]
+ },
+ {
   "address": "0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537",
   "description": "Fort is a community token aiming to reward web3 users through social tasks and gamified NFT mechanisms.",
   "image": "https://raw.githubusercontent.com/asterborne/directory/main/Group%201%20(1).png",
