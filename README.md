@@ -1125,6 +1125,7 @@ Name           | Address
 [Зайчик](https://tonviewer.com/0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237) | EQCpCIOM55On1ht_uKzXDXONxVjBD1YqMOIhHq6eh-oCN70d
 [Кот Матроскин](https://tonviewer.com/0:8723c7ea218f6330882e41324f8e6f3f1ff641219d9c9d5f31e258067397b898) | EQCHI8fqIY9jMIguQTJPjm8_H_ZBIZ2cnV8x4lgGc5e4mOCb
 [Крокодил Гена](https://tonviewer.com/0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1) | EQB8FQKkLgVEMqftUBA7m1OSas38-B8Ea_cWrvsEpMM-4TG1
+[Рифмы и Панчи](https://tonviewer.com/0:6113bcffd9df3efd23bc5b96f789f3f079838f8e51954f1e6d39eb29b1f1753d) | EQBhE7z_2d8-_SO8W5b3ifPweYOPjlGVTx5tOespsfF1PW8J
 [ЧМОНЯ](https://tonviewer.com/0:a7d4bdc316ce7b4708100d5f6ac9a34f25e45c9214a7f0ff739ec724e9e3dd3a) | EQCn1L3DFs57RwgQDV9qyaNPJeRckhSn8P9znsck6ePdOl0r
 [Шайлушай](https://tonviewer.com/0:957c2a220f5221b1029a570a7bc68007006c38684029edd1385630ec095ffc86) | EQCVfCoiD1IhsQKaVwp7xoAHAGw4aEAp7dE4VjDsCV_8hrIR
 [Шапокляк](https://tonviewer.com/0:dae7ec8ede6d0fa22b80683b51b8d9bf33f9d43240355f7a7d7302978e4dbae8) | EQDa5-yO3m0PoiuAaDtRuNm_M_nUMkA1X3p9cwKXjk266NL7

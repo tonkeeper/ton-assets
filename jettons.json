@@ -4854,6 +4854,11 @@
   "symbol": "BOYARE"
  },
  {
+  "address": "0:6113bcffd9df3efd23bc5b96f789f3f079838f8e51954f1e6d39eb29b1f1753d",
+  "name": "\u0420\u0438\u0444\u043c\u044b \u0438 \u041f\u0430\u043d\u0447\u0438",
+  "symbol": "RHYMETON"
+ },
+ {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
   "decimals": 6,
   "description": "USDC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
