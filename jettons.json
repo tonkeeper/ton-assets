@@ -3582,6 +3582,20 @@
   ]
  },
  {
+  "address": "0:eb954d153023f68e93ae916506b57210bfed7b852f48064c0bcbd86e4b7cb706",
+  "description": "Yo, crypto friends and Simpsons lovers!",
+  "image": "https://i.postimg.cc/zvk9y3PC/2025-02-07-19-25-47.png",
+  "name": "SPSBANK",
+  "social": [
+   "https://t.me/SPSBANK_OFFICIAL",
+   "https://x.com/SPSBANK_"
+  ],
+  "symbol": "SPS",
+  "websites": [
+   "https://spsbanks.com"
+  ]
+ },
+ {
   "address": "0:adc5b7daf5b5579fbc2c7cae55ef67d7d5116e73c9050c5ee988c8a858436010",
   "decimals": 9,
   "description": "SquidTG Metaverse Governance Token \ud83e\udd91",
