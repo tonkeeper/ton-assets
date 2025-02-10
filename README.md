@@ -787,6 +787,7 @@ Name           | Address
 [SCAM staked on JVault.xyz](https://tonviewer.com/0:35eb1b695e07fcb7b906ef6e2ca4be61f5b7bb10e54d6b4e2b2ea890fa0250f4) | EQA16xtpXgf8t7kG724spL5h9be7EOVNa04rLqiQ-gJQ9OGI
 [SCAM staked on JVault.xyz](https://tonviewer.com/0:abcf78f7782e16c7fc07b635bfca07b4527a4623e4c5b26475133494ac7777f9) | EQCrz3j3eC4Wx_wHtjW_yge0UnpGI-TFsmR1EzSUrHd3-Xr1
 [SEED](https://tonviewer.com/0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719) | EQAtwmCISetV3ncZRb1QDiHcbSgfo-Y37-zPL6NhedGHGaTf
+[SEMZ](https://tonviewer.com/0:d62d27c3e7746b4ec7b774ffdae086b005b34f1a977f321a11189fb3c81bd806) | EQDWLSfD53RrTse3dP_a4IawBbNPGpd_MhoRGJ-zyBvYBhiI
 [SHEGLOV](https://tonviewer.com/0:8ddbb8429c234147a826dc4a1ac48c78cd3b6fedf2c612b5740e8cdd7b3ace54) | EQCN27hCnCNBR6gm3EoaxIx4zTtv7fLGErV0DozdezrOVBGI
 [SHEP the Dogonaut](https://tonviewer.com/0:3aa3ef1881b139913aab813448194b10073238179d322b9388c151d1985028b5) | EQA6o-8YgbE5kTqrgTRIGUsQBzI4F50yK5OIwVHRmFAotdVO
 [SHIC Coin](https://tonviewer.com/0:c1ad99ba1a487cb3763dd8d7d42a1ef567084a666670d08804d63ddee9901fba) | EQDBrZm6Gkh8s3Y92NfUKh71ZwhKZmZw0IgE1j3e6ZAfuqbd
