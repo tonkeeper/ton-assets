@@ -4655,6 +4655,22 @@
   "symbol": "XP"
  },
  {
+  "address": "0:5517bb71bff03e540667a23af17d4ab8170c666fa132112a41ecc89a088e0f7c",
+  "description": "Youllonx! The token of blogger Sergey Poddubny. Follow the news on the TG channel and find out what will happen next.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbvf7txv_a-vaznojrxfuq4fwxmb6eyespb7miaci4pffpr.png",
+  "name": "YOULLONX",
+  "social": [
+   "https://x.com/youllonx_token?s=21",
+   "https://www.tiktok.com/@youllonx",
+   "https://www.youtube.com/@Youllonx",
+   "https://t.me/youllonx"
+  ],
+  "symbol": "YOULLONX",
+  "websites": [
+   "https://vk.com/youllonx"
+  ]
+ },
+ {
   "address": "0:a73c98074ddefb8c93822e31837ecb92e6d03acb69fb534d5d68c743906654f9",
   "decimals": 9,
   "description": "YSR \u2014 Your Sustainable Resource, a community token uniting people around the idea of a sustainable future. Our mission is to create an ecosystem where every community member has the opportunity to contribute to environmental, social, and economic sustainability. Join YSR, and together we will build a better tomorrow.",
