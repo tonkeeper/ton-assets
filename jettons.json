@@ -45,6 +45,19 @@
   ]
  },
  {
+  "address": "0:aa8cbb7715a47e53a0fc36984e048d0328b918ed1deb92ad84c1ddf10fa4c366",
+  "description": "Meta Miner is mining based on the DePin principle",
+  "name": "Meta Miner",
+  "social": [
+   "https://t.me/MetaMinerHub",
+   "https://x.com/meta_miner_mm"
+  ],
+  "symbol": "$MM",
+  "websites": [
+   "https://t.me/MetaMinerRobot/app"
+  ]
+ },
+ {
   "address": "0:9c559870b490faf34c8d16de6a61a97d010c609d434bdc5f54e65539f5eeab7e",
   "description": "Utility-token for the 13th Floor TG Game. Shape the Game's future before the Airdrop, while your Avatar is still earning money for you. Trade and Hold for in-game bonuses, purchases, NFTs, and increased chances in the main 13th Floor Airdrop.",
   "image": "https://d8bddedf-ac40-4488-8101-05035bb63d25.selstorage.ru/BlackLogo.png",
