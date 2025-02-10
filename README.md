@@ -132,6 +132,7 @@ Name           | Address
 [Amanita Muhomor Coin](https://tonviewer.com/0:d5148695c63cbce286bad2c82db573b76ca773f2464fc419f84199b07c926abb) | EQDVFIaVxjy84oa60sgttXO3bKdz8kZPxBn4QZmwfJJqu_gY
 [AmberTON](https://tonviewer.com/0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d) | EQBv2cEJ-T-1GNRdzaY_JYoJvpAISuFHOKmJZPQnoUqEHTlU
 [Ambra](https://tonviewer.com/0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49) | EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV
+[American Idiot](https://tonviewer.com/0:96d753a736d14801f8b7853b5fccbb9385187bff76980a4970acf07669cafbfc) | EQCW11OnNtFIAfi3hTtfzLuThRh7_3aYCklwrPB2acr7_Fd_
 [Amocucinare](https://tonviewer.com/0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f) | EQC7js8NLX3v57ZuRmuusNtMSBdki4va_qyL7sAwdmosf_xK
 [Andy](https://tonviewer.com/0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f) | EQDhnXQgjkymx2DgbcLZqvLClyBEsFAAr-RotkrXhf1OD3Gp
 [Anthill World](https://tonviewer.com/0:9c3737962aac1825bd53f9a2142e8cf4c42802741bb74a88dcbd501333e8d534) | EQCcNzeWKqwYJb1T-aIULoz0xCgCdBu3SojcvVATM-jVNBAZ
@@ -836,6 +837,12 @@ Name           | Address
 [Sorry Mate](https://tonviewer.com/0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1) | EQDhUoC8vFkB8BCDOVrYHylnFeLA343csl8_KSnj4FP3wc0_
 [SpinnerCoin](https://tonviewer.com/0:7b847eb025bceb65811b820b0e7017965049a03bb9659304ca7600d4e10ffffd) | EQB7hH6wJbzrZYEbggsOcBeWUEmgO7llkwTKdgDU4Q___SPN
 [Spintria](https://tonviewer.com/0:022d70f08add35b2d8aa2bd16f622268d7996e5737c3e7353cbb00d2aba257c5) | EQACLXDwit01stiqK9FvYiJo15luVzfD5zU8uwDSq6JXxbP8
+[Spintria Staking 12%](https://tonviewer.com/0:9632d50a3b8712bcd3c04e79184dffbb83330a96786fd13f800b528055c19670) | EQCWMtUKO4cSvNPATnkYTf-7gzMKlnhv0T-AC1KAVcGWcH-j
+[Spintria Staking 15%](https://tonviewer.com/0:f7908e29e633df80716a1adff745c81222da8d1204d78c00ef6312a4c428f1f8) | EQD3kI4p5jPfgHFqGt_3RcgSItqNEgTXjADvYxKkxCjx-DUF
+[Spintria Staking 18%](https://tonviewer.com/0:4cf90f9559059b775d9f6a31f62bcc74754892bb080c50afb4c579f807f6b352) | EQBM-Q-VWQWbd12fajH2K8x0dUiSuwgMUK-0xXn4B_azUgs4
+[Spintria Staking 6%](https://tonviewer.com/0:63ace5a93bcbebfa2ebe626b66bfa73c4be71cb3c40532ac5ddd3be0a90bb02f) | EQBjrOWpO8vr-i6-Ymtmv6c8S-ccs8QFMqxd3TvgqQuwL5Fc
+[Spintria Staking 9%](https://tonviewer.com/0:a5a60ddb8dd86b7353ea350a6ed1431611529cb3e4383cb5380c6092fa86f5de) | EQClpg3bjdhrc1PqNQpu0UMWEVKcs-Q4PLU4DGCS-ob13vwn
+[Spintria Vesting](https://tonviewer.com/0:473a1c3de6b4366a4031486e4fa995899d82cb0afaee4d82a59478caff489694) | EQBHOhw95rQ2akAxSG5PqZWJnYLLCvruTYKllHjK_0iWlMx-
 [Spotty](https://tonviewer.com/0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2) | EQC24zbmyONM-m3DeCCYQpDRiinGjOu2cCHevwUFGWvdotAQ
 [Squid Egg](https://tonviewer.com/0:3a634ad6cac1b81d69aba2ced5fb3ecdae312bbf20b0bcd54596fc848cb1efe4) | EQA6Y0rWysG4HWmros7V-z7NrjErvyCwvNVFlvyEjLHv5PJe
 [Squid Egg (Legacy)](https://tonviewer.com/0:d30bc8eaf594982f618540bec24633ceff995b6bcd2b667908d09cda95c1305e) | EQDTC8jq9ZSYL2GFQL7CRjPO_5lba80rZnkI0JzalcEwXgsI

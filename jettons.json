@@ -1937,6 +1937,21 @@
   ]
  },
  {
+  "address": "0:96d753a736d14801f8b7853b5fccbb9385187bff76980a4970acf07669cafbfc",
+  "description": "American Idiot stands as resistance to a confusing system. If even the president has a memecoin, why not launch a bold community coin together for $TON?",
+  "image": "https://pbs.twimg.com/profile_images/1881148388806459392/UFZG6gT4_400x400.jpg",
+  "name": "American Idiot",
+  "social": [
+   "https://t.me/realamericanidiot",
+   "http://x.com/aidiot4547"
+  ],
+  "symbol": "IDIOT",
+  "websites": [
+   "https://dexscreener.com/ton/EQCW11OnNtFIAfi3hTtfzLuThRh7_3aYCklwrPB2acr7_Fd_",
+   "https://t.me/blum/app?startapp=memepadjetton_IDIOT_JFpP2-ref_Soh9rWskxj"
+  ]
+ },
+ {
   "address": "0:203ee90f51cc02f4b1bbb8f6ef6eecab3223c5145bb3a83c1d8d657fd72701f6",
   "description": "INTIMIZER (INTI) is now on the TON blockchain! New opportunities with the INTI - Real World Asset. INTIMIZER is a premium innovative product for intimate hygiene. There are no analogues in the world market! This is your safety and comfort. Solves your current problems and prevents new ones from appearing. This is a new, previously unattainable level of intimate life! Start with INTIMIZER now. Use INTI tokens for payment and ALWAYS get your INTIMIZER at a wholesale price! Buy with INTI tokens what you need every day, what is extremely useful and pleasant, what will make your life better! Additional information and answers to your questions in the telegram channel and chat. Welcome to the INTIMIZER community. This is just the beginning",
   "name": "INTIMIZER Token",
@@ -3384,6 +3399,96 @@
    "https://vk.com/vkcoinswap"
   ],
   "symbol": "SNT"
+ },
+ {
+  "address": "0:473a1c3de6b4366a4031486e4fa995899d82cb0afaee4d82a59478caff489694",
+  "description": "Spintria Vesting Jetton",
+  "image": "https://wallet.sp.one/vesting/spv.png",
+  "name": "Spintria Vesting",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "vSP",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:63ace5a93bcbebfa2ebe626b66bfa73c4be71cb3c40532ac5ddd3be0a90bb02f",
+  "description": "Spintria Staking Jetton 6%",
+  "image": "https://wallet.sp.one/staking/sp6.png",
+  "name": "Spintria Staking 6%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP6",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:a5a60ddb8dd86b7353ea350a6ed1431611529cb3e4383cb5380c6092fa86f5de",
+  "description": "Spintria Staking Jetton 9%",
+  "image": "https://wallet.sp.one/staking/sp9.png",
+  "name": "Spintria Staking 9%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP9",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:9632d50a3b8712bcd3c04e79184dffbb83330a96786fd13f800b528055c19670",
+  "description": "Spintria Staking Jetton 12%",
+  "image": "https://wallet.sp.one/staking/sp12.png",
+  "name": "Spintria Staking 12%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP12",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:f7908e29e633df80716a1adff745c81222da8d1204d78c00ef6312a4c428f1f8",
+  "description": "Spintria Staking Jetton 15%",
+  "image": "https://wallet.sp.one/staking/sp15.png",
+  "name": "Spintria Staking 15%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP15",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:4cf90f9559059b775d9f6a31f62bcc74754892bb080c50afb4c579f807f6b352",
+  "description": "Spintria Staking Jetton 18%",
+  "image": "https://wallet.sp.one/staking/sp18.png",
+  "name": "Spintria Staking 18%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP18",
+  "websites": [
+   "https://sp.one/"
+  ]
  },
  {
   "address": "0:7b847eb025bceb65811b820b0e7017965049a03bb9659304ca7600d4e10ffffd",
