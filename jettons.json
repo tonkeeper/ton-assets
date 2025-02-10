@@ -4486,6 +4486,20 @@
   "symbol": "WB"
  },
  {
+  "address": "0:4f37dafaa3cc3b93882c5cf73cbe67cc574c5d612756fbbda08b7f0285dfea2b",
+  "description": "A fresh Web3 experience bridging digital and real-world innovation. The utility token of Weedleton Federation P2E game, powered by the unique tap2puff mechanic.",
+  "image": "https://raw.githubusercontent.com/welaskez/weedleton_bot/refs/heads/main/token_logo.png",
+  "name": "WEEDLE COIN",
+  "social": [
+   "https://t.me/weedleton",
+   "https://x.com/wdlecoin"
+  ],
+  "symbol": "WDLE",
+  "websites": [
+   "https://weedleton.com"
+  ]
+ },
+ {
   "address": "0:5eaeecfe45729016c54787a6eeb02ca5377fd5c9e67628bc82e218ae960fa741",
   "description": "\ud83d\udcb8 BuyBag is the First Trading Bot fueled by Wen Dizel, the legend of \"Fud & Furious\" \ud83c\udfce\ufe0f\ud83d\udca8  $WEND is a meme nitro used in this bot $WEND is a vibrant lights under fast cars $WEND is a family!  Don\u2019t wait! Grab your $WEND now! It\u2019s time to shift gears and ride the bull! \ud83d\udc02\ud83d\udca8 (launched on \u26fd\ufe0f GasPump)",
   "image": "https://raw.githubusercontent.com/buybagdev/wendonton/main/wend.webp",

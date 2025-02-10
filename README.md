@@ -1033,6 +1033,7 @@ Name           | Address
 [WEB3 staked on JVault.xyz](https://tonviewer.com/0:674e6e4c9cb4af79d68a7943e737684b5daafa161def372ceef88d3ae2770784) | EQBnTm5MnLSvedaKeUPnN2hLXar6Fh3vNyzu-I064ncHhBC0
 [WEB3 staked on JVault.xyz](https://tonviewer.com/0:dd0ce3feb0f23c6a1e7d62fcab4b80d642aa562dea2f313120820f5c620c5add) | EQDdDOP-sPI8ah59YvyrS4DWQqpWLeovMTEggg9cYgxa3bKE
 [WEED on TON](https://tonviewer.com/0:372f1691401cd9fd0ccfb31d7a10027f01c849974c2de2bdf725fd0d0687d298) | EQA3LxaRQBzZ_QzPsx16EAJ_AchJl0wt4r33Jf0NBofSmOY8
+[WEEDLE COIN](https://tonviewer.com/0:4f37dafaa3cc3b93882c5cf73cbe67cc574c5d612756fbbda08b7f0285dfea2b) | EQBPN9r6o8w7k4gsXPc8vmfMV0xdYSdW-72gi38Chd_qKwQ6
 [WEN DIZEL](https://tonviewer.com/0:5eaeecfe45729016c54787a6eeb02ca5377fd5c9e67628bc82e218ae960fa741) | EQBeruz-RXKQFsVHh6busCylN3_VyeZ2KLyC4hiulg-nQVfj
 [WHR staked on JVault.xyz](https://tonviewer.com/0:55310181d6ea45f9e62b0da3907b9e255483e2b380e85621f73a0fea2ba46bfb) | EQBVMQGB1upF-eYrDaOQe54lVIPis4DoViH3Og_qK6Rr-5lI
 [WHR staked on JVault.xyz](https://tonviewer.com/0:c4fd9a7135a73ff8b3fb510caa535ca7e843f5e82d3b65ab261e04501bf2de01) | EQDE_ZpxNac_-LP7UQyqU1yn6EP16C07ZasmHgRQG_LeAcSN
