@@ -355,6 +355,7 @@ Name           | Address
 [FPIBANK](https://tonviewer.com/0:f42a9711321fac28edb3e7ebce8e0bc58d34f9f2d3bed8d9afc6a839a1c15016) | EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz
 [FRANC](https://tonviewer.com/0:12c3ee18332a771c32cb4e08c3954d4407d77547970a815cd43d06e2cc758007) | EQASw-4YMyp3HDLLTgjDlU1EB9d1R5cKgVzUPQbizHWABz6U
 [FREEDOM](https://tonviewer.com/0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528) | EQBhj9Fwtr0ZwftDF13f6d1aqh5Cegdqit8BCTwbjL71KN3Z
+[FREENET](https://tonviewer.com/0:93c7d1632bef368cd2e4d3a9337e4f6d3ff98393e68a06ecca69fd986d84c077) | EQCTx9FjK-82jNLk06kzfk9tP_mDk-aKBuzKaf2YbYTAd5Sq
 [FROG staked on JVault.xyz](https://tonviewer.com/0:6783c0b478518061f752003b49244d7db453891e545ef0f7b5b4c9d2d175eb56) | EQBng8C0eFGAYfdSADtJJE19tFOJHlRe8Pe1tMnS0XXrVljn
 [FROG staked on JVault.xyz](https://tonviewer.com/0:b57609c2d48d679923c117bda7dd54876eb51413006fe83a13c839ae54bb15dc) | EQC1dgnC1I1nmSPBF72n3VSHbrUUEwBv6DoTyDmuVLsV3PTD
 [FROG staked on JVault.xyz](https://tonviewer.com/0:dc12b54e89ca8f417f73cf5467cc4846732cb7979107a086f178c3400ae596c6) | EQDcErVOicqPQX9zz1RnzEhGcyy3l5EHoIbxeMNACuWWxvde

@@ -1585,6 +1585,22 @@
   ]
  },
  {
+  "address": "0:93c7d1632bef368cd2e4d3a9337e4f6d3ff98393e68a06ecca69fd986d84c077",
+  "description": "A full-fledged IT project with its own utility \u2014 VPN inside Telegram.",
+  "image": "https://github.com/JustYay/incteam/blob/main/1024.png",
+  "name": "FREENET",
+  "social": [
+   "https://t.me/incteam_public",
+   "https://t.me/incvpn_posts",
+   "https://t.me/incvpnbot",
+   "https://discord.gg/jxnQtH7y"
+  ],
+  "symbol": "FREENET",
+  "websites": [
+   "https://incvpn.org/"
+  ]
+ },
+ {
   "address": "0:acb8c35704976feeeb94a4422a0bdb6205d930d25bb8e1e9dd0b47f52f255fc5",
   "description": "Fswap is a user-friendly and safe platform for cryptocurrency exchange. The service provides fast transactions, high level of protection of user funds without registration.",
   "image": "https://i.ibb.co/d2cxvDN/Frame-738004272.png",
