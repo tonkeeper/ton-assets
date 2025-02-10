@@ -601,6 +601,25 @@
   ]
  },
  {
+  "address": "0:0891605266bd39a869cc5efb71fe7238be39464bfc81fb8d5fb3f1d31a4a49c9",
+  "description": "$BaTON is a token created by the people, for the people. A community-driven meme token that empowers everyone, fueling a movement where every holder plays a part in its journey.",
+  "image": "https://i.ibb.co/ycNW2Y2h/1-2.png",
+  "name": "BaTON Token",
+  "social": [
+   "https://t.me/tokenBaTON_bot",
+   "https://t.me/baTON_token",
+   "https://t.me/anon_tokens",
+   "https://t.me/baton_group",
+   "https://x.com/baton_token",
+   "https://instagram.com/baton_token",
+   "https://youtube.com/@baton_token"
+  ],
+  "symbol": "BTN",
+  "websites": [
+   "https://baton-token.com"
+  ]
+ },
+ {
   "address": "0:165365ccbfd5663e63ab68b9920929f25ca8f4a6ac5f77255ed510f36ed5eee1",
   "description": "Bubb AI Agent is an innovative project integrated into the TON ecosystem that combines artificial intelligence (AI) and blockchain technologies",
   "name": "Bubb Ai Agent",

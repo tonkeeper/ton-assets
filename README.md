@@ -189,6 +189,7 @@ Name           | Address
 [BUCKY @BuckyBuyBot](https://tonviewer.com/0:287fcc08942bf0595e9f96a9d7813979d8ede8397e76a597051f09b1bb26557c) | EQAof8wIlCvwWV6flqnXgTl52O3oOX52pZcFHwmxuyZVfK03
 [BUILD](https://tonviewer.com/0:589d4ac897006b5aaa7fae5f95c5e481bd34765664df0b831a9d0eb9ee7fc150) | EQBYnUrIlwBrWqp_rl-VxeSBvTR2VmTfC4ManQ657n_BUILD
 [BUTTON](https://tonviewer.com/0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11) | EQB4vB9R1WZ0SYodVmGmKl_MrBGQFbYB8iWClXyf7zetEUv0
+[BaTON Token](https://tonviewer.com/0:0891605266bd39a869cc5efb71fe7238be39464bfc81fb8d5fb3f1d31a4a49c9) | EQAIkWBSZr05qGnMXvtx_nI4vjlGS_yB-41fs_HTGkpJyTFr
 [BaZoom](https://tonviewer.com/0:d97b8979e1b188c89acf0b04579326cb0cda6db947e74b18e5d4994acbc7d893) | EQDZe4l54bGIyJrPCwRXkybLDNptuUfnSxjl1JlKy8fYk45C
 [Baby Notcoin](https://tonviewer.com/0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620) | EQDxRD-NX0xtsu2id0tufZLdxBNoiKkzjAQqBh65Zxq2IK48
 [Baby Ton Cat](https://tonviewer.com/0:954e7c7f9f6511a3d72e267393f051f8cf525c4b11a4c979d0a46c11def13251) | EQCVTnx_n2URo9cuJnOT8FH4z1JcSxGkyXnQpGwR3vEyUeEr
