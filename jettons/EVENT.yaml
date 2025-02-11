@@ -1,5 +1,6 @@
 name: EVENTON
 description: Token for the eventon.club project
+image: https://eventon.fra1.cdn.digitaloceanspaces.com/assets/tokeneventon.png
 address: 0:ad58c90bd84024c9d166ac782f4b6675ba33c5c50de13fb277b191e086cd06e6
 symbol: EVENT
 websites:
