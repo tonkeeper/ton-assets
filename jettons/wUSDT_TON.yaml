@@ -1,0 +1,10 @@
+name: "Wrapped USDT (TON)"
+symbol: "wUSDT"
+decimals: 9  # Change this based on your Jetton's decimals
+address: "EQAJVFmjVbrndYGMnDjTYqN9Q3FQWnhwxBn3aGmXCYxPffeu"
+description: "Wrapped Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S dollar."
+image: "https://cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp"  # Provide a direct image link
+website: "https://tether.to"
+social:
+  - "https://x.com/ton_societysea?s=11"
+  - "https://t.me/stakingfacilities"
