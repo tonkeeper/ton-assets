@@ -2,3 +2,8 @@ symbol: MEMHASH
 address: EQDol2oVpmBznAL6vQpF51QW3p0PKV7ag4VEtex8_MeMHASH
 name: "Memhash"
 decimals: 9
+websites:
+  - "https://memhash.org/"
+social:
+  - "https://t.me/memhash"
+  - "https://x.com/memhash_app"
