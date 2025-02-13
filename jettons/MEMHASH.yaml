@@ -1,7 +1,8 @@
-symbol: MEMHASH
+name: Memhash
+description: ""
+image": "https://storage.googleapis.com/memhash-general/meta/mh-logo.jpg"
 address: EQDol2oVpmBznAL6vQpF51QW3p0PKV7ag4VEtex8_MeMHASH
-name: "Memhash"
-decimals: 9
+symbol: MEMHASH
 websites:
   - "https://memhash.org/"
 social:
