@@ -1,0 +1,11 @@
+name: PigBank Trust Token
+description: PigBank is a decentralized platform that fights scams in crypto. Users vote to form a Trust Score, identifying reliable projects.
+image: https://ibb.co/8gkXmc9q
+decimals: 9
+address: EQBu_AlZUNDZzz3LmSzWuwtN9g1G2L2jjzN5y0ZKUrogZug6
+symbol: PIGBANK
+websites:
+  - "https://pigbank.io"
+social:
+  - "https://t.me/PigBank_io"
+  - "https://x.com/PigBankTrust"
