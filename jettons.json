@@ -735,6 +735,20 @@
   ]
  },
  {
+  "address": "0:d89ee523b57f514a75ae396378125ee18e9db9dcbec204539e134492a5385138",
+  "description": "Carrot Farming is a project where users can get rewards by playing.",
+  "image": "https://i.imgur.com/EOZwOD2.jpeg",
+  "name": "Carrot Farming",
+  "social": [
+   "https://t.me/carrotfarmingann",
+   "https://x.com/carrotfarm_meme"
+  ],
+  "symbol": "CRT",
+  "websites": [
+   "https://carrotsfarming.com/"
+  ]
+ },
+ {
   "address": "0:adf8f18a394013fe83ce8d6b9c2d60a9fe895765e9529e32224f63cf5bb5640b",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/cash/logo.png",
