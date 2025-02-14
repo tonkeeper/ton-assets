@@ -405,6 +405,7 @@ Name           | Address
 [Glint Coin](https://tonviewer.com/0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c) | EQCBdxpECfEPH2wUxi1a6QiOkSf-5qDjUWqLCUuKtD-GLINT
 [Glitch](https://tonviewer.com/0:711d8ce05242df2e4ae6498b4e08dc6bf20ac0ec96a0be6dea96d2b73356aba5) | EQBxHYzgUkLfLkrmSYtOCNxr8grA7Jagvm3qltK3M1arpbO-
 [GoMining](https://tonviewer.com/0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3) | EQD0laik0FgHV8aNfRhebi8GDG2rpDyKGXem0MBfya_Ew1-8
+[Goblin World Token](https://tonviewer.com/0:61293e3e39a4996b104172f0c4e2ef2cdcbd6ff2effa707c5225059cced95de8) | EQBhKT4-OaSZaxBBcvDE4u8s3L1v8u_6cHxSJQWcztld6AFt
 [GoiCoin 2](https://tonviewer.com/0:42a329c662c940323bff81197fdbf07528c3af87d656f9a7b4a7b49a5d9cba28) | EQBCoynGYslAMjv_gRl_2_B1KMOvh9ZW-ae0p7SaXZy6KFjY
 [Goldverse Game Token](https://tonviewer.com/0:ba8a3faec89a86420effffdaf9b45b9f0e3d2a2441d8eac33b2bdd3265582a04) | EQC6ij-uyJqGQg7__9r5tFufDj0qJEHY6sM7K90yZVgqBEJP
 [Goy Token](https://tonviewer.com/0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51) | EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA

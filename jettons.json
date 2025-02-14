@@ -1917,6 +1917,24 @@
   "symbol": "GRIM"
  },
  {
+  "address": "0:61293e3e39a4996b104172f0c4e2ef2cdcbd6ff2effa707c5225059cced95de8",
+  "description": "Goblin World Token (GWT) is the official coin of the ever-expanding Goblin Universe on Telegram.",
+  "image": "https://api.goblinmine.game/storage/gwt_token.png",
+  "name": "Goblin World Token",
+  "social": [
+   "https://t.me/GoblinMine",
+   "https://t.me/GoblinMine_bot",
+   "https://t.me/GoblinMining_bot",
+   "https://x.com/goblin_mine",
+   "https://www.youtube.com/@Goblin_Mine",
+   "https://www.instagram.com/tg_goblin_mine_game/"
+  ],
+  "symbol": "GWT",
+  "websites": [
+   "https://goblinmine.game/"
+  ]
+ },
+ {
   "address": "0:e362287713324c235561d00b49e6a5a8fe34ea69d3d0820443df7fb12e0c4128",
   "description": "Memecoin for the loyal TON and ZkSync degens. $HAKI was inspired by the legendary tale of Hachiko, the Loyal dog. Just like Hachiko's enduring devotion to Prof Hidesabur\u014d Ueno, $HAKI token embodies loyalty, trust, and companionship in the world of Memecoins",
   "name": "Hachiko Inu",
