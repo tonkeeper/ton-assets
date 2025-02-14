@@ -121,6 +121,7 @@ Name           | Address
 [AVACOIN](https://tonviewer.com/0:11f8a05dbb02f8c3e2e0ef64055f8b564ce0090864bbd859061eb24bf50b7b3f) | EQAR-KBduwL4w-Lg72QFX4tWTOAJCGS72FkGHrJL9Qt7P9ln
 [AXMTON](https://tonviewer.com/0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07) | EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4
 [Absurd Territory](https://tonviewer.com/0:71937f4dd0ebe99090774bb63726a65799f9ba9b37f496bc9c109251f4619a83) | EQBxk39N0OvpkJB3S7Y3JqZXmfm6mzf0lrycEJJR9GGag58e
+[Agent PI](https://tonviewer.com/0:730d8404ea7065c083201119706cf9336fd7c15d73decb58248f13c2e8b2920c) | EQBzDYQE6nBlwIMgERlwbPkzb9fBXXPey1gkjxPC6LKSDITU
 [AiPhABeT](https://tonviewer.com/0:c5bb6f5c2b7e5a00f10771945f782d10aa8798d5475f569b233bf923552dd52c) | EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P
 [AiTon](https://tonviewer.com/0:a1f3917d3c65db87e57eb3c62d58ac04db2a67a52ccc70b34ea3e948fa4d4fed) | EQCh85F9PGXbh-V-s8YtWKwE2ypnpSzMcLNOo-lI-k1P7SE4
 [Airina Bolgur](https://tonviewer.com/0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9) | EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub
