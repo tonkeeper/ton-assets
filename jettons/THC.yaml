@@ -1,9 +1,8 @@
 name: ThunderCoin
 description: It's ThunderCoin,  a dynamic tap game where users click, earn, and invest to grow their wealth..
-image: "https://drive.google.com/file/d/1PTLFT9W5J62NzHCuzc22alDThGiuv1Se/view?usp=sharing"  # Replace with your actual image link
+image: "https://i.imgur.com/yrpqgQe.jpeg" 
 address: "EQD_pw6a8Ig0WBfIojbmSRSftmV1aMRg8UD5-1iBp-uef2fb"
 symbol: THC
-max_supply: 10000000000
 websites:
   - "https://thundercoin.site"
 social:
