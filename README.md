@@ -651,6 +651,7 @@ Name           | Address
 [ONLYX staked on JVault.xyz](https://tonviewer.com/0:961c626105fd1063d7c1cceac0a2b54410f1d329e342634a0ae4187bb06e7964) | EQCWHGJhBf0QY9fBzOrAorVEEPHTKeNCY0oK5Bh7sG55ZPzc
 [OPEN](https://tonviewer.com/0:746a957e372098243570481a032fce978e9d0e8b07320fc8c9d09e415569e70c) | EQB0apV-NyCYJDVwSBoDL86Xjp0OiwcyD8jJ0J5BVWnnDJu7
 [OTTON](https://tonviewer.com/0:996a89e369f449306cfdf1b22d94008c04b875ed8ddb31fb64a6999e6c99b63b) | EQCZaonjafRJMGz98bItlACMBLh17Y3bMftkppmebJm2O92Z
+[Octies](https://tonviewer.com/0:9ab2009f2633703d37471ba1fedebe592c8a390f52a0c97c1ff8f2a267ff7cbf) | EQCasgCfJjNwPTdHG6H-3r5ZLIo5D1KgyXwf-PKiZ_98v6XC
 [Only one token](https://tonviewer.com/0:d0da80734cee08b67f669aedd32f5bf94d488f4bd3ee008544ab5c4ca4b1de78) | EQDQ2oBzTO4Itn9mmu3TL1v5TUiPS9PuAIVEq1xMpLHeeEsI
 [OnlyX](https://tonviewer.com/0:4cb09038d90dadb71c114a0af21cc4fabd8a6f910d9513ed691e4310beaed535) | EQBMsJA42Q2ttxwRSgryHMT6vYpvkQ2VE-1pHkMQvq7VNXUU
 [OpenCoin](https://tonviewer.com/0:dff38153f2d74765e236f8b5dd6fc80f311a87452001ae68bc8c8ecccef56918) | EQDf84FT8tdHZeI2-LXdb8gPMRqHRSABrmi8jI7MzvVpGJKZ

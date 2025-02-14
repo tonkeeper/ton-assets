@@ -2895,6 +2895,20 @@
   "symbol": "NARUTO"
  },
  {
+  "address": "0:9ab2009f2633703d37471ba1fedebe592c8a390f52a0c97c1ff8f2a267ff7cbf",
+  "description": "OCTIES is a P2E game where users play game and earn rewards.",
+  "image": "https://i.imgur.com/Ki2zkmJ.jpeg",
+  "name": "Octies",
+  "social": [
+   "https://t.me/octies_community",
+   "https://x.com/Octies_GameFI"
+  ],
+  "symbol": "OCT",
+  "websites": [
+   "https://octies.site"
+  ]
+ },
+ {
   "address": "0:321237232c5db81f64d3adecb561e777b91b35f316ea905094deece98471ebf2",
   "description": "ODER represents the upside version of REDO.",
   "image": "https://raw.githubusercontent.com/ODER12/Logo/main/LogoOder.png",
