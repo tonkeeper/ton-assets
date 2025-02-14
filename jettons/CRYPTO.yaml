@@ -1,0 +1,10 @@
+name: "Crypto"
+symbol: "CRYPTO"
+decimals: 9
+address: "EQCYU_FspVykHCzeqBPlASjomjTJlChMV36PtyPCejKvpQGn"
+description: "CRYPTO is the gaming jetton of the ManusCrypt GameFi platform"
+image: "https://raw.githubusercontent.com/ManusCryptGame/ManusCrypt/refs/heads/main/CRYPTO_JETTON_MANUSCRYPT.png"
+website: "https://manuscrypt.io"
+social:
+  - telegram: "https://t.me/ManusCrypt_en"
+  - X: "https://x.com/ManuscryptGame"
