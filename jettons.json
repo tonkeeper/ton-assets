@@ -4636,6 +4636,21 @@
   ]
  },
  {
+  "address": "0:2ce136054660d17857e05692c0132fa03fd15fbe2305af265dd52635c0339b49",
+  "description": "Dove c'e Barilla, c'e casa.",
+  "image": "https://i.ibb.co/k2r2p4hp/bafkreibzyh7yn6izsnzjhsx2tzxsksjsmzjazkpdlezbmzcob4opy4kvzq.jpg",
+  "name": "Vibemacaron",
+  "social": [
+   "https://x.com/vibemacaron",
+   "https://t.me/vibemacaron",
+   "https://t.me/vmforum"
+  ],
+  "symbol": "BARILLA",
+  "websites": [
+   "https://dexscreener.com/ton/EQD-E1L74SVWShYO7Br6e_ltbu1lwiEu3zQ3Mq9sGvZVvQzJ"
+  ]
+ },
+ {
   "address": "0:9735267dde342668dd08e44f25058ab5c4a5d612c4c36b92a460b9ed863ce53c",
   "coingecko": "https://www.coingecko.com/en/coins/war-three-kingdoms",
   "description": "Easy and fast Three Kingdomes Idle RPG",
