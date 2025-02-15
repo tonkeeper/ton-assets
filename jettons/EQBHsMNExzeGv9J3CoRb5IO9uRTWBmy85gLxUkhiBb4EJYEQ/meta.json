@@ -1,1 +1,13 @@
+{
+  "name": "SharkTON",
+  "symbol": "SHT",
+  "description": "Be a Shark of the crypto market",
+  "decimals": 9,
+  "address": "EQBHsMNExzeGv9J3CoRb5IO9uRTWBmy85gLxUkhiBb4EJYEQ",
+  "image": "https://i.ibb.co/x8m68x9Q/5298651920321344447-1.png",
+  "websites": [],
+  "social": {
+    "telegram": "https://t.me/SharkCryptoTON"
+  }
+}
 
