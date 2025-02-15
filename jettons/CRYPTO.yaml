@@ -1,0 +1,10 @@
+name: "Crypto"
+description: "CRYPTO is the main reward token in the ManusCrypt ecosystem."
+image: "https://raw.githubusercontent.com/ManusCryptGame/ManusCrypt/main/CRYPTO_JETTON_MANUSCRYPT.png"
+address: "EQCYU_FspVykHCzeqBPlASjomjTJlChMV36PtyPCejKvpQGn"
+symbol: "CRYPTO"
+websites:
+  - "https://manuscrypt.io"
+social:
+  - "https://t.me/ManusCrypt_en"
+  - "https://x.com/manuscryptgame"
