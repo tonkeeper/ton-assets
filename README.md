@@ -1040,6 +1040,7 @@ Name           | Address
 [Vladimir Putin's Dog](https://tonviewer.com/0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542) | EQA0tQ880E68-ZGsugW3kjm5hk_5hUAWTdVggFlJmqqVQgCm
 [Vladimir Puton](https://tonviewer.com/0:0cd0b3c29d2b2fe6656006a302bbbd24bdbc4dad2b617e1bbf4207944e7be0b4) | EQAM0LPCnSsv5mVgBqMCu70kvbxNrSthfhu_QgeUTnvgtD22
 [Volodemer](https://tonviewer.com/0:f9ac61a0562235ea74f99cbd1ab82c199533c26f008e223364231d682d6d76b4) | EQD5rGGgViI16nT5nL0auCwZlTPCbwCOIjNkIx1oLW12tFgo
+[WASE WORM](https://tonviewer.com/0:724685d0ad5a02bc70965a378e2d713dc1423dfd71216b8c8a4cb47ef9c56c0f) | EQByRoXQrVoCvHCWWjeOLXE9wUI9_XEha4yKTLR--cVsD1MM
 [WATCoin](https://tonviewer.com/0:84ab3db1dfe51bfc43b8639efdf0d368a8ac35b4ffed27a6fdcbe5f40b8bafb3) | EQCEqz2x3-Ub_EO4Y5798NNoqKw1tP_tJ6b9y-X0C4uvs8Zf
 [WEB3 Vault](https://tonviewer.com/0:64216a0ead5819dca7d1719fc912cfa6673665a1c5fcf7338ca5b2ce65f12f80) | EQBkIWoOrVgZ3KfRcZ_JEs-mZzZlocX89zOMpbLOZfEvgACY
 [WEB3 staked on JVault.xyz](https://tonviewer.com/0:3e0f00fafd7949933f9ccfb4f67fb09b6b85d9c5122a210beaeb21278b0c857f) | EQA-DwD6_XlJkz-cz7T2f7Cba4XZxRIqIQvq6yEniwyFf8nm

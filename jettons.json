@@ -4665,6 +4665,21 @@
   ]
  },
  {
+  "address": "0:724685d0ad5a02bc70965a378e2d713dc1423dfd71216b8c8a4cb47ef9c56c0f",
+  "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0441\u0442\u0440\u0438\u0442\u0432\u0438\u0440 \u0442\u043e\u043a\u0435\u043d!",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbyroxqrvocvhcwwjeolxe9wui9_xeha4yktlr--cvsd1mm.png?size=lg&key=e03496",
+  "name": "WASE WORM",
+  "social": [
+   "https://t.me/waseworm",
+   "https://t.me/waseworm_crypto",
+   "https://t.me/wasewormch"
+  ],
+  "symbol": "WASEWORM",
+  "websites": [
+   "https://waseworm.ru/"
+  ]
+ },
+ {
   "address": "0:84ab3db1dfe51bfc43b8639efdf0d368a8ac35b4ffed27a6fdcbe5f40b8bafb3",
   "name": "WATCoin",
   "social": [
