@@ -10,13 +10,11 @@ Name           | Address
 ---------------|-----------
 %s
 
-
 ## NFT collections
 
 Name           | Address
 ---------------|-----------
 %s
-
 
 ## Jettons
 
@@ -24,6 +22,25 @@ Name           | Address
 ---------------|-----------
 %s
 
+## Deploying Jettons
+
+1. **Prepare Smart Contracts:**
+   - Ensure you have the smart contract code for the jetton master and jetton wallets.
+   - Compile the smart contracts.
+
+2. **Deploy Jetton Master:**
+   - Deploy the jetton master contract on the blockchain.
+   - Initialize the contract with the necessary parameters such as total supply, admin address, and jetton content.
+
+3. **Mint Jettons (if applicable):**
+   - If the jetton is mintable, use the mint function to create new jettons and assign them to specific wallets.
+
+4. **Deploy Jetton Wallets:**
+   - Deploy the jetton wallet contracts for each user who will hold the jettons.
+   - Initialize each wallet with the jetton master address and the user's address.
+
+5. **Transfer Jettons:**
+   - Use the transfer function to send jettons from one wallet to another.
 
 ## Structure
 
