@@ -804,6 +804,7 @@ Name           | Address
 [SHEP the Dogonaut](https://tonviewer.com/0:3aa3ef1881b139913aab813448194b10073238179d322b9388c151d1985028b5) | EQA6o-8YgbE5kTqrgTRIGUsQBzI4F50yK5OIwVHRmFAotdVO
 [SHIC Coin](https://tonviewer.com/0:c1ad99ba1a487cb3763dd8d7d42a1ef567084a666670d08804d63ddee9901fba) | EQDBrZm6Gkh8s3Y92NfUKh71ZwhKZmZw0IgE1j3e6ZAfuqbd
 [SHIVA the cat on Ton](https://tonviewer.com/0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc) | EQAQAYqUr9IDiiMQKvXXHtLhT77WvbhH7VGhvPPJmBVF3O7y
+[SHMABANK](https://tonviewer.com/0:553398833df5038c5c81b34ad2ae65646eecb7e2233087f74ac06f24a43df43f) | EQBVM5iDPfUDjFyBs0rSrmVkbuy34iMwh_dKwG8kpD30PxNt
 [SIMBA](https://tonviewer.com/0:418cc07e7a971da285742ca4803a5d76b1e7bde0e9e59545855e2d26a98646b1) | EQBBjMB-epcdooV0LKSAOl12see94OnllUWFXi0mqYZGsXr2
 [SKLAD ASTAHOVA](https://tonviewer.com/0:504c5fc01443793ccf2b620deb70d6c01fceb335b2172a1663330de3abcca3f9) | EQBQTF_AFEN5PM8rYg3rcNbAH86zNbIXKhZjMw3jq8yj-QT6
 [SLUT](https://tonviewer.com/0:f1881739b47deb18bef156d845cfce12585c855503c63a6847821adfd550382c) | EQDxiBc5tH3rGL7xVthFz84SWFyFVQPGOmhHghrf1VA4LBTu
