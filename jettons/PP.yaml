@@ -1,0 +1,9 @@
+name: "Profit Pathway"
+symbol: "PP"
+address: "0:b88ed109c09c3f95817effce639d312d6f6f35c6f2b9149d0ecde02826f95436"
+decimals: 9
+image: "https://cache.tonapi.io/imgproxy/L7KjCSGqQuq6wg14XJ7luMPMA3AiT6u6dglshFmmrCc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2Mvbkxja1BTMjAvVW50aXRsZWQtZGVzaWduLTEwLnBuZw.webp"
+description: "Profit Pathway"
+website: "https://profitpathway.vercel.app/"
+social:
+  - "https://t.me/pr0fit_pathway"
