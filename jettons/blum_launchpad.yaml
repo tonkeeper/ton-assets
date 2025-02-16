@@ -69,3 +69,8 @@
 - symbol: SHMABANK
   name: SHMABANK
   address: "EQBVM5iDPfUDjFyBs0rSrmVkbuy34iMwh_dKwG8kpD30PxNt"
+
+- symbol: DDOG
+  name: DeadPullDog
+  address: "EQDcN_KG_X1B0CHmZ6FrQ2AEI66d_4UQ-6_ZWXpTOmIPe8Qw"
+  
