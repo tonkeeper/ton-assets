@@ -1,9 +1,10 @@
-name: "Profit Pathway"
-symbol: "PP"
-address: "EQC4jtEJwJw_lYF-_85jnTEtb281xvK5FJ0OzeAoJvlUNqlX"
+name: Profit Pathway
+description: Profit Pathway
+image: https://i.postimg.cc/nLckPS20/Untitled-design-10.png
+address: EQC4jtEJwJw_lYF-_85jnTEtb281xvK5FJ0OzeAoJvlUNqlX
+symbol: PP
 decimals: 9
-image: "https://i.postimg.cc/nLckPS20/Untitled-design-10.png"
-description: "Profit Pathway"
-website: "https://profitpathway.vercel.app/"
-social:
+websites: 
+  - "https://profitpathway.vercel.app/"
+social: 
   - "https://t.me/pr0fit_pathway"
