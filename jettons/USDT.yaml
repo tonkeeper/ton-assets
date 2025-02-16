@@ -1,0 +1,43 @@
+name: Tether USD
+description: "Tether USD (USDT) is a stablecoin pegged to the value of the US dollar."
+image: "https://cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp"
+address: "0:90CB6F3833EAD9E72261087D98D181C632A36AF37BF223397163210AE7543676"
+symbol: USDT
+total_supply: "1000000000000000000"
+mintable: false
+admin_address: "0:FA146529B8E269FFCD7A5EACF9473B641E35389C302D7E8C3DF56EB3DE9C7F01"
+decimals: 6
+jetton_wallet_code_hash: "YslTP80AoNcIgQukObOo0ApC5/LBFhYjNSHiDE11T+k="
+code_hash: "YslTP80AoNcIgQukObOo0ApC5/LBFhYjNSHiDE11T+k="
+data_hash: "nDAN/uDMuxUayZ/+xJWeLbhROMNZsfRzluDPptUMvJU="
+last_transaction_lt: "50452232000003"
+
+metadata:
+  is_indexed: true
+  token_info:
+    - type: "jetton_masters"
+      name: "Tether USD"
+      symbol: "USDT"
+      image: "https://cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp"
+      extra:
+        _image_big: "https://imgproxy.toncenter.com/3JzVI18w1nwE78ussKfVyNVN31I9IKbO554JTXZvfjU/pr:big/plain/https:/cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp"
+        _image_medium: "https://imgproxy.toncenter.com/CBIieX2e2JTy3S6S2npWAKEhO_tfIPV9sCO32SdEFEw/pr:medium/plain/https:/cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp"
+        _image_small: "https://imgproxy.toncenter.com/yRCSZhS9vWTyQUbEM17oytawbTR3xZ07cppNs7oDzz8/pr:small/plain/https:/cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp"
+        decimals: "6"
+
+websites:
+  - "https://tether.to/"
+
+social:
+  - "https://twitter.com/Tether_to"
+
+jetton_masters:
+  - address: "0:90CB6F3833EAD9E72261087D98D181C632A36AF37BF223397163210AE7543676"
+    total_supply: "1000000000000000000"
+    mintable: false
+    admin_address: "0:FA146529B8E269FFCD7A5EACF9473B641E35389C302D7E8C3DF56EB3DE9C7F01"
+    jetton_content:
+      decimals: "6"
+      image: "https://cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp"
+      name: "Tether USD"
+      symbol: "USDT"
