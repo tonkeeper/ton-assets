@@ -3401,6 +3401,20 @@
   ]
  },
  {
+  "address": "0:4da7033be81d36a70fe3fd43da6a6bdb5317ea1595a636a3c2405ed1a1f9cbc6",
+  "description": "Get your roddgazm here",
+  "image": "https://raw.githubusercontent.com/rodd-oss/roddgazm/refs/heads/main/assets/logo.png",
+  "name": "RODDGAZM",
+  "social": [
+   "https://twitch.tv/milanrodd",
+   "https://t.me/milanrodd"
+  ],
+  "symbol": "RODDGAZM",
+  "websites": [
+   "https://github.com/rodd-oss/roddgazm"
+  ]
+ },
+ {
   "address": "0:b1d6b0f11d029ddd7589d67c4749fb869f6361df34c33a97987a6aca2dec33ca",
   "decimals": 9,
   "description": "ROON is here to sneak himself to the top of TON!",
