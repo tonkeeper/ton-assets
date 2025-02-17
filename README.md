@@ -1142,6 +1142,7 @@ Name           | Address
 [Крокодил Гена](https://tonviewer.com/0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1) | EQB8FQKkLgVEMqftUBA7m1OSas38-B8Ea_cWrvsEpMM-4TG1
 [Рифмы и Панчи](https://tonviewer.com/0:6113bcffd9df3efd23bc5b96f789f3f079838f8e51954f1e6d39eb29b1f1753d) | EQBhE7z_2d8-_SO8W5b3ifPweYOPjlGVTx5tOespsfF1PW8J
 [ЧМОНЯ](https://tonviewer.com/0:a7d4bdc316ce7b4708100d5f6ac9a34f25e45c9214a7f0ff739ec724e9e3dd3a) | EQCn1L3DFs57RwgQDV9qyaNPJeRckhSn8P9znsck6ePdOl0r
+[Чёрный Лебедь](https://tonviewer.com/0:1cbd34f94248c001fc9d2d493c2ea89a858b557fdcb66320f917eef9e5330d4b) | EQAcvTT5QkjAAfydLUk8LqiahYtVf9y2YyD5F-755TMNS8RC
 [Шайлушай](https://tonviewer.com/0:957c2a220f5221b1029a570a7bc68007006c38684029edd1385630ec095ffc86) | EQCVfCoiD1IhsQKaVwp7xoAHAGw4aEAp7dE4VjDsCV_8hrIR
 [Шапокляк](https://tonviewer.com/0:dae7ec8ede6d0fa22b80683b51b8d9bf33f9d43240355f7a7d7302978e4dbae8) | EQDa5-yO3m0PoiuAaDtRuNm_M_nUMkA1X3p9cwKXjk266NL7
 [матрёшка](https://tonviewer.com/0:905737d037268c177108eaed19b7b51672deaee90545de7fa73d406ed07aa979) | EQCQVzfQNyaMF3EI6u0Zt7UWct6u6QVF3n-nPUBu0HqpedY-
