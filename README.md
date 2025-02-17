@@ -950,6 +950,7 @@ Name           | Address
 [TYIELD](https://tonviewer.com/0:10b20774fe688788407d2cba0f8fad9cf94eabfbe5f8a5801134c7ac9769d805) | EQAQsgd0_miHiEB9LLoPj62c-U6r--X4pYARNMesl2nYBRsE
 [Ta-da Token](https://tonviewer.com/0:1ef72ed45e14e38451a1e14d7b3c29377e0aa36444601a75df70855b8bc6647d) | EQAe9y7UXhTjhFGh4U17PCk3fgqjZERgGnXfcIVbi8ZkfXM1
 [TapOk](https://tonviewer.com/0:ad7e1ca61254be4aa97d52e23766f3a619b2b54fca6c150ca1d81746022ae6a8) | EQCtfhymElS-Sql9UuI3ZvOmGbK1T8psFQyh2BdGAirmqJ21
+[TapSwapToken](https://tonviewer.com/0:f7af5a0255c6ab5d5ef210dc3a3d00b663b61ddbd7a7cac784225011442e3e1e) | EQD3r1oCVcarXV7yENw6PQC2Y7Yd29enyseEIlARRC4-HtAp
 [Taurus](https://tonviewer.com/0:47fa54e01a87bac7ec01a1919b39205d5637c89af2c40366ee792fc9477181b2) | EQBH-lTgGoe6x-wBoZGbOSBdVjfImvLEA2bueS_JR3GBsqFb
 [Tektoniks](https://tonviewer.com/0:a1d37d53a6846d76bc71af4289521f209c49096d5de2370f502be75a1f4754f4) | EQCh031TpoRtdrxxr0KJUh8gnEkJbV3iNw9QK-daH0dU9HJV
 [TeleSwap](https://tonviewer.com/0:0660ad3c0da25a429999112cf7cbd82a8bbae6a68062c8a42bbbe7e2acec2a3f) | EQAGYK08DaJaQpmZESz3y9gqi7rmpoBiyKQru-firOwqPzR4
