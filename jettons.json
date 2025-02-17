@@ -530,6 +530,18 @@
   ]
  },
  {
+  "address": "0:1cbd34f94248c001fc9d2d493c2ea89a858b557fdcb66320f917eef9e5330d4b",
+  "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c-\u043a\u0430\u043d\u0430\u043b, \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0432\u0448\u0438\u0439 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d. \u041d\u0430\u0448\u0443 \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u0438\u0437\u0443 \u0446\u0435\u043d\u044f\u0442 \u0442\u043e\u043f\u043e\u0432\u044b\u0435 \u043b\u0438\u0434\u0435\u0440\u044b \u043c\u043d\u0435\u043d\u0438\u0439 \u0420\u0424. \u041c\u044b \u0434\u0430\u0435\u043c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0434\u043f\u0438\u0441\u0447\u0438\u043a\u0430\u043c \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u043d\u0430\u0448\u0435\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u0430 \u0438 \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u043d\u0430 \u044d\u0442\u043e\u043c. \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0442\u0435\u0441\u044c \u043a BLKSWN!",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqacvtt5qkjaafydluk8lqiahytvf9y2yyd5f-755tmns8rc.png?size=lg&key=deb4c3",
+  "name": "\u0427\u0451\u0440\u043d\u044b\u0439 \u041b\u0435\u0431\u0435\u0434\u044c",
+  "social": [
+   "https://t.me/swaneconomy",
+   "https://t.me/blkswn_chat",
+   "https://t.me/blkswn_ton"
+  ],
+  "symbol": "BLKSWN"
+ },
+ {
   "address": "0:616145dd7608f4b5e0f9be07779474f391d79263fc5e9ce331659e23e0e52a7b",
   "description": "Blockchemy is a blockchain-powered Telegram mini-game that merges alchemy-themed crafting with a player-driven economy, centered around BLOMY, its main utility token. Players can explore hidden storylines, craft unique items, and trade collectible cards in a decentralized marketplace. By earning and utilizing BLOMY, players have a real opportunity to profit from their in-game activities, turning gameplay into a rewarding experience where creativity and strategy translate into tangible value.",
   "image": "https://blockchemy.io/logo.png",
@@ -562,6 +574,17 @@
   "websites": [
    "https://blocktube.tv"
   ]
+ },
+ {
+  "address": "0:bffed90f833e689503d335277ff8d8bb8b00dfacd913fddae831d65b63cd9e51",
+  "description": "Blum Girl - is a meme token created for fun and community engagement. It has no real value and offers no guarantees of profit. Invest only what you can afford to lose.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqc__tkpgz5olqptnsd_-ni7iwdfrnkt_dromdzby82euree.png?size=lg&key=03a024",
+  "name": "BLUMGIRL",
+  "social": [
+   "https://t.me/Blum_Girl",
+   "https://x.com/i/communities/1889924901634711977"
+  ],
+  "symbol": "BLUMGIRL"
  },
  {
   "address": "0:66f143ad8511cc1abeab0ac351355c0502b6077163a0c3aa408f8259d91890fb",
@@ -864,6 +887,21 @@
   "symbol": "COIN",
   "websites": [
    "https://linktr.ee/TheCoinonTon"
+  ]
+ },
+ {
+  "address": "0:42cda1535ef76883a47089a50133562de4173363470a049dab674ab40be73e78",
+  "description": "Join the Conton revolution! Enough to tolerate leaks and manipulations! While other projects are pumping money out of the community, we are creating an honest coin, where profits go only to development. Conton is a symbol of protest against those who lost on TON, NOT, PX, DOGS and other hypes. It's time for a truly honest crypto project! Instead of promises - actions. Instead of empty words - development.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbczaftxvdog6rwiaubm1yt5bczy0ckbj2rz0q0c-c-ep84.png?size=lg&key=dfab02",
+  "name": "CONTON",
+  "social": [
+   "https://t.me/contonx",
+   "https://youtube.com/@conton-r5z?si=lwYc6Ff",
+   "https://x.com/contontoken?s=21"
+  ],
+  "symbol": "ConTon",
+  "websites": [
+   "https://contonmeme.com/"
   ]
  },
  {
@@ -2449,6 +2487,20 @@
   ]
  },
  {
+  "address": "0:42b601c74b2d1c5d5d5a64bf7138384e7a56ef7142d8445ae8337455a05f19ec",
+  "description": "The first token, backed up not by words, but by deeds! A unique concept and inimitable approach are already waiting for you!",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbctghhsy0cxv1azl9xodhoelbvculyrfrom3rvof8z7mqe.png?size=xl&key=1981b2",
+  "name": "MAMOHT COIN",
+  "social": [
+   "https://t.me/mamoht_coin",
+   "https://t.me/mamoht_chat"
+  ],
+  "symbol": "MAMOHT",
+  "websites": [
+   "https://mamoht.top/"
+  ]
+ },
+ {
   "address": "0:7bd163594656f9190a4b6ed47d3a60e1e3dacc7c30e5320d3623b7f418573dd0",
   "description": "The Educational Mission and Live Transparency! We're not just a token, we're a movement for honesty in the crypto space! Our main goal is to educate and protect people from scams and unscrupulous projects.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb70wnzrlb5gqplbtr9omdh49rmfddlmg02i7f0gfc90l3k.png?size=xl",
@@ -2866,6 +2918,22 @@
   "symbol": "NOTNOT",
   "websites": [
    "http://notnotcoin.com/"
+  ]
+ },
+ {
+  "address": "0:e4914d1fa03b77be2509da88714efadef1150bb95988fa527a9a24781ce501ac",
+  "description": "NOT Punks Official \u2014 \u043c\u0435\u043c-\u0442\u043e\u043a\u0435\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043b\u043e\u043c\u0430\u0435\u0442 \u0441\u0442\u0435\u0440\u0435\u043e\u0442\u0438\u043f\u044b! \u042d\u0442\u043e \u043d\u0435 \u043a\u043b\u043e\u043d, \u043d\u0435 \u0445\u0430\u0439\u043f, \u0430 \u0432\u044b\u0437\u043e\u0432 \u0432\u0441\u0435\u043c\u0443 \u0441\u043a\u0443\u0447\u043d\u043e\u043c\u0443 \u0432 \u043a\u0440\u0438\u043f\u0442\u0435. \u041c\u0435\u043c\u044b \u2014 \u043d\u043e\u0432\u044b\u0439 \u043e\u043d\u0431\u043e\u0440\u0434\u0438\u043d\u0433, \u0430 \u0441\u043c\u0435\u0445 \u2014 \u043b\u0443\u0447\u0448\u0430\u044f \u0432\u0430\u043b\u044e\u0442\u0430. \u0412\u0440\u044b\u0432\u0430\u0439\u0441\u044f \u0432 NOT Punks, \u043f\u043e\u043a\u0430 \u044d\u0442\u043e \u043d\u0435 \u0441\u0442\u0430\u043b\u043e \u043c\u0435\u0439\u043d\u0441\u0442\u0440\u0438\u043c\u043e\u043c!",
+  "image": "https://cdn.blum.codes/e564f792-0133-4be9-8a69-4cbd7b977954/a7c2b3e9-0104-4338-be7a-a897ccd952ac",
+  "name": "NOT Punks Official",
+  "social": [
+   "https://t.me/NOTPUNKSToken"
+  ],
+  "symbol": "NOTPUNKS",
+  "websites": [
+   "https://notpunks.com/",
+   "https://getgems.io/not-punks",
+   "https://getgems.io/notpunks-girls",
+   "https://x.com/thenotpunks"
   ]
  },
  {
@@ -3372,6 +3440,20 @@
   "symbol": "RIDO",
   "websites": [
    "https://epic-clash-story.com/"
+  ]
+ },
+ {
+  "address": "0:4da7033be81d36a70fe3fd43da6a6bdb5317ea1595a636a3c2405ed1a1f9cbc6",
+  "description": "Get your roddgazm here",
+  "image": "https://raw.githubusercontent.com/rodd-oss/roddgazm/refs/heads/main/assets/logo.png",
+  "name": "RODDGAZM",
+  "social": [
+   "https://twitch.tv/milanrodd",
+   "https://t.me/milanrodd"
+  ],
+  "symbol": "RODDGAZM",
+  "websites": [
+   "https://github.com/rodd-oss/roddgazm"
   ]
  },
  {
@@ -4043,6 +4125,19 @@
   ]
  },
  {
+  "address": "0:f7af5a0255c6ab5d5ef210dc3a3d00b663b61ddbd7a7cac784225011442e3e1e",
+  "image": "https://tapswap.club/ton/logo-256.png",
+  "name": "TapSwapToken",
+  "social": [
+   "https://x.com/tapswapai",
+   "https://t.me/tapswapai"
+  ],
+  "symbol": "TAPS",
+  "websites": [
+   "https://www.tapswap.ai/"
+  ]
+ },
+ {
   "address": "0:7604e727930b08b23a9dfab6c09b86efaee9b7fcc24a312829f7be20efecc8a3",
   "description": "Ton Attack utilises a unique set of strategy cards which is comprised of major memes on the Ton Blockchain.   Use these cards to shill your favourite projects. You can also earn $TAX by playing/spending on the new mini app.  https://t.me/OfficialTonAttack",
   "image": "https://universal-1.github.io/images/ton-attack.webp",
@@ -4636,6 +4731,21 @@
   ]
  },
  {
+  "address": "0:2ce136054660d17857e05692c0132fa03fd15fbe2305af265dd52635c0339b49",
+  "description": "Dove c'e Barilla, c'e casa.",
+  "image": "https://i.ibb.co/k2r2p4hp/bafkreibzyh7yn6izsnzjhsx2tzxsksjsmzjazkpdlezbmzcob4opy4kvzq.jpg",
+  "name": "Vibemacaron",
+  "social": [
+   "https://x.com/vibemacaron",
+   "https://t.me/vibemacaron",
+   "https://t.me/vmforum"
+  ],
+  "symbol": "BARILLA",
+  "websites": [
+   "https://dexscreener.com/ton/EQD-E1L74SVWShYO7Br6e_ltbu1lwiEu3zQ3Mq9sGvZVvQzJ"
+  ]
+ },
+ {
   "address": "0:9735267dde342668dd08e44f25058ab5c4a5d612c4c36b92a460b9ed863ce53c",
   "coingecko": "https://www.coingecko.com/en/coins/war-three-kingdoms",
   "description": "Easy and fast Three Kingdomes Idle RPG",
@@ -4662,6 +4772,21 @@
   "symbol": "WALDO",
   "websites": [
    "https://waldonton.com"
+  ]
+ },
+ {
+  "address": "0:724685d0ad5a02bc70965a378e2d713dc1423dfd71216b8c8a4cb47ef9c56c0f",
+  "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0441\u0442\u0440\u0438\u0442\u0432\u0438\u0440 \u0442\u043e\u043a\u0435\u043d!",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbyroxqrvocvhcwwjeolxe9wui9_xeha4yktlr--cvsd1mm.png?size=lg&key=e03496",
+  "name": "WASE WORM",
+  "social": [
+   "https://t.me/waseworm",
+   "https://t.me/waseworm_crypto",
+   "https://t.me/wasewormch"
+  ],
+  "symbol": "WASEWORM",
+  "websites": [
+   "https://waseworm.ru/"
   ]
  },
  {
@@ -4989,6 +5114,11 @@
   "address": "0:6113bcffd9df3efd23bc5b96f789f3f079838f8e51954f1e6d39eb29b1f1753d",
   "name": "\u0420\u0438\u0444\u043c\u044b \u0438 \u041f\u0430\u043d\u0447\u0438",
   "symbol": "RHYMETON"
+ },
+ {
+  "address": "0:553398833df5038c5c81b34ad2ae65646eecb7e2233087f74ac06f24a43df43f",
+  "name": "SHMABANK",
+  "symbol": "SHMABANK"
  },
  {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
