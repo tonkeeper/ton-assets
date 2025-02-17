@@ -171,6 +171,7 @@ Name           | Address
 [BITTON staked on JVault.xyz](https://tonviewer.com/0:d4dfdf0cc1939e69e39a564e57d0cf230badc220e550221217210b8b8c1f1866) | EQDU398MwZOeaeOaVk5X0M8jC63CIOVQIhIXIQuLjB8YZj58
 [BITTON staked on JVault.xyz](https://tonviewer.com/0:d986bf47807d3e8c749ebbfbba98065804b851e44b41424315b4548d0752ed84) | EQDZhr9HgH0-jHSeu_u6mAZYBLhR5EtBQkMVtFSNB1LthLDZ
 [BLT](https://tonviewer.com/0:37d2215ef1b742ed92b0f7891ecbc500db501ecb81435714364d60dc4136762e) | EQA30iFe8bdC7ZKw94key8UA21Aey4FDVxQ2TWDcQTZ2LsJf
+[BLUMGIRL](https://tonviewer.com/0:bffed90f833e689503d335277ff8d8bb8b00dfacd913fddae831d65b63cd9e51) | EQC__tkPgz5olQPTNSd_-Ni7iwDfrNkT_droMdZbY82eUReE
 [BLUPE](https://tonviewer.com/0:a7964987cf9c929552df794ab33e4ea96a3c39bdd538f09ccbe9282f02cfaf86) | EQCnlkmHz5ySlVLfeUqzPk6pajw5vdU48JzL6SgvAs-vhmSR
 [BNK jetton](https://tonviewer.com/0:23d6a5ba5994ddeec777dd4938f0edd3ab134f32362b83044701c04cf1171009) | EQAj1qW6WZTd7sd33Uk48O3TqxNPMjYrgwRHAcBM8RcQCQAD
 [BOLGUR staked on JVault.xyz](https://tonviewer.com/0:28b4903d9443b9250c4ce45ff028e132e5f0a9188c57db125a2ab50ffcdf46bf) | EQAotJA9lEO5JQxM5F_wKOEy5fCpGIxX2xJaKrUP_N9Gv6nZ

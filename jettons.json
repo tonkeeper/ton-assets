@@ -564,6 +564,17 @@
   ]
  },
  {
+  "address": "0:bffed90f833e689503d335277ff8d8bb8b00dfacd913fddae831d65b63cd9e51",
+  "description": "Blum Girl - is a meme token created for fun and community engagement. It has no real value and offers no guarantees of profit. Invest only what you can afford to lose.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqc__tkpgz5olqptnsd_-ni7iwdfrnkt_dromdzby82euree.png?size=lg&key=03a024",
+  "name": "BLUMGIRL",
+  "social": [
+   "https://t.me/Blum_Girl",
+   "https://x.com/i/communities/1889924901634711977"
+  ],
+  "symbol": "BLUMGIRL"
+ },
+ {
   "address": "0:66f143ad8511cc1abeab0ac351355c0502b6077163a0c3aa408f8259d91890fb",
   "description": "BMW Coin is like a Dogcoin - only BMW",
   "image": "https://raw.githubusercontent.com/2006vlad2006/website/refs/heads/main/BMW_logo_GitHub.png",
