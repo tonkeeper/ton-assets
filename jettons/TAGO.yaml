@@ -3,7 +3,7 @@ symbol: TAGO
 description: "TAGO is a memorable token that will decorate your wallet! The mini-app TAGO will allow more people to learn about our project and become part of our community. We hope you will enjoy your time with your wolf companion and their tokens."
 address: "0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2"
 decimals: 9
-image: "https://cache.tonapi.io/imgproxy/cUNniytu30vN-oc08uivSocQj-3pNzN5HX9yOHNJZIM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9kMTIxdnR5NzU5bnBhaS5jbG91ZGZyb250Lm5ldC9pbWFnZXMvOGMyZGM2ZmQyZWRlNDc4Mjg2MWJhOGRkMjY2Y2Y1ZWUucG5n.webp"
+image: "https://raw.githubusercontent.com/ogatonton/jettons/refs/heads/main/TAGO.png"
 social:
   - "https://t.me/tagowolf"
   - "https://t.me/TagoWolfBot"
