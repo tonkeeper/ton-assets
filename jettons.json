@@ -2210,6 +2210,23 @@
   ]
  },
  {
+  "address": "0:108af25116f5ee2431a0861784f515f4efa1c78f24b3e7e42e1d99df7ff8e75e",
+  "coingecko": "https://coingecko.com/en/coins/jpool",
+  "coinmarketcap": "https://coinmarketcap.com/currencies/jpool/",
+  "decimals": 9,
+  "description": "JSOL is a token that represents SOL staked in JPool, a Solana liquid pool.",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn/logo.svg",
+  "name": "JPool Staked SOL",
+  "social": [
+   "https://t.me/jpoolsolana",
+   "https://twitter.com/JPoolSolana"
+  ],
+  "symbol": "JSOL",
+  "websites": [
+   "https://jpool.one"
+  ]
+ },
+ {
   "address": "0:4f0156ba7e3322831b271c5df7510ddabae7d5ae0d99f250594d8f51fa2b1f8c",
   "name": "Wrapped TON",
   "symbol": "JTON"

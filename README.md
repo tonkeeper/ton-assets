@@ -456,6 +456,7 @@ Name           | Address
 [JMT staked on JVault.xyz](https://tonviewer.com/0:0e5037d868f1c6241019e475dba0da98457cccac5e69f34b1ac060d4532f2a57) | EQAOUDfYaPHGJBAZ5HXboNqYRXzMrF5p80sawGDUUy8qV4Hr
 [JMT staked on JVault.xyz](https://tonviewer.com/0:26bbf135cf87279539dcbe741e54a645f53a274653a7c1c1b37723c380c36183) | EQAmu_E1z4cnlTncvnQeVKZF9TonRlOnwcGzdyPDgMNhg65J
 [JMT staked on JVault.xyz](https://tonviewer.com/0:2e425044ad145a96a6da159f8f468db98866349f537972ed67c3d10bc732fe29) | EQAuQlBErRRalqbaFZ-PRo25iGY0n1N5cu1nw9ELxzL-Ke96
+[JPool Staked SOL](https://tonviewer.com/0:108af25116f5ee2431a0861784f515f4efa1c78f24b3e7e42e1d99df7ff8e75e) | EQAQivJRFvXuJDGghheE9RX076HHjySz5-QuHZnff_jnXqb1
 [JVT Vault](https://tonviewer.com/0:f26a93829fdf8448a4ed3cce22a7c92433be18fb668e63cf048a96c5b27fffaa) | EQDyapOCn9-ESKTtPM4ip8kkM74Y-2aOY88EipbFsn__qskC
 [JVT staked on JVault.xyz](https://tonviewer.com/0:1ad4cf33271ba7d300ce290fcca1161814fe1e13bd0bc9ac71cbe848acca30ca) | EQAa1M8zJxun0wDOKQ_MoRYYFP4eE70Lyaxxy-hIrMowyloH
 [JVT staked on JVault.xyz](https://tonviewer.com/0:6686d5ce2fee0d29705bb4acd9cf64d165a520e5eaf39d8caa13d23fa5d15d90) | EQBmhtXOL-4NKXBbtKzZz2TRZaUg5erznYyqE9I_pdFdkIXu
