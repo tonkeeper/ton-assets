@@ -127,6 +127,7 @@ Name           | Address
 [Airina Bolgur](https://tonviewer.com/0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9) | EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub
 [AkitaOnTon](https://tonviewer.com/0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2) | EQD6ikvSPUcpE6HB_OjxCMVkFwrtK73CVV1VLR6NWEykojuQ
 [Aleg Tonkoff](https://tonviewer.com/0:7b85db7cf5834ca1a0a0b3c662883d9a65132bdae8b99a8a70d86fc8a1685fd1) | EQB7hdt89YNMoaCgs8ZiiD2aZRMr2ui5mopw2G_IoWhf0cY6
+[Alisher](https://tonviewer.com/0:f8e102fda1ac0ba7786a2cd3117781ef0cafa2e26b66e99070d8227b40eb6f48) | EQD44QL9oawLp3hqLNMRd4HvDK-i4mtm6ZBw2CJ7QOtvSNtf
 [AliveBoard](https://tonviewer.com/0:252ae537255c03d4172c4aa2df8a05bbe646ed3f19e9a3a52eaf81a306f49f81) | EQAlKuU3JVwD1BcsSqLfigW75kbtPxnpo6Uur4GjBvSfgTTD
 [Alliance](https://tonviewer.com/0:3a3594e565b371d7ddafd0d763a3a6a5c484408b212a0caa87a79474515330e4) | EQA6NZTlZbNx192v0Ndjo6alxIRAiyEqDKqHp5R0UVMw5ANv
 [AltOOshka](https://tonviewer.com/0:ece3f316991c9298f6ec5ba33267c0f2fa4f818b4bd934d495b7a2c4d8b0bf75) | EQDs4_MWmRySmPbsW6MyZ8Dy-k-Bi0vZNNSVt6LE2LC_ddUP
