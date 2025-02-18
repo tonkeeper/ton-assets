@@ -2097,6 +2097,17 @@
   ]
  },
  {
+  "address": "0:31271f3277de00efb35754bf43c87f3193d0cb5b2366970184c5becc9d9e7545",
+  "name": "Hypercoin",
+  "social": [
+   "https://t.me/hyper_coin"
+  ],
+  "symbol": "HYPER",
+  "websites": [
+   "https://hyper.ton/"
+  ]
+ },
+ {
   "address": "0:b3ff12b6bc07fa0c74ab992437995fae1228096ca3cfd2d594a6a92a616f911e",
   "description": "Hold to earn.If you can't hold, you won't be rich!",
   "image": "https://static.holdcoin.xyz/token/logo.png",
