@@ -134,6 +134,19 @@
   ]
  },
  {
+  "address": "0:f8e102fda1ac0ba7786a2cd3117781ef0cafa2e26b66e99070d8227b40eb6f48",
+  "description": "\u0410\u041b\u0418\u0428\u0415\u0420 \u2014 \u0444\u0430\u043d-\u043c\u0435\u043c\u043a\u043e\u0438\u043d \u0432 \u0447\u0435\u0441\u0442\u044c \u043d\u043e\u0432\u043e\u0433\u043e \u0430\u043b\u044c\u0431\u043e\u043c\u0430 \u0432\u0441\u0435\u043c\u0438 \u043b\u044e\u0431\u0438\u043c\u043e\u0433\u043e \u0438\u043d\u043e\u0430\u0433\u0435\u043d\u0442\u0430 \u0410\u043b\u0438\u0448\u0435\u0440\u0430 \u041c\u043e\u0440\u0433\u0435\u043d\u0448\u0442\u0435\u0440\u043d\u0430",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqd44ql9oawlp3hqlnmrd4hvdk-i4mtm6zbw2cj7qotvsntf.png?size=lg&key=1df4aa",
+  "name": "Alisher",
+  "social": [
+   "https://t.me/Alisher_blum"
+  ],
+  "symbol": "ALISHER",
+  "websites": [
+   "www.instagram.com/semen_bikbaev"
+  ]
+ },
+ {
   "address": "0:f161633e38fc103e29c2c2935caad775dafc738794248947bf92aedcf02864b6",
   "description": "ALS.BOT platform token - anti-liquidation system",
   "image": "https://als.bot/CoolAdmin/images/icon/als-logo-transparent-small.png",
@@ -1548,6 +1561,20 @@
   "websites": [
    "https://elefantmine.com/",
    "https://elefantmine.io/"
+  ]
+ },
+ {
+  "address": "0:fa7dd071d073f5dc97dc56870f8100a32aaa4a5e1de15d23151951dee72440d5",
+  "description": "Your reliable partner in the betting market with a jetton secured by smart contracts on the TON network!",
+  "image": "https://postimg.cc/pmDnnLGY",
+  "name": "Fast UP",
+  "social": [
+   "https://t.me/yourfastup",
+   "https://t.me/fast_up_chat"
+  ],
+  "symbol": "FAST",
+  "websites": [
+   "https://yourfastup.com/"
   ]
  },
  {
@@ -4954,6 +4981,20 @@
   "symbol": "YOULLONX",
   "websites": [
    "https://vk.com/youllonx"
+  ]
+ },
+ {
+  "address": "0:13daaa996d8339d69c1931e91495f72c04a420a11b78f79209cf2fc17c3fecce",
+  "description": "$YRN (YARUNIN) is a meme token created by the community for the community.",
+  "image": "https://assets.zyrosite.com/mjE950oWoKuX87Ze/logo-yarunin-m5KbrPOBVMF08O8j.png",
+  "name": "YARUNIN",
+  "social": [
+   "https://t.me/yarunin_ton",
+   "https://x.com/yarunin_yrn"
+  ],
+  "symbol": "YRN",
+  "websites": [
+   "https://yarunin.com/"
   ]
  },
  {
