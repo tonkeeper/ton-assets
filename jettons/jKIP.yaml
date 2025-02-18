@@ -1,0 +1,13 @@
+name: KIP Protocol
+description: KIP Protocol transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x946fb08103b400d1c79e07acccdef5cfd26cd374.
+image: "https://cache.tonapi.io/imgproxy/a429YXkX9qCOWvROXaPTP5KynnFvt_KMQORbwvp-0BI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9icmlkZ2UudG9uLm9yZy90b2tlbi8xLzB4OTQ2ZmIwODEwM2I0MDBkMWM3OWUwN2FjY2NkZWY1Y2ZkMjZjZDM3NC5wbmc.webp"
+address: EQBtRVhJQKXY54K9BgEGybtlsvnwRJQfKVs91vcHioWXDqKu
+symbol: jKIP
+decimals: 18
+websites:
+  - "https://www.kip.pro"
+social:
+  - "https://x.com/KIPprotocol"
+  - "https://t.me/KIPProtocol_Global"
+coinmarketcap: "https://coinmarketcap.com/currencies/kip-protocol"
+coingecko: "https://www.coingecko.com/en/coins/kip"
