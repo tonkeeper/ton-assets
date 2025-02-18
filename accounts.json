@@ -1251,4 +1251,11 @@
   "image": "https://totemancer.com/ton/tc.png",
   "name": "Totemancer"
  }
-]
+ {
+  "address": "0:cb17123df88f241531bb74f62dc989f18ef23464783774c364511d03315e94d0",
+  "name": "Russian Dollar",
+  "symbol": "RSDT",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/k4n_blAbIiFCoNDgbwxNUw4U1PW6O5gKQO79bcyWJjE/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jZG4uYmx1bS5jb2Rlcy8zYWEwMzI2MS0zMmZmLTQxNzgtYTIxNi1iYjY2NWFlMTlhYzkvYjg3MWUxZTctNTFjNi00OWQwLWI5MmYtMDA2NTU5MjYzNmI0.webp",
+  "description": "RSDT (Russian States Dollar Tether) — криптовалюта, стоимость которой привязана к стоимости русского доллара в соотношении один к одному."
+}
