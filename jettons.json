@@ -4957,6 +4957,20 @@
   ]
  },
  {
+  "address": "0:13daaa996d8339d69c1931e91495f72c04a420a11b78f79209cf2fc17c3fecce",
+  "description": "$YRN (YARUNIN) is a meme token created by the community for the community.",
+  "image": "https://assets.zyrosite.com/mjE950oWoKuX87Ze/logo-yarunin-m5KbrPOBVMF08O8j.png",
+  "name": "YARUNIN",
+  "social": [
+   "https://t.me/yarunin_ton",
+   "https://x.com/yarunin_yrn"
+  ],
+  "symbol": "YRN",
+  "websites": [
+   "https://yarunin.com/"
+  ]
+ },
+ {
   "address": "0:a73c98074ddefb8c93822e31837ecb92e6d03acb69fb534d5d68c743906654f9",
   "decimals": 9,
   "description": "YSR \u2014 Your Sustainable Resource, a community token uniting people around the idea of a sustainable future. Our mission is to create an ecosystem where every community member has the opportunity to contribute to environmental, social, and economic sustainability. Join YSR, and together we will build a better tomorrow.",

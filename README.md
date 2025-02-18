@@ -1088,6 +1088,7 @@ Name           | Address
 [X Empire](https://tonviewer.com/0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3) | EQB4zZusHsbU2vVTPqjhlokIOoiZhEdCMT703CWEzhTOo__X
 [XP](https://tonviewer.com/0:082bdb00eb1a3698cd41c9b65cb8129b9b58f939cbb48da7a0fff2e1ed127f26) | EQAIK9sA6xo2mM1BybZcuBKbm1j5Ocu0jaeg__Lh7RJ_JuuG
 [Xraider](https://tonviewer.com/0:03392cb03e3ff6193296a4ff669d942e66990a0f14993afbead8de4aa6f29d65) | EQADOSywPj_2GTKWpP9mnZQuZpkKDxSZOvvq2N5KpvKdZbet
+[YARUNIN](https://tonviewer.com/0:13daaa996d8339d69c1931e91495f72c04a420a11b78f79209cf2fc17c3fecce) | EQAT2qqZbYM51pwZMekUlfcsBKQgoRt495IJzy_BfD_szq17
 [YOGAFERMA](https://tonviewer.com/0:a992e0fa82901d5d624338b2b2c71ea78030dc5f3d804bce635b20d66b7a9355) | EQCpkuD6gpAdXWJDOLKyxx6ngDDcXz2AS85jWyDWa3qTVXYQ
 [YOULLONX](https://tonviewer.com/0:5517bb71bff03e540667a23af17d4ab8170c666fa132112a41ecc89a088e0f7c) | EQBVF7txv_A-VAZnojrxfUq4Fwxmb6EyESpB7MiaCI4PfFPR
 [YSR](https://tonviewer.com/0:a73c98074ddefb8c93822e31837ecb92e6d03acb69fb534d5d68c743906654f9) | EQCnPJgHTd77jJOCLjGDfsuS5tA6y2n7U01daMdDkGZU-dbZ
