@@ -69,3 +69,7 @@
 - symbol: SHMABANK
   name: SHMABANK
   address: "EQBVM5iDPfUDjFyBs0rSrmVkbuy34iMwh_dKwG8kpD30PxNt"
+  
+- symbol: NEPRODAM
+  name: NeProdam
+  address: "EQCQYvhkjJnEow_G0ozJMX1Hbl5RkNIBHKWhyCvcpCYOzZXg"
