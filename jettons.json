@@ -5339,6 +5339,20 @@
   "symbol": "iOSF1"
  },
  {
+  "address": "0:67c25dc61f840a5a1fda6cde891b35f949e411b1f09078f6e3242840e5985372",
+  "description": "Iceberg \u2014 performs as an innovative Web 3.0 work space, created for increasing the level of working processes.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nVyYPjYapTblzEp2AOeFZJee5HDsxcqNew&s",
+  "name": "Iceberg",
+  "social": [
+   "https://t.me/icebergen",
+   "https://x.com/0xiceberg_com"
+  ],
+  "symbol": "Iceberg",
+  "websites": [
+   "https://0xiceberg.com/"
+  ]
+ },
+ {
   "address": "0:9b48bb73351f4b1e294510273439c641cf76a9e3363353a811e040ba119a08cc",
   "name": "Russian Blue ",
   "symbol": "$Blu"
