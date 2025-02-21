@@ -736,6 +736,7 @@ Name           | Address
 [Petcoin](https://tonviewer.com/0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b) | EQBJOJ2eL_CUFT_0r9meoqjKUwRttC_-NUJyvWQxszVWe1WY
 [Phoenix Paw](https://tonviewer.com/0:01b522d2ceb00e21258f7c88c1976566792b6433578768fad4c514e3f2663ef6) | EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
 [Pi Ton Network](https://tonviewer.com/0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c) | EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p
+[PigBank Trust Token](https://tonviewer.com/0:6efc095950d0d9cf3dcb992cd6bb0b4df60d46d8bda38f3379cb464a52ba2066) | EQBu_AlZUNDZzz3LmSzWuwtN9g1G2L2jjzN5y0ZKUrogZug6
 [PiggyPiggyCoin](https://tonviewer.com/0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13) | EQBxH3N3nBx_-HEvQ2bs2vrC-M6-WxgIJKl1NqaEVH1sE-CT
 [PinGo](https://tonviewer.com/0:915a941099f4a09692e9e83e5779b8b1e74012b41c637d040d92cb053ff22c89) | EQCRWpQQmfSglpLp6D5Xebix50AStBxjfQQNkssFP_IsiQc3
 [PirateCash](https://tonviewer.com/0:c26f696830807c612e77184a36af68204bd016d43cfecd7fdab380edc57575bb) | EQDCb2loMIB8YS53GEo2r2ggS9AW1Dz-zX_as4DtxXV1u8XY

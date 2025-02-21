@@ -3164,6 +3164,21 @@
   "symbol": "PHXPW"
  },
  {
+  "address": "0:6efc095950d0d9cf3dcb992cd6bb0b4df60d46d8bda38f3379cb464a52ba2066",
+  "description": "PigBank Trust Token is a decentralized platform designed to protect users from scams, verify projects, and promote transparency in the crypto space.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbu_alzundzzz3lmszwuwtn9g1g2l2jjzn5y0zkurogzug6.png?size=lg&key=a204f0",
+  "name": "PigBank Trust Token",
+  "social": [
+   "https://t.me/PigBank_io",
+   "https://x.com/pigbanktrust",
+   "https://t.me/Pig_Bank"
+  ],
+  "symbol": "PIGBANK",
+  "websites": [
+   "https://pigbank.io/"
+  ]
+ },
+ {
   "address": "0:c26f696830807c612e77184a36af68204bd016d43cfecd7fdab380edc57575bb",
   "decimals": 8,
   "description": "It's wrapped token for real PirateCash",
