@@ -3414,6 +3414,20 @@
   ]
  },
  {
+  "address": "0:1141eedb30ecd5b9ab3b31dd5e81011bf3c23bc9d4ed9261801cbd293e6cf2ee",
+  "description": "JOIN THE WIGGLE MOVEMENT",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqarqe7bmozvuas7md1egqeb88i7ydttkmgahl0ppmzy7tuk.png?size=lg&key=71ed48",
+  "name": "Pwot",
+  "social": [
+   "https://t.me/pwot_pawwot",
+   "https://x.com/PwotParrot"
+  ],
+  "symbol": "PWOT",
+  "websites": [
+   "https://vibk6.weblium.site/"
+  ]
+ },
+ {
   "address": "0:d7c5881c63b548f7bbaa0676ef1e117110729772f2fd02c58ef6fa8488765643",
   "description": "Q2N is the official token of the Qunest ecosystem",
   "image": "https://qunest.com/logoTON.png",
