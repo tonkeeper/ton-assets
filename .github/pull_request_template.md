@@ -13,7 +13,7 @@ social:
   - "link"
 ```
 
-
+**ATTENTION! The Tonkeeper team does not charge any fees for checking/verifying tokens/collections. The procedure is ABSOLUTELY FREE. Ignore comments in commits that require payment to speed up/successfully check the PR. Stay safe fren!**
 
 Пожалуйста, убедитесь, что вы изменили исходные поля .yaml в каталогах account/, Collections/ или jettons/ и не трогаете автоматически сгенерированные файлы .json в корне репозитория. Так же, пожалуйста, убедитесь, что вы не используете ссылки ton.api в вашем пул реквесте.
 Пример пул реквеста:
@@ -29,3 +29,5 @@ websites:
 social:
   - "ссылка"
   ```
+
+**ВНИМАНИЕ! Команда Tonkeeper не берет никакой оплаты за проверку/верификацию токенов/коллекций. Процедура АБСОЛЮТНО БЕСПЛАТНА. Игнорируйте комментарии в коммитах, требующих оплаты для ускорения/успешности проверки. Будьте внимательны и осторожны!**
