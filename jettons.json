@@ -10111,6 +10111,17 @@
   "symbol": "wNOT"
  },
  {
+  "address": "0:52bda6438b55d3d99f69fe86d6fda6fd49cfa4422d5d94b268b141dfff165860",
+  "decimals": 9,
+  "description": "These jettons confirm ownership of ET NETSA COIN staked on JVault.xyz.",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_ETN-ECO.webp",
+  "name": "staked $ETN",
+  "symbol": "st-$ETN-182D",
+  "websites": [
+   "https://jvault.xyz/staking/v2/stake/ETN-ECO"
+  ]
+ },
+ {
   "address": "0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b",
   "decimals": 9,
   "description": "These jettons confirm ownership of STORM staked on JVault. Staking pool link: https://app.storm.tg/token",

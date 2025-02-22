@@ -1140,6 +1140,7 @@ Name           | Address
 [povel durev](https://tonviewer.com/0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1) | EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0
 [povel durev (old)](https://tonviewer.com/0:25d02849cb29c65a0d2d18c08133ab2878a26b2ad366fc80137f5ee3705110c7) | EQAl0ChJyynGWg0tGMCBM6soeKJrKtNm_IATf17jcFEQx0Ww
 [sTONks](https://tonviewer.com/0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45) | EQBng_Ux8DLKeaLZ4kN4eec-U-SJ1fMtYvqQANtL0oxKRQh_
+[staked $ETN](https://tonviewer.com/0:52bda6438b55d3d99f69fe86d6fda6fd49cfa4422d5d94b268b141dfff165860) | EQBSvaZDi1XT2Z9p_obW_ab9Sc-kQi1dlLJosUHf_xZYYOQp
 [swap.coffee](https://tonviewer.com/0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad) | EQCl0S4xvoeGeFGijTzicSA8j6GiiugmJW5zxQbZTUntre-1
 [teh upen netwerg](https://tonviewer.com/0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb) | EQBVLRoaw1F8VEBE_AG5K2BXaXki0nKPnvf70CAqGy6tu22X
 [tepe](https://tonviewer.com/0:cdd754d33d3c70ff148f26cff3cabcc84669782570e5a6902663326afbeb66a4) | EQDN11TTPTxw_xSPJs_zyrzIRml4JXDlppAmYzJq--tmpA6V
