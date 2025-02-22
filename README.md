@@ -552,6 +552,7 @@ Name           | Address
 [MFM staked on JVault.xyz](https://tonviewer.com/0:a44020f08cbe14f0d9beed839d3664374824354c3bb3a8682b5fd999d41da5b9) | EQCkQCDwjL4U8Nm-7YOdNmQ3SCQ1TDuzqGgrX9mZ1B2ludPO
 [MILFCOIN](https://tonviewer.com/0:ad770b8a743e74410f99b7a31f10ad7184b3c2690aed56cdeb373aa2e447fffb) | EQCtdwuKdD50QQ-Zt6MfEK1xhLPCaQrtVs3rNzqi5Ef_-yEx
 [MINOTAUR](https://tonviewer.com/0:6a69044de9e45e253cd9fbc470eeecd6b1cf63bfce5ccdd80cccb19ae7d25bdb) | EQBqaQRN6eReJTzZ-8Rw7uzWsc9jv85czdgMzLGa59Jb24vK
+[MISTER KOFEMAN COIN](https://tonviewer.com/0:6e61f523279d21e9c2c635c57d5174452e889de7fcee49ee6578a465e3a69da6) | EQBuYfUjJ50h6cLGNcV9UXRFLoid5_zuSe5leKRl46adpjZF
 [MMM2049](https://tonviewer.com/0:87e3837bdc15c4853f34eb72802bfdbba02a26bc99e601a79bb28f9d668c80cb) | EQCH44N73BXEhT8063KAK_27oComvJnmAaebso-dZoyAy6g_
 [MMPRO Token](https://tonviewer.com/0:eba9765f751f8cab00182266244746073c36b3322239fa853368bc6fb87e2f33) | EQDrqXZfdR-MqwAYImYkR0YHPDazMiI5-oUzaLxvuH4vM_J7
 [MOLOKO](https://tonviewer.com/0:11809f9a08f2323abe160dc90355c75740744f0234e304d6ada298914bd16750) | EQARgJ-aCPIyOr4WDckDVcdXQHRPAjTjBNatopiRS9FnUEmn
