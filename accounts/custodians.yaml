@@ -357,3 +357,7 @@
   name: "TEC Pay"
   require_memo: true
   image: "https://cdn.tonexpert.club/logo_solid.svg"
+- address: "EQDTLyLMsDr2eCYCQLaMRpjNvvpmlBaNOpHCLatYYC40yMda"
+  name: "Egora coin"
+  require_memo: true
+  image: "https://funmeet.ru/egc_token.png"
