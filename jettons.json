@@ -4423,6 +4423,22 @@
   ]
  },
  {
+  "address": "0:2e9c9fe0ddab30866e162ab5712d3df3507a19b60d64a01e7cc39ccc41315532",
+  "description": "P2E telegram mini-app game",
+  "image": "https://iimg.su/s/14/p6IN4k9XSLFYZrFohSLSa9JZ7ZGqfGcYLNZ8DuQ9.png",
+  "name": "Ton Farm Token",
+  "social": [
+   "https://t.me/tonfarm_official",
+   "https://t.me/tonfarmnews",
+   "https://t.me/tonfarm4at"
+  ],
+  "symbol": "TFT",
+  "websites": [
+   "https://tonminefarm.com",
+   "https://t.me/tonfarmofficial_bot/app"
+  ]
+ },
+ {
   "address": "0:dcc0b382e295825999371e19470f1a42d48aa5c09aceb8eae06fac492a2b75c6",
   "name": "GazTon",
   "social": [
