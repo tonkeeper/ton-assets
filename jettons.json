@@ -2156,6 +2156,20 @@
   ]
  },
  {
+  "address": "0:97f871962e007bfe592c085450026f01c8ecccea7a7b6b7052f4da8e2b3fecf7",
+  "description": "AI Generative Hardware Designer",
+  "image": "https://hardwaretor.com/public/icon.png",
+  "name": "Hardwaretor",
+  "social": [
+   "https://t.me/hardwaretor",
+   "https://x.com/hardwaretor"
+  ],
+  "symbol": "HAW",
+  "websites": [
+   "https://hardwaretor.com/"
+  ]
+ },
+ {
   "address": "0:b3ff12b6bc07fa0c74ab992437995fae1228096ca3cfd2d594a6a92a616f911e",
   "description": "Hold to earn.If you can't hold, you won't be rich!",
   "image": "https://static.holdcoin.xyz/token/logo.png",
