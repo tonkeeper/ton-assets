@@ -391,6 +391,7 @@ Name           | Address
 [GAMEE](https://tonviewer.com/0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700) | EQCqnhZndBGbwjPpV8K_8WOK58ZkQPXlS_bshau9DKWnAF-p
 [GAS000](https://tonviewer.com/0:7cba170a3e6f486af204ce89c690f1bce5a2085cfa27af9c8f49eb1a5d19d553) | EQB8uhcKPm9IavIEzonGkPG85aIIXPonr5yPSesaXRnVU2JJ
 [GECKO](https://tonviewer.com/0:38dae9bea5fddb27a287d3c16ff3e00b18eb746b8fb8eb47ad81e6b27498d846) | EQA42um-pf3bJ6KH08Fv8-ALGOt0a4-460etgeaydJjYRu-O
+[GEGABYTEAUTO](https://tonviewer.com/0:a13f0f6bc3de006f65d8b89c3827bb96a2a7049eb431b260d97a907d4cf68a89) | EQChPw9rw94Ab2XYuJw4J7uWoqcEnrQxsmDZepB9TPaKiQq5
 [GEMSTON](https://tonviewer.com/0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4) | EQBX6K9aXVl3nXINCyPPL86C4ONVmQ8vK360u6dykFKXpHCa
 [GEONERGO COIN](https://tonviewer.com/0:cc7bc6ff626d82f60b924c2ed04338ac3e0ffbfce2c45a0b85d5d24c5137fc71) | EQDMe8b_Ym2C9guSTC7QQzisPg_7_OLEWguF1dJMUTf8cfsF
 [GLITCH](https://tonviewer.com/0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425) | EQCwaOWpWvxlh--VaCJSkf8I5xEmuCXKKkXuGM3P9PAkJclJ

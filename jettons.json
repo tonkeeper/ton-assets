@@ -1851,6 +1851,22 @@
   ]
  },
  {
+  "address": "0:a13f0f6bc3de006f65d8b89c3827bb96a2a7049eb431b260d97a907d4cf68a89",
+  "description": "GBT is a memetoken of the car showroom GegabyteAuto",
+  "name": "GEGABYTEAUTO",
+  "social": [
+   "https://t.me/+yJ7yfOeVT3JhNGNi",
+   "https://t.me/gegabytememe_chat",
+   "https://youtube.com/@gegabyteauto",
+   "https://www.instagram.com/gegabyteauto",
+   "https://www.tiktok.com/@gegabyteauto"
+  ],
+  "symbol": "GBT",
+  "websites": [
+   "-"
+  ]
+ },
+ {
   "address": "0:ba8a3faec89a86420effffdaf9b45b9f0e3d2a2441d8eac33b2bdd3265582a04",
   "description": "GoldVerse is a launch platform based on TON, designed to provide a fair, transparent, and secure environment for emerging projects to successfully launch and gain community support.",
   "image": "https://static.goldverse.io/logo.jpg",
