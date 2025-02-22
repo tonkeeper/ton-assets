@@ -556,6 +556,7 @@ Name           | Address
 [MONKE](https://tonviewer.com/0:38f9dc02fcfca1659920a020ed32f6882063d45ee39916c1faab837dc5b69615) | EQA4-dwC_PyhZZkgoCDtMvaIIGPUXuOZFsH6q4N9xbaWFXvD
 [MOON](https://tonviewer.com/0:d7c8de5012d409386c583a91a695e07bb9acc9ae5f99ce29b67bbed2bb59ca62) | EQDXyN5QEtQJOGxYOpGmleB7uazJrl-Zzim2e77Su1nKYjJ-
 [MRAC staked on JVault.xyz](https://tonviewer.com/0:b2d91e1a17fa1f2a0645ca818f20d53a3e1d37583cfd6080cd806160b744e959) | EQCy2R4aF_ofKgZFyoGPINU6Ph03WDz9YIDNgGFgt0TpWVUN
+[MRSL Token](https://tonviewer.com/0:6ca4108a2c483f7356447dff8ee6b347126f93c614fb25d982aea4f7c2727e0d) | EQBspBCKLEg_c1ZEff-O5rNHEm-TxhT7JdmCrqT3wnJ-DT5B
 [MUZZY](https://tonviewer.com/0:1c521886974ec607c9811c2758932cc6eb750bcb3728ebf2260c27b7882a9862) | EQAcUhiGl07GB8mBHCdYkyzG63ULyzco6_ImDCe3iCqYYpTX
 [Magic Crystal](https://tonviewer.com/0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36) | EQCbKMTmEAdSnzsK85LOpaDkDH3HjujEbTePMSeirvEaNq-U
 [Magic Vip People](https://tonviewer.com/0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4) | EQDAiXxX8J2CHo4un2mAYFuexI620Y33CWfLFZK-7LcR9Pps
