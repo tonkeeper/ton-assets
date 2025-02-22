@@ -361,6 +361,9 @@
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
+- address: 0:fa7dd071d073f5dc97dc56870f8100a32aaa4a5e1de15d23151951dee72440d5
+  name: Fast UP
+  symbol: FAST
 - address: 0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27
   name: Ferma Invest Dom
   symbol: FID
