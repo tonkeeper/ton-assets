@@ -90,8 +90,8 @@
   "links": {
    "bot": "https://prodegreesbot.t.me",
    "channel": [
-    "https://degrees.t.me",
-    "https://prodegrees.t.me"
+	"https://degrees.t.me",
+	"https://prodegrees.t.me"
    ],
    "community": "https://degreeston.t.me"
   },
@@ -181,3 +181,15 @@
   ]
  }
 ]
+{
+  "address": "0:40d7b4f6b53e3992ea1a1a89cad4e2733ccb90819b1febe0c8f41ebe179138a0",
+  "description": "(GHOST COIN) A MYSTERIOUS COIN OF MYSTERIOUS ORIGIN.",
+  "image": "https://i.ibb.co/jZDhv1J1/gcn.png",
+  "name": "GHOST"
+  "social":
+   "https://t.me/GHOSTCOIN_GHST"
+   "https://x.com/ghostcoin_ghst?s=11"
+   "https://t.me/ghstchatpeople",
+  
+  
+}
