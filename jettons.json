@@ -4299,6 +4299,19 @@
   ]
  },
  {
+  "address": "0:349cb1c7799ad3d52c16ac177c379ff908a5c94052fb0a73d80cb2e7c3eb08aa",
+  "description": "Web3 Ton smart contract options trading platform.",
+  "image": "https://cdn.blum.codes/409411f9-b04f-4c59-94af-eda48dbd23e4/4e6f8de3-2354-4666-8514-69b0bf043344",
+  "name": "TON4U",
+  "social": [
+   "https://t.me/option4you"
+  ],
+  "symbol": "T4U",
+  "websites": [
+   "https://ton4u.io/"
+  ]
+ },
+ {
   "address": "0:1ef72ed45e14e38451a1e14d7b3c29377e0aa36444601a75df70855b8bc6647d",
   "description": "TADA is the utility token of Ta-da, a platform that organizes crowds to provide high-quality data to AI",
   "image": "https://tada-production-static-files.s3.eu-west-3.amazonaws.com/logo.png",
