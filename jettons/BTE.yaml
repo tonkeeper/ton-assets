@@ -1,0 +1,11 @@
+name: BTE
+symbol: BTE
+address: "0:95eb98b484c93ecec88e83ad6882677b067fabc7394501b638a920f777fbc384"
+decimals: 9
+image: "https://bytetherexchange.com/static/BTE.png"
+websites:
+  - "https://bytetherexchange.com"
+description: "BTE is a token of BTExchange..."
+socials:
+  - "https://t.me/Btexchangerengbot"
+  - "https://www.instagram.com/btechanger"
