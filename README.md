@@ -201,6 +201,7 @@ Name           | Address
 [Baby Yoda](https://tonviewer.com/0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7) | EQC7vuKEYLdC72YhUWt3AUVA-Oi66Q1DxTHXH7r6pXaV50j7
 [BabyBTC](https://tonviewer.com/0:ad0a799f4d5531fdf7a9e54874d2b4848b56db507afb41f31bf88c4f3986bd36) | EQCtCnmfTVUx_fep5Uh00rSEi1bbUHr7QfMb-IxPOYa9Nr3_
 [BabyRedo](https://tonviewer.com/0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3) | EQCMUI-C7CQjVQanwD5Nrws0o06SKVMjHbLPNw8PXW6t01db
+[Bagema](https://tonviewer.com/0:9adf15d9cbb4277ee40457600278902bee2b79ab3ce832ecbbeb4aa4f4a33333) | EQCa3xXZy7QnfuQEV2ACeJAr7it5qzzoMuy760qk9KMzMxPc
 [Bakalchuk](https://tonviewer.com/0:ef39c29f72785e150fb40ce3df085afcc3664f307108f4ca0ee0092140b9b335) | EQDvOcKfcnheFQ-0DOPfCFr8w2ZPMHEI9MoO4AkhQLmzNTFT
 [Bald World Order](https://tonviewer.com/0:e6c34c46f6617597428b81c8ec0e79eeefd4a4334238a34f6d026467914049ba) | EQDmw0xG9mF1l0KLgcjsDnnu79SkM0I4o09tAmRnkUBJuol5
 [BananaCycle](https://tonviewer.com/0:f17f77a7febca6846d1bc07184b795e86510162514324824c5fb8aac1f2e0d9b) | EQDxf3en_rymhG0bwHGEt5XoZRAWJRQySCTF-4qsHy4Nm5I2
