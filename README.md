@@ -718,6 +718,7 @@ Name           | Address
 [POE staked on JVault.xyz](https://tonviewer.com/0:e0c6afec2b6bc85eb855d40120f84107545c11f2205c01b0eecab97bf2c5cc71) | EQDgxq_sK2vIXrhV1AEg-EEHVFwR8iBcAbDuyrl78sXMcbzx
 [POE staked on JVault.xyz](https://tonviewer.com/0:ea98f4856a6f642421a19806447dc851ba69b4b95f227bb969ad8581461fdc42) | EQDqmPSFam9kJCGhmAZEfchRumm0uV8ie7lprYWBRh_cQlzB
 [POE staked on JVault.xyz](https://tonviewer.com/0:f8a6f87ca229b8ff82ed81146ddcdcb4b635be41bb4e1ff106447e6fc1cb0276) | EQD4pvh8oim4_4LtgRRt3Ny0tjW-QbtOH_EGRH5vwcsCdhub
+[POMOYKA](https://tonviewer.com/0:884c38250bbb5e6aa9e87bd800ebc8de603048ba2ab03dcc8d12fd90cc92383a) | EQCITDglC7teaqnoe9gA68jeYDBIuiqwPcyNEv2QzJI4OpBD
 [PONKE TON](https://tonviewer.com/0:bc5e450459be9bcdbcc4f5e55a012a0a502c9803f0944002c6135e635889c4aa) | EQC8XkUEWb6bzbzE9eVaASoKUCyYA_CUQALGE15jWInEqla6
 [POO by Godex](https://tonviewer.com/0:c423df36e8cc49985c1541a22e8288ebe1afba72678058e93983ce8774281aa7) | EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK
 [PORK on TON](https://tonviewer.com/0:d03312970845ace082c996dc19297c9e067aabefd7afbf444e011162d8d6a942) | EQDQMxKXCEWs4ILJltwZKXyeBnqr79evv0ROARFi2NapQthS
