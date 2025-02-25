@@ -559,6 +559,19 @@
   "symbol": "BITPIX"
  },
  {
+  "address": "0:4eca0313df62fa5bb6a4aec5f6b5991be297d7bb08eb91ace81014633c8496f3",
+  "description": "Bobr (BKRV) is a token that brings together anonymity, entertainment and freedom in the digital world. Join Bobr \u2014 stay anonymous, play, and earn without limits!",
+  "image": "https://bkrv.store/img/bober.jpg",
+  "name": "Bobr",
+  "social": [
+   "https://t.me/BKRVChat"
+  ],
+  "symbol": "BKRV",
+  "websites": [
+   "https://bkrv.store/"
+  ]
+ },
+ {
   "address": "0:ffb45cfd25045564d320cb76f3be7cde8bd75ea3da9ce4d32dba61b8fecc75cd",
   "decimals": 9,
   "description": "The First National Cryptocurrency of Chuvashia. Instrument of support of Chuvash independence, culture, projects and privatization",
@@ -905,6 +918,25 @@
   "symbol": "CHVRS",
   "websites": [
    "https://chiliversus.com"
+  ]
+ },
+ {
+  "address": "0:44f5b1d30268bc21fa8662c59861d89981e2002ffd685116417f55eedede9b83",
+  "description": "Memecoin based on the slavic gopnik culture",
+  "image": "https://i.postimg.cc/Nf44CH4T/photo-2025-02-17-17-23-47.jpg",
+  "name": "CHYOTKO memecoin",
+  "social": [
+   "https://t.me/CHYOTKOcoin",
+   "https://t.me/+MgSjdT8qQjY1ZDdk",
+   "https://chyotko.com",
+   "https://t.me/+awKjjavkq3kwNTZk",
+   "https://t.me/conquista1492"
+  ],
+  "symbol": "CHYOTKO",
+  "websites": [
+   "https://chyotko.com",
+   "https://chyotkocoin.com",
+   "https://dexscreener.com/ton/eqcumasmlulipu53oocwjldxru_2vmmibtljbnzmwp_emuom"
   ]
  },
  {
@@ -1353,6 +1385,20 @@
   "address": "0:44fcfd9b28ef5d1c64b052165b42feaf6be611b84594119b82bff8845e03bea7",
   "name": "Dracoin",
   "symbol": "Dracoin"
+ },
+ {
+  "address": "0:6dc6b66d930694da09948838ab6067230de2eca15878bbf6e51b429d34b6e843",
+  "description": "$DRAGON Strategic combat and deep character customization provide a rewarding RPG and P2E experience. At the same time, the seamless integration of TON blockchain technology ensures secure ownership and the ability to earn $DRAGON tokens with every eggs.",
+  "image": "https://i.hizliresim.com/830algn.jpg",
+  "name": "DragonTON",
+  "social": [
+   "https://t.me/TONDragonEggs",
+   "https://x.com/dragoneggston"
+  ],
+  "symbol": "DRAGON",
+  "websites": [
+   "https://dragonton.gitbook.io/dragonton"
+  ]
  },
  {
   "address": "0:53732b598dd67014b8fa4ceec2786be7e1a326a97bdb5fe9ce0e20296ddd35d6",
@@ -2212,6 +2258,20 @@
   "symbol": "INVESV",
   "websites": [
    "http://investavimasvisiems.lt"
+  ]
+ },
+ {
+  "address": "0:28bad023de090d2a311635bb7ff9acc510717322715eae8afb7d4927a0e8014a",
+  "description": "ISMA&COIN meme will become a method of payment business for you training services by cross-border transfer in cryptocurrency within the framework of foreign economic activity. ISMA&COINInc.",
+  "image": "https://static.tildacdn.com/tild6666-3934-4863-b061-623733383431/IMG_7013.jpeg",
+  "name": "ISMA&COIN",
+  "social": [
+   "https://t.me/ismacoin",
+   "https://x.com/Ismabankcoin"
+  ],
+  "symbol": "ISMC",
+  "websites": [
+   "https://ismacoin.space"
   ]
  },
  {
@@ -3280,6 +3340,20 @@
   ]
  },
  {
+  "address": "0:884c38250bbb5e6aa9e87bd800ebc8de603048ba2ab03dcc8d12fd90cc92383a",
+  "description": "POMOYKA \u043d\u0430 TON",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcitdglc7teaqnoe9ga68jeydbiuiqwpcynev2qzji4opbd.png",
+  "name": "POMOYKA",
+  "social": [
+   "https://t.me/POMOYKA_PMK",
+   "https://x.com/POMOYKAnaTON"
+  ],
+  "symbol": "PMKA",
+  "websites": [
+   "https://pomoyka.onrender.com/"
+  ]
+ },
+ {
   "address": "0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530",
   "decimals": 9,
   "description": "PONCH is the native token of the Ponchiqs Game Studio, driving utility across all games and platforms. Use PONCH to purchase in-game items, trade NFTs, stake for rewards, and access exclusive content. Whether it\u2019s upgrading characters, earning rewards in tournaments, or buying collectible merchandise, PONCH connects players to an immersive, rewarding gaming experience. Play, earn, and own with PONCH \u2014 your gateway to the Ponchiqs ecosystem.",
@@ -3862,6 +3936,21 @@
    "https://vk.com/vkcoinswap"
   ],
   "symbol": "SNT"
+ },
+ {
+  "address": "0:7f1dc01da790c0f24139a9368d46878c35d632eac890372b22e79e247e595dc0",
+  "description": "The world's first Soviet-era cryptocurrency. Our mission is to make cryptocurrency accessible to everyone!",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb_hcadp5da8ke5qtanroemndyy6siqnysi554kflldwovh.png?size=xl&key=fb4b79",
+  "name": "SOVOK",
+  "social": [
+   "https://t.me/sovok_token/",
+   "https://t.me/sovok_chat12",
+   "https://x.com/sovok_token"
+  ],
+  "symbol": "SOVOK",
+  "websites": [
+   "https://www.sovok-token.com/"
+  ]
  },
  {
   "address": "0:473a1c3de6b4366a4031486e4fa995899d82cb0afaee4d82a59478caff489694",
@@ -5246,6 +5335,19 @@
    "https://t.me/AmberTONchat"
   ],
   "symbol": "AMBER"
+ },
+ {
+  "address": "0:9adf15d9cbb4277ee40457600278902bee2b79ab3ce832ecbbeb4aa4f4a33333",
+  "description": "Bagema is a coin for those who love gems... and baguettes. It's not just a cryptocurrency, it's a lifestyle where frivolity and carelessness are trendy!",
+  "image": "https://i.imgur.com/WbUa5vq.jpeg",
+  "name": "Bagema",
+  "social": [
+   "https://t.me/bagemacoin"
+  ],
+  "symbol": "BGM",
+  "websites": [
+   "https://bagema.fun"
+  ]
  },
  {
   "address": "0:ea28bf3c752737bdd8942f4202c99d963914bec478df7da3dace0fa510c7146a",
