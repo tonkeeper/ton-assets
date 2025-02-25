@@ -559,6 +559,19 @@
   "symbol": "BITPIX"
  },
  {
+  "address": "0:4eca0313df62fa5bb6a4aec5f6b5991be297d7bb08eb91ace81014633c8496f3",
+  "description": "Bobr (BKRV) is a token that brings together anonymity, entertainment and freedom in the digital world. Join Bobr \u2014 stay anonymous, play, and earn without limits!",
+  "image": "https://bkrv.store/img/bober.jpg",
+  "name": "Bobr",
+  "social": [
+   "https://t.me/BKRVChat"
+  ],
+  "symbol": "BKRV",
+  "websites": [
+   "https://bkrv.store/"
+  ]
+ },
+ {
   "address": "0:ffb45cfd25045564d320cb76f3be7cde8bd75ea3da9ce4d32dba61b8fecc75cd",
   "decimals": 9,
   "description": "The First National Cryptocurrency of Chuvashia. Instrument of support of Chuvash independence, culture, projects and privatization",
