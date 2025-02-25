@@ -246,6 +246,7 @@ Name           | Address
 [CAVIAR COIN](https://tonviewer.com/0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e) | EQD6W0raB1aGCr86pWd7-oWpA3QW2VXCJ9smlYcChkIhflt2
 [CHADUROV](https://tonviewer.com/0:2e0c6dd9d15d3ca1a77ac10ccd2b44f5cc76d4fc763fe85b5e99d5ac109f5d1e) | EQAuDG3Z0V08oad6wQzNK0T1zHbU_HY_6FtemdWsEJ9dHr1M
 [CHORRY](https://tonviewer.com/0:36147a2b4f3bd8a6c337b7fe88a8cba2829259081ffee47f340aa6c821a50bab) | EQA2FHorTzvYpsM3t_6IqMuigpJZCB_-5H80CqbIIaULq272
+[CHYOTKO memecoin](https://tonviewer.com/0:44f5b1d30268bc21fa8662c59861d89981e2002ffd685116417f55eedede9b83) | EQBE9bHTAmi8IfqGYsWYYdiZgeIAL_1oURZBf1Xu3t6bgx-z
 [CONTON](https://tonviewer.com/0:42cda1535ef76883a47089a50133562de4173363470a049dab674ab40be73e78) | EQBCzaFTXvdog6RwiaUBM1Yt5BczY0cKBJ2rZ0q0C-c-eP84
 [COPA](https://tonviewer.com/0:f9c7c833dc88532d1dbe0c69262f47a15a4ed094890e4c81aedee843b8be2c6c) | EQD5x8gz3IhTLR2-DGkmL0ehWk7QlIkOTIGu3uhDuL4sbDGb
 [COSA NOSTRA](https://tonviewer.com/0:8faa11816423ad414671fa4e437041a9e5741991d7d03947ea58ae99d0ba3abd) | EQCPqhGBZCOtQUZx-k5DcEGp5XQZkdfQOUfqWK6Z0Lo6vdw7
