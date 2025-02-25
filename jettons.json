@@ -3892,6 +3892,21 @@
   "symbol": "SNT"
  },
  {
+  "address": "0:7f1dc01da790c0f24139a9368d46878c35d632eac890372b22e79e247e595dc0",
+  "description": "The world's first Soviet-era cryptocurrency. Our mission is to make cryptocurrency accessible to everyone!",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb_hcadp5da8ke5qtanroemndyy6siqnysi554kflldwovh.png?size=xl&key=fb4b79",
+  "name": "SOVOK",
+  "social": [
+   "https://t.me/sovok_token/",
+   "https://t.me/sovok_chat12",
+   "https://x.com/sovok_token"
+  ],
+  "symbol": "SOVOK",
+  "websites": [
+   "https://www.sovok-token.com/"
+  ]
+ },
+ {
   "address": "0:473a1c3de6b4366a4031486e4fa995899d82cb0afaee4d82a59478caff489694",
   "description": "Spintria Vesting Jetton",
   "image": "https://wallet.sp.one/vesting/spv.png",

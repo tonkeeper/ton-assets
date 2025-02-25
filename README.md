@@ -840,6 +840,7 @@ Name           | Address
 [SNOOP staked on JVault.xyz](https://tonviewer.com/0:eb189169c6abbc98f00fb44d95fa878a2cc2242f5a1c9ce0ed07e20caa58dd4e) | EQDrGJFpxqu8mPAPtE2V-oeKLMIkL1ocnODtB-IMqljdTtds
 [SOKOROCKET](https://tonviewer.com/0:d6d30a230c89a3b49fb3f3c4e601d81504f5bcbd0b369aa2bec39a68c80f9da3) | EQDW0wojDImjtJ-z88TmAdgVBPW8vQs2mqK-w5poyA-dowPd
 [SOON](https://tonviewer.com/0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48) | EQCwe0g3cEFhsz4VK5nrtOZBkFeSISxhCVUqvON7Im__SOON
+[SOVOK](https://tonviewer.com/0:7f1dc01da790c0f24139a9368d46878c35d632eac890372b22e79e247e595dc0) | EQB_HcAdp5DA8kE5qTaNRoeMNdYy6siQNysi554kflldwOvh
 [SPONGE](https://tonviewer.com/0:ad5a9fc06d769643fc73b705d68abdb493cd0dc3e3c9a3d1011201cd804a5bdb) | EQCtWp_AbXaWQ_xztwXWir20k80Nw-PJo9EBEgHNgEpb2_2d
 [SPSBANK](https://tonviewer.com/0:eb954d153023f68e93ae916506b57210bfed7b852f48064c0bcbd86e4b7cb706) | EQDrlU0VMCP2jpOukWUGtXIQv-17hS9IBkwLy9huS3y3BrVR
 [SPeculatoR](https://tonviewer.com/0:ee4a37eb44ef12a67f5702e81b954802c34b11e6f72099aac0e4c9088f780083) | EQDuSjfrRO8Spn9XAugblUgCw0sR5vcgmarA5MkIj3gAg2a1
