@@ -1,7 +1,7 @@
-name: Quantex
+name: QuantEx
 image: "https://web.telegram.org/1d4969b2-7e42-4067-bbd3-4ad5d46a0ab2"
-description: >
-  Quantex is a utility-token for QuantEx, a universal platform of tools for managing 
+description: |
+  QuantEx is a utility-token for QuantEx, a universal platform of tools for managing 
   crypto assets and generating income. The token will be used to pay fees, accrue bonuses, 
   various airdrops, reward users, and collaborate with other communities.
 address: "EQDLndH0WHgjdi2QNn6MueS4YMmgC0qq8To62R8i2EFXa8h4"
