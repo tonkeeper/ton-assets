@@ -647,6 +647,7 @@ Name           | Address
 [NOT-SLP staked on JVault.xyz](https://tonviewer.com/0:530e7c0d0b7477d268789eddb32f6020de0b9862b97951fbf0bb96d75f1cac56) | EQBTDnwNC3R30mh4nt2zL2Ag3guYYrl5Ufvwu5bXXxysVqrZ
 [NOT-SLP staked on JVault.xyz](https://tonviewer.com/0:c7ee8abfbcb56b8bed610679281d2f963983b23f676d349601c3bdc8316c2f04) | EQDH7oq_vLVri-1hBnkoHS-WOYOyP2dtNJYBw73IMWwvBN8E
 [NOTAI](https://tonviewer.com/0:95e5d5cdad6554d73ed589d10abd72f9881fcf5ecdb39bd2cb7bd6cf81292575) | EQCV5dXNrWVU1z7VidEKvXL5iB_PXs2zm9LLe9bPgSklde0z
+[NOTBADTRIP](https://tonviewer.com/0:bf5be29cede120c1d59b0a8ce0f56158c264f1ffd53e7d0af5e39ab1984e5fff) | EQC_W-Kc7eEgwdWbCozg9WFYwmTx_9U-fQr145qxmE5f_58N
 [NOTCOIN INU](https://tonviewer.com/0:ba28f737207da6d4263b6775289ea8fb6b313e47f45012298443e3875440aeec) | EQC6KPc3IH2m1CY7Z3Uonqj7azE-R_RQEimEQ-OHVECu7Npe
 [NOTELEPHANT](https://tonviewer.com/0:aafaacb25cf691d7afb0d0b59307e63e040355a32d6ab91c1df9191d4ce011bf) | EQCq-qyyXPaR16-w0LWTB-Y-BANVoy1quRwd-RkdTOARv4cU
 [NOTGEM](https://tonviewer.com/0:450e083a3b5fe26683aa4a065a9f343df63234b51a5e0a5499c6b0d4fe8db3bd) | EQBFDgg6O1_iZoOqSgZanzQ99jI0tRpeClSZxrDU_o2zvRX5
