@@ -1,0 +1,8 @@
+name: "staked $ETN"
+symbol: "st-$ETN-730D"
+description: "These jettons confirm ownership of ET NETSA COIN staked on JVault.xyz."
+address: 0:ff306f53aa48b661bfead82556dea212c4b28cad086651ca0621145852ea4377
+decimals: 9
+image: "https://jvault.xyz/media/staking_v2/images/mainnet_ETN-ECO.webp"
+websites:
+  - "https://jvault.xyz/staking/v2/stake/ETN-ECO"
