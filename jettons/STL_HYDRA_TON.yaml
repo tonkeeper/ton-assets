@@ -1,0 +1,11 @@
+name: HYDRA Vault
+description: HYDRA/TON Vault for DeDust Pool
+image: "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp"
+address: 0:3848b9a49c1d1a8e9c7101e5a3a80a5638ba968d52882bf34ef4c8eb4090cc60
+symbol: STL_HYDRA_TON
+websites:
+  - "https://settleton.finance"
+social:
+  - "https://t.me/settleton"
+  - "https://t.me/settleton_ru"
+  - "https://t.me/settleton_fa"
