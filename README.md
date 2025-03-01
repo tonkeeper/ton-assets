@@ -536,6 +536,7 @@ Name           | Address
 [LP tsTON (30-Jun-2025)](https://tonviewer.com/0:f70630a3c6e7fc9aee64bf16a355b7be2256b549c6599408b4de84bb94c98026) | EQD3BjCjxuf8mu5kvxajVbe-Ila1ScZZlAi03oS7lMmAJjM3
 [LUPA](https://tonviewer.com/0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff) | EQBXRzatxryKKnW6mNGEZiEFMGET655W40ROx1qnZP-S_-p6
 [LUXE DUCK](https://tonviewer.com/0:064748236a0e7d90971f1ef9baabaecdcc8c8c958fc3a8427fdfd931a9904c07) | EQAGR0gjag59kJcfHvm6q67NzIyMlY_DqEJ_39kxqZBMB2Cj
+[Labrador](https://tonviewer.com/0:ec8f1991b7ab8bd307393f31100f2f90e7014ea95e593fcea5dc2cb598b8e2ab) | EQDsjxmRt6uL0wc5PzEQDy-Q5wFOqV5ZP86l3Cy1mLjiqyJE
 [Laika](https://tonviewer.com/0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0) | EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw
 [Lavandos](https://tonviewer.com/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [LazyCoin](https://tonviewer.com/0:414fbc15c3de67d7ac13ccecd35a562a723876cf48d8fb5aa6f1d7a9e11e0fc4) | EQBBT7wVw95n16wTzOzTWlYqcjh2z0jY-1qm8dep4R4PxGEK

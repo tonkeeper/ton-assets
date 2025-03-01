@@ -45,6 +45,21 @@
   ]
  },
  {
+  "address": "0:ec8f1991b7ab8bd307393f31100f2f90e7014ea95e593fcea5dc2cb598b8e2ab",
+  "description": "$LABR is the token of the game Labrador Adventures.",
+  "image": "https://labrador-zeta.vercel.app/labr-logo.jpeg",
+  "name": "Labrador",
+  "social": [
+   "https://t.me/labrador_labr_ru",
+   "https://t.me/labrador_labr",
+   "https://x.com/Labrador_labr"
+  ],
+  "symbol": "LABR",
+  "websites": [
+   "https://www.labr.meme"
+  ]
+ },
+ {
   "address": "0:aa8cbb7715a47e53a0fc36984e048d0328b918ed1deb92ad84c1ddf10fa4c366",
   "description": "Meta Miner is mining based on the DePin principle",
   "name": "Meta Miner",
