@@ -1,10 +1,11 @@
-name: KALKAN TOKEN
-description: "Kalkan company token. Created for a loyalty program."
-symbol: KALKAN
-image: "https://i.yapx.cc/YfMOH.png"
-address: "EQBR37Hzhpc9DZXLAkQFM9WaIHZcrFqoZmub-HVUmOyViANF"
+name: STORM
+description: "The utility token of the Storm Trade protocol (storm.tg)."
+symbol: STORM
+image: "https://static.storm.tg/TOKEN.png"
+address: "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c"
+decimals: 9
 websites:
-  - "https://утеплитель-калкан.рф/token"
+  - "https://storm.tg"
 social:
-  - "https://t.me/kalkan_blum"
-  - "https://t.me/token_kalkan"
+  - "https://t.me/storm_trade_news"
+  - "https://t.me/storm_trade_fam"
