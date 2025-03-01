@@ -102,6 +102,7 @@ Name           | Address
 [A5 staked on JVault.xyz](https://tonviewer.com/0:798b6a9f0aec1a9e3bb5abc7220bedda88d43222a23996754583e2825899c005) | EQB5i2qfCuwanju1q8ciC-3aiNQyIqI5lnVFg-KCWJnABQtA
 [A5 staked on JVault.xyz](https://tonviewer.com/0:a145487723b1f1d7a6bf09e626a459292c99e30d6b9e7fbb2704be9df739719b) | EQChRUh3I7Hx16a_CeYmpFkpLJnjDWuef7snBL6d9zlxm5dm
 [AI Coin](https://tonviewer.com/0:48cef1de34697508200b8026bf882f8e88aff894586cfd304ab513633fa7e2d3) | EQBIzvHeNGl1CCALgCa_iC-OiK_4lFhs_TBKtRNjP6fi0024
+[AI Image Generator](https://tonviewer.com/0:d91c735a7bb5e47f727b7613e69ca22fdbb5b9dd3446ea8344af74dd9b524630) | EQDZHHNae7Xkf3J7dhPmnKIv27W53TRG6oNEr3Tdm1JGMBRh
 [AIC staked on JVault.xyz](https://tonviewer.com/0:77d4405ce211ca49fd8338999b1757a24bfa918f06aaeb0bb3be4ec01b5e6927) | EQB31EBc4hHKSf2DOJmbF1eiS_qRjwaq6wuzvk7AG15pJ6mo
 [AIMLAB](https://tonviewer.com/0:5c666687bb64397bdac614c9ed9bef14d6cecef88576cc3a23d27689d3695b36) | EQBcZmaHu2Q5e9rGFMntm-8U1s7O-IV2zDoj0naJ02lbNnlC
 [AIYA PowerCell](https://tonviewer.com/0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a) | EQAzBy-W8GJjUPfU-8eV0Jz56Jc5dIvvP-qznHKQhlqzGkoZ

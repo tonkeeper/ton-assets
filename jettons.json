@@ -103,6 +103,19 @@
   ]
  },
  {
+  "address": "0:d91c735a7bb5e47f727b7613e69ca22fdbb5b9dd3446ea8344af74dd9b524630",
+  "description": "AI Image Generator (AIIG) Token is a digital asset that unlocks a world of boundless creativity through neural networks. The AIIG token is an integral part of the AI Image Generator ecosystem, where artificial intelligence becomes your guide to creating unique images, photos, and videos.",
+  "image": "https://aiimagecreator.ru/images/ai_logo_big.png",
+  "name": "AI Image Generator",
+  "social": [
+   "https://t.me/AIImageCreator_Bot"
+  ],
+  "symbol": "AIIG",
+  "websites": [
+   "https://t.me/AIImageCreator_Bot/aiig"
+  ]
+ },
+ {
   "address": "0:0040c1f712a73cc96aa6ac9e4ec107c42470c7153a519620cbea7e195172334e",
   "description": "$AIR Token serve as a gateway to airdrops on TON.",
   "image": "https://coffee-genetic-toucan-373.mypinata.cloud/ipfs/QmVtFTgeEAdZJCD9HQJQgHmkFdNrTa3wZBC3zrNAwadh7o",
