@@ -493,6 +493,7 @@ Name           | Address
 [KINGYTON](https://tonviewer.com/0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc) | EQC-tdRjjoYMz3MXKW4pj95bNZgvRyWwZ23Jix3ph7guvHxJ
 [KIRBY](https://tonviewer.com/0:5f5d17debad4cbfa6715243e2d41f4560b5007463f504490a589913feb69fff1) | EQBfXRfeutTL-mcVJD4tQfRWC1AHRj9QRJCliZE_62n_8WJj
 [KITSU](https://tonviewer.com/0:262c37c3f647399eba827eb091435a4adca2fac01ed86b836e7791e335bc276e) | EQAmLDfD9kc5nrqCfrCRQ1pK3KL6wB7Ya4Nud5HjNbwnbiWF
+[KLTR](https://tonviewer.com/0:481644f86728945b10fd89dd2d1d33805bcf0ab431ae6a4efd1131206f0e285d) | EQBIFkT4ZyiUWxD9id0tHTOAW88KtDGuak79ETEgbw4oXZuQ
 [KOMPUKTER](https://tonviewer.com/0:33673229336a3508d728fa364bd0a6dc69f49be88192f3dcf790900e07b8ed1c) | EQAzZzIpM2o1CNco-jZL0KbcafSb6IGS89z3kJAOB7jtHL6-
 [Kaif](https://tonviewer.com/0:9bc8bb619440838e3abc2854470b3f54a771efefdd7b94fe00888f4a1aa71ca1) | EQCbyLthlECDjjq8KFRHCz9Up3Hv7917lP4AiI9KGqccoSFK
 [Kartoshka](https://tonviewer.com/0:5f97fa738bcb7f7d85c9132819a33f1c21dd6c7639cf4ec069bea8878e08174b) | EQBfl_pzi8t_fYXJEygZoz8cId1sdjnPTsBpvqiHjggXS3Ep
