@@ -564,6 +564,20 @@
   ]
  },
  {
+  "address": "0:f435349c2e296eb3a36efcd54167a4749ec40b7347d41674245222bd75699786",
+  "description": "BlackCat is a farm type game where users earn rewards.",
+  "image": "https://i.imgur.com/QsTZCrr.jpeg",
+  "name": "BlackCat",
+  "social": [
+   "https://t.me/BlckCat_Official",
+   "https://x.com/offcl_blckcat"
+  ],
+  "symbol": "BCAT",
+  "websites": [
+   "https://www.blackcatmeme.com/"
+  ]
+ },
+ {
   "address": "0:1b8526569875affce7d6eccf4c9b5f32f405cc8282ec812d0080bb34c58e4d91",
   "description": "Bees coin is a Telegram bot-based project expanding into a decentralized platform",
   "image": "https://cdn.beecoin.finance/logo.png",
@@ -3417,6 +3431,20 @@
   ]
  },
  {
+  "address": "0:d8d8cccc258ffd3969bd53240d2d353642cffc051a2694c51b6c00e787eb4590",
+  "description": "PinEye Provides an All-in-One Web3 Community-Driven Ecosystem, Combining GameFi, & SocialFi & Academy.",
+  "image": "https://pineye.io/home-page/logo.webp",
+  "name": "PinEye Token",
+  "social": [
+   "https://t.me/pineye",
+   "https://x.com/pineye_"
+  ],
+  "symbol": "PINEYE",
+  "websites": [
+   "https://pineye.io/"
+  ]
+ },
+ {
   "address": "0:c26f696830807c612e77184a36af68204bd016d43cfecd7fdab380edc57575bb",
   "decimals": 8,
   "description": "It's wrapped token for real PirateCash",
@@ -3765,6 +3793,20 @@
   "symbol": "REDOI",
   "websites": [
    "https://redoifoundation.org"
+  ]
+ },
+ {
+  "address": "0:fd06cba941c9031512e77358b15675bec1ba414d5520dec9832bd9a4450ed63d",
+  "description": "Resistance Duck was created to embody, embolden and champion $TON within Telegram.",
+  "image": "https://raw.githubusercontent.com/ResistanceDuckTon/REDU/main/256x256LOGO.png",
+  "name": "Resistance Duck",
+  "social": [
+   "https://t.me/resistanceduck",
+   "https://x.com/REDU_TON"
+  ],
+  "symbol": "REDU",
+  "websites": [
+   "https://www.resistanceduck.com/"
   ]
  },
  {
