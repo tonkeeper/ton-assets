@@ -1250,5 +1250,10 @@
   "address": "0:ef64bfe2a6518bef63a7d62a50747e8a73a10472b84227426935da3aebdf909e",
   "image": "https://totemancer.com/ton/tc.png",
   "name": "Totemancer"
+ },
+ {
+  "address": "0:707f059d0ee73b5f27067eaec548d078be8f45afd0e7ce2953d86aa9796f7e78",
+  "image": "https://i.postimg.cc/kXz64FK5/IMG-20250215-233246-316.jpg",
+  "name": "Not games"
  }
 ]
