@@ -130,7 +130,7 @@ def merge_collections():
 
 
 def main():
-    if length([x for x in glob.glob("*.yaml")]) > 0:
+    if len([x for x in glob.glob("*.yaml")]) > 0:
         raise Exception("please don't add yaml files to root directory. use jettons/ or collections/")
     collect_all_dexes()
     jettons = merge_jettons()
