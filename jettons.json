@@ -10298,5 +10298,13 @@
   "image": "https://tonco.io/static/token/WTTON_TOKEN.png",
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
+ },
+ {
+  "address": "0:707f059d0ee73b5f27067eaec548d078be8f45afd0e7ce2953d86aa9796f7e78",
+  "decimals": 9,
+  "description": "Investment token. Reward token. Simply hold the token in your wallet and receive regular dividends.",
+  "image": "https://i.postimg.cc/kXz64FK5/IMG-20250215-233246-316.jpg",
+  "name": "Not Games",
+  "symbol": "NG"
  }
 ]
