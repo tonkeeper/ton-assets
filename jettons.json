@@ -5144,6 +5144,21 @@
   ]
  },
  {
+  "address": "0:2c87b98c4f73d6d15056ce400c575f9c2107d143afb59582f9d5090564fdecee",
+  "description": "The coin and its name speak for themselves, we want to show and test whether it is really that easy to create a coin from scratch and it can really grow!",
+  "image": "https://trueimages.ru/img/79/45/439f6c76.png",
+  "name": "VAGR",
+  "social": [
+   "https://t.me/crypto_mining_rvn_etc",
+   "https://t.me/vagrchat",
+   "https://x.com/vagr_"
+  ],
+  "symbol": "VAG",
+  "websites": [
+   "https://vagr-drive.ru/"
+  ]
+ },
+ {
   "address": "0:df8257eb7f43acdfc70a3c768e2aa41e9c9a65b36b3471ecbc69c4058cf0bf54",
   "description": "VERT is a utility token designed to power the Vertus ecosystem, simplifying cryptocurrency access through Web3 integration on Telegram.",
   "image": "https://api.thevertus.app/assets/vert_coin.png",
