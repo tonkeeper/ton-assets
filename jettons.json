@@ -2217,6 +2217,20 @@
   ]
  },
  {
+  "address": "0:36b9ff65cbe3368c0f2128e4394b864081c2f493fc89037eec8b112cd2eff1bd",
+  "description": "HBD is a cute tap game where users play and earn rewards.",
+  "image": "https://media.discordapp.net/attachments/1006277861231042671/1346149013396783265/HBD_LOGO.jpg?ex=67c72277&is=67c5d0f7&hm=43bfd85fc164f417583154d037340a928a7caeb05679f5e54eb90d796c90bc54&=&format=webp",
+  "name": "Happy Balloon Dog",
+  "social": [
+   "https://t.me/happyballoondog",
+   "https://x.com/HappyBalloonDog"
+  ],
+  "symbol": "HBD",
+  "websites": [
+   "https://happyballoondog.com/"
+  ]
+ },
+ {
   "address": "0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710",
   "description": "The spirit of wall-street hedgehogs on a legendary blockchain",
   "name": "HEDGE coin",
