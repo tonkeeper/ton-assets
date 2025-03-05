@@ -1,7 +1,11 @@
-id: "0:5b122c6491246663a148e4e6a7442f1b3856f4a5c5a25872439bfc1e3c84b726"
+address: "0:5b122c6491246663a148e4e6a7442f1b3856f4a5c5a25872439bfc1e3c84b726"
 name: "Pi Network"
 symbol: "PI"
 decimals: 9
 description: "Pi Network is a platform that gives users access to Pi coin mining on mobile phones without affecting the functionality of the phone. Pi works both as a social project and as a platform for developers."
 image: "https://s3.blum.codes/ad8d9ca0-5645-4f36-894b-080ef554e9a5/b3d0d883-1f46-4e9f-8684-b791c7727fad"
-admin: "0:85434d063cb8ab8aba909d16651fb4788af9df84641a1698548bc14f442da7b9"
+website: "https://minepi.com"
+social:
+  - "https://twitter.com/PiCoreTeam"
+  - "https://t.me/PiNetwork"
+  - "https://discord.gg/pi"
