@@ -1,0 +1,11 @@
+name: "Batik Token"
+address: 0:7deb1270b2197aee3dbf8114c22a130470f9209ff523cf8128b85577dc828b95
+description: "Batik Token is a revolutionary digital asset introduced by the Garuda Nusantara Project — an initiative for Indonesia’s digital currency, the Digital Rupiah, developed by Sundara Nusantara. More than just honoring traditional arts like batik, weaving, carving, and intangible cultural heritage, this token is designed as a dynamic platform to appreciate, preserve, and advance the full spectrum of Nusantara creativity. Its scope spans contemporary art, indie music, literature, and digital innovations such as NFTs and futuristic designs.\n\nBy integrating blockchain technology with the spirit of diversity, Batik Token serves not only as a bridge connecting cultural heritage with modern artistic innovation but also as a visionary symbol of collaboration. It unites Indonesia’s deep-rooted traditions with the evolving landscape of the digital economy, creating a space where artistic heritage transforms into value that resonates in the modern era."
+image: "https://storage.dyor.io/jettons/images/1741171918/78217821.png"
+symbol: "Batik"
+decimals: "9"
+social:
+  - "https://t.me/BatikTokenNews"
+  - "https://t.me/BatikTokenBot"
+  - "https://getgems.io/BatikToken"
+  - "https://github.com/Sundara-Nusantara/BatikToken"
