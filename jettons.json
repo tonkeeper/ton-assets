@@ -5669,6 +5669,11 @@
   "symbol": "IF"
  },
  {
+  "address": "0:f3e183a2d8c9f376a71ad190a9aeb7089b92b5e94bccfce3e20781d627928c56",
+  "name": "viperr coin",
+  "symbol": "RRMONEY"
+ },
+ {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
   "decimals": 6,
   "description": "USDC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
