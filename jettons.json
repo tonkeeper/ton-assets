@@ -2452,6 +2452,19 @@
   ]
  },
  {
+  "address": "0:51dfb1f386973d0d95cb02440533d59a20765cac5aa8666b9bf8755498ec9588",
+  "description": "Kalkan company token. Created for a loyalty program.",
+  "image": "https://i.yapx.cc/YfMOH.png",
+  "name": "Kalkan Token",
+  "social": [
+   "https://t.me/kalkan_blum"
+  ],
+  "symbol": "KALKAN",
+  "websites": [
+   "https://\u0443\u0442\u0435\u043f\u043b\u0438\u0442\u0435\u043b\u044c-\u043a\u0430\u043b\u043a\u0430\u043d.\u0440\u0444/token"
+  ]
+ },
+ {
   "address": "0:68dd6d7d3bddaa2e376861b11101316d414875429fcd649e8953f957c8b9c650",
   "description": "\ud83d\udc08 Ultimate RPG on TON.",
   "image": "https://i.ibb.co/JFhQ1vX/logo-kat.png",
