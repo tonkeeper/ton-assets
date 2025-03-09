@@ -45,6 +45,21 @@
   ]
  },
  {
+  "address": "0:ec8f1991b7ab8bd307393f31100f2f90e7014ea95e593fcea5dc2cb598b8e2ab",
+  "description": "$LABR is the token of the game Labrador Adventures.",
+  "image": "https://labrador-zeta.vercel.app/labr-logo.jpeg",
+  "name": "Labrador",
+  "social": [
+   "https://t.me/labrador_labr_ru",
+   "https://t.me/labrador_labr",
+   "https://x.com/Labrador_labr"
+  ],
+  "symbol": "LABR",
+  "websites": [
+   "https://www.labr.meme"
+  ]
+ },
+ {
   "address": "0:aa8cbb7715a47e53a0fc36984e048d0328b918ed1deb92ad84c1ddf10fa4c366",
   "description": "Meta Miner is mining based on the DePin principle",
   "name": "Meta Miner",
@@ -103,6 +118,19 @@
   ]
  },
  {
+  "address": "0:d91c735a7bb5e47f727b7613e69ca22fdbb5b9dd3446ea8344af74dd9b524630",
+  "description": "AI Image Generator (AIIG) Token is a digital asset that unlocks a world of boundless creativity through neural networks. The AIIG token is an integral part of the AI Image Generator ecosystem, where artificial intelligence becomes your guide to creating unique images, photos, and videos.",
+  "image": "https://aiimagecreator.ru/images/ai_logo_big.png",
+  "name": "AI Image Generator",
+  "social": [
+   "https://t.me/AIImageCreator_Bot"
+  ],
+  "symbol": "AIIG",
+  "websites": [
+   "https://t.me/AIImageCreator_Bot/aiig"
+  ]
+ },
+ {
   "address": "0:0040c1f712a73cc96aa6ac9e4ec107c42470c7153a519620cbea7e195172334e",
   "description": "$AIR Token serve as a gateway to airdrops on TON.",
   "image": "https://coffee-genetic-toucan-373.mypinata.cloud/ipfs/QmVtFTgeEAdZJCD9HQJQgHmkFdNrTa3wZBC3zrNAwadh7o",
@@ -131,6 +159,19 @@
   "symbol": "AKA",
   "websites": [
    "https://akatoken.com"
+  ]
+ },
+ {
+  "address": "0:cf30dbd7977b22d535c65ccc27521c108c4d2631cc472ad617152b9b6a271891",
+  "description": "This token is a subtoken of the AKA token. In the AKA mini-app on Telegram, this token is scheduled to be distributed as part of the rewards.",
+  "image": "https://i.postimg.cc/X7CNBpZ3/akorn.png",
+  "name": "Akorn Liberty",
+  "social": [
+   "https://t.me/akorn_system"
+  ],
+  "symbol": "AKORN",
+  "websites": [
+   "https://akorn.akatoken.com"
   ]
  },
  {
@@ -202,6 +243,20 @@
   "address": "0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a",
   "name": "AIYA PowerCell",
   "symbol": "APC"
+ },
+ {
+  "address": "0:b574dfb149732f53cec70d866de50a1a113f1e74926f87743699fa59d6ad161b",
+  "description": "$APIS A revolutionary token designed to fuel the APIS ecosystem. Use it to unlock exclusive game features, earn rewards, and dive deeper into the world of cyber bees! \ud83d\ude80\ud83d\udc8e",
+  "image": "https://cdn.apisgameonline.online/images/token/token.jpeg",
+  "name": "APIS",
+  "social": [
+   "https://t.me/apisgame_community",
+   "https://t.me/apis_io"
+  ],
+  "symbol": "APIS",
+  "websites": [
+   "https://apisgame.online"
+  ]
  },
  {
   "address": "0:5745d6539393f8f662f49ce61f0d1d55477dcddec3d4801ecf35031a8fa0e1c4",
@@ -519,6 +574,20 @@
   "symbol": "BBTC",
   "websites": [
    "https://bbtc.gg"
+  ]
+ },
+ {
+  "address": "0:f435349c2e296eb3a36efcd54167a4749ec40b7347d41674245222bd75699786",
+  "description": "BlackCat is a farm type game where users earn rewards.",
+  "image": "https://i.imgur.com/QsTZCrr.jpeg",
+  "name": "BlackCat",
+  "social": [
+   "https://t.me/BlckCat_Official",
+   "https://x.com/offcl_blckcat"
+  ],
+  "symbol": "BCAT",
+  "websites": [
+   "https://www.blackcatmeme.com/"
   ]
  },
  {
@@ -1214,6 +1283,17 @@
   "websites": [
    "https://vahidbaghi.ir"
   ]
+ },
+ {
+  "address": "0:dc37f286fd7d41d021e667a16b43600423ae9dff8510fbafd9597a533a620f7b",
+  "description": "DDOG is a crew of hustlers, traders, and just fans of good humor. Join the movement and help us make DeadPullDog a legend among meme coins!.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqdcn_kg_x1b0chmz6frq2aei66d_4uq-6_zwxptomipe8qw.png?size=lg&key=ae72e2",
+  "name": "DeadPullDog",
+  "social": [
+   "https://t.me/ddog_news",
+   "https://x.com/ddogton"
+  ],
+  "symbol": "DDOG"
  },
  {
   "address": "0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e",
@@ -2150,6 +2230,20 @@
   ]
  },
  {
+  "address": "0:36b9ff65cbe3368c0f2128e4394b864081c2f493fc89037eec8b112cd2eff1bd",
+  "description": "HBD is a cute tap game where users play and earn rewards.",
+  "image": "https://media.discordapp.net/attachments/1006277861231042671/1346149013396783265/HBD_LOGO.jpg?ex=67c72277&is=67c5d0f7&hm=43bfd85fc164f417583154d037340a928a7caeb05679f5e54eb90d796c90bc54&=&format=webp",
+  "name": "Happy Balloon Dog",
+  "social": [
+   "https://t.me/happyballoondog",
+   "https://x.com/HappyBalloonDog"
+  ],
+  "symbol": "HBD",
+  "websites": [
+   "https://happyballoondog.com/"
+  ]
+ },
+ {
   "address": "0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710",
   "description": "The spirit of wall-street hedgehogs on a legendary blockchain",
   "name": "HEDGE coin",
@@ -2371,6 +2465,19 @@
   ]
  },
  {
+  "address": "0:51dfb1f386973d0d95cb02440533d59a20765cac5aa8666b9bf8755498ec9588",
+  "description": "Kalkan company token. Created for a loyalty program.",
+  "image": "https://i.yapx.cc/YfMOH.png",
+  "name": "Kalkan Token",
+  "social": [
+   "https://t.me/kalkan_blum"
+  ],
+  "symbol": "KALKAN",
+  "websites": [
+   "https://\u0443\u0442\u0435\u043f\u043b\u0438\u0442\u0435\u043b\u044c-\u043a\u0430\u043b\u043a\u0430\u043d.\u0440\u0444/token"
+  ]
+ },
+ {
   "address": "0:68dd6d7d3bddaa2e376861b11101316d414875429fcd649e8953f957c8b9c650",
   "description": "\ud83d\udc08 Ultimate RPG on TON.",
   "image": "https://i.ibb.co/JFhQ1vX/logo-kat.png",
@@ -2431,6 +2538,22 @@
   "symbol": "KIRBY",
   "websites": [
    "https://bigkirby.xyz"
+  ]
+ },
+ {
+  "address": "0:481644f86728945b10fd89dd2d1d33805bcf0ab431ae6a4efd1131206f0e285d",
+  "description": "KLITOR \u044d\u0442\u043e \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u043c\u0435\u043c-\u043a\u043e\u0438\u043d, \u044d\u0442\u043e \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u0434\u043b\u0438\u043d\u043e\u044e \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043b\u0435\u0442, \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043d\u0430 \u043b\u044e\u0431\u0432\u0438 \u043b\u044b\u0441\u043e\u0433\u043e \u043a\u0440\u0438\u043f\u0442\u043e\u043c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440\u0430 \u0422\u041e\u0420\u0410 \u043a \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0439 \u0430\u043a\u0442\u0440\u0438\u0441\u0435 \u0441 \u0431\u043e\u043b\u044c\u0448\u0438\u043c\u0438 \u0433\u043b\u0430\u0437\u0430\u043c\u0438 MORPHE.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbifkt4zyiuwxd9id0thtoaw88ktdguak79etegbw4oxzuq.png?size=lg&key=826f84",
+  "name": "KLTR",
+  "social": [
+   "https://t.me/KLITORCOIN",
+   "https://x.com/loru77",
+   "https://discord.gg/78SChUFX",
+   "https://www.twitch.tv/loru77"
+  ],
+  "symbol": "KLTR",
+  "websites": [
+   "klitorcoin.com"
   ]
  },
  {
@@ -2987,6 +3110,22 @@
   ]
  },
  {
+  "address": "0:f97d70e350aa2f257bdee9ac7f60f86eaca702f82bb0fe105fbe3b4419dce2c1",
+  "description": "A token of a real coffee shop network, integrated into the loyalty program. It allows customers to earn rewards, redeem them for drinks, participate in special promotions, and access exclusive benefits for regular visitors.",
+  "image": "https://i.postimg.cc/vT8QdFPS/photo-2025-02-09-21-49-40.jpg",
+  "name": "MEREN COFFEE Token",
+  "social": [
+   "https://t.me/idench",
+   "https://instagram.com/idenhd",
+   "https://dzen.ru/idenhd",
+   "https://www.youtube.com/@IDEN"
+  ],
+  "symbol": "MRNCF",
+  "websites": [
+   "https://t.me/idench"
+  ]
+ },
+ {
   "address": "0:6ca4108a2c483f7356447dff8ee6b347126f93c614fb25d982aea4f7c2727e0d",
   "description": "Marsel token is inspired by the love for pets. Created to help animals and make the world a little better. In memory of the cat Marsel.",
   "image": "https://raw.githubusercontent.com/MRSLtoken/assets/refs/heads/main/MRSLToken.png",
@@ -3246,6 +3385,20 @@
   ]
  },
  {
+  "address": "0:ad0df707182c3a3526bc26cacc5c1adc8915105c96dccea5ae038a51ed41b05b",
+  "description": "Orc Mine Utility Token, Buy NFTs, and upgrade Camps.",
+  "image": "https://framerusercontent.com/images/ZBM9Nr6dxiROuGW1QYTxby0Ic.png",
+  "name": "ORC Token",
+  "social": [
+   "https://t.me/orcminegame"
+  ],
+  "symbol": "ORC",
+  "websites": [
+   "https://orcmine.io",
+   "https://orcmine.gitbook.io"
+  ]
+ },
+ {
   "address": "0:8d02004e5f158f6af5d17c1ab76d6717ce58500a63c1952553836a727cf2b315",
   "description": "ORANGE is a meme coin with no intrinsic value or expectation of financial return. This coin is for entertainment purposes only.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcnagboxxwpavxrfbq3bwcxzlhqcmpblsvtg2pyfpkzfux2.png",
@@ -3331,6 +3484,20 @@
   "symbol": "PIGBANK",
   "websites": [
    "https://pigbank.io/"
+  ]
+ },
+ {
+  "address": "0:d8d8cccc258ffd3969bd53240d2d353642cffc051a2694c51b6c00e787eb4590",
+  "description": "PinEye Provides an All-in-One Web3 Community-Driven Ecosystem, Combining GameFi, & SocialFi & Academy.",
+  "image": "https://pineye.io/home-page/logo.webp",
+  "name": "PinEye Token",
+  "social": [
+   "https://t.me/pineye",
+   "https://x.com/pineye_"
+  ],
+  "symbol": "PINEYE",
+  "websites": [
+   "https://pineye.io/"
   ]
  },
  {
@@ -3685,6 +3852,20 @@
   ]
  },
  {
+  "address": "0:fd06cba941c9031512e77358b15675bec1ba414d5520dec9832bd9a4450ed63d",
+  "description": "Resistance Duck was created to embody, embolden and champion $TON within Telegram.",
+  "image": "https://raw.githubusercontent.com/ResistanceDuckTon/REDU/main/256x256LOGO.png",
+  "name": "Resistance Duck",
+  "social": [
+   "https://t.me/resistanceduck",
+   "https://x.com/REDU_TON"
+  ],
+  "symbol": "REDU",
+  "websites": [
+   "https://www.resistanceduck.com/"
+  ]
+ },
+ {
   "address": "0:d012cae57f900b6bbf86a73da70caeaddf7d9b7324283f40731e3d8a293ad761",
   "description": "Study $REKT OR GET REKT",
   "image": "https://i.postimg.cc/25t0Lc76/logo-for-token.png",
@@ -3976,6 +4157,24 @@
    "https://vk.com/vkcoinswap"
   ],
   "symbol": "SNT"
+ },
+ {
+  "address": "0:8fada77ca1c0ee229e1b01b19bc5d03b0567561361ace0e8802fb62baedbba05",
+  "description": "SOEX is utility token powering Shelter of Exiles gaming ecosystem",
+  "image": "https://static.shelterofexiles.com/soex-square_256.png",
+  "name": "SOEX",
+  "social": [
+   "https://x.com/Play_SoE",
+   "https://discord.gg/RkQduFXnjU",
+   "https://t.me/ShelterOfExiles",
+   "https://www.youtube.com/@shelterofexiles",
+   "https://www.linkedin.com/company/shelter-of-exiles/",
+   "https://www.facebook.com/shelterofexilespl"
+  ],
+  "symbol": "SOEX",
+  "websites": [
+   "https://shelterofexiles.com/"
+  ]
  },
  {
   "address": "0:7f1dc01da790c0f24139a9368d46878c35d632eac890372b22e79e247e595dc0",
@@ -4412,6 +4611,17 @@
   "websites": [
    "http://movement-simplecoin.ru/"
   ]
+ },
+ {
+  "address": "0:5465ee02f8e66e30404dadea9fd110e4442fa782212d7e8c0a41dc9d3d6fbf85",
+  "description": "\u0421 \u0434\u0430\u0432\u043d\u0438\u0445 \u0432\u0440\u0435\u043c\u0435\u043d \u0441\u043f\u043e\u0440\u0442 \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u044f\u043b \u0433\u043e\u0440\u043e\u0434\u0430 \u0438 \u0441\u0442\u0440\u0430\u043d\u044b , \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c \u0434\u0435\u043b\u0430\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0431\u043e\u043b\u0435\u0435 \u0441\u0438\u043b\u044c\u043d\u044b\u043c \u0438 \u0441\u043f\u043b\u043e\u0447\u0435\u043d\u043d\u044b\u043c",
+  "image": "https://trueimages.ru/img/7d/cf/eed17c76.png",
+  "name": "Sportiks",
+  "social": [
+   "https://t.me/tonsportiks",
+   "https://t.me/tonsportiks_chat"
+  ],
+  "symbol": "SPRT"
  },
  {
   "address": "0:cd2ebaf09bb9652a471ed1802b0dbe778de10fdeb4519c9569bc3280d7aef94f",
@@ -5019,6 +5229,35 @@
   ]
  },
  {
+  "address": "0:2c87b98c4f73d6d15056ce400c575f9c2107d143afb59582f9d5090564fdecee",
+  "description": "The coin and its name speak for themselves, we want to show and test whether it is really that easy to create a coin from scratch and it can really grow!",
+  "image": "https://trueimages.ru/img/79/45/439f6c76.png",
+  "name": "VAGR",
+  "social": [
+   "https://t.me/crypto_mining_rvn_etc",
+   "https://t.me/vagrchat",
+   "https://x.com/vagr_"
+  ],
+  "symbol": "VAG",
+  "websites": [
+   "https://vagr-drive.ru/"
+  ]
+ },
+ {
+  "address": "0:04174b95404c77d9abee52c07612deb15fe4d17e92a0c8aa7c4c923854c37aca",
+  "description": "\u0412\u0430\u0441\u0438\u043b\u0438\u0439 \u0443\u0436\u0435 \u0443\u0442\u043e\u043f\u0438\u043b \u0440\u044b\u0431\u0443 \u0432 \u0432\u043e\u0434\u0435, \u043f\u043e\u0431\u0435\u0434\u0438\u043b \u0432 \u0447\u0435\u0441\u0442\u043d\u043e\u0439 \u0441\u0445\u0432\u0430\u0442\u043a\u0435 \u0427\u0430\u043a\u0430 \u041d\u043e\u0440\u0440\u0438\u0441\u0430, \u0438\u0437\u0431\u0438\u043b \u0441\u0432\u043e\u044e \u0442\u0435\u043d\u044c, \u0441\u043f\u0440\u044b\u0433\u043d\u0443\u043b \u0441 9 \u044d\u0442\u0430\u0436\u0430 \u043d\u0430 11, \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043b \u043d\u0435\u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0443\u0433\u043e\u043b\u044c, \u0430 \u0442\u0435\u043f\u0435\u0440\u044c \u043e\u043d \u0441\u043e\u0437\u0434\u0430\u043b \u0441\u0432\u043e\u0439 \u043c\u0435\u043c-\u043a\u043e\u0439\u043d..",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqaef0uvqex32avuusb2et6xx-trfpkgykp8tji4vmn6yoez.png?size=lg&key=78e64b",
+  "name": "VASILIY",
+  "social": [
+   "https://t.me/VASILIY_TOKEN",
+   "https://www.instagram.com/malewsee"
+  ],
+  "symbol": "VASILIY",
+  "websites": [
+   "https://t.me/VASILIY_TOKEN"
+  ]
+ },
+ {
   "address": "0:df8257eb7f43acdfc70a3c768e2aa41e9c9a65b36b3471ecbc69c4058cf0bf54",
   "description": "VERT is a utility token designed to power the Vertus ecosystem, simplifying cryptocurrency access through Web3 integration on Telegram.",
   "image": "https://api.thevertus.app/assets/vert_coin.png",
@@ -5502,6 +5741,11 @@
   "address": "0:df79f6e137eaa666a1f951980543b1abad17b1e802cc80f14899f0031f0c036e",
   "name": "IF",
   "symbol": "IF"
+ },
+ {
+  "address": "0:f3e183a2d8c9f376a71ad190a9aeb7089b92b5e94bccfce3e20781d627928c56",
+  "name": "viperr coin",
+  "symbol": "RRMONEY"
  },
  {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
