@@ -1,0 +1,9 @@
+{
+  "name": "Tethers Token Ton",
+  "symbol": "USDTs",
+  "contract_address": "EQCnxLHCX2ug4BMggsHs1au7envWKw2V1L49iREU_NMV8elc",
+  "website": "https://usdts-official.github.io/Tethers-Token-Ton/",
+  "whitepaper": "https://github.com/USDTs-Official/Tethers-Token-Ton/blob/main/Whitepaper%20USDTs_250309_034702.pdf",
+  "logo": "https://github.com/USDTs-Official/Tethers-Token-Ton/blob/main/Logo.png",
+  "supply": "4000000000"
+}
