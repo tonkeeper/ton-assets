@@ -1,0 +1,10 @@
+address: "0:5b122c6491246663a148e4e6a7442f1b3856f4a5c5a25872439bfc1e3c84b726"
+name: "PITON"
+symbol: "PITON"
+decimals: 9
+description: "PITON is a community-driven token designed for enthusiasts of both Pi Network and the TON blockchain."
+image: "https://piton.network/logo.png"
+website: "https://piton.network/"
+social:
+  - "https://twitter.com/pitonnetwork"
+  - "https://t.me/pitoncommunity"
