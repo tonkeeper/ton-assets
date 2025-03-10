@@ -2046,6 +2046,18 @@
   "symbol": "GH"
  },
  {
+  "address": "0:cb8fadb1b45493694aed6334314cf3b386281078fc092d646ef86a6f6d34265b",
+  "description": "Gifties is a unique, modern and convenient service built on TON blockchain smart contracts, thanks to which users can send and receive digital gifts to their friends literally in two clicks directly in Telegram.",
+  "image": "https://cdn.blum.codes/a3cf17ac-ab8c-4b03-a946-f90df3647c49/a574a7ce-65e3-44b5-8b20-bc53d8f41eee",
+  "name": "Gifties",
+  "social": [
+   "https://t.me/gifties_bot",
+   "https://t.me/gifties_tg",
+   "https://t.me/chatgifties"
+  ],
+  "symbol": "GIFT"
+ },
+ {
   "address": "0:711d8ce05242df2e4ae6498b4e08dc6bf20ac0ec96a0be6dea96d2b73356aba5",
   "description": "Glitch ($GLITCH) \u2014 a meme coin on the $TON blockchain, embodying the chaos and bugs of the crypto world. Unstable and unpredictable, it reflects the absurdity and volatility of the market.",
   "image": "https://raw.githubusercontent.com/ilavlu/Glitch/main/images/glitchimage.jpg",
