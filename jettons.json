@@ -1,4 +1,5 @@
 {
+  "address": "EQCnxLHCX2ug4BMggsHs1au7envWKw2V1L49iREU_NMV8elc",
   "name": "Tethers Token Ton",
   "symbol": "USDTs",
   "decimals": 18,
@@ -6,5 +7,5 @@
   "website": "https://usdts-official.github.io/Tethers-Token-Ton/",
   "whitepaper": "https://github.com/USDTs-Official/Tethers-Token-Ton/blob/main/Whitepaper%20USDTs_250309_034702.pdf",
   "logo": "https://github.com/USDTs-Official/Tethers-Token-Ton/blob/main/Logo.png",
-  "description": "An academic stablecoin project for educational purposes. This project simulates a Tether USD (USDT) token on the Toncoin blockchain as part of a university blockchain course."
+  "description": "An academic stablecoin project for educational purposes. This project simulates a Tether USD (USDT) token on the TON blockchain."
 }
