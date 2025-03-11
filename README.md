@@ -1,4 +1,9 @@
-# TON Assets
+address: Адрес вашего токена 
+symbol: Сивол вашего токена
+websites:
+  - "ссылка"
+social:
+  - "ссылка"# TON Assets
 
 This is a list of popular addresses and assets. We are open to pull request but **please read manual in the end of this readme for PR**.
 
