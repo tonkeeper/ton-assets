@@ -357,3 +357,7 @@
   name: "TEC Pay"
   require_memo: true
   image: "https://cdn.tonexpert.club/logo_solid.svg"
+- address: "EQDEr36IsXIedbu4Bl2ON8NW9w-j9SjFAdsDesgsY6moJOpK"
+  name: "Fuck NATO"
+  require_memo: true
+  image: "https://styles.redditmedia.com/t5_737gcb/styles/communityIcon_5k50a8hem9q91.png"
