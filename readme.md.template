@@ -18,13 +18,6 @@ Name           | Address
 %s
 
 
-## Jettons
-
-Name           | Address
----------------|-----------
-%s
-
-
 ## Structure
 
 Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
