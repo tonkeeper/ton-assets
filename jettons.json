@@ -8213,6 +8213,11 @@
   "symbol": "eNOT"
  },
  {
+  "address": "0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4",
+  "name": "00 Token",
+  "symbol": "j00"
+ },
+ {
   "address": "0:9b9117699eb5997e6d3b74fe67ff08c6c7a9653641cd21d999fa0a4841c0cff8",
   "name": "jBTC",
   "symbol": "jBTC"
