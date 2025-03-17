@@ -5,7 +5,6 @@ description: NOVA is the native reward token for the Cryptid Hunter game, design
   via gameplay, contributing to a dynamic and vibrant game world.
 image: https://cryptid-hunter-mini.s3.eu-central-1.amazonaws.com/icons/token/nova.png
 name: NOVA
-decimals: '9'
 social:
 - https://t.me/cryptohunterm2p
 symbol: NOV4

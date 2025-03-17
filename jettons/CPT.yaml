@@ -1,7 +1,6 @@
 address: 0:3dcfa2856edba2ad61f2a6358ee2937b5fc4e4138a4e40465354b075fd8bb161
 name: Cryptid Token
 symbol: CPT
-decimals: '9'
 image: https://cryptid-hunter-mini.s3.eu-central-1.amazonaws.com/icons/token/cpt.png
 description: Cryptid Token (CPT) serves as the utility token for the Cryptid Hunter
   ecosystem, powering key in-game mechanics and driving the token economy. As the
