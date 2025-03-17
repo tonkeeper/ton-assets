@@ -53,3 +53,31 @@
 - symbol: ESALAT
   name: Esalat
   address: "EQBLS1l0xq007CZTkueNivBNG8VuaOF3SDMn1bzImyEOudJZ"
+  
+- symbol: LUKO
+  name: lukocoin
+  address: "EQDN0PsBNn8lJphJE2ApQxbXeU5C-wi-KfCdQds8J5YEsAtY"
+  
+- symbol: BOYARE
+  name: BoyreCoin
+  address: "EQDtOG_p2Y6MWTgI6D2mm159IUZa-ROf750c9GKp6fzHYCzQ"
+    
+- symbol: RHYMETON
+  name: Рифмы и Панчи
+  address: "EQBhE7z_2d8-_SO8W5b3ifPweYOPjlGVTx5tOespsfF1PW8J"
+
+- symbol: SHMABANK
+  name: SHMABANK
+  address: "EQBVM5iDPfUDjFyBs0rSrmVkbuy34iMwh_dKwG8kpD30PxNt"
+  
+- symbol: NEPRODAM
+  name: NeProdam
+  address: "EQCQYvhkjJnEow_G0ozJMX1Hbl5RkNIBHKWhyCvcpCYOzZXg"
+  
+- symbol: IF
+  name: IF
+  address: "EQDfefbhN-qmZqH5UZgFQ7GrrRex6ALMgPFImfADHwwDblj6"
+  
+- symbol: RRMONEY
+  name: viperr coin
+  address: "EQDz4YOi2Mnzdqca0ZCprrcIm5K16UvM_OPiB4HWJ5KMVie3"
