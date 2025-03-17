@@ -1,0 +1,9 @@
+name: TLucky
+description: "A meme coin that brings you luck"
+image: "https://logo.tlucky.io/logo.png"
+address: "0:2eb81fd18de77699377a20ff3ff14e23d85ba367c59f02a2bd510fe04890f8de"
+symbol: TLC
+websites:
+  - "https://tlucky.io/"
+social:
+  - "https://t.me/TLuckyIO"
