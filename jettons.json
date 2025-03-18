@@ -1,5 +1,20 @@
 [
  {
+  "address": "0:2279a1cb24290dbb90bface611f9dcd0f8ab3c7b7a1e8c3a999904011a7b96a5",
+  "description": "Monetizing Attention Through Artificial Intelligence",
+  "image": "https://raw.githubusercontent.com/blinkgame/logo/refs/heads/main/Blink%20Logo.png",
+  "name": "Blink Game AI",
+  "social": [
+   "https://t.me/blinkgameai_bot",
+   "https://x.com/blinkgameapp",
+   "https://www.youtube.com/@blinkgameai"
+  ],
+  "symbol": "BLINK",
+  "websites": [
+   "https://blink.game"
+  ]
+ },
+ {
   "address": "0:a6115250e678edb4d4416b56eaa99b15ab959a1d89621bd054fdde413f506ed9",
   "description": "The most gypsy token on TON",
   "image": "https://i.ibb.co/dGCf511/IMG-1522.png",
@@ -173,6 +188,15 @@
   "websites": [
    "https://akorn.akatoken.com"
   ]
+ },
+ {
+  "address": "0:fc7d84a98a50b8a321a007e47bf276d789407f2a632ed418910024086ca276b9",
+  "description": "Alice meme token created for pet owners and is a prototype of a real cat, designed to protect and love pets",
+  "name": "Alice Token",
+  "social": [
+   "https://t.me/AliceTonToken"
+  ],
+  "symbol": "ALICE"
  },
  {
   "address": "0:f8e102fda1ac0ba7786a2cd3117781ef0cafa2e26b66e99070d8227b40eb6f48",
@@ -846,6 +870,18 @@
    "https://x.com/NFT_BULL_2024"
   ],
   "symbol": "BULL"
+ },
+ {
+  "address": "0:554441d361da11b38748032b76f0d6a99ed06614d3a0765ba896b695f0dd213d",
+  "description": "For serious investors who do not want to invest in a scam. The coin is powered by the real sector of the economy.",
+  "image": "https://trueimages.ru/img/9b/0f/aeaf3d76.png",
+  "name": "BUYITCOIN",
+  "social": [
+   "https://t.me/+2tDi9_CZRMI4YjBi",
+   "https://t.me/BUYITCOIN",
+   "https://www.instagram.com/byccoins?igsh=amRndGl1MGdjYTFz"
+  ],
+  "symbol": "BYC"
  },
  {
   "address": "0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7",
@@ -1786,6 +1822,26 @@
   "symbol": "LP tsTON"
  },
  {
+  "address": "0:e2f5b9427324fe93c88ca45318634b7b987572882079d19b118325040890ee1a",
+  "name": "SY eUSDT (01-Jun-2025)",
+  "symbol": "SY eUSDT"
+ },
+ {
+  "address": "0:7356b62460f1f1f03fc73df41a726d7138d6b85d247197cdbabc7931fe568fd8",
+  "name": "PT eUSDT (01-Jun-2025)",
+  "symbol": "PT eUSDT"
+ },
+ {
+  "address": "0:b0512736aab639ae7f417c5046f404401de3d352f2130e5f7b503d333ab796cc",
+  "name": "YT eUSDT (01-Jun-2025)",
+  "symbol": "YT eUSDT"
+ },
+ {
+  "address": "0:4d94867121b40643bf1c5e01b755173297c03490b9ffe8133d91a6e21c78560b",
+  "name": "LP eUSDT (01-Jun-2025)",
+  "symbol": "LP eUSDT"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
@@ -1876,22 +1932,6 @@
   "symbol": "FREENET",
   "websites": [
    "https://incvpn.org/"
-  ]
- },
- {
-  "address": "0:acb8c35704976feeeb94a4422a0bdb6205d930d25bb8e1e9dd0b47f52f255fc5",
-  "description": "Fswap is a user-friendly and safe platform for cryptocurrency exchange. The service provides fast transactions, high level of protection of user funds without registration.",
-  "image": "https://i.ibb.co/d2cxvDN/Frame-738004272.png",
-  "name": "Fswap",
-  "social": [
-   "https://x.com/official_fswap",
-   "https://www.trustpilot.com/review/fswap.io",
-   "https://www.linkedin.com/company/fswap",
-   "https://t.me/fswap_official"
-  ],
-  "symbol": "FSWAP",
-  "websites": [
-   "https://fswap.io"
   ]
  },
  {
@@ -2369,7 +2409,7 @@
  {
   "address": "0:28bad023de090d2a311635bb7ff9acc510717322715eae8afb7d4927a0e8014a",
   "description": "ISMA&COIN meme will become a method of payment business for you training services by cross-border transfer in cryptocurrency within the framework of foreign economic activity. ISMA&COINInc.",
-  "image": "https://static.tildacdn.com/tild6666-3934-4863-b061-623733383431/IMG_7013.jpeg",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqaoutaj3gknkjewnbt_-azfehfzinferor7fuknoogbsntg.png?size=lg&key=e9c8e0",
   "name": "ISMA&COIN",
   "social": [
    "https://t.me/ismacoin",
@@ -4816,6 +4856,20 @@
   ]
  },
  {
+  "address": "0:46faa5bba04d7583872e56232ccb079ea842d2ee74bd7332a0c3006d06b9e9f8",
+  "description": "Official token of the largest conference on traffic, sales and TON in telegram",
+  "image": "https://static.tildacdn.com/tild3734-3564-4831-b261-333262643065/Frame_21_1.svg",
+  "name": "TgConf",
+  "social": [
+   "https://t.me/tgconf",
+   "https://t.me/chattgconf"
+  ],
+  "symbol": "TGCONF",
+  "websites": [
+   "https://tgconf.ru"
+  ]
+ },
+ {
   "address": "0:77e8ec695a194ac14301885f6174302084336411606ea4fabede2ff90fab6449",
   "description": "TGHUNTER software can attract thousands of people to your business and also allow you to make money by selling the software. TGHUNTER has hundreds of users around the world and is known as Cheetah in China.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb36oxpwhlkwumbif9hddaghdnkewbuppq-3i_5d6tksvu7.png?size=lg&key=59be62",
@@ -5535,6 +5589,19 @@
    "https://www.youtube.com/@AVA-GOLDCOIN"
   ],
   "symbol": "XP"
+ },
+ {
+  "address": "0:25fb0010e51cc132f5b223d714d690c0e75904f42e4a0fce360d55d91ef17dca",
+  "description": "XPBEAT - \u0443\u0442\u0438\u043b\u0438\u0442\u0438 \u0442\u043e\u043a\u0435\u043d \u043f\u0440\u043e\u0435\u043a\u0442\u0430 Beat. \u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0439 \u043d\u0430\u0448\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438 \u0438\u0433\u0440\u0430\u0439 \u043f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441!",
+  "name": "BEAT XP",
+  "social": [
+   "https://t.me/pbeat_bot",
+   "https://t.me/beat_project_chat"
+  ],
+  "symbol": "XPBEAT",
+  "websites": [
+   "https://beat.ceo"
+  ]
  },
  {
   "address": "0:a992e0fa82901d5d624338b2b2c71ea78030dc5f3d804bce635b20d66b7a9355",
@@ -7698,6 +7765,11 @@
   "symbol": "TAC"
  },
  {
+  "address": "0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2",
+  "name": "TAGO WOLF",
+  "symbol": "TAGO"
+ },
+ {
   "address": "0:f7cda950af09e1000e69b86f89fed42fdd6e67e5ceafe38f63934f3806ae255a",
   "name": "Ton Ai",
   "symbol": "TAI"
@@ -8198,6 +8270,11 @@
   "symbol": "ZEUS"
  },
  {
+  "address": "0:2358565a1f45e26f45461307b7d78f0783b6ab493e66849c03077613212d0e15",
+  "name": "Antique Pine",
+  "symbol": "aPine"
+ },
+ {
   "address": "0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1",
   "name": "povel durev",
   "symbol": "durev"
@@ -8206,6 +8283,11 @@
   "address": "0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a",
   "name": "eNOT COIN",
   "symbol": "eNOT"
+ },
+ {
+  "address": "0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4",
+  "name": "00 Token",
+  "symbol": "j00"
  },
  {
   "address": "0:9b9117699eb5997e6d3b74fe67ff08c6c7a9653641cd21d999fa0a4841c0cff8",
