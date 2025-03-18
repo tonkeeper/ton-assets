@@ -1822,6 +1822,26 @@
   "symbol": "LP tsTON"
  },
  {
+  "address": "0:e2f5b9427324fe93c88ca45318634b7b987572882079d19b118325040890ee1a",
+  "name": "SY eUSDT (01-Jun-2025)",
+  "symbol": "SY eUSDT"
+ },
+ {
+  "address": "0:7356b62460f1f1f03fc73df41a726d7138d6b85d247197cdbabc7931fe568fd8",
+  "name": "PT eUSDT (01-Jun-2025)",
+  "symbol": "PT eUSDT"
+ },
+ {
+  "address": "0:b0512736aab639ae7f417c5046f404401de3d352f2130e5f7b503d333ab796cc",
+  "name": "YT eUSDT (01-Jun-2025)",
+  "symbol": "YT eUSDT"
+ },
+ {
+  "address": "0:4d94867121b40643bf1c5e01b755173297c03490b9ffe8133d91a6e21c78560b",
+  "name": "LP eUSDT (01-Jun-2025)",
+  "symbol": "LP eUSDT"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
