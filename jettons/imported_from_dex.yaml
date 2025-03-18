@@ -1403,6 +1403,9 @@
 - address: 0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11
   name: ZEUS
   symbol: ZEUS
+- address: 0:2358565a1f45e26f45461307b7d78f0783b6ab493e66849c03077613212d0e15
+  name: Antique Pine
+  symbol: aPine
 - address: 0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1
   name: povel durev
   symbol: durev
