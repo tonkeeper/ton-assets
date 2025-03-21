@@ -1127,6 +1127,19 @@
   ]
  },
  {
+  "address": "0:3dcfa2856edba2ad61f2a6358ee2937b5fc4e4138a4e40465354b075fd8bb161",
+  "description": "Cryptid Token (CPT) serves as the utility token for the Cryptid Hunter ecosystem, powering key in-game mechanics and driving the token economy. As the foundational currency within Cryptid Hunter, CPT is integral to the progression of gameplay, providing players with essential resources such as energy recovery for battles. The Cryptid Token not only fuels the gameplay experience but is also designed to increase in value over time through strategic token usage and innovative tokenomics.",
+  "image": "https://cryptid-hunter-mini.s3.eu-central-1.amazonaws.com/icons/token/cpt.png",
+  "name": "Cryptid Token",
+  "social": [
+   "https://t.me/cryptohunterm2p"
+  ],
+  "symbol": "CPT",
+  "websites": [
+   "https://cryptohunter.world"
+  ]
+ },
+ {
   "address": "0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d",
   "description": "Unlock rewards with Cryptaskr! Complete tasks to earn points, convert them into CRT tokens, and swap for TON.",
   "image": "https://token.cryptaskr.com/token-image.png",
@@ -3411,6 +3424,19 @@
    "https://getgems.io/not-punks",
    "https://getgems.io/notpunks-girls",
    "https://x.com/thenotpunks"
+  ]
+ },
+ {
+  "address": "0:5abfeb7f30cf41fe3a6436eb16f08b18cf025ba4a6d23d8e4a56ef5fd9c280f6",
+  "description": "NOVA is the native reward token for the Cryptid Hunter game, designed to foster a player-driven economy and provide engaging incentives within the game\u2019s ecosystem. Through its Play-to-Earn (P2E) model, NOVA empowers players to earn tokens via gameplay, contributing to a dynamic and vibrant game world.",
+  "image": "https://cryptid-hunter-mini.s3.eu-central-1.amazonaws.com/icons/token/nova.png",
+  "name": "NOVA",
+  "social": [
+   "https://t.me/cryptohunterm2p"
+  ],
+  "symbol": "NOV4",
+  "websites": [
+   "https://cryptohunter.world"
   ]
  },
  {
