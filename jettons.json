@@ -1347,6 +1347,19 @@
   ]
  },
  {
+  "address": "0:01dfbabb2948e9aa7980a21ee7390448c96fc535917c484b2ca0757beb3ec7ce",
+  "description": "M2E project Diaverse demo token",
+  "image": "https://storage.yandexcloud.net/diafun/DiaFun.PNG",
+  "name": "DiaFun",
+  "social": [
+   "https://t.me/publikstarttup"
+  ],
+  "symbol": "DIA",
+  "websites": [
+   "https://diaverse.app"
+  ]
+ },
+ {
   "address": "0:88e02e49227348330c6f148ba72a0cebc5afeb0c962e5de1c7d1f17f58a6e7b1",
   "description": "Ton Digger jetton miner",
   "image": "https://i.postimg.cc/y81cRWzj/dgr.png",
@@ -5907,6 +5920,11 @@
   "websites": [
    "https://dton.io/"
   ]
+ },
+ {
+  "address": "0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d",
+  "name": "FRAGMENT",
+  "symbol": "FRG"
  },
  {
   "address": "0:7a425d4913b1ead09baba292d8b1c85cbbe58db76bcc996176fbc98432b2baf2",
