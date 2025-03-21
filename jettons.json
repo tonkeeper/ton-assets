@@ -3186,6 +3186,25 @@
   ]
  },
  {
+  "address": "0:deb5d7b4ea75acf33dba3200e00bf7e25cc908d77c57ed8b5c928bfa29b03708",
+  "description": "MOLVA is the official coin of the online game Cynical Cards (BonCard). Hard humor, wild combinations and pure chaos - play with friends or strangers! Join the madness, rumors are spreading, and everything is about to get even wilder ;)",
+  "image": "https://boncard.ru/molva/logo.gif",
+  "name": "MOLVA",
+  "social": [
+   "https://x.com/molva_ton",
+   "https://t.me/molva_ton",
+   "https://t.me/molva_chat",
+   "https://t.me/molva_ton_en",
+   "https://t.me/molva_chat_en",
+   "https://vk.com/boncard_ru"
+  ],
+  "symbol": "MOLVA",
+  "websites": [
+   "https://boncard.ru/",
+   "https://boncard.ru/social_link/"
+  ]
+ },
+ {
   "address": "0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3",
   "description": "MonkeyRush Token",
   "image": "https://raw.githubusercontent.com/rafnicore/monkeyrush/refs/heads/main/monker.png",
