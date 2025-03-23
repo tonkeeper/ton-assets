@@ -1,5 +1,20 @@
 [
  {
+  "address": "0:14035807e5a4fdab9189b154139a60f2c9954e1f3703f6c64a195981b96217d0",
+  "description": "All-in-one DeFi suite on the TON blockchain",
+  "image": "https://www.rebor.xyz/REBcoin.png",
+  "name": "Rebor",
+  "social": [
+   "https://t.me/Reborcoin",
+   "https://x.com/Reborcoin",
+  ],
+  "symbol": "REB",
+  "websites": [
+   "https://rebor.xyz"
+  ]
+ },
+ },
+ {
   "address": "0:2279a1cb24290dbb90bface611f9dcd0f8ab3c7b7a1e8c3a999904011a7b96a5",
   "description": "Monetizing Attention Through Artificial Intelligence",
   "image": "https://raw.githubusercontent.com/blinkgame/logo/refs/heads/main/Blink%20Logo.png",
