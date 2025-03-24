@@ -337,6 +337,19 @@
   "symbol": "ARUT"
  },
  {
+  "address": "0:58d3126119838f46449ebf2d9851c1bb8d18b106531945494ec4e8b6285f7d91",
+  "description": "machinegpt.org",
+  "name": "Machine",
+  "social": [
+   "https://discord.gg/qhNMVCrPVj",
+   "https://x.com/machinegpt"
+  ],
+  "symbol": "ASI",
+  "websites": [
+   "https://machinegpt.org"
+  ]
+ },
+ {
   "address": "0:504c5fc01443793ccf2b620deb70d6c01fceb335b2172a1663330de3abcca3f9",
   "description": "$ASTAHOV (SKLAD ASTAHOVA) is a meme token created by the community for the community.",
   "image": "https://coubnft.mypinata.cloud/ipfs/QmRJjhUEGBCXoKvct5MZCWvieCvFAPMAwktSaY1D59gNBe",
