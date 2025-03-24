@@ -2945,6 +2945,20 @@
   ]
  },
  {
+  "address": "0:9bffab108979da0bddaec7124e115113211ce5a121a4445cd81111e5c8b360a1",
+  "description": "Deployed from sTONks.",
+  "image": "https://trueimages.ru/img/ad/c2/f97eed76.png",
+  "name": "Lis",
+  "social": [
+   "https://t.me/CryptoLisaChannel",
+   "https://t.me/CryptoLisaChat"
+  ],
+  "symbol": "Lis",
+  "websites": [
+   "https://cryptolisa.unisender.cc/"
+  ]
+ },
+ {
   "address": "0:e16ccd758029305522eed758d33d41902973e37d6fc9d69b0fa9cf26c19c0cec",
   "description": "TonAlchemists is an innovative project on the TON blockchain, with a mission to create a better, more welcoming community. Our goal is to facilitate networking and build a \"TON family\".",
   "image": "https://i.postimg.cc/CxH6g4Jg/icon.png",
@@ -4313,6 +4327,17 @@
    "https://t.me/SHWRM"
   ],
   "symbol": "SHWRM"
+ },
+ {
+  "address": "0:f5c22636e9dedf192bd2232a0acae5c828dc5d9b16a1ded6b7ee6326b4e8b678",
+  "description": "Deployed from sTONks.",
+  "image": "https://trueimages.ru/img/de/b7/44d86d76.png",
+  "name": "SINOK",
+  "social": [
+   "https://t.me/slivi_tapalok",
+   "https://t.me/+CKYw4N5qfo5lNTcy"
+  ],
+  "symbol": "SINOK"
  },
  {
   "address": "0:0e365c05bf398a068b1bcc7bc704c06974732f20eefb2bb873e0d640ee4a8e99",
