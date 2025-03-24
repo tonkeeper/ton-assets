@@ -814,6 +814,20 @@
   "symbol": "BOOLI"
  },
  {
+  "address": "0:00e9f9bdcb33a65db42e68fc763b24f3107661b65cb9b577d5b58d9b2dca8a8d",
+  "description": "Rewards Token of the future",
+  "image": "https://raw.githubusercontent.com/EternityCoin/batymcoin/refs/heads/main/5379725509707032451.jpg",
+  "name": "Batymchanin Rewards Coin",
+  "social": [
+   "https://t.me/Batymchanin",
+   "https://vk.com/batymchanin"
+  ],
+  "symbol": "BRC",
+  "websites": [
+   "https://vk.link/batymchanin"
+  ]
+ },
+ {
   "address": "0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3",
   "description": "The first baby meme coin on TON with a utility that's first of its kind, a multisig wallet as a telegram bot with free access to Baby Redo holders.",
   "image": "https://raw.githubusercontent.com/Spetsnaz116/crypto-assets/master/ton/bredo.jpg",
