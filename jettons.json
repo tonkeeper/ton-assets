@@ -4343,6 +4343,22 @@
   ]
  },
  {
+  "address": "0:074d1fb01f4c1be283ebad5c66412e51fea8af25c9eabdbdee149d2fd43c3daa",
+  "description": "Native token for Shkipper Penguins project",
+  "image": "https://shkippercoin.github.io/offchain-data/SHKIP.png",
+  "name": "Shkipper Penguins",
+  "social": [
+   "https://t.me/ShkipperNest",
+   "https://t.me/ShkipperCoinBot",
+   "https://x.com/ShkipperNest",
+   "https://getgems.io/shkipperpenguins"
+  ],
+  "symbol": "SHKIP",
+  "websites": [
+   "http://shkipper.online"
+  ]
+ },
+ {
   "address": "0:2493a672d815eadb782d669de6a403aa570fdbc008f85d6c06fe7c57b129315b",
   "decimals": 9,
   "description": "It's just for fun.",
