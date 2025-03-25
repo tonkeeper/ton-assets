@@ -1,0 +1,10 @@
+name: Snail Bar Coin
+description: Snail Bar Coin is the future of the company. It will be used for internal settlements.
+image: "https://github.com/SnailBarYas/website/blob/main/image.png"
+address: EQDuXCDjq1U4u4ZydMkotSeeoFunnvzJ-UtfAXUqevSCofyL
+symbol: SBC
+decimals: 9
+websites:
+  - "https://snailbar.ru"
+social:
+  - "https://t.me/SnailBary"
