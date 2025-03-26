@@ -1,9 +1,8 @@
-name: "Jetton TON LIKE"
-symbol: "TLIKE"
-description: "Like & Love is a groundbreaking TON-based ecosystem that merges NFT, digital assets, DeFi, and gaming. We simplify Web3, making it accessible to all and unlocking new earning opportunities—effortless and barrier-free!"
-image: "https://s3.tonlike.com/api/v1/buckets/general/objects/download?prefix=LikeLove.png"
-address: "EQCtYVr3K8WIhuuDzYUlGBJBYlPtq9EaXcdXbe0nGfV0ImAM"
-decimals: 9
+name: Jetton TON LIKE
+description: Like & Love is a groundbreaking TON-based ecosystem that merges NFT, digital assets, DeFi, and gaming. We simplify Web3, making it accessible to all and unlocking new earning opportunities—effortless and barrier-free!
+image: "https://s.iimg.su/s/26/WMisL6aFuXf89GiJBhel7mN703EIVXgOZZlA9Vfj.png"
+address: EQCtYVr3K8WIhuuDzYUlGBJBYlPtq9EaXcdXbe0nGfV0ImAM
+symbol: TLIKE
 website:
   - "https://site.tonlike.com/"
   - "https://t.me/Like_Project_Bot"
