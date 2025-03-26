@@ -3313,6 +3313,21 @@
   ]
  },
  {
+  "address": "0:a07cd09c410bbc10407b2f2b7d5d1b7b2b8699ba839dffa8ed07ac8b398643f6",
+  "description": "MOMO Crypto Challenge. Play the Game. Have Fun. Get Airdrops.",
+  "image": "https://momoton.xyz/momo-logo.png",
+  "name": "MOMO CryptoChallenge",
+  "social": [
+   "https://t.me/momo_ton_chat",
+   "https://t.me/momo_ton",
+   "https://x.com/momo_on_ton"
+  ],
+  "symbol": "MOMO",
+  "websites": [
+   "https://momoton.xyz"
+  ]
+ },
+ {
   "address": "0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3",
   "description": "MonkeyRush Token",
   "image": "https://raw.githubusercontent.com/rafnicore/monkeyrush/refs/heads/main/monker.png",
