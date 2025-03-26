@@ -1,9 +1,8 @@
 name: TonMoneyBox
+symbol: TMB
 description: "Welcome jetton TonMoneyBox"
 image: "https://gton.tech/icon.png"
 address: EQDFQNVqxrCF4OP-_9JFtguW464tht6TlXZVKsi4Cv5t1Ik4
-symbol: TMB
 social:
   - "https://t.me/tonmoneybox_bot"
   - "https://t.me/ton_moneybox"
-  
