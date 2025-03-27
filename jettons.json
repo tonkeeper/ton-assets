@@ -805,6 +805,21 @@
   ]
  },
  {
+  "address": "0:8392238077f4d2d7c66959b6b767043d5e969a9bfe042c908479c4da97a2ad9f",
+  "description": "This is more than a memecoin, we have a whole ecosystem of goods and incentives for holders with a percentage of the business revenue.",
+  "image": "https://bobrton.com/logo.png",
+  "name": "BOBRTON",
+  "social": [
+   "https://t.me/bobr_toncoin",
+   "https://t.me/bobrton_chat",
+   "https://t.me/Bobr_tonbot"
+  ],
+  "symbol": "BOBR",
+  "websites": [
+   "https://bobrton.com/"
+  ]
+ },
+ {
   "address": "0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e",
   "description": "Official token of the Huebel Company",
   "image": "https://cloudflare-ipfs.com/ipfs/QmX47dodUg1acXoxYDULWTNfShXRW5uHrCmoKSUNR9xKQw",
@@ -2958,6 +2973,18 @@
   ]
  },
  {
+  "address": "0:8571412bdad79f558ec553ea6993dcaddc95fa0baa7f3e64d889858ca6fe5713",
+  "description": "meme token dedicated to a frog that makes video reviews",
+  "name": "cryptolyaguho",
+  "social": [
+   "https://t.me/cryptolyaguho"
+  ],
+  "symbol": "LYAGUHO",
+  "websites": [
+   "https://www.youtube.com/@lyaguho"
+  ]
+ },
+ {
   "address": "0:9bffab108979da0bddaec7124e115113211ce5a121a4445cd81111e5c8b360a1",
   "description": "Deployed from sTONks.",
   "image": "https://trueimages.ru/img/ad/c2/f97eed76.png",
@@ -3301,6 +3328,21 @@
   ]
  },
  {
+  "address": "0:a07cd09c410bbc10407b2f2b7d5d1b7b2b8699ba839dffa8ed07ac8b398643f6",
+  "description": "MOMO Crypto Challenge. Play the Game. Have Fun. Get Airdrops.",
+  "image": "https://momoton.xyz/momo-logo.png",
+  "name": "MOMO CryptoChallenge",
+  "social": [
+   "https://t.me/momo_ton_chat",
+   "https://t.me/momo_ton",
+   "https://x.com/momo_on_ton"
+  ],
+  "symbol": "MOMO",
+  "websites": [
+   "https://momoton.xyz"
+  ]
+ },
+ {
   "address": "0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3",
   "description": "MonkeyRush Token",
   "image": "https://raw.githubusercontent.com/rafnicore/monkeyrush/refs/heads/main/monker.png",
@@ -3388,6 +3430,34 @@
   "symbol": "MUZZY",
   "websites": [
    "https://muzzy.live/"
+  ]
+ },
+ {
+  "address": "0:55775e9e74dabfd197a26300a82e64193e808acfe64cbaaddd8aa4511018805a",
+  "description": "Revolutionizing Music Through Blockchain.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbvd16ednq_0zeiywcolmqzpockz-zmuq3diqrrebiawp-t.png?size=lg&key=962da8",
+  "name": "Melody Token",
+  "social": [
+   "https://t.me/Melody_Token",
+   "https://x.com/melody_token"
+  ],
+  "symbol": "MLT",
+  "websites": [
+   "https://melodytoken.ru/"
+  ]
+ },
+ {
+  "address": "0:a70874806897696a82d2f8c91a25f09e28b5159e3cc0f1501e30a0233cbe832c",
+  "description": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d \u043e\u0442 \u0431\u0440\u0435\u043d\u0434\u0430 NEDOSTUPNOST\u042c. \u0421\u043e\u0437\u0434\u0430\u043d \u0432 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u0432\u043e \u0438\u0437\u0431\u0435\u0436\u0430\u043d\u0438\u0435 \u043c\u0430\u043d\u0438\u043f\u0443\u043b\u044f\u0446\u0438\u0439 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0441\u043a\u0430\u043c-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432, \u0441\u0441\u044b\u043b\u043a\u0443 \u043d\u0430 \u044d\u0442\u043e\u0442 \u0442\u043e\u043a\u0435\u043d \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043d\u0430\u0439\u0442\u0438 \u0432 \u043d\u0430\u0448\u0435\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c Telegram \u043a\u0430\u043d\u0430\u043b\u0435.",
+  "image": "https://trueimages.ru/img/cb/c8/a56b1e76.png",
+  "name": "NEDOSTUPNOST\u042c",
+  "social": [
+   "https://t.me/nedostupnost",
+   "https://t.me/nedostupnostchat"
+  ],
+  "symbol": "Nedo",
+  "websites": [
+   "https://shop.nedostupnost.com"
   ]
  },
  {
@@ -4328,6 +4398,22 @@
   "symbol": "SHIVA",
   "websites": [
    "https://onshiva.com"
+  ]
+ },
+ {
+  "address": "0:074d1fb01f4c1be283ebad5c66412e51fea8af25c9eabdbdee149d2fd43c3daa",
+  "description": "Native token for Shkipper Penguins project",
+  "image": "https://shkippercoin.github.io/offchain-data/SHKIP.png",
+  "name": "Shkipper Penguins",
+  "social": [
+   "https://t.me/ShkipperNest",
+   "https://t.me/ShkipperCoinBot",
+   "https://x.com/ShkipperNest",
+   "https://getgems.io/shkipperpenguins"
+  ],
+  "symbol": "SHKIP",
+  "websites": [
+   "http://shkipper.online"
   ]
  },
  {
@@ -5502,6 +5588,16 @@
   "websites": [
    "https://www.uxlink.io/"
   ]
+ },
+ {
+  "address": "0:7cb5798dec6f76f189b104b3ce81f6fbcef985572ccd77a1104f881e50b633b4",
+  "description": "PM (V10) is first project existing for community. We are all in one team together going to 1M$+. Have own memes and vibe! Already listed in DEX and hit 100K$",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb8txmn7g928ymxblpogfb7zvmfvyznd6eqt4geulyztjdh.png?size=lg&key=7193e7",
+  "name": "V10",
+  "social": [
+   "https://t.me/pmaintoken"
+  ],
+  "symbol": "V10"
  },
  {
   "address": "0:2c87b98c4f73d6d15056ce400c575f9c2107d143afb59582f9d5090564fdecee",
