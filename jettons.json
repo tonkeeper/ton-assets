@@ -805,6 +805,21 @@
   ]
  },
  {
+  "address": "0:8392238077f4d2d7c66959b6b767043d5e969a9bfe042c908479c4da97a2ad9f",
+  "description": "This is more than a memecoin, we have a whole ecosystem of goods and incentives for holders with a percentage of the business revenue.",
+  "image": "https://bobrton.com/logo.png",
+  "name": "BOBRTON",
+  "social": [
+   "https://t.me/bobr_toncoin",
+   "https://t.me/bobrton_chat",
+   "https://t.me/Bobr_tonbot"
+  ],
+  "symbol": "BOBR",
+  "websites": [
+   "https://bobrton.com/"
+  ]
+ },
+ {
   "address": "0:f4bdd480fcd79d47dbaf6e037d1229115feb2e7ac0f119e160ebd5d031abdf2e",
   "description": "Official token of the Huebel Company",
   "image": "https://cloudflare-ipfs.com/ipfs/QmX47dodUg1acXoxYDULWTNfShXRW5uHrCmoKSUNR9xKQw",
