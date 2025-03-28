@@ -1,0 +1,11 @@
+{
+  "name": "Zapanychka",
+  "symbol": "ZAP",
+  "decimals": 9,
+  "address": "EQDVMGNoYZU2-HQPRUyJIvbaYOT1F2NvUADh0IAx-n4v2dgC",
+  "image": "https://github-production-user-asset-6210df.s3.amazonaws.com/138110560/428133968-b46c3824-8696-4c12-9bd5-78ac3fd045db.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T181850Z&X-Amz-Expires=300&X-Amz-Signature=d9621d11f99975902ba45c872602f5a242f008fb442f4bc4dfa65185b71ca2e1&X-Amz-SignedHeaders=host",
+  "description": "shine",
+  "socials": {
+    "instagram": "https://www.instagram.com/zapalnytchka?igsh=a2Jjc3prbGQxbTYy"
+  }
+}
