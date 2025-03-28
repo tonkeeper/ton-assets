@@ -1,20 +1,10 @@
-- name: TON Storm LP
-  symbol: TON-SLP
-  description: TON locked in liquidity in Storm Trade (storm.tg)
-  address: 0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea
-  image: "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/ton-slp-logo.png"
+- name: AI GOOD TALK
+  symbol: AGT
+  description: AI is a super technology that changes the world. Now we use it in the web3 field. This will be innovative and unheard of. We are about to change the world and bring you unlimited wealth.
+  address: EQCxOBgtPA2YsoQrYtRErMLodqtqKyWEl9QFm7rsfzy0iScF
+  image: "https://pbs.twimg.com/media/Gae9KdXbAAE7vax?format=jpg&name=small"
   websites:
-    - "https://storm.tg"
+    - "hhttps://sites.google.com/view/aigt"
   social:
-    - "https://t.me/storm_trade_news"
-    - "https://t.me/storm_trade_fam"
-- name: jUSDT Storm LP
-  symbol: jUSDT-SLP
-  description: Bridged Tether USD locked in liquidity in Storm Trade (storm.tg)
-  image: "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/jusdt-slp-logo.png"
-  address: 0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc
-  websites:
-    - "https://storm.tg"
-  social:
-    - "https://t.me/storm_trade_news"
-    - "https://t.me/storm_trade_fam"
+    - "https://t.me/agt666888"
+    - "https://t.me/AI_GOOD_TALK"

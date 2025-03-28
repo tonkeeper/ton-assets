@@ -1,11 +1,11 @@
 name: STORM
-description: "The utility token of the Storm Trade protocol (storm.tg)."
-symbol: STORM
-image: "https://static.storm.tg/TOKEN.png"
-address: "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c"
-decimals: 9
-websites:
-  - "https://storm.tg"
-social:
-  - "https://t.me/storm_trade_news"
-  - "https://t.me/storm_trade_fam"
+- name: AI GOOD TALK
+  symbol: AGT
+  description: AI is a super technology that changes the world. Now we use it in the web3 field. This will be innovative and unheard of. We are about to change the world and bring you unlimited wealth.
+  address: EQCxOBgtPA2YsoQrYtRErMLodqtqKyWEl9QFm7rsfzy0iScF
+  image: "https://pbs.twimg.com/media/Gae9KdXbAAE7vax?format=jpg&name=small"
+  websites:
+    - "hhttps://sites.google.com/view/aigt"
+  social:
+    - "https://t.me/agt666888"
+    - "https://t.me/AI_GOOD_TALK"
