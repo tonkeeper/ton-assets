@@ -60,6 +60,20 @@
   ]
  },
  {
+  "address": "0:d2091f92e04dd49ee83087c4e000af76550f63f9f02ec60cb93b623aacb0b99c",
+  "description": "The Incaverse Token is the core digital asset powering the Incaverse Game Platform, seamlessly blending AI, blockchain, and gaming to create an immersive Web3 ecosystem.",
+  "name": "INCAVERSE Token",
+  "social": [
+   "https://t.me/incaverse",
+   "https://twitter.com/incaversegame"
+  ],
+  "symbol": "INCA",
+  "websites": [
+   "https://incaverse.io",
+   "https://t.me/incaversebot/game"
+  ]
+ },
+ {
   "address": "0:ec8f1991b7ab8bd307393f31100f2f90e7014ea95e593fcea5dc2cb598b8e2ab",
   "description": "$LABR is the token of the game Labrador Adventures.",
   "image": "https://labrador-zeta.vercel.app/labr-logo.jpeg",
