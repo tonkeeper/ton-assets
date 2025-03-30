@@ -3648,6 +3648,19 @@
   "symbol": "NARUTO"
  },
  {
+  "address": "0:707f059d0ee73b5f27067eaec548d078be8f45afd0e7ce2953d86aa9796f7e78",
+  "description": "\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d. \u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0434\u0438\u0432\u0438\u0434\u0435\u043d\u0434\u044b.  Deployed from sTONks.",
+  "image": "https://trueimages.ru/img/fd/7c/339f2e76.png",
+  "name": "Not Games",
+  "social": [
+   "https://t.me/NotGamesCoin"
+  ],
+  "symbol": "NG",
+  "websites": [
+   "https://notgames.ru/"
+  ]
+ },
+ {
   "address": "0:9ab2009f2633703d37471ba1fedebe592c8a390f52a0c97c1ff8f2a267ff7cbf",
   "description": "OCTIES is a P2E game where users play game and earn rewards.",
   "image": "https://i.imgur.com/Ki2zkmJ.jpeg",
