@@ -861,6 +861,11 @@
   "require_memo": true
  },
  {
+  "address": "0:f069c060822b0443e87e1d6eb752223d9ad200fa54404f5ba95cf8a88b284290",
+  "name": "Merchant WebMoney",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
