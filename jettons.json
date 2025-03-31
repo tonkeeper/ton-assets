@@ -3013,6 +3013,21 @@
   ]
  },
  {
+  "address": "0:a859cacbb8a46fe9188f193e8c975455a05bd2cc17202f81684156a1e4b7e517",
+  "description": "LUCK \u2014 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043f\u0440\u0438\u043d\u043e\u0441\u0438\u0442 \u0443\u0434\u0430\u0447\u0443.",
+  "image": "https://trueimages.ru/img/ef/e6/9ab75e76.png",
+  "name": "Luck",
+  "social": [
+   "https://t.me/appluckapp",
+   "https://www.tiktok.com/@luck_app?_t=ZS-8v24n0yRF2d&_r=1",
+   "https://x.com/luck_app_?s=21"
+  ],
+  "symbol": "Luck",
+  "websites": [
+   "https://luck-app.com/"
+  ]
+ },
+ {
   "address": "0:e16ccd758029305522eed758d33d41902973e37d6fc9d69b0fa9cf26c19c0cec",
   "description": "TonAlchemists is an innovative project on the TON blockchain, with a mission to create a better, more welcoming community. Our goal is to facilitate networking and build a \"TON family\".",
   "image": "https://i.postimg.cc/CxH6g4Jg/icon.png",
@@ -5266,6 +5281,24 @@
   "symbol": "TKG",
   "websites": [
    "https://tapking.ldnft.net/"
+  ]
+ },
+ {
+  "address": "0:ad615af72bc58886eb83cd85251812416253edabd11a5dc7576ded2719f57422",
+  "description": "Like & Love is a groundbreaking TON-based ecosystem that merges NFT, digital assets, DeFi, and gaming. We simplify Web3, making it accessible to all and unlocking new earning opportunities\u2014effortless and barrier-free!",
+  "image": "https://s.iimg.su/s/26/WMisL6aFuXf89GiJBhel7mN703EIVXgOZZlA9Vfj.png",
+  "name": "Jetton TON LIKE",
+  "social": [
+   "https://t.me/like_mining",
+   "https://t.me/Like_Love_Project_chat",
+   "https://x.com/Likemining66",
+   "https://www.youtube.com/@likemining",
+   "https://www.tiktok.com/@likeminingjetton"
+  ],
+  "symbol": "TLIKE",
+  "websites": [
+   "https://site.tonlike.com",
+   "https://t.me/Like_Project_Bot"
   ]
  },
  {
