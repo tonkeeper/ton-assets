@@ -357,3 +357,7 @@
   name: "TEC Pay"
   require_memo: true
   image: "https://cdn.tonexpert.club/logo_solid.svg"
+- address: "UQDwacBggisEQ-h-HW63UiI9mtIA-lRAT1upXPioiyhCkNdf"
+  name: "Merchant WebMoney"
+  require_memo: true
+  

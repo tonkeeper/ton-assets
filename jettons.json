@@ -60,6 +60,20 @@
   ]
  },
  {
+  "address": "0:d2091f92e04dd49ee83087c4e000af76550f63f9f02ec60cb93b623aacb0b99c",
+  "description": "The Incaverse Token is the core digital asset powering the Incaverse Game Platform, seamlessly blending AI, blockchain, and gaming to create an immersive Web3 ecosystem.",
+  "name": "INCAVERSE Token",
+  "social": [
+   "https://t.me/incaverse",
+   "https://twitter.com/incaversegame"
+  ],
+  "symbol": "INCA",
+  "websites": [
+   "https://incaverse.io",
+   "https://t.me/incaversebot/game"
+  ]
+ },
+ {
   "address": "0:ec8f1991b7ab8bd307393f31100f2f90e7014ea95e593fcea5dc2cb598b8e2ab",
   "description": "$LABR is the token of the game Labrador Adventures.",
   "image": "https://labrador-zeta.vercel.app/labr-logo.jpeg",
@@ -2959,6 +2973,19 @@
   ]
  },
  {
+  "address": "0:ae4da84b7d948a4463f8185d36c8f327140abe6d3d57254e19f15d431ffe6c5a",
+  "description": "LUM is an exciting memecoin launched on the Blum Memepad platform. It is dedicated to the flower that blooms on the TON blockchain.",
+  "name": "Lumeon",
+  "social": [
+   "https://t.me/lumeoncoin"
+  ],
+  "symbol": "LUM",
+  "websites": [
+   "https://lumeon.fun",
+   "https://en.lumeon.fun"
+  ]
+ },
+ {
   "address": "0:064748236a0e7d90971f1ef9baabaecdcc8c8c958fc3a8427fdfd931a9904c07",
   "description": "The world of cryptocurrency is filled with too many boring and similar projects. It's time to change the game! LUXE DUCK \u2014 a stylish, bold, and confident duck that\u2019s ready to claim the",
   "image": "https://s3.blum.codes/9a58664c-fb63-412d-8700-ac87479123b8/8bf50cba-cd58-4648-8d9f-73e65addbf3e",
@@ -2996,6 +3023,21 @@
   "symbol": "Lis",
   "websites": [
    "https://cryptolisa.unisender.cc/"
+  ]
+ },
+ {
+  "address": "0:a859cacbb8a46fe9188f193e8c975455a05bd2cc17202f81684156a1e4b7e517",
+  "description": "LUCK \u2014 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043f\u0440\u0438\u043d\u043e\u0441\u0438\u0442 \u0443\u0434\u0430\u0447\u0443.",
+  "image": "https://trueimages.ru/img/ef/e6/9ab75e76.png",
+  "name": "Luck",
+  "social": [
+   "https://t.me/appluckapp",
+   "https://www.tiktok.com/@luck_app?_t=ZS-8v24n0yRF2d&_r=1",
+   "https://x.com/luck_app_?s=21"
+  ],
+  "symbol": "Luck",
+  "websites": [
+   "https://luck-app.com/"
   ]
  },
  {
@@ -3632,6 +3674,19 @@
    "https://t.me/NarutonEntry"
   ],
   "symbol": "NARUTO"
+ },
+ {
+  "address": "0:707f059d0ee73b5f27067eaec548d078be8f45afd0e7ce2953d86aa9796f7e78",
+  "description": "\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d. \u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0434\u0438\u0432\u0438\u0434\u0435\u043d\u0434\u044b.  Deployed from sTONks.",
+  "image": "https://trueimages.ru/img/fd/7c/339f2e76.png",
+  "name": "Not Games",
+  "social": [
+   "https://t.me/NotGamesCoin"
+  ],
+  "symbol": "NG",
+  "websites": [
+   "https://notgames.ru/"
+  ]
  },
  {
   "address": "0:9ab2009f2633703d37471ba1fedebe592c8a390f52a0c97c1ff8f2a267ff7cbf",
@@ -5242,6 +5297,24 @@
   ]
  },
  {
+  "address": "0:ad615af72bc58886eb83cd85251812416253edabd11a5dc7576ded2719f57422",
+  "description": "Like & Love is a groundbreaking TON-based ecosystem that merges NFT, digital assets, DeFi, and gaming. We simplify Web3, making it accessible to all and unlocking new earning opportunities\u2014effortless and barrier-free!",
+  "image": "https://s.iimg.su/s/26/WMisL6aFuXf89GiJBhel7mN703EIVXgOZZlA9Vfj.png",
+  "name": "Jetton TON LIKE",
+  "social": [
+   "https://t.me/like_mining",
+   "https://t.me/Like_Love_Project_chat",
+   "https://x.com/Likemining66",
+   "https://www.youtube.com/@likemining",
+   "https://www.tiktok.com/@likeminingjetton"
+  ],
+  "symbol": "TLIKE",
+  "websites": [
+   "https://site.tonlike.com",
+   "https://t.me/Like_Project_Bot"
+  ]
+ },
+ {
   "address": "0:7e6a33328b9f9628880e1e76ce180a5f7245066e5ead0e4dd0b7c3ca99bfb12c",
   "name": "TonexCoin",
   "symbol": "TNX"
@@ -6130,6 +6203,22 @@
   "address": "0:f3e183a2d8c9f376a71ad190a9aeb7089b92b5e94bccfce3e20781d627928c56",
   "name": "viperr coin",
   "symbol": "RRMONEY"
+ },
+ {
+  "address": "0:92c4664f1ea6b74ed9ce0e031a9fc0843348dfe87a58faea27fcd31e1608caaa",
+  "description": "TON liquid staking token by bemo",
+  "image": "https://storage.cloud.google.com/milkcreek/tokens/bmTON.svg",
+  "name": "Bemo",
+  "social": [
+   "https://t.me/bemofinance",
+   "https://x.com/bemo_fi",
+   "https://www.linkedin.com/company/bemo-fi/"
+  ],
+  "symbol": "bmTON",
+  "websites": [
+   "https://bemo.fi",
+   "https://app.bemo.fi"
+  ]
  },
  {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
@@ -8053,11 +8142,6 @@
   "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
   "name": "Spotty",
   "symbol": "Spotty"
- },
- {
-  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
-  "name": "Toned Ape Coin",
-  "symbol": "TAC"
  },
  {
   "address": "0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2",
