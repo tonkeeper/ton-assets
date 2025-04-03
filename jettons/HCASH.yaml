@@ -2,6 +2,7 @@ name: "Hunter Cash"
 address: "EQCThN7fVe75riTpawI_c5kM-vbB8sVdt2R3GzmQNhzP1_MB"
 description: "$HCASH – Fuel the Future: The core token of Space Hunters, driving mining, upgrades, and the in-game economy. With real utility, growing demand, and a solid burn mechanism, holding $HCASH means owning a stake in the future. Don’t just watch the future—own it."
 symbol: "HCASH"
+image: "https://space-hunters-game.github.io/website/hcash.png"
 websites:
   - "https://spacehunters.online/"
 social:
