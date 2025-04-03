@@ -29,3 +29,51 @@
 - symbol: LP eUSDT
   name: LP eUSDT (01-Jun-2025)
   address: "EQBNlIZxIbQGQ78cXgG3VRcyl8A0kLn_6BM9kabiHHhWC4qY"
+
+- symbol: SY USDT-SLP
+  name: SY USDT-SLP
+  address: "EQA0Pobx0rXc7MlfXvUAZlC_U4MRGJ4FKGq79dHbBJ7RsuyB"
+
+- symbol: PT USDT-SLP (01-Jun-2025)
+  name: PT USDT-SLP (01-Jun-2025)
+  address: "EQDT7HqJTjvzQc3B9XrhLg32_cJtprZR9-gboLdDVWSx8Qnd"
+
+- symbol: YT USDT-SLP (01-Jun-2025)
+  name: YT USDT-SLP (01-Jun-2025)
+  address: "EQDW5k1zkR7SQEwric4apoSKlhbMzjBhC-sLFxU5PxxR8xZA"
+
+- symbol: LP USDT-SLP (01-Jun-2025)
+  name: LP USDT-SLP (01-Jun-2025)
+  address: "EQCGhfLcWuST9ArjkR9ghsPxfnaOYkq4VoFDdvyNNqsT8jJ1"
+
+- symbol: SY NOT-SLP
+  name: SY NOT-SLP
+  address: "EQD5A2ygwSgAXXTqI-OkAOY72bXn8-mRgE9wOEFLKgu6ifbD"
+
+- symbol: PT NOT-SLP (01-Jun-2025)
+  name: PT NOT-SLP (01-Jun-2025)
+  address: "EQDKBV5-Hq24Dy-6ldPiZZn6F1t0e94Vqw9-ZnN4Pd0NQd0H"
+
+- symbol: YT NOT-SLP (01-Jun-2025)
+  name: YT NOT-SLP (01-Jun-2025)
+  address: "EQBRAZqKhVlKBRqxj97AT6PzNLxvolnYQCQF2B2YBT2avZv7"
+
+- symbol: LP NOT-SLP (01-Jun-2025)
+  name: LP NOT-SLP (01-Jun-2025)
+  address: "EQDyKgIMClc3DubrScriGQxpSaz9TG6PGkS9AkU9AnUhYXIC"
+
+- symbol: SY TON-SLP
+  name: SY TON-SLP
+  address: "EQB9nQdgwdaTXG6F7mDEErPuuJza6lmCfQjun-PXK3iJXm2h"
+
+- symbol: PT TON-SLP (01-Jun-2025)
+  name: PT TON-SLP (01-Jun-2025)
+  address: "EQBGCburK2PdTLVYk0SqZzumwPPIy06I4Il3fk-7oQV_M4e0"
+
+- symbol: YT TON-SLP (01-Jun-2025)
+  name: YT TON-SLP (01-Jun-2025)
+  address: "EQDzElLWY30Qit4AtSYvz0WQL12z8MOtnvfs3kNVSNRNfLi5"
+
+- symbol: LP TON-SLP (01-Jun-2025)
+  name: LP TON-SLP (01-Jun-2025)
+  address: "EQDjkeXr3In2PwGAmTXOnRyhmmM903TvWniMne3O3jyXJP_X"
