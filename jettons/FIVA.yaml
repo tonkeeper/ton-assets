@@ -13,3 +13,19 @@
 - symbol: LP tsTON
   name: LP tsTON (30-Jun-2025)
   address: "EQD3BjCjxuf8mu5kvxajVbe-Ila1ScZZlAi03oS7lMmAJjM3"
+
+- symbol: SY eUSDT
+  name: SY eUSDT (01-Jun-2025)
+  address: "EQDi9blCcyT-k8iMpFMYY0t7mHVyiCB50ZsRgyUECJDuGvIl"
+
+- symbol: PT eUSDT
+  name: PT eUSDT (01-Jun-2025)
+  address: "EQBzVrYkYPHx8D_HPfQacm1xONa4XSRxl826vHkx_laP2HOe"
+
+- symbol:  YT eUSDT
+  name: YT eUSDT (01-Jun-2025)
+  address: "EQCwUSc2qrY5rn9BfFBG9ARAHePTUvITDl97UD0zOreWzLru"
+
+- symbol: LP eUSDT
+  name: LP eUSDT (01-Jun-2025)
+  address: "EQBNlIZxIbQGQ78cXgG3VRcyl8A0kLn_6BM9kabiHHhWC4qY"

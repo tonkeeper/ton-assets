@@ -69,3 +69,15 @@
 - symbol: SHMABANK
   name: SHMABANK
   address: "EQBVM5iDPfUDjFyBs0rSrmVkbuy34iMwh_dKwG8kpD30PxNt"
+  
+- symbol: NEPRODAM
+  name: NeProdam
+  address: "EQCQYvhkjJnEow_G0ozJMX1Hbl5RkNIBHKWhyCvcpCYOzZXg"
+  
+- symbol: IF
+  name: IF
+  address: "EQDfefbhN-qmZqH5UZgFQ7GrrRex6ALMgPFImfADHwwDblj6"
+  
+- symbol: RRMONEY
+  name: viperr coin
+  address: "EQDz4YOi2Mnzdqca0ZCprrcIm5K16UvM_OPiB4HWJ5KMVie3"

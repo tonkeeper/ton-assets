@@ -156,6 +156,10 @@
   "name": "STON.fi Dex"
  },
  {
+  "address": "0:70a4118401bf8d823531a66011020565f02e05ff91ac5f1677769b00d6acd07a",
+  "name": "STON.fi Dex"
+ },
+ {
   "address": "0:bffadd270a738531da7b13ba8fc403826c2586173f9ede9c316fab53bc59ac86",
   "name": "TONCO"
  },
@@ -854,6 +858,11 @@
   "address": "0:1eb869d84ef6d7f88682bcc22c658815e9337510200085351927b1746138e374",
   "image": "https://cdn.tonexpert.club/logo_solid.svg",
   "name": "TEC Pay",
+  "require_memo": true
+ },
+ {
+  "address": "0:f069c060822b0443e87e1d6eb752223d9ad200fa54404f5ba95cf8a88b284290",
+  "name": "Merchant WebMoney",
   "require_memo": true
  },
  {
