@@ -1964,6 +1964,66 @@
   "symbol": "LP eUSDT"
  },
  {
+  "address": "0:343e86f1d2b5dcecc95f5ef5006650bf538311189e05286abbf5d1db049ed1b2",
+  "name": "SY USDT-SLP",
+  "symbol": "SY USDT-SLP"
+ },
+ {
+  "address": "0:d3ec7a894e3bf341cdc1f57ae12e0df6fdc26da6b651f7e81ba0b7435564b1f1",
+  "name": "PT USDT-SLP (01-Jun-2025)",
+  "symbol": "PT USDT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:d6e64d73911ed2404c2b89ce1aa6848a9616ccce30610beb0b1715393f1c51f3",
+  "name": "YT USDT-SLP (01-Jun-2025)",
+  "symbol": "YT USDT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:8685f2dc5ae493f40ae3911f6086c3f17e768e624ab856814376fc8d36ab13f2",
+  "name": "LP USDT-SLP (01-Jun-2025)",
+  "symbol": "LP USDT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:f9036ca0c128005d74ea23e3a400e63bd9b5e7f3e991804f7038414b2a0bba89",
+  "name": "SY NOT-SLP",
+  "symbol": "SY NOT-SLP"
+ },
+ {
+  "address": "0:ca055e7e1eadb80f2fba95d3e26599fa175b747bde15ab0f7e6673783ddd0d41",
+  "name": "PT NOT-SLP (01-Jun-2025)",
+  "symbol": "PT NOT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:51019a8a85594a051ab18fdec04fa3f334bc6fa259d8402405d81d98053d9abd",
+  "name": "YT NOT-SLP (01-Jun-2025)",
+  "symbol": "YT NOT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:f22a020c0a57370ee6eb49cae2190c6949acfd4c6e8f1a44bd02453d02752161",
+  "name": "LP NOT-SLP (01-Jun-2025)",
+  "symbol": "LP NOT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:7d9d0760c1d6935c6e85ee60c412b3eeb89cdaea59827d08ee9fe3d72b78895e",
+  "name": "SY TON-SLP",
+  "symbol": "SY TON-SLP"
+ },
+ {
+  "address": "0:4609bbab2b63dd4cb5589344aa673ba6c0f3c8cb4e88e089777e4fbba1057f33",
+  "name": "PT TON-SLP (01-Jun-2025)",
+  "symbol": "PT TON-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:f31252d6637d108ade00b5262fcf45902f5db3f0c3ad9ef7ecde435548d44d7c",
+  "name": "YT TON-SLP (01-Jun-2025)",
+  "symbol": "YT TON-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:e391e5ebdc89f63f01809935ce9d1ca19a633dd374ef5a788c9dedcede3c9724",
+  "name": "LP TON-SLP (01-Jun-2025)",
+  "symbol": "LP TON-SLP (01-Jun-2025)"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
