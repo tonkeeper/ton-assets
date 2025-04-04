@@ -835,6 +835,9 @@
 - address: 0:b6601693f6282ed212e7cf5a4f5ea22655c273773d095a4aa7e414d17f603d87
   name: Pogo
   symbol: POGO
+- address: 0:69e850240dd1c3fe52ca50123e27e12de7341ec89962c5ce9fde22870627bce4
+  name: Proof of Karl
+  symbol: POK
 - address: 0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530
   name: Ponchiqs
   symbol: PONCH
@@ -1406,6 +1409,9 @@
 - address: 0:2358565a1f45e26f45461307b7d78f0783b6ab493e66849c03077613212d0e15
   name: Antique Pine
   symbol: aPine
+- address: 0:92c4664f1ea6b74ed9ce0e031a9fc0843348dfe87a58faea27fcd31e1608caaa
+  name: Bemo
+  symbol: bmTON
 - address: 0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1
   name: povel durev
   symbol: durev
