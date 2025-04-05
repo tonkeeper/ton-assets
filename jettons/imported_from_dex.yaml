@@ -1078,6 +1078,9 @@
 - address: 0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18
   name: Stec Network
   symbol: STEC
+- address: 0:e79a59fb173c2dc0d76375fb31584db5585a88315c6a17ab382f57f6bf675b29
+  name: StableEX Technologies
+  symbol: STEX
 - address: 0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74
   name: Stellarium
   symbol: STL
