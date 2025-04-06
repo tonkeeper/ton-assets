@@ -11277,4 +11277,13 @@
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
  }
+ {
+  "address": "EQC6X5wV9zQ4tvdP5JhsRzmq1r328f76uAkkC4AENdVXSqJr",
+  "name": "SAMURAI",
+  "symbol": "SMR",
+  "decimals": 9,
+  "image": "https://cacos.uz/uploads/2025/04/1743900925-smrcoin.png",
+  "web": "https://cacos.uz",
+  "description": "SAMURAI is a community-driven meme token built on The Open Network (TON)."
+}
 ]
