@@ -6289,6 +6289,11 @@
   "symbol": "RRMONEY"
  },
  {
+  "address": "0:ec42ff3076a56d591471a10dcb70ff94036745cc9c7a56e135caa0225392e876",
+  "name": "FIGAVAM",
+  "symbol": "FIG"
+ },
+ {
   "address": "0:92c4664f1ea6b74ed9ce0e031a9fc0843348dfe87a58faea27fcd31e1608caaa",
   "description": "TON liquid staking token by bemo",
   "image": "https://storage.cloud.google.com/milkcreek/tokens/bmTON.svg",
