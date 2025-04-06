@@ -4648,6 +4648,20 @@
   ]
  },
  {
+  "address": "0:a2f675ad458e6b7445a46483ce7bff67d565e883c39b5c221fe911a6c050a7ae",
+  "description": "State Of The Art (by Beeton) @sotatoken",
+  "image": "https://beetontoken.space/wp-content/uploads/2025/02/sota_word.png",
+  "name": "S.O.T.A",
+  "social": [
+   "https://t.me/sotatoken",
+   "https://t.me/beetonchat"
+  ],
+  "symbol": "SOTA",
+  "websites": [
+   "https://sotatoken.ru/"
+  ]
+ },
+ {
   "address": "0:7f1dc01da790c0f24139a9368d46878c35d632eac890372b22e79e247e595dc0",
   "description": "The world's first Soviet-era cryptocurrency. Our mission is to make cryptocurrency accessible to everyone!",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb_hcadp5da8ke5qtanroemndyy6siqnysi554kflldwovh.png?size=xl&key=fb4b79",
