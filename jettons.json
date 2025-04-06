@@ -1627,7 +1627,7 @@
  {
   "address": "0:6dc6b66d930694da09948838ab6067230de2eca15878bbf6e51b429d34b6e843",
   "description": "$DRAGON Strategic combat and deep character customization provide a rewarding RPG and P2E experience. At the same time, the seamless integration of TON blockchain technology ensures secure ownership and the ability to earn $DRAGON tokens with every eggs.",
-  "image": "https://i.hizliresim.com/830algn.jpg",
+  "image": "https://dargonton.app/images/logo.png",
   "name": "DragonTON",
   "social": [
    "https://t.me/TONDragonEggs",
@@ -1962,6 +1962,66 @@
   "address": "0:4d94867121b40643bf1c5e01b755173297c03490b9ffe8133d91a6e21c78560b",
   "name": "LP eUSDT (01-Jun-2025)",
   "symbol": "LP eUSDT"
+ },
+ {
+  "address": "0:343e86f1d2b5dcecc95f5ef5006650bf538311189e05286abbf5d1db049ed1b2",
+  "name": "SY USDT-SLP",
+  "symbol": "SY USDT-SLP"
+ },
+ {
+  "address": "0:d3ec7a894e3bf341cdc1f57ae12e0df6fdc26da6b651f7e81ba0b7435564b1f1",
+  "name": "PT USDT-SLP (01-Jun-2025)",
+  "symbol": "PT USDT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:d6e64d73911ed2404c2b89ce1aa6848a9616ccce30610beb0b1715393f1c51f3",
+  "name": "YT USDT-SLP (01-Jun-2025)",
+  "symbol": "YT USDT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:8685f2dc5ae493f40ae3911f6086c3f17e768e624ab856814376fc8d36ab13f2",
+  "name": "LP USDT-SLP (01-Jun-2025)",
+  "symbol": "LP USDT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:f9036ca0c128005d74ea23e3a400e63bd9b5e7f3e991804f7038414b2a0bba89",
+  "name": "SY NOT-SLP",
+  "symbol": "SY NOT-SLP"
+ },
+ {
+  "address": "0:ca055e7e1eadb80f2fba95d3e26599fa175b747bde15ab0f7e6673783ddd0d41",
+  "name": "PT NOT-SLP (01-Jun-2025)",
+  "symbol": "PT NOT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:51019a8a85594a051ab18fdec04fa3f334bc6fa259d8402405d81d98053d9abd",
+  "name": "YT NOT-SLP (01-Jun-2025)",
+  "symbol": "YT NOT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:f22a020c0a57370ee6eb49cae2190c6949acfd4c6e8f1a44bd02453d02752161",
+  "name": "LP NOT-SLP (01-Jun-2025)",
+  "symbol": "LP NOT-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:7d9d0760c1d6935c6e85ee60c412b3eeb89cdaea59827d08ee9fe3d72b78895e",
+  "name": "SY TON-SLP",
+  "symbol": "SY TON-SLP"
+ },
+ {
+  "address": "0:4609bbab2b63dd4cb5589344aa673ba6c0f3c8cb4e88e089777e4fbba1057f33",
+  "name": "PT TON-SLP (01-Jun-2025)",
+  "symbol": "PT TON-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:f31252d6637d108ade00b5262fcf45902f5db3f0c3ad9ef7ecde435548d44d7c",
+  "name": "YT TON-SLP (01-Jun-2025)",
+  "symbol": "YT TON-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:e391e5ebdc89f63f01809935ce9d1ca19a633dd374ef5a788c9dedcede3c9724",
+  "name": "LP TON-SLP (01-Jun-2025)",
+  "symbol": "LP TON-SLP (01-Jun-2025)"
  },
  {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
@@ -2756,6 +2816,17 @@
   "symbol": "KOMPUKTER",
   "websites": [
    "https://kompukter.tb.ru/"
+  ]
+ },
+ {
+  "address": "0:6e2215cd36459ff405bd9a234635348efee159db77a37c85ab89e5e07b97fbdf",
+  "decimals": 9,
+  "description": "KTON, The Liquid Staking Token of TON.",
+  "image": "https://app.kton.io/logo-256x256.png",
+  "name": "KTON",
+  "symbol": "KTON",
+  "websites": [
+   "https://app.kton.io"
   ]
  },
  {
@@ -4237,6 +4308,19 @@
   "symbol": "REKT",
   "websites": [
    "https://rektttt.me"
+  ]
+ },
+ {
+  "address": "0:ba1ae8c415cb084875fb61341bfc23b17ab3f5a7235ef3c7ded6925175e92f77",
+  "description": "This is not a token. This is recognition.",
+  "image": "https://rekt997.com/997.png",
+  "name": "-99.7%",
+  "social": [
+   "https://t.me/rekt997"
+  ],
+  "symbol": "REKT997",
+  "websites": [
+   "https://rekt997.com"
   ]
  },
  {
@@ -6205,6 +6289,11 @@
   "symbol": "RRMONEY"
  },
  {
+  "address": "0:ec42ff3076a56d591471a10dcb70ff94036745cc9c7a56e135caa0225392e876",
+  "name": "FIGAVAM",
+  "symbol": "FIG"
+ },
+ {
   "address": "0:92c4664f1ea6b74ed9ce0e031a9fc0843348dfe87a58faea27fcd31e1608caaa",
   "description": "TON liquid staking token by bemo",
   "image": "https://storage.cloud.google.com/milkcreek/tokens/bmTON.svg",
@@ -7749,6 +7838,11 @@
   "symbol": "POGO"
  },
  {
+  "address": "0:69e850240dd1c3fe52ca50123e27e12de7341ec89962c5ce9fde22870627bce4",
+  "name": "Proof of Karl",
+  "symbol": "POK"
+ },
+ {
   "address": "0:bc5e450459be9bcdbcc4f5e55a012a0a502c9803f0944002c6135e635889c4aa",
   "name": "PONKE TON",
   "symbol": "PONKE"
@@ -8129,6 +8223,11 @@
   "symbol": "STEC"
  },
  {
+  "address": "0:e79a59fb173c2dc0d76375fb31584db5585a88315c6a17ab382f57f6bf675b29",
+  "name": "StableEX Technologies",
+  "symbol": "STEX"
+ },
+ {
   "address": "0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74",
   "name": "Stellarium",
   "symbol": "STL"
@@ -8142,6 +8241,11 @@
   "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
   "name": "Spotty",
   "symbol": "Spotty"
+ },
+ {
+  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
+  "name": "Toned Ape Coin",
+  "symbol": "TAC"
  },
  {
   "address": "0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2",
