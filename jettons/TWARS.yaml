@@ -1,0 +1,9 @@
+     type: "jetton_masters"
+     name: "TradeWars"
+     description: "TradeWars  создан для настоящих воинов крипто-рынка. Мы объединяем трейдеров в команды, чтобы они могли сражаться за звание лучших в эпических торговых войнах. \nTWARS — это не просто токен, это оружие в битве за прибыль и славу!"
+     address: "EQC66E_sroa5oIYFL_OlMpOzvYOZQAjpYIZI19iPZYWMPr-3"
+     symbol: "TWARS"
+     decimals: 9
+     image: "https://cdn.blum.codes/b3f4cb6d-aa89-4d3d-b350-cde051015fbc/92601ffe-dd47-407c-9fbe-773f8a5c9d4e"
+     social:
+       - "https://t.me/TradeWarsCommunity"
