@@ -2951,6 +2951,17 @@
   "symbol": "LIGHT"
  },
  {
+  "address": "0:03dda1a46f9f68230a527f9e847072340a0e4880f689d18827b6cf25926a1169",
+  "description": "It's time to freshen up. $LIME Coin - the power of community on the border of absurdity! \ud83c\udf4b\u200d\ud83d\udfe9",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqad3agkb59oiwpsf56echi0cg5igpaj0ygnts8lkmorasbi.png?size=lg&key=ab5c38",
+  "name": "LIME",
+  "social": [
+   "https://t.me/LLimee",
+   "https://t.me/limecoin_chat"
+  ],
+  "symbol": "LIME"
+ },
+ {
   "address": "0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375",
   "decimals": 9,
   "description": "Shave, Liquidate, Laugh \u2014 The Meme Coin Way!",
