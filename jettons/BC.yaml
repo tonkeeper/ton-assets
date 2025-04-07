@@ -1,0 +1,11 @@
+name: Block Card
+description: @BlockCardQueryBot is a mini-application for analyzing economic transactions. Track wallet activity, find coins and investigate suspicious transactions.
+image: "https://storage.dyor.io/jettons/EQCgH_F0Mf_CENOMPFAsBsqF_Baj8ZkbpSQ5N6lRgfRdlKIj/image.png"
+address: "EQCgH_F0Mf_CENOMPFAsBsqF_Baj8ZkbpSQ5N6lRgfRdlKIj"
+symbol: BC
+websites:
+  - "https://t.me/BlockCardQueryBot"
+social:
+  - "https://t.me/BlockCardGameBot"
+  - "https://t.me/blockcard_bc"
+  - "https://x.com/BlockCardTON"
