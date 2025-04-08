@@ -1510,6 +1510,19 @@
   "symbol": "DILS"
  },
  {
+  "address": "0:7025940d8e894edb2b30b9ded95465ef726c728976baf28d90300d791c492d0a",
+  "description": "Dinoex.io - A modern crypto-exchange, with native token integration.",
+  "name": "DinoEx",
+  "social": [
+   "https://t.me/dinoexch",
+   "https://x.com/dinoexch"
+  ],
+  "symbol": "DINO",
+  "websites": [
+   "https://dinoex.io"
+  ]
+ },
+ {
   "address": "0:2aef4e8ca3f264faef3941d63274b7c9ac253fe11b3461cb35cd41c7cdf28588",
   "description": "DLT, the Demo Lumia Token, is the core utility token of Lumia App, a GameFi project focused on RWA tokenization. It enables staking, progression, and NFT interactions, serving as a key element in the transition to an L1 RWA blockchain filled with real-world assets.",
   "image": "https://lumia.network/img/dlt.svg",
