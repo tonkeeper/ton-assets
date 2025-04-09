@@ -81,3 +81,7 @@
 - symbol: RRMONEY
   name: viperr coin
   address: "EQDz4YOi2Mnzdqca0ZCprrcIm5K16UvM_OPiB4HWJ5KMVie3"
+    
+- symbol: FIG
+  name: FIGAVAM
+  address: "EQDsQv8wdqVtWRRxoQ3LcP-UA2dFzJx6VuE1yqAiU5LodqvS"

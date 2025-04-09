@@ -47,6 +47,7 @@ Name           | Address
 [Megaton Finance](https://tonviewer.com/0:16709d273b75ad3654a652329caafe3bdf9602be246abbb2cc349a0f5ec74754) | EQAWcJ0nO3WtNlSmUjKcqv4735YCviRqu7LMNJoPXsdHVLC9
 [Megaton Finance Dex](https://tonviewer.com/0:310b71b340182396f5ba08903081a1ef6ab4df571a3ca7b05effa44c4a3b0f92) | EQAxC3GzQBgjlvW6CJAwgaHvarTfVxo8p7Be_6RMSjsPki6s
 [STON.fi Dex](https://tonviewer.com/0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e) | EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt
+[STON.fi Dex](https://tonviewer.com/0:70a4118401bf8d823531a66011020565f02e05ff91ac5f1677769b00d6acd07a) | EQBwpBGEAb-NgjUxpmARAgVl8C4F_5GsXxZ3dpsA1qzQerNl
 [TONCO](https://tonviewer.com/0:bffadd270a738531da7b13ba8fc403826c2586173f9ede9c316fab53bc59ac86) | EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5
 [Morgenshtern](https://tonviewer.com/0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonviewer.com/0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
@@ -88,3 +89,16 @@ Name           | Address
 
 Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
 `accounts.json`, `jettons.json`, `collections.json` and `README.md` contains automatically generated data. Please don't commit directly to this files.
+
+## How to create a Pull Request? 
+
+* Click the **Fork** button in the top right corner to create a copy of the repository in your account
+* Clone your fork using the Terminal (or Git Bash): git clone `https://github.com/your-username/ton-assets.git` (replace your-username with your GitHub username);
+* Edit the .yaml files in the `accounts/`, `collections/`, or `jettons/` directories, being careful not to change any `.json` files;
+* Go to your forked repository on GitHub, click the **'New Pull Request'** button, and follow the example provided in the repository.  
+
+Before submitting, check that your PR has no duplicate or offensive content.
+
+In a pull request, the *image link should be a direct link to the image file*, not to a webpage. Ensure the link ends with an image extension (e.g., .jpg, .png). Please ***avoid using ton.api*** in the image link.
+
+Please note, the *verification process doesn’t require payment*. Your request will be reviewed by the team in the order. Any additional questions and the decision regarding your request will be provided directly in your PR.
