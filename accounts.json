@@ -866,6 +866,18 @@
   "require_memo": true
  },
  {
+  "address": "0:3d2cb74e041df056045d3ba4bef650f938c553db86d1dab1f80bc9c238fe3ffe",
+  "image": "https://storage.yandexcloud.net/rpublic/logo.svg",
+  "name": "Rapira",
+  "require_memo": false
+ },
+ {
+  "address": "0:708545cef8fc0118022596a056044a61833e923613bf70fd1e25f033fefd8a3c",
+  "image": "https://storage.yandexcloud.net/rpublic/logo.svg",
+  "name": "Rapira",
+  "require_memo": false
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
