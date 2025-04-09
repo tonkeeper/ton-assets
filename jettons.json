@@ -2491,6 +2491,20 @@
   ]
  },
  {
+  "address": "0:45abb71c1747925a5cb4c8527096ae2182e05a195543e25b0711b0821dab2171",
+  "description": "",
+  "image": "https://m2m.fra1.cdn.digitaloceanspaces.com/image.jpg",
+  "name": "Hashcash",
+  "social": [
+   "https://t.me/memhash",
+   "https://x.com/memhash_app"
+  ],
+  "symbol": "HASHCASH",
+  "websites": [
+   "https://memhash.org/"
+  ]
+ },
+ {
   "address": "0:36b9ff65cbe3368c0f2128e4394b864081c2f493fc89037eec8b112cd2eff1bd",
   "description": "HBD is a cute tap game where users play and earn rewards.",
   "image": "https://media.discordapp.net/attachments/1006277861231042671/1346149013396783265/HBD_LOGO.jpg?ex=67c72277&is=67c5d0f7&hm=43bfd85fc164f417583154d037340a928a7caeb05679f5e54eb90d796c90bc54&=&format=webp",
