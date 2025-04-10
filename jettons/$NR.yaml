@@ -1,0 +1,12 @@
+name: Neuroom
+description: This application is based on token generation where you earn coins using the computing power of our nodes, utilized by the Neuroom.org neural network. The generation algorithm is unique. Part of the revenue from our active ecosystem (GhostGramVPN, NeuRoomAI) will be added to liquidity.
+address: EQB5GXIAriylzewS1LOw6BK3pDj7wlz-Y2X0dVXRX-xEJ3vt
+symbol: NR
+websites:
+  - "https://neuroom.org"
+  - "https://faucet.neuroom.org"
+social:
+  - "https://t.me/DigTonBot"
+  - "https://t.me/DigtonFaucet"
+  - "https://t.me/GhostGramVPN_Bot"
+  - "https://t.me/NeuroomAI"
