@@ -1271,5 +1271,10 @@
   "address": "0:ef64bfe2a6518bef63a7d62a50747e8a73a10472b84227426935da3aebdf909e",
   "image": "https://totemancer.com/ton/tc.png",
   "name": "Totemancer"
+ },
+ {
+  "address": "0:3d1f01190ffb4e35f573ea5252d0f54a479be2122106ca3f40b907b01905675c",
+  "image": "https://app.kton.io/logo-256x256.png",
+  "name": "KTON"
  }
 ]
