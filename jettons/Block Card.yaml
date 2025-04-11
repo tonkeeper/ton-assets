@@ -1,0 +1,9 @@
+name: Block Card
+description: Block Card Query is a mini-app for analyzing blockchain transactions. Track wallet activity, find whales and investigate suspicious transactions.
+image: "https://dd.dexscreener.com/ds-data/tokens/ton/eqcgh_f0mf_cenompfasbsqf_baj8zkbpsq5n6lrgfrdlkij.png?size=lg&key=c4170f"
+address: EQCgH_F0Mf_CENOMPFAsBsqF_Baj8ZkbpSQ5N6lRgfRdlKIj
+symbol: BC
+social:
+  - "https://t.me/blockcard_bc"
+  - "https://youtube.com/@blockcard_bc"
+  - "https://x.com/BlockCardTON"
