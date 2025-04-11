@@ -1,0 +1,10 @@
+name: TTM Token
+description: "TTM Token is the utility token of the tTm project — a Telegram-native GameFi ecosystem. The tTm bot supports in-chat token transfers, duels, staking, P2P trades, and admin functions for Telegram groups. Blockchain is used for deposits and withdrawals via Jetton, while core logic runs off-chain."
+address: EQAyR4DMsw7P7YOWusalsmG8OWFBDdPTDiUlrYpMiO625xQE
+symbol: TTM
+logo: "https://raw.githubusercontent.com/TimaTTM/website/refs/heads/main/logo.png"
+social:
+  - "https://t.me/ttm_ton"  # Announcements and news
+  - "https://t.me/TTMgames_bot # Official Telegram bot
+  - "https://t.me/ttm_tima"  # Project community
+  - "https://x.com/TTMtoncoin"  # Twitter (currently inactive)
