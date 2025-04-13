@@ -3666,6 +3666,21 @@
   "symbol": "NISMO"
  },
  {
+  "address": "0:7a1c56ab22a1e0420091765bdc81ebd51dcd4235dca8ae794dccb8d666a53940",
+  "description": "The coin and its name speak for themselves, we want to show and test whether it is really that easy to create a coin from scratch and it can really grow!",
+  "image": "https://trueimages.ru/img/ba/87/3318bf76.png",
+  "name": "NITRO VAG",
+  "social": [
+   "https://t.me/crypto_mining_rvn_etc",
+   "https://t.me/vagrchat",
+   "https://x.com/vagr_"
+  ],
+  "symbol": "NITRO",
+  "websites": [
+   "https://vagr-drive.ru/"
+  ]
+ },
+ {
   "address": "0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9",
   "decimals": 9,
   "description": "Notcoin locked in liquidity in Storm Trade (storm.tg)",
