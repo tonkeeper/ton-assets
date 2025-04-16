@@ -1003,6 +1003,18 @@
   "symbol": "BIRB"
  },
  {
+  "address": "0:a01ff17431ffc210d38c3c502c06ca85fc16a3f1991ba5243937a95181f45d94",
+  "description": "Block Card Query is a mini-app for analyzing blockchain transactions. Track wallet activity, find whales and investigate suspicious transactions.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcgh_f0mf_cenompfasbsqf_baj8zkbpsq5n6lrgfrdlkij.png?size=lg&key=c4170f",
+  "name": "Block Card",
+  "social": [
+   "https://t.me/blockcard_bc",
+   "https://youtube.com/@blockcard_bc",
+   "https://x.com/BlockCardTON"
+  ],
+  "symbol": "BC"
+ },
+ {
   "address": "0:5b3de1fb4fb3bbbe99b8c6d403a9c03efad1b838bdc34ec049c8220980eef8f2",
   "description": "BORKA Meme Coin is a community-driven meme token built to reward and celebrate the vibrant TON ecosystem.Borka mission is to support TON enthusiasts, KOLs, digital artists, and loyal community members. Join the fast-growing BORKA family and be part of a movement where community is the utility. Together, we\u2019re shaping the future of meme culture on TON",
   "image": "https://borka.pw/wp-content/uploads/2024/11/Borka-logo.png",
