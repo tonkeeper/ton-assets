@@ -2739,6 +2739,17 @@
   ]
  },
  {
+  "address": "0:49a728d88ec679c61a8294081a4aa54796016db09bdc954fbddc087e2deaae1f",
+  "description": "JOYSTICK - \u044d\u0442\u043e \u0440\u0435\u0432\u0430\u0440\u0434\u043d\u044b\u0439 \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d \u0441 \u0434\u0438\u0432\u0438\u0434\u0435\u043d\u0434\u0430\u043c\u0438 \u0432 $TON.",
+  "image": "https://ibb.co/Z6MsnFkf",
+  "name": "JOYSTICK",
+  "social": [
+   "https://t.me/joystickpro",
+   "https://t.me/joystickchat"
+  ],
+  "symbol": "JSI"
+ },
+ {
   "address": "0:108af25116f5ee2431a0861784f515f4efa1c78f24b3e7e42e1d99df7ff8e75e",
   "coingecko": "https://coingecko.com/en/coins/jpool",
   "coinmarketcap": "https://coinmarketcap.com/currencies/jpool/",
