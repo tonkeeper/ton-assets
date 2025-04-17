@@ -1,0 +1,12 @@
+name: QUARK
+description: Personal PoW mining jetton on TON. t.me/quark_project
+image: "https://quark-project.run/jetton_logo.png"
+address: EQDo08Sc8Jk0GJvKBExgR6-lGnGrXYcE1MWySCUJyY_oQp4N
+symbol: QUARK
+websites:
+  - "https://www.geckoterminal.com/ru/ton/pools/EQCJWLvmlENgey5xYflRiyD1bnhJD5XPcY2Yooub_v0j79gC"
+  - "https://dexscreener.com/ton/EQDo08Sc8Jk0GJvKBExgR6-lGnGrXYcE1MWySCUJyY_oQp4N"
+  - "https://t.me/quark_project_bot?startapp="
+social:
+  - "https://t.me/quark_project"
+  - "https://t.me/quark_comunity"
