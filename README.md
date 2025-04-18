@@ -77,6 +77,7 @@ Name           | Address
 [KZH](https://tonviewer.com/0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf) | EQDaaxtmY6Dk0YzIV0zNnbUpbjZ92TJHBvO72esc0srwv8K2
 [NFT Spaceship](https://tonviewer.com/0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0) | EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS
 [Spinners](https://tonviewer.com/0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058) | EQAZKtHcN6mhbzhbzcnuj-94r5P-hZYBKEwQ4_-dc-2AWMqZ
+[TEST COLLECTION](https://tonviewer.com/0:654ba0ce08eff3c7dfcbdf0bcadcd853bbf61afcf469cca35e665fa12a4041bb) | EQBlS6DOCO_zx9_L3wvK3NhTu_Ya_PRpzKNeZl-hKkBBu54R
 [Telegram usernames](https://tonviewer.com/0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2) | EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi
 [The Gateway](https://tonviewer.com/0:3eda0de0ec98f5ebd9ab0393d1e3d2e39880b54c841f68611c67c5270d961fb2) | EQA-2g3g7Jj169mrA5PR49LjmIC1TIQfaGEcZ8UnDZYfsrno
 [Tonkeeper Adventure](https://tonviewer.com/0:c089c5b80494c179cec2fc4d6a6890ef7a6e0188ac260b31fd78896f422e8349) | EQDAicW4BJTBec7C_E1qaJDvem4BiKwmCzH9eIlvQi6DSRnb
