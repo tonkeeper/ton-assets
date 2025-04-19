@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "A stablecoin pegged to USD, deployed on the TON blockchain.",
+  "decimals": 6,
+  "address": "EQAGP9gQ976cbTvfLSTIgnNtmb4SlgS98SO4MJui6pNeD-CN",
+  "image": "https://raw.githubusercontent.com/ItOnline09/ton-assets/main/jettons/EQAGP9gQ976cbTvfLSTIgnNtmb4SlgS98SO4MJui6pNeD-CN.png",
+  "websites": ["https://tether.to"],
+  "social": {
+    "telegram": "https://t.me/tether_official",
+    "twitter": "https://twitter.com/Tether_to"
+  }
+}
