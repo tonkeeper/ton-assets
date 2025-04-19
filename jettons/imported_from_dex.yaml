@@ -331,6 +331,9 @@
 - address: 0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110
   name: Donut The Dog
   symbol: DONUT
+- address: 0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0
+  name: DRAGONZ LAND
+  symbol: DRAGONZ
 - address: 0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda
   name: TON Drift
   symbol: DRIFT
@@ -754,6 +757,9 @@
 - address: 0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043
   name: OAAL AI
   symbol: OAAL
+- address: 0:18c5a0a90151e3a4259a66dac295790e9bd62aec054fd94440711056e068edc4
+  name: OGToken
+  symbol: OGAT
 - address: 0:4cb09038d90dadb71c114a0af21cc4fabd8a6f910d9513ed691e4310beaed535
   name: OnlyX
   symbol: ONLYX
@@ -1084,6 +1090,9 @@
 - address: 0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74
   name: Stellarium
   symbol: STL
+- address: 0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb
+  name: Seahava token
+  symbol: SVV
 - address: 0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7
   name: Dog Wif Shapka
   symbol: Shapka
