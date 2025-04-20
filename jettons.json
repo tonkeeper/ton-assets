@@ -5374,6 +5374,17 @@
   ]
  },
  {
+  "address": "0:24de707c47d17deeb3138bf42e3c99eec638c8758160c6f78f0e9d90954ea055",
+  "description": "The Ultimate Gaming Token for Telegram Mini Apps",
+  "image": "https://retrobit.one/newToken2.png",
+  "name": "Techno Bit",
+  "social": [
+   "https://t.me/hexminecoin",
+   "https://t.me/retro_bit"
+  ],
+  "symbol": "TBIT"
+ },
+ {
   "address": "0:57c0c1aca2e5330ad31b1e671e50f49b1c86f88b7107588edae8d11fe424f2a3",
   "description": "Early token with long history \ud83d\udc26 (launched on \u26fd\ufe0f GasPump",
   "image": "https://tcoin.tech/data/official-logo.png",
