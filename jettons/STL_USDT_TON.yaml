@@ -1,0 +1,11 @@
+name: USDT Vault
+description: USDT/TON Vault for DeDust Pool
+image: "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp"
+address: 0:56f5e805e4e407d61a20ad94c83e3aaefa0854be28c633f658aca4c679f8c5e7
+symbol: STL_USDT_TON
+websites:
+  - "https://settleton.finance"
+social:
+  - "https://t.me/settleton"
+  - "https://t.me/settleton_ru"
+  - "https://t.me/settleton_fa"

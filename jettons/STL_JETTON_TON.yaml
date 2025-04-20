@@ -1,0 +1,11 @@
+name: JETTON Vault
+description: JETTON/TON Vault for DeDust Pool
+image: "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp"
+address: 0:5b46607213a02eec4061be961e41f69a6bfdb4ccb56b2a7ae5d38d25b42eff1d
+symbol: STL_JETTON_TON
+websites:
+  - "https://settleton.finance"
+social:
+  - "https://t.me/settleton"
+  - "https://t.me/settleton_ru"
+  - "https://t.me/settleton_fa"

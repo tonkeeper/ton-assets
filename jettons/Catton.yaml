@@ -1,0 +1,51 @@
+- address: 0:86cf8401d283627a87b58c367b440cad933ab8aa7b383419e8ff7d1a00c945f8
+  name: cTON
+  symbol: cTON
+  description: TON synthetic token from Catton
+  image: "https://catton.tech/cTON.png"
+  websites:
+    - "https://catton.tech"
+  social:
+    - "https://t.me/cattonAnn"
+    - "https://x.com/Cattontw"
+    - "https://youtube.com/@cattonai"
+    - "https://substack.com/@cattonai"
+
+- address: 0:9fb449ce8fb43d0f682c713c01d9d8357c7cd0d4a49dd64dd585926990174a4e
+  name: ctUSD
+  symbol: ctUSD
+  description: USD stablecoin from Catton
+  image: "https://catton.tech/ctUSD.png"
+  websites:
+    - "https://catton.tech"
+  social:
+    - "https://t.me/cattonAnn"
+    - "https://x.com/Cattontw"
+    - "https://youtube.com/@cattonai"
+    - "https://substack.com/@cattonai"
+
+- address: 0:337b5692647635c941b3d41167747eb693e558a5761e0e26287c25d34590a517
+  name: cTON-TON
+  symbol: cTON-TON
+  description: cTON-TON locked in liquidity in Catton
+  image: "https://catton.tech/catton_lp.png"
+  websites:
+    - "https://catton.tech"
+  social:
+    - "https://t.me/cattonAnn"
+    - "https://x.com/Cattontw"
+    - "https://youtube.com/@cattonai"
+    - "https://substack.com/@cattonai"
+
+- address: 0:72ee98ebe88073a96f2fb95099efcd1ebed9e48881778d9491443c5ea9271f66
+  name: ctUSD-USDT
+  symbol: ctUSD-USDT
+  description: ctUSD-USDT locked in liquidity in Catton
+  image: "https://catton.tech/catton_lp.png"
+  websites:
+    - "https://catton.tech"
+  social:
+    - "https://t.me/cattonAnn"
+    - "https://x.com/Cattontw"
+    - "https://youtube.com/@cattonai"
+    - "https://substack.com/@cattonai"

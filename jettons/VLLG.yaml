@@ -1,0 +1,13 @@
+name: TonVillages Coin
+description: Coin for TonVillages game. Play at t.me/TonVillagesBot
+image: "https://vllg.pages.dev/logo.png"
+address: 0:3aa59787efab4b4790864a7518396451633d19702533cffd46cf4deb04568f0b
+symbol: VLLG
+decimals: 0
+websites:
+  - "https://t.me/TonVillagesBot"
+social:
+  - "https://t.me/TonVillages"
+  - "https://t.me/TonVillagesChat"
+  - "https://t.me/TonVillagesEN"
+  - "https://t.me/TonVillagesChatEN"
