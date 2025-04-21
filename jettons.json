@@ -1918,6 +1918,20 @@
   "symbol": "ENRG"
  },
  {
+  "address": "0:9b0679367ed518f6fab9b4a8a1762f0720c42e1476aea0f39c4ac13941224aa2",
+  "description": "\u041c\u043e\u043d\u0435\u0442\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u00ab\u0412\u0435\u0447\u043d\u043e\u0441\u0442\u044c\u00bb \u2013 \u043f\u0435\u0440\u0432\u043e\u0439 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b \u043e\u0446\u0438\u0444\u0440\u043e\u0432\u043a\u0438 \u0441\u043e\u0437\u043d\u0430\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. The coin of the project \u00abEternity\u00bb \u2013 first platform for digitizing human consciousness.",
+  "image": "https://cdn.blum.codes/940ad236-62b2-49c1-a228-5347f59a2e0e/84104d7a-1caf-41cd-8c8b-dcb6de8d2167",
+  "name": "Eternity project",
+  "social": [
+   "https://t.me/birchleague",
+   "https://t.me/birchleagueQA_bot"
+  ],
+  "symbol": "ETR",
+  "websites": [
+   "https://birch-league.com"
+  ]
+ },
+ {
   "address": "0:3980dbc181e7cd275d70dc7b83d551cf36fb722ce51cd6895fe0a04b3e6c5e6d",
   "description": "Native ElefantMine game utility token.",
   "image": "https://prod.elefantmine.io/icons/dollar.svg",
@@ -2787,6 +2801,24 @@
   "symbol": "JVS",
   "websites": [
    "https://jarvisbot.pro/"
+  ]
+ },
+ {
+  "address": "0:2eb61564c31739a311eefe708e92dced632502a020bed4d523ac8df707936395",
+  "description": "K1NG Jetton - is your majesty in the world of memes! Based on TON and Telegram, AI powered.",
+  "image": "https://cdn.blum.codes/0da58f0b-7873-4f7a-a662-158c95003283/7a39d054-68be-4b2f-8d8d-da645734b027",
+  "name": "K1NG COIN",
+  "social": [
+   "https://t.me/K1NG_TON_NEWS",
+   "https://t.me/K1NGTON_BOT",
+   "https://t.me/K1NG_TON_CN",
+   "https://t.me/K1NG_TON_EN",
+   "https://t.me/K1NG_TON",
+   "https://x.com/k1ng_ton"
+  ],
+  "symbol": "K1NG",
+  "websites": [
+   "https://k1ngton.pro"
   ]
  },
  {
@@ -5326,6 +5358,17 @@
   "websites": [
    "https://tbcc.com"
   ]
+ },
+ {
+  "address": "0:24de707c47d17deeb3138bf42e3c99eec638c8758160c6f78f0e9d90954ea055",
+  "description": "The Ultimate Gaming Token for Telegram Mini Apps",
+  "image": "https://retrobit.one/newToken2.png",
+  "name": "Techno Bit",
+  "social": [
+   "https://t.me/hexminecoin",
+   "https://t.me/retro_bit"
+  ],
+  "symbol": "TBIT"
  },
  {
   "address": "0:57c0c1aca2e5330ad31b1e671e50f49b1c86f88b7107588edae8d11fe424f2a3",
