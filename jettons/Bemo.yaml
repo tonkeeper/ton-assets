@@ -1,6 +1,10 @@
+---
 address: EQDS-tFyxlN4-4mbytt1-6U2i3C17c5z0qNxD2ooA9xEkPbh
 name: BEMO_US IND
 symbol: BEMO
 decimals: 9
-image: https://tellertoken.wordpress.com/wp-content/uploads/2025/04/bemo-logo-256x256-1.png
-description: token asli Indonesia dan terinspirasi dengan kendaraan transportasi BEMO yang dulu menguasai jalanan Jakarta
+image: |
+  https://tellertoken.wordpress.com/wp-content/uploads/2025/04/bemo-logo-256x256-1.png
+description: |
+  token asli Indonesia dan terinspirasi dengan kendaraan transportasi BEMO
+  yang dulu menguasai jalanan Jakarta
