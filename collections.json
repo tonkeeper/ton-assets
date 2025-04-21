@@ -147,6 +147,18 @@
   "name": "Tonkeeper Adventure. Season 2"
  },
  {
+  "address": "0:654ba0ce08eff3c7dfcbdf0bcadcd853bbf61afcf469cca35e665fa12a4041bb",
+  "name": "TEST COLLECTION"
+ },
+ {
+  "address": "0:9f2121fc61515ccaa5eee1385623450c05f0b7fa38290e581ee464e2fcf715b8",
+  "name": "Vinum \u00c6ternum"
+ },
+ {
+  "address": "0:de1f978dd5218cd53a46d34238ba2b059f38d18e4a52c586ea85dea77f5053d2",
+  "name": "Corked Memories"
+ },
+ {
   "address": "0:dfdb68e5d54fe1d1d4417912266a4777de16752e3f99c669e567272a8732633d",
   "description": "Exclusive SBT (Soulbound Token) achievements within Totemancer. Each badge representing proof of your in-game milestones and accomplishments. SBTs can only be earned through your gameplay progress.",
   "image": "https://totemancer.com/ton/tc.png",
