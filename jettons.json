@@ -4539,6 +4539,20 @@
   ]
  },
  {
+  "address": "0:6476abd37b47c4133624810ba8944667e6de9b391f795bf5e902f4393e490408",
+  "description": "\u041f\u043e\u0441\u0442\u0430\u0432\u044c \u0441\u0432\u0435\u0447\u0443. \u041f\u043e\u043c\u043e\u043b\u0438\u0441\u044c. \u041f\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u0443\u0439 \u0441\u0432\u044f\u0437\u044c",
+  "image": "https://storage.dyor.io/jettons/EQBkdqvTe0fEEzYkgQuolEZn5t6bOR95W_XpAvQ5PkkECO2n/image.jpeg",
+  "name": "RPC token",
+  "social": [
+   "https://t.me/rpc_token",
+   "https://t.me/RPC_token_channel"
+  ],
+  "symbol": "RPC",
+  "websites": [
+   "https://rpc-token.com/"
+  ]
+ },
+ {
   "address": "0:b0797499697e64e713ad5cb6c681f17c158e836e0eab3623eb77d7747fffa40d",
   "description": "E/acc token for digital life",
   "name": "RubeTON",
