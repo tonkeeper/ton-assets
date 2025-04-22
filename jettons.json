@@ -5886,6 +5886,16 @@
   ]
  },
  {
+  "address": "0:086fa2a675f74347b08dd4606a549b8fdb98829cb282bc1949d3b12fbaed9dcc",
+  "description": "Ethena: Enabling Internet Money",
+  "image": "https://ethena.fi/shared/usde.png",
+  "name": "Ethena USDe",
+  "social": [
+   "https://x.com/ethena_labs"
+  ],
+  "symbol": "USDe"
+ },
+ {
   "address": "0:e658cf9ec75709e6178065996113809cb7cd4e594934c3eaf10ab6bc0fc1fdc1",
   "description": "USTG is a stable coin fully collateralized by assets, with its value maintained at a 1:1 ratio to the US dollar through a series of financial incentives.",
   "image": "https://tonstableproject.github.io/USTG_LOGO.svg",
