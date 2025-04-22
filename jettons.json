@@ -3603,6 +3603,16 @@
   ]
  },
  {
+  "address": "0:bee912942b5e31c8dda2265f47190acacc414d7d966f0f0c765f681c181aa771",
+  "description": "MPAK is a deflationary Jetton with dividends. 25% tax on every trade, part is burned, part goes to holders, and part disappears into the Darkness. Deployed from sTONks.",
+  "image": "https://raw.githubusercontent.com/BubbleMind/ImagesMPAK/main/LogoMPAK.webp",
+  "name": "MPAK",
+  "social": [
+   "https://t.me/CreakyWheels"
+  ],
+  "symbol": "MPAK"
+ },
+ {
   "address": "0:f97d70e350aa2f257bdee9ac7f60f86eaca702f82bb0fe105fbe3b4419dce2c1",
   "description": "A token of a real coffee shop network, integrated into the loyalty program. It allows customers to earn rewards, redeem them for drinks, participate in special promotions, and access exclusive benefits for regular visitors.",
   "image": "https://i.postimg.cc/vT8QdFPS/photo-2025-02-09-21-49-40.jpg",
