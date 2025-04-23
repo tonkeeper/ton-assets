@@ -1232,6 +1232,20 @@
   ]
  },
  {
+  "address": "0:50516a96f5fa550558d6052753df513e034a8008aadaa601ac2b6b529edeaff0",
+  "description": "Learn crypto trading in a gamified way. Upgrade your character, master trading strategies, take part in tournaments, and earn tokens",
+  "image": "https://github.com/Canabini/ton-assets/blob/main/logocrpm.png?raw=true",
+  "name": "CRYPTICO - M",
+  "social": [
+   "https://t.me/cryptico_app",
+   "https://x.com/cryptico_app?s=21"
+  ],
+  "symbol": "CRPM",
+  "websites": [
+   "https://cryptico.info/"
+  ]
+ },
+ {
   "address": "0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d",
   "description": "Unlock rewards with Cryptaskr! Complete tasks to earn points, convert them into CRT tokens, and swap for TON.",
   "image": "https://token.cryptaskr.com/token-image.png",
