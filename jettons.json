@@ -1950,6 +1950,22 @@
   "symbol": "ENRG"
  },
  {
+  "address": "0:9d6fc86f3030d972aa4f187f9c0a3de232ea26f4fe7b98ccab7681cd3725c733",
+  "description": "The governance token of the EvoSim Game ecosystem",
+  "image": "https://towers.evosimgame.com/media/token.png",
+  "name": "EvoSimGame",
+  "social": [
+   "https://t.me/evosim_game",
+   "https://x.com/evosimgame",
+   "https://www.instagram.com/evosimgame",
+   "https://www.youtube.com/@EvosimGame"
+  ],
+  "symbol": "ESIM",
+  "websites": [
+   "https://evosimgame.com"
+  ]
+ },
+ {
   "address": "0:9b0679367ed518f6fab9b4a8a1762f0720c42e1476aea0f39c4ac13941224aa2",
   "description": "\u041c\u043e\u043d\u0435\u0442\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u00ab\u0412\u0435\u0447\u043d\u043e\u0441\u0442\u044c\u00bb \u2013 \u043f\u0435\u0440\u0432\u043e\u0439 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b \u043e\u0446\u0438\u0444\u0440\u043e\u0432\u043a\u0438 \u0441\u043e\u0437\u043d\u0430\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. The coin of the project \u00abEternity\u00bb \u2013 first platform for digitizing human consciousness.",
   "image": "https://cdn.blum.codes/940ad236-62b2-49c1-a228-5347f59a2e0e/84104d7a-1caf-41cd-8c8b-dcb6de8d2167",
