@@ -44,6 +44,24 @@
   ]
  },
  {
+  "address": "0:28351f309d70b8ac8300085ee83a41fc85a92a0e53a3c3c498d35d54b6f031f1",
+  "description": "DOFA ecosystem and community for traders",
+  "image": "https://avatars.githubusercontent.com/u/205453350?v=4",
+  "name": "DOFA Trading",
+  "social": [
+   "https://t.me/dofa_trading_ltd",
+   "https://t.me/DOFAtrading_token",
+   "https://www.youtube.com/@DOFATrading",
+   "https://www.instagram.com/dofa_trading",
+   "https://www.tiktok.com/@dofa_trading",
+   "https://x.com/DOFA_trading"
+  ],
+  "symbol": "DOFA",
+  "websites": [
+   "https://www.dofa-trading-ltd.com"
+  ]
+ },
+ {
   "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
   "decimals": 9,
   "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
