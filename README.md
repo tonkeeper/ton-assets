@@ -70,7 +70,6 @@ Name           | Address
 [Beeharvest](https://tonviewer.com/0:d52400de2f5e83bfe6a55a95854a042b3fe22a1a370dac9c101fae5b5e00732a) | EQDVJADeL16Dv-alWpWFSgQrP-IqGjcNrJwQH65bXgBzKt8C
 [Booli Reborn](https://tonviewer.com/0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55) | EQCsCWwWEHS0BaEhcwJ3ft3GEXoC0Xd1CJ3hgASj14-NVb_r
 [CALLIGRAFUTURISM — 24: Units](https://tonviewer.com/0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf) | EQD7eDxP_wLX18kr8uyYfs6srlgoNMfRbXNYM8dmMXT2vxwk
-[Corked Memories](https://tonviewer.com/0:de1f978dd5218cd53a46d34238ba2b059f38d18e4a52c586ea85dea77f5053d2) | EQDeH5eN1SGM1TpG00I4uisFnzjRjkpSxYbqhd6nf1BT0gkB
 [DILS COIN GENESIS](https://tonviewer.com/0:c202dd4b9af103c981b880bdfc2872bd8473fc0606159278fdc40a2ae4f8d234) | EQDCAt1LmvEDyYG4gL38KHK9hHP8BgYVknj9xAoq5PjSNDB0
 [Degrees](https://tonviewer.com/0:f2bd3b92c32358d75b6eb78e053e41b30fd3d46cd70f814ff005afb4aeecee1a) | EQDyvTuSwyNY11tut44FPkGzD9PUbNcPgU_wBa-0ruzuGiDf
 [FIVA Genesis Access Keys](https://tonviewer.com/0:e8aabf23d68f2ea7fb0c7da85861a52c2bb3eb3c02c9880a5d1d331b3d0c0ecf) | EQDoqr8j1o8up_sMfahYYaUsK7PrPALJiApdHTMbPQwOz-oK
@@ -79,14 +78,12 @@ Name           | Address
 [KZH](https://tonviewer.com/0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf) | EQDaaxtmY6Dk0YzIV0zNnbUpbjZ92TJHBvO72esc0srwv8K2
 [NFT Spaceship](https://tonviewer.com/0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0) | EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS
 [Spinners](https://tonviewer.com/0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058) | EQAZKtHcN6mhbzhbzcnuj-94r5P-hZYBKEwQ4_-dc-2AWMqZ
-[TEST COLLECTION](https://tonviewer.com/0:654ba0ce08eff3c7dfcbdf0bcadcd853bbf61afcf469cca35e665fa12a4041bb) | EQBlS6DOCO_zx9_L3wvK3NhTu_Ya_PRpzKNeZl-hKkBBu54R
 [Telegram usernames](https://tonviewer.com/0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2) | EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi
 [The Gateway](https://tonviewer.com/0:3eda0de0ec98f5ebd9ab0393d1e3d2e39880b54c841f68611c67c5270d961fb2) | EQA-2g3g7Jj169mrA5PR49LjmIC1TIQfaGEcZ8UnDZYfsrno
 [Tonkeeper Adventure](https://tonviewer.com/0:c089c5b80494c179cec2fc4d6a6890ef7a6e0188ac260b31fd78896f422e8349) | EQDAicW4BJTBec7C_E1qaJDvem4BiKwmCzH9eIlvQi6DSRnb
 [Tonkeeper Adventure. Season 2](https://tonviewer.com/0:3971e42d84298ca7a1ca9cf206b3ad919e83570081e5b7641ecd54fd736c8250) | EQA5ceQthCmMp6HKnPIGs62RnoNXAIHlt2QezVT9c2yCUG-M
 [Totemancer: Badges](https://tonviewer.com/0:dfdb68e5d54fe1d1d4417912266a4777de16752e3f99c669e567272a8732633d) | EQDf22jl1U_h0dRBeRImakd33hZ1Lj-ZxmnlZycqhzJjPfxx
 [Totemancer: Totems](https://tonviewer.com/0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2) | EQBfThrlgdINBPdzVi_yLjCioYZqc8XOBYgePglglLmCwmrc
-[Vinum Æternum](https://tonviewer.com/0:9f2121fc61515ccaa5eee1385623450c05f0b7fa38290e581ee464e2fcf715b8) | EQCfISH8YVFcyqXu4ThWI0UMBfC3-jgpDlge5GTi_PcVuCZz
 
 
 ## Structure

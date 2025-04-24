@@ -44,6 +44,24 @@
   ]
  },
  {
+  "address": "0:28351f309d70b8ac8300085ee83a41fc85a92a0e53a3c3c498d35d54b6f031f1",
+  "description": "DOFA ecosystem and community for traders",
+  "image": "https://avatars.githubusercontent.com/u/205453350?v=4",
+  "name": "DOFA Trading",
+  "social": [
+   "https://t.me/dofa_trading_ltd",
+   "https://t.me/DOFAtrading_token",
+   "https://www.youtube.com/@DOFATrading",
+   "https://www.instagram.com/dofa_trading",
+   "https://www.tiktok.com/@dofa_trading",
+   "https://x.com/DOFA_trading"
+  ],
+  "symbol": "DOFA",
+  "websites": [
+   "https://www.dofa-trading-ltd.com"
+  ]
+ },
+ {
   "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
   "decimals": 9,
   "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
@@ -1232,6 +1250,20 @@
   ]
  },
  {
+  "address": "0:50516a96f5fa550558d6052753df513e034a8008aadaa601ac2b6b529edeaff0",
+  "description": "Learn crypto trading in a gamified way. Upgrade your character, master trading strategies, take part in tournaments, and earn tokens",
+  "image": "https://github.com/Canabini/ton-assets/blob/main/logocrpm.png?raw=true",
+  "name": "CRYPTICO - M",
+  "social": [
+   "https://t.me/cryptico_app",
+   "https://x.com/cryptico_app?s=21"
+  ],
+  "symbol": "CRPM",
+  "websites": [
+   "https://cryptico.info/"
+  ]
+ },
+ {
   "address": "0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d",
   "description": "Unlock rewards with Cryptaskr! Complete tasks to earn points, convert them into CRT tokens, and swap for TON.",
   "image": "https://token.cryptaskr.com/token-image.png",
@@ -1916,6 +1948,22 @@
   "address": "0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a",
   "name": "Energy Cells",
   "symbol": "ENRG"
+ },
+ {
+  "address": "0:9d6fc86f3030d972aa4f187f9c0a3de232ea26f4fe7b98ccab7681cd3725c733",
+  "description": "The governance token of the EvoSim Game ecosystem",
+  "image": "https://towers.evosimgame.com/media/token.png",
+  "name": "EvoSimGame",
+  "social": [
+   "https://t.me/evosim_game",
+   "https://x.com/evosimgame",
+   "https://www.instagram.com/evosimgame",
+   "https://www.youtube.com/@EvosimGame"
+  ],
+  "symbol": "ESIM",
+  "websites": [
+   "https://evosimgame.com"
+  ]
  },
  {
   "address": "0:9b0679367ed518f6fab9b4a8a1762f0720c42e1476aea0f39c4ac13941224aa2",
@@ -3601,6 +3649,16 @@
    "https://monkeyrush.app/",
    "https://t.me/monkeyrush_bot/app"
   ]
+ },
+ {
+  "address": "0:bee912942b5e31c8dda2265f47190acacc414d7d966f0f0c765f681c181aa771",
+  "description": "MPAK is a deflationary Jetton with dividends. 25% tax on every trade, part is burned, part goes to holders, and part disappears into the Darkness. Deployed from sTONks.",
+  "image": "https://raw.githubusercontent.com/BubbleMind/ImagesMPAK/main/LogoMPAK.webp",
+  "name": "MPAK",
+  "social": [
+   "https://t.me/CreakyWheels"
+  ],
+  "symbol": "MPAK"
  },
  {
   "address": "0:f97d70e350aa2f257bdee9ac7f60f86eaca702f82bb0fe105fbe3b4419dce2c1",
@@ -11476,6 +11534,20 @@
   "websites": [
    "https://tgmonk.com",
    "https://linktr.ee/tgmonk"
+  ]
+ },
+ {
+  "address": "0:19884462e9aca6aa04a0df491bc865c9a1661fc5beaecf4095ac9be1b683cf7a",
+  "description": "tomorrow will never come!",
+  "image": "https://trueimages.ru/img/d4/ad/450e8086.png",
+  "name": "Tomorrow?",
+  "social": [
+   "https://t.me/tomorrowtkn",
+   "https://t.me/tomorrowtkn_chat"
+  ],
+  "symbol": "tmrrw",
+  "websites": [
+   "https://tomorrow-will-never-come.tech/"
   ]
  },
  {

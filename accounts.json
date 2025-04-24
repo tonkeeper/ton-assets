@@ -1275,5 +1275,10 @@
   "address": "0:ef64bfe2a6518bef63a7d62a50747e8a73a10472b84227426935da3aebdf909e",
   "image": "https://totemancer.com/ton/tc.png",
   "name": "Totemancer"
+ },
+ {
+  "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
+  "image": "https://tonstakers.com/jetton/logo.svg",
+  "name": "Tonstakers master"
  }
 ]
