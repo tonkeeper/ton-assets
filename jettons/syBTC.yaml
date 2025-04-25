@@ -1,0 +1,12 @@
+name: syBTC
+description: syBTC is a synthetic Bitcoin powered by TON smart contracts. It lets you trade, hedge and get Bitcoin price exposure on the TON Blockchain. Created on syde.
+image: "https://i.imghippo.com/files/Zfxp7708ywo.png"
+address: EQCPWmXKrtHV8Kr85Y4Wbr48kPpEEUJFzJwwMeyk8d6SL0aW
+symbol: syBTC
+websites:
+  - "syde.fi"
+social:
+  - "https://t.me/sydefi_bot"
+  - "https://t.me/sydefi"
+  - "https://t.me/sydefi_cis"
+  - "https://x.com/sydefi"

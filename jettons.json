@@ -11528,6 +11528,54 @@
   ]
  },
  {
+  "address": "0:8f5a65caaed1d5f0aafce58e166ebe3c90fa44114245cc9c3031eca4f1de922f",
+  "description": "syBTC is a synthetic Bitcoin powered by TON smart contracts. It lets you trade, hedge and get Bitcoin price exposure on the TON Blockchain. Created on syde.",
+  "image": "https://i.imghippo.com/files/Zfxp7708ywo.png",
+  "name": "syBTC",
+  "social": [
+   "https://t.me/sydefi_bot",
+   "https://t.me/sydefi",
+   "https://t.me/sydefi_cis",
+   "https://x.com/sydefi"
+  ],
+  "symbol": "syBTC",
+  "websites": [
+   "syde.fi"
+  ]
+ },
+ {
+  "address": "0:7ed2bb1ad7154d0d0692bbcce520b49d96f3feb67dec5e82609759001054bee0",
+  "description": "syETH is a synthetic Ethereum powered by TON smart contracts. It lets you trade, hedge and get Ethereum price exposure on the TON Blockchain. Created on syde.",
+  "image": "https://i.imghippo.com/files/deWD5892Qw.png",
+  "name": "syETH",
+  "social": [
+   "https://t.me/sydefi_bot",
+   "https://t.me/sydefi",
+   "https://t.me/sydefi_cis",
+   "https://x.com/sydefi"
+  ],
+  "symbol": "syETH",
+  "websites": [
+   "syde.fi"
+  ]
+ },
+ {
+  "address": "0:ae154865eabad26564fc3b397b6f88e989a74e0e53f101a6839d0bfbc149f226",
+  "description": "sySOL is a synthetic Solana powered by TON smart contracts. It lets you trade, hedge and get Solana price exposure on the TON Blockchain. Created on syde.",
+  "image": "https://i.imghippo.com/files/ims1392tE.png",
+  "name": "sySOL",
+  "social": [
+   "https://t.me/sydefi_bot",
+   "https://t.me/sydefi",
+   "https://t.me/sydefi_cis",
+   "https://x.com/sydefi"
+  ],
+  "symbol": "sySOL",
+  "websites": [
+   "syde.fi"
+  ]
+ },
+ {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD",
   "symbol": "USD\u20ae"
