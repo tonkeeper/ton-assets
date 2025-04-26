@@ -5443,6 +5443,36 @@
   ]
  },
  {
+  "address": "0:3cf1d451534cf3fdb6144e43fed2caacab1999335f8a7e5d3f9eefb7438888c3",
+  "decimals": 9,
+  "description": "Liquidity pool token for Techno Bit and Tether USD on STON.fi DEX",
+  "image": "https://retrobit.one/cachedusdt.png",
+  "name": "TBIT-USD\u20ae LP",
+  "social": [
+   "https://t.me/hexminecoin",
+   "https://t.me/hex_mine_chat"
+  ],
+  "symbol": "TBIT-USD\u20ae LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQA88dRRU0zz_bYUTkP-0sqsqxmZM1-Kfl0_nu-3Q4iIw6ja"
+  ]
+ },
+ {
+  "address": "0:97463ff93f44f47a112c012f7f342751b6415e8e80f0605b6e84bc0248dc4fc6",
+  "decimals": 9,
+  "description": "Liquidity pool token for TBIT and Proxy TON on STON.fi DEX",
+  "image": "https://retrobit.one/cached.png",
+  "name": "TBIT-pTON LP",
+  "social": [
+   "https://t.me/hexminecoin",
+   "https://t.me/hex_mine_chat"
+  ],
+  "symbol": "TBIT-pTON LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQCXRj_5P0T0ehEsAS9_NCdRtkFejoDwYFtuhLwCSNxPxqAL"
+  ]
+ },
+ {
   "address": "0:24de707c47d17deeb3138bf42e3c99eec638c8758160c6f78f0e9d90954ea055",
   "description": "The Ultimate Gaming Token for Telegram Mini Apps",
   "image": "https://retrobit.one/newToken2.png",
