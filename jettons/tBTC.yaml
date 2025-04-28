@@ -1,0 +1,15 @@
+name: tBTC
+description: Coin for tgBTC game. Play at t.me/tBTCHash_bot/tbtc
+image: "https://webapp.tbtChash.com/logo.png"
+address: EQDs1VzgxCc-XEEPlj0gVOPY8A9MrXOIDzmrKjuChYXHll88
+symbol: tBTC
+decimals: 0
+websites:
+  - "https://t.me/tBTCHash_bot"
+social:
+  - "https://t.me/tBTCHash_bot/tbtc"
+  - "https://t.me/tBTCHashGroup"
+  - "https://t.me/tBTCHash"
+  - "https://t.me/tBTC_Support_EN"
+  - "https://x.com/tgBTCMiner"
+  - "https://x.com/tgBTCMiner"
