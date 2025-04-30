@@ -1,10 +1,10 @@
-name: FreeFlowToken
-description: FreeFlowToken
-image: "https://i.ibb.co/MDkNpb7W/Untitled-logo-2.jpg
-address: EQDDR8rcgWVOocE4h4ohqVkvFOvBHFZtN4YxDa6E5DckoNw5
-symbol: FreeFlow
-websites:
-- "https://FFT.io"
-social:
-- "https://t.me/fft"
-social
+"name": "FreeFlowToken"
+"description": "FFT"
+"address": "0:EQDDR8rcgWVOocE4h4ohqVkvFOvBHFZtN4YxDa6E5DckoNw5"
+"symbol": "FFT"
+"websites":
+  - "https://freeflow.ee"
+  - "https://app.fft.ee"
+"social":
+  - "https://t.me/fft"
+  - "https://twitter.com/fft"
