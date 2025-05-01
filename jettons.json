@@ -4820,6 +4820,24 @@
   "symbol": "SINOK"
  },
  {
+  "address": "0:92c731ba6f52dcd48fc958222414495cef153984084f33795bd885f299740268",
+  "description": "Sisu is a token for those who are not afraid to be themselves and help others",
+  "image": "https://static.tildacdn.com/tild3330-3932-4631-a639-333237666464/def3685a-e1b7-4ae3-9.png",
+  "name": "Sisu",
+  "social": [
+   "https://t.me/SisuDatuTon",
+   "https://www.tiktok.com/@sisu_ton",
+   "https://vk.com/sisuton",
+   "https://rutube.ru/channel/59231980/",
+   "https://www.instagram.com/sisu_ton/",
+   "https://x.com/SisuTon"
+  ],
+  "symbol": "SISU",
+  "websites": [
+   "http://sisuton.com"
+  ]
+ },
+ {
   "address": "0:0e365c05bf398a068b1bcc7bc704c06974732f20eefb2bb873e0d640ee4a8e99",
   "description": "Slopy (SLOPY) is a meme token with a dynamic royalty system for holders on ETH. Royalties are randomly awarded to holders during transactions.",
   "image": "https://slopy.io/200logoton.png",
