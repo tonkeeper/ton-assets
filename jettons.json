@@ -2149,6 +2149,21 @@
   "symbol": "LP TON-SLP (01-Jun-2025)"
  },
  {
+  "address": "0:6fb3c2954330b187b8329f78f9989e469e3312f190580c9712c48d3c6c623f9f",
+  "name": "SY USDe (01JUN2025)",
+  "symbol": "SY USDe"
+ },
+ {
+  "address": "0:2140fc56178fe1a66ae3618960512beb9b9bdbabef5902d68b65ba51a0756d58",
+  "name": "PT USDe (01JUN2025)",
+  "symbol": "PT USDe"
+ },
+ {
+  "address": "0:34079405e3a508660e1168db1ec434398bea6ed8c8a39504f05feee34ea1fe49",
+  "name": "YT USDe (01JUN2025)",
+  "symbol": "YT USDe"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
