@@ -156,8 +156,16 @@
   "name": "STON.fi Dex"
  },
  {
+  "address": "0:70a4118401bf8d823531a66011020565f02e05ff91ac5f1677769b00d6acd07a",
+  "name": "STON.fi Dex"
+ },
+ {
   "address": "0:bffadd270a738531da7b13ba8fc403826c2586173f9ede9c316fab53bc59ac86",
   "name": "TONCO"
+ },
+ {
+  "address": "0:9a9cb80adfbd1662f5108766d73355ac2c03304fda1d25a479670e34efcd72b3",
+  "name": "Marketapp Marketplace"
  },
  {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
@@ -857,6 +865,23 @@
   "require_memo": true
  },
  {
+  "address": "0:f069c060822b0443e87e1d6eb752223d9ad200fa54404f5ba95cf8a88b284290",
+  "name": "Merchant WebMoney",
+  "require_memo": true
+ },
+ {
+  "address": "0:3d2cb74e041df056045d3ba4bef650f938c553db86d1dab1f80bc9c238fe3ffe",
+  "image": "https://storage.yandexcloud.net/rpublic/logo.svg",
+  "name": "Rapira",
+  "require_memo": false
+ },
+ {
+  "address": "0:708545cef8fc0118022596a056044a61833e923613bf70fd1e25f033fefd8a3c",
+  "image": "https://storage.yandexcloud.net/rpublic/logo.svg",
+  "name": "Rapira",
+  "require_memo": false
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
@@ -1250,5 +1275,10 @@
   "address": "0:ef64bfe2a6518bef63a7d62a50747e8a73a10472b84227426935da3aebdf909e",
   "image": "https://totemancer.com/ton/tc.png",
   "name": "Totemancer"
+ },
+ {
+  "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
+  "image": "https://tonstakers.com/jetton/logo.svg",
+  "name": "Tonstakers master"
  }
 ]
