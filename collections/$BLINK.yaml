@@ -3,8 +3,8 @@ description: "Blink Genesis NFT is a limited collection of 3,333 unique NFTs, me
 image: "https://raw.githubusercontent.com/blinkgame/logo/refs/heads/main/Blink%20Logo.png"
 address: EQBO2MycLjGG1Wl5gqkfdU8bY15X6w-f1Jnblo6o8hm-YUVC
 websites:
-"https://blink.game/"
+- "https://blink.game/"
 social:
-"https://x.com/blinkgameapp"
-"https://discord.com/invite/blinkgameai"
-"https://t.me/blinkgameai_bot"
+- "https://x.com/blinkgameapp"
+- "https://discord.com/invite/blinkgameai"
+- "https://t.me/blinkgameai_bot"
