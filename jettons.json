@@ -1,20 +1,5 @@
 [
  {
-  "address": "0:2279a1cb24290dbb90bface611f9dcd0f8ab3c7b7a1e8c3a999904011a7b96a5",
-  "description": "Monetizing Attention Through Artificial Intelligence",
-  "image": "https://raw.githubusercontent.com/blinkgame/logo/refs/heads/main/Blink%20Logo.png",
-  "name": "Blink Game AI",
-  "social": [
-   "https://t.me/blinkgameai_bot",
-   "https://x.com/blinkgameapp",
-   "https://www.youtube.com/@blinkgameai"
-  ],
-  "symbol": "BLINK",
-  "websites": [
-   "https://blink.game"
-  ]
- },
- {
   "address": "0:a6115250e678edb4d4416b56eaa99b15ab959a1d89621bd054fdde413f506ed9",
   "description": "The most gypsy token on TON",
   "image": "https://i.ibb.co/dGCf511/IMG-1522.png",
@@ -734,6 +719,21 @@
   "symbol": "BLC",
   "websites": [
    "https://bulcoin.ton.run/"
+  ]
+ },
+ {
+  "address": "0:2279a1cb24290dbb90bface611f9dcd0f8ab3c7b7a1e8c3a999904011a7b96a5",
+  "description": "Monetizing Attention Through Artificial Intelligence",
+  "image": "https://raw.githubusercontent.com/blinkgame/logo/refs/heads/main/Blink%20Logo.png",
+  "name": "Blink Game AI",
+  "social": [
+   "https://t.me/blinkgameai_bot",
+   "https://x.com/blinkgameapp",
+   "https://www.youtube.com/@blinkgameai"
+  ],
+  "symbol": "BLINK",
+  "websites": [
+   "https://blink.game"
   ]
  },
  {
@@ -2147,6 +2147,21 @@
   "address": "0:e391e5ebdc89f63f01809935ce9d1ca19a633dd374ef5a788c9dedcede3c9724",
   "name": "LP TON-SLP (01-Jun-2025)",
   "symbol": "LP TON-SLP (01-Jun-2025)"
+ },
+ {
+  "address": "0:6fb3c2954330b187b8329f78f9989e469e3312f190580c9712c48d3c6c623f9f",
+  "name": "SY USDe (01JUN2025)",
+  "symbol": "SY USDe"
+ },
+ {
+  "address": "0:2140fc56178fe1a66ae3618960512beb9b9bdbabef5902d68b65ba51a0756d58",
+  "name": "PT USDe (01JUN2025)",
+  "symbol": "PT USDe"
+ },
+ {
+  "address": "0:34079405e3a508660e1168db1ec434398bea6ed8c8a39504f05feee34ea1fe49",
+  "name": "YT USDe (01JUN2025)",
+  "symbol": "YT USDe"
  },
  {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
@@ -4818,6 +4833,24 @@
    "https://t.me/+CKYw4N5qfo5lNTcy"
   ],
   "symbol": "SINOK"
+ },
+ {
+  "address": "0:92c731ba6f52dcd48fc958222414495cef153984084f33795bd885f299740268",
+  "description": "Sisu is a token for those who are not afraid to be themselves and help others",
+  "image": "https://static.tildacdn.com/tild3330-3932-4631-a639-333237666464/def3685a-e1b7-4ae3-9.png",
+  "name": "Sisu",
+  "social": [
+   "https://t.me/SisuDatuTon",
+   "https://www.tiktok.com/@sisu_ton",
+   "https://vk.com/sisuton",
+   "https://rutube.ru/channel/59231980/",
+   "https://www.instagram.com/sisu_ton/",
+   "https://x.com/SisuTon"
+  ],
+  "symbol": "SISU",
+  "websites": [
+   "http://sisuton.com"
+  ]
  },
  {
   "address": "0:0e365c05bf398a068b1bcc7bc704c06974732f20eefb2bb873e0d640ee4a8e99",
