@@ -1991,6 +1991,14 @@
   ]
  },
  {
+  "address": "0:d0e545323c7acb7102653c073377f7e3c67f122eb94d430a250739f109d4a57d",
+  "name": "Ethena tsUSDe",
+  "social": [
+   "https://x.com/ethena_labs"
+  ],
+  "symbol": "tsUSDe"
+ },
+ {
   "address": "0:3980dbc181e7cd275d70dc7b83d551cf36fb722ce51cd6895fe0a04b3e6c5e6d",
   "description": "Native ElefantMine game utility token.",
   "image": "https://prod.elefantmine.io/icons/dollar.svg",
