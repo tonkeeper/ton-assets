@@ -5164,6 +5164,20 @@
   ]
  },
  {
+  "address": "0:1eb1dab09817125217cc11b36ce49df2c490861190fef3696ef3c4364cbf6452",
+  "decimals": 9,
+  "description": "ShhhToshi is a memecoin on the Ton blockchain, inspired by Bitcoin creator Satoshi Nakamoto. The 'Shhh' represents the mysterious, quiet nature of Satoshi.",
+  "image": "https://imagizer.imageshack.com/img922/7830/6M8ip6.png",
+  "name": "ShhhToshi",
+  "social": [
+   "https://x.com/shhhtoshi",
+   "https://www.tiktok.com/@shhhtoshi",
+   "https://t.me/ShhhToshi",
+   "https://t.me/ShhhToshiChat"
+  ],
+  "symbol": "SHHHT"
+ },
+ {
   "address": "0:7d401aa78852348ce9b0dcf53abf5bf82d4dd28af9bdc8f5c30c1f507fb7174c",
   "description": "Simple Coin - \u0434\u0435\u0444\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0438 \u0440\u0435\u0432\u0430\u0440\u0434\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0432\u0441\u0435\u043e\u0431\u0449\u0443\u044e \u0434\u0435\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044e.",
   "image": "https://picloud.cc/i/1e10b5d94db28c436b301c88806a699e.png",
