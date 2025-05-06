@@ -11793,6 +11793,13 @@
   ]
  },
  {
+  "address": "0:52a3c955ead215091e88a2e35609a2fffd013386fbca107fe919e1d01cf14f2f",
+  "description": "A piece of Plush Pepe",
+  "image": "https://nft.fragment.com/collection/plushpepe.webp",
+  "name": "Pepe Shard",
+  "symbol": "wPepe"
+ },
+ {
   "address": "0:949c4c66760c002800e2fa3d8a3ca4e1c90a9373b53ae7472033483bf14cd95e",
   "decimals": 9,
   "description": "Proxy Ton Jetton for TONCO",
