@@ -248,6 +248,7 @@ Name           | Address
 [Energy Cells](https://tonviewer.com/0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a) | EQDA6v7olSvZCEr2yNhUlM4eBnRF11lsHLrtkkh7MSMICt4r
 [Engage ADS on Ton Open Network](https://tonviewer.com/0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896) | EQDE2iOVhvteBA8bCxywcmCOPVxJGltPhft8RYDTXiv4lmvM
 [Epidemy](https://tonviewer.com/0:bbcc4d8155c2e2c9b04cb90d6088e3d898ee098bcf09d76afb76ea8c2563ad17) | EQC7zE2BVcLiybBMuQ1giOPYmO4Ji88J12r7duqMJWOtFxtr
+[Ethena USDe](https://tonviewer.com/0:086fa2a675f74347b08dd4606a549b8fdb98829cb282bc1949d3b12fbaed9dcc) | EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f
 [FLOX](https://tonviewer.com/0:e0e59518a1b5db4240db28224a0e7a4077d04a85d23bb305497727d987f2d7be) | EQDg5ZUYobXbQkDbKCJKDnpAd9BKhdI7swVJdyfZh_LXvrfl
 [FLYKI Token](https://tonviewer.com/0:9efd7ad27e0e0c9cbdfeae8d5a900116c5d7c789731ddb8fd7813261ae2a027a) | EQCe_XrSfg4MnL3-ro1akAEWxdfHiXMd24_XgTJhrioCek9R
 [FPI Bank](https://tonviewer.com/0:f42a9711321fac28edb3e7ebce8e0bc58d34f9f2d3bed8d9afc6a839a1c15016) | EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz
@@ -331,10 +332,12 @@ Name           | Address
 [KING OF REFERRAL COIN](https://tonviewer.com/0:93b3a788f7f498a19d813d8d2e9e458dcbbb2518631afb029df92a0a64e3679f) | EQCTs6eI9_SYoZ2BPY0unkWNy7slGGMa-wKd-SoKZONnn9ge
 [KINGYTON](https://tonviewer.com/0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc) | EQC-tdRjjoYMz3MXKW4pj95bNZgvRyWwZ23Jix3ph7guvHxJ
 [KIRBY](https://tonviewer.com/0:5f5d17debad4cbfa6715243e2d41f4560b5007463f504490a589913feb69fff1) | EQBfXRfeutTL-mcVJD4tQfRWC1AHRj9QRJCliZE_62n_8WJj
+[KTON](https://tonviewer.com/0:6e2215cd36459ff405bd9a234635348efee159db77a37c85ab89e5e07b97fbdf) | EQBuIhXNNkWf9AW9miNGNTSO_uFZ23ejfIWrieXge5f733mw
 [Kaif](https://tonviewer.com/0:9bc8bb619440838e3abc2854470b3f54a771efefdd7b94fe00888f4a1aa71ca1) | EQCbyLthlECDjjq8KFRHCz9Up3Hv7917lP4AiI9KGqccoSFK
 [Kartoshka](https://tonviewer.com/0:5f97fa738bcb7f7d85c9132819a33f1c21dd6c7639cf4ec069bea8878e08174b) | EQBfl_pzi8t_fYXJEygZoz8cId1sdjnPTsBpvqiHjggXS3Ep
 [Kito](https://tonviewer.com/0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7) | EQCSLLVQ8qdhEqZUKaiKU7F6sVfnNPmQ4FsCpCo8olo795LP
 [Kote Coin](https://tonviewer.com/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
+[Krediton](https://tonviewer.com/0:c39640761e2bb3e4819a5ddba6413a8bdfefa96f1f087d942a40e1ebc4adbe29) | EQDDlkB2Hiuz5IGaXdumQTqL3--pbx8IfZQqQOHrxK2-KTON
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
 [LAMBO](https://tonviewer.com/0:c4d623eb3fcd0bd7b473907dd896e5ec11c9f98be6cf15fb9edb9f6e30a28513) | EQDE1iPrP80L17RzkH3YluXsEcn5i-bPFfue259uMKKFE3h0
 [LEMONIA](https://tonviewer.com/0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3) | EQC8cPrQx6Qsi-NHMcC1PpRmtaieCiUBcb-d095q6ENUs7XT
@@ -678,6 +681,7 @@ Name           | Address
 [Tektoniks](https://tonviewer.com/0:a1d37d53a6846d76bc71af4289521f209c49096d5de2370f502be75a1f4754f4) | EQCh031TpoRtdrxxr0KJUh8gnEkJbV3iNw9QK-daH0dU9HJV
 [TeleSwap](https://tonviewer.com/0:0660ad3c0da25a429999112cf7cbd82a8bbae6a68062c8a42bbbe7e2acec2a3f) | EQAGYK08DaJaQpmZESz3y9gqi7rmpoBiyKQru-firOwqPzR4
 [Telegram Monk](https://tonviewer.com/0:6292ec4e9cc914e173525464026e0e3a964e5df2fba1cc342d70338939c8da22) | EQBikuxOnMkU4XNSVGQCbg46lk5d8vuhzDQtcDOJOcjaIvkV
+[Telegram USD](https://tonviewer.com/0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50) | EQCJ7ASxOkI6Ws5Bh8J74XZbRX8861jFgTZT42DXv71-UISf
 [Telegram's Cat](https://tonviewer.com/0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e) | EQBwy-wJ-wCqh0mfJHoWjmulJ0oIRKEJJt75ULyrJNPcnn5z
 [Telegram's Dog](https://tonviewer.com/0:7025a07ee7511f7750ab689b244c0931d8d0d91dfef538d59494997e28818ece) | EQBwJaB-51Efd1CraJskTAkx2NDZHf71ONWUlJl-KIGOzs4b
 [Telegrem](https://tonviewer.com/0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14) | EQCXGFXKTp961E0nHDzu6geSdcvm0kiYIGKtiZ77tm9LFBZC
@@ -815,6 +819,7 @@ Name           | Address
 [swap.coffee](https://tonviewer.com/0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad) | EQCl0S4xvoeGeFGijTzicSA8j6GiiugmJW5zxQbZTUntre-1
 [teh upen netwerg](https://tonviewer.com/0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb) | EQBVLRoaw1F8VEBE_AG5K2BXaXki0nKPnvf70CAqGy6tu22X
 [tepe](https://tonviewer.com/0:cdd754d33d3c70ff148f26cff3cabcc84669782570e5a6902663326afbeb66a4) | EQDN11TTPTxw_xSPJs_zyrzIRml4JXDlppAmYzJq--tmpA6V
+[tsUSDe](https://tonviewer.com/0:d0e545323c7acb7102653c073377f7e3c67f122eb94d430a250739f109d4a57d) | EQDQ5UUyPHrLcQJlPAczd_fjxn8SLrlNQwolBznxCdSlfQwr
 [uTON](https://tonviewer.com/0:1f1798f724c2296652e6002bfb51bed11fb5a689532e5788af7203581ef367a8) | EQAfF5j3JMIpZlLmACv7Ub7RH7WmiVMuV4ivcgNYHvNnqHTz
 [woosh](https://tonviewer.com/0:c055e4f32616921d529f7912f2b4c990ea713c0b965173e932ffcd53850d8016) | EQDAVeTzJhaSHVKfeRLytMmQ6nE8C5ZRc-ky_81ThQ2AFmo9
 [xCryproMarket](https://tonviewer.com/0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602) | EQD7THgw9GZ7udZzjzwiBXMHEKSCHiElKEHjn_-lcXoGApel

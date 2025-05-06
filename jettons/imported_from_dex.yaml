@@ -568,6 +568,12 @@
 - address: 0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862
   name: MrKrabs
   symbol: KRABS
+- address: 0:c39640761e2bb3e4819a5ddba6413a8bdfefa96f1f087d942a40e1ebc4adbe29
+  name: Krediton
+  symbol: KRDT
+- address: 0:6e2215cd36459ff405bd9a234635348efee159db77a37c85ab89e5e07b97fbdf
+  name: KTON
+  symbol: KTON
 - address: 0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9
   name: LADY
   symbol: LADY
@@ -1316,6 +1322,9 @@
 - address: 0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024
   name: Us Usach
   symbol: USACH
+- address: 0:086fa2a675f74347b08dd4606a549b8fdb98829cb282bc1949d3b12fbaed9dcc
+  name: Ethena USDe
+  symbol: USDe
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
@@ -1475,6 +1484,12 @@
 - address: 0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892
   name: Staked TON
   symbol: stTON
+- address: 0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50
+  name: Telegram USD
+  symbol: tgUSD
+- address: 0:d0e545323c7acb7102653c073377f7e3c67f122eb94d430a250739f109d4a57d
+  name: tsUSDe
+  symbol: tsUSDe
 - address: 0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb
   name: teh upen netwerg
   symbol: tun
