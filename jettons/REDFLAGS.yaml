@@ -4,6 +4,8 @@ image: "https://cdn.blum.codes/d23fc0d7-0b03-4786-8a14-d0ce19580528/5ba892fd-ce6
 address: 0:e70c672f3933524fca325cf511186aeeda391711cb6c1555e9fe7039a1a347f8
 symbol: RF
 decimals: 9
+website:
+  - "https://redflags.wtf/"
 social:
   - "https://t.me/redflags_token"
 
