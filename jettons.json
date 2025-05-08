@@ -3224,6 +3224,21 @@
   ]
  },
  {
+  "address": "0:d343033200daf5ab5a30f857e86062fe3b5d8bae9a87c67d7a936d46f4344445",
+  "decimals": 9,
+  "description": "Liquidity pool token for TBCC COIN and Proxy TON on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:d343033200daf5ab5a30f857e86062fe3b5d8bae9a87c67d7a936d46f4344445.png",
+  "name": "LP Token for $TBCC-TON",
+  "social": [
+   "https://t.me/tbcc_coin",
+   "https://x.com/tbcc_coin"
+  ],
+  "symbol": "$TBCC-TON LP",
+  "websites": [
+   "https://ston.fi/"
+  ]
+ },
+ {
   "address": "0:d30bc8eaf594982f618540bec24633ceff995b6bcd2b667908d09cda95c1305e",
   "decimals": 0,
   "description": "SquidTG Egg Token (Legacy)",
@@ -3625,6 +3640,20 @@
   "symbol": "MNDRN",
   "websites": [
    "https://mndrn.xyz"
+  ]
+ },
+ {
+  "address": "0:ea4ad0a480c21a4f4382579786862412f493ddd5342268c153827280054c11b3",
+  "description": "MonopolyCoin (MNPL) is a universal in-game currency used for travel and purchases in the Telegram game @MNPLGAMEBOT. Play, explore, make deals, and build your empire with MNPL!",
+  "image": "https://mnpl.space/static/image/mnpl.png",
+  "name": "Monopoly\u0441oin",
+  "social": [
+   "https://x.com/mnplcoin",
+   "https://t.me/mnplcoin"
+  ],
+  "symbol": "MNPL",
+  "websites": [
+   "https://mnpl.space"
   ]
  },
  {
@@ -6698,7 +6727,6 @@
  {
   "address": "0:92c4664f1ea6b74ed9ce0e031a9fc0843348dfe87a58faea27fcd31e1608caaa",
   "description": "TON liquid staking token by bemo",
-  "image": "https://storage.cloud.google.com/milkcreek/tokens/bmTON.svg",
   "name": "Bemo",
   "social": [
    "https://t.me/bemofinance",
@@ -7798,6 +7826,11 @@
   "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
   "name": "MrKrabs",
   "symbol": "KRABS"
+ },
+ {
+  "address": "0:c39640761e2bb3e4819a5ddba6413a8bdfefa96f1f087d942a40e1ebc4adbe29",
+  "name": "Krediton",
+  "symbol": "KRDT"
  },
  {
   "address": "0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9",
@@ -9258,6 +9291,11 @@
   "address": "0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892",
   "name": "Staked TON",
   "symbol": "stTON"
+ },
+ {
+  "address": "0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50",
+  "name": "Telegram USD",
+  "symbol": "tgUSD"
  },
  {
   "address": "0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb",
@@ -11752,6 +11790,13 @@
   "websites": [
    "https://utonic.org"
   ]
+ },
+ {
+  "address": "0:52a3c955ead215091e88a2e35609a2fffd013386fbca107fe919e1d01cf14f2f",
+  "description": "A piece of Plush Pepe",
+  "image": "https://nft.fragment.com/collection/plushpepe.webp",
+  "name": "Pepe Shard",
+  "symbol": "wPepe"
  },
  {
   "address": "0:949c4c66760c002800e2fa3d8a3ca4e1c90a9373b53ae7472033483bf14cd95e",
