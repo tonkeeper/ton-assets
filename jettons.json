@@ -1961,6 +1961,20 @@
   "symbol": "ENRG"
  },
  {
+  "address": "0:217747bd98ebe447f894b6b9f40d793c85e8006624be8ed0771ed07aa6198917",
+  "description": "Players earn rewards by completing missions and activities. The token's design symbolizes high-tech innovation and futuristic elements.",
+  "image": "https://apricot-philosophical-bat-862.mypinata.cloud/ipfs/QmYexd6iP5RZkhm4PKUaiLANj7RhNLB7kMnBGhh8csLWFp",
+  "name": "Era of Explorers Token",
+  "social": [
+   "https://t.me/EraOfExplorers",
+   "https://x.com/eraofexplorers?s=21"
+  ],
+  "symbol": "EOET",
+  "websites": [
+   "https://theexplorergames.com"
+  ]
+ },
+ {
   "address": "0:9d6fc86f3030d972aa4f187f9c0a3de232ea26f4fe7b98ccab7681cd3725c733",
   "description": "The governance token of the EvoSim Game ecosystem",
   "image": "https://towers.evosimgame.com/media/token.png",
