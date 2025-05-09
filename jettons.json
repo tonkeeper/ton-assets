@@ -5516,6 +5516,16 @@
   ]
  },
  {
+  "address": "0:0f5bdf1fdc6ed36f88861cfd5fadc28aa2cc8f852c1e81cb09fd3a11fb3c1caa",
+  "description": "TANOS is a deflationary token with increased utility. The commission for each transaction is 25% The TANOS token has withdrawn from the Tower project and is ready to show the power of the community to divide its opponents into two.",
+  "image": "https://raw.githubusercontent.com/BubbleMind/ImagesMPAK/refs/heads/main/photo_2025-05-05_23-56-51.webp",
+  "name": "TANOS",
+  "social": [
+   "https://t.me/TowerChatRU"
+  ],
+  "symbol": "TANOS"
+ },
+ {
   "address": "0:f7af5a0255c6ab5d5ef210dc3a3d00b663b61ddbd7a7cac784225011442e3e1e",
   "image": "https://tapswap.club/ton/logo-256.png",
   "name": "TapSwapToken",
