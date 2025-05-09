@@ -1,8 +1,14 @@
 [
  {
+  "address":EQCdviGJaNFUKfYQzH4Bg6IfVKpNdGlBft3MZyE_OS5CCorx,
+  "name": "Capibara Coin (CAPC)"
+ },
+[
+
+ {
   "address": "0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
   "name": "CAT Services"
- },
+ },EQCdviGJaNFUKfYQzH4Bg6IfVKpNdGlBft3MZyE_OS5CCorx
  {
   "address": "0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8",
   "name": "TON Foundation (OLD)"
