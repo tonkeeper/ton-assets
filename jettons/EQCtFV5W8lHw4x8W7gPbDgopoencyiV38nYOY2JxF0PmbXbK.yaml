@@ -1,0 +1,8 @@
+# DecentralAI (DCAI)
+address: "EQCtFV5W8lHw4x8W7gPbDgopoencyiV38nYOY2JxF0PmbXbK"
+name: "DecentralAI"
+symbol: "DCAI"
+decimals: 9
+image: "https://raw.githubusercontent.com/decode54/DecentralAI/refs/heads/main/logos/logo3d.png"
+social: ['https://t.me/DecentralAIBot']
+description: "Decentralized AI infrastructure for developers, AI agents and crypto banking on TON."
