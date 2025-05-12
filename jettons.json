@@ -6071,6 +6071,20 @@
   "symbol": "TYIELD"
  },
  {
+  "address": "0:1beb8ce4be183a6e2173aa4b86117c3f708db3e18d4c9a5244d36eb7a42ba3e6",
+  "description": "TylerCoin - the coin is named after the main character of the movie \"Fight Club\". \u201cPeople are slaves to their things. What you have eventually has you and becomes your master\u201d",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqab64zkvhg6bifzqkugexw_ci2z4y1mmlje0263pcuj5nu_.png",
+  "name": "TYLERCOIN",
+  "social": [
+   "t.me/TylerCOIN1",
+   "https://x.com/tylercoin1"
+  ],
+  "symbol": "TYLER",
+  "websites": [
+   "https://tylercoin.net/"
+  ]
+ },
+ {
   "address": "0:ad7e1ca61254be4aa97d52e23766f3a619b2b54fca6c150ca1d81746022ae6a8",
   "description": "Maybe this worthless token will grow into something really big...",
   "image": "https://tapok.space/logo.jpg",
