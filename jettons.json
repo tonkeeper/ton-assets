@@ -1961,6 +1961,20 @@
   "symbol": "ENRG"
  },
  {
+  "address": "0:217747bd98ebe447f894b6b9f40d793c85e8006624be8ed0771ed07aa6198917",
+  "description": "Players earn rewards by completing missions and activities. The token's design symbolizes high-tech innovation and futuristic elements.",
+  "image": "https://apricot-philosophical-bat-862.mypinata.cloud/ipfs/QmYexd6iP5RZkhm4PKUaiLANj7RhNLB7kMnBGhh8csLWFp",
+  "name": "Era of Explorers Token",
+  "social": [
+   "https://t.me/EraOfExplorers",
+   "https://x.com/eraofexplorers?s=21"
+  ],
+  "symbol": "EOET",
+  "websites": [
+   "https://theexplorergames.com"
+  ]
+ },
+ {
   "address": "0:9d6fc86f3030d972aa4f187f9c0a3de232ea26f4fe7b98ccab7681cd3725c733",
   "description": "The governance token of the EvoSim Game ecosystem",
   "image": "https://towers.evosimgame.com/media/token.png",
@@ -5435,6 +5449,17 @@
   ]
  },
  {
+  "address": "0:d3451746b5e3c5494e66c687cdcab5c8582f712714d4e975c414c25eaef774c4",
+  "description": "\u0428\u0443\u0442\u043e\u0447\u043d\u044b\u0439, \u043d\u043e \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u043a\u043e\u0438\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0440\u0435\u0448\u0438\u0442 \u0412\u0430\u0448\u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b, \u0430 \u043c\u043e\u0436\u0435\u0442 \u0438 \u043d\u0435 \u0440\u0435\u0448\u0438\u0442.",
+  "image": "https://cdn.blum.codes/65783468-9e85-448b-8e89-79eed1943499/37505015-5c3a-40bc-bf08-f124eb2ffcaf",
+  "name": "Shlyap Coin",
+  "social": [
+   "https://t.me/shlyapchannel",
+   "https://t.me/shlyapcoin"
+  ],
+  "symbol": "SHLP"
+ },
+ {
   "address": "0:7d401aa78852348ce9b0dcf53abf5bf82d4dd28af9bdc8f5c30c1f507fb7174c",
   "description": "Simple Coin - \u0434\u0435\u0444\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0438 \u0440\u0435\u0432\u0430\u0440\u0434\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0432\u0441\u0435\u043e\u0431\u0449\u0443\u044e \u0434\u0435\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044e.",
   "image": "https://picloud.cc/i/1e10b5d94db28c436b301c88806a699e.png",
@@ -5500,6 +5525,16 @@
   "websites": [
    "https://ta-da.io"
   ]
+ },
+ {
+  "address": "0:0f5bdf1fdc6ed36f88861cfd5fadc28aa2cc8f852c1e81cb09fd3a11fb3c1caa",
+  "description": "TANOS is a deflationary token with increased utility. The commission for each transaction is 25% The TANOS token has withdrawn from the Tower project and is ready to show the power of the community to divide its opponents into two.",
+  "image": "https://raw.githubusercontent.com/BubbleMind/ImagesMPAK/refs/heads/main/photo_2025-05-05_23-56-51.webp",
+  "name": "TANOS",
+  "social": [
+   "https://t.me/TowerChatRU"
+  ],
+  "symbol": "TANOS"
  },
  {
   "address": "0:f7af5a0255c6ab5d5ef210dc3a3d00b663b61ddbd7a7cac784225011442e3e1e",
@@ -6355,6 +6390,20 @@
    "https://x.com/CryptoBakalchuk"
   ],
   "symbol": "WB"
+ },
+ {
+  "address": "0:78532b87ec99f6227a0010e9cf59f5aae07e083f229347dfea6fe38c0599278b",
+  "description": "$WCOIN is the community-driven token powering the W-Coin app - used for rewards, tasks, staking, and future utilities.",
+  "name": "W-Coin",
+  "social": [
+   "https://t.me/w_community",
+   "https://x.com/wcoin_io"
+  ],
+  "symbol": "WCOIN",
+  "websites": [
+   "https://w-coin.io",
+   "https://app.w-coin.io"
+  ]
  },
  {
   "address": "0:4f37dafaa3cc3b93882c5cf73cbe67cc574c5d612756fbbda08b7f0285dfea2b",
@@ -9293,11 +9342,6 @@
   "symbol": "stTON"
  },
  {
-  "address": "0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50",
-  "name": "Telegram USD",
-  "symbol": "tgUSD"
- },
- {
   "address": "0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb",
   "name": "teh upen netwerg",
   "symbol": "tun"
@@ -11663,6 +11707,20 @@
   ]
  },
  {
+  "address": "0:b639d4884720e87c18ca62d47e64df9793778737d804ba363b75ea0735105d67",
+  "description": "A yield-bearing token earned by staking tgUSD",
+  "name": "Staked Telegram USD",
+  "social": [
+   "https://t.me/torch_ton",
+   "https://x.com/TorchTon"
+  ],
+  "symbol": "stgUSD",
+  "websites": [
+   "https://t.me/tgusd_official_bot/app",
+   "https://torch.finance"
+  ]
+ },
+ {
   "address": "0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea",
   "description": "TON locked in liquidity in Storm Trade (storm.tg)",
   "image": "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/ton-slp-logo.png",
@@ -11742,6 +11800,20 @@
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD",
   "symbol": "USD\u20ae"
+ },
+ {
+  "address": "0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50",
+  "description": "tgUSD is a blue-chip-backed stablecoin for Telegram users, designed for cross-chain yield with simple minting and effortless earning.",
+  "name": "Telegram USD",
+  "social": [
+   "https://t.me/torch_ton",
+   "https://x.com/TorchTon"
+  ],
+  "symbol": "tgUSD",
+  "websites": [
+   "https://t.me/tgusd_official_bot/app",
+   "https://torch.finance"
+  ]
  },
  {
   "address": "0:6292ec4e9cc914e173525464026e0e3a964e5df2fba1cc342d70338939c8da22",

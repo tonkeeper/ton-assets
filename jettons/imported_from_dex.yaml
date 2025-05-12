@@ -1430,9 +1430,6 @@
 - address: 0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892
   name: Staked TON
   symbol: stTON
-- address: 0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50
-  name: Telegram USD
-  symbol: tgUSD
 - address: 0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb
   name: teh upen netwerg
   symbol: tun

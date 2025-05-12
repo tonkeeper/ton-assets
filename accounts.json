@@ -882,6 +882,15 @@
   "require_memo": false
  },
  {
+  "address": "0:659dbf460831a72795c4a9a9872fb4a3e7fd302783068dae53e8f2a5c150084a",
+  "name": "Flipster Deposit",
+  "require_memo": true
+ },
+ {
+  "address": "0:d0a6eb95408e95ce97b0ca597fc523ff4809523635e8f519e00fdcbdf42f0c54",
+  "name": "Flipster Withdrawal"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
