@@ -6392,6 +6392,20 @@
   "symbol": "WB"
  },
  {
+  "address": "0:78532b87ec99f6227a0010e9cf59f5aae07e083f229347dfea6fe38c0599278b",
+  "description": "$WCOIN is the community-driven token powering the W-Coin app - used for rewards, tasks, staking, and future utilities.",
+  "name": "W-Coin",
+  "social": [
+   "https://t.me/w_community",
+   "https://x.com/wcoin_io"
+  ],
+  "symbol": "WCOIN",
+  "websites": [
+   "https://w-coin.io",
+   "https://app.w-coin.io"
+  ]
+ },
+ {
   "address": "0:4f37dafaa3cc3b93882c5cf73cbe67cc574c5d612756fbbda08b7f0285dfea2b",
   "description": "A fresh Web3 experience bridging digital and real-world innovation. The utility token of Weedleton Federation P2E game, powered by the unique tap2puff mechanic.",
   "image": "https://raw.githubusercontent.com/welaskez/weedleton_bot/refs/heads/main/token_logo.png",
