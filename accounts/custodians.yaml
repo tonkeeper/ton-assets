@@ -353,3 +353,23 @@
   name: "Wallet in Telegram"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAeuGnYTvbX-IaCvMIsZYgV6TN1ECAAhTUZJ7F0YTjjdBYx"
+  name: "TEC Pay"
+  require_memo: true
+  image: "https://cdn.tonexpert.club/logo_solid.svg"
+- address: "UQDwacBggisEQ-h-HW63UiI9mtIA-lRAT1upXPioiyhCkNdf"
+  name: "Merchant WebMoney"
+  require_memo: true
+- address: "UQA9LLdOBB3wVgRdO6S-9lD5OMVT24bR2rH4C8nCOP4__rPr"
+  name: "Rapira"
+  require_memo: false
+  image: "https://storage.yandexcloud.net/rpublic/logo.svg"
+- address: "UQBwhUXO-PwBGAIllqBWBEphgz6SNhO_cP0eJfAz_v2KPEyB"
+  name: "Rapira"
+  require_memo: false
+  image: "https://storage.yandexcloud.net/rpublic/logo.svg"
+- address: "EQBlnb9GCDGnJ5XEqamHL7Sj5_0wJ4MGja5T6PKlwVAISgrW"
+  name: "Flipster Deposit"
+  require_memo: true
+- address: "EQDQpuuVQI6Vzpewyll_xSP_SAlSNjXo9RngD9y99C8MVJri"
+  name: "Flipster Withdrawal"
