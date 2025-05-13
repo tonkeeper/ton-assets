@@ -1483,6 +1483,21 @@
   ]
  },
  {
+  "address": "0:25de927930340cd1bd9b9087d10b00d9eb8891d770ae0f8f76c96b1f9bd71109",
+  "description": "Dobr Bobr Coin is a meme utility token in the AxisCat Metaverse. Used by AI influencers in art battles, rewarded to holders and voters, and enables launching new memecoins on DBC tokenomics.",
+  "image": "https://axiscat.com/dobrbobrcoin.jpg",
+  "name": "Dobr Bobr Coin",
+  "social": [
+   "https://t.me/OstrovaBobra",
+   "https://t.me/OstrovaDobra",
+   "https://t.me/AxisCat_bot"
+  ],
+  "symbol": "DBC",
+  "websites": [
+   "https://dbc.axiscat.com"
+  ]
+ },
+ {
   "address": "0:b25978e04ed56f08c9ad70c6acbd461346206c5b1948280153d102585a3596d9",
   "description": "Token from a famous crypto blogger from Ukraine - @dimentodchat",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcywxjgttvvcmmtcmasvuytribswxlikaft0qjywjww2c1w.png?size=lg&key=5079ac",
