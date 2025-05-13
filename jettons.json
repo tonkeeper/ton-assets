@@ -11884,6 +11884,21 @@
   ]
  },
  {
+  "address": "0:27a28fbed4e2e60e4d4d51d4d7d8da2425bc1dc6b4b847594693d15175408e62",
+  "description": "TONY is a fun, Stark-inspired memecoin built on the TON blockchain. Join the community and be a part of the journey",
+  "image": "https://raw.githubusercontent.com/pulkras/tony-token/refs/heads/main/logo.jpg",
+  "name": "Tony Stark Invest",
+  "social": [
+   "https://instagram.com/tonymemecoin",
+   "https://t.me/stark_invest",
+   "https://t.me/tonymemecoin"
+  ],
+  "symbol": "TONY",
+  "websites": [
+   "https://tonycoin.io/"
+  ]
+ },
+ {
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
