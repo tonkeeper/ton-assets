@@ -1,7 +1,8 @@
-{
-  "name": "ADGO",
-  "symbol": "ADGO",
-  "description": "ADGO is a fungible token deployed on the TON blockchain with a total supply of 100,000,000 tokens.",
-  "decimals": 6,
-  "image": "logo.png"
-}
+name: "AdTON1c"
+description: " AdTON1c develops and implements digital advertising solutions with the integration of blockchain technologies. We provide advertisers with effective promotion tools, and users with convenient ways to interact with advertising and pay for services."
+image: "https://i.ibb.co/tPXjG5PR/IMG-4268.jpg"
+address: "EQAQAp6bk4UacBXD50SSBQ8umeY5tid-YPE-zjBxeuQGdnjr"
+symbol: "ADGO"
+social:
+  - "https://t.me/AdTonic"
+  - "https://x.com/ad_ton1c?s=11"
