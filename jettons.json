@@ -11931,6 +11931,13 @@
   ]
  },
  {
+  "address": "0:bb37e63db4e1bfe55ea1ec1e30e762cde58f362a6c7741b9f77c06b5a6c20d2c",
+  "description": "A piece of Toy Bear",
+  "image": "https://nft.fragment.com/collection/toybear.webp",
+  "name": "Toy Bear Shard",
+  "symbol": "wBEAR"
+ },
+ {
   "address": "0:52a3c955ead215091e88a2e35609a2fffd013386fbca107fe919e1d01cf14f2f",
   "description": "A piece of Plush Pepe",
   "image": "https://nft.fragment.com/collection/plushpepe.webp",
