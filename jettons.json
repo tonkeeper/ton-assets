@@ -9530,6 +9530,20 @@
   ]
  },
  {
+  "address": "0:459c2feb76f80f74a635277231e9670612c690330fa85b61174b616b7d68c8d1",
+  "decimals": 9,
+  "description": "jamTON is a token that represents TON staked in JAMTON liquid staking protocol.",
+  "image": "https://raw.githubusercontent.com/jamton-network/jamton-assets/master/tokens/jamton.svg",
+  "name": "JAMTON Staked TON",
+  "social": [
+   "https://x.com/JamtonNetwork"
+  ],
+  "symbol": "jamTON",
+  "websites": [
+   "https://jamton.network"
+  ]
+ },
+ {
   "address": "0:87c3aa472d4e8d033acd6667c3f6f3217102bd83d426a3733c9b5b6abea74642",
   "description": "These jettons confirm ownership of JVault Token staked on JVault.xyz.\nStaking pool link: https://jvaul.xyz/staking/v2/stake/JVT",
   "image": "https://jvault.xyz/media/staking_v2/images/mainnet_JVT.webp",
