@@ -859,6 +859,54 @@
   "require_memo": true
  },
  {
+  "address": "0:6db0f022632b6269f0d4dbf8ea60a8448bbc2bcfc6812e31af8cc6405c268af7",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:dd6ff02c59634745529b99a8d5beeea9f6c38a9188e6a7e96a424e3820c8ac0a",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:023895aef955024920a291c6f3715e291df1b3dd254eafa8b09e21a2d58d5897",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:f5066318091a8cfb530ec732104ce38f7783d92a6679ffcc0ce0960b0e94c7d0",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:0c5684355f5410a923fb7dd59314905dc7ff157b28c9130671c7a4f17007e898",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:23fe558cdf44249381aef36472e64a5072a24ba97fb61b2f5791da6013aec92d",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:b7be71ac1b40e436db36721d9c20e82d44e78fc1e86a8ad15e00b1cc16831dcf",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:55b7223f04dd1f2e1b3f28e4ad628fe6cab60004f280fb0a58cd27fc590b2eac",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
   "address": "0:1eb869d84ef6d7f88682bcc22c658815e9337510200085351927b1746138e374",
   "image": "https://cdn.tonexpert.club/logo_solid.svg",
   "name": "TEC Pay",
