@@ -550,6 +550,9 @@
 - address: 0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862
   name: MrKrabs
   symbol: KRABS
+- address: 0:c39640761e2bb3e4819a5ddba6413a8bdfefa96f1f087d942a40e1ebc4adbe29
+  name: Krediton
+  symbol: KRDT
 - address: 0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9
   name: LADY
   symbol: LADY
