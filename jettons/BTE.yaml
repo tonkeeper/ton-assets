@@ -5,9 +5,10 @@ decimals: 9
 image: "https://bytetherexchange.com/static/BTE.png"
 websites:
   - "https://bytetherexchange.com/bte"
-description: "BTE is a token of BTExchange..."
+  - "https://t.me/btexchange_webappbot"
+description: "BTE is a token of BTExchange which is used for the exchange between usdt and other fiat currencies based on Ton chain"
 socials:
   - "https://t.me/Btexchangerengbot"
-  - "https://www.instagram.com/btechanger"
+  - "https://www.instagram.com/btexchanger"
   - "https://x.com/btexchange1"
   - "https://t.me/bytetherexchange_chat"
