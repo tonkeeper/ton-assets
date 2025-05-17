@@ -1,0 +1,10 @@
+name: CASA
+symbol: CASA
+description: Token for CASA project
+image: https://casafond.org/logo.png
+decimals: 9
+social:
+  - type: website
+    url: https://casafond.org
+  - type: telegram
+    url: https://t.me/invoice07
