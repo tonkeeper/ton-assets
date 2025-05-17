@@ -4,7 +4,7 @@ address: "0:95eb98b484c93ecec88e83ad6882677b067fabc7394501b638a920f777fbc384"
 decimals: 9
 image: "https://bytetherexchange.com/static/BTE.png"
 websites:
-  - "https://bytetherexchange.com/bte"
+  - "https://bytetherexchange.com"
   - "https://t.me/btexchange_webappbot"
 description: "BTE is a token of BTExchange which is used for the exchange between usdt and other fiat currencies based on Ton chain"
 socials:
