@@ -130,6 +130,8 @@ def merge_collections():
 
 
 def main():
+    if len([x for x in glob.glob("*.yaml")]) > 0:
+        raise Exception("please don't add yaml files to root directory. use jettons/ or collections/")
     collect_all_dexes()
     jettons = merge_jettons()
     collections = merge_collections()
@@ -139,7 +141,7 @@ def main():
     accounts_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_ACCOUNTS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in accounts])
     collections_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_COLLECTIONS,  normalize_address(j[1], True), normalize_address(j[1], False)) for j in collections])
 
-    open('README.md', 'w').write(open("readme.md.template").read() % (accounts_md, collections_md, jettons_md))
+    open('README.md', 'w').write(open("readme.md.template").read() % (accounts_md, collections_md))
 
 
 def normalize_address(a, to_raw):
