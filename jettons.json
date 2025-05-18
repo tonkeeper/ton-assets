@@ -6064,6 +6064,18 @@
   ]
  },
  {
+  "address": "0:9f8f35fc8e00adcb1690125a652ece6024fca374c270bb04cf764088e86dca63",
+  "decimals": 9,
+  "description": "$TOTO \u2013 CTO Token on TON",
+  "image": "https://cdn.blum.codes/27a33a50-fac3-4d52-af9e-a23a20e782ab/e4ecf407-d0c1-40a9-af00-d2cf93161098",
+  "name": "TOTO",
+  "social": [
+   "https://t.me/ton_tototo",
+   "https://t.me/+hA5XsShcXJVkNDE6"
+  ],
+  "symbol": "TOTO"
+ },
+ {
   "address": "0:fba5072bd70d1df8c3182c5bc972deacdf69a7d15263cb5e3d0c0d9cffaa7372",
   "description": "Tropicana is a successful crypto woman who enjoys wakeboarding and living her best life off the coast of the Persian Gulf",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqd7pqcr1w0d-mmylfvjct6s32mn0vjjy149da2c_6pzcmjn.png?size=lg&key=6abb8b",
@@ -6551,6 +6563,22 @@
   "address": "0:d0a1ce4cdc187c79615ea618bd6c29617af7a56d966f5a192a768f345ee63fd2",
   "name": "WTON",
   "symbol": "WTON"
+ },
+ {
+  "address": "0:a7f8df0ef2ba0e11796a94ada2a70bb3b6fc381e7d7eed489e7fa2db7b2eb1c4",
+  "coingecko": "https://coingecko.com/en/coins/gavun-wud",
+  "decimals": 10,
+  "description": "GAVUN WUD is a community-driven Polkadot memecoin inspired by Dr. Gavin Wood, co-founder of Ethereum and Polkadot. It aims to unite Web3 enthusiasts and onboard new users into the Polkadot ecosystem through engaging meme art, NFTs, and gaming experiences.",
+  "image": "https://raw.githubusercontent.com/jamton-network/jamton-assets/master/tokens/wud.png",
+  "name": "GAVUN WUD",
+  "social": [
+   "https://t.me/gavunwud",
+   "https://x.com/gavunwud"
+  ],
+  "symbol": "WUD",
+  "websites": [
+   "https://gavunwud.xyz"
+  ]
  },
  {
   "address": "0:813d37e084bfbf2ac9a70122c548031529363c95ea69daa6f9adae25e17b01c1",
@@ -9515,6 +9543,20 @@
   "symbol": "jMVL",
   "websites": [
    "https://mvlchain.io"
+  ]
+ },
+ {
+  "address": "0:459c2feb76f80f74a635277231e9670612c690330fa85b61174b616b7d68c8d1",
+  "decimals": 9,
+  "description": "jamTON is a token that represents TON staked in JAMTON liquid staking protocol.",
+  "image": "https://raw.githubusercontent.com/jamton-network/jamton-assets/master/tokens/jamton.svg",
+  "name": "JAMTON Staked TON",
+  "social": [
+   "https://x.com/JamtonNetwork"
+  ],
+  "symbol": "jamTON",
+  "websites": [
+   "https://jamton.network"
   ]
  },
  {
