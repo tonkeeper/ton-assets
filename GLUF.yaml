@@ -1,0 +1,14 @@
+{
+  "name": "Persian Gluf",
+  "symbol": "GLUF",
+  "decimals": 9,
+  "address": "EQBn4X2fLPeDvjVCqTMJHx8e68BZQ9_mRJbfvyUnMlhX-OFN",
+  "description": "Persian Gluf Token ($GLUF) is a community-driven meme coin on the TON blockchain, celebrating the meme energy of the Persian Gulf. 500M LP tokens and 2.5B team tokens are fully locked to ensure trust and long-term commitment.",
+  "image": "https://freeimage.host/i/3GCfCtS",
+  "website": "https://x.com/PersiaGlufToken",
+  "links": {
+    "twitter": "https://x.com/PersiaGlufToken",
+    "liquidity_lock": "https://tonraffles.app/lock/EQCQP-UjI8OqnH9d3GyaJ_tWD3W1D3X3puTW3bXK0VA4iTRm",
+    "team_vesting_lock": "https://tonraffles.app/lock/EQBn4X2fLPeDvjVCqTMJHx8e68BZQ9_mRJbfvyUnMlhX-OFN"
+  }
+}
