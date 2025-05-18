@@ -2703,6 +2703,23 @@
   ]
  },
  {
+  "address": "0:8dd9d92f6a8b158e96bd5e8cf3374c26d4c05c23619337bd425af47322c487ec",
+  "description": "Headcoin is a token for the multiplayer mobile game Head Battle and for our NFT marketplace for games. And also for the Headcoin mini app in Telegram.",
+  "image": "https://headgun.org/headcoin/logoheadcoin.png",
+  "name": "Headcoin",
+  "social": [
+   "https://t.me/head_coin",
+   "https://x.com/head_battlee",
+   "https://www.instagram.com/headbattlee/"
+  ],
+  "symbol": "HDCN",
+  "websites": [
+   "https://t.me/head_coin_bot/start",
+   "https://headgun.org/",
+   "https://t.me/gaming_nft_marketplace_bot/start"
+  ]
+ },
+ {
   "address": "0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710",
   "description": "The spirit of wall-street hedgehogs on a legendary blockchain",
   "name": "HEDGE coin",
