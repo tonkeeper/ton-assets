@@ -1,11 +1,13 @@
 name: BaTON Token
 description: $BaTON is a token created by the people, for the people. A community-driven meme token that empowers everyone, fueling a movement where every holder plays a part in its journey.
-image: "https://i.ibb.co/ycNW2Y2h/1-2.png"
-address: "EQAIkWBSZr05qGnMXvtx_nI4vjlGS_yB-41fs_HTGkpJyTFr"
+image: "https://i.ibb.co/1tGQFFTn/image.png"
+address: "EQAmSIzSbJVuhzNsncJ0Hadx5nKupeWQB20IM6KHsX2jL1aq"
 symbol: BTN
 websites:
   - "https://baton-token.com"
 social:
+  - "https://t.me/baton_gifts"
+  - "https://t.me/BatonGiftsBot"
   - "https://t.me/tokenBaTON_bot"
   - "https://t.me/baTON_token"
   - "https://t.me/anon_tokens"
