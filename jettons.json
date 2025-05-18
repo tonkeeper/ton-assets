@@ -2251,6 +2251,17 @@
   ]
  },
  {
+  "address": "0:3afadfcdac2ffc539c075ad06e79eff9b5dad206171262c0f6fdbd3b4f62361c",
+  "description": "FOREVO is the community token of the progressive ForEvo movement, focused on financial prosperity, innovative technologies, and radical life extension. It was created to promote the ideas of Forevoism. Soon, FOREVO will gain utility features like access to a private club and the ability to pay for exclusive products in our ecosystem.",
+  "image": "https://ipfs.io/ipfs/QmYMDpYxxYRPFUBBxZZwcu9UtUWRKNWbJFuTuYGdEqaorj",
+  "name": "Forevoism",
+  "social": [
+   "https://t.me/forevochat",
+   "https://t.me/alex_dexman"
+  ],
+  "symbol": "FOREVO"
+ },
+ {
   "address": "0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537",
   "description": "Fort is a community token aiming to reward web3 users through social tasks and gamified NFT mechanisms.",
   "image": "https://raw.githubusercontent.com/asterborne/directory/main/Group%201%20(1).png",
