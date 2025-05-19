@@ -1,1 +1,9 @@
-
+name: Memex Token
+description: Memex Token (MXT) is the exclusive platform token for the centralized exchange Memex ecosystem. As a utility token, it can be used for trading, paying transaction fees, participating in platform activities, accessing perks and governance rights. Memex Token (MXT) stands out by unlocking access to a wide range of benefits across Memex's centralized ecosystems. Current utilities include token farming, earning passive income through staking, early access to high-potential projects via Memex Launchpad and Launchpool, fee discounts, and exclusive VIP privileges. Future use cases include on-chain trading, DeFi applications and gas fee payments.
+image: "https://gateway.pinata.cloud/ipfs/bafkreidvxjgjoyv4osf5iwpfnbgqz4acjidtkzbiut2p4an5d4qxeomu6u"
+address: EQAXA39rWyLtwz4T8hyYSAkr3H4oCtFt_8SmgdIOAX2H4hbk
+symbol: MXT
+decimals: 9
+social:
+  - "https://t.me/MemexGlobal"
+  - "https://x.com/MemexExchange"
