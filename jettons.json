@@ -4653,6 +4653,20 @@
   ]
  },
  {
+  "address": "0:e70c672f3933524fca325cf511186aeeda391711cb6c1555e9fe7039a1a347f8",
+  "decimals": 9,
+  "description": "Happy Labor and Prosperity Day of TON!",
+  "image": "https://i.postimg.cc/ZY2Y0RvJ/IMG-8222.png",
+  "name": "Red Flags",
+  "social": [
+   "https://t.me/redflags_token"
+  ],
+  "symbol": "RF",
+  "websites": [
+   "https://redflags.wtf"
+  ]
+ },
+ {
   "address": "0:59fdc69f3f20ebe4a513b3468dc61d194c3864a4464e3662c903648d1a52e6e0",
   "coingecko": "https://www.coingecko.com/en/coins/resistance-dog",
   "description": "Pavel Durov Founder Of The Digital Resitance Dog - $REDO is a meme coin on the TON Blockchain. https://t.me/RedoTON",
