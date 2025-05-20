@@ -11913,6 +11913,12 @@
   ]
  },
  {
+  "address": "0:71a3886e5495da7f564e7709e70ddc5af4e568c8d1a15ccb09573a1b9b149621",
+  "description": "Legendary launch in controversial times by PocketFi",
+  "name": "SWITCH",
+  "symbol": "SWITCH"
+ },
+ {
   "address": "0:8f5a65caaed1d5f0aafce58e166ebe3c90fa44114245cc9c3031eca4f1de922f",
   "description": "syBTC is a synthetic Bitcoin powered by TON smart contracts. It lets you trade, hedge and get Bitcoin price exposure on the TON Blockchain. Created on syde.",
   "image": "https://i.imghippo.com/files/Zfxp7708ywo.png",
