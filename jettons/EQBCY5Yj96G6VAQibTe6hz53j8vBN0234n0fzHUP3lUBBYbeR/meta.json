@@ -1,0 +1,12 @@
+{
+  "name": "RANNTA",
+  "symbol": "RANNTA",
+  "decimals": 9,
+  "image": "https://rannta.com/icons/rannta.png",
+  "description": "RANNTA is a symbolic token on the TON blockchain, representing a conscious return to value.",
+  "social": {
+    "website": "https://rannta.com",
+    "telegram": "https://t.me/rannta",
+    "twitter": "https://twitter.com/rannta"
+  }
+}
