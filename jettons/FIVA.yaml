@@ -77,3 +77,15 @@
 - symbol: LP TON-SLP (01-Jun-2025)
   name: LP TON-SLP (01-Jun-2025)
   address: "EQDjkeXr3In2PwGAmTXOnRyhmmM903TvWniMne3O3jyXJP_X"
+
+- symbol: SY USDe
+  name: SY USDe (01JUN2025)
+  address: "EQBvs8KVQzCxh7gyn3j5mJ5GnjMS8ZBYDJcSxI08bGI_n0ms"
+
+- symbol: PT USDe
+  name: PT USDe (01JUN2025)
+  address: "EQAhQPxWF4_hpmrjYYlgUSvrm5vbq-9ZAtaLZbpRoHVtWPB2"
+
+- symbol: YT USDe
+  name: YT USDe (01JUN2025)
+  address: "EQA0B5QF46UIZg4RaNsexDQ5i-pu2MijlQTwX-7jTqH-SUin"
