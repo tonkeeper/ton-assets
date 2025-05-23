@@ -666,6 +666,20 @@
   ]
  },
  {
+  "address": "0:61db351d8616498acf0f6ff627faf850a0d92152eb3783b1bf7d146b52b392c3",
+  "description": "BlackCat is a farm type game where users earn $BCAT",
+  "image": "https://i.imgur.com/QsTZCrr.jpeg",
+  "name": "BlackCat",
+  "social": [
+   "https://t.me/BlckCat_Official",
+   "https://x.com/offcl_blckcat"
+  ],
+  "symbol": "BCAT",
+  "websites": [
+   "https://www.blackcatmeme.com/"
+  ]
+ },
+ {
   "address": "0:1b8526569875affce7d6eccf4c9b5f32f405cc8282ec812d0080bb34c58e4d91",
   "description": "Bees coin is a Telegram bot-based project expanding into a decentralized platform",
   "image": "https://cdn.beecoin.finance/logo.png",
