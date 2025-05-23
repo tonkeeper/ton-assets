@@ -1,0 +1,19 @@
+{
+  "name": "Persian Gluf",
+  "symbol": "GLUF",
+  "address": "EQBn4X2fLPeDvjVCqTMJHx8e68BZQ9_mRJbfvyUnMlhX-OFN",
+  "decimals": 9,
+  "image": "https://freeimage.host/i/3GCfCtS",
+  "websites": [
+    "https://x.com/PersiaGlufToken"
+  ],
+  "description": "Gluf is a community-driven meme coin built on the TON blockchain, aiming to build a strong community and deliver engaging experiences. The project celebrates the power, culture, and meme energy of the Persian Gulf.",
+  "proof_links": [
+    "https://tonraffles.app/lock/EQCQP-UjI8OqnH9d3GyaJ_tWD3W1D3X3puTW3bXK0VA4iTRm",       // Team Vesting (2.5B GLUF)
+    "https://tonraffles.app/lock/EQBn4X2fLPeDvjVCqTMJHx8e68BZQ9_mRJbfvyUnMlhX-OFN",       // CEX Reserve (2B GLUF)
+    "https://tonraffles.app/lock/EQD_BabbYZwNdjvdMm41PQjDbMRdmrtPHrN9WKKZE8FF_Ywv",       // LP Lock (STON.FI - 78,531 LP)
+    "https://tonraffles.app/lock/EQCwAwHZ7p3IrdDJiJ0XnbtKfIJNGEw7NShyxL7aTxvCXaOr",       // LP Lock (124,912 LP)
+    "https://tonraffles.app/lock/EQCzP2Jga837T1QYTzojm3MMz0UwT4oqhUSvFrG5WXprOTMU",       // Marketing/Other
+    "https://tonraffles.app/lock/EQCn4JFiFjO6ZMgOJ_k1yx9K7uDPA2N9IDlph6AoeY-kf7VB"        // Extra Allocation or Utility Reserve
+  ]
+}
