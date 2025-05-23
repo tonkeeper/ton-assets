@@ -1,8 +1,7 @@
 {
-  "address": "EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR",
   "name": "RANNTA COIN",
-  "symbol": "RANNTA",
-  "decimals": 9,
+  "description": "A memorial for the tragic Los Angeles fire. A symbol for rebuilding and returning to the glory of the United States",
   "image": "https://raw.githubusercontent.com/ilia144000/rannta-token/main/image.png",
-  "description": "A symbolic token on the TON blockchain. Immutable and decentralized."
+  "symbol": "RANNTA",
+  "decimals": 9
 }
