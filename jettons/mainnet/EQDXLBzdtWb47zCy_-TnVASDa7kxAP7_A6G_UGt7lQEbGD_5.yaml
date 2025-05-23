@@ -3,11 +3,12 @@ name: Kasongo Coin
 symbol: KGO
 description: Kasongo Coin is the ultimate underdog meme token, inspired by a fearless warthog who defies the odds and takes on the jungle. Kasongo is for the people.
 decimals: 9
-image: image: https://github.com/Kingsolomon1985/Kasongo-coin-assets/raw/main/Kasongo-coin-logo.png
-websites: []
+image: https://github.com/Kingsolomon1985/kasongo-coin-ton-assets/raw/main/jettons/mainnet/kasongo-coin-logo.png
+websites:
+  - https://kasongocoin.org
 social:
   twitter: https://x.com/KasongoCoin
-  telegram: https://t.me/+I12WfCmXapBjNmE0
+  telegram: https://t.me/+rYL_5OBHv9w3NjI0
   tiktok: https://www.tiktok.com/@kasongo.coin
   instagram: https://www.instagram.com/kasongo.coin
   youtube: https://youtube.com/@kasongocoin?si=xX7LH09onz6zI7YT
