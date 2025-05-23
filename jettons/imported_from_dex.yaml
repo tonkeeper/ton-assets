@@ -181,6 +181,9 @@
 - address: 0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11
   name: BUTTON
   symbol: BUTTON
+- address: 0:960e3e3d1c52274b04a4e3d780a38efa135601cb02e816e499e8e3b7c7b8e63f
+  name: Baby Doge Coin
+  symbol: BabyDoge
 - address: 0:35e1e4ce64499e4b9690967cdee30587d924e60b4eb68a8c852881d61b08e2ff
   name: C4
   symbol: C4
@@ -1099,6 +1102,9 @@
 - address: 0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb
   name: Seahava token
   symbol: SVV
+- address: 0:71a3886e5495da7f564e7709e70ddc5af4e568c8d1a15ccb09573a1b9b149621
+  name: SWITCH
+  symbol: SWITCH
 - address: 0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7
   name: Dog Wif Shapka
   symbol: Shapka

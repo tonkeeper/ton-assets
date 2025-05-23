@@ -129,6 +129,7 @@ Name           | Address
 [BUCKY @BuckyBuyBot](https://tonviewer.com/0:287fcc08942bf0595e9f96a9d7813979d8ede8397e76a597051f09b1bb26557c) | EQAof8wIlCvwWV6flqnXgTl52O3oOX52pZcFHwmxuyZVfK03
 [BUILD](https://tonviewer.com/0:589d4ac897006b5aaa7fae5f95c5e481bd34765664df0b831a9d0eb9ee7fc150) | EQBYnUrIlwBrWqp_rl-VxeSBvTR2VmTfC4ManQ657n_BUILD
 [BUTTON](https://tonviewer.com/0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11) | EQB4vB9R1WZ0SYodVmGmKl_MrBGQFbYB8iWClXyf7zetEUv0
+[Baby Doge Coin](https://tonviewer.com/0:960e3e3d1c52274b04a4e3d780a38efa135601cb02e816e499e8e3b7c7b8e63f) | EQCWDj49HFInSwSk49eAo476E1YBywLoFuSZ6OO3x7jmP2jn
 [Baby Notcoin](https://tonviewer.com/0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620) | EQDxRD-NX0xtsu2id0tufZLdxBNoiKkzjAQqBh65Zxq2IK48
 [Baby Ton Cat](https://tonviewer.com/0:954e7c7f9f6511a3d72e267393f051f8cf525c4b11a4c979d0a46c11def13251) | EQCVTnx_n2URo9cuJnOT8FH4z1JcSxGkyXnQpGwR3vEyUeEr
 [Baby Yoda](https://tonviewer.com/0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7) | EQC7vuKEYLdC72YhUWt3AUVA-Oi66Q1DxTHXH7r6pXaV50j7
@@ -587,6 +588,7 @@ Name           | Address
 [SPONGE](https://tonviewer.com/0:ad5a9fc06d769643fc73b705d68abdb493cd0dc3e3c9a3d1011201cd804a5bdb) | EQCtWp_AbXaWQ_xztwXWir20k80Nw-PJo9EBEgHNgEpb2_2d
 [STON](https://tonviewer.com/0:3690254dc15b2297610cda60744a45f2b710aa4234b89adb630e99d79b01bd4f) | EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO
 [STORM](https://tonviewer.com/0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c) | EQBsosmcZrD6FHijA7qWGLw5wo_aH8UN435hi935jJ_STORM
+[SWITCH](https://tonviewer.com/0:71a3886e5495da7f564e7709e70ddc5af4e568c8d1a15ccb09573a1b9b149621) | EQBxo4huVJXaf1ZOdwnnDdxa9OVoyNGhXMsJVzobmxSWITCH
 [SafeMars](https://tonviewer.com/0:0964496b0d3824b747b1202ad55103e3375f649d63a7886b090bf02e9f2a9f3c) | EQAJZElrDTgkt0exICrVUQPjN19knWOniGsJC_AunyqfPA0w
 [SafemoonTon](https://tonviewer.com/0:602f0dd12e410b80e254535a07b47cf09284dd6f84607d3f088131ba93f88b9d) | EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc
 [Saintcoin](https://tonviewer.com/0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d) | EQD7rlGEfvNUXYbEwT-Ll7SUD7LuGkubUeU-TQXsShMwXY0H
