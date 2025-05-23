@@ -2604,6 +2604,20 @@
   "symbol": "GOI"
  },
  {
+  "address": "0:7638d97d9dfce819f791161bca4cb5f6f0c383fe7bd3f1c7c8e35f85ca5bcdbe",
+  "description": "Mineable token that can be used on gaming platform. Play games, earn $ passively or actively with games.",
+  "image": "https://storage.ronin.co/spa_vraeg38g0n7xzu64/e5b50782-2e9c-482f-85e0-a847917bd5d7",
+  "name": "GPTON",
+  "social": [
+   "https://t.me/genesisprofit",
+   "https://x.com/gpton_"
+  ],
+  "symbol": "GPTON",
+  "websites": [
+   "https://gpton.co"
+  ]
+ },
+ {
   "address": "0:882d632d4eefd2845bb458f667671f527c25fbd1d4f2a41112b9b28c6543d039",
   "description": "Mine2Mine",
   "image": "https://m2m.fra1.cdn.digitaloceanspaces.com/system/m2m_logo.png",
