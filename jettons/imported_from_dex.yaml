@@ -178,6 +178,9 @@
 - address: 0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11
   name: BUTTON
   symbol: BUTTON
+- address: 0:960e3e3d1c52274b04a4e3d780a38efa135601cb02e816e499e8e3b7c7b8e63f
+  name: Baby Doge Coin
+  symbol: BabyDoge
 - address: 0:35e1e4ce64499e4b9690967cdee30587d924e60b4eb68a8c852881d61b08e2ff
   name: C4
   symbol: C4
