@@ -1,0 +1,29 @@
+name: "TonHK coin💎"
+description: "TonHK coin ($TonHK) is a smart contract token developed on the TON blockchain following Jetton standards (TEP-74, TEP-89), created by a group of passionate TON blockchain volunteers from Hong Kong. We implement cross-chain bridging technology, enabling asset interoperability between TON and TRON (TRC-20) chains, with a decentralized custody mechanism ensuring transaction security. The platform integrates NFT trading functionality (supporting TEP-62 standard) and community services, dedicated to promoting the TON blockchain ecosystem in Hong Kong. As a project centered on social responsibility, TonHK coin commits to using all profits for charitable causes, aiming to give back to society through innovative blockchain technology applications, providing users with a secure, transparent, and meaningful digital asset trading experience."
+address: "EQAZECBL9dGSeKU_l-TdqeobIIIa0gYQaTlBPLrAksB3tgnD"
+symbol: "TonHK"
+decimals: 9
+max_supply: "80000000"
+total_supply: "40000000"
+circulating_supply: "1000000"
+image: "https://i.postimg.cc/QN1WyrPM/TON-HK-512-x-512-256-x-256.png"
+websites:
+  - "https://ip3kk.github.io/tonhk-website/index.html"
+social:
+  - "https://t.me/WcK669"
+  - "https://t.me/WcK_669bot"
+catalogs:
+  - "charity"
+  - "social"
+  - "nft"
+  - "cross-chain"
+category: "Charity & Social"
+keywords:
+  - "TonHK"
+  - "NFT"
+  - "Charity"
+  - "Hong Kong"
+  - "Cross-chain"
+  - "TON"
+  - "TRON"
+launch_date: "2024-03"
