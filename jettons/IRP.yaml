@@ -1,0 +1,17 @@
+name: Paymon
+description: Paymon is a decentralized money for free and unlimited payments in Iran
+image: "https://paymon.cash/paymon_logo.png"
+address: EQA_Q9VUz3uvJUBEO3YeiRGFB7SjlHmU36F9XMc2_NTjiEUD
+decimals: 6
+symbol: IR₱
+websites:
+  - "https://paymon.cash/en"
+  - "https://paymon.cash/en/swap"
+  - "https://paymoncoin.github.io/docs"
+  - "https://github.com/paymoncoin"
+social:
+  - "https://t.me/paymonswapbot"
+  - "https://t.me/paymon_coin"
+  - "https://instagram.com/paymon.ir"
+  - "https://x.com/paymoncoin"
+  - "https://t.me/paymongap"
