@@ -1,0 +1,11 @@
+name: Denarius
+description: >
+  Denarius (DEN) — Jetton standard token on the TON blockchain. Denarius is the primary currency in the world of Herun. The coin is made of silvery metal with a slight shimmer, emphasizing its value and status. Each Denarius carries the spirit of an ancient era, when bravery and honor were above all, and each coin had its own story. In the game, this currency is used for trade, purchasing equipment, paying for mercenary services. Denarius total supply is limited to 12 000 000 000, making each coin special and valuable.
+symbol: DEN
+decimals: 9
+address: EQCF3XDhcABbw7sLdN7t2UibxkVBnAuqYE7mGJ2ber5JoLpY
+image: https://i.ibb.co/cb7FpKT/Denarius-Coin.png
+websites:
+  - https://herun.triangle.moscow/
+social:
+  - https://t.me/herunTriangleBot
