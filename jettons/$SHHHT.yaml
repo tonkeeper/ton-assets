@@ -1,0 +1,13 @@
+address: "0:1eb1dab09817125217cc11b36ce49df2c490861109fef3696ef3c4364cbf6452"
+decimals: 9
+description: |
+  ShhhToshi is a memecoin on the Ton blockchain, inspired by Bitcoin creator Satoshi Nakamoto.
+  The 'Shhh' represents the mysterious, quiet nature of Satoshi.
+image: "https://imagizer.imageshack.com/img922/7830/6M8ip6.png"
+name: "ShhhToshi"
+social:
+  - "https://x.com/shhhtoshi"
+  - "https://www.tiktok.com/@shhhtoshi"
+  - "https://t.me/ShhhToshi"
+  - "https://t.me/ShhhToshiChat"
+symbol: "SHHHT"
