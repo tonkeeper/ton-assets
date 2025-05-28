@@ -67,6 +67,9 @@
 - address: 0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45
   name: ARBUZ
   symbol: ARBUZ
+- address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
+  name: Art Coin
+  symbol: ART
 - address: 0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a
   name: VZGLYAD AVTORA
   symbol: AVTR
@@ -442,9 +445,6 @@
 - address: 0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2
   name: Grabscape governance token
   symbol: GGT
-- address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
-  name: Glint Coin
-  symbol: GLINT
 - address: 0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425
   name: GLITCH
   symbol: GLITCH
