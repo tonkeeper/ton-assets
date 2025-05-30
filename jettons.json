@@ -1240,6 +1240,20 @@
   ]
  },
  {
+  "address": "0:b115001ec66c4e3c082eb37641b3f4a564771517b8aa023d145f404b45be9d08",
+  "image": "https://web.mainet.io/core/logo.png",
+  "name": "mAInet",
+  "social": [
+   "https://t.me/mainetbot",
+   "https://x.com/MaiNet_io",
+   "https://discord.gg/prSKFuU9"
+  ],
+  "symbol": "CORE",
+  "websites": [
+   "https://t.me/mainetbot"
+  ]
+ },
+ {
   "address": "0:8faa11816423ad414671fa4e437041a9e5741991d7d03947ea58ae99d0ba3abd",
   "description": "COSA NOSTRA - Is a crypto community token. Become a part of the community - HOLD and watch your balance grow!",
   "image": "https://crypto-cosanostra.io/cosaCoin_logo.png",
