@@ -2219,6 +2219,126 @@
   "symbol": "YT USDe"
  },
  {
+  "address": "0:58e4913deb1fd4e5f492b00cc18fc77efd96cafb9022849dabce34d902d36ab2",
+  "name": "SY eUSDT (01Sep2025)",
+  "symbol": "SY eUSDT"
+ },
+ {
+  "address": "0:355b0696ccc3176576326f67b004cfdf529c43c17a6e6aed1d27b0b097d0ece9",
+  "name": "PT eUSDT (01Sep2025)",
+  "symbol": "PT eUSDT"
+ },
+ {
+  "address": "0:60eec8ebdb3a27dd58795446f999ad657fc7a50b8864c2c7c3a3a7ae593ac100",
+  "name": "YT eUSDT (01Sep2025)",
+  "symbol": "YT eUSDT"
+ },
+ {
+  "address": "0:51386f6fe838b8062f061d0c3bc9a65586a856260923d14b18e770cc96adbd47",
+  "name": "LP eUSDT (01Sep2025)",
+  "symbol": "LP eUSDT"
+ },
+ {
+  "address": "0:cba8fa697557efe1b56a57a6e9098c260d4542b1e9b62d5e7375addf3082a00b",
+  "name": "SY USDT-SLP",
+  "symbol": "SY USDT-SLP"
+ },
+ {
+  "address": "0:d4cc6f91e4af93b9f7c8c92b08e42bf2b0e8517e188986e9dd0166e8055fb6f1",
+  "name": "PT USDT-SLP (01Sep2025)",
+  "symbol": "PT USDT-SLP"
+ },
+ {
+  "address": "0:ec353180ddd45dec159718cbee2b44142addc2e293fe3106e6c8de9719314f71",
+  "name": "YT USDT-SLP (01Sep2025)",
+  "symbol": "YT USDT-SLP"
+ },
+ {
+  "address": "0:74ad4b3b7e3d0be5c9bd524f9a4cb15ea048d8bc3b92ed842be3d40bab31a4dc",
+  "name": "LP USDT-SLP (01Sep2025)",
+  "symbol": "LP USDT-SLP"
+ },
+ {
+  "address": "0:5e2ee5858e788f1a7032cbb815289900d665e9b713fe76006cc0a218e6cbba34",
+  "name": "SY TON-SLP",
+  "symbol": "SY TON-SLP"
+ },
+ {
+  "address": "0:f4a94a10fb1845eab31120c23aa1d54a00fc4054e129b84a9fe9b7605b0f0dc7",
+  "name": "PT TON-SLP (01Sep2025)",
+  "symbol": "PT TON-SLP"
+ },
+ {
+  "address": "0:d9e6d508d47a8ee2b14c4f48bf26c6a39a63bf8a6bd48b5cfb08523d8ef29782",
+  "name": "YT TON-SLP (01Sep2025)",
+  "symbol": "YT TON-SLP"
+ },
+ {
+  "address": "0:ff7d3eb05ab3f49b9e42075d938069179f1daecccb9cc72273e39e5d2cee432e",
+  "name": "LP TON-SLP (01Sep2025)",
+  "symbol": "LP TON-SLP"
+ },
+ {
+  "address": "0:da7c4f5f9435da4429e1ae9ae03e3fec24d25be74d83a2fd460ebb884636ab1e",
+  "name": "SY USDe (01Sep2025)",
+  "symbol": "SY USDe"
+ },
+ {
+  "address": "0:fb289de07ee0d11b1155f81ced84d0d8bf2e2660b0ac99e0c71abaa87f4c139d",
+  "name": "PT USDe (01Sep2025)",
+  "symbol": "PT USDe"
+ },
+ {
+  "address": "0:146c298f977d0514837cdbb53c52a4ceb1aabb889b9889f46d00fac8157c1b4f",
+  "name": "YT USDe (01Sep2025)",
+  "symbol": "YT USDe"
+ },
+ {
+  "address": "0:44731a2fe3f4caa503397c85ecd202e135401f836a0e720eed7ad4a800092421",
+  "name": "LP USDe (01Sep2025)",
+  "symbol": "LP USDe"
+ },
+ {
+  "address": "0:b9ed4e4ee3f3862d21205f8f7c3e998da92633717c7adf0bce76d902a1ee4b1d",
+  "name": "SY tsUSDe (01Sep2025)",
+  "symbol": "SY tsUSDe"
+ },
+ {
+  "address": "0:dbf7406cb39167232abb54c9a71b651e648cd9a2642c20bc3d1e3a35c31685d5",
+  "name": "PT tsUSDe (01Sep2025)",
+  "symbol": "PT tsUSDe"
+ },
+ {
+  "address": "0:ef9f92792723506c614979bb954ec77dd2d2d8a413a42cc380065e75436bee86",
+  "name": "YT tsUSDe (01Sep2025)",
+  "symbol": "YT tsUSDe"
+ },
+ {
+  "address": "0:64f66040aa642b4e19c694359022770df1d7ab7862a008d86c5ed4abbcc3d950",
+  "name": "LP tsUSDe (01Sep2025)",
+  "symbol": "LP tsUSDe"
+ },
+ {
+  "address": "0:e55d7f680d86ff252f441d2cf9f9bf688865b490cfb0835e68e96e428f311b2f",
+  "name": "SY stgUSD (01Sep2025)",
+  "symbol": "SY stgUSD"
+ },
+ {
+  "address": "0:9db7a5b6d345f034758bee897605cbf0336e8eed80b4b39f19ea88e8a196fae6",
+  "name": "PT stgUSD (01Sep2025)",
+  "symbol": "PT stgUSD"
+ },
+ {
+  "address": "0:5953f645025f3f9c00aa909fc697a7ca132009d2e36231cd9ba2bce6ac5d8a33",
+  "name": "YT stgUSD (01Sep2025)",
+  "symbol": "YT stgUSD"
+ },
+ {
+  "address": "0:5337c56c25f1854297addd96bc6aedc1b0846c246ba521a145a52422139a6966",
+  "name": "LP stgUSD (01Sep2025)",
+  "symbol": "LP stgUSD"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
