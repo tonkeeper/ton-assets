@@ -63,6 +63,16 @@
   ]
  },
  {
+  "address": "0:556325320f4160b4f9b5b799a8086d4b78e2d0d7c02226d52deeb3dfd4f46f12",
+  "description": "GrokWithTon is a token born on the TON blockchain as a tribute from the TON community to Grok \u2014 the sharp-tongued, chaos-loving AI that brought humor and insight to the world of artificial intelligence.",
+  "image": "https://tokens.gas111.com/images/32c2fc00549d49f29c41378a2894eac3.png",
+  "name": "GrokWithTon",
+  "social": [
+   "https://t.me/grok_with_ton"
+  ],
+  "symbol": "GWT2"
+ },
+ {
   "address": "0:d2091f92e04dd49ee83087c4e000af76550f63f9f02ec60cb93b623aacb0b99c",
   "description": "The Incaverse Token is the core digital asset powering the Incaverse Game Platform, seamlessly blending AI, blockchain, and gaming to create an immersive Web3 ecosystem.",
   "name": "INCAVERSE Token",
