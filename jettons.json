@@ -842,6 +842,23 @@
   "symbol": "BLUMGIRL"
  },
  {
+  "address": "0:1477d9dd4a416f50e82a10b4b3fac7e7e57cd37fce13fbfc33885fa36c108005",
+  "description": "$BMAN \u2014 the first memecoin from TMA that begins a new era of memecoins on TON.",
+  "image": "https://bcoin2048.com/storage/bman-logo.jpg",
+  "name": "BMAN",
+  "social": [
+   "https://x.com/bcoin2048",
+   "https://t.me/bcoin2048",
+   "https://t.me/BMAN_alpha",
+   "https://t.me/bcoin2048_RU_channel"
+  ],
+  "symbol": "BMAN",
+  "websites": [
+   "https://t.me/Bcoin2048bot",
+   "https://app.bcoin2048.com/"
+  ]
+ },
+ {
   "address": "0:66f143ad8511cc1abeab0ac351355c0502b6077163a0c3aa408f8259d91890fb",
   "description": "BMW Coin is like a Dogcoin - only BMW",
   "image": "https://raw.githubusercontent.com/2006vlad2006/website/refs/heads/main/BMW_logo_GitHub.png",
