@@ -1,0 +1,11 @@
+name: Ponchiqs
+symbol: PONCH
+description: "PONCH is the native token of the Ponchiqs Game Studio, driving utility across all games and platforms. Use PONCH to purchase in-game items, trade NFTs, stake for rewards, and access exclusive content. Whether it’s upgrading characters, earning rewards in tournaments, or buying collectible merchandise, PONCH connects players to an immersive, rewarding gaming experience. Play, earn, and own with PONCH — your gateway to the Ponchiqs ecosystem."
+address: "0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530"
+decimals: 9
+image: "https://cdnipfs.blob.core.windows.net/cdn/ponch/ponch.png"
+websites:
+  - "https://ponchiqs.com/"
+social:
+  - "https://t.me/ponchiqs"
+  - "https://x.com/ponchiqs"

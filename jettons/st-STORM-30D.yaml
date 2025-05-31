@@ -1,0 +1,11 @@
+name: STORM staked on JVault.xyz
+symbol: st-STORM-30D
+description: "These jettons confirm ownership of STORM staked on JVault. Staking pool link: https://app.storm.tg/token"
+address: 0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b
+image: "https://static.storm.tg/st-STORM-30D.png"
+decimals: 9 
+websites: 
+  - "https://storm.tg"
+social:
+  - "https://t.me/storm_trade_news"
+  - "https://t.me/storm_trade_fam"

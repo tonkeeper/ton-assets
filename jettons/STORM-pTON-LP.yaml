@@ -1,0 +1,11 @@
+name: LP Token for STORM-pTON
+symbol: STORM-pTON LP
+description: "Liquidity pool token for STORM and Proxy TON on STON.fi DEX. Liquidity pool link: https://app.ston.fi/pools/EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo"
+address: 0:7de57e6ee41ee97eb8b8aed881e320e488c8767ecb16ff688438414a7cb9807a
+image: "https://static.storm.tg/STORM-pTON-LP.png"
+decimals: 9
+websites: 
+  - "https://storm.tg"
+social:
+  - "https://t.me/storm_trade_news"
+  - "https://t.me/storm_trade_fam"

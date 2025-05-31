@@ -1,0 +1,11 @@
+name: AkitaOnTon
+description: "The cutest dog on TON"
+image: "https://raw.githubusercontent.com/AkitaOnTon/AkitaOnTon.yml/main/Akita.png"
+address: 0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2
+symbol: $AKITA
+decimals: 9
+websites:
+  - "https://akita.wtf/"
+social:
+  - "https://t.me/akitaonton"
+  - "https://twitter.com/akitaonton"

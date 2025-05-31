@@ -1,0 +1,13 @@
+name: MonkeyRush
+description: MonkeyRush Token
+image: "https://raw.githubusercontent.com/rafnicore/monkeyrush/refs/heads/main/monker.png"
+address: "0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3"
+symbol: MONKER
+websites:
+  - "https://monkeyrush.app/"
+  - "https://t.me/monkeyrush_bot/app"
+social:
+  - "https://t.me/monkeyrush"
+  - "https://t.me/monkeyrush_chat"
+  - "https://x.com/monkeyrush_bot"
+  - "https://www.youtube.com/@monkeyrush_bot"

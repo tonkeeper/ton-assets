@@ -1,0 +1,11 @@
+name: DUST Vault
+description: DUST/TON Vault for DeDust Pool
+image: "https://settleton.finance/static/icons/QmS4LBfYa9vZMXHbJpB17AGu8RMTMs6k61xiN2wkQftfQV.webp"
+address: 0:ab9d7bda5f91c06fc3cf737acfed24b63080a65db1b5e95400d503a24c047ed5
+symbol: STL_DUST_TON
+websites:
+  - "https://settleton.finance"
+social:
+  - "https://t.me/settleton"
+  - "https://t.me/settleton_ru"
+  - "https://t.me/settleton_fa"

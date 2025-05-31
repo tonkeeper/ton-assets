@@ -1,0 +1,12 @@
+name: VNST Token
+description: VNST is a stablecoin backed by the Basket of Stablecoins, ensuring its reserve, not tethered to any fiat currency for users in Vietnam and globally.
+image: "https://vnst.io/assets/images/cryptos/vnst.png"
+address: 0:f0357fc5b38b7f3ee523cb7ad965771ca070b867216a0239f3d2fcb285f8a390
+symbol: VNST
+websites:
+  - "https://vnst.io/"
+social:
+  - "https://x.com/vnstcoin"
+  - "https://www.facebook.com/VNST.io/"
+  - "https://t.me/vnstann"
+  - "https://discord.com/invite/pwRwbcHHkK"

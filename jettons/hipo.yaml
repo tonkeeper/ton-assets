@@ -1,0 +1,32 @@
+- address: 0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc
+  name: Hipo Governance Token
+  symbol: HPO
+  image: https://hpo.hipo.finance/hpo.png
+  websites:
+    - https://hpo.hipo.finance
+  social:
+    - https://t.me/HipoFinance
+    - https://x.com/hipofinance
+    - https://www.youtube.com/@HipoFinance
+    - https://medium.com/@hipofinance
+
+- address: 0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87
+  name: Hipo Staked TON
+  symbol: hTON
+  description: Hipo liquid staking protocol
+  image: https://app.hipo.finance/hton.png
+  websites:
+    - https://app.hipo.finance
+  social:
+    - https://t.me/HipoFinance
+    - https://x.com/hipofinance
+    - https://www.youtube.com/@HipoFinance
+    - https://medium.com/@hipofinance
+
+- address: 0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8
+  name: Hipo Staked TON (depricated)
+  symbol: hTON
+
+- address: 0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63
+  name: Hipo Staked TON v1
+  symbol: hTON1
