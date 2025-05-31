@@ -1,0 +1,12 @@
+{
+  "name": "Splufik",
+  "symbol": "SPK",
+  "decimals": 9,
+  "description": "Splufik is a utility token for community engagement on TON.",
+  "address": "EQA5JMJ2SnbvUgenbbNr8_eYd5KcwoEmuGCn3f_jWqnZUUah",
+  "image": "https://raw.githubusercontent.com/captsplufik/ton-assets/main/jettons/mainnet/EQA5JMJ2SnbvUgenbbNr8_eYd5KcwoEmuGCn3f_jWqnZUUah/logo.png",
+  "social": {
+    "telegram": "https://t.me/+pfQZh-Qznfk4Yzdh",
+    "website": "https://splufik.io"
+  }
+}
