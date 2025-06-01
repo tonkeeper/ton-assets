@@ -1,0 +1,11 @@
+name: Physical Token
+description: PHT - the power is in the script
+image: "https://cdn-icons-png.flaticon.com/512/1467/1467187.png"
+address: EQA_dmPiZcjlZR7TlcrLcILFQRnm88GUir9u-Y6IPPBWIYUd
+symbol: PHT
+decimals: 9
+websites:
+  - "https://physicstoken.com/home"
+social:
+  - "https://t.me/physics_token"
+  - "https://x.com/physics_token"
