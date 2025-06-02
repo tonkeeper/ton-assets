@@ -7759,6 +7759,11 @@
   "symbol": "CROCO"
  },
  {
+  "address": "0:3eacf4800885bc8492f5217698019510bdafc56f88bcd691755365f06dbc934e",
+  "name": "CTIDAO",
+  "symbol": "CTIDAO"
+ },
+ {
   "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
   "name": "Cute Cats",
   "symbol": "CuteCats"
@@ -9179,6 +9184,11 @@
   "symbol": "TEKTON"
  },
  {
+  "address": "0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb",
+  "name": "TeleBTC",
+  "symbol": "TELEBTC"
+ },
+ {
   "address": "0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14",
   "name": "Telegrem",
   "symbol": "TELEGREM"
@@ -9577,6 +9587,11 @@
   "address": "0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3",
   "name": "X Empire",
   "symbol": "X"
+ },
+ {
+  "address": "0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6",
+  "name": "XAUt0",
+  "symbol": "XAUt0"
  },
  {
   "address": "0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602",
