@@ -6352,6 +6352,20 @@
   ]
  },
  {
+  "address": "0:8357ed847fcdd8d636c87cd2f6b688d894537979887ecf8afb2ee3b7cfcedd4b",
+  "description": "The Best Memecoin on the TON Blockchain with unlimited hype! It is here to make memes.",
+  "image": "https://tonwolfmeme.com/tonwolf.webp",
+  "name": "Ton Wolf Memecoin",
+  "social": [
+   "https://t.me/tonwolfofficial",
+   "https://t.me/tonwolf_meme_bot/join"
+  ],
+  "symbol": "TWOLF",
+  "websites": [
+   "https://tonwolfwhitepaper.info"
+  ]
+ },
+ {
   "address": "0:8b4b0ee34802882144d2cf058afc0749078a2c2777c5f27387cdf0c984ffca09",
   "description": "Tower\ud83c\udff0 invest coin",
   "image": "https://assets.dedust.io/images/twrinv.webp",
