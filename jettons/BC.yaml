@@ -1,11 +1,11 @@
-address: "0:a01ff17431ffc210d38c3c502c06ca85fc16a3f1991ba5243937a95181f45d94",
-name: "Block Card",
-symbol: "BC",
-description: "Block Card Query is a mini-app for analyzing blockchain transactions. Track wallet activity, find whales and investigate suspicious transactions.", 
+name: BLOCKCARD
+description: Block Card - is a universal Web3 ecosystem in the TON network, where games, analytics and edge trading merge.
+image: "https://firebasestorage.googleapis.com/v0/b/blockcardme.firebasestorage.app/o/bc%20%D0%BB%D0%BE%D0%B3%D0%BEetw32.png?alt=media&token=e31f1699-6ff9-496b-b8c8-7d3797477a41"
+address: EQCgH_F0Mf_CENOMPFAsBsqF_Baj8ZkbpSQ5N6lRgfRdlKIj
+symbol: BC
 websites:
-  - "https://t.me/blockcard_bc"
+  - "https://blockcardweb.web.app/"
 social:
-  - "https://t.me/BlockCardQueryBot"
-  - "https://youtube.com/@blockcard_bc?si=CZjpWV34qwrp-Spx"
+  - "https://t.me/blockcard_bc"
+  - "https://t.me/blockcard_bc_community"
   - "https://x.com/BlockCardTON?t=p3J7pBq1ntET9FukD0-qdQ&s=09"
-  - "https://getgems.io/blockcard"
