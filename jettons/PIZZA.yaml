@@ -1,0 +1,10 @@
+name: PizzaGems
+description: PizzaGems is a seasonal game on the TON Blockchain, where players can mine rare Pizzas.
+image: "https://raw.githubusercontent.com/pizzagems/jetton/main/coin-256.png"  
+address: 0:a4963e1c3888423dbdadedbdedaedf5ed7d596b30ad781cad660e450f06cae22
+symbol: PIZZA
+websites:
+  - "https://t.me/pizzagems_bot"
+social:
+  - "https://x.com/pizzagems_ton"
+  - "https://getgems.io/pizzagems"
