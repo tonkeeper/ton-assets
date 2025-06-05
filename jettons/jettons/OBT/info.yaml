@@ -1,0 +1,11 @@
+name: "OIL BRENT"
+symbol: "OBT"
+address: "EQDT5oXqmWRnmBEgDGc1KwGvwjdfBbw0TtwueyxNtzYqYm85"
+decimals: 9
+description: "Tokenized representation of oil value – OIL BRENT on TON blockchain."
+image: "https://gateway.pinata.cloud/ipfs/QmYqtzdhoLLqDic8KTBeKF3zgwSZm7MGLzSULbnsfPPoCh"
+websites: []
+social:
+  twitter: ""
+  telegram: ""
+  github: ""
