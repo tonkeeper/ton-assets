@@ -2800,6 +2800,21 @@
   "symbol": "GRIM"
  },
  {
+  "address": "0:34e2e7dbcaab9e2ee5e8d4d2c70854b63d5ce4fe048d6673de6270d082a594f0",
+  "description": "$GRO is the first meme token in the GROWORLD multiverse",
+  "image": "https://groworld.asia/wp-content/uploads/2024/01/Grogu-with-ethereum-2.png",
+  "name": "$GROGU",
+  "social": [
+   "https://t.me/wars_stars_bot/",
+   "https://t.me/yoda_asia/",
+   "https://x.com/growgrogu/"
+  ],
+  "symbol": "$GRO",
+  "websites": [
+   "https://groworld.asia/"
+  ]
+ },
+ {
   "address": "0:61293e3e39a4996b104172f0c4e2ef2cdcbd6ff2effa707c5225059cced95de8",
   "description": "Goblin World Token (GWT) is the official coin of the ever-expanding Goblin Universe on Telegram.",
   "image": "https://api.goblinmine.game/storage/gwt_token.png",
