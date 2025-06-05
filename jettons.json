@@ -374,6 +374,23 @@
   "symbol": "ARUT"
  },
  {
+  "address": "0:ddda9f3ab6dd99d06469ab06ac453d583748cc7a92df7ab090c36cc7855d8446",
+  "description": "ASHTPI (Ash Timeless Play Infrastructure) is a gaming ecosystem built on the TON blockchain, combining raffles, mini-games, RPG elements, and unique interactive services.  \n**Forge of time: create, survive, explore.**\n\nThe ASHTPI token serves as a digital pass to events, rewards, and ecosystem governance.  \nPlayers develop their characters, travel across eras, and influence the fate of the game universe.  \nThe number of passes to the gamification world is limited!",
+  "image": "https://ashtpi.com/assets/images/logo.png",
+  "name": "ASHTPI",
+  "social": [
+   "https://t.me/ashtpi",
+   "https://x.com/ash_tpi",
+   "https://getgems.io/ashtpi",
+   "https://www.tiktok.com/@ashtpi",
+   "https://www.youtube.com/@ashtpi"
+  ],
+  "symbol": "ASHTPI",
+  "websites": [
+   "https://ashtpi.com"
+  ]
+ },
+ {
   "address": "0:58d3126119838f46449ebf2d9851c1bb8d18b106531945494ec4e8b6285f7d91",
   "description": "machinegpt.org",
   "name": "Machine",
