@@ -4051,6 +4051,20 @@
   ]
  },
  {
+  "address": "0:3587a3ab528e3f4afecbe64619540c5de8ad2f65b31db96b49eb69bd965d1742",
+  "description": "Murzito reWardito \u043d\u0430\u0447\u0438\u0441\u043b\u044f\u0442\u043e \u0431\u043e\u043d\u0443\u0441\u0438\u0442\u043e \u0437\u0430 \u0445\u043e\u043b\u0434\u0438\u0442\u043e \u0438 \u043b\u043e\u0447\u0438\u0442\u043e \u043c\u043e\u043d\u0435\u0442\u043e. \u0423\u0442\u0438\u043b\u0438\u0442\u0438-\u043c\u0435\u043c\u043a\u043e\u0438\u043d\u0438\u0442\u043e \u043f\u043e\u0434 \u043a\u043e\u043b\u043b\u0430\u0431\u043e\u0440\u0438\u0442\u043e \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 \u0431\u043e\u0442\u0438\u0442\u043e @MurziTonBot, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043b\u0435\u0433\u043a\u043e \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u043e \u0437\u0430 \u043b\u043e\u0447\u0438\u0442\u043e! \u0418\u043b\u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u0445\u043e\u043b\u0434\u0438\u0442\u043e \u2014 \u0437\u0430 \u0440\u0435\u0432\u0430\u0440\u0434\u0438\u0442\u043e!",
+  "image": "https://axiscat.com/MurzitoReWardito.jpeg",
+  "name": "Murzito reWardito",
+  "social": [
+   "https://t.me/OstrovaBobra",
+   "https://t.me/MurziTonBot"
+  ],
+  "symbol": "MURZIK",
+  "websites": [
+   "https://dbc.axiscat.com"
+  ]
+ },
+ {
   "address": "0:292f4636ddd9340a6e6af5e5e15c5d32e9ba6b095d0ea338d7d2967becfa92f2",
   "description": "Museum of Meme Token on TON. In Meme We Trust.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqapl0y23dk0cm5q9exhxf0y6bprcv0oozjx0pz77pqs8mcb.png?size=lg&key=ca4234",
