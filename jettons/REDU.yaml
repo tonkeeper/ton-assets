@@ -3,7 +3,6 @@ description: "Resistance Duck was created to embody, embolden and champion $TON 
 image: "https://raw.githubusercontent.com/ResistanceDuckTon/REDU/main/256x256LOGO.png"
 address: 0:fd06cba941c9031512e77358b15675bec1ba414d5520dec9832bd9a4450ed63d
 symbol: REDU
-max_supply: 100000000
 websites:
   - "https://www.resistanceduck.com/"
 social:

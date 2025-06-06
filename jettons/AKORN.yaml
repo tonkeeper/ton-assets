@@ -1,0 +1,9 @@
+name: Akorn Liberty
+description: This token is a subtoken of the AKA token. In the AKA mini-app on Telegram, this token is scheduled to be distributed as part of the rewards.
+image: "https://i.postimg.cc/X7CNBpZ3/akorn.png"
+address: EQDPMNvXl3si1TXGXMwnUhwQjE0mMcxHKtYXFSubaicYkeaQ
+symbol: AKORN
+websites:
+  - "https://akorn.akatoken.com"
+social:
+  - "https://t.me/akorn_system"
