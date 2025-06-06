@@ -67,6 +67,9 @@
 - address: 0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45
   name: ARBUZ
   symbol: ARBUZ
+- address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
+  name: Art Coin
+  symbol: ART
 - address: 0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a
   name: VZGLYAD AVTORA
   symbol: AVTR
@@ -178,6 +181,9 @@
 - address: 0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11
   name: BUTTON
   symbol: BUTTON
+- address: 0:960e3e3d1c52274b04a4e3d780a38efa135601cb02e816e499e8e3b7c7b8e63f
+  name: Baby Doge Coin
+  symbol: BabyDoge
 - address: 0:35e1e4ce64499e4b9690967cdee30587d924e60b4eb68a8c852881d61b08e2ff
   name: C4
   symbol: C4
@@ -259,6 +265,9 @@
 - address: 0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3
   name: Ton Croco
   symbol: CROCO
+- address: 0:3eacf4800885bc8492f5217698019510bdafc56f88bcd691755365f06dbc934e
+  name: CTIDAO
+  symbol: CTIDAO
 - address: 0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4
   name: Cute Cats
   symbol: CuteCats
@@ -424,9 +433,6 @@
 - address: 0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2
   name: Grabscape governance token
   symbol: GGT
-- address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
-  name: Glint Coin
-  symbol: GLINT
 - address: 0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425
   name: GLITCH
   symbol: GLITCH
@@ -1114,6 +1120,9 @@
 - address: 0:a1d37d53a6846d76bc71af4289521f209c49096d5de2370f502be75a1f4754f4
   name: Tektoniks
   symbol: TEKTON
+- address: 0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb
+  name: TeleBTC
+  symbol: TELEBTC
 - address: 0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14
   name: Telegrem
   symbol: TELEGREM
@@ -1355,6 +1364,9 @@
 - address: 0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3
   name: X Empire
   symbol: X
+- address: 0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6
+  name: XAUt0
+  symbol: XAUt0
 - address: 0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602
   name: xCryproMarket
   symbol: XCM
