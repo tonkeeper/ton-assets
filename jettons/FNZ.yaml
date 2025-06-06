@@ -1,10 +1,11 @@
-name: Fanzee Token
-description: fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences
-address: 0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739
-symbol: FNZ
+name: ALTYN COIN
+description: ALTYN is a meme coin for clinets, fans, supporters of Altyn Store
+address: 0:41c2dbf20fe910178abdd79f199fa5e402c40c2288fb0aee33eea4fb4c882266
+symbol: ALTYN
 websites:
-  - "https://fanz.ee"
-  - "https://app.fanz.ee"
+  - "https://altyn-store.ru"
+  - "https://altyn-remont.ru"
 social:
-  - "https://t.me/fanzeelabs"
-  - "https://twitter.com/fanzeelabs"
+  - "https://t.me/coinaltyn"
+  - "https://t.me/altyn"
+  - "https://x.com/AltynCoinBlum"
