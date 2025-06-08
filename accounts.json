@@ -1337,5 +1337,10 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "image": "https://tonstakers.com/jetton/logo.svg",
   "name": "Tonstakers master"
+ },
+ {
+    "address": "0:e3d4ad7e4cc3a9b3c5e0b8c1d0fc62ff3d55b3439d6bf5deee7bb5ddcfe4c3d2",
+    "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqdj1k1-tmops8xgumhq_gl_pvwzq51r9d7ue7xdz-td0rvk.png",
+    "name": "Plush Pepe"
  }
 ]

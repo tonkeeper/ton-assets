@@ -193,5 +193,17 @@
   "websites": [
    "https://totemancer.com"
   ]
+ },
+ {
+  "address": "0:e3d4ad7e4cc3a9b3c5e0b8c1d0fc62ff3d55b3439d6bf5deee7bb5ddcfe4c3d2",
+  "description": "Just a plush pepe jetton .",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqdj1k1-tmops8xgumhq_gl_pvwzq51r9d7ue7xdz-td0rvk.png",
+  "name": "Plush Pepe: PPEPE",
+  "social": [
+   "https://t.me/PlushPepetoken"
+  ],
+  "websites": [
+   "https://plushpepe.org"
+  ]
  }
 ]
