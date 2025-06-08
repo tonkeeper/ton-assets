@@ -4399,6 +4399,16 @@
   ]
  },
  {
+  "address": "0:7cceee8a4565b64c6e809a3c5177992041764bedb8bbf89cc10484a9c76a7147",
+  "description": "Original Token \u2014 the native token of the Original ecosystem, designed for access, value exchange, and governance within a creative and trusted digital space.",
+  "image": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2F5hixkqdhu4w13jg82nxiaa305p8t&w=256&q=100",
+  "name": "Original Token",
+  "social": [
+   "https://t.me/original"
+  ],
+  "symbol": "O"
+ },
+ {
   "address": "0:9ab2009f2633703d37471ba1fedebe592c8a390f52a0c97c1ff8f2a267ff7cbf",
   "description": "OCTIES is a P2E game where users play game and earn rewards.",
   "image": "https://i.imgur.com/Ki2zkmJ.jpeg",
