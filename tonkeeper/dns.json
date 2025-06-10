@@ -1,0 +1,48 @@
+query_id: 18214884075902298000
+key: fbae041b02c41ed0fd8a4efb039bc780dd6af4a1f0c420f42561ae705dda43fe
+value:
+  sum_type: DNSAdnlAddress
+  d_n_s_text: ""
+  d_n_s_next_resolver: ""
+  d_n_s_adnl_address:
+    address:
+      - 117
+      - 22
+      - 202
+      - 202
+      - 172
+      - 229
+      - 196
+      - 27
+      - 191
+      - 2
+      - 158
+      - 227
+      - 151
+      - 181
+      - 219
+      - 168
+      - 108
+      - 55
+      - 146
+      - 67
+      - 159
+      - 143
+      - 110
+      - 43
+      - 16
+      - 26
+      - 207
+      - 219
+      - 127
+      - 55
+      - 70
+      - 128
+    proto_list: null
+  d_n_s_smc_address:
+    address: ""
+    smc_capability:
+      name: null
+      interfaces: null
+  d_n_s_storage_address: "0000000000000000000000000000000000000000000000000000000000000000"
+  not_standard: null
