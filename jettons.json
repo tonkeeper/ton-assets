@@ -12413,5 +12413,20 @@
   "image": "https://tonco.io/static/token/WTTON_TOKEN.png",
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
- }
+},
+{
+  "address": "0:ff17979f5c2a194dc726f274621bc6c61441eba90483eef2e96e1fa0104f079c",
+  "decimals": 9,
+  "image": "https://soren.today/SOREN_WHITE_LOGO.png",
+  "name": "SOREN",
+  "symbol": "SOR",
+  "websites": [
+    "https://soren.blog",
+    "https://soren.today"
+  ],
+  "social": [
+    "https://t.me/SORENCOMMUNITY_BOT",
+    "https://x.com/ownsoren"
+  ]
+}
 ]
