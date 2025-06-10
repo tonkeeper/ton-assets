@@ -1,0 +1,11 @@
+address: EQBmQ_9DnNsRnpMr69NJ4fyJt4Ss6cBRiDLcroyIQuFJeV4W
+name: DexPex
+symbol: PEX
+decimals: 9
+image: "https://raw.githubusercontent.com/tonkeeper/ton-assets/main/assets/jettons/PEX/logo.png"
+
+description: "DexPex is an ecosystem for entertainment featuring the mad scientist Professor Pex.. Explore & join the community!"
+social:
+  - "https://t.me/dexpexofficial"
+websites:
+  - "https://dexpex.com/"
