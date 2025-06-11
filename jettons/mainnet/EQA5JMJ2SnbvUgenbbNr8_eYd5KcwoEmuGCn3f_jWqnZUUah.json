@@ -1,0 +1,13 @@
+{
+  "name": "Splufik",
+  "symbol": "SPK",
+  "description": "Splufik (SPK) is a utility token built on TON for creators, fans, and future Web3 apps.",
+  "address": "EQA5JMJ2SnbvUgenbbNr8_eYd5KcwoEmuGCn3f_jWqnZUUah",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/captsplufik/ton-assets/main/jettons/mainnet/logo.png",
+  "social": {
+    "website": "https://spk-presale.vercel.app",
+    "telegram": "https://t.me/+pfQZh-Qznfk4Yzdh",
+    "twitter": "https://x.com/splufictoken"
+  }
+}
