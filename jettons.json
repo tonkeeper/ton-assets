@@ -374,6 +374,23 @@
   "symbol": "ARUT"
  },
  {
+  "address": "0:ddda9f3ab6dd99d06469ab06ac453d583748cc7a92df7ab090c36cc7855d8446",
+  "description": "ASHTPI (Ash Timeless Play Infrastructure) is a gaming ecosystem built on the TON blockchain, combining raffles, mini-games, RPG elements, and unique interactive services.  \n**Forge of time: create, survive, explore.**\n\nThe ASHTPI token serves as a digital pass to events, rewards, and ecosystem governance.  \nPlayers develop their characters, travel across eras, and influence the fate of the game universe.  \nThe number of passes to the gamification world is limited!",
+  "image": "https://ashtpi.com/assets/images/logo.png",
+  "name": "ASHTPI",
+  "social": [
+   "https://t.me/ashtpi",
+   "https://x.com/ash_tpi",
+   "https://getgems.io/ashtpi",
+   "https://www.tiktok.com/@ashtpi",
+   "https://www.youtube.com/@ashtpi"
+  ],
+  "symbol": "ASHTPI",
+  "websites": [
+   "https://ashtpi.com"
+  ]
+ },
+ {
   "address": "0:58d3126119838f46449ebf2d9851c1bb8d18b106531945494ec4e8b6285f7d91",
   "description": "machinegpt.org",
   "name": "Machine",
@@ -2800,6 +2817,21 @@
   "symbol": "GRIM"
  },
  {
+  "address": "0:34e2e7dbcaab9e2ee5e8d4d2c70854b63d5ce4fe048d6673de6270d082a594f0",
+  "description": "$GRO is the first meme token in the GROWORLD multiverse",
+  "image": "https://groworld.asia/wp-content/uploads/2024/01/Grogu-with-ethereum-2.png",
+  "name": "$GROGU",
+  "social": [
+   "https://t.me/wars_stars_bot/",
+   "https://t.me/yoda_asia/",
+   "https://x.com/growgrogu/"
+  ],
+  "symbol": "$GRO",
+  "websites": [
+   "https://groworld.asia/"
+  ]
+ },
+ {
   "address": "0:61293e3e39a4996b104172f0c4e2ef2cdcbd6ff2effa707c5225059cced95de8",
   "description": "Goblin World Token (GWT) is the official coin of the ever-expanding Goblin Universe on Telegram.",
   "image": "https://api.goblinmine.game/storage/gwt_token.png",
@@ -4051,6 +4083,20 @@
   ]
  },
  {
+  "address": "0:3587a3ab528e3f4afecbe64619540c5de8ad2f65b31db96b49eb69bd965d1742",
+  "description": "Murzito reWardito \u043d\u0430\u0447\u0438\u0441\u043b\u044f\u0442\u043e \u0431\u043e\u043d\u0443\u0441\u0438\u0442\u043e \u0437\u0430 \u0445\u043e\u043b\u0434\u0438\u0442\u043e \u0438 \u043b\u043e\u0447\u0438\u0442\u043e \u043c\u043e\u043d\u0435\u0442\u043e. \u0423\u0442\u0438\u043b\u0438\u0442\u0438-\u043c\u0435\u043c\u043a\u043e\u0438\u043d\u0438\u0442\u043e \u043f\u043e\u0434 \u043a\u043e\u043b\u043b\u0430\u0431\u043e\u0440\u0438\u0442\u043e \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 \u0431\u043e\u0442\u0438\u0442\u043e @MurziTonBot, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043b\u0435\u0433\u043a\u043e \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u043e \u0437\u0430 \u043b\u043e\u0447\u0438\u0442\u043e! \u0418\u043b\u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u0445\u043e\u043b\u0434\u0438\u0442\u043e \u2014 \u0437\u0430 \u0440\u0435\u0432\u0430\u0440\u0434\u0438\u0442\u043e!",
+  "image": "https://axiscat.com/MurzitoReWardito.jpeg",
+  "name": "Murzito reWardito",
+  "social": [
+   "https://t.me/OstrovaBobra",
+   "https://t.me/MurziTonBot"
+  ],
+  "symbol": "MURZIK",
+  "websites": [
+   "https://dbc.axiscat.com"
+  ]
+ },
+ {
   "address": "0:292f4636ddd9340a6e6af5e5e15c5d32e9ba6b095d0ea338d7d2967becfa92f2",
   "description": "Museum of Meme Token on TON. In Meme We Trust.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqapl0y23dk0cm5q9exhxf0y6bprcv0oozjx0pz77pqs8mcb.png?size=lg&key=ca4234",
@@ -4093,6 +4139,21 @@
   "symbol": "MLT",
   "websites": [
    "https://melodytoken.ru/"
+  ]
+ },
+ {
+  "address": "0:bf5be29cede120c1d59b0a8ce0f56158c264f1ffd53e7d0af5e39ab1984e5fff",
+  "description": "This is a mini-application on the TON blockchain that unites fans of traveling and discovering new places on our beautiful planet.",
+  "image": "https://trueimages.ru/img/b3/28/70641486.png",
+  "name": "NOTBADTRIP",
+  "social": [
+   "https://t.me/NotBadTripCoin_portal",
+   "https://t.me/chatnotbedrrip",
+   "https://x.com/NotBadTripCoin"
+  ],
+  "symbol": "NBT",
+  "websites": [
+   "https://notbadtrip.tech/"
   ]
  },
  {
@@ -4336,6 +4397,16 @@
   "websites": [
    "https://notgames.ru/"
   ]
+ },
+ {
+  "address": "0:7cceee8a4565b64c6e809a3c5177992041764bedb8bbf89cc10484a9c76a7147",
+  "description": "Original Token \u2014 the native token of the Original ecosystem, designed for access, value exchange, and governance within a creative and trusted digital space.",
+  "image": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2F5hixkqdhu4w13jg82nxiaa305p8t&w=256&q=100",
+  "name": "Original Token",
+  "social": [
+   "https://t.me/original"
+  ],
+  "symbol": "O"
  },
  {
   "address": "0:9ab2009f2633703d37471ba1fedebe592c8a390f52a0c97c1ff8f2a267ff7cbf",
@@ -6191,6 +6262,21 @@
   ]
  },
  {
+  "address": "0:8d0adee26073def322f22e00982fb3f722f2a6a68f3843d8eaaf7b9a17639917",
+  "description": "Tonion is a revolutionary Telegram-based platform that combines gaming experience, social interaction, and cryptocurrency,NFT trading in a single application.",
+  "image": "https://cdn.blum.codes/4ac3ed0d-1dec-47dd-a46a-e1f5eb818f48/a7c5851d-5465-41ff-a39d-248614de2302",
+  "name": "TONION",
+  "social": [
+   "https://t.me/Tonion_Official",
+   "https://t.me/Tonion_General",
+   "https://x.com/TONion_io"
+  ],
+  "symbol": "TONION",
+  "websites": [
+   "https://tonion.io"
+  ]
+ },
+ {
   "address": "0:9094377a7b25039563f6348527d99c8667c92d83f1ca5c1dbcf23bf82a9d587e",
   "description": "TON + PONKE = TONKE",
   "image": "https://raw.githubusercontent.com/TonkeOnTon/Tonke/main/tonke1.JPG",
@@ -6349,6 +6435,20 @@
   "symbol": "TWIF",
   "websites": [
    "https://trumpwifcoin.pro/"
+  ]
+ },
+ {
+  "address": "0:8357ed847fcdd8d636c87cd2f6b688d894537979887ecf8afb2ee3b7cfcedd4b",
+  "description": "The Best Memecoin on the TON Blockchain with unlimited hype! It is here to make memes.",
+  "image": "https://tonwolfmeme.com/tonwolf.webp",
+  "name": "Ton Wolf Memecoin",
+  "social": [
+   "https://t.me/tonwolfofficial",
+   "https://t.me/tonwolf_meme_bot/join"
+  ],
+  "symbol": "TWOLF",
+  "websites": [
+   "https://tonwolfwhitepaper.info"
   ]
  },
  {
@@ -7230,6 +7330,22 @@
   "symbol": "MAN",
   "websites": [
    "https://gentlemantoken.site/"
+  ]
+ },
+ {
+  "address": "0:29f8dc8cf0fa044474870c30896a1871b641773146e68bfb02f2268b9fe92372",
+  "decimals": 9,
+  "description": "Web3-\u0442\u043e\u043a\u0435\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u0441\u0442\u0451\u0442 \u043e\u0442 \u043f\u043e\u0431\u0435\u0434 \u0432 Dota 2. \u0425\u043e\u043b\u0434\u0438 NFT + GGWIN \u0438 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0439 \u0432 \u0440\u043e\u044f\u043b\u0442\u0438 \u0441\u0442\u0440\u0438\u043c\u043e\u0432.",
+  "image": "https://ggwin.life/meta/ggwin.png",
+  "name": "GGWIN",
+  "social": [
+   "https://t.me/ggwin_token",
+   "https://twitch.tv/uzsoul",
+   "https://x.com/ggwin_token"
+  ],
+  "symbol": "GGWIN",
+  "websites": [
+   "https://ggwin.life"
   ]
  },
  {
