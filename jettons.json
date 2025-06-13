@@ -5100,6 +5100,20 @@
   "symbol": "RUBETON"
  },
  {
+  "address": "0:c8e82cea0592bd6d1e7f17d3e3e33b9aeed96bfd9460cc69abd45698e0f67b51",
+  "description": "We've developed an incredibly cool app where you can play, mine, and collect real-time data from around the globe, giving you a rich dataset for AI and data mining projects. Complete quick tasks and earn money!",
+  "image": "https://runecoin.network/rune.png",
+  "name": "Runecoin Network",
+  "social": [
+   "https://x.com/RuneCoinNetwork",
+   "https://t.me/runecoinapp_bot/"
+  ],
+  "symbol": "RUNE",
+  "websites": [
+   "http://runecoin.network/"
+  ]
+ },
+ {
   "address": "0:48feec2dafa6861a1f9aea05d957d4710955fd32583a856c2a5b0174385ebf31",
   "description": "Rockets (your preferred stickers) and more - https://t.me/rocket_on_ton",
   "image": "https://i.ibb.co/q9D7Vb0/Rocket.png",
