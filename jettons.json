@@ -265,6 +265,20 @@
   ]
  },
  {
+  "address": "0:41c2dbf20fe910178abdd79f199fa5e402c40c2288fb0aee33eea4fb4c882266",
+  "description": "Official token of Altyn Store.",
+  "image": "https://i.postimg.cc/tgwQyz98/ALTYN.png",
+  "name": "ALTYN",
+  "social": [
+   "https://t.me/coinaltyn",
+   "https://x.com/AltynCoinBlum"
+  ],
+  "symbol": "ALTYN",
+  "websites": [
+   "https://altyn-store.ru/"
+  ]
+ },
+ {
   "address": "0:d5148695c63cbce286bad2c82db573b76ca773f2464fc419f84199b07c926abb",
   "description": "A project created to unite three worlds. The world of people, the world of crypto and the world of plant power.",
   "image": "https://i.imghippo.com/files/YTq5043SRg.jpg",
@@ -3456,6 +3470,21 @@
   "symbol": "LIQUID"
  },
  {
+  "address": "0:2e2dbec255aff738b46c3e2b0406b66b87095657620d830c1eb09fa128a1f742",
+  "description": "Where milk meets digits, magic happens...",
+  "image": "https://litrbull.github.io/litrlogo.png",
+  "name": "LITR",
+  "social": [
+   "https://t.me/litrbull",
+   "https://t.me/litrbullbot",
+   "https://x.com/litrbull"
+  ],
+  "symbol": "LITR",
+  "websites": [
+   "https://litrbull.com"
+  ]
+ },
+ {
   "address": "0:2b310049627d7149911f613eb0e465185bce027558f7c8568053fde33139306e",
   "description": "SecondLive is the leading AI and XR Social Nexus, using GenAI to craft virtual autonomous worlds for crypto enthusiasts, creators, AI fans, and business partners across Web2 and Web3.",
   "image": "https://cdn.secondlive.world/logo.png",
@@ -5083,6 +5112,20 @@
    "https://14zy.world/rubeton/"
   ],
   "symbol": "RUBETON"
+ },
+ {
+  "address": "0:c8e82cea0592bd6d1e7f17d3e3e33b9aeed96bfd9460cc69abd45698e0f67b51",
+  "description": "We've developed an incredibly cool app where you can play, mine, and collect real-time data from around the globe, giving you a rich dataset for AI and data mining projects. Complete quick tasks and earn money!",
+  "image": "https://runecoin.network/rune.png",
+  "name": "Runecoin Network",
+  "social": [
+   "https://x.com/RuneCoinNetwork",
+   "https://t.me/runecoinapp_bot/"
+  ],
+  "symbol": "RUNE",
+  "websites": [
+   "http://runecoin.network/"
+  ]
  },
  {
   "address": "0:48feec2dafa6861a1f9aea05d957d4710955fd32583a856c2a5b0174385ebf31",
