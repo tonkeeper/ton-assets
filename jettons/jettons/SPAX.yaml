@@ -1,0 +1,11 @@
+address: "EQBRu6uf2nrmyhButBPKc7xzvcrDvgYirRVM2-jXeT95qlVI"
+symbol: "SPAX"
+name: "Vermenspax"
+decimals: 9
+description: "SPAX is a Jetton token on the TON blockchain, designed for use in the Vermenspax Web3 game and its ecosystem."
+image: "https://raw.githubusercontent.com/Vermenspax/ton-assets/main/logo_256-removebg-preview.png"
+links:
+  - name: "Website"
+    url: "https://www.vermenspaxtapgame.com"
+  - name: "Telegram"
+    url: "https://t.me/spaxchannel"
