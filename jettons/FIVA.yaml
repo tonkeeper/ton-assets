@@ -185,3 +185,19 @@
 - symbol: LP stgUSD
   name: LP stgUSD (01Sep2025)
   address: "EQBTN8VsJfGFQpet3Za8au3BsIRsJGulIaFFpSQiE5ppZjeW"
+
+- symbol: SY tsTON
+  name: SY tsTON (01Sep2025)
+  address: "EQAPICp-A_2QNEb7xiBwAoeypEnhrtY5tJ_1vGGujjVvflTl"
+
+- symbol: PT tsTON
+  name: PT tsTON (01Sep2025)
+  address: "EQDrSi4iwKEmGHu92wcjhFX8ZubijTKEMMN1hRn3lxscPyyE"
+
+- symbol: YT tsTON
+  name: YT tsTON (01Sep2025)
+  address: "EQD2g3tUiGvqqepv7sTsmDChFJT3oBG5MDh1nWct1ls8XGK1"
+
+- symbol: LP tsTON
+  name: LP tsTON (01Sep2025)
+  address: "EQDX0WgEkv9hWLAAovC9zvQimBTILzRx0QCp610vVotmkCui"
