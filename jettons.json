@@ -6523,6 +6523,21 @@
   ]
  },
  {
+  "address": "0:6f7e96ac7fcd9a010524746641b80c65714477025eef6354fb89f0ba5170279e",
+  "description": "TLOFT \u2014 Real Estate-Powered Utility Token",
+  "image": "https://trueimages.ru/img/79/58/b1cf9486.png",
+  "name": "TVERLOFT",
+  "social": [
+   "https://t.me/tverloft",
+   "https://t.me/+X1xtthQXyfhiNTcy",
+   "https://t.me/tverloftbot"
+  ],
+  "symbol": "TLOFT",
+  "websites": [
+   "https://tverloft.ru"
+  ]
+ },
+ {
   "address": "0:2198385630a13f7995f494ede6c7925241cf96d8ef88950ec16972cc8a8c9e13",
   "image": "https://raw.githubusercontent.com/GbGr/pavlik228-assets/refs/heads/main/tvm.png",
   "name": "TVM",
