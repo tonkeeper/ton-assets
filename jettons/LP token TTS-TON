@@ -1,0 +1,10 @@
+name: Pool TTS-TON
+symbol: "TTS-TON LP"
+description: "TheTokenSpark LP tokens are tools for participating in the project ecosystem, allowing holders to receive rewards and participate in management."
+address: EQB47uzZ7_3OGnz6O3j19wVsV6Qenry7t8wfz1dF7tIyWK5b
+decimals: 9
+image: "https://c.tonapi.io/onchain/image/f8174786dac4a09a0040a110b63ad75d"
+websites:
+  - "https://thetokenspark.tilda.ws/"
+social:
+  - "https://t.me/+XDANmKC4KhpmMTE0"
