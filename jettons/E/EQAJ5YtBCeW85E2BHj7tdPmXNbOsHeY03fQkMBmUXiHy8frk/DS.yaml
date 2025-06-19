@@ -1,0 +1,11 @@
+address: EQAJ5YtBCeW85E2BHj7tdPmXNbOsHeY03fQkMBmUXiHy8frk
+symbol: DS
+name: Drift Street Zone
+description: |
+  Токен Drift Street Zone создан для автосообщества, мероприятий и NFT‑применения.
+decimals: 9
+max_supply: "200000000000"
+image: https://raw.githubusercontent.com/zverovskoy/ton-assets/main/jettons/E/EQAJ5YtBCeW85E2BHj7tdPmXNbOsHeY03fQkMBmUXiHy8frk/logo.png
+links:
+  - https://t.me/zverovskoi
+  - https://www.instagram.com/sergey_zverovskoy
