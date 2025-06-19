@@ -3608,6 +3608,20 @@
   ]
  },
  {
+  "address": "0:78eeecd9effdce1a7cfa3b78f5f7056c57a41e9ebcbbb7cc1fcf5745eed23258",
+  "decimals": 9,
+  "description": "Liquidity pool token for TheTokenSpark and Proxy TON on dedust.io DEX",
+  "image": "https://c.tonapi.io/onchain/image/f8174786dac4a09a0040a110b63ad75d",
+  "name": "LP Token for $TTS-TON",
+  "social": [
+   "https://t.me/+XDANmKC4KhpmMTE0"
+  ],
+  "symbol": "$TTS-TON LP",
+  "websites": [
+   "https://dedust.io/"
+  ]
+ },
+ {
   "address": "0:d30bc8eaf594982f618540bec24633ceff995b6bcd2b667908d09cda95c1305e",
   "decimals": 0,
   "description": "SquidTG Egg Token (Legacy)",
