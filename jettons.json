@@ -7227,6 +7227,20 @@
   ]
  },
  {
+  "address": "0:86a2266ed5c19c958fab9dc006a07da74e3f8cefdd93f4a0c00fae9f9bc23130",
+  "description": "The token of the new platform Ref2Earn: become our referral, and we will earn together!",
+  "image": "https://frontend.yumify.one/assets/img/clicker-coin.png",
+  "name": "YUMIFY",
+  "social": [
+   "https://t.me/yumify",
+   "https://x.com/yumify_ton"
+  ],
+  "symbol": "YUMI",
+  "websites": [
+   "https://yumify.one"
+  ]
+ },
+ {
   "address": "0:bd0db04a122ea06f39fce5710d0c34e5bbd99644b301f1c0659b7d45f3473476",
   "description": "Token for ZEN ecosystem",
   "image": "https://zencoin.dev/coin.png",
