@@ -3884,6 +3884,17 @@
   ]
  },
  {
+  "address": "0:4dd2a27754787c6bac532e4492fe72f3d2bf7fd2754e122d82d8261d9a63b535",
+  "description": "First open case APP with integration in TON BlockChain.",
+  "image": "https://bizarm.github.io/ENC/enc_logo_cropped.png",
+  "name": "EasyNFTCase",
+  "social": [
+   "https://t.me/easynftcase",
+   "https://t.me/enc_chat"
+  ],
+  "symbol": "MENC"
+ },
+ {
   "address": "0:af08315a295a85078792335af6a471d6014f8d8dc6d4eaf0c3514b1340aa888c",
   "description": "The official token of the Merge Pals universe.",
   "image": "https://cdn.mirailabs.co/merge-pals/MERGE.png",
