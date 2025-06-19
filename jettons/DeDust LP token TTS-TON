@@ -1,0 +1,10 @@
+name: DeDust Pool TTS/TON
+symbol: "TTS-TON LP"
+description: "Liquidity pool token TheTokenSpark"
+address: 0:78eeecd9effdce1a7cfa3b78f5f7056c57a41e9ebcbbb7cc1fcf5745eed23258
+decimals: 9
+image: "https://c.tonapi.io/onchain/image/f8174786dac4a09a0040a110b63ad75d"
+websites:
+  - "https://thetokenspark.tilda.ws/"
+social:
+  - "https://t.me/+XDANmKC4KhpmMTE0"
