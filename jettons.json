@@ -2446,6 +2446,17 @@
   "symbol": "LP tsTON"
  },
  {
+  "address": "0:e1505d0ddef9ed5b62c909e9ec7f9f3e7c3392a9303358166a6b6fc4f09abcba",
+  "description": "$FLEX \u2014 the token of influence. Created by influencers, for the community. Locks, utility, hype. Used for access, roles, drops, and events. Not just a flex \u2014 it\u2019s $FLEX.",
+  "image": "https://imagizer.imageshack.com/img923/8683/RjsqwH.png",
+  "name": "FLEX",
+  "social": [
+   "https://t.me/dovbynkacrypto",
+   "https://t.me/dovbynkachat"
+  ],
+  "symbol": "FLEX"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
