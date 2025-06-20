@@ -1,0 +1,13 @@
+{
+    "name": "THOR",
+    "symbol": "THOR",
+    "description": "THOR is a transparent, community-powered token on TON. Each swap has a 30% tax: 10% of the taxed amount is burned. The remaining 90% is split - 70% goes to holders, 30% to the developer for growth. HODL the hammer.",
+    "image": "https://raw.githubusercontent.com/ton-blockchain/token-jetton/main/jettons/EQBmCskIAAc8GqXkaJJDSCj8uW-mbYyRjEmnLY3E2KSYX9zQ/logo.png",
+    "address": "EQBmCskIAAc8GqXkaJJDSCj8uW-mbYyRjEmnLY3E2KSYX9zQ",
+    "symbol_image": "logo.png",
+    "decimals": 9,
+    "telegram": "https://t.me/thor_men",
+    "community": "https://t.me/asgard_thora",
+    "twitter": "https://x.com/THOR_GIGACHAD",
+    "marketplace": "https://getgems.io/thorodinson"
+}
