@@ -1,5 +1,19 @@
 [
  {
+  "address": "0:4ed8cc9c2e3186d5697982a91f754f1b635e57eb0f9fd499db968ea8f219be61",
+  "description": "Blink Genesis NFT is a limited collection of 3,333 unique NFTs, merging cutting-edge technology with next-gen gaming. Here, blinking isn\u2019t just a reflex\u2014it\u2019s your path to earning in Web3!",
+  "image": "https://raw.githubusercontent.com/blinkgame/logo/refs/heads/main/Blink%20Logo.png",
+  "name": "Blink AI Genesis NFT",
+  "social": [
+   "https://x.com/blinkgameapp",
+   "https://discord.com/invite/blinkgameai",
+   "https://t.me/blinkgameai_bot"
+  ],
+  "websites": [
+   "https://blink.game/"
+  ]
+ },
+ {
   "address": "0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55",
   "name": "Booli Reborn"
  },
