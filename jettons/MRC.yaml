@@ -1,0 +1,10 @@
+address: "0:ba42533425aad5fd25907f043ff85d44dadbadd674ff5e24c41a88f2d0c906bf"
+name: "MYROSEES COIN"
+symbol: "MRC"
+decimals: 9
+description: "The official coin of the MYROSEES ecosystem."
+image: "https://i.imgur.com/IeTrhuJ.png"
+websites:
+  - "https://myroseescoin.com"
+social:
+  - "https://t.me/MyRoseesCoin"
