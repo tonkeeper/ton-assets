@@ -1,6 +1,9 @@
 name: TOXIC X INVESTORS
-symbol: TXINV
-description: "TXINV - Investment token to support next generation game and app developers."
-address: 0:9746480ea109a77ed166e7c7648007f6620801f29ebf3181ebed1d9c2b7b2cbd
+description: TXINV - Investment token to support next generation game and app developers.
 image: "https://app.toxicx.space/assets/img/logo-tx-red-new.png"
+address: 0:9746480ea109a77ed166e7c7648007f6620801f29ebf3181ebed1d9c2b7b2cbd
+symbol: TXINV
 decimals: 9
+social:
+  - "https://t.me/toxic_x_official"
+  - "https://t.me/toxic_x_nft"
