@@ -1337,5 +1337,11 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "image": "https://tonstakers.com/jetton/logo.svg",
   "name": "Tonstakers master"
+ },
+ {
+  "address": "0:9c7d141c714abee88d0b6ad16b406eaadb770b4706f5d72dc19e4becc152ee53",
+  "image": "https://app.toxicx.space/assets/img/logo-tx-red-new.png",
+  "name": "TOXIC X GAME",
+  "require_memo": true
  }
 ]
