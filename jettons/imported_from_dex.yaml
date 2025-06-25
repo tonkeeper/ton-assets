@@ -1325,6 +1325,9 @@
 - address: 0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce
   name: Ton Doge Coin
   symbol: TonDoge
+- address: 0:8719fb83fa3e34cba2b14e6c820b8ba5b6ecf42b73c4be0467afc532746b60fc
+  name: Tonio
+  symbol: Tonio
 - address: 0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25
   name: UNICORN
   symbol: UNIC
@@ -1349,6 +1352,9 @@
 - address: 0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5
   name: Vincere
   symbol: VC
+- address: 0:1398564a476ffb0b1e1962cfe6463d8405ddfb909358bfcbb73e954f645be16e
+  name: "VEREM - Verified Emeralds \u2122"
+  symbol: VEREM
 - address: 0:491153a8b7e25ccfa6e3e3985454d447847643b6e17bb6ce592488235bfb6506
   name: Vilarso
   symbol: VILARSO
