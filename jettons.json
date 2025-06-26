@@ -2673,6 +2673,21 @@
   ]
  },
  {
+  "address": "0:7f2f2f1328341331bb2c905510e64883268c3b6015e6735d941a36f1ed2e0845",
+  "decimals": 9,
+  "description": "Strides of Revival \ud83d\udc63",
+  "image": "https://i.ibb.co/NgtHrQS8/Gear-logo.png",
+  "name": "Gear Runner",
+  "social": [
+   "https://x.com/GearRunner_M2E",
+   "https://t.me/GearRunner_Official"
+  ],
+  "symbol": "GEAR",
+  "websites": [
+   "https://gearrunner.app"
+  ]
+ },
+ {
   "address": "0:38dae9bea5fddb27a287d3c16ff3e00b18eb746b8fb8eb47ad81e6b27498d846",
   "decimals": 9,
   "description": "GECKO \u2014 In the world of beasts b\u0435 \u0430 gecko, just chill.",
