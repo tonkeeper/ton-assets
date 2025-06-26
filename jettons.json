@@ -5170,6 +5170,19 @@
   ]
  },
  {
+  "address": "0:7c8b3aa9ae4f189bab131770ae456caecf597c4b685d46e843dcc09b3590409b",
+  "decimals": 9,
+  "description": "Rinat Abdrakhmanov (Rinatto L\u2019bank) \nInterdisciplinary artist, media artist, digital artist, new media artist, nft-artist, representative of transmedial art. \nBorn in 1992 in Kazakhstan.",
+  "image": "https://s3.blum.codes/d2dad604-96c0-4242-8011-d8bc641db53c/305bcd13-c14f-4139-95b8-a80843a3069a",
+  "name": "\u03a3\u03c3\u03c2",
+  "social": [
+   "https://t.me/lbankart",
+   "https://t.me/rinat_meme",
+   "https://x.com/Lbank_"
+  ],
+  "symbol": "RINAT"
+ },
+ {
   "address": "0:4da7033be81d36a70fe3fd43da6a6bdb5317ea1595a636a3c2405ed1a1f9cbc6",
   "description": "Get your roddgazm here",
   "image": "https://raw.githubusercontent.com/rodd-oss/roddgazm/refs/heads/main/assets/logo.png",
