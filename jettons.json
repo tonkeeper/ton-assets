@@ -738,6 +738,18 @@
   ]
  },
  {
+  "address": "0:752eec0dd88647be9bc03e76309ed8f4406b9ba164a864efadee45f506ba64bf",
+  "description": "\u0422\u043e\u043a\u0435\u043d \u043b\u0435\u0433\u0435\u043d\u0434\u044b TON, Staking 100% - 100 \u0434\u043d\u0435\u0439",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb1luwn2izhvpvapnywntj0qgubowsozo-t7kx1brpkv3td.png?size=lg&key=1164fb",
+  "name": "SAM BIKBAEV 100",
+  "social": [
+   "https://t.me/BikbaevS",
+   "www.instagram.com/semen_bikbaev",
+   "https://x.com/sam_bikbaev"
+  ],
+  "symbol": "BIKBS100"
+ },
+ {
   "address": "0:aeda1bf9c5fe358ac5b95045c4c10909056e4790dedaae3082c8f3e9a2fca4cf",
   "image": "https://crypto-billions.github.io/resources/icon.png",
   "name": "BITON",
