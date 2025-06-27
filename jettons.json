@@ -7470,6 +7470,11 @@
   "symbol": "FIG"
  },
  {
+  "address": "0:808f9a22451ad7a2462c83f07e7b4286f71330879ba9af923c1d0cc4ae6d3f04",
+  "name": "Blum",
+  "symbol": "BLUM"
+ },
+ {
   "address": "0:92c4664f1ea6b74ed9ce0e031a9fc0843348dfe87a58faea27fcd31e1608caaa",
   "description": "TON liquid staking token by bemo",
   "name": "Bemo",
