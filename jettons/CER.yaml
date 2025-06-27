@@ -1,0 +1,11 @@
+name: CERCOIN
+description: Cerus Ecosystem mining Coin
+image: "https://cerus.online/cerminer/logo.png"
+address: 0:40c44e73599144c98899a6f4876bd2c24952b3a075575c05f50947aeb6a778d8
+symbol: CER
+websites:
+  - "https://cerus.online"
+  - "https://t.me/cerminer_bot"
+social:
+  - "https://t.me/cerus_ton"
+  - "https://x.com/cerminer_ton"
