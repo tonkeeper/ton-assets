@@ -1,0 +1,11 @@
+name: John Tsubasa Rivals
+symbol: JOHN
+description: "John is the core token for the TSUBASA -Rivals- mini-app on Telegram and LINE. Users can earn seasonal airdrops by playing the game."
+address: EQDOJOiLcCeUuzs1tNgk0e2zICgD77ruNMZ7XZaWU3FQq2KH
+decimals: 18
+image: "https://tg.staking.tsubasa-rivals.com/john_coin.png"
+websites:
+  - "https://ton.tsubasa-rivals.com/"
+social:
+  - "https://x.com/TsubasaRVonTG"
+  - "https://t.me/TsubasarivalsAnnounce"
