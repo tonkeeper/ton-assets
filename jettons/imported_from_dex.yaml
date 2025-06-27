@@ -115,6 +115,9 @@
 - address: 0:7f2bd4cc4bd8e563515351f5b786904279da98b0c77e81c8db5a89307b7e6d09
   name: BER THE BEAR
   symbol: BER
+- address: 0:808f9a22451ad7a2462c83f07e7b4286f71330879ba9af923c1d0cc4ae6d3f04
+  name: Blum
+  symbol: BLUM
 - address: 0:a7964987cf9c929552df794ab33e4ea96a3c39bdd538f09ccbe9282f02cfaf86
   name: BLUPE
   symbol: BLUPE
