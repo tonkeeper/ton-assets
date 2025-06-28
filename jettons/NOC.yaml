@@ -1,0 +1,11 @@
+name: NoNoCoin
+description: NoNoCoin is your all-in-one crypto and gaming platform, fully integrated within Telegram, powered by the fast and secure TON Blockchain.
+image: "https://i.ibb.co/SwTWMCVC/qicon-nonocoin.png"
+address: "0:8e2686e8d344b5fde6f79ad1384dc5fa2bfc6bf3e94fb802931256af53f16d1a"
+symbol: NOC
+decimals: 9
+websites:
+  - "https://nonocoin.io/"
+social:
+  - "https://t.me/nonocoin_Community"
+  - "https://x.com/no_nocoin"
