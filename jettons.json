@@ -12612,5 +12612,20 @@
   "image": "https://tonco.io/static/token/WTTON_TOKEN.png",
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
- }
+ },
+ {
+  "address": "0:8e2686e8d344b5fde6f79ad1384dc5fa2bfc6bf3e94fb802931256af53f16d1a",
+  "decimals": 9,
+  "description": "NoNoCoin is your all-in-one crypto and gaming platform, fully integrated within Telegram, powered by the fast and secure TON Blockchain.",
+  "image": "https://salmon-accused-puma-149.mypinata.cloud/ipfs/bafkreifadkek6ji3b6egiz7457y73ckcz65v2r2nnqogqxtbeaxmyyluvy?pinataGatewayToken=Nc4R8TH9sXtjJQUiqvn_ZXvRnNYOlp6eH8lT7JTr0zEUEZV2BjEMU-81HiF2dy5x",
+  "name": "NoNoCoin",
+  "social": [
+    "https://t.me/nonocoin_Community",
+    "https://x.com/no_nocoin"
+  ],
+  "symbol": "NOC",
+  "websites": [
+    "https://nonocoin.io/"
+  ]
+}
 ]
