@@ -102,6 +102,19 @@
   ]
  },
  {
+  "address": "0:bfa44280398b3b226a783d068dd12f45b1633a945aee2832e7f3d90a095f0116",
+  "description": "Lizzard Kombat is a new meme coin that attracts the attention of investors and enthusiasts due to its uniqueness and growth potential. It is based on the Internet meme \"LIZZARD coin\", which has become a symbol of humor, creativity and positive attitude in the online community.",
+  "image": "https://avatars.mds.yandex.net/get-shedevrum/14441318/img_12a7d27daf6f11ef98a6fa9c70a2dfc2/orig",
+  "name": "LizzardKombat",
+  "social": [
+   "https://t.me/lzrdkombat"
+  ],
+  "symbol": "LIZZARD",
+  "websites": [
+   "http://lizzardkombatannouncement.tilda.ws/"
+  ]
+ },
+ {
   "address": "0:aa8cbb7715a47e53a0fc36984e048d0328b918ed1deb92ad84c1ddf10fa4c366",
   "description": "Meta Miner is mining based on the DePin principle",
   "name": "Meta Miner",
