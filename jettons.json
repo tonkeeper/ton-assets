@@ -347,6 +347,13 @@
   ]
  },
  {
+  "address": "0:365c15bb3006d28eae67eed5b6fd2465af45eac09654d0beaeea62c530a742e5",
+  "description": "The MOST EPIC crypto festival in the history of CIS, America and Asia! \ud83d\uddfd\ud83d\udc8e Join the legendary ARBUBA revolution on TON blockchain! Become part of crypto history! \ud83d\ude80\ud83c\udf1f",
+  "image": "https://tonarbuz.fun/logo3.PNG",
+  "name": "ARBUBA",
+  "symbol": "ARBUBA"
+ },
+ {
   "address": "0:5745d6539393f8f662f49ce61f0d1d55477dcddec3d4801ecf35031a8fa0e1c4",
   "description": "ARC is the utility token released by the ecosystem Architec.ton, based on the Telegram ecosystem. ARC is the main token used inside apps (games etc.) in Architec.ton ecosystem.",
   "image": "https://raw.githubusercontent.com/Architec-Ton/banktoken/refs/heads/main/docs/ARC.png",
@@ -12703,6 +12710,20 @@
   ]
  },
  {
+  "address": "0:a21f39dd95335e1e0394969e22c1bfa3040d2088705dceac129518524b0c7ebc",
+  "description": "A piece of Spy Agaric",
+  "image": "https://nft.fragment.com/collection/spyagaric.webp",
+  "name": "Spy Agaric Shard",
+  "symbol": "wAGARIC"
+ },
+ {
+  "address": "0:71bfaebe5f2d27d004cad9324f140cf4762adcf907cca0251b922943272ccd5a",
+  "description": "A piece of Loot Bag",
+  "image": "https://nft.fragment.com/collection/lootbag.webp",
+  "name": "Loot Bag Shard",
+  "symbol": "wBAG"
+ },
+ {
   "address": "0:bb37e63db4e1bfe55ea1ec1e30e762cde58f362a6c7741b9f77c06b5a6c20d2c",
   "description": "A piece of Toy Bear",
   "image": "https://nft.fragment.com/collection/toybear.webp",
@@ -12710,11 +12731,74 @@
   "symbol": "wBEAR"
  },
  {
+  "address": "0:c6d541ac0148960e5162420cae3cd8a325e48be6708c17f808b21075cb0a61de",
+  "description": "A piece of Jelly Bunny",
+  "image": "https://nft.fragment.com/collection/jellybunny.webp",
+  "name": "Jelly Bunny Shard",
+  "symbol": "wBUNNY"
+ },
+ {
+  "address": "0:3dcbc4afaa4a1f470199e51dfad6ecf82ef3ac4e647b0a36dfbb407fc1831b15",
+  "description": "A piece of Homemade Cake",
+  "image": "https://nft.fragment.com/collection/homemadecake.webp",
+  "name": "Homemade Cake Shard",
+  "symbol": "wCAKE"
+ },
+ {
+  "address": "0:f29275a46d7cb51c56971db979638d69f4c814183f7235c23845c26499760eb8",
+  "description": "A piece of Durov's Cap",
+  "image": "https://nft.fragment.com/collection/durovscap.webp",
+  "name": "Durov's Cap Shard",
+  "symbol": "wCAP"
+ },
+ {
+  "address": "0:a93df3eb3194eaba7997892cb81c6a95bc872078c6b275354ffb55cb674c9600",
+  "description": "A piece of Vintage Cigar",
+  "image": "https://nft.fragment.com/collection/vintagecigar.webp",
+  "name": "Vintage Cigar Shard",
+  "symbol": "wCIGAR"
+ },
+ {
+  "address": "0:9c46c878745d885a5d0f96a9000b94f4d9334ac561b38411fdbd16c47f7b5f37",
+  "description": "A piece of Tama Gadget",
+  "image": "https://nft.fragment.com/collection/tamagadget.webp",
+  "name": "Tama Gadget Shard",
+  "symbol": "wGADGET"
+ },
+ {
+  "address": "0:794bd007023bacab382a75bc65116bd9a17fce405e664a8f0d0561b0511e04da",
+  "description": "A piece of Neko Helmet",
+  "image": "https://nft.fragment.com/collection/nekohelmet.webp",
+  "name": "Neko Helmet Shard",
+  "symbol": "wHELMET"
+ },
+ {
+  "address": "0:5e334b6cba0c81b37f5645263f3c02a3fe43eeec6846743d5c527090b563ce15",
+  "description": "A piece of Precious Peach",
+  "image": "https://nft.fragment.com/collection/preciouspeach.webp",
+  "name": "Precious Peach Shard",
+  "symbol": "wPEACH"
+ },
+ {
   "address": "0:52a3c955ead215091e88a2e35609a2fffd013386fbca107fe919e1d01cf14f2f",
   "description": "A piece of Plush Pepe",
   "image": "https://nft.fragment.com/collection/plushpepe.webp",
   "name": "Pepe Shard",
   "symbol": "wPepe"
+ },
+ {
+  "address": "0:ed328437bd3af72b06764e35491fcf7b395aebf9716c160f719e1e64718d58d3",
+  "description": "A piece of Astral Shard",
+  "image": "https://nft.fragment.com/collection/astralshard.webp",
+  "name": "Astral Shard Shard",
+  "symbol": "wSHARD"
+ },
+ {
+  "address": "0:c29288af678debfff9d2bb523bc4325a5891b5e1afebef93da7f92c145550af2",
+  "description": "A piece of Party Sparkler",
+  "image": "https://nft.fragment.com/collection/partysparkler.webp",
+  "name": "Party Sparkler Shard",
+  "symbol": "wSPARKLER"
  },
  {
   "address": "0:949c4c66760c002800e2fa3d8a3ca4e1c90a9373b53ae7472033483bf14cd95e",
