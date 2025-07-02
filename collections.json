@@ -72,6 +72,32 @@
   ]
  },
  {
+  "address": "0:7c906f02007b6cb31f69a1060f31efcb8aecd2734202a19f1bacddc286497f18",
+  "description": "This exclusive NFT collection features 99 stunning diamond art pieces, each uniquely designed with intricate wolf imagery.",
+  "image": "https://ipfs.io/ipfs/QmSCNgMiAvkVVZpKcP3hbtWAAQNqtq1NnBzRKvWbXvcvo5/tago_diamonds.png",
+  "name": "Tago Diamonds",
+  "social": [
+   "https://t.me/TagoWolf",
+   "https://t.me/TagoWolf_Chat"
+  ],
+  "websites": [
+   "https://tago.ogatonton.org/"
+  ]
+ },
+ {
+  "address": "0:b6b812d4f309c73e7d39c59a0847516de9a332d2adef9bd3629284f0d19bbf4c",
+  "description": "Immerse yourself in the world of Tago \u2014 the dark, beautiful and mysterious world of wolves.",
+  "image": "https://ipfs.io/ipfs/QmSCNgMiAvkVVZpKcP3hbtWAAQNqtq1NnBzRKvWbXvcvo5/tago_world.png",
+  "name": "Tago World",
+  "social": [
+   "https://t.me/TagoWolf",
+   "https://t.me/TagoWolf_Chat"
+  ],
+  "websites": [
+   "https://tago.ogatonton.org/"
+  ]
+ },
+ {
   "address": "0:c5e44022dc5a4785cb0bc0493960e990edf0c0cfcdf66c8621fcc757ba0a72ed",
   "description": "Explore Anycraft\u2019s exclusive NFT collection, where each item is crafted by players from unique creations. In Anycraft, only the original inventor of an item or a new recipe has the right to mint an NFT. \u2b50 Gold stars mark first discoveries, while silver stars represent unique crafting methods. All NFTs can be imported back into the game for more crafting possibilities. Plus, each NFT unlocks free boosters and other benefits \u2014 check them out in Anycraft!",
   "image": "https://public.anycraft.io/nft/assets/collection_logo.png",
