@@ -1,3 +1,5 @@
 .idea/
 venv/
 __pycache__/
+
+jetons > SORM.yaml
