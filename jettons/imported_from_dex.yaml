@@ -229,6 +229,9 @@
 - address: 0:2e0c6dd9d15d3ca1a77ac10ccd2b44f5cc76d4fc763fe85b5e99d5ac109f5d1e
   name: CHADUROV
   symbol: CHADUROV
+- address: 0:5a8d661bf9d372d2c9049668a3d689c98d793f38d0b1fcdd7104ec9368f691bd
+  name: CHAMBY
+  symbol: CHAMBY
 - address: 0:5e9d609d3010082eb887f323d7f5b7e68dc66599eaf52604431c359b9432b5dd
   name: ChipiCoin
   symbol: CHAPA
@@ -379,6 +382,9 @@
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
+- address: 0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce
+  name: F
+  symbol: F
 - address: 0:fa7dd071d073f5dc97dc56870f8100a32aaa4a5e1de15d23151951dee72440d5
   name: Fast UP
   symbol: FAST
