@@ -1,0 +1,10 @@
+name: LP Token for $LIZZARD-TTS
+symbol: "$LIZZARD-TTS LP"
+description: "Liquidity pool token for LizzardKombat and TheTokenSpark on dedust.io DEX"
+address: EQCf_m9ZRwq9g1Yhr067Ur6DTOwGxfWZTlCslNxLed71sYtd
+decimals: 9
+image: "https://c.tonapi.io/onchain/image/f8174786dac4a09a0040a110b63ad75d"
+websites:
+  - "https://thetokenspark.tilda.ws/"
+social:
+  - "https://t.me/thetokenspark"
