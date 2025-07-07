@@ -1,0 +1,12 @@
+name: LP Token for CER-USD₮
+symbol: "CER-USD₮ LP"
+description: "Liquidity pool token for CerMiner Coin and Tether USD on STON.fi DEX"
+address: EQCamaYNOrcD-mnYFjciyjX-b_9Bu7yYx0FUHkd1xXRdOrLo
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:9a99a60d3ab703fa69d8163722ca35fe6fff41bbbc98c741541e4775c5745d3a.png"
+websites:
+  - "https://cerus.online"
+  - "https://t.me/cerminer_bot"
+social:
+  - "https://t.me/cerus_ton"
+  - "https://x.com/cerminer_ton"
