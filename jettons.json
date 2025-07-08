@@ -3063,6 +3063,19 @@
   ]
  },
  {
+  "address": "0:13850ba8f54adeeac10c1dd8d63ea26f876698a84530fde2a39b31ce9df83ef8",
+  "description": "HeeHawCoin for HHC Company",
+  "image": "https://i.yapx.ru/ZkTOW.png",
+  "name": "HeeHawCoin",
+  "social": [
+   "https://t.me/heehawcoin"
+  ],
+  "symbol": "HHC",
+  "websites": [
+   "https://heehawcoin.tilda.ws/"
+  ]
+ },
+ {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
   "decimals": 9,
   "name": "Hamster Kombat",
