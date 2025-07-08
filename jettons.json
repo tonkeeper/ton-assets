@@ -6439,6 +6439,20 @@
   ]
  },
  {
+  "address": "0:e37c9676fe62b574fc1e37a763b6768d283ebba49094a6138bfb23c9e6cada36",
+  "description": "Coin of the lupa world game",
+  "image": "https://app.thelupaworld.space/logo.png",
+  "name": "The Lupa World",
+  "social": [
+   "https://t.me/thelupaworld_bot",
+   "https://t.me/thelupaworld_community"
+  ],
+  "symbol": "THELUPA",
+  "websites": [
+   "https://thelupaworld.space"
+  ]
+ },
+ {
   "address": "0:88a9178415f1f764dc6a5c38b6c4697c9e67eb32e406e1a02011be7ab9101af0",
   "description": "Warthog (THOG) is a memecoin with a mission, a unique cryptocurrency inspired by the global viral trend of the Warthog \"KASONGO\" and its endearing \"reverse turbo\" antics. But $THOG is more than just a meme; it's a movement",
   "image": "https://thogtoken.com/assets/img/thogtoken.png",
