@@ -6417,6 +6417,22 @@
   ]
  },
  {
+  "address": "0:1fb359c8c486a4fb614a7d620de5ad5c87f7090e77d1e47d382dcd1ad35bb906",
+  "description": "Telegram one million users, tgMEME one million holders",
+  "image": "https://pbs.twimg.com/profile_images/1926845395696594945/WiEI074P_400x400.jpg",
+  "name": "tgMEME",
+  "social": [
+   "https://t.me/TgMEMEcom",
+   "http://t.me/tgMEMEcommunity",
+   "https://x.com/tgMemeCom"
+  ],
+  "symbol": "TGMEME",
+  "websites": [
+   "https://t.me/blum/app?startapp=memepadjetton_TGMEME_3ejMI-ref_9GYZFzISMY",
+   "https://dexscreener.com/ton/EQAfs1nIxIak-2FKfWIN5a1ch_cJDnfR5H04Lc0a01u5BtaI"
+  ]
+ },
+ {
   "address": "0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b",
   "coingecko": "https://www.coingecko.com/en/coins/tg20-tgram",
   "coinmarketcap": "https://coinmarketcap.com/currencies/tg20-tgram/",
