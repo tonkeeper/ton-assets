@@ -328,6 +328,20 @@
   ]
  },
  {
+  "address": "0:ceaf34312ace94e6427869e99b97fc6f8d7fcb8c9b6165219bc4e27a1ddfc403",
+  "description": "Agent 301 is a Telegram-based Do2Earn game with mini-games and social tasks. The $AP token powers in-game energy, boosts, staking, voting, and premium access.",
+  "name": "Agent Points",
+  "social": [
+   "https://t.me/app301",
+   "https://x.com/301Community"
+  ],
+  "symbol": "AP",
+  "websites": [
+   "https://t.me/Agent301Bot/app",
+   "https://static.agent301.org"
+  ]
+ },
+ {
   "address": "0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a",
   "name": "AIYA PowerCell",
   "symbol": "APC"
