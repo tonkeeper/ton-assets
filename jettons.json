@@ -1255,6 +1255,21 @@
   "symbol": "CATS"
  },
  {
+  "address": "0:40c44e73599144c98899a6f4876bd2c24952b3a075575c05f50947aeb6a778d8",
+  "description": "Cerus Ecosystem mining Coin",
+  "image": "https://cerus.online/cerminer/logo.png",
+  "name": "CerMiner Coin",
+  "social": [
+   "https://t.me/cerus_ton",
+   "https://x.com/cerminer_ton"
+  ],
+  "symbol": "CER",
+  "websites": [
+   "https://cerus.online",
+   "https://t.me/cerminer_bot"
+  ]
+ },
+ {
   "address": "0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58",
   "name": "Cock Fights Token",
   "symbol": "CFT"
