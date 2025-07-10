@@ -3090,6 +3090,20 @@
   "symbol": "HEDGE"
  },
  {
+  "address": "0:19559375fbe621dc337f98e8e24b183836f13d0ddf5a0958dd93b455a252d671",
+  "description": "Meme coin for NFT purchases on TON",
+  "image": "http://barashf5.beget.tech/heets_logo.jpg",
+  "name": "Heets",
+  "social": [
+   "https://x.com/heetscoin?s=11",
+   "https://t.me/heetscoin"
+  ],
+  "symbol": "HEETS",
+  "websites": [
+   "https://heetscoin.tilda.ws/"
+  ]
+ },
+ {
   "address": "0:116d552a66cb7f6ba5d530e8217e2fb9d2a827b39fce43c967bd9c5af40a4d40",
   "description": "It's just a $HEX token, probably needed for something.",
   "image": "https://cdn.hexcube.io/jettons/EQARbVUqZst_a6XVMOghfi-50qgns5_OQ8lnvZxa9ApNQCET/hex.png",
