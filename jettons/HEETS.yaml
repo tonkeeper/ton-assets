@@ -1,10 +1,10 @@
-name: Heets
+name: HEETS
 description: Meme coin for NFT purchases on TON
 image: "http://barashf5.beget.tech/heets_logo.jpg"
-address: EQAZVZN1--Yh3DN_mOjiSxg4NvE9Dd9aCVjdk7RVolLWcb63
+addres: EQAZVZN1--Yh3DN_mOjiSxg4NvE9Dd9aCVjdk7RVolLWcb63
 symbol: HEETS
 websites:
-  - "https://heetscoin.tilda.ws/"
+  - "https://heetscoin.tilda.ws"
 social:
-  - "https://x.com/heetscoin?s=11"
-  - "https://t.me/heetscoin"
+ -"https://t.me/heetscoin"
+ -"https://x.com/heetscoin?s=11"
