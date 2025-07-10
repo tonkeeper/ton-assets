@@ -12724,6 +12724,11 @@
   ]
  },
  {
+  "address": "0:44fe006b53798f23d8478e526847f918cab8508320850fa11459f6b8d96f13ec",
+  "name": "TAC token",
+  "symbol": "TAC"
+ },
+ {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD",
   "symbol": "USD\u20ae"
