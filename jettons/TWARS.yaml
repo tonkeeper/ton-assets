@@ -1,0 +1,10 @@
+name: TradingWars Token
+description: TWARS powers Trading Wars, a Telegram-based trading game using real historical crypto charts. Compete, earn, and withdraw tokens to your TON wallet.
+image: "https://tradingwars.site/public/coin_512x512.png"
+address: EQAsJeOGyxYmAyrv5i9jfgNLU0yXeXS4XzgLWllJNPI04hZG
+symbol: TWARS
+websites:
+  - "https://tradingwars.site"
+social:
+  - "https://t.me/tradingWarsCommunity"
+  - "https://t.me/TradingWars_bot"
