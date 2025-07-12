@@ -195,6 +195,20 @@
   ]
  },
  {
+  "address": "0:5b92bf905a5f1fb0880e6734d49a723cbe9473cc2afc3b9bd145cbd68247a0ff",
+  "description": "First trade to earn token, where you get back up to 50% of the fees paid on the exchange!",
+  "image": "https://affiliate-token.com/_next/image?url=%2Flogo.png&w=256&q=100",
+  "name": "Affiliate Token",
+  "social": [
+   "https://t.me/Cryptos_Education",
+   "https://www.youtube.com/channel/UCw82CzuCDcaPCzhQ3QI7CRw"
+  ],
+  "symbol": "AFL",
+  "websites": [
+   "https://affiliate-token.com/ru/about"
+  ]
+ },
+ {
   "address": "0:d91c735a7bb5e47f727b7613e69ca22fdbb5b9dd3446ea8344af74dd9b524630",
   "description": "AI Image Generator (AIIG) Token is a digital asset that unlocks a world of boundless creativity through neural networks. The AIIG token is an integral part of the AI Image Generator ecosystem, where artificial intelligence becomes your guide to creating unique images, photos, and videos.",
   "image": "https://aiimagecreator.ru/images/ai_logo_big.png",
@@ -4950,6 +4964,13 @@
    "https://t.me/b_Appka_hub"
   ],
   "symbol": "PRZH"
+ },
+ {
+  "address": "0:7cf981b7cddd5b053ac6bc7abbbc4c9546c1e2cc6cbb1581cf38795eafcb3b4a",
+  "description": "pu-pu-puu...",
+  "image": "https://pupupu.fun/PUPUPU.jpeg",
+  "name": "PUPUPU",
+  "symbol": "PUPUPU"
  },
  {
   "address": "0:3f168971fcaa9d7d1c416d9f590556834dd43fcc0833391260c24b0fe0e1d1cb",
@@ -12722,6 +12743,76 @@
   "websites": [
    "syde.fi"
   ]
+ },
+ {
+  "address": "0:44fe006b53798f23d8478e526847f918cab8508320850fa11459f6b8d96f13ec",
+  "name": "TAC token",
+  "symbol": "TAC"
+ },
+ {
+  "address": "0:1d91c6a250cc0039c3337d6da6da691edc6e1174390be0377881f82c24d3f133",
+  "name": "USN",
+  "symbol": "USN"
+ },
+ {
+  "address": "0:3873a4a119ab5a7a917eb019cffed78ed6d65c511710073c9e565895de2d0b22",
+  "name": "sUSN",
+  "symbol": "sUSN"
+ },
+ {
+  "address": "0:4c796792dcc1986112861675a988b4425fd20aad16be2ef6c102bf33f6f0f101",
+  "name": "dogwifhat",
+  "symbol": "WIF"
+ },
+ {
+  "address": "0:d03a0b5f805ea68ee11cc4c8cd7663f7e090defa3b08597534200221232c4146",
+  "name": "cbBTC (OFT)",
+  "symbol": "cbBTC"
+ },
+ {
+  "address": "0:ab2d1af0cd5d60755e3aea0429457806ba4362937544c4583de799dc59088537",
+  "name": "wstETH",
+  "symbol": "wstETH"
+ },
+ {
+  "address": "0:5390b02112d7990918117bfc4cb39644d1b32b76e63129bcb3182a575d6f1d45",
+  "name": "WETH (OFT)",
+  "symbol": "WETH"
+ },
+ {
+  "address": "0:976525d85b589495d4a3a3b3889e8af7f960f5717ccb41d84aa1cabf7c8e5f87",
+  "name": "WTAC",
+  "symbol": "WTAC"
+ },
+ {
+  "address": "0:6a9f68e66792e20d41b8993b36f2e66c4eca19b93053d8effa49de22709c3d1d",
+  "name": "wstUSR",
+  "symbol": "wstUSR"
+ },
+ {
+  "address": "0:a394db07152012b45d85585179a32c702a89807a2443aa449dd5c2cc204790d6",
+  "name": "RLP",
+  "symbol": "RLP"
+ },
+ {
+  "address": "0:1c63901245074dd5498cf413316323447d7077cb072c438164153d8325dcefc3",
+  "name": "USR",
+  "symbol": "USR"
+ },
+ {
+  "address": "0:ffc575c28628bb4474b13f1cc8e8cb5b94881b46ba77a77c17b758bf8ad21776",
+  "name": "BUSD",
+  "symbol": "BUSD"
+ },
+ {
+  "address": "0:46a6fcc52eca102ac24309d5ede0f0441468f6ba14b1fc446c607904937294a8",
+  "name": "LBTC",
+  "symbol": "LBTC"
+ },
+ {
+  "address": "0:a760235e5022a6d3aeb32050892891cd7a8a2732db8dcda7df2f4e17cc65e490",
+  "name": "M-BTC",
+  "symbol": "M-BTC"
  },
  {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
