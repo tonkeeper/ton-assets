@@ -3443,6 +3443,20 @@
   ]
  },
  {
+  "address": "0:5aeb2b3e92a7a61931338224ba62445e22564580cb2ee9ac4ade4b3b195cd2ab",
+  "description": "1000 KG per 1 TON or nothing",
+  "image": "https://kekiusreborn.org/img/core-img/kekius-logo-2.png",
+  "name": "Kilogram",
+  "social": [
+   "https://t.me/KGonTON",
+   "https://x.com/KGonTON"
+  ],
+  "symbol": "KG",
+  "websites": [
+   "https://www.kgonton.com"
+  ]
+ },
+ {
   "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
   "description": "Is an ecosystem token in the TON blockchain with a large Telegram community.",
   "image": "https://i.ibb.co/FbTCKRP/logotokenkingy.png",
