@@ -12750,6 +12750,71 @@
   "symbol": "TAC"
  },
  {
+  "address": "0:1d91c6a250cc0039c3337d6da6da691edc6e1174390be0377881f82c24d3f133",
+  "name": "USN",
+  "symbol": "USN"
+ },
+ {
+  "address": "0:3873a4a119ab5a7a917eb019cffed78ed6d65c511710073c9e565895de2d0b22",
+  "name": "sUSN",
+  "symbol": "sUSN"
+ },
+ {
+  "address": "0:4c796792dcc1986112861675a988b4425fd20aad16be2ef6c102bf33f6f0f101",
+  "name": "dogwifhat",
+  "symbol": "WIF"
+ },
+ {
+  "address": "0:d03a0b5f805ea68ee11cc4c8cd7663f7e090defa3b08597534200221232c4146",
+  "name": "cbBTC (OFT)",
+  "symbol": "cbBTC"
+ },
+ {
+  "address": "0:ab2d1af0cd5d60755e3aea0429457806ba4362937544c4583de799dc59088537",
+  "name": "wstETH",
+  "symbol": "wstETH"
+ },
+ {
+  "address": "0:5390b02112d7990918117bfc4cb39644d1b32b76e63129bcb3182a575d6f1d45",
+  "name": "WETH (OFT)",
+  "symbol": "WETH"
+ },
+ {
+  "address": "0:976525d85b589495d4a3a3b3889e8af7f960f5717ccb41d84aa1cabf7c8e5f87",
+  "name": "WTAC",
+  "symbol": "WTAC"
+ },
+ {
+  "address": "0:6a9f68e66792e20d41b8993b36f2e66c4eca19b93053d8effa49de22709c3d1d",
+  "name": "wstUSR",
+  "symbol": "wstUSR"
+ },
+ {
+  "address": "0:a394db07152012b45d85585179a32c702a89807a2443aa449dd5c2cc204790d6",
+  "name": "RLP",
+  "symbol": "RLP"
+ },
+ {
+  "address": "0:1c63901245074dd5498cf413316323447d7077cb072c438164153d8325dcefc3",
+  "name": "USR",
+  "symbol": "USR"
+ },
+ {
+  "address": "0:ffc575c28628bb4474b13f1cc8e8cb5b94881b46ba77a77c17b758bf8ad21776",
+  "name": "BUSD",
+  "symbol": "BUSD"
+ },
+ {
+  "address": "0:46a6fcc52eca102ac24309d5ede0f0441468f6ba14b1fc446c607904937294a8",
+  "name": "LBTC",
+  "symbol": "LBTC"
+ },
+ {
+  "address": "0:a760235e5022a6d3aeb32050892891cd7a8a2732db8dcda7df2f4e17cc65e490",
+  "name": "M-BTC",
+  "symbol": "M-BTC"
+ },
+ {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD",
   "symbol": "USD\u20ae"
