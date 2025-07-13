@@ -1,0 +1,10 @@
+name: VietnamCoin
+symbol: VIEC
+address: 0:392482039223e58db6a03ff4bd47b7d940b0212d98cd8483d15525a4ba2723e4
+decimals: 9
+description: >
+  Vietnam Coin (VIEC) là một loại token được phát triển trên nền tảng The Open Network (TON), nhằm mục tiêu đại diện cho cộng đồng người Việt trong không gian Web3 toàn cầu. VIEC không chỉ đơn thuần là một tài sản kỹ thuật số, mà còn là biểu tượng của sự sáng tạo, đổi mới và đóng góp công nghệ từ người Việt vào nền kinh tế phi tập trung.
+image: https://duccodedao.github.io/VIEC/img/logo.png
+social:
+  - type: website
+    url: https://viec.vercel.app
