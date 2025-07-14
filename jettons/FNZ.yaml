@@ -1,10 +1,9 @@
-name: Fanzee Token
-description: fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences
-address: 0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739
-symbol: FNZ
+name: Gladius Coffee
+description: We are a coffee shop based in Almaty, Kazakhstan. We decided to launch our own coin so you can invest in us and also invest in yourself!
+address: EQAOM8aPXi18qDLdtvBzQ5Te9oTZ3cA1ye0yTz9Er6G6ywnn
+symbol: Gladius
 websites:
-  - "https://fanz.ee"
-  - "https://app.fanz.ee"
+  - "https://www.instagram.com/gladius_coffee?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+  - "https://www.tiktok.com/@gladius_coffee"
 social:
-  - "https://t.me/fanzeelabs"
-  - "https://twitter.com/fanzeelabs"
+  - 
