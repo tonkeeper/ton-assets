@@ -75,6 +75,16 @@
   ]
  },
  {
+  "address": "0:e168ae0e47bbf51e46205ed900f1c529d86ac77ae599eeb4f6bbaf8f305a8c4e",
+  "description": "GiftPrinter uses taxes to buy TON gifts and sends them to random holders. The more you hold, the better your chances.",
+  "image": "https://i.ibb.co/1fjyggG1/89b32910cc6e.png",
+  "name": "GiftPrinter",
+  "social": [
+   "https://t.me/giftprinterportal"
+  ],
+  "symbol": "GP"
+ },
+ {
   "address": "0:556325320f4160b4f9b5b799a8086d4b78e2d0d7c02226d52deeb3dfd4f46f12",
   "description": "GrokWithTon is a token born on the TON blockchain as a tribute from the TON community to Grok \u2014 the sharp-tongued, chaos-loving AI that brought humor and insight to the world of artificial intelligence.",
   "image": "https://tokens.gas111.com/images/32c2fc00549d49f29c41378a2894eac3.png",
