@@ -1,6 +1,7 @@
 - name: TAC token
   symbol: TAC
   address: EQBE_gBrU3mPI9hHjlJoR_kYyrhQgyCFD6EUWfa42W8T7EBP
+  image: "https://meta.tac.build/ft/image/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
 
 - name: USN
   symbol: USN
