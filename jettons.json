@@ -9673,11 +9673,6 @@
   "symbol": "Spotty"
  },
  {
-  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
-  "name": "Toned Ape Coin",
-  "symbol": "TAC"
- },
- {
   "address": "0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2",
   "name": "TAGO WOLF",
   "symbol": "TAGO"
@@ -12770,6 +12765,7 @@
  },
  {
   "address": "0:44fe006b53798f23d8478e526847f918cab8508320850fa11459f6b8d96f13ec",
+  "image": "https://habrastorage.org/webt/yy/ph/l-/yyphl-uznnokzbessqbrewgqo5g.png",
   "name": "TAC token",
   "symbol": "TAC"
  },
