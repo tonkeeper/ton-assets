@@ -1,0 +1,10 @@
+name: LP Token for $MBT-TON
+symbol: "$MBT-TON LP"
+description: "Liquidity pool token for MemeBlazeToken and Proxy TON on STON.fi DEX"
+address: EQAUDJCGPnATIxbRqLt7Vt4oHtvsINw-rwaJ6jpLqHDK6qmf
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:140c90863e70132316d1a8bb7b56de281edbec20dc3eaf0689ea3a4ba870caea.png"
+websites:
+  - "https://memeblazetoken.tilda.ws/"
+social:
+  - "https://t.me/blazetradechannel"
