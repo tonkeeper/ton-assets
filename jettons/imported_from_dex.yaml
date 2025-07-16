@@ -364,6 +364,9 @@
 - address: 0:e68151f17fe6af0880f25373ce7eacd7b3253d17300e749195018f9aae8945b5
   name: TonEnd
   symbol: END
+- address: 0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184
+  name: eTON NFT
+  symbol: ENFT
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
@@ -493,6 +496,9 @@
 - address: 0:46b8b39107b08c1395d1f5c768c5acd13055df55cdc7f0764bceaeb1d415ca6d
   name: Hootcoin
   symbol: HOOT
+- address: 0:4304eb28539286f051b8c03ebd6b35ded02cb959fd30c7f9c96c1c74f27d1dac
+  name: HighNet
+  symbol: HT
 - address: 0:f83f7d94d74b2736821abe8aba7183d3411f367b00233b6d1ea6282b59102ea7
   name: Hydra
   symbol: HYDRA
