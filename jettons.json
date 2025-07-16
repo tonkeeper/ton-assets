@@ -3024,6 +3024,11 @@
   "symbol": "END"
  },
  {
+  "address": "0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184",
+  "name": "eTON NFT",
+  "symbol": "ENFT"
+ },
+ {
   "address": "0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a",
   "name": "EXTON COIN",
   "symbol": "EXC"
@@ -3252,6 +3257,11 @@
   "address": "0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc",
   "name": "Hipo Governance Token",
   "symbol": "HPO"
+ },
+ {
+  "address": "0:4304eb28539286f051b8c03ebd6b35ded02cb959fd30c7f9c96c1c74f27d1dac",
+  "name": "HighNet",
+  "symbol": "HT"
  },
  {
   "address": "0:f83f7d94d74b2736821abe8aba7183d3411f367b00233b6d1ea6282b59102ea7",
