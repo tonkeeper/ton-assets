@@ -1,13 +1,32 @@
 name: TTM Token
-description: "TTM is the utility token of the TTM Wallet — a Telegram-native GameFi platform with in-app staking, duels, OTC trading, NFT-cases and Jetton-powered transactions. Everything is managed from a custody wallet inside Telegram Mini App."
+description: "TTM is the utility token of the TTM Wallet — a Telegram-native GameFi platform with in-app staking, duels, OTC trading, NFT-cases, and Jetton-powered transactions. All actions are managed inside a Telegram Mini App via internal balances (custodial)."
+
 address: EQAyR4DMsw7P7YOWusalsmG8OWFBDdPTDiUlrYpMiO625xQE
 symbol: TTM
 decimals: 9
 image: "https://raw.githubusercontent.com/TimaTTM/website/main/logo.png"
+
 websites:
   - "https://ttmcoin.io"
+
 social:
   - "https://t.me/ttm_ton"
   - "https://t.me/TTMgames_bot"
   - "https://t.me/ttm_tima"
   - "https://x.com/TTMtoncoin"
+
+token_info:
+  total_supply: "21,000,000 TTM"
+  vesting:
+    description: "93% of the total supply (~19.53M TTM) is locked for 10 years via smart contract"
+    link: "https://tonraffles.app/lock/EQAyR4DMsw7P7YOWusalsmG8OWFBDdPTDiUlrYpMiO625xQE"
+  lp_locked:
+    description: "LP tokens are locked via TonRaffles"
+    link: "https://tonraffles.app/lock/EQCzE6IsntYVlO9Y-bYrozijPPuDGiGrQuT2y1G98gn1l7_p/EQBVhJ3cl-I_4NCC1rvpfAaccwhasUtLbkJiC2nGZHiH-PfF"
+  dex_links:
+    - "https://app.ston.fi/swap?chartVisible=true&ft=TON&tt=EQAyR4DMsw7P7YOWusalsmG8OWFBDdPTDiUlrYpMiO625xQE"
+    - "https://dedust.io/swap/TON/EQAyR4DMsw7P7YOWusalsmG8OWFBDdPTDiUlrYpMiO625xQE"
+
+mini_app:
+  name: "TTM Wallet"
+  link: "https://t.me/tapps_bot/center?startapp=app_ttmwallet"
