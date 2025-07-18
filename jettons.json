@@ -7788,6 +7788,20 @@
   ]
  },
  {
+  "address": "0:19559375fbe621dc337f98e8e24b183836f13d0ddf5a0958dd93b455a252d671",
+  "description": "Meme coin for NFT purchases on TON",
+  "image": "http://barashf5.beget.tech/heets_logo.jpg",
+  "name": "Heets",
+  "social": [
+   "https://x.com/heetscoin?s=11",
+   "https://t.me/heetscoin"
+  ],
+  "symbol": "HEETS",
+  "websites": [
+   "https://heetscoin.tilda.ws/"
+  ]
+ },
+ {
   "address": "0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc",
   "image": "https://hpo.hipo.finance/hpo.png",
   "name": "Hipo Governance Token",
