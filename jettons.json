@@ -7572,6 +7572,21 @@
   ]
  },
  {
+  "address": "0:46892cab03b284c2ab08d3614f528175720c92daf81cda7c558f28b8c1320e89",
+  "description": "$BITARDIA is a token of the legendary games, now available on Telegram. Powered by the TON network, $BITARDIA rewards holders while they enjoy the unique gaming experience. The story begins with Bitardia - an open-world single-player shooter launched on Steam in 2015. This cult game inspired the creation of \"Your Life Simulator\", a mobile spin-off that gained over 2 million users since 2017. Now, \"Your Life Simulator\" is live on Telegram as a MiniApp with full TON blockchain integration, allowing you to manage your virtual character's life while earning rewards for holding $BITARDIA tokens. Your Life Simulator is a real-time life simulation game available on Telegram Mini Apps. Players control a character who remains confined to their apartment, using the internet as their sole connection to the outside world. The game offers various activities to maintain the character's well-being and happiness.\u200b",
+  "image": "https://blum-prod.fra1.cdn.digitaloceanspaces.com/6627ff33-15b6-4d9a-8e11-a745d77e9d58/b74f3ab3-533e-475e-af9f-68dcdf5d1ec9",
+  "name": "bitardia",
+  "social": [
+   "https://t.me/tvorog_lab",
+   "https://t.me/yourlifesimulator_bot",
+   "https://t.me/bitardia_coin"
+  ],
+  "symbol": "BITARDIA",
+  "websites": [
+   "https://bitardia.com/coin/"
+  ]
+ },
+ {
   "address": "0:ea28bf3c752737bdd8942f4202c99d963914bec478df7da3dace0fa510c7146a",
   "description": "THE YOUNG BROTHER OF BONK ON SOLANA , WHO FOUND A NEW HOME IN TON NETWORK.",
   "image": "https://www.bluebonk.com/imgs/bonk-logo.png",
