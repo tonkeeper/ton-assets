@@ -3773,20 +3773,6 @@
   ]
  },
  {
-  "address": "0:71b729b5b5c7142b036f6e2d0d6a4758d73bf8682256c76cbb894442ca81da13",
-  "decimals": 9,
-  "description": "Liquidity pool token for LizzardKombat and TheTokenSpark on STON.fi DEX",
-  "image": "https://meta.ston.fi/lp/v1/img/0:71b729b5b5c7142b036f6e2d0d6a4758d73bf8682256c76cbb894442ca81da13.png",
-  "name": "LP Token for LIZZARD-TTS",
-  "social": [
-   "https://t.me/thetokenspark"
-  ],
-  "symbol": "$LIZZARD-TTS LP",
-  "websites": [
-   "https://thetokenspark.tilda.ws/"
-  ]
- },
- {
   "address": "0:89b68ecce4dcedda13ef1883761d8c246ce84989ac12aeaeab78aa0050c2bcb6",
   "decimals": 9,
   "description": "Liquidity pool token for MemeBlazeToken and Proxy TON on DeDust.io DEX",
