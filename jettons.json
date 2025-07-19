@@ -2029,20 +2029,6 @@
   ]
  },
  {
-  "address": "0:9ffe6f59470abd835621af4ebb52be834cec06c5f5994e50ac94dc4b79def5b1",
-  "decimals": 9,
-  "description": "Liquidity pool token for LizzardKombat and TheTokenSpark on dedust.io DEX",
-  "image": "https://c.tonapi.io/onchain/image/f8174786dac4a09a0040a110b63ad75d",
-  "name": "LP Token for $LIZZARD-TTS",
-  "social": [
-   "https://t.me/thetokenspark"
-  ],
-  "symbol": "$LIZZARD-TTS LP",
-  "websites": [
-   "https://thetokenspark.tilda.ws/"
-  ]
- },
- {
   "address": "0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c",
   "name": "LP Token for UP-TON",
   "symbol": "UP-TON"
