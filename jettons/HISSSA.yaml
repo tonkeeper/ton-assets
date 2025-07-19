@@ -1,0 +1,13 @@
+name: "HISSSA" 
+symbol: "HISSSA" 
+address: "EQBABlSLxBg84QNYWnMuUytp3jSmhYefpIJkBBSY6cMnPf9F"  
+description: "A game bot with own economic and exclusive systems" 
+decimals: 9
+
+image: "https://thumbs2.imgbox.com/81/d5/wFB6vRNs_t.jpeg"  
+
+websites:
+  - "https://hisssa.com"
+
+social:
+  - "https://t.me/hisssanews"
