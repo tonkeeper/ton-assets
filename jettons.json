@@ -3142,6 +3142,20 @@
   ]
  },
  {
+  "address": "0:4006548bc4183ce103585a732e532b69de34a685879fa48264041498e9c3273d",
+  "decimals": 9,
+  "description": "A game bot with own economic and exclusive systems",
+  "image": "https://thumbs2.imgbox.com/81/d5/wFB6vRNs_t.jpeg",
+  "name": "HISSSA",
+  "social": [
+   "https://t.me/hisssanews"
+  ],
+  "symbol": "HISSSA",
+  "websites": [
+   "https://hisssa.com"
+  ]
+ },
+ {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
   "decimals": 9,
   "name": "Hamster Kombat",
@@ -6116,21 +6130,6 @@
    "https://t.me/storm_trade_fam"
   ],
   "symbol": "STORM-pTON LP",
-  "websites": [
-   "https://storm.tg"
-  ]
- },
- {
-  "address": "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c",
-  "decimals": 9,
-  "description": "The utility token of the Storm Trade protocol (storm.tg).",
-  "image": "https://static.storm.tg/TOKEN.png",
-  "name": "STORM",
-  "social": [
-   "https://t.me/storm_trade_news",
-   "https://t.me/storm_trade_fam"
-  ],
-  "symbol": "STORM",
   "websites": [
    "https://storm.tg"
   ]
@@ -9672,6 +9671,11 @@
   "address": "0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74",
   "name": "Stellarium",
   "symbol": "STL"
+ },
+ {
+  "address": "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c",
+  "name": "STORM",
+  "symbol": "STORM"
  },
  {
   "address": "0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb",
