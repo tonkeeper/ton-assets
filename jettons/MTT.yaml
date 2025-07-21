@@ -1,9 +1,7 @@
 name: Money Tube Token
-description: |
-  Money Tube Token (MTT)
-  Money Tube Games Ecosystem.
+description: Money Tube Token (MTT) is a gaming token of the Money Tube Games ecosystem, supporting Play-to-Earn and in-game transactions.
+image: "https://i.ibb.co/s9XgwwqL/logo2048-MT.png"
 address: EQASsMPct0YobRPmpIx70dqUGXr4POmtFMcJ4MB-tgCjkbvC
 symbol: MTT
-image: "https://i.ibb.co/s9XgwwqL/logo2048-MT.png"
 social:
   - "https://t.me/MTmine_bot"
