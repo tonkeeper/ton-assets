@@ -4981,6 +4981,20 @@
   ]
  },
  {
+  "address": "0:1005acc827a55b4b14ee89a237770382df565c8755ab19b0cf6b45f72924494b",
+  "description": "Hold $PRINTER & Receive TON every 5 minutes.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqaqbazij6vbsxtuiai3dwoc31zch1wrgbdpa0x3ksrjs-d_.png?size=lg&key=ee4719",
+  "name": "TON PRINTER",
+  "social": [
+   "https://x.com/Ton_Printer",
+   "https://t.me/tonprinter_tg"
+  ],
+  "symbol": "PRINTER",
+  "websites": [
+   "https://tonprinter.fun"
+  ]
+ },
+ {
   "address": "0:00a7117b757c958b805b52c5102f194eac62447276c9ae963a9bc5c5eac0fcde",
   "description": "Full of care for your grandma. The TON meme hackathon, participants create viral mechanics aimed at uniting the community and exchanging creative ideas.",
   "image": "https://s.iimg.su/s/07/YZoWGMK82yxS289sIQt61qNYZAUXO95QLekZdpVm.png",
@@ -12849,6 +12863,20 @@
   "address": "0:a760235e5022a6d3aeb32050892891cd7a8a2732db8dcda7df2f4e17cc65e490",
   "name": "M-BTC",
   "symbol": "M-BTC"
+ },
+ {
+  "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
+  "description": "Spin off ARNI",
+  "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
+  "name": "TERMINATOR",
+  "social": [
+   "https://t.me/termitonator",
+   "https://t.me/termionton"
+  ],
+  "symbol": "TERMI",
+  "websites": [
+   "https://arnold-arni.site/"
+  ]
  },
  {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
