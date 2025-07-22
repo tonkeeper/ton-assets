@@ -12851,6 +12851,20 @@
   "symbol": "M-BTC"
  },
  {
+  "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
+  "description": "Spin off ARNI",
+  "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
+  "name": "TERMINATOR",
+  "social": [
+   "https://t.me/termitonator",
+   "https://t.me/termionton"
+  ],
+  "symbol": "TERMI",
+  "websites": [
+   "https://arnold-arni.site/"
+  ]
+ },
+ {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD",
   "symbol": "USD\u20ae"
