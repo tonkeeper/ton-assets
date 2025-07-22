@@ -1,0 +1,12 @@
+{
+  "address": "EQDV2PXPTGe60fDSXseYyKH0YRID3MQMgV-wI-2YCVEmVAR3",
+  "name": "RALPH BANK",
+  "symbol": "RPLBANK",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/tonkeeper/ton-assets/main/tokens/EQDV2PXPTGe60fDSXseYyKH0YRID3MQMgV-wI-2YCVEmVAR3/logo.png",
+  "description": "Ralph Bank — крипто-экосистема для новых финансов и кайфа. Основано на TON.",
+  "web": "https://t.me/ralphbank",
+  "social": {
+    "telegram": "https://t.me/ralphbank"
+  }
+}
