@@ -54,3 +54,7 @@
 - name: M-BTC
   address: EQCnYCNeUCKm066zIFCJKJHNeoonMtuNzaffL04XzGXkkHmE
   symbol: M-BTC
+
+- name: Coinbase Wrapped BTC 
+  address: EQDhyPzbIjJT_WnY3gGprjSYUK9fiGMjWMezxO8MZiUdfb_B
+  symbol: cbBTC
