@@ -1286,6 +1286,9 @@
 - address: 0:745384c7ebd0810fa01e3bfc8714c5bebbdd14987ffae46c3902465b96ddc63b
   name: Tvorog
   symbol: TYS
+- address: 0:1a01717de3cb8ad63022e11c8ce72c1dfe08088f1f2e64ae162f91995fa1e590
+  name: Tiny Verse Matter
+  symbol: TYVM
 - address: 0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3
   name: Token 69
   symbol: Token 69
