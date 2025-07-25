@@ -7534,6 +7534,90 @@
   ]
  },
  {
+  "address": "0:d79ad6edd7e5923f4d2d4a1e8de851fee255fb2db9eb8ce442966b66b99aa0e1",
+  "description": "Affluent/Strategy-Vault/Ethena-Multiply-1/By-SingularV",
+  "name": "Ethena Multiply Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affETHENAm",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:c8284cf60582e74d15a8e56e5aea6a19f4f5cdb7239538517b9e88bc51fbf76b",
+  "description": "Affluent TON",
+  "name": "Affluent TON",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "AffluentTON",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:0343a25c2b434cb8d339bb009c4bd6e3727d914ef731608663365848872c14ad",
+  "description": "Affluent/Lending-Vault/TON-1/By-SingularV",
+  "name": "TON Lending Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affTONl",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:edc50aa4808450411e615a5ad0c6224cb4bc23477ac460d5016c472f3c3c02b3",
+  "description": "Affluent/Strategy-Vault/TON-Multiply-1/By-SingularV",
+  "name": "TON Multiply Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affTONm",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:06b609ebd46d170e294651170e077a54865f8ba3ffc9f936893f42b87b2f1cb9",
+  "description": "Affluent/Lending-Vault/USDT-1/By-SingularV",
+  "name": "USDT Lending Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affUSDTl",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:73488b620b5be90d411fb437960f28e032eb5fe8223399ed7a8339fd88d96896",
+  "description": "Affluent/Strategy-Vault/USDT-Multiply-1/By-SingularV",
+  "name": "USDT Multiply Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affUSDTm",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
   "address": "0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d",
   "description": "$AMBER is a token created by AmberTON, a company that develops useful and free applications and games for TON users. The $AMBER token serves as a tool for interaction within the AmberTON ecosystem, allowing users to earn rewards for participating in projects, improving, and testing applications. The main goal is to create an accessible environment where everyone can benefit from and enjoy using TON-based technologies.",
   "image": "https://api.beeharvest.life/upload/ambr.png",
