@@ -1,8 +1,17 @@
- 
+ name: Historycoin 
+ description: Knowing history helps us understand what kind of world we live in. If you don't know history, then you're out of touch with your roots. Find out what the price of history.  
+ image: "https://images3.nplod.ru/gen_images_1/qVCguMPEVNm6ZTjeIFc5bqdQdBPhAq4b.jpg"
+   
+ address: EQACqHjZVa9PjieZuBp832hmfmYoVzr6Z4tFqemKR7t9wRjF 
+ symbol: HISTR 
+ websites: 
+   - "https://www.infervip.com" 
+ social: 
+   - "https://www.facebook.com/groups/inferviptoken" 
+   - "https://m.vk.com/inferviptoken" 
+   - "https://t.me/inferviptoken" 
+   - "https://pin.it/4JBZFvlKj" 
+   - "https://youtube.com/@infervip" 
+   - "https://twitter.com/@infervip"
   "address": "0:4974265c49a88493362265f90663c1f7461af9d4fbe89eabef11ac9a93e50e81",
-  "name": "Historycoin",
-  "symbol": "HISTR",
-  "decimals": "9",
-  "image": "https://images3.nplod.ru/gen_images_1/qVCguMPEVNm6ZTjeIFc5bqdQdBPhAq4b.jpg",
-  "description": "Knowing history helps us understand what kind of world we live in. If you don't know history, then you're out of touch with your roots. Find out what the price of history. "
-}
+  
