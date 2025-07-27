@@ -2,12 +2,19 @@ Please make sure you change the original .yaml fields in the accounts/, collecti
 Example pull request:
 
 ```yaml
-address:  EQBJdCZcSaiEkzYiZfkGY8H3Rhr51PvonqvvEayak-UOgZSu
-symbol : HISTR
-websites:
-  - "link"
-social:
-  - "https://www.instagram.com/priceohistory?igsh=MWd1YzB6bGR5N243dA=="
+ name: Historycoin  
+  description: Knowing history helps us understand what kind of world we live in. If you don't know history, then you're out of touch with your roots. Find out what the price of history.   
+  image: "https://images3.nplod.ru/gen_images_1/qVCguMPEVNm6ZTjeIFc5bqdQdBPhAq4b.jpg" 
+  address : EQBJdCZcSaiEkzYiZfkGY8H3Rhr51PvonqvvEayak-UOgZSu  
+  symbol: HISTR  
+  websites:  
+    -   
+  social:  
+    - "https://www.instagram.com/priceohistory?igsh=MWd1YzB6bGR5N243dA=="  
+    - "https://x.com/Priceohistory?t=OXdWmGhy-TrtI3HuHw95Xw&s=09"  
+    - "https://www.tiktok.com/@priceohistory?_t=ZS-8yNwi6oAOAs&_r=1"  
+    - "https://t.me/+qdUWbmSsz9gzMmFi"  
+    - "https://t.me/priceohistory" 
 ```
 
 **ATTENTION! The Tonkeeper team does not charge any fees for checking/verifying tokens/collections. The procedure is ABSOLUTELY FREE. Ignore comments in commits that require payment to speed up/successfully check the PR. Stay safe fren!**
@@ -16,12 +23,19 @@ social:
 Пример пул реквеста:
 
 ```yaml
-address: Адрес вашего токена 
-symbol: Сивол вашего токена
-websites:
-  - "ссылка"
-social:
-  - "ссылка"
+ name: Historycoin  
+  description: Knowing history helps us understand what kind of world we live in. If you don't know history, then you're out of touch with your roots. Find out what the price of history.   
+  image: "https://images3.nplod.ru/gen_images_1/qVCguMPEVNm6ZTjeIFc5bqdQdBPhAq4b.jpg" 
+  address : EQBJdCZcSaiEkzYiZfkGY8H3Rhr51PvonqvvEayak-UOgZSu  
+  symbol: HISTR  
+  websites:  
+    -   
+  social:  
+    - "https://www.instagram.com/priceohistory?igsh=MWd1YzB6bGR5N243dA=="  
+    - "https://x.com/Priceohistory?t=OXdWmGhy-TrtI3HuHw95Xw&s=09"  
+    - "https://www.tiktok.com/@priceohistory?_t=ZS-8yNwi6oAOAs&_r=1"  
+    - "https://t.me/+qdUWbmSsz9gzMmFi"  
+    - "https://t.me/priceohistory" 
   ```
 
 **ВНИМАНИЕ! Команда Tonkeeper не берет никакой оплаты за проверку/верификацию токенов/коллекций. Процедура АБСОЛЮТНО БЕСПЛАТНА. Игнорируйте комментарии в коммитах, требующих оплаты для ускорения/успешности проверки. Будьте внимательны и осторожны!**
