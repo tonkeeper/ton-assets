@@ -2,12 +2,12 @@ Please make sure you change the original .yaml fields in the accounts/, collecti
 Example pull request:
 
 ```yaml
-address: Address of your token 
-symbol: Symbol of your token
+address:  EQBJdCZcSaiEkzYiZfkGY8H3Rhr51PvonqvvEayak-UOgZSu
+symbol : HISTR
 websites:
   - "link"
 social:
-  - "link"
+  - "https://www.instagram.com/priceohistory?igsh=MWd1YzB6bGR5N243dA=="
 ```
 
 **ATTENTION! The Tonkeeper team does not charge any fees for checking/verifying tokens/collections. The procedure is ABSOLUTELY FREE. Ignore comments in commits that require payment to speed up/successfully check the PR. Stay safe fren!**
