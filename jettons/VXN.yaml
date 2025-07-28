@@ -1,0 +1,16 @@
+name: VXN
+description: >
+  VXN is a custom utility token deployed on the TON blockchain. It was created as part of a broader vision to integrate digital scarcity, artistic identity, and decentralized value into a single symbol.
+
+  While functioning as a standalone digital asset, VXN is also conceptually linked to a 1-of-1 NFT artwork titled “VXN: ΩNE – The Pure Singularity of Digital Creation,” listed on the GetGems marketplace.
+
+  Learn more about the NFT at: https://vxnone.carrd.co
+
+  The token embodies originality, innovation, and future-facing digital ownership—positioning itself as a rare conceptual asset in the TON ecosystem.
+address: EQBbRAs71Nq-_Ni8LA5RTS-4yTYSu6F2APLxMkCkp-JSimXC
+symbol: VXN
+decimals: 9
+image: https://uploadkon.ir/uploads/6bc228_2509cc9e77-4f25-40a7-9036-3947843ae498.png
+social:
+  - type: website
+    url: https://vxnone.carrd.co
