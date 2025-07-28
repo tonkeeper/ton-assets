@@ -656,6 +656,20 @@
   ]
  },
  {
+  "address": "0:e41ece3696366b362f2cd07992f971faa2a49485ed39d8a418c67b44c427f30d",
+  "description": "Maintaining the crystal lattice of the planet. Association and activation of places of power",
+  "image": "https://github.com/tmrrw-dev/atlant/blob/main/photo_2025-07-05_15-20-45.jpg?raw=true",
+  "name": "Atlantis",
+  "social": [
+   "https://t.me/atlant_coin",
+   "https://t.me/atlant_project"
+  ],
+  "symbol": "ATLANT",
+  "websites": [
+   "https://olan.world/"
+  ]
+ },
+ {
   "address": "0:edae9abace6c337ea14bf495a75f38d9a1984af716a9ac50977abc4f4b865b4b",
   "description": "Aur \u2014 \u044d\u0442\u043e \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u0430\u0440\u0431\u0438\u0442\u0440\u0430\u0436\u043d\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439 \u0432 \u043a\u0440\u0438\u043f\u0442\u043e\u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u0435. \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0435 \u0431\u043e\u043d\u0443\u0441\u043d\u044b\u0445 \u043d\u0430\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0431\u043e\u043b\u044c\u0448\u0435 \u0442\u043e\u043a\u0435\u043d\u043e\u0432 \u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430\u0445, \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u0443\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435.",
   "image": "https://trueimages.ru/img/30/bf/484d5d76.png",
@@ -1355,6 +1369,16 @@
   ]
  },
  {
+  "address": "0:d5e767b48252546bf4049879a324b660726b3f5d94233e6da991cebf5b96ee62",
+  "description": "\u041c\u043e\u043d\u0435\u0442\u0430 \u0434\u043b\u044f \u0447\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u0445\u043e\u043b\u0434\u0435\u0440\u043e\u0432.",
+  "image": "https://i.ibb.co/SXKQ6wsY/b7f8749d-b33d-4fe7-a9b1-2d260021f7c9.png",
+  "name": "CLAN",
+  "social": [
+   "https://t.me/spr_clan"
+  ],
+  "symbol": "CLN"
+ },
+ {
   "address": "0:7ebdcd3483d3de5162e9b52007e20d49e64612ed64e0b5511f848ea829d42d46",
   "description": "Clayton is blue, fluffy friend of TON.",
   "image": "https://i.ibb.co/r6SLkLj/256t1.png",
@@ -1613,6 +1637,20 @@
   "symbol": "ctUSD-USDT",
   "websites": [
    "https://catton.tech"
+  ]
+ },
+ {
+  "address": "0:ec213963973339f9a5d36c61b2cafa6c31f6bcf222bbb71dd7084b9607644823",
+  "description": "Hi, Cerberus. Who's a good... boys?",
+  "image": "https://github.com/Foden490/cerberus/blob/main/photo_2025-07-10_22-19-11.jpg?raw=true",
+  "name": "Cerberus",
+  "social": [
+   "https://t.me/CerberusOnTon",
+   "https://x.com/cerberusonton?s=21"
+  ],
+  "symbol": "Cerberus",
+  "websites": [
+   "https://cerberus.style/"
   ]
  },
  {
@@ -2001,20 +2039,6 @@
   ]
  },
  {
-  "address": "0:9ffe6f59470abd835621af4ebb52be834cec06c5f5994e50ac94dc4b79def5b1",
-  "decimals": 9,
-  "description": "Liquidity pool token for LizzardKombat and TheTokenSpark on dedust.io DEX",
-  "image": "https://c.tonapi.io/onchain/image/f8174786dac4a09a0040a110b63ad75d",
-  "name": "LP Token for $LIZZARD-TTS",
-  "social": [
-   "https://t.me/thetokenspark"
-  ],
-  "symbol": "$LIZZARD-TTS LP",
-  "websites": [
-   "https://thetokenspark.tilda.ws/"
-  ]
- },
- {
   "address": "0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c",
   "name": "LP Token for UP-TON",
   "symbol": "UP-TON"
@@ -2270,6 +2294,12 @@
   "websites": [
    "https://yourfastup.com/"
   ]
+ },
+ {
+  "address": "0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090",
+  "description": "First Digital 1:1 USD-backed Stablecoin",
+  "name": "First Digital USD",
+  "symbol": "FDUSD"
  },
  {
   "address": "0:dd3dfe7f338e77aa06028c6d28d48d52abf252eaa097517f9391a4cd4641fe1c",
@@ -2604,6 +2634,20 @@
    "https://getgems.io/forevo"
   ],
   "symbol": "FOREVO"
+ },
+ {
+  "address": "0:53e1f8599b871436d903348d3b51aea116b20c54e51aaab172e6d1fb0c2799ea",
+  "description": "TonForgeX is a next-generation DeFi token launchpad built on the TON blockchain, enabling users to effortlessly create, launch, and trade their own tokens with ease.",
+  "image": "https://tonforgex.fun/tonforgex.webp",
+  "name": "TonForgeX DeFi",
+  "social": [
+   "https://t.me/tonforgexofficial",
+   "https://t.me/tonforgexbot/app"
+  ],
+  "symbol": "FORGX",
+  "websites": [
+   "https://docs.tonforgexhq.xyz/"
+  ]
  },
  {
   "address": "0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537",
@@ -3745,17 +3789,18 @@
   ]
  },
  {
-  "address": "0:71b729b5b5c7142b036f6e2d0d6a4758d73bf8682256c76cbb894442ca81da13",
+  "address": "0:89b68ecce4dcedda13ef1883761d8c246ce84989ac12aeaeab78aa0050c2bcb6",
   "decimals": 9,
-  "description": "Liquidity pool token for LizzardKombat and TheTokenSpark on STON.fi DEX",
-  "image": "https://meta.ston.fi/lp/v1/img/0:71b729b5b5c7142b036f6e2d0d6a4758d73bf8682256c76cbb894442ca81da13.png",
-  "name": "LP Token for LIZZARD-TTS",
+  "description": "Liquidity pool token for MemeBlazeToken and Proxy TON on DeDust.io DEX",
+  "image": "https://c.tonapi.io/onchain/image/f8174786dac4a09a0040a110b63ad75d",
+  "name": "LP Token for $MBT-TON",
   "social": [
-   "https://t.me/thetokenspark"
+   "https://t.me/memeblazetoken",
+   "https://t.me/meme_blaze_token_bot"
   ],
-  "symbol": "$LIZZARD-TTS LP",
+  "symbol": "$MBT-TON LP",
   "websites": [
-   "https://thetokenspark.tilda.ws/"
+   "https://memeblazetoken.tilda.ws/"
   ]
  },
  {
@@ -4963,6 +5008,20 @@
   "symbol": "POST",
   "websites": [
    "https://postal.guru/coin"
+  ]
+ },
+ {
+  "address": "0:1005acc827a55b4b14ee89a237770382df565c8755ab19b0cf6b45f72924494b",
+  "description": "Hold $PRINTER & Receive TON every 5 minutes.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqaqbazij6vbsxtuiai3dwoc31zch1wrgbdpa0x3ksrjs-d_.png?size=lg&key=ee4719",
+  "name": "TON PRINTER",
+  "social": [
+   "https://x.com/Ton_Printer",
+   "https://t.me/tonprinter_tg"
+  ],
+  "symbol": "PRINTER",
+  "websites": [
+   "https://tonprinter.fun"
   ]
  },
  {
@@ -6794,31 +6853,21 @@
   ]
  },
  {
-  "address": "0:689573c8454848ea43edcfaa80d61fffdf3d74a654d157420bee913847c3f5fd",
-  "description": "TheTokenSpark - is a unique memcoin that combines elements of humor. It is designed for those who appreciate originality and want to diversify their investment portfolio",
-  "image": "https://i.yapx.ru/Zo7Sj.jpg",
-  "name": "TheTokenSpark",
-  "social": [
-   "https://t.me/thetokenspark"
-  ],
-  "symbol": "TTS",
-  "websites": [
-   "https://thetokenspark.tilda.ws/"
-  ]
- },
- {
   "address": "0:6f7e96ac7fcd9a010524746641b80c65714477025eef6354fb89f0ba5170279e",
   "description": "TLOFT \u2014 Real Estate-Powered Utility Token",
-  "image": "https://trueimages.ru/img/79/58/b1cf9486.png",
+  "image": "https://tverloft.ru/images/tloftlogo512.png",
   "name": "TVERLOFT",
   "social": [
    "https://t.me/tverloft",
    "https://t.me/+X1xtthQXyfhiNTcy",
-   "https://t.me/tverloftbot"
+   "https://t.me/tverloftbot",
+   "https://dexscreener.com/ton/EQDnY9OB8vss3wtEZ3BgCuDoFopw7wqpE8397yc8RM2CCsEQ",
+   "https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=EQBvfpasf82aAQUkdGZBuAxlcUR3Al7vY1T7ifC6UXAnnhhA&referral_address=UQAlq03heorB3yKmezCnaMVO7fJuiz0PYNqh5rG4i8hFEJHj"
   ],
   "symbol": "TLOFT",
   "websites": [
-   "https://tverloft.ru"
+   "https://tverloft.ru",
+   "https://tverloft.ru/web3/"
   ]
  },
  {
@@ -7123,6 +7172,19 @@
   "symbol": "VNST",
   "websites": [
    "https://vnst.io/"
+  ]
+ },
+ {
+  "address": "0:a9ea16debd200cf46d96c5e643a7432d7ba30f4d4268b99ac23487961e786539",
+  "description": "VNUK is a new investment reward token with great potential",
+  "image": "https://raw.githubusercontent.com/mR-vnukICH/art/main/logo/logo.png",
+  "name": "VNUK",
+  "social": [
+   "https://t.me/vnukton"
+  ],
+  "symbol": "VNUK",
+  "websites": [
+   "http://mrvnukich.life/"
   ]
  },
  {
@@ -7502,6 +7564,90 @@
   ]
  },
  {
+  "address": "0:d79ad6edd7e5923f4d2d4a1e8de851fee255fb2db9eb8ce442966b66b99aa0e1",
+  "description": "Affluent/Strategy-Vault/Ethena-Multiply-1/By-SingularV",
+  "name": "Ethena Multiply Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affETHENAm",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:c8284cf60582e74d15a8e56e5aea6a19f4f5cdb7239538517b9e88bc51fbf76b",
+  "description": "Affluent TON",
+  "name": "Affluent TON",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "AffluentTON",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:0343a25c2b434cb8d339bb009c4bd6e3727d914ef731608663365848872c14ad",
+  "description": "Affluent/Lending-Vault/TON-1/By-SingularV",
+  "name": "TON Lending Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affTONl",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:edc50aa4808450411e615a5ad0c6224cb4bc23477ac460d5016c472f3c3c02b3",
+  "description": "Affluent/Strategy-Vault/TON-Multiply-1/By-SingularV",
+  "name": "TON Multiply Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affTONm",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:06b609ebd46d170e294651170e077a54865f8ba3ffc9f936893f42b87b2f1cb9",
+  "description": "Affluent/Lending-Vault/USDT-1/By-SingularV",
+  "name": "USDT Lending Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affUSDTl",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
+  "address": "0:73488b620b5be90d411fb437960f28e032eb5fe8223399ed7a8339fd88d96896",
+  "description": "Affluent/Strategy-Vault/USDT-Multiply-1/By-SingularV",
+  "name": "USDT Multiply Vault",
+  "social": [
+   "https://x.com/AffluentOrg",
+   "https://t.me/affluent"
+  ],
+  "symbol": "affUSDTm",
+  "websites": [
+   "https://affluent.org/",
+   "https://app.affluent.org/"
+  ]
+ },
+ {
   "address": "0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d",
   "description": "$AMBER is a token created by AmberTON, a company that develops useful and free applications and games for TON users. The $AMBER token serves as a tool for interaction within the AmberTON ecosystem, allowing users to earn rewards for participating in projects, improving, and testing applications. The main goal is to create an accessible environment where everyone can benefit from and enjoy using TON-based technologies.",
   "image": "https://api.beeharvest.life/upload/ambr.png",
@@ -7523,6 +7669,21 @@
   "symbol": "BGM",
   "websites": [
    "https://bagema.fun"
+  ]
+ },
+ {
+  "address": "0:46892cab03b284c2ab08d3614f528175720c92daf81cda7c558f28b8c1320e89",
+  "description": "$BITARDIA is a token of the legendary games, now available on Telegram. Powered by the TON network, $BITARDIA rewards holders while they enjoy the unique gaming experience. The story begins with Bitardia - an open-world single-player shooter launched on Steam in 2015. This cult game inspired the creation of \"Your Life Simulator\", a mobile spin-off that gained over 2 million users since 2017. Now, \"Your Life Simulator\" is live on Telegram as a MiniApp with full TON blockchain integration, allowing you to manage your virtual character's life while earning rewards for holding $BITARDIA tokens. Your Life Simulator is a real-time life simulation game available on Telegram Mini Apps. Players control a character who remains confined to their apartment, using the internet as their sole connection to the outside world. The game offers various activities to maintain the character's well-being and happiness.\u200b",
+  "image": "https://blum-prod.fra1.cdn.digitaloceanspaces.com/6627ff33-15b6-4d9a-8e11-a745d77e9d58/b74f3ab3-533e-475e-af9f-68dcdf5d1ec9",
+  "name": "bitardia",
+  "social": [
+   "https://t.me/tvorog_lab",
+   "https://t.me/yourlifesimulator_bot",
+   "https://t.me/bitardia_coin"
+  ],
+  "symbol": "BITARDIA",
+  "websites": [
+   "https://bitardia.com/coin/"
   ]
  },
  {
@@ -12771,6 +12932,7 @@
  },
  {
   "address": "0:44fe006b53798f23d8478e526847f918cab8508320850fa11459f6b8d96f13ec",
+  "image": "https://habrastorage.org/webt/yy/ph/l-/yyphl-uznnokzbessqbrewgqo5g.png",
   "name": "TAC token",
   "symbol": "TAC"
  },
@@ -12838,6 +13000,25 @@
   "address": "0:a760235e5022a6d3aeb32050892891cd7a8a2732db8dcda7df2f4e17cc65e490",
   "name": "M-BTC",
   "symbol": "M-BTC"
+ },
+ {
+  "address": "0:e1c8fcdb223253fd69d8de01a9ae349850af5f88632358c7b3c4ef0c66251d7d",
+  "name": "Coinbase Wrapped BTC",
+  "symbol": "cbBTC"
+ },
+ {
+  "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
+  "description": "Spin off ARNI",
+  "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
+  "name": "TERMINATOR",
+  "social": [
+   "https://t.me/termitonator",
+   "https://t.me/termionton"
+  ],
+  "symbol": "TERMI",
+  "websites": [
+   "https://arnold-arni.site/"
+  ]
  },
  {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",

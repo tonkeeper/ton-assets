@@ -1,6 +1,7 @@
 - name: TAC token
   symbol: TAC
   address: EQBE_gBrU3mPI9hHjlJoR_kYyrhQgyCFD6EUWfa42W8T7EBP
+  image: "https://habrastorage.org/webt/yy/ph/l-/yyphl-uznnokzbessqbrewgqo5g.png"
 
 - name: USN
   symbol: USN
@@ -53,3 +54,7 @@
 - name: M-BTC
   address: EQCnYCNeUCKm066zIFCJKJHNeoonMtuNzaffL04XzGXkkHmE
   symbol: M-BTC
+
+- name: Coinbase Wrapped BTC 
+  address: EQDhyPzbIjJT_WnY3gGprjSYUK9fiGMjWMezxO8MZiUdfb_B
+  symbol: cbBTC
