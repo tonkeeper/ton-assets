@@ -2620,6 +2620,20 @@
   "symbol": "FOREVO"
  },
  {
+  "address": "0:53e1f8599b871436d903348d3b51aea116b20c54e51aaab172e6d1fb0c2799ea",
+  "description": "TonForgeX is a next-generation DeFi token launchpad built on the TON blockchain, enabling users to effortlessly create, launch, and trade their own tokens with ease.",
+  "image": "https://tonforgex.fun/tonforgex.webp",
+  "name": "TonForgeX DeFi",
+  "social": [
+   "https://t.me/tonforgexofficial",
+   "https://t.me/tonforgexbot/app"
+  ],
+  "symbol": "FORGX",
+  "websites": [
+   "https://docs.tonforgexhq.xyz/"
+  ]
+ },
+ {
   "address": "0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537",
   "description": "Fort is a community token aiming to reward web3 users through social tasks and gamified NFT mechanisms.",
   "image": "https://raw.githubusercontent.com/asterborne/directory/main/Group%201%20(1).png",
