@@ -1,7 +1,9 @@
 name: ArtDra Token
 description: World traditional association of karate
-image: "https://i.postimg.cc/y8cXKtW8/888.png"
+image: "https://artdra.pro/storage/image/artdra.jpg"
 address: EQBWRCWLXIijvKcgjjna2bWsRRP6IfVR7gNyGMsI5kQEHG8j
 symbol: ARTDRA
+web:
+  -"https://artdra.pro/"
 social:
   - "https://t.me/+696_RcntNts2MWM0"
