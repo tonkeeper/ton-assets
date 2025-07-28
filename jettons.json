@@ -2286,6 +2286,12 @@
   ]
  },
  {
+  "address": "0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090",
+  "description": "First Digital 1:1 USD-backed Stablecoin",
+  "name": "First Digital USD",
+  "symbol": "FDUSD"
+ },
+ {
   "address": "0:dd3dfe7f338e77aa06028c6d28d48d52abf252eaa097517f9391a4cd4641fe1c",
   "description": "Fly Beyond Limits! || finchcoin.org",
   "image": "https://finchcoin.org/finchlogo_300.jpg",
