@@ -373,6 +373,9 @@
 - address: 0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce
   name: F
   symbol: F
+- address: 0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090
+  name: First Digital USD
+  symbol: FDUSD
 - address: 0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27
   name: Ferma Invest Dom
   symbol: FID
