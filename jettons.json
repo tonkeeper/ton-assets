@@ -6414,6 +6414,19 @@
   ]
  },
  {
+  "address": "0:31bd6779fc2fd8ab65923c67d4c82d4f7ad5e709e433068af366db0ca4802d51",
+  "description": "Where GameFi meets memes and DAOs \u2014 a cosmic struggle for resources and power.",
+  "image": "https://s3.twcstorage.ru/48031ab3-dummy-data-to-share/legushka.png",
+  "name": "TELO",
+  "social": [
+   "https://t.me/telomeme"
+  ],
+  "symbol": "TELO",
+  "websites": [
+   "https://telo.meme/"
+  ]
+ },
+ {
   "address": "0:be387c6123daf9a2329fe9030b163850acaa1ac0dd6d8611c50af22620d85f2b",
   "description": "TETRIX - First AI-born token in control \ud83e\udd16 Join the future!",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqc-ohxhi9r5ojkf6qmlfjhqrkoawn1thhhfcviminhfk40c.png",
