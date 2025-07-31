@@ -1,0 +1,15 @@
+address: EQAB8Wnx-A6py9Ko5WqXebJQh1COxP9YkXrNqvkbrTfhs43n
+name: "Currito Lunch Token"
+symbol: "CLT"
+decimals: 9
+description: >
+  Currito Lunch Token (CLT) is a utility token designed for modern office workers and freelancers,
+  offering real-world benefits such as lunch vouchers, staking rewards, and participation in a gamified lifestyle ecosystem.
+  CLT aims to bridge the physical and digital worlds through rewards, governance, and GameFi.
+image: "https://raw.githubusercontent.com/khaneleven/Logo_token_1/main/CLT.png"
+websites:
+  - "https://curritolunch.com"
+social:
+  telegram: "https://t.me/curritolunch"
+  twitter: "https://twitter.com/CurritoLunch"
+  email: "contact@curritolunch.com"
