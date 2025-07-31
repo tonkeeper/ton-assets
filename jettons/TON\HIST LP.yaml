@@ -1,0 +1,8 @@
+{
+  "address": "0:e2c534ef76bb5b88544bf3f258b9b502522ebc7d2e7b09a8359f0d069d8cb931",
+  "name": "Coffee DEX: TON/HIST LP",
+  "symbol": "TON/HIST LP",
+  "decimals": "9",
+  "image": "https://lp.swap.coffee/0:e2c534ef76bb5b88544bf3f258b9b502522ebc7d2e7b09a8359f0d069d8cb931/image",
+  "description": "LP token for Toncoin and Historycoin on swap.coffee DEX"
+}
