@@ -6998,6 +6998,21 @@
   ]
  },
  {
+  "address": "0:0a3de1e8f56776652c498e2d68b59d7de7e884a41fec000b2ad2335097337a02",
+  "decimals": 9,
+  "description": "UNITF is the official token of the Unitaet platform \u2014 a social network for preserving the history and culture of Russian Germans.\nThe token rewards user activity and participation within the ecosystem, and provides utility across services, access to events, and DAO governance.\n",
+  "image": "https://raw.githubusercontent.com/SergejAdsum/unitaet/main/Logo_unitaet.png",
+  "name": "Unitaet Family",
+  "social": [
+   "https://t.me/unitaet_family",
+   "https://github.com/SergejAdsum/unitaet",
+   "https://www.tiktok.com/@unitaet.e.v",
+   "https://www.youtube.com/@unitaet-network",
+   "https://www.instagram.com/unitaet_insta/"
+  ],
+  "symbol": "UNITF"
+ },
+ {
   "address": "0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11",
   "description": "Native Tether USD locked in liquidity in Storm Trade (storm.tg)",
   "image": "https://static.storm.tg/usdt-slp-logo.png",
