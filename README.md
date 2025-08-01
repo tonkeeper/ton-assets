@@ -68,6 +68,7 @@ Name           | Address
 ---------------|-----------
 [Anycraft Unique Crafts](https://tonviewer.com/0:c5e44022dc5a4785cb0bc0493960e990edf0c0cfcdf66c8621fcc757ba0a72ed) | EQDF5EAi3FpHhcsLwEk5YOmQ7fDAz832bIYh_MdXugpy7Qb5
 [Beeharvest](https://tonviewer.com/0:d52400de2f5e83bfe6a55a95854a042b3fe22a1a370dac9c101fae5b5e00732a) | EQDVJADeL16Dv-alWpWFSgQrP-IqGjcNrJwQH65bXgBzKt8C
+[Bidask Protocol: Launch Collection](https://tonviewer.com/0:94112d6c7eeee810356257b5ef9d6f3222de8a93e66767e046e5418b9e042554) | EQCUES1sfu7oEDViV7XvnW8yIt6Kk-ZnZ-BG5UGLngQlVE-4
 [Blink AI Genesis NFT](https://tonviewer.com/0:4ed8cc9c2e3186d5697982a91f754f1b635e57eb0f9fd499db968ea8f219be61) | EQBO2MycLjGG1Wl5gqkfdU8bY15X6w-f1Jnblo6o8hm-YUVC
 [Booli Reborn](https://tonviewer.com/0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55) | EQCsCWwWEHS0BaEhcwJ3ft3GEXoC0Xd1CJ3hgASj14-NVb_r
 [CALLIGRAFUTURISM — 24: Units](https://tonviewer.com/0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf) | EQD7eDxP_wLX18kr8uyYfs6srlgoNMfRbXNYM8dmMXT2vxwk
