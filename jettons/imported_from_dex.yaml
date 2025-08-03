@@ -715,6 +715,9 @@
 - address: 0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28
   name: MyTonWallet Coin
   symbol: MY
+- address: 0:b61a009227a04d7ee83666022b248c9dac9872228bdfa0b537d4df8c9d3e6e57
+  name: MexCrewn
+  symbol: MexCrewn
 - address: 0:729f9ad6328db9e1ab51903f032877242b615420f62c12c53aa2ca3220ae8ce9
   name: MineX
   symbol: MineX
