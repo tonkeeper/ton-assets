@@ -1307,6 +1307,9 @@
 - address: 0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05
   name: Tribe
   symbol: TRIBE
+- address: 0:deeae17163fd6b5a91b02472ef2cd159d09fd89a6b1500c13d5c886a3748b665
+  name: Part Time Troll
+  symbol: TROLL
 - address: 0:59181c65852a41cd07c5763ec0a896bab486afb026850580e5d82e49e5320579
   name: Ton Trump
   symbol: TRUMP
