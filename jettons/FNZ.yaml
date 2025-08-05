@@ -1,10 +1,7 @@
-name: Fanzee Token
-description: fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences
-address: 0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739
-symbol: FNZ
-websites:
-  - "https://fanz.ee"
-  - "https://app.fanz.ee"
-social:
-  - "https://t.me/fanzeelabs"
-  - "https://twitter.com/fanzeelabs"
+address: "0:4d980e1c6ab185eae62cc956cf0f4790a2cf0bbf2bd31a66263fcc2db3bdbc6f"
+name: "YumiTaxi"
+symbol: "YT"
+decimals: 9
+description: "YumiTaxi app"
+image: "https://yumitaxi.com/logo/256x256.png"
+websites: "www.coin.yumitaxi.com"
