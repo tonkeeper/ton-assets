@@ -393,6 +393,7 @@ Name           | Address
 [Magic Vip People](https://tonviewer.com/0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4) | EQDAiXxX8J2CHo4un2mAYFuexI620Y33CWfLFZK-7LcR9Pps
 [MagicDeer](https://tonviewer.com/0:3bf482125cc47cbdef403a2a541378b986da7acfa23bca7482f43281a3ccc7b0) | EQA79IISXMR8ve9AOipUE3i5htp6z6I7ynSC9DKBo8zHsIYr
 [Major](https://tonviewer.com/0:ae3e6d351e576276e439e7168117fd64696fd6014cb90c77b2f2cbaacd4fcc00) | EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR
+[Make Ton Great Again](https://tonviewer.com/0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e) | EQC1RZb5BF_eWrR0AYCtpUig5c4CQoupQ_v-ABsRmO5pbgQL
 [Making Money TON](https://tonviewer.com/0:b27dd55b7f091c05f0529f9ec6467318fc144ee2f606ec79e45a7807e3514b33) | EQCyfdVbfwkcBfBSn57GRnMY_BRO4vYG7HnkWngH41FLM-5Y
 [Mandarin](https://tonviewer.com/0:70a26c0a6ca1e8cf65aa5fb5fe6a3a729ec87cf28d44b5489c6108a440163b7f) | EQBwomwKbKHoz2WqX7X-ajpynsh88o1EtUicYQikQBY7f635
 [Mantle](https://tonviewer.com/0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd) | EQAEuikLQVh2lDMrV99nTHqFL_TXEyCEJ1xKMuPT60tfvdps

@@ -739,6 +739,9 @@
 - address: 0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7
   name: Meridian
   symbol: MRDN
+- address: 0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e
+  name: Make Ton Great Again
+  symbol: MTGA
 - address: 0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4
   name: Magic Vip People
   symbol: MVP
