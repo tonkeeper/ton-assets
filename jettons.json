@@ -13250,4 +13250,12 @@
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
  }
+{
+  "name": "Vortexus",
+  "symbol": "VTX",
+  "address": "EQDKN2C-WZKYRROOckJiFBifamY5q-q-GtCuGwX_CrvtnhU0",
+  "decimals": 5,
+  "image": "https://i.ibb.co/0jD0XdZC/613484e7-8619-438c-8cc0-526ca489.jpg",
+  "socials": ["https://t.me/Vortexuscoins"]
+}
 ]
