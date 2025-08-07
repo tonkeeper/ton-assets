@@ -13272,5 +13272,11 @@
   "decimals": 9,
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USDT_Logo.png"
 }
-
+{
+  "address": "EQBUeXWPsRmEZE6es9t3iN4t1Kz64_3HFAVyUt3P3AbZzgba",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 9,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USDT_Logo.png"
+}
 ]
