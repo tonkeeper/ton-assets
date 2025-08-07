@@ -8659,6 +8659,11 @@
   "symbol": "DYNYA"
  },
  {
+  "address": "0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401",
+  "name": "Earnigram",
+  "symbol": "EARNI"
+ },
+ {
   "address": "0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896",
   "name": "Engage ADS on Ton Open Network",
   "symbol": "EAT"
@@ -8862,6 +8867,11 @@
   "address": "0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c",
   "name": "GROK",
   "symbol": "GROK"
+ },
+ {
+  "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
+  "name": "Gold Standard",
+  "symbol": "GSTD"
  },
  {
   "address": "0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1",
