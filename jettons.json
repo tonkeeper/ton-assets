@@ -6588,6 +6588,21 @@
   ]
  },
  {
+  "address": "0:660ac90800073c1aa5e46892434828fcb96fa66d8c918c49a72d8dc4d8a4985f",
+  "description": "THOR is a transparent, community-powered token on TON. Each swap has a 30% tax, 10% of the taxed amount is burned. The remaining 90% is split - 70% goes to holders, 30% to the developer for growth. HODL the hammer.",
+  "image": "https://i.postimg.cc/QNFPkDPj/IMG-5485.jpg",
+  "name": "THOR",
+  "social": [
+   "https://t.me/thor_men",
+   "https://t.me/asgard_thora",
+   "https://x.com/THOR_GIGACHAD"
+  ],
+  "symbol": "THOR",
+  "websites": [
+   "https://preview--thor-landing-valhalla.lovable.app"
+  ]
+ },
+ {
   "address": "0:3a43774c81511f5d0f6d3412f67cc96312123f6b343e477bef3e08c6397c2817",
   "coingecko": "https://www.coingecko.com/en/coins/ton-inu",
   "description": "Dive into our toolkits, your secret weapons for making your crypto journey secure, seamless, and seriously cool $TINU.",
