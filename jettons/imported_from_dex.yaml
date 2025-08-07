@@ -367,6 +367,9 @@
 - address: 0:ff1132fe490445c2ec48203c2fa3c0a2c2e54af68ee55e07cd5544b3f6d96518
   name: DYNYA
   symbol: DYNYA
+- address: 0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401
+  name: Earnigram
+  symbol: EARNI
 - address: 0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896
   name: Engage ADS on Ton Open Network
   symbol: EAT
@@ -502,6 +505,9 @@
 - address: 0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c
   name: GROK
   symbol: GROK
+- address: 0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2
+  name: Gold Standard
+  symbol: GSTD
 - address: 0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1
   name: "\u041A\u0440\u043E\u043A\u043E\u0434\u0438\u043B \u0413\u0435\u043D\u0430"
   symbol: Gena
