@@ -13265,4 +13265,12 @@
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
  }
+ {
+  "address": "EQA0MQ030hc4LwxSVPeZQcDWYFAKkjb9ByqxlsRwhUfRTzyN",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 9,
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USDT_Logo.png"
+}
+
 ]
