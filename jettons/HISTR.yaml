@@ -3,11 +3,9 @@ name: Historycoin
   image: "https://images3.nplod.ru/gen_images_1/qVCguMPEVNm6ZTjeIFc5bqdQdBPhAq4b.jpg"  
   address : EQBJdCZcSaiEkzYiZfkGY8H3Rhr51PvonqvvEayak-UOgZSu  
   symbol: HISTR  
-  websites:  
-  -  
   social:  
-  - "https://www.instagram.com/priceohistory?igsh=MWd1YzB6bGR5N243dA=="  
-  - "https://x.com/Priceohistory?t=OXdWmGhy-TrtI3HuHw95Xw&s=09"  
-  - "https://www.tiktok.com/@priceohistory?_t=ZS-8yNwi6oAOAs&_r=1"  
+  - "https://www.instagram.com/priceohistory"
+  - "https://x.com/Priceohistory"
+  - "https://www.tiktok.com/@priceohistory"
   - "https://t.me/+qdUWbmSsz9gzMmFi"  
   - "https://t.me/priceohistory"
