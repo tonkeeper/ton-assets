@@ -1,0 +1,12 @@
+name: KAYPLE
+description: Kayple is a next-generation digital asset exchange that offers ultra-fast, low-fee, and secure swaps. It features high liquidity via advanced AMM, optimized returns through smart algorithms, multi-layer security with smart contracts, and an intuitive interface for all users.
+image: "https://tma.kayple.io/images/logo.png"
+address: 0:392a3f01266a8e8da88e190b1befb8eac8f9a633b0152d6636c4417adbd42b36
+symbol: KAY
+websites:
+  - "https://kayple.io"
+  - "https://tma.kayple.io"
+  - "https://dex.kayple.io"
+social:
+  - "https://t.me/KaypleChannel"
+  - "https://x.com/KAYPLE_TON"
