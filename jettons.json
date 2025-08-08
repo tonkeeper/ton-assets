@@ -2614,6 +2614,20 @@
   "symbol": "FLEX"
  },
  {
+  "address": "0:3df73622e9f14be0ade835332c99ce4375c191a020b002524168153ed614ac75",
+  "description": "The hottest coin.",
+  "image": "https://i.postimg.cc/4dvFmPhB/In-Shot-20250502-094433950.jpg",
+  "name": "Flaming Fenixs",
+  "social": [
+   "https://t.me/FlamingFenixs",
+   "https://dzen.ru/id/63c4f41d597386205c6ed7a5?share_to=link"
+  ],
+  "symbol": "FNXS",
+  "websites": [
+   "https://fnxs.tb.ru/"
+  ]
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
