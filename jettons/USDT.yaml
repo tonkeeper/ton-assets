@@ -1,0 +1,6 @@
+name: Tether USD
+symbol: USDT
+decimals: 9
+description: "A USD-pegged stablecoin on the TON blockchain."
+image: https://commons.wikimedia.org/wiki/Special:FilePath/USDT_Logo.png
+address: EQC41Mnfvqp_Rz4kF1iu_Uxchu4rIvOZ-KfkuORLzXINXyWd
