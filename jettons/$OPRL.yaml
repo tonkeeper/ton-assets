@@ -1,0 +1,6 @@
+- address: EQAsOiu8WgoRvkwZC-rSMRLvNij-xf9AjsKlWjBbBu-lgJL7 # Your Jetton's master contract address
+  name: Operal Community Token (OPRL)
+  symbol: OPRL
+  decimals: 9 # The number of decimals your token uses
+  image: https://raw.githubusercontent.com/operalag/ton/refs/heads/main/operal%20256.png  # The direct link to your token's logo (256x256 png is recommended)
+  description: Join the Operal Community
