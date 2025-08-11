@@ -28,6 +28,9 @@
 - address: 0:195a32ff6c07a664e2ceeedc58f9d1e4a7da1236443d190503479aca84be695f
   name: A5
   symbol: A5
+- address: 0:57c53b4310f5b630ac4e54493d9511639758c410cd4b7a5d4cc73cf243e586f3
+  name: Aaaaaaahhh
+  symbol: AAAA
 - address: 0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c
   name: GOLD
   symbol: AGLD
