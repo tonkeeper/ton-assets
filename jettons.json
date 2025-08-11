@@ -1069,6 +1069,17 @@
   "symbol": "BOOLI"
  },
  {
+  "address": "0:67969215cdeb9f068e78d5625ade32301f74d1f67a4c725efeb8ef7025df89f4",
+  "description": "TON FINAL BOSS.",
+  "image": "https://i.ibb.co/4ZN1SNC0/e41aff4c17da.png",
+  "name": "TON FINAL BOSS",
+  "social": [
+   "https://t.me/TonFinalBossCommunity",
+   "https://x.com/tonfinalbosscto"
+  ],
+  "symbol": "BOSS"
+ },
+ {
   "address": "0:00e9f9bdcb33a65db42e68fc763b24f3107661b65cb9b577d5b58d9b2dca8a8d",
   "description": "Rewards Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/batymcoin/refs/heads/main/5379725509707032451.jpg",
