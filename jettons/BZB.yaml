@@ -1,0 +1,11 @@
+{
+  "name": "Black Zone Barbers Token",
+  "description": "Black Zone Barbers Token (BZB) — бонусный токен барбершопа Black Zone. Используется в программе лояльности для клиентов: начисляется за стрижки, уход за бородой и другие услуги салона. Токены BZB можно обменять на скидки, бесплатные процедуры или эксклюзивные предложения для постоянных клиентов.",
+  "symbol": "BZB",
+  "decimals": 9,
+  "image": "https://blackzone-barbers.ru/telegram-token.png",
+  "address": "EQDdsErDmn3Lnc0EK1sQjKJ_elnBJeaQOGbqQBsnWWQ8GdPp",
+  "websites": [
+    "https://blackzone-barbers.ru"
+  ]
+}
