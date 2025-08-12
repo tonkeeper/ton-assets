@@ -3190,6 +3190,21 @@
   ]
  },
  {
+  "address": "0:9384dedf55eef9ae24e96b023f73990cfaf6c1f2c55db764771b3990361ccfd7",
+  "description": "$HCASH \u2013 Fuel the Future: The core token of Space Hunters, driving mining, upgrades, and the in-game economy. With real utility, growing demand, and a solid burn mechanism, holding $HCASH means owning a stake in the future. Don\u2019t just watch the future\u2014own it.",
+  "image": "https://space-hunters-game.github.io/website/hcash.png",
+  "name": "Hunter Cash",
+  "social": [
+   "https://t.me/spacehuntersbot",
+   "https://t.me/spacehuntersnews",
+   "https://www.instagram.com/spacehuntersgame"
+  ],
+  "symbol": "HCASH",
+  "websites": [
+   "https://hunterhub.online/"
+  ]
+ },
+ {
   "address": "0:8dd9d92f6a8b158e96bd5e8cf3374c26d4c05c23619337bd425af47322c487ec",
   "description": "Headcoin is a token for the multiplayer mobile game Head Battle and for our NFT marketplace for games. And also for the Headcoin mini app in Telegram.",
   "image": "https://headgun.org/headcoin/logoheadcoin.png",
