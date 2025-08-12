@@ -2,7 +2,7 @@ name: "MIKA"
 symbol: "MIKA"
 address: "EQAgzynhQC-osbRsCY4faw9uPzeo5SxSjssiBf7Ao5xYHQL0"
 decimals: 9
-image: "https://i.ibb.co/0Vq7dQWY/file-0000000015b4620a89c06404c0f6e00f.png"
+image: "https://raw.githubusercontent.com/tonkeeper/ton-assets/d21741c5fb319ae06d57f03984edef26ccacb7f1/jettons/file_0000000015b4620a89c06404c0f6e00f.png"
 description: "MIKA — защищённый токен на TON с фиксированной эмиссией 1 000 000 000 MIKA."
 websites:
   - "https://t.me/mikasacoin404"
