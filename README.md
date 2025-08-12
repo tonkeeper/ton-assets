@@ -49,6 +49,7 @@ Name           | Address
 [STON.fi Dex](https://tonviewer.com/0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e) | EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt
 [STON.fi Dex](https://tonviewer.com/0:70a4118401bf8d823531a66011020565f02e05ff91ac5f1677769b00d6acd07a) | EQBwpBGEAb-NgjUxpmARAgVl8C4F_5GsXxZ3dpsA1qzQerNl
 [TONCO](https://tonviewer.com/0:bffadd270a738531da7b13ba8fc403826c2586173f9ede9c316fab53bc59ac86) | EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5
+[Marketapp Marketplace](https://tonviewer.com/0:9a9cb80adfbd1662f5108766d73355ac2c03304fda1d25a479670e34efcd72b3) | EQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ysx2O
 [Morgenshtern](https://tonviewer.com/0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonviewer.com/0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
 [Telegram Team](https://tonviewer.com/0:2ecf5e47d591eb67fa6c56b02b6bb1de6a530855e16ad3082eaa59859e8d5fdc) | EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
@@ -67,6 +68,8 @@ Name           | Address
 ---------------|-----------
 [Anycraft Unique Crafts](https://tonviewer.com/0:c5e44022dc5a4785cb0bc0493960e990edf0c0cfcdf66c8621fcc757ba0a72ed) | EQDF5EAi3FpHhcsLwEk5YOmQ7fDAz832bIYh_MdXugpy7Qb5
 [Beeharvest](https://tonviewer.com/0:d52400de2f5e83bfe6a55a95854a042b3fe22a1a370dac9c101fae5b5e00732a) | EQDVJADeL16Dv-alWpWFSgQrP-IqGjcNrJwQH65bXgBzKt8C
+[Bidask Protocol: Launch Collection](https://tonviewer.com/0:94112d6c7eeee810356257b5ef9d6f3222de8a93e66767e046e5418b9e042554) | EQCUES1sfu7oEDViV7XvnW8yIt6Kk-ZnZ-BG5UGLngQlVE-4
+[Blink AI Genesis NFT](https://tonviewer.com/0:4ed8cc9c2e3186d5697982a91f754f1b635e57eb0f9fd499db968ea8f219be61) | EQBO2MycLjGG1Wl5gqkfdU8bY15X6w-f1Jnblo6o8hm-YUVC
 [Booli Reborn](https://tonviewer.com/0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55) | EQCsCWwWEHS0BaEhcwJ3ft3GEXoC0Xd1CJ3hgASj14-NVb_r
 [CALLIGRAFUTURISM — 24: Units](https://tonviewer.com/0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf) | EQD7eDxP_wLX18kr8uyYfs6srlgoNMfRbXNYM8dmMXT2vxwk
 [DILS COIN GENESIS](https://tonviewer.com/0:c202dd4b9af103c981b880bdfc2872bd8473fc0606159278fdc40a2ae4f8d234) | EQDCAt1LmvEDyYG4gL38KHK9hHP8BgYVknj9xAoq5PjSNDB0
