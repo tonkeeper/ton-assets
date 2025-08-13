@@ -12720,6 +12720,20 @@
   ]
  },
  {
+  "address": "0:5aeb2b3e92a7a61931338224ba62445e22564580cb2ee9ac4ade4b3b195cd2ab",
+  "description": "1000 KG per 1 TON or nothing",
+  "image": "https://www.kgonton.com/img/logo.svg",
+  "name": "Kilogram",
+  "social": [
+   "https://t.me/KGonTON",
+   "https://x.com/KGonTON"
+  ],
+  "symbol": "KG",
+  "websites": [
+   "https://www.kgonton.com"
+  ]
+ },
+ {
   "address": "0:9a8da514d575d20234c3fb1395ee9138f5f1ad838abc905dc42c2389b46bd015",
   "name": "Wrapped TON",
   "symbol": "WTON"
