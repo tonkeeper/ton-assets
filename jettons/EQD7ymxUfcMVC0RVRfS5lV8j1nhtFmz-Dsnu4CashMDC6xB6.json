@@ -1,7 +1,7 @@
 {
   "name": "U$DT",
   "symbol": "U$DT",
-  "decimals": 9,
+  "decimals": 6,
   "image": "https://raw.githubusercontent.com/ТВОЙ_GITHUB/ton-assets/master/tokens/jetton.png",
   "address": "АДРЕС_JETTON_MASTER",
   "verified": false,
