@@ -1806,6 +1806,17 @@
   ]
  },
  {
+  "address": "0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4",
+  "description": "Owled Didi is an animated Telegram sticker pack featuring a cute purple owl. It is also shown on the Telegram home page.",
+  "image": "https://fuchsia-patient-ocelot-485.mypinata.cloud/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
+  "name": "Owled Didi",
+  "social": [
+   "https://t.me/owled_didi_portal",
+   "https://x.com/owled_didi"
+  ],
+  "symbol": "DIDI"
+ },
+ {
   "address": "0:88e02e49227348330c6f148ba72a0cebc5afeb0c962e5de1c7d1f17f58a6e7b1",
   "description": "Ton Digger jetton miner",
   "image": "https://i.postimg.cc/y81cRWzj/dgr.png",
