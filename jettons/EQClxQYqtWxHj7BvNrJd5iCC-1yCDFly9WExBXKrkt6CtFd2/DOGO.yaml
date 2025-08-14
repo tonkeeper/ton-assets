@@ -1,0 +1,17 @@
+# ton-assets jetton metadata (Tonkeeper)
+# Keep this file name EXACTLY as <SYMBOL>.yaml or <NAME>.yaml (any unique file name is fine).
+# The folder name MUST be your jetton master (minter) address in friendly format.
+address: EQClxQYqtWxHj7BvNrJd5iCC-1yCDFly9WExBXKrkt6CtFd2
+name: Dogotopia
+symbol: DOGO
+decimals: 9
+description: Dogotopia is a community-driven meme token on the TON blockchain.
+# Use either a local file 'logo.png' in the same folder OR a direct https URL to a 1:1 PNG <100KB.
+# If you keep the file locally, set image: logo.png
+image: logo.png
+# (Optional) social links:
+websites: https://www.dogotopia.com/
+  - ""
+social:
+  - twitter: https://x.com/dogotopiaa
+  - telegram: https://t.me/Dogotopiaglobal
