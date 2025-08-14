@@ -1806,6 +1806,17 @@
   ]
  },
  {
+  "address": "0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4",
+  "description": "Owled Didi is an animated Telegram sticker pack featuring a cute purple owl. It is also shown on the Telegram home page.",
+  "image": "https://fuchsia-patient-ocelot-485.mypinata.cloud/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
+  "name": "Owled Didi",
+  "social": [
+   "https://t.me/owled_didi_portal",
+   "https://x.com/owled_didi"
+  ],
+  "symbol": "DIDI"
+ },
+ {
   "address": "0:88e02e49227348330c6f148ba72a0cebc5afeb0c962e5de1c7d1f17f58a6e7b1",
   "description": "Ton Digger jetton miner",
   "image": "https://i.postimg.cc/y81cRWzj/dgr.png",
@@ -5077,6 +5088,20 @@
   "symbol": "PRINTER",
   "websites": [
    "https://tonprinter.fun"
+  ]
+ },
+ {
+  "address": "0:7c8a1b8ec165850c1a10e891606472d1072b7b56c843973925a4717934ab3d6b",
+  "description": "Prometheus, or Prome, is an adorable animated fish character, conceptualized by the Russian artist Alexander Dolnikov. Prome is consistently one of Telegrams most popular sticker packs, with tens of millions of stickers being sent. The prophecy has been written",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb8ihuowwwfdboq6jfgzhlrbyt7vshdlzklphf5nks9a3qt.png?size=lg&key=5603ef",
+  "name": "Prometheus",
+  "social": [
+   "t.me/PrometheusTon",
+   "https://twitter.com/i/communities/1954642291660087579"
+  ],
+  "symbol": "PROME",
+  "websites": [
+   "https://t.me/addstickers/FishPrometheus"
   ]
  },
  {
@@ -10493,11 +10518,6 @@
   "symbol": "X"
  },
  {
-  "address": "0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6",
-  "name": "XAUt0",
-  "symbol": "XAUt0"
- },
- {
   "address": "0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602",
   "name": "xCryproMarket",
   "symbol": "XCM"
@@ -12706,6 +12726,20 @@
   ]
  },
  {
+  "address": "0:5aeb2b3e92a7a61931338224ba62445e22564580cb2ee9ac4ade4b3b195cd2ab",
+  "description": "1000 KG per 1 TON or nothing",
+  "image": "https://www.kgonton.com/img/logo.svg",
+  "name": "Kilogram",
+  "social": [
+   "https://t.me/KGonTON",
+   "https://x.com/KGonTON"
+  ],
+  "symbol": "KG",
+  "websites": [
+   "https://www.kgonton.com"
+  ]
+ },
+ {
   "address": "0:9a8da514d575d20234c3fb1395ee9138f5f1ad838abc905dc42c2389b46bd015",
   "name": "Wrapped TON",
   "symbol": "WTON"
@@ -13194,6 +13228,11 @@
   "symbol": "USD\u20ae"
  },
  {
+  "address": "0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6",
+  "name": "Tether Gold",
+  "symbol": "XAUt0"
+ },
+ {
   "address": "0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50",
   "description": "tgUSD is a blue-chip-backed stablecoin for Telegram users, designed for cross-chain yield with simple minting and effortless earning.",
   "name": "Telegram USD",
@@ -13368,5 +13407,10 @@
   "image": "https://tonco.io/static/token/WTTON_TOKEN.png",
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
+ },
+ {
+  "address": "0:ce0f496164c3f68aed4946af071008b2be4f91d68b2f43fbfa53c6ccf9d02a3c",
+  "name": "Zazulova Respect",
+  "symbol": "ZAZU"
  }
 ]
