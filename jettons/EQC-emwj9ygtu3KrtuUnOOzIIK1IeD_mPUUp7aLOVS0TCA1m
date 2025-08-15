@@ -1,0 +1,14 @@
+{
+  "name": "ECOM Token",
+  "symbol": "ECOM",
+  "decimals": 9,
+  "address": "EQC-emwj9ygtu3KrtuUnOOzIIK1IeD_mPUUp7aLOVS0TCA1m",
+  "image": "logo.png",
+  "description": "ECOM — токен в сети TON, созданный для электронной коммерции и цифровых расчетов: простой, прозрачный и глобально доступный.",
+  "websites": ["http://ecomtoken.tilda.ws/"],
+  "social": {
+    "telegram": "https://t.me/ecom1000000",
+    "twitter": "https://x.com/ecom_token",
+    "facebook": "https://www.facebook.com/share/1Ypdq3Z5ok/?mibextid=wwXIfr"
+  }
+}
