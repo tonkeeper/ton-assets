@@ -58,3 +58,7 @@
 - name: Coinbase Wrapped BTC 
   address: EQDhyPzbIjJT_WnY3gGprjSYUK9fiGMjWMezxO8MZiUdfb_B
   symbol: cbBTC
+
+- name: YieldFi yUSD
+  address: EQD68RUD37-wdN8NnPs_tvbZACdjl29IXlvZrWqFi7hd3oH0
+  symbol: yUSD
