@@ -704,6 +704,7 @@ Name           | Address
 [Telegram's Dog](https://tonviewer.com/0:7025a07ee7511f7750ab689b244c0931d8d0d91dfef538d59494997e28818ece) | EQBwJaB-51Efd1CraJskTAkx2NDZHf71ONWUlJl-KIGOzs4b
 [Telegrem](https://tonviewer.com/0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14) | EQCXGFXKTp961E0nHDzu6geSdcvm0kiYIGKtiZ77tm9LFBZC
 [Tenere](https://tonviewer.com/0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965) | EQCPmOnkTe8qP_ZtCf3Rys04ukRTiQc_xVS-lGQ6BH3JZWmC
+[Tether Gold](https://tonviewer.com/0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6) | EQA1R_LuQCLHlMgOo1S4G7Y7W1cd0FrAkbA10Zq7rddKxi9k
 [Tether USD](https://tonviewer.com/0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe) | EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs
 [Tfish](https://tonviewer.com/0:1057f39fa485f245362ff96e83ec5d746477ddc2662d80c474e6e810c355ddc8) | EQAQV_OfpIXyRTYv-W6D7F10ZHfdwmYtgMR05ugQw1XdyEBz
 [Tgram](https://tonviewer.com/0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b) | EQDRlQ8en7A2zsTuF7SdDOxMlZ_wFw0E7Eow3u9c4pSoe4Tg
@@ -810,7 +811,6 @@ Name           | Address
 [Wrapped Ymakanic Coin](https://tonviewer.com/0:e01ce5b481b7c4a1d0e295cf15926b3f1736a10b1857a2cec6c095d7873f2ec0) | EQDgHOW0gbfEodDilc8Vkms_FzahCxhXos7GwJXXhz8uwPET
 [Wuffi](https://tonviewer.com/0:61e2cad28f29d0c5ad579193d065c343192d41b96511b4842ca26a98776bd7ee) | EQBh4srSjynQxa1XkZPQZcNDGS1BuWURtIQsomqYd2vX7oll
 [X Empire](https://tonviewer.com/0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3) | EQB4zZusHsbU2vVTPqjhlokIOoiZhEdCMT703CWEzhTOo__X
-[XAUt0](https://tonviewer.com/0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6) | EQA1R_LuQCLHlMgOo1S4G7Y7W1cd0FrAkbA10Zq7rddKxi9k
 [Xraider](https://tonviewer.com/0:03392cb03e3ff6193296a4ff669d942e66990a0f14993afbead8de4aa6f29d65) | EQADOSywPj_2GTKWpP9mnZQuZpkKDxSZOvvq2N5KpvKdZbet
 [YSR](https://tonviewer.com/0:a73c98074ddefb8c93822e31837ecb92e6d03acb69fb534d5d68c743906654f9) | EQCnPJgHTd77jJOCLjGDfsuS5tA6y2n7U01daMdDkGZU-dbZ
 [Yoken](https://tonviewer.com/0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26) | EQCDkrpCu-FFVPQJnManjlf8XCN75wjX_AKrrEFFQ1mfJqZo
