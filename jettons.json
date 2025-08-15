@@ -2852,6 +2852,16 @@
   ]
  },
  {
+  "address": "0:f0c66c57973c342572be1953258862159451aee143ce9e5b661be5305e84cdd2",
+  "description": "G3 (Triple G Token) is a utility token used across Game-Fi with over 10 million users and in the gasless FGWallet. It powers in-game rewards, NFT utilities, staking, and airdrops.",
+  "image": "https://blockchain.fg-wallet.com/g3_token_image.png",
+  "name": "G3",
+  "symbol": "G3",
+  "websites": [
+   "https://lp.gaming-gate.net"
+  ]
+ },
+ {
   "address": "0:23ebcd016a99ed0c49baa5aad7e017d7fd2d4971bd6aa45eb70511221d960118",
   "image": "https://gattogame.github.io/Gatto/500x500.png",
   "name": "Gatto",
