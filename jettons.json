@@ -13252,6 +13252,11 @@
   "symbol": "cbBTC"
  },
  {
+  "address": "0:faf11503dfbfb074df0d9cfb3fb6f6d9002763976f485e5bd9ad6a858bb85dde",
+  "name": "YieldFi yUSD",
+  "symbol": "yUSD"
+ },
+ {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
   "description": "Spin off ARNI",
   "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
