@@ -1,0 +1,15 @@
+{
+  "address": "EQARxU02rTtPXrZmtO9-jErqpitfxxJ3MGTW6Ie7uqW9Wk_K",
+  "name": "SUPPORT",
+  "symbol": "SPRT",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/PlayPGC/assets/main/sprt-logo.png",
+  "description": "SUPPORT (SPRT) is a memecoin fostering community strength, unity, and purpose on the TON blockchain.",
+  "websites": [
+    "https://PlayPGC.com"
+  ],
+  "social": {
+    "telegram": "https://t.me/supportsprt",
+    "twitter": "https://twitter.com/supportsprt"
+  }
+}
