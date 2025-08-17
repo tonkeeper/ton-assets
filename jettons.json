@@ -1,5 +1,20 @@
 [
  {
+  "address": "0:e5f985fd340aae48d46116a1d305b92d871df95180012ef0b2957d842fead6dc",
+  "description": "$BANG is the official token of GRAND BANG, an exciting space agency simulator where you can play, earn rewards, and benefit from holding $BANG as the token grows \ud83d\ude80 https://grandbang.ru/",
+  "image": "https://cdn.blum.codes/2d7944ce-9277-4abc-a778-105491a95798/7d2af282-bd98-4cb7-8ec2-63b1e3c8de26",
+  "name": "BANG",
+  "social": [
+   "https://t.me/GrandBangBot",
+   "https://t.me/TheGrandBang",
+   "https://x.com/grandbanger"
+  ],
+  "symbol": "BANG",
+  "websites": [
+   "https://grandbang.ru/"
+  ]
+ },
+ {
   "address": "0:a6115250e678edb4d4416b56eaa99b15ab959a1d89621bd054fdde413f506ed9",
   "description": "The most gypsy token on TON",
   "image": "https://i.ibb.co/dGCf511/IMG-1522.png",
