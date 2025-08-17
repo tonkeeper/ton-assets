@@ -10061,11 +10061,6 @@
   "symbol": "Spotty"
  },
  {
-  "address": "0:d193779f496d2ec2150f74dda17ee42aa0386f9b3c9e4c08893af8d1a067bf7b",
-  "name": "Stuped Coyn",
-  "symbol": "Stuped"
- },
- {
   "address": "0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2",
   "name": "TAGO WOLF",
   "symbol": "TAGO"
@@ -13255,11 +13250,6 @@
   "address": "0:e1c8fcdb223253fd69d8de01a9ae349850af5f88632358c7b3c4ef0c66251d7d",
   "name": "Coinbase Wrapped BTC",
   "symbol": "cbBTC"
- },
- {
-  "address": "0:faf11503dfbfb074df0d9cfb3fb6f6d9002763976f485e5bd9ad6a858bb85dde",
-  "name": "YieldFi yUSD",
-  "symbol": "yUSD"
  },
  {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
