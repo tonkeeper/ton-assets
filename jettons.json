@@ -13077,6 +13077,20 @@
   "symbol": "wNOT"
  },
  {
+  "address": "0:11c54d36ad3b4f5eb666b4ef7e8c4aeaa62b5fc712773064d6e887bbbaa5bd5a",
+  "description": "Web3 is all about supporting each other",
+  "image": "https://bigpump.fra1.cdn.digitaloceanspaces.com/prod/f8e46dd1_1736754155077_IMG_1155.jpeg",
+  "name": "Support Meme (SPRT)",
+  "social": [
+   "https://t.me/SPRT_support",
+   "https://x.com/support_SPRT"
+  ],
+  "symbol": "SPRT",
+  "websites": [
+   "https://0xsprt.com"
+  ]
+ },
+ {
   "address": "0:52bda6438b55d3d99f69fe86d6fda6fd49cfa4422d5d94b268b141dfff165860",
   "decimals": 9,
   "description": "These jettons confirm ownership of ET NETSA COIN staked on JVault.xyz.",
