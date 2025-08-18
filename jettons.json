@@ -1,5 +1,20 @@
 [
  {
+  "address": "0:e5f985fd340aae48d46116a1d305b92d871df95180012ef0b2957d842fead6dc",
+  "description": "$BANG is the official token of GRAND BANG, an exciting space agency simulator where you can play, earn rewards, and benefit from holding $BANG as the token grows \ud83d\ude80 https://grandbang.ru/",
+  "image": "https://cdn.blum.codes/2d7944ce-9277-4abc-a778-105491a95798/7d2af282-bd98-4cb7-8ec2-63b1e3c8de26",
+  "name": "BANG",
+  "social": [
+   "https://t.me/GrandBangBot",
+   "https://t.me/TheGrandBang",
+   "https://x.com/grandbanger"
+  ],
+  "symbol": "BANG",
+  "websites": [
+   "https://grandbang.ru/"
+  ]
+ },
+ {
   "address": "0:a6115250e678edb4d4416b56eaa99b15ab959a1d89621bd054fdde413f506ed9",
   "description": "The most gypsy token on TON",
   "image": "https://i.ibb.co/dGCf511/IMG-1522.png",
@@ -206,6 +221,18 @@
   "symbol": "AFL",
   "websites": [
    "https://affiliate-token.com/ru/about"
+  ]
+ },
+ {
+  "address": "0:b138182d3c0d98b2842b62d444acc2e876ab6a2b258497d4059bbaec7f3cb489",
+  "description": "AI is a super technology that changes the world. Now we use it in the web3 field. This will be innovative and unheard of. We are about to change the world and bring you unlimited wealth.",
+  "name": "AI GOOD TALK",
+  "social": [
+   "https://t.me/AI_GOOD_TALK"
+  ],
+  "symbol": "AGT",
+  "websites": [
+   "https://sites.google.com/view/aigt"
   ]
  },
  {
@@ -1057,6 +1084,17 @@
   "symbol": "BOOLI"
  },
  {
+  "address": "0:67969215cdeb9f068e78d5625ade32301f74d1f67a4c725efeb8ef7025df89f4",
+  "description": "TON FINAL BOSS.",
+  "image": "https://i.ibb.co/4ZN1SNC0/e41aff4c17da.png",
+  "name": "TON FINAL BOSS",
+  "social": [
+   "https://t.me/TonFinalBossCommunity",
+   "https://x.com/tonfinalbosscto"
+  ],
+  "symbol": "BOSS"
+ },
+ {
   "address": "0:00e9f9bdcb33a65db42e68fc763b24f3107661b65cb9b577d5b58d9b2dca8a8d",
   "description": "Rewards Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/batymcoin/refs/heads/main/5379725509707032451.jpg",
@@ -1783,6 +1821,17 @@
   ]
  },
  {
+  "address": "0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4",
+  "description": "Owled Didi is an animated Telegram sticker pack featuring a cute purple owl. It is also shown on the Telegram home page.",
+  "image": "https://fuchsia-patient-ocelot-485.mypinata.cloud/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
+  "name": "Owled Didi",
+  "social": [
+   "https://t.me/owled_didi_portal",
+   "https://x.com/owled_didi"
+  ],
+  "symbol": "DIDI"
+ },
+ {
   "address": "0:88e02e49227348330c6f148ba72a0cebc5afeb0c962e5de1c7d1f17f58a6e7b1",
   "description": "Ton Digger jetton miner",
   "image": "https://i.postimg.cc/y81cRWzj/dgr.png",
@@ -2186,6 +2235,20 @@
   ]
  },
  {
+  "address": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+  "description": "First open case APP with integration in TON BlockChain.",
+  "image": "https://i.ibb.co/ZrsSPWZ/83b476757f1f.png",
+  "name": "EasyNFTCase",
+  "social": [
+   "https://t.me/easynftcase",
+   "https://t.me/enc_chat"
+  ],
+  "symbol": "ENC",
+  "websites": [
+   "https://easynftcase.online"
+  ]
+ },
+ {
   "address": "0:16a99135ecc4206b087e268fd9f1687f746735ce9a3bacbeabdb0e0bed72bf1f",
   "description": "1st Motion-sensing GameFi utility token beyond games",
   "image": "https://peach-holy-lizard-605.mypinata.cloud/ipfs/Qmd1oCnNwfVRid8nvWBPEdqp18Nv3NK3xL1yYWCgcnw3Ky",
@@ -2256,6 +2319,20 @@
    "https://x.com/ethena_labs"
   ],
   "symbol": "tsUSDe"
+ },
+ {
+  "address": "0:9f96a7e3d08303c36856abb4668fcc907f075b117f82eef661dfa165b4919771",
+  "decimals": 9,
+  "description": "F3DP \u2014 \u0431\u043e\u043d\u0443\u0441\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d \u0441\u0442\u0443\u0434\u0438\u0438 \u0431\u044b\u0441\u0442\u0440\u043e\u0439 3D-\u043f\u0435\u0447\u0430\u0442\u0438.",
+  "image": "https://f3dp.ru/favicons/favicon.svg",
+  "name": "Fast 3D Print Token",
+  "social": [
+   "https://t.me/f3dpbot"
+  ],
+  "symbol": "F3DP",
+  "websites": [
+   "https://f3dp.ru"
+  ]
  },
  {
   "address": "0:3980dbc181e7cd275d70dc7b83d551cf36fb722ce51cd6895fe0a04b3e6c5e6d",
@@ -2588,6 +2665,20 @@
   "symbol": "FLEX"
  },
  {
+  "address": "0:3df73622e9f14be0ade835332c99ce4375c191a020b002524168153ed614ac75",
+  "description": "The hottest coin.",
+  "image": "https://i.postimg.cc/4dvFmPhB/In-Shot-20250502-094433950.jpg",
+  "name": "Flaming Fenixs",
+  "social": [
+   "https://t.me/FlamingFenixs",
+   "https://dzen.ru/id/63c4f41d597386205c6ed7a5?share_to=link"
+  ],
+  "symbol": "FNXS",
+  "websites": [
+   "https://fnxs.tb.ru/"
+  ]
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
@@ -2773,6 +2864,16 @@
   "symbol": "FUSDT",
   "websites": [
    "https://farmix.tg"
+  ]
+ },
+ {
+  "address": "0:f0c66c57973c342572be1953258862159451aee143ce9e5b661be5305e84cdd2",
+  "description": "G3 (Triple G Token) is a utility token used across Game-Fi with over 10 million users and in the gasless FGWallet. It powers in-game rewards, NFT utilities, staking, and airdrops.",
+  "image": "https://blockchain.fg-wallet.com/g3_token_image.png",
+  "name": "G3",
+  "symbol": "G3",
+  "websites": [
+   "https://lp.gaming-gate.net"
   ]
  },
  {
@@ -4460,6 +4561,20 @@
   ]
  },
  {
+  "address": "0:9ebf0a0b23c5eada22c1933a61d6734d3c3ea45ef54440ffb42ab18def2d0d2a",
+  "description": "Mr. Rosy Cheeks - the dumbest meme and most bullish sticker of Telegram about to takeover TON blockchain",
+  "image": "https://pbs.twimg.com/profile_images/1953441118307127296/WKU0d_o1_400x400.jpg",
+  "name": "Mr. Rosy Cheeks",
+  "social": [
+   "https://t.me/CheeksCTO",
+   "https://x.com/mr_rosy_cheeks"
+  ],
+  "symbol": "Cheeks",
+  "websites": [
+   "http://cheeksonton.lol/"
+  ]
+ },
+ {
   "address": "0:bf5be29cede120c1d59b0a8ce0f56158c264f1ffd53e7d0af5e39ab1984e5fff",
   "description": "This is a mini-application on the TON blockchain that unites fans of traveling and discovering new places on our beautiful planet.",
   "image": "https://trueimages.ru/img/b3/28/70641486.png",
@@ -4541,6 +4656,20 @@
   "symbol": "NITRO",
   "websites": [
    "https://vagr-drive.ru/"
+  ]
+ },
+ {
+  "address": "0:650342b96c24ad2d91445acb2d41aa8a6b3d95fc9dbc323ee9c37c2311cd14cb",
+  "description": "\u0422\u043e\u0436\u0435 \u043d\u0430\u0434\u043e\u0435\u043b\u0438 \u0440\u0430\u0433\u0438 \u043d\u0430 \u0422\u041e\u041d? \u0425\u0432\u0430\u0442\u0438\u0442. \u0418\u0441\u043f\u0440\u0430\u0432\u0438\u043c \u044d\u0442\u043e. Also tired of rugs on TON? Enough. Let\u2019s fix this.",
+  "image": "https://i.ibb.co/NHhCp9x/08d0b1534944.png",
+  "name": "NO RUG",
+  "social": [
+   "https://t.me/norug_ton",
+   "https://x.com/NoRugTeam_TON"
+  ],
+  "symbol": "NORUG",
+  "websites": [
+   "https://norug.vercel.app"
   ]
  },
  {
@@ -5015,6 +5144,20 @@
   ]
  },
  {
+  "address": "0:7c8a1b8ec165850c1a10e891606472d1072b7b56c843973925a4717934ab3d6b",
+  "description": "Prometheus, or Prome, is an adorable animated fish character, conceptualized by the Russian artist Alexander Dolnikov. Prome is consistently one of Telegrams most popular sticker packs, with tens of millions of stickers being sent. The prophecy has been written",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb8ihuowwwfdboq6jfgzhlrbyt7vshdlzklphf5nks9a3qt.png?size=lg&key=5603ef",
+  "name": "Prometheus",
+  "social": [
+   "t.me/PrometheusTon",
+   "https://twitter.com/i/communities/1954642291660087579"
+  ],
+  "symbol": "PROME",
+  "websites": [
+   "https://t.me/addstickers/FishPrometheus"
+  ]
+ },
+ {
   "address": "0:00a7117b757c958b805b52c5102f194eac62447276c9ae963a9bc5c5eac0fcde",
   "description": "Full of care for your grandma. The TON meme hackathon, participants create viral mechanics aimed at uniting the community and exchanging creative ideas.",
   "image": "https://s.iimg.su/s/07/YZoWGMK82yxS289sIQt61qNYZAUXO95QLekZdpVm.png",
@@ -5407,6 +5550,17 @@
   "symbol": "ROOT",
   "websites": [
    "https://app.beetroot.finance"
+  ]
+ },
+ {
+  "address": "0:a5fdd443e19be953f281af569bb1b6c8fa8b62420a989892cf1bbd558d1060c7",
+  "decimals": 9,
+  "description": "\u042d\u0442\u043e\u0442 \u0442\u043e\u043a\u0435\u043d \u2014 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0435 \u0432\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u0435 \u043e\u043f\u044b\u0442\u0430 \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0430\u0440\u0435\u043d\u0438\u044f \u00ab\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u00bb \u043d\u0430 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0435 TON.",
+  "image": "https://rusbanik.ru/logo.jpeg",
+  "name": "Russian Steam Token",
+  "symbol": "RPAR",
+  "websites": [
+   "https://rusbanik.ru"
   ]
  },
  {
@@ -6183,6 +6337,19 @@
    "http://superwonton.xyz/",
    "https://dexscreener.com/ton/eqa8mzxhfmgid8_k65boet_sxvyebpypwafe4pww2r2sqkbc",
    "https://www.geckoterminal.com/ton/pools/EQA8MzXHfmGid8_K65boEt_sXVyEbPYPwaFe4PwW2R2sQKbC"
+  ]
+ },
+ {
+  "address": "0:04972ad5df6536d17c2e07723522e92abe91552f04f4977c292c2ff5f1a500a9",
+  "description": "Sapphire Token promises to be very successful, the token has very good investors who will help the token develop. You will not regret buying the token",
+  "image": "https://cdn.blum.codes/9df2bac3-10c4-4e29-af64-afaa1f8e486b/a4832155-366b-4954-81ce-ebf7f4973242",
+  "name": "Saphir",
+  "social": [
+   "https://t.me/t0pcoin"
+  ],
+  "symbol": "SAPHIR",
+  "websites": [
+   "https://dazzling-squirrel-5f36b8.netlify.app/"
   ]
  },
  {
@@ -8114,6 +8281,11 @@
   "symbol": "A5"
  },
  {
+  "address": "0:57c53b4310f5b630ac4e54493d9511639758c410cd4b7a5d4cc73cf243e586f3",
+  "name": "Aaaaaaahhh",
+  "symbol": "AAAA"
+ },
+ {
   "address": "0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c",
   "name": "GOLD",
   "symbol": "AGLD"
@@ -9904,6 +10076,11 @@
   "symbol": "Spotty"
  },
  {
+  "address": "0:d193779f496d2ec2150f74dda17ee42aa0386f9b3c9e4c08893af8d1a067bf7b",
+  "name": "Stuped Coyn",
+  "symbol": "Stuped"
+ },
+ {
   "address": "0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2",
   "name": "TAGO WOLF",
   "symbol": "TAGO"
@@ -10072,6 +10249,11 @@
   "address": "0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1",
   "name": "Ton Milk",
   "symbol": "TMILK"
+ },
+ {
+  "address": "0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956",
+  "name": "TON FORD",
+  "symbol": "TNFRD"
  },
  {
   "address": "0:1a1a5c42df56254b1ccaffd846de46ba50dd46f616e15c9237493b5f5111e122",
@@ -10397,11 +10579,6 @@
   "address": "0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3",
   "name": "X Empire",
   "symbol": "X"
- },
- {
-  "address": "0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6",
-  "name": "XAUt0",
-  "symbol": "XAUt0"
  },
  {
   "address": "0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602",
@@ -12612,6 +12789,38 @@
   ]
  },
  {
+  "address": "0:d72c1cddb566f8ef30b2ffe4e75404836bb93100feff03a1bf506b7b95011b18",
+  "decimals": 9,
+  "description": "Kasongo Coin is the ultimate underdog meme token, inspired by a fearless warthog who defies the odds and takes on the jungle. Kasongo is for the people.",
+  "image": "https://github.com/Kingsolomon1985/Kasongo-coin-assets/raw/main/Kasongo-coin-logo.png",
+  "name": "Kasongo Coin",
+  "social": [
+   "https://x.com/KasongoCoin",
+   "https://t.me/+rYL_5OBHv9w3NjI0",
+   "https://www.tiktok.com/@kasongo.coin",
+   "https://instagram.com/kasongo.coin",
+   "https://youtube.com/@kasongocoin"
+  ],
+  "symbol": "KGO",
+  "websites": [
+   "https://kasongocoin.org"
+  ]
+ },
+ {
+  "address": "0:5aeb2b3e92a7a61931338224ba62445e22564580cb2ee9ac4ade4b3b195cd2ab",
+  "description": "1000 KG per 1 TON or nothing",
+  "image": "https://www.kgonton.com/img/logo.svg",
+  "name": "Kilogram",
+  "social": [
+   "https://t.me/KGonTON",
+   "https://x.com/KGonTON"
+  ],
+  "symbol": "KG",
+  "websites": [
+   "https://www.kgonton.com"
+  ]
+ },
+ {
   "address": "0:9a8da514d575d20234c3fb1395ee9138f5f1ad838abc905dc42c2389b46bd015",
   "name": "Wrapped TON",
   "symbol": "WTON"
@@ -13081,6 +13290,11 @@
   "symbol": "cbBTC"
  },
  {
+  "address": "0:faf11503dfbfb074df0d9cfb3fb6f6d9002763976f485e5bd9ad6a858bb85dde",
+  "name": "YieldFi yUSD",
+  "symbol": "yUSD"
+ },
+ {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
   "description": "Spin off ARNI",
   "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
@@ -13098,6 +13312,11 @@
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD",
   "symbol": "USD\u20ae"
+ },
+ {
+  "address": "0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6",
+  "name": "Tether Gold",
+  "symbol": "XAUt0"
  },
  {
   "address": "0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50",
@@ -13131,7 +13350,7 @@
  {
   "address": "0:19884462e9aca6aa04a0df491bc865c9a1661fc5beaecf4095ac9be1b683cf7a",
   "description": "tomorrow will never come!",
-  "image": "https://trueimages.ru/img/d4/ad/450e8086.png",
+  "image": "https://github.com/tmrrw-dev/tmrrw-logo/blob/main/logo.png?raw=true",
   "name": "Tomorrow?",
   "social": [
    "https://t.me/tomorrowtkn",
@@ -13274,5 +13493,10 @@
   "image": "https://tonco.io/static/token/WTTON_TOKEN.png",
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
+ },
+ {
+  "address": "0:ce0f496164c3f68aed4946af071008b2be4f91d68b2f43fbfa53c6ccf9d02a3c",
+  "name": "Zazulova Respect",
+  "symbol": "ZAZU"
  }
 ]
