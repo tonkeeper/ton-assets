@@ -1051,6 +1051,9 @@
 - address: 0:c7976b1586b63896f74714bcee4af1a8817b928a6db4e94bd71cdc0547cf210a
   name: Salo
   symbol: SALO
+- address: 0:04972ad5df6536d17c2e07723522e92abe91552f04f4977c292c2ff5f1a500a9
+  name: Saphir
+  symbol: SAPHIR
 - address: 0:2dcbb7322c88c5ed4f8ad15806fe0724b1300ab482e46c908d8cf62567ce5c09
   name: SAUD
   symbol: SAU
