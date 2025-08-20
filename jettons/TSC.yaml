@@ -1,8 +1,10 @@
 name: TON Strategy Co.
-description: This is Ton Strategy Co. $TSC, the first TON Treasury Company listed on Nasdaq.
+description: This is Ton Strategy Co. ($TSC). Memecoin community for the first TON Treasury Company listed on Nasdaq.
 address: 17:009c2118ff9c70a688b3d88cc0ee8a0462c71f12e510cbd8ea5245c690c4b61a
 symbol: TSC
 decimals: 9
+websites:
+  - "https://tonstrat.meme"
 social:
   - "https://x.com/tonstrategyco?s=21&t=-i1ubNixqwMCofwBTBVIzA"
   - "https://t.me/tonstrategy01"
