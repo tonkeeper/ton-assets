@@ -274,6 +274,9 @@
 - address: 0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3
   name: Ton Croco
   symbol: CROCO
+- address: 0:ab2090a88509ac32a7272bd81589bcea8afe7ecd18fd2977f85fc8490db44cef
+  name: Crow
+  symbol: CROW
 - address: 0:3eacf4800885bc8492f5217698019510bdafc56f88bcd691755365f06dbc934e
   name: CTIDAO
   symbol: CTIDAO
