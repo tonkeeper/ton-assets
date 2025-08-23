@@ -1,3 +1,6 @@
+- address: 0:049a69023f5b6e1ef0acb8d671b8a7bdde3e032d7bcf8c3041318116693c352b
+  name: BabyUtya
+  symbol: $BUTYA
 - address: 0:9b48bb73351f4b1e294510273439c641cf76a9e3363353a811e040ba119a08cc
   name: 'Russian Blue '
   symbol: $Blu
@@ -28,6 +31,9 @@
 - address: 0:195a32ff6c07a664e2ceeedc58f9d1e4a7da1236443d190503479aca84be695f
   name: A5
   symbol: A5
+- address: 0:57c53b4310f5b630ac4e54493d9511639758c410cd4b7a5d4cc73cf243e586f3
+  name: Aaaaaaahhh
+  symbol: AAAA
 - address: 0:72572b1f12b985156a5a09720753af12174bfa3b4839f4a5a1aeac5e04f0f28c
   name: GOLD
   symbol: AGLD
@@ -268,6 +274,9 @@
 - address: 0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3
   name: Ton Croco
   symbol: CROCO
+- address: 0:ab2090a88509ac32a7272bd81589bcea8afe7ecd18fd2977f85fc8490db44cef
+  name: Crow
+  symbol: CROW
 - address: 0:3eacf4800885bc8492f5217698019510bdafc56f88bcd691755365f06dbc934e
   name: CTIDAO
   symbol: CTIDAO
@@ -355,6 +364,9 @@
 - address: 0:ff1132fe490445c2ec48203c2fa3c0a2c2e54af68ee55e07cd5544b3f6d96518
   name: DYNYA
   symbol: DYNYA
+- address: 0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401
+  name: Earnigram
+  symbol: EARNI
 - address: 0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896
   name: Engage ADS on Ton Open Network
   symbol: EAT
@@ -478,6 +490,9 @@
 - address: 0:3623229a3bb7ca577ec6c5019b458ff265d138ed97505db3a75f9e4e5a10b06c
   name: GROK
   symbol: GROK
+- address: 0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2
+  name: Gold Standard
+  symbol: GSTD
 - address: 0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1
   name: "\u041A\u0440\u043E\u043A\u043E\u0434\u0438\u043B \u0413\u0435\u043D\u0430"
   symbol: Gena
@@ -1096,6 +1111,9 @@
 - address: 0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2
   name: Spotty
   symbol: Spotty
+- address: 0:d193779f496d2ec2150f74dda17ee42aa0386f9b3c9e4c08893af8d1a067bf7b
+  name: Stuped Coyn
+  symbol: Stuped
 - address: 0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2
   name: TAGO WOLF
   symbol: TAGO
@@ -1199,6 +1217,9 @@
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
+- address: 0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956
+  name: TON FORD
+  symbol: TNFRD
 - address: 0:1a1a5c42df56254b1ccaffd846de46ba50dd46f616e15c9237493b5f5111e122
   name: TONY
   symbol: TNY
@@ -1394,9 +1415,6 @@
 - address: 0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3
   name: X Empire
   symbol: X
-- address: 0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6
-  name: XAUt0
-  symbol: XAUt0
 - address: 0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602
   name: xCryproMarket
   symbol: XCM
