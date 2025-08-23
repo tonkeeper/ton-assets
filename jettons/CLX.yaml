@@ -1,0 +1,10 @@
+name: Cluex
+symbol: CLX
+decimals: 9
+address: EQCJxEtUC2AfqXJKraMfKS4ZPpaKFl5Tlv8ljZsxHIaDu5EI
+description: "A mysterious digital clue, built for thinkers"
+social:
+  - "https://t.me/Cluex_Association"
+  - "https://x.com/Cluexcoin"
+image: "https://raw.githubusercontent.com/cluexcoin07/ton-assets/main/jettons/cluex.png"
+whitepaper: "https://raw.githubusercontent.com/cluexcoin07/ton-assets/main/docs/Cluex1-whitepaper.pdf"
