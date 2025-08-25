@@ -165,6 +165,22 @@
   "symbol": "MUSK"
  },
  {
+  "address": "0:483254c8b16830319035201aac5380831226c30a47b42dd1085cfd2e9236aae1",
+  "description": "The token behind ONTON's event, rewards, and proof of humanity protocol.",
+  "image": "https://github.com/PomeGroup/ONION/blob/main/onion.png?raw=true",
+  "name": "ONION",
+  "social": [
+   "https://t.me/ontonlive",
+   "https://x.com/ontonbot"
+  ],
+  "symbol": "ONIT",
+  "websites": [
+   "https://onton.live",
+   "https://t.me/theontonbot",
+   "https://onion.tg"
+  ]
+ },
+ {
   "address": "0:9c559870b490faf34c8d16de6a61a97d010c609d434bdc5f54e65539f5eeab7e",
   "description": "Utility-token for the 13th Floor TG Game. Shape the Game's future before the Airdrop, while your Avatar is still earning money for you. Trade and Hold for in-game bonuses, purchases, NFTs, and increased chances in the main 13th Floor Airdrop.",
   "image": "https://d8bddedf-ac40-4488-8101-05035bb63d25.selstorage.ru/BlackLogo.png",
