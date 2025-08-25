@@ -1,6 +1,6 @@
 name: Operal Community Token (OPRL)
 description: Operal Community Token
-image: https://raw.githubusercontent.com/operalag/ton/refs/heads/main/operal%20256.png
+image: "https://raw.githubusercontent.com/operalag/ton/refs/heads/main/operal%20256.png"
 address: EQAsOiu8WgoRvkwZC-rSMRLvNij-xf9AjsKlWjBbBu-lgJL7
 symbol: OPRL
 decimals: 9
