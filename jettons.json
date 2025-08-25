@@ -12956,6 +12956,21 @@
   "symbol": "MGLP"
  },
  {
+  "address": "0:19c7a724960ae13144d556d5b2633d7acda5bef9b1fa427268fb08c9be46fed5",
+  "description": "Utility token for the OdeCloud ecosystem \u2014 powering rewards, perks, and community engagement.",
+  "image": "https://raw.githubusercontent.com/odecloud/odecoin-assets/main/logo.png",
+  "name": "OdeCoin",
+  "social": [
+   "https://www.linkedin.com/company/odecloud",
+   "https://www.instagram.com/odecloud/"
+  ],
+  "symbol": "ODE",
+  "websites": [
+   "https://odecloud.com",
+   "https://odecoin.odecloud.com"
+  ]
+ },
+ {
   "address": "0:005f01f471a8cfb0c17e9cd0b9933f9268b69e683af833b4357e85703ffbce5b",
   "name": "Orbit Bridge Ton Dai",
   "symbol": "oDAI"
