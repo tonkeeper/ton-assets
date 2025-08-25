@@ -8218,6 +8218,20 @@
   ]
  },
  {
+  "address": "0:f15ae83b9d7a9a35deab7e497cc519beebba98af99ebf14b959eff6683dfc14a",
+  "description": "Meet Mr Greene \u2014 the face of the official PEPE sticker pack on Telegram!",
+  "image": "https://greeneton.carrd.co/assets/images/image02.png?v=07f9ae64",
+  "name": "greene",
+  "social": [
+   "https://t.me/GreeneCTO",
+   "https://x.com/mrgreenecto"
+  ],
+  "symbol": "greene",
+  "websites": [
+   "https://www.greeneton.com/"
+  ]
+ },
+ {
   "address": "0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc",
   "image": "https://hpo.hipo.finance/hpo.png",
   "name": "Hipo Governance Token",
