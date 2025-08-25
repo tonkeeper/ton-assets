@@ -505,6 +505,7 @@ Name           | Address
 [Orbit Bridge Ton Wrapped BTC](https://tonviewer.com/0:0d6ac6f30f9c1d571d2a8a479b91c86b1fae33360b01dfca02f4f56eeeb1b5ea) | EQANasbzD5wdVx0qikebkchrH64zNgsB38oC9PVu7rG16qNB
 [Orbit Bridge Ton apM Coin](https://tonviewer.com/0:64a11836506ebbb63f103e801f1a5b5bf5597c3cb6e87c63ba1463000ee0c101) | EQBkoRg2UG67tj8QPoAfGltb9Vl8PLbofGO6FGMADuDBAZA9
 [Outback Jack](https://tonviewer.com/0:c1c91eb16d1ad358840529f78122390858bbe7ae57a7195f7b922577b045d1a5) | EQDByR6xbRrTWIQFKfeBIjkIWLvnrlenGV97kiV3sEXRpT8E
+[Owled Didi](https://tonviewer.com/0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4) | EQCRUitj7ehYvSzZKTyhq02-HpbhLNgAvnMF5I7Dx31QxIAH
 [PACO](https://tonviewer.com/0:c2fcf5753c26062d85021880315042ffdf4b57e20dc106e207997502948b6593) | EQDC_PV1PCYGLYUCGIAxUEL_30tX4g3BBuIHmXUClItlk82E
 [PAPA](https://tonviewer.com/0:9896f1698b4e0015e6de174c7829ac8a8a813176f3f6de2c2d4c9e3919a6934c) | EQCYlvFpi04AFebeF0x4KayKioExdvP23iwtTJ45GaaTTEbP
 [PAPA CARLO](https://tonviewer.com/0:23d7c2a2e2c1b8ec05dbd78368df9167acc341c42dae1dcb887a3243cab77a55) | EQAj18Ki4sG47AXb14No35FnrMNBxC2uHcuIejJDyrd6VXpQ
