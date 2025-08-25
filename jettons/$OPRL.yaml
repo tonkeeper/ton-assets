@@ -1,0 +1,13 @@
+name: Operal Community Token (OPRL)
+description: Operal Community Token
+image: https://raw.githubusercontent.com/operalag/ton/refs/heads/main/operal%20256.png
+address: EQAsOiu8WgoRvkwZC-rSMRLvNij-xf9AjsKlWjBbBu-lgJL7
+symbol: OPRL
+decimals: 9
+websites:
+  - "https://operal.solutions"
+  - "https://operal.me"
+social:
+  - "https://t.me/cricketandcrypto"
+  - "https://t.me/sixrcricket_bot"
+  - "https://x.com/AgOperal"
