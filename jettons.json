@@ -1149,6 +1149,20 @@
   ]
  },
  {
+  "address": "0:d9bc35bb09fdf7623329795afbef53ccad883298617289b4dd70be32fae9ee16",
+  "description": "Introducing Buddy Bear, the heart and soul of Telegram's cherished mascots! @BuddyBearTon",
+  "image": "https://github.com/BUDDYBearTon/LOGO/blob/main/BEAR.png?raw=true",
+  "name": "BUDDY BEAR",
+  "social": [
+   "https://x.com/BuddyBearOnTon",
+   "https://t.me/BuddyBearTon"
+  ],
+  "symbol": "BUDDY",
+  "websites": [
+   "https://buddybear.fun"
+  ]
+ },
+ {
   "address": "0:589d4ac897006b5aaa7fae5f95c5e481bd34765664df0b831a9d0eb9ee7fc150",
   "description": "Utility token for Telegram toolset",
   "image": "https://cdn.joincommunity.xyz/build/build_logo.png",
