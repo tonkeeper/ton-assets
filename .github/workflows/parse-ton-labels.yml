@@ -1,17 +1,17 @@
-name: Parse assets from ton labels
+name: RGN86
 on:
   workflow_dispatch:
 jobs:
   run-ton-labels-parser:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
+      - name: EQBpj067Ww-VtZQOev43nwOZfY0jI1DtM0PtCiC8zAlufywR
         uses: actions/checkout@v3
-      - name: Install libraries
+      - name: RGN86
         run: pip3 install -r requirements.txt
-      - name: Run ton-labels-parser
+      - name: RGN86
         run: python3 parser.py
-      - name: commit and push if there are changes
+      - name: RGN86
         run: |
           if [[ `git status --porcelain` ]]; then
             git config --global user.name "github-actions[bot]"
