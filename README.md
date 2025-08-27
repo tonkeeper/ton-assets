@@ -544,6 +544,7 @@ Name           | Address
 [PlanTon](https://tonviewer.com/0:33dada4cd9195ffb4edb55eeb68a3c28cd1125977678b5c6d4ae1ec11bafa309) | EQAz2tpM2Rlf-07bVe62ijwozREll3Z4tcbUrh7BG6-jCb18
 [Plankton](https://tonviewer.com/0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729) | EQATgD7dao9jWBdz_qKL-UJZCXZGQvV5HJVUC85ssgmHKWll
 [Player Pump Player](https://tonviewer.com/0:3391461c68ff89cdc0de413cccc6e1f7a6d5a144de32be9e313eefdc6e9b84d7) | EQAzkUYcaP-JzcDeQTzMxuH3ptWhRN4yvp4xPu_cbpuE12YC
+[PlushPepe](https://tonviewer.com/0:3ab9c8b785a60dcfde95eac6467d067c887fe2287420a388a291f8a6a92dddaf) | EQA6uci3haYNz96V6sZGfQZ8iH_iKHQgo4iikfimqS3dr45W
 [Pogo](https://tonviewer.com/0:b6601693f6282ed212e7cf5a4f5ea22655c273773d095a4aa7e414d17f603d87) | EQC2YBaT9igu0hLnz1pPXqImVcJzdz0JWkqn5BTRf2A9h8Yl
 [Ponchiqs](https://tonviewer.com/0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530) | EQAkG89bnBfKwsUp8ZzqCJM-DeKxwowl_M7uRan7tbMlMGOJ
 [Portal Network Token](https://tonviewer.com/0:41ed158ed2ace8e898629172e398a25cf35212e094747327396cf00bfe1d061a) | EQBB7RWO0qzo6JhikXLjmKJc81IS4JR0cyc5bPAL_h0GGmxW
