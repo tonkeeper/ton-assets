@@ -383,6 +383,20 @@
   "symbol": "AMBR"
  },
  {
+  "address": "0:fb1522574798299f2b36ba7d7fdde4bbd44f9ba4b0c527a1d56474801d8caf41",
+  "description": "the PHARAOHO of TON DOGS",
+  "image": "https://anubisdog.xyz/wp-content/uploads/2025/08/transparent-200x200-ando.png",
+  "name": "Anubis Dog",
+  "social": [
+   "https://t.me/andocto",
+   "https://x.com/ctoando"
+  ],
+  "symbol": "ANDO",
+  "websites": [
+   "https://anubisdog.xyz"
+  ]
+ },
+ {
   "address": "0:bc236959c32064b29c82a5e745927fdc1a69be575130f09e9d0dff8e9d5bfffc",
   "description": "ANON XP are non-transferable and non-tradable tokens that reflect in the TON blockchain the wallet holder's activity in ANON events and participation in the mission to Planet 8 as part of ANON Space.",
   "image": "https://storage.anon.tg/anonxp/anonxp_logo.png",
