@@ -1484,6 +1484,9 @@
 - address: 0:82bbf5d4cc80ff9ad53ecf6eb6249c2fbaba8f8a252cbab2ecb75b9ce6697035
   name: no cat
   symbol: nyetcat
+- address: 0:3ab9c8b785a60dcfde95eac6467d067c887fe2287420a388a291f8a6a92dddaf
+  name: PlushPepe
+  symbol: plsh
 - address: 0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45
   name: sTONks
   symbol: sTONks
