@@ -1,14 +1,184 @@
 {
-  "name": "eCom Token",
-  "symbol": "ECOM",
-  "decimals": 6,
-  "address": "EQC-emwj9ygtu3KrtuUnOOzIIK1IeD_mPUUp7aLOVS0TCA1m",
-  "image": "logo.png",
-  "description": "ECOM — token in the TON network, created for online trading and digital payments: transparent, simple and globally accessible.",
-  "websites": ["http://ecomtoken.tilda.ws/"],
-  "social": {
-    "telegram": "https://t.me/ecom1000000",
-    "twitter": "https://x.com/ecom_token",
-    "facebook": "https://www.facebook.com/share/1Ypdq3Z5ok/?mibextid=wwXIfr"
-  }
+  "mintable": true,
+  "total_supply": "545217356060974508816",
+  "metadata": {
+    "address": "0:afc49cb8786f21c87045b19ede78fc6b46c51048513f8e9a6d44060199c1bf0c",
+    "name": "Dogs",
+    "symbol": "DOGS",
+    "decimals": "9",
+    "image": "https://cdn.dogs.dev/dogs.png"
+  },
+  "preview": "https://cache.tonapi.io/imgproxy/6Pb0sBFy_AzW6l39EIHGs-Iz4eLbbZUh8AYY_Xq-rcg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jZG4uZG9ncy5kZXYvZG9ncy5wbmc.webp",
+  "verification": "whitelist",
+  "holders_count": 4919284
+}
+{
+  "mintable": true,
+  "total_supply": "10000100000000000000000",
+  "admin": {
+    "address": "0:eea22f3873ff926b13fb8bdc5a0f52235534ae2a93728ad956afbdcce32c8195",
+    "is_scam": false,
+    "is_wallet": true
+  },
+  "metadata": {
+    "address": "0:9e8b140aff2c0e963d087eea0f866dc6c79c146a4c2231b38f9224b3009e71e7",
+    "name": "DOGS",
+    "symbol": "$DOGS",
+    "decimals": "9",
+    "image": "https://github.com/Fuadol/sd/blob/main/WhatsApp%20Image%202024-07-11%20at%2001.05.36.jpeg?raw=true",
+    "description": "TG:https://t.me/dogshouse_bot/join?startapp=0BT76vXMRga_O4tfTQINaA\nWEB:https://x.com/dogs_airdrop?s=21&t=gsyQFM2pDDLJxO-IiT0jVw"
+  },
+  "preview": "https://cache.tonapi.io/imgproxy/3IlkFE99AsgPdCkhVmLonEI8WblIt11EAqjGff2g58o/rs:fill:200:200:1/g:no/aHR0cHM6Ly9naXRodWIuY29tL0Z1YWRvbC9zZC9ibG9iL21haW4vV2hhdHNBcHAlMjBJbWFnZSUyMDIwMjQtMDctMTElMjBhdCUyMDAxLjA1LjM2LmpwZWc_cmF3PXRydWU.webp",
+  "verification": "blacklist",
+  "holders_count": 14
+}
+{
+  "address": "0:a610beba3c3c95119bbcc5c91b1b27bd3670077b10813d849a664612ad944640",
+  "name": "HAMSTERCOIN",
+  "symbol": "HMS",
+  "decimals": "8",
+  "image": "https://i.ibb.co/qjKMRX1/image.pnghamster",
+  "description": "The fan group of the game hamster"
+}
+{
+  "mintable": true,
+  "total_supply": "199985734104379081188",
+  "admin": {
+    "address": "0:0000000000000000000000000000000000000000000000000000000000000000",
+    "is_scam": false,
+    "is_wallet": true
+  },
+  "metadata": {
+    "address": "0:3243ec187bc539861585b63116b20c9315062fd4d6108aea0dcfa1f72fcb5c3c",
+    "name": "DOGS",
+    "symbol": "DOGS",
+    "decimals": "9",
+    "image": "https://api.fileverse.io/content/206b6972-a016-43f7-9f50-6cbb073fb58e",
+    "description": "Who let the DOGS out! 🐶 https://t.me/dogshouse_bot"
+  },
+  "preview": "https://cache.tonapi.io/imgproxy/B1WuKNQvZu36Ot-ywewEcHDA-Niz_d34Rwdji_IijCs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hcGkuZmlsZXZlcnNlLmlvL2NvbnRlbnQvMjA2YjY5NzItYTAxNi00M2Y3LTlmNTAtNmNiYjA3M2ZiNThl.webp",
+  "verification": "blacklist",
+  "holders_count": 8700
+}
+{
+  "mintable": true,
+  "total_supply": "199985391000000000000",
+  "admin": {
+    "address": "0:0000000000000000000000000000000000000000000000000000000000000000",
+    "is_scam": false,
+    "is_wallet": true
+  },
+  "metadata": {
+    "address": "0:dfca95fd1b2981921088c070caed425d1821591087422f575f35677a4f4c37ad",
+    "name": "DOGS",
+    "symbol": "DOGS",
+    "decimals": "9",
+    "image": "https://api.fileverse.io/content/206b6972-a016-43f7-9f50-6cbb073fb58e",
+    "description": "Hey, DOGS! 😎 🐶 https://t.me/dogshouse_bot"
+  },
+  "preview": "https://cache.tonapi.io/imgproxy/B1WuKNQvZu36Ot-ywewEcHDA-Niz_d34Rwdji_IijCs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hcGkuZmlsZXZlcnNlLmlvL2NvbnRlbnQvMjA2YjY5NzItYTAxNi00M2Y3LTlmNTAtNmNiYjA3M2ZiNThl.webp",
+  "verification": "blacklist",
+  "holders_count": 3200
+}
+{
+  "mintable": true,
+  "total_supply": "1000000000000000000000",
+  "admin": {
+    "address": "0:48cfc5ac0c1910fd2b023357d9ac1363fe736a675a376d562bb07800b475d900",
+    "name": "pool-airdrop.ton",
+    "is_scam": false,
+    "is_wallet": true
+  },
+  "metadata": {
+    "address": "0:e4a619b262cfdae028ace088e1a65056caa1b92633c82ef2c8caaa6550fbdce5",
+    "name": "YesCoin official token",
+    "symbol": "YesCoin",
+    "decimals": "9",
+    "image": "https://cryptorussia.ru/wp-content/uploads/2024/05/yescoin.png"
+  },
+  "preview": "https://cache.tonapi.io/imgproxy/iXRz713EBpw2fdDif44WwpgTx4oUL6n7JyL3SW6I6Cc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jcnlwdG9ydXNzaWEucnUvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDUveWVzY29pbi5wbmc.webp",
+  "verification": "none",
+  "holders_count": 73
+}
+{
+  "mintable": true,
+  "total_supply": "1322721131917551",
+  "metadata": {
+    "address": "0:c6f68bc36ba6b6bb893f0f4dff21e764325f09d0959999a7b8fdff4aa00c286b",
+    "name": "DeDust Pool: $DOGS/TON",
+    "symbol": "LP",
+    "decimals": "9",
+    "image": "https://c.tonapi.io/onchain/image/f8174786dac4a09a0040a110b63ad75d"
+  },
+  "preview": "https://cache.tonapi.io/imgproxy/DcZz9vwzrLLPhXDbQBFqXF-aTNeC8auBUdDv-eprl8w/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jLnRvbmFwaS5pby9vbmNoYWluL2ltYWdlL2Y4MTc0Nzg2ZGFjNGEwOWEwMDQwYTExMGI2M2FkNzVk.webp",
+  "verification": "none",
+  "holders_count": 2
+}
+
+{
+  "mintable": true,
+  "total_supply": "100000100000000100000000000000000000",
+  "admin": {
+    "address": "0:922e41ee3c05560e01306c90d43e91114c7664a47756ffef80a848bfd0973b81",
+    "is_scam": false,
+    "is_wallet": true
+  },
+  "metadata": {
+    "address": "0:a18fb347c2463f644bba134ad70179df5eaeb54f622e968f83b82464772286f4",
+    "name": "DOGS CAT",
+    "symbol": "DOGS CAT",
+    "decimals": "9",
+    "image": "https://arweave.net/QqBjrMAVCm5zSTwrn5Dxnsdb_nmMziqLIOiQLCPCH9c?ext=png",
+    "description": "DOGS CAT"
+  },
+  "preview": "https://cache.tonapi.io/imgproxy/1VM-EzbieMH2UjCg26e4CZhmzv_f3q__Ua4uSAZaNME/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hcndlYXZlLm5ldC9RcUJqck1BVkNtNXpTVHdybjVEeG5zZGJfbm1NemlxTElPaVFMQ1BDSDljP2V4dD1wbmc.webp",
+  "verification": "none",
+  "holders_count": 576
+}
+{
+  "mintable": true,
+  "total_supply": "11609832320700000000",
+  "admin": {
+    "address": "0:4818f679ede118884806590b9b705a00fa6aa0cf7009d4b3d128ff263b031c88",
+    "is_scam": false,
+    "is_wallet": true
+  },
+  "metadata": {
+    "address": "0:11f8a05dbb02f8c3e2e0ef64055f8b564ce0090864bbd859061eb24bf50b7b3f",
+    "name": "AVACOIN",
+    "symbol": "AVACN",
+    "decimals": "9",
+    "image": "https://i.postimg.cc/HLDmNR6j/logo-200x200.png",
+    "description": "AVACOIN is the first fully integrated ecosystem built on Telegram mini-apps, combining play2earn, learn2earn, staking elements, and a marketplace on a single convenient platform.",
+    "social": [
+      "https://t.me/avagoldcoin_bot",
+      "https://t.me/avagoldcoin",
+      "https://x.com/avagoldcoin",
+      "https://instagram.com/avagoldcoin",
+      "https://www.youtube.com/@AVA-GOLDCOIN"
+    ]
+  },
+  "preview": "https://cache.tonapi.io/imgproxy/yxf0gcxb5ZmuRrfpL1XnwaZ-4rkZwZ-pMQnR6E29FO8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvSExEbU5SNmovbG9nby0yMDB4MjAwLnBuZw.webp",
+  "verification": "whitelist",
+  "holders_count": 264837
+}
+{
+  "mintable": true,
+  "total_supply": "100000100000000100000000000000000000",
+  "admin": {
+    "address": "0:922e41ee3c05560e01306c90d43e91114c7664a47756ffef80a848bfd0973b81",
+    "is_scam": false,
+    "is_wallet": true
+  },
+  "metadata": {
+    "address": "0:a18fb347c2463f644bba134ad70179df5eaeb54f622e968f83b82464772286f4",
+    "name": "DOGS CAT",
+    "symbol": "DOGS CAT",
+    "decimals": "9",
+    "image": "https://arweave.net/QqBjrMAVCm5zSTwrn5Dxnsdb_nmMziqLIOiQLCPCH9c?ext=png",
+    "description": "DOGS CAT"
+  },
+  "preview": "https://cache.tonapi.io/imgproxy/1VM-EzbieMH2UjCg26e4CZhmzv_f3q__Ua4uSAZaNME/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hcndlYXZlLm5ldC9RcUJqck1BVkNtNXpTVHdybjVEeG5zZGJfbm1NemlxTElPaVFMQ1BDSDljP2V4dD1wbmc.webp",
+  "verification": "none",
+  "holders_count": 576
 }
