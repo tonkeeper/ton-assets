@@ -14,22 +14,105 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '27 */3 * * *'
+
+env:
+  PYTHON_VERSION: '3.10'
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 jobs:
   run-aggregator:
+    name: Run Aggregator and Regenerate Files
     runs-on: ubuntu-latest
+    
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
-      - name: Install libraries
-        run: pip3 install -r requirements.txt
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python ${{ env.PYTHON_VERSION }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install flake8 black  # اضافه کردن ابزارهای توسعه
+
+      - name: Lint with flake8
+        run: |
+          # بررسی کیفیت کد
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+
       - name: Run generator.py
-        run: python3 generator.py
+        run: python generator.py
+        env:
+          CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
+          API_KEY: ${{ secrets.API_KEY }}
+
+      - name: Verify generated files
+        run: |
+          # بررسی وجود فایل‌های تولید شده
+          if [ ! -f "README.md" ]; then
+            echo "README.md was not generated!"
+            exit 1
+          fi
+          
+          # بررسی اعتبار JSON files اگر وجود دارند
+          if [ -d "generated" ]; then
+            find generated -name "*.json" -exec python -m json.tool {} > /dev/null 2>&1 \; || echo "JSON validation skipped"
+          fi
+
       - name: commit and push if there are changes
         run: |
+          git config --global user.name "finaljrad-IR"
+          git config --global user.email "finaljrad@gmail.com"
+          git config --global push.autoSetupRemote true
+          
+          # اضافه کردن لاگ برای دیباگ
+          echo "Current branch: $(git branch --show-current)"
+          echo "Git status:"
+          git status --porcelain
+          
           if [[ `git status --porcelain` ]]; then
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions@users.noreply.github.com"
+            echo "Changes detected, committing..."
             git add -A
-            git commit -m 'Regenerate json and Readme'
-            git push
+            git commit -m '🔄 Auto-regenerate json and Readme [skip ci]'
+            
+            # تلاش برای push با retry
+            n=0
+            until [ "$n" -ge 3 ]
+            do
+               git push && break
+               n=$((n+1))
+               echo "Push attempt $n failed, retrying in 5 seconds..."
+               sleep 5
+            done
+            
+            if [ "$n" -eq 3 ]; then
+              echo "Push failed after 3 attempts"
+              exit 1
+            fi
+            
+            echo "Changes pushed successfully"
+          else
+            echo "No changes to commit"
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Notify on success
+        if: success()
+        run: |
+          echo "✅ Workflow completed successfully at $(date)"
+          
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "❌ Workflow failed at $(date)"
+          exit 1
