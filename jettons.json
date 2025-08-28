@@ -13654,6 +13654,20 @@
   ]
  },
  {
+  "address": "0:a6a96135c08916c9f74aa05e35c52fdb8aa3737a678a9123d4ba19685ecf51f1",
+  "description": "A nostalgic meme coin on the TON network inspired by the iconic Smurfs theme.",
+  "image": "https://i.ibb.co/v4gbpLjs/tonsmerf.png",
+  "name": "SMERF on TON",
+  "social": [
+   "https://t.me/tonsmerf",
+   "https://x.com/TonSmerf"
+  ],
+  "symbol": "SMERF",
+  "websites": [
+   "https://tonsmerf.life"
+  ]
+ },
+ {
   "address": "0:27a28fbed4e2e60e4d4d51d4d7d8da2425bc1dc6b4b847594693d15175408e62",
   "description": "TONY is a fun, Stark-inspired memecoin built on the TON blockchain. Join the community and be a part of the journey",
   "image": "https://raw.githubusercontent.com/pulkras/tony-token/refs/heads/main/logo.jpg",
