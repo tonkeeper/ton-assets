@@ -7,6 +7,9 @@
 - address: 0:c12c75e11d555b207090fb922a4e13fd4c577e6e10a4e6eca172565f2ae1d365
   name: DIGGY
   symbol: $DIGGY
+- address: 0:52fe907507f8cad46a967190de0189e61bda6e77d76c1b9495bc10616c5b92ed
+  name: Life's a Peach
+  symbol: $PEACH
 - address: 0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4
   name: The Resistance Cat
   symbol: $RECA
@@ -61,6 +64,9 @@
 - address: 0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f
   name: Amocucinare
   symbol: AMORE
+- address: 0:fb1522574798299f2b36ba7d7fdde4bbd44f9ba4b0c527a1d56474801d8caf41
+  name: Anubis Dog
+  symbol: ANDO
 - address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
   name: Andy
   symbol: ANDY
@@ -523,6 +529,9 @@
 - address: 0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1
   name: "\u041A\u0440\u043E\u043A\u043E\u0434\u0438\u043B \u0413\u0435\u043D\u0430"
   symbol: Gena
+- address: 0:8dd9d92f6a8b158e96bd5e8cf3374c26d4c05c23619337bd425af47322c487ec
+  name: Headcoin
+  symbol: HDCN
 - address: 0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34
   name: Hedgehog in the fog
   symbol: HIF
@@ -1460,6 +1469,9 @@
 - address: 0:3b71f70f0a9161da8dd91fa124c41724fd275b2c7fec70011b1d72b16a695f4a
   name: Wojak on TON
   symbol: WOJAK
+- address: 0:a7d73892dfddfe73bd862968208643606385b0921de90729b805badb90c3d85a
+  name: LandWolf
+  symbol: WOLF
 - address: 0:e68ff8bb54c5ecb7317d7538103323cacaf408ca7603d0a27ba48f2fd4b538d3
   name: Wonnie
   symbol: WON
