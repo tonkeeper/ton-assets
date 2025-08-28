@@ -1,0 +1,11 @@
+name: PROSHE
+symbol: PRO
+address: EQAncw-9-DlzZTbchQijv_SpPOEbgsjboCB8k5DrP1KorTw_   # <- сюда вставь реальный адрес токена
+decimals: 9
+description: PROSHE is a community-driven meme token on TON
+image: https://i.ibb.co/NndprL5n/11.gif  # <- вставь ссылку на логотип
+social:
+  - https://t.me/PROSHE_MEME_TON        # <- вставь ссылку на Telegram
+  - https://x.com/solidblackpower  # <- вставь ссылку на Twittername: PROSHE
+
+
