@@ -29,6 +29,22 @@
   ]
  },
  {
+  "address": "0:f86c8f86579c997393c5d98c791d314995570fd7ce35947afc6dadf9ddca90f5",
+  "description": "Cash money for the 21st century. A new frontier in the evolution of money. A user can turn stablecoins into protected, connected, physical cash notes using a personal mobile ATM device.",
+  "name": "Cryptocash",
+  "social": [
+   "https://t.me/cryptocash_atm",
+   "https://x.com/cryptocash_org",
+   "https://www.instagram.com/cryptocash_official",
+   "http://www.youtube.com/@Cryptocash_Official"
+  ],
+  "symbol": "CCH",
+  "websites": [
+   "https://cryptocash.org",
+   "https://stablenotes.org"
+  ]
+ },
+ {
   "address": "0:37cec39d197dc28f974eb4e58a0bf22e81f1fe9029d35248dbc29e04680aac3a",
   "description": "COCOZ is a prediction-based GameFi token on the TON blockchain, exclusively launched on Telegram as the Next-Gen P2E token, empowering players to elevate their TON and Telegram experience through token acquisition and use.",
   "image": "https://firebasestorage.googleapis.com/v0/b/yoshicoco-dev.firebasestorage.app/o/cocoz%2FCOCOz_ICON.png?alt=media",
