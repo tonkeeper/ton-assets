@@ -7316,6 +7316,16 @@
   ]
  },
  {
+  "address": "0:abecee264fc0caf7706d65c39f134910623cc24d01edc771f88ef4fe04d7af59",
+  "decimals": 9,
+  "name": "UFRENS Token",
+  "social": [
+   "https://t.me/ufriends_cto",
+   "https://x.com/ufrens_cto"
+  ],
+  "symbol": "UFRENS"
+ },
+ {
   "address": "0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430",
   "name": "Ultron",
   "symbol": "ULT"
