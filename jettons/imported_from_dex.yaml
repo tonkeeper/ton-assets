@@ -61,6 +61,9 @@
 - address: 0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f
   name: Amocucinare
   symbol: AMORE
+- address: 0:fb1522574798299f2b36ba7d7fdde4bbd44f9ba4b0c527a1d56474801d8caf41
+  name: Anubis Dog
+  symbol: ANDO
 - address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
   name: Andy
   symbol: ANDY
