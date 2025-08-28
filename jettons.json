@@ -7087,6 +7087,21 @@
   ]
  },
  {
+  "address": "0:d810b4477bab0d70710a5f9dea59d5c6dfb38af5511d0d6497d4d72e6ed7184b",
+  "description": "TON locked in liquidity in Tradoor",
+  "image": "https://static.tradoor.io/20250224-101034.jpeg",
+  "name": "Tradoor TON TLP",
+  "social": [
+   "https://t.me/tradoor_io",
+   "https://t.me/tradoor_io_chat",
+   "https://twitter.com/tradoor_io"
+  ],
+  "symbol": "TON-TLP",
+  "websites": [
+   "https://tradoor.io"
+  ]
+ },
+ {
   "address": "0:8d0adee26073def322f22e00982fb3f722f2a6a68f3843d8eaaf7b9a17639917",
   "description": "Tonion is a revolutionary Telegram-based platform that combines gaming experience, social interaction, and cryptocurrency,NFT trading in a single application.",
   "image": "https://cdn.blum.codes/4ac3ed0d-1dec-47dd-a46a-e1f5eb818f48/a7c5851d-5465-41ff-a39d-248614de2302",
@@ -7450,6 +7465,21 @@
   "symbol": "USDT-SLP",
   "websites": [
    "https://storm.tg"
+  ]
+ },
+ {
+  "address": "0:332c916f885a26051cb3a121f00c2bda459339eb103df36fe484df0b87b39384",
+  "description": "USDT locked in liquidity in Tradoor",
+  "image": "https://tradoor.io/static-s3/20240907-263459.png",
+  "name": "Tradoor USDT TLP",
+  "social": [
+   "https://t.me/tradoor_io",
+   "https://t.me/tradoor_io_chat",
+   "https://twitter.com/tradoor_io"
+  ],
+  "symbol": "USDT-TLP",
+  "websites": [
+   "https://tradoor.io"
   ]
  },
  {
