@@ -2426,6 +2426,16 @@
   ]
  },
  {
+  "address": "0:6708a4862ac5ad42e730fde95e069d22e26af3775e908907c7734ebf92245521",
+  "description": "Play, stake, PvP and earn dividends",
+  "image": "https://i.ibb.co/21jCnwGQ/5fc8b647746e.png",
+  "name": "EmpireBuilderCoin",
+  "social": [
+   "https://t.me/EmpireBuilderss"
+  ],
+  "symbol": "EBC"
+ },
+ {
   "address": "0:d0e545323c7acb7102653c073377f7e3c67f122eb94d430a250739f109d4a57d",
   "name": "Ethena tsUSDe",
   "social": [
