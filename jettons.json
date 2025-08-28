@@ -898,6 +898,21 @@
   ]
  },
  {
+  "address": "0:2d8f1dfb8d48682e84c0555384057ab070737890c6d016979695c38b25f0bf24",
+  "description": "Banana for Scale is an expression indicating that a banana has been placed in the frame of a photograph to reveal the true-to-life size of another object on display in relative scale.",
+  "image": "https://i.postimg.cc/1zgNqBxt/bfs-logonew.png",
+  "name": "Banana For Scale",
+  "social": [
+   "https://t.me/bananaforscale",
+   "https://twitter.com/BFS_TON",
+   "https://www.geckoterminal.com/de/ton/pools/EQAMq-FVMotr9xjygJPomjzZ0uIceA_gcVEonHKkmV5JkCZ7"
+  ],
+  "symbol": "BFS",
+  "websites": [
+   "https://bananaforscale.tech/"
+  ]
+ },
+ {
   "address": "0:752eec0dd88647be9bc03e76309ed8f4406b9ba164a864efadee45f506ba64bf",
   "description": "\u0422\u043e\u043a\u0435\u043d \u043b\u0435\u0433\u0435\u043d\u0434\u044b TON, Staking 100% - 100 \u0434\u043d\u0435\u0439",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb1luwn2izhvpvapnywntj0qgubowsozo-t7kx1brpkv3td.png?size=lg&key=1164fb",
