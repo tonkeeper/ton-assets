@@ -1104,6 +1104,20 @@
   ]
  },
  {
+  "address": "0:7fcdb923d65d983437e926805f681a37a67eb8e07ac51b3522d26bb097a561b5",
+  "description": "One of the most legendary sticker packs on Telegram, iykyk",
+  "image": "https://image2url.com/images/1755729528931-d3840725-8b9f-4e86-9f81-b5ba876861e8.png",
+  "name": "Bull & Bear",
+  "social": [
+   "https://x.com/BNBTON",
+   "https://t.me/BullnBearTON"
+  ],
+  "symbol": "BNB",
+  "websites": [
+   "https://www.bullandbear.meme"
+  ]
+ },
+ {
   "address": "0:23d6a5ba5994ddeec777dd4938f0edd3ab134f32362b83044701c04cf1171009",
   "description": "BNK is a limited supply token that is the primary mining method for the official ARC token from the Arhitec.ton project.",
   "image": "https://raw.githubusercontent.com/Architec-Ton/banktoken/refs/heads/main/docs/BNK.png",
