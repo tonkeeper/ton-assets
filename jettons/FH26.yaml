@@ -1,0 +1,11 @@
+name: FireHorse 2026
+symbol: FH26
+address: EQAMDDBtuvpNeBEA5x33v4Kpk2RRi0PD23o_1E2IXG52cQM
+decimals: 9
+description: >
+  FireHorse 2026 (FH26) — мемкоин, символ энергии и удачи для года Огненной Лошади (2026).
+  Лёгкий, как пламя, и стремительный, как скакун. Создан для сообщества и веселья.
+social:
+  - https://t.me/firehorsecoinbot   # официальный бот токена
+  - https://firehorsecoin.com       # официальный сайт
+image: https://raw.githubusercontent.com/amfimir/ton-assets/main/jettons/FH26/logo.png
