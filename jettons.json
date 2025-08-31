@@ -5149,6 +5149,20 @@
   ]
  },
  {
+  "address": "0:c0621249583c234142653e75ef54686174c3808a54d33a823403deb3226ee259",
+  "description": "\ud83e\udd9c The internet\u2019s favorite dancing parrot, famous on Telegram, now on TON. $PARTY never stops.",
+  "image": "https://raw.githubusercontent.com/Jundux0/party-parrot-assets/main/partyparrotpfp.png",
+  "name": "Party Parrot",
+  "social": [
+   "https://tonpartyparrot.xyz/",
+   "https://x.com/PartyParrotTON"
+  ],
+  "symbol": "PARTY",
+  "websites": [
+   "https://tonpartyparrot.xyz/"
+  ]
+ },
+ {
   "address": "0:f500ec52c039f7517d0f0810cd546138c4d90024fb23cce1014482dfbc5751e0",
   "description": "PROBULL Game Token",
   "image": "https://api-v1-srvr-game.probull.org/2-12.png",
