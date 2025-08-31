@@ -73,9 +73,9 @@
  },
  {
   "address": "0:28351f309d70b8ac8300085ee83a41fc85a92a0e53a3c3c498d35d54b6f031f1",
-  "description": "DOFA ecosystem and community for traders",
+  "description": "DOFA ecosystem, Decentralized Token.",
   "image": "https://avatars.githubusercontent.com/u/205453350?v=4",
-  "name": "DOFA Trading",
+  "name": "DOFA Network",
   "social": [
    "https://t.me/dofa_trading_ltd",
    "https://t.me/DOFAtrading_token",
@@ -424,6 +424,20 @@
   "symbol": "ANONXP",
   "websites": [
    "https://anon.tg"
+  ]
+ },
+ {
+  "address": "0:715cfa45faf8f070e1842f329a05b1b9523c82cbd60321e2fea8dca7bc1c40fc",
+  "description": "ANTHILL is a proven Bitcoin mining project with over 200 active machines, generating daily income to support ATL token buybacks",
+  "image": "https://rubeton.app/studio/atl/logo.png",
+  "name": "ANTHILL",
+  "social": [
+   "https://t.me/ANTHILLFORUM",
+   "https://t.me/ANTHILL_Rewards"
+  ],
+  "symbol": "ATL",
+  "websites": [
+   "http://anthillfoundation.ru/"
   ]
  },
  {
@@ -1087,6 +1101,20 @@
   "symbol": "BMW",
   "websites": [
    "https://bmwcoin.info"
+  ]
+ },
+ {
+  "address": "0:7fcdb923d65d983437e926805f681a37a67eb8e07ac51b3522d26bb097a561b5",
+  "description": "One of the most legendary sticker packs on Telegram, iykyk",
+  "image": "https://image2url.com/images/1755729528931-d3840725-8b9f-4e86-9f81-b5ba876861e8.png",
+  "name": "Bull & Bear",
+  "social": [
+   "https://x.com/BNBTON",
+   "https://t.me/BullnBearTON"
+  ],
+  "symbol": "BNB",
+  "websites": [
+   "https://www.bullandbear.meme"
   ]
  },
  {
@@ -4695,6 +4723,11 @@
   ]
  },
  {
+  "address": "0:c3860aa6ba1d7a96901a4ef02acd0fb3a3bfc7aa3ad4349c6622115e5f055449",
+  "name": "MissionPawssible",
+  "symbol": "MISSION"
+ },
+ {
   "address": "0:9ebf0a0b23c5eada22c1933a61d6734d3c3ea45ef54440ffb42ab18def2d0d2a",
   "description": "Mr. Rosy Cheeks - the dumbest meme and most bullish sticker of Telegram about to takeover TON blockchain",
   "image": "https://pbs.twimg.com/profile_images/1953441118307127296/WKU0d_o1_400x400.jpg",
@@ -5113,6 +5146,20 @@
   "symbol": "PAPHS",
   "websites": [
    "https://x.com/stasia_apk"
+  ]
+ },
+ {
+  "address": "0:c0621249583c234142653e75ef54686174c3808a54d33a823403deb3226ee259",
+  "description": "\ud83e\udd9c The internet\u2019s favorite dancing parrot, famous on Telegram, now on TON. $PARTY never stops.",
+  "image": "https://raw.githubusercontent.com/Jundux0/party-parrot-assets/main/partyparrotpfp.png",
+  "name": "Party Parrot",
+  "social": [
+   "https://tonpartyparrot.xyz/",
+   "https://x.com/PartyParrotTON"
+  ],
+  "symbol": "PARTY",
+  "websites": [
+   "https://tonpartyparrot.xyz/"
   ]
  },
  {
