@@ -8555,6 +8555,11 @@
   "symbol": "BLUM"
  },
  {
+  "address": "0:b31e7c26e096bf5ecbea9d431ec7ff57f2fbe0fee3cfba42502e55793a57656d",
+  "name": "DISGRUNTED TOAD",
+  "symbol": "TOADY"
+ },
+ {
   "address": "0:92c4664f1ea6b74ed9ce0e031a9fc0843348dfe87a58faea27fcd31e1608caaa",
   "description": "TON liquid staking token by bemo",
   "name": "Bemo",
