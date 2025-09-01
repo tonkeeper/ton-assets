@@ -934,6 +934,9 @@
 - address: 0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3
   name: Prolific
   symbol: PRO
+- address: 0:7c8a1b8ec165850c1a10e891606472d1072b7b56c843973925a4717934ab3d6b
+  name: Prometheus
+  symbol: PROME
 - address: 0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655
   name: PROTON JETTON
   symbol: PROTON
@@ -1391,6 +1394,9 @@
 - address: 0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce
   name: Ton Doge Coin
   symbol: TonDoge
+- address: 0:8c6500730ab7abe974f589053e274e4214ad89e61ab61c9113d977955ce2384c
+  name: TonX
+  symbol: TonX
 - address: 0:8719fb83fa3e34cba2b14e6c820b8ba5b6ecf42b73c4be0467afc532746b60fc
   name: Tonio
   symbol: Tonio
