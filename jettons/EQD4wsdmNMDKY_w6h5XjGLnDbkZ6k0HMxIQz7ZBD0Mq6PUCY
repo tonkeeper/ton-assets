@@ -1,0 +1,11 @@
+{
+  "name": "JEF Token",
+  "symbol": "JEF",
+  "decimals": 9,
+  "description": "JEF Token resmi di jaringan TON",
+  "image": "https://raw.githubusercontent.com/Jef057/ton-assets/main/jettons/EQD4wsdmNMDKY_w6h5XjGLnDbkZ6k0HMxIQz7ZBD0Mq6PUCY/logo.png",
+  "socials": {
+    "twitter": "https://twitter.com/namakamu",
+    "telegram": "https://t.me/JohnEngkuk"
+  }
+}
