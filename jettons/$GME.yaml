@@ -1,0 +1,6 @@
+name: GameStop
+symbol: GME
+address: EQBc037wfqOgh6ztydx2NW0xmaOxJvvmcYISW6IFFsY9mOOv
+decimals: 9
+description: "GameStop Jetton on TON"
+image: "https://s2.coinmarketcap.com/static/img/coins/64x64/29241.png"
