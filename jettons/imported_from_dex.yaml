@@ -949,6 +949,9 @@
 - address: 0:20a2d4a45f4e8c216f80d278b9c8aa9e365c1cde70129db3b57701a8fa4c2983
   name: PizzaTon Token
   symbol: PTJ
+- address: 0:f0dafd2fab4692e0be8f5f56613da25423ee6363f57a3e27214a98ab55fe737d
+  name: FredThePug
+  symbol: PUG
 - address: 0:91d37abbc66bf1e5b60fb192ab912449db75be329565fc534fd56e6b86aaf15e
   name: Pump&Dump
   symbol: PUMP
@@ -1421,6 +1424,9 @@
 - address: 0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293
   name: UXLINK Token
   symbol: UXLINK
+- address: 0:50f8042220b1a538e46b241ccf0746a775bf830809d07324025cfd3fc191c4c7
+  name: Usyk
+  symbol: Usyk
 - address: 0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5
   name: Vincere
   symbol: VC

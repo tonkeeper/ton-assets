@@ -281,6 +281,7 @@ Name           | Address
 [Flamingo Coin](https://tonviewer.com/0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025) | EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_
 [FlokiTon](https://tonviewer.com/0:11983c9b7c4bf223faf7256ef364057e553cfca56bec7ae216a6362a400e38ba) | EQARmDybfEvyI_r3JW7zZAV-VTz8pWvseuIWpjYqQA44ui9r
 [Fort Emblem](https://tonviewer.com/0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537) | EQBsOuAAfsbY3rFNWiQm032rj4ox8BllNEIBytAC87klN2Fv
+[FredThePug](https://tonviewer.com/0:f0dafd2fab4692e0be8f5f56613da25423ee6363f57a3e27214a98ab55fe737d) | EQDw2v0vq0aS4L6PX1ZhPaJUI-5jY_V6PichSpirVf5zfbFp
 [Frogy LIVE](https://tonviewer.com/0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6) | EQAA8LaTXHBojqCA5nVHz9-MBoHTw1l3Ordeuy_Z7yGrxocS
 [GAMEE](https://tonviewer.com/0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700) | EQCqnhZndBGbwjPpV8K_8WOK58ZkQPXlS_bshau9DKWnAF-p
 [GAS000](https://tonviewer.com/0:7cba170a3e6f486af204ce89c690f1bce5a2085cfa27af9c8f49eb1a5d19d553) | EQB8uhcKPm9IavIEzonGkPG85aIIXPonr5yPSesaXRnVU2JJ
@@ -787,6 +788,7 @@ Name           | Address
 [Ultron](https://tonviewer.com/0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430) | EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT
 [Unknown coin](https://tonviewer.com/0:cd75afd71f244613ffe93d169ed108885a602f5637f99823e7d1f4161e4b486e) | EQDNda_XHyRGE__pPRae0QiIWmAvVjf5mCPn0fQWHktIbiyl
 [Us Usach](https://tonviewer.com/0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024) | EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB
+[Usyk](https://tonviewer.com/0:50f8042220b1a538e46b241ccf0746a775bf830809d07324025cfd3fc191c4c7) | EQBQ-AQiILGlOORrJBzPB0andb-DCAnQcyQCXP0_wZHEx5h9
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
 [VEREM - Verified Emeralds ™](https://tonviewer.com/0:1398564a476ffb0b1e1962cfe6463d8405ddfb909358bfcbb73e954f645be16e) | EQATmFZKR2_7Cx4ZYs_mRj2EBd37kJNYv8u3PpVPZFvhbqIi
 [VIP Coin](https://tonviewer.com/0:f49a2c6d7edc3be8551c574365d2842608f6c9f3a0d42c635be360353cec590a) | EQD0mixtftw76FUcV0Nl0oQmCPbJ86DULGNb42A1POxZCk3U
