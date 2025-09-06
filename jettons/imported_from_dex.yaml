@@ -1,3 +1,6 @@
+- address: 0:049a69023f5b6e1ef0acb8d671b8a7bdde3e032d7bcf8c3041318116693c352b
+  name: BabyUtya
+  symbol: $BUTYA
 - address: 0:9b48bb73351f4b1e294510273439c641cf76a9e3363353a811e040ba119a08cc
   name: 'Russian Blue '
   symbol: $Blu
@@ -271,6 +274,9 @@
 - address: 0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3
   name: Ton Croco
   symbol: CROCO
+- address: 0:ab2090a88509ac32a7272bd81589bcea8afe7ecd18fd2977f85fc8490db44cef
+  name: Crow
+  symbol: CROW
 - address: 0:3eacf4800885bc8492f5217698019510bdafc56f88bcd691755365f06dbc934e
   name: CTIDAO
   symbol: CTIDAO
@@ -889,6 +895,9 @@
 - address: 0:20a2d4a45f4e8c216f80d278b9c8aa9e365c1cde70129db3b57701a8fa4c2983
   name: PizzaTon Token
   symbol: PTJ
+- address: 0:f0dafd2fab4692e0be8f5f56613da25423ee6363f57a3e27214a98ab55fe737d
+  name: FredThePug
+  symbol: PUG
 - address: 0:91d37abbc66bf1e5b60fb192ab912449db75be329565fc534fd56e6b86aaf15e
   name: Pump&Dump
   symbol: PUMP
@@ -1105,6 +1114,9 @@
 - address: 0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2
   name: Spotty
   symbol: Spotty
+- address: 0:d193779f496d2ec2150f74dda17ee42aa0386f9b3c9e4c08893af8d1a067bf7b
+  name: Stuped Coyn
+  symbol: Stuped
 - address: 0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2
   name: TAGO WOLF
   symbol: TAGO
@@ -1208,6 +1220,9 @@
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
+- address: 0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956
+  name: TON FORD
+  symbol: TNFRD
 - address: 0:1a1a5c42df56254b1ccaffd846de46ba50dd46f616e15c9237493b5f5111e122
   name: TONY
   symbol: TNY
@@ -1313,6 +1328,9 @@
 - address: 0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce
   name: Ton Doge Coin
   symbol: TonDoge
+- address: 0:8c6500730ab7abe974f589053e274e4214ad89e61ab61c9113d977955ce2384c
+  name: TonX
+  symbol: TonX
 - address: 0:8719fb83fa3e34cba2b14e6c820b8ba5b6ecf42b73c4be0467afc532746b60fc
   name: Tonio
   symbol: Tonio
@@ -1334,6 +1352,9 @@
 - address: 0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293
   name: UXLINK Token
   symbol: UXLINK
+- address: 0:50f8042220b1a538e46b241ccf0746a775bf830809d07324025cfd3fc191c4c7
+  name: Usyk
+  symbol: Usyk
 - address: 0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5
   name: Vincere
   symbol: VC
@@ -1472,6 +1493,9 @@
 - address: 0:82bbf5d4cc80ff9ad53ecf6eb6249c2fbaba8f8a252cbab2ecb75b9ce6697035
   name: no cat
   symbol: nyetcat
+- address: 0:3ab9c8b785a60dcfde95eac6467d067c887fe2287420a388a291f8a6a92dddaf
+  name: PlushPepe
+  symbol: plsh
 - address: 0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45
   name: sTONks
   symbol: sTONks
