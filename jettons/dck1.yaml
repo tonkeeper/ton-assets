@@ -1,0 +1,15 @@
+  name: "DACIK"
+  symbol: "DACIK"
+  address: "EQDnxBhiSKBmyIwftKycB9dv-KdKQiGmP8RjDWQ20e5DEEKB"
+  decimals: 9
+  standard: "jetton"
+  description: "Платежный фан-токен MMA бойца и профессионального боксера Вяеслава Дацика"
+  website:
+  explorer: "https://tonviewer.com/EQDnxBhiSKBmyIwftKycB9dv-KdKQiGmP8RjDWQ20e5DEEKB"
+  logo: "https://sun9-57.userapi.com/impg/NhiJMW25kq6Z7GBHIG3-2HuyjlJuT4DQ6DGnVA/l5EK3UXq9kk.jpg?size=1200x1200&quality=95&sign=00d52dfe50f3b712d91b24b3b2f8913e&type=album"
+  contacts: "https://t.me/dacikcoin"
+  - "https://vk.com/v_dacik"
+  - "https://dacik.mybb.ru/"
+  metadata:
+  total_supply: 400000000
+  issuance: "renounced"  
