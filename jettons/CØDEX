@@ -1,0 +1,67 @@
+{
+  "chain": "TØN",
+  "name": "CØDEXARC∆NUM",
+  "symbol": "CØDEX",
+  "type": "Cosmic Token",
+  "address": "0:3b202541b1c7c1b5773169e0800a665b16277efed2cd233ca0bf8ec7d2645d46",
+  "Jetton master": "EQA7ICVBscfBtXcxaeCACmZbFid-_tLNIzygv47H0mRdRj6l",
+  "ton_dns": "arcanum.ton",
+  "Owner": "UQALoBh4p46D0HQd2MaxIauoU7h0hMLtRPmKh4sFss5uuSmk",
+  "decimals": "6",
+  "image": "https://pub-614f70835b1749a4a1c70d151afce3de.r2.dev/codexLogo.png",
+  "description": "The.∙∴Bright.∙∴Hole.∙∴⋮TΩN618⋮Through.✶∙⋮ΞXARCHΩN⋮∙✶.FRØM∴ΩØDEX✶ARΩANUM∴ has just made its first SOS call to Exarchon Arcanum. Players must decipher 24 cryptic transmissions and uncover 24 hidden recovery phrases using a Telegram bot and a mini app. The first to complete the full sequence will unlock the TonKeeper wallet and claim the grand cosmic prize. CØDEX tokens embody the enigma and journey of Codex Arcanum - serving as the native utility currency for puzzle rewards, NFT trading, premium hints, staking rewards, and governance participation within our cosmic metaverse.",
+  "sha256_signature": "8f9c1e7128b14b80a362d1a5dba5b11f0d0c62b6b1f0b79c59d1c5a2e3e2879e",
+  "external_url": "https://codex.pm",
+  "admin_address": {
+    "base64url": "UQALoBh4p46D0HQd2MaxIauoU7h0hMLtRPmKh4sFss5uuSmk"
+  },
+  "owner": "Exarchon Arcanum",
+  "status": "active",
+  "links": {
+    "telegram_mini_app": "https://t.me/CodexGateBot/codexArcanum",
+    "telegram_support_bot": "https://t.me/CodexCosmicBot",
+    "website": "https://codex.pm",
+    "channel": "https://t.me/CodexSouL",
+    "group": "https://t.me/CodexPulse",
+    "whitepaper": "https://codex.pm/whitepaper",
+    "github": "https://github.com/Codex-Arcanum/codex-arcanum",
+    "social": {
+      "twitter": "https://twitter.com/codexarcanum",
+      "tiktok": "https://www.tiktok.com/@codexarcanum"
+    }
+  },
+  "tokenomics": {
+    "total_supply": "618000000",
+    "decimals": 6,
+    "mintable": true,
+    "burnable": true
+  },
+  "technical": {
+    "contract_type": "Jetton",
+    "standards": ["TEP-74", "TEP-64"],
+    "compiler": "FunC v0.4.0"
+  },
+  "verification": {
+    "signed_by": "Exarchon Arcanum",
+    "signature_type": "arc.vault.signature",
+    "verified": true
+  },
+  "category": "GameFi",
+  "tags": ["gaming", "puzzle", "nft", "defi", "utility"],
+  "launch_date": "2025-08-25",
+  "project": {
+    "name": "Codex Arcanum",
+    "tagline": "TΩN618 Black Hole Protocol",
+    "company": "Codex Arcanum LLC - USA",
+    "jurisdiction": "United States (Wyoming)",
+    "support_email": "support@codex.pm"
+  },
+  "use_cases": [
+    "In-game currency for puzzle rewards",
+    "NFT minting and trading",
+    "Premium hint purchases",
+    "Staking for exclusive content access",
+    "Governance voting rights",
+    "Tournament entry fees"
+  ]
+}
