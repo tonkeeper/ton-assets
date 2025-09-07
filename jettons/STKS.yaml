@@ -1,0 +1,11 @@
+name: STKS Token
+description: Native Token of the STREAKS Platform
+address: 0:7d13bfaaf9968f9e89ea0c6d5f0f5c6863fe537175a28e03830fb7a00394d35d
+symbol: STKS
+image: "https://streakston.org/icons/Icon-256.png"
+websites:
+  - "https://streakston.org"
+  - "https://t.me/streaks_ton_bot/app"
+social:
+  - "https://x.com/streaks_ton"
+  - "https://t.me/streaks_ton"
