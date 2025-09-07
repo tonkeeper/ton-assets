@@ -1,0 +1,13 @@
+  name: "MERA RU"
+  symbol: "MERA"
+  address: "EQBkZkONu3mk6gF3f3S7BqkhxdJm9DR6aCJsX8N0MistF6Yr"
+  decimals: 9
+  standard: "jetton"
+  description: "Universal digital asset"
+  explorer: "https://tonviewer.com/EQBkZkONu3mk6gF3f3S7BqkhxdJm9DR6aCJsX8N0MistF6Yr"
+  logo: "https://sun9-54.userapi.com/s/v1/ig2/IW6_kexBwZOC0bwGG25QaNwhLqf-M106KpZQP3-4qMbpd1HpXf7kyQHZD4TEPn0sveL5Wk3kTkq8cUaUKnIm6O13.jpg?quality=95&as=32x33,48x50,72x75,108x112,160x166,240x249,360x374,480x498,540x560,640x664,665x690&from=bu&cs=665x0"
+  contacts: "https://t.me/+nKJyAu1zS5k5ODli"
+  - "https://vk.com/rus_mera"
+  metadata:
+  total_supply: 777777777777
+  issuance: "renounced"
