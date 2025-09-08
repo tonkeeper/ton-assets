@@ -7023,6 +7023,20 @@
   ]
  },
  {
+  "address": "0:275e7c34582f6913c34a27f449ecf216b47ed23ffd36e4ec8af0d8bec026e81b",
+  "description": "The unofficial mascot of Telegram!",
+  "image": "https://telegoat.fun/logotiny.png",
+  "name": "TELEGOAT",
+  "social": [
+   "https://t.me/TONtelegoat",
+   "https://x.com/TONTelegoat"
+  ],
+  "symbol": "Maaaaaaaaa",
+  "websites": [
+   "https://telegoat.fun/"
+  ]
+ },
+ {
   "address": "0:31bd6779fc2fd8ab65923c67d4c82d4f7ad5e709e433068af366db0ca4802d51",
   "description": "Where GameFi meets memes and DAOs \u2014 a cosmic struggle for resources and power.",
   "image": "https://s3.twcstorage.ru/48031ab3-dummy-data-to-share/legushka.png",
