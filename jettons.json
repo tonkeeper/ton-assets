@@ -4900,6 +4900,7 @@
  },
  {
   "address": "0:c3860aa6ba1d7a96901a4ef02acd0fb3a3bfc7aa3ad4349c6622115e5f055449",
+  "image": "https://github.com/alaskan-malamute2/mission-icon/raw/main/mission-icon.png",
   "name": "MissionPawssible",
   "symbol": "MISSION"
  },
@@ -5470,6 +5471,20 @@
   "symbol": "PLD",
   "websites": [
    "https://www.palladium.foundation/"
+  ]
+ },
+ {
+  "address": "0:9051b314a9c9ba358afa41d7c8977477484dbcc14a685f9d596bad38c7d0526c",
+  "description": "Plush Pepe coin",
+  "image": "https://plushpepecoin.github.io/logo200.png",
+  "name": "Plush Pepe",
+  "social": [
+   "https://x.com/PlushPepe_coin",
+   "https://t.me/PlushPepe_coin"
+  ],
+  "symbol": "PLUSHPEPE",
+  "websites": [
+   "https://plushpepe.finance"
   ]
  },
  {
@@ -7008,6 +7023,20 @@
   ]
  },
  {
+  "address": "0:275e7c34582f6913c34a27f449ecf216b47ed23ffd36e4ec8af0d8bec026e81b",
+  "description": "The unofficial mascot of Telegram!",
+  "image": "https://telegoat.fun/logotiny.png",
+  "name": "TELEGOAT",
+  "social": [
+   "https://t.me/TONtelegoat",
+   "https://x.com/TONTelegoat"
+  ],
+  "symbol": "Maaaaaaaaa",
+  "websites": [
+   "https://telegoat.fun/"
+  ]
+ },
+ {
   "address": "0:31bd6779fc2fd8ab65923c67d4c82d4f7ad5e709e433068af366db0ca4802d51",
   "description": "Where GameFi meets memes and DAOs \u2014 a cosmic struggle for resources and power.",
   "image": "https://s3.twcstorage.ru/48031ab3-dummy-data-to-share/legushka.png",
@@ -7577,6 +7606,19 @@
   "address": "0:10b20774fe688788407d2cba0f8fad9cf94eabfbe5f8a5801134c7ac9769d805",
   "name": "TYIELD",
   "symbol": "TYIELD"
+ },
+ {
+  "address": "0:ce5575968f40140abe843ad00c12fd0f9b8d9c09ac1f2851fff78b5af325a506",
+  "description": "Hit first. Hit hard",
+  "image": "https://i.ibb.co/mVLhndJV/108b35173f5b.png",
+  "name": "Reward Fight Club",
+  "social": [
+   "https://t.me/reward_fighters"
+  ],
+  "symbol": "TYLER",
+  "websites": [
+   "http://mrvnukich.life/"
+  ]
  },
  {
   "address": "0:1beb8ce4be183a6e2173aa4b86117c3f708db3e18d4c9a5244d36eb7a42ba3e6",
@@ -10268,6 +10310,11 @@
   "symbol": "PTJ"
  },
  {
+  "address": "0:f0dafd2fab4692e0be8f5f56613da25423ee6363f57a3e27214a98ab55fe737d",
+  "name": "FredThePug",
+  "symbol": "PUG"
+ },
+ {
   "address": "0:91d37abbc66bf1e5b60fb192ab912449db75be329565fc534fd56e6b86aaf15e",
   "name": "Pump&Dump",
   "symbol": "PUMP"
@@ -11021,6 +11068,11 @@
   "address": "0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293",
   "name": "UXLINK Token",
   "symbol": "UXLINK"
+ },
+ {
+  "address": "0:50f8042220b1a538e46b241ccf0746a775bf830809d07324025cfd3fc191c4c7",
+  "name": "Usyk",
+  "symbol": "Usyk"
  },
  {
   "address": "0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5",

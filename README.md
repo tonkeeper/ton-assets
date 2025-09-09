@@ -50,6 +50,7 @@ Name           | Address
 [STON.fi Dex](https://tonviewer.com/0:70a4118401bf8d823531a66011020565f02e05ff91ac5f1677769b00d6acd07a) | EQBwpBGEAb-NgjUxpmARAgVl8C4F_5GsXxZ3dpsA1qzQerNl
 [TONCO](https://tonviewer.com/0:bffadd270a738531da7b13ba8fc403826c2586173f9ede9c316fab53bc59ac86) | EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5
 [Marketapp Marketplace](https://tonviewer.com/0:9a9cb80adfbd1662f5108766d73355ac2c03304fda1d25a479670e34efcd72b3) | EQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ysx2O
+[Portals Marketplace](https://tonviewer.com/0:04f3c1c795ac8905e31734362b149875ab9522ae5383ab7abb2e10da5da8ba82) | EQAE88HHlayJBeMXNDYrFJh1q5UirlODq3q7LhDaXai6goHn
 [Morgenshtern](https://tonviewer.com/0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonviewer.com/0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
 [Telegram Team](https://tonviewer.com/0:2ecf5e47d591eb67fa6c56b02b6bb1de6a530855e16ad3082eaa59859e8d5fdc) | EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
