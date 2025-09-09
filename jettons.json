@@ -2002,6 +2002,19 @@
   ]
  },
  {
+  "address": "0:a7174b62237bc19168cb91b40468a60e0048385707c83b07773d81d7d78a45ff",
+  "description": "The DOBRO token is created to bring a little more goodness to the world. You can share goodness, receive it, or protect it. In any case, goodness only brings more goodness.",
+  "name": "Good By Default",
+  "social": [
+   "https://t.me/AboutTheDobroChat",
+   "https://t.me/GoodByDefault"
+  ],
+  "symbol": "DOBRO",
+  "websites": [
+   "https://goodbydefault.ru"
+  ]
+ },
+ {
   "address": "0:d8c1728e2cb4488b2999f45a19a311a0d376dec1450d3e9a1835edcea85ccd63",
   "description": "DODU Ton is a meme coin with ecosystem. The idea behind this meme token is to elect Donald Duck as the President of all meme coins launched on the TON network.",
   "image": "https://i.postimg.cc/1zX1cFLt/photo-2024-04-11-12-33-59.jpg",
@@ -6453,6 +6466,17 @@
   ]
  },
  {
+  "address": "0:b8ee307dd315d013ad344d34e61e3590b9bd68f6fba4c1d7cc776174b037dc10",
+  "description": "The first Spirit launched on TON",
+  "image": "https://ibb.co/NdS1820M",
+  "name": "Spirit Cat",
+  "social": [
+   "https://t.me/Spirit_Cat_Ton",
+   "https://x.com/SpritCatTon"
+  ],
+  "symbol": "SCAT"
+ },
+ {
   "address": "0:7b847eb025bceb65811b820b0e7017965049a03bb9659304ca7600d4e10ffffd",
   "image": "https://raw.githubusercontent.com/spinnercoin/logo/refs/heads/main/main.png",
   "name": "SpinnerCoin",
@@ -7020,6 +7044,20 @@
   "symbol": "TEFTEL",
   "websites": [
    "https://catteftelonton.xyz/"
+  ]
+ },
+ {
+  "address": "0:275e7c34582f6913c34a27f449ecf216b47ed23ffd36e4ec8af0d8bec026e81b",
+  "description": "The unofficial mascot of Telegram!",
+  "image": "https://telegoat.fun/logotiny.png",
+  "name": "TELEGOAT",
+  "social": [
+   "https://t.me/TONtelegoat",
+   "https://x.com/TONTelegoat"
+  ],
+  "symbol": "Maaaaaaaaa",
+  "websites": [
+   "https://telegoat.fun/"
   ]
  },
  {

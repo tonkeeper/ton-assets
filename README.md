@@ -74,6 +74,7 @@ Name           | Address
 [Booli Reborn](https://tonviewer.com/0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55) | EQCsCWwWEHS0BaEhcwJ3ft3GEXoC0Xd1CJ3hgASj14-NVb_r
 [CALLIGRAFUTURISM — 24: Units](https://tonviewer.com/0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf) | EQD7eDxP_wLX18kr8uyYfs6srlgoNMfRbXNYM8dmMXT2vxwk
 [DILS COIN GENESIS](https://tonviewer.com/0:c202dd4b9af103c981b880bdfc2872bd8473fc0606159278fdc40a2ae4f8d234) | EQDCAt1LmvEDyYG4gL38KHK9hHP8BgYVknj9xAoq5PjSNDB0
+[Degen](https://tonviewer.com/0:0e56583d0f14c409b2037f7e2ee786f23c99f02031506b7f4a984be79c62cd37) | EQAOVlg9DxTECbIDf34u54byPJnwIDFQa39KmEvnnGLNN-MQ
 [Degrees](https://tonviewer.com/0:f2bd3b92c32358d75b6eb78e053e41b30fd3d46cd70f814ff005afb4aeecee1a) | EQDyvTuSwyNY11tut44FPkGzD9PUbNcPgU_wBa-0ruzuGiDf
 [FIVA Genesis Access Keys](https://tonviewer.com/0:e8aabf23d68f2ea7fb0c7da85861a52c2bb3eb3c02c9880a5d1d331b3d0c0ecf) | EQDoqr8j1o8up_sMfahYYaUsK7PrPALJiApdHTMbPQwOz-oK
 [GLOBULA](https://tonviewer.com/0:11ebe25ad438ceaac268173a50b44bd58f0bf2ebec04c44d272d5e7ee2b3d8fd) | EQAR6-Ja1DjOqsJoFzpQtEvVjwvy6-wExE0nLV5-4rPY_SKN
