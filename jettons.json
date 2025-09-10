@@ -5326,6 +5326,20 @@
   ]
  },
  {
+  "address": "0:b90e3e007d0683978d1ec7a1345b250374c0491dba935e7c4d927f07b9064dce",
+  "description": "The Currency for Collective and Decentralised Ownership",
+  "image": "https://raw.githubusercontent.com/theownershipcoin/PublicImages/refs/heads/main/OC%20logo%20(256x256).png",
+  "name": "OwnershipCoin",
+  "social": [
+   "https://t.me/ownershipcoin",
+   "https://x.com/ownershipcoin"
+  ],
+  "symbol": "OC",
+  "websites": [
+   "https://ownershipcoin.com/"
+  ]
+ },
+ {
   "address": "0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38",
   "description": "Token for the residents of Paphos \ud83c\udfdb\ufe0f\ud83c\udf1e",
   "image": "https://i.ibb.co/cQ9PyCS/PAPHS.png",
