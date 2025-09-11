@@ -2002,6 +2002,19 @@
   ]
  },
  {
+  "address": "0:a7174b62237bc19168cb91b40468a60e0048385707c83b07773d81d7d78a45ff",
+  "description": "The DOBRO token is created to bring a little more goodness to the world. You can share goodness, receive it, or protect it. In any case, goodness only brings more goodness.",
+  "name": "Good By Default",
+  "social": [
+   "https://t.me/AboutTheDobroChat",
+   "https://t.me/GoodByDefault"
+  ],
+  "symbol": "DOBRO",
+  "websites": [
+   "https://goodbydefault.ru"
+  ]
+ },
+ {
   "address": "0:d8c1728e2cb4488b2999f45a19a311a0d376dec1450d3e9a1835edcea85ccd63",
   "description": "DODU Ton is a meme coin with ecosystem. The idea behind this meme token is to elect Donald Duck as the President of all meme coins launched on the TON network.",
   "image": "https://i.postimg.cc/1zX1cFLt/photo-2024-04-11-12-33-59.jpg",
@@ -5313,6 +5326,20 @@
   ]
  },
  {
+  "address": "0:b90e3e007d0683978d1ec7a1345b250374c0491dba935e7c4d927f07b9064dce",
+  "description": "The Currency for Collective and Decentralised Ownership",
+  "image": "https://raw.githubusercontent.com/theownershipcoin/PublicImages/refs/heads/main/OC%20logo%20(256x256).png",
+  "name": "OwnershipCoin",
+  "social": [
+   "https://t.me/ownershipcoin",
+   "https://x.com/ownershipcoin"
+  ],
+  "symbol": "OC",
+  "websites": [
+   "https://ownershipcoin.com/"
+  ]
+ },
+ {
   "address": "0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38",
   "description": "Token for the residents of Paphos \ud83c\udfdb\ufe0f\ud83c\udf1e",
   "image": "https://i.ibb.co/cQ9PyCS/PAPHS.png",
@@ -6451,6 +6478,17 @@
   "websites": [
    "https://sp.one/"
   ]
+ },
+ {
+  "address": "0:b8ee307dd315d013ad344d34e61e3590b9bd68f6fba4c1d7cc776174b037dc10",
+  "description": "The first Spirit launched on TON",
+  "image": "https://i.ibb.co/JwQxfjY9/IMG-8624.jpg",
+  "name": "Spirit Cat",
+  "social": [
+   "https://t.me/Spirit_Cat_Ton",
+   "https://x.com/SpritCatTon"
+  ],
+  "symbol": "SCAT"
  },
  {
   "address": "0:7b847eb025bceb65811b820b0e7017965049a03bb9659304ca7600d4e10ffffd",
@@ -11238,6 +11276,11 @@
   "address": "0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a",
   "name": "eNOT COIN",
   "symbol": "eNOT"
+ },
+ {
+  "address": "0:22a54fff31b0e715983011c7630917f00e437f4e28c2b3bb266892109d461f27",
+  "name": "ETON BITLAB",
+  "symbol": "eTON"
  },
  {
   "address": "0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4",
