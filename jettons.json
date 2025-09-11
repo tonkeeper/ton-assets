@@ -4801,6 +4801,20 @@
   ]
  },
  {
+  "address": "0:e4d954ef9f4e1250a26b5bbad76a1cdd17cfd08babad6f4c23e372270aef6f76",
+  "decimals": 9,
+  "description": "Moonston STON.fi DEMO Token",
+  "image": "https://tarantini.dev/ston/grey.png",
+  "name": "Moonston Token",
+  "social": [
+   "https://t.me/stonfidex"
+  ],
+  "symbol": "MOON",
+  "websites": [
+   "https://app.ston.fi"
+  ]
+ },
+ {
   "address": "0:bee912942b5e31c8dda2265f47190acacc414d7d966f0f0c765f681c181aa771",
   "description": "MPAK is a deflationary Jetton with dividends. 25% tax on every trade, part is burned, part goes to holders, and part disappears into the Darkness. Deployed from sTONks.",
   "image": "https://raw.githubusercontent.com/BubbleMind/ImagesMPAK/main/LogoMPAK.webp",
@@ -5853,6 +5867,20 @@
   "symbol": "RECO",
   "websites": [
    "https://resistancecock.com/"
+  ]
+ },
+ {
+  "address": "0:0871bd56a8daf413bace5e03b471b01942755b4b4ea6807daf801bed044ea9d1",
+  "decimals": 9,
+  "description": "Redston STON.fi DEMO Token",
+  "image": "https://tarantini.dev/ston/red.png",
+  "name": "Redston Token",
+  "social": [
+   "https://t.me/stonfidex"
+  ],
+  "symbol": "RED",
+  "websites": [
+   "https://app.ston.fi"
   ]
  },
  {
