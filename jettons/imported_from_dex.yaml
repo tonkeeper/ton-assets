@@ -1544,6 +1544,9 @@
 - address: 0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a
   name: eNOT COIN
   symbol: eNOT
+- address: 0:22a54fff31b0e715983011c7630917f00e437f4e28c2b3bb266892109d461f27
+  name: ETON BITLAB
+  symbol: eTON
 - address: 0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4
   name: 00 Token
   symbol: j00
