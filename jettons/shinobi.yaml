@@ -1,0 +1,12 @@
+# jettons/shinobi.yaml
+
+name: "Shinobi TON"
+symbol: "SHINOBI"
+decimals: 9
+description: "Shinobi TON is a community-driven memecoin on TON, blending stealth and strategy for memetic dominance."
+address: "EQCL2JFltDVh1mU6CLc7KvzGD7DmpwHWHkok_EnqQlaycfgZ"
+image: "https://raw.githubusercontent.com/Kreatour/shinobi-assets/refs/heads/main/IMG_20250912_164427_156.jpg"
+social:
+  - "https://t.me/shinobionton"
+  - "https://x.com/shinobiclanton"
+  - "http://shinobiton.xyz"
