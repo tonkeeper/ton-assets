@@ -1,0 +1,9 @@
+name: TONETIC Coin
+address: 0:05e02bb1a1b7a2663bd3faadc0fc78d57e28b2c20338bf874d89e8c3136cf58d
+description: "Tonetic.org – create, send, and manage your tokens on the TON network easily and securely. 🚀"
+image: "https://api.tonetic.org/images/logo/1b8dae823b-ff4443c68b-52b1e616c4-21cbd4aaec.png"
+symbol: "TONETIC"
+websites:
+  - "https://tonetic.org/"
+social:
+  - "https://t.me/ToneticOrg"
