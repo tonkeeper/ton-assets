@@ -1429,6 +1429,23 @@
   "symbol": "CATA"
  },
  {
+  "address": "0:07a83d5ea056dadb83f296d8fb3d277260cf65e6ac6d316834bbdd9a5b7468c7",
+  "description": "Innovative GameFi with Gold-Backed Tokens on TON Blockchain - Where Cat Knights Battle for Glory and Charity!",
+  "image": "https://catbomb-s3.varisoft.com/nfts/mainnet/jetton/v4/token.png",
+  "name": "Catbomb",
+  "social": [
+   "https://www.facebook.com/catbombsociety",
+   "https://youtube.com/@catbomb_society",
+   "https://discord.gg/catbomb",
+   "https://x.com/catbomb_society",
+   "https://t.me/catbomb_bot"
+  ],
+  "symbol": "CATBOMB",
+  "websites": [
+   "https://catbomb.ai"
+  ]
+ },
+ {
   "address": "0:c6f21acc9a3583ee23fb3a9d97919ea31a116d054ab306bc298f8839d3f5513e",
   "description": "Where Purr-fectly adorable meets Purr-fectly profitable!",
   "image": "https://catgoldminer.ai/CATGOLD_TOKEN.png",
@@ -4801,6 +4818,20 @@
   ]
  },
  {
+  "address": "0:e4d954ef9f4e1250a26b5bbad76a1cdd17cfd08babad6f4c23e372270aef6f76",
+  "decimals": 9,
+  "description": "Moonston STON.fi DEMO Token",
+  "image": "https://tarantini.dev/ston/grey.png",
+  "name": "Moonston Token",
+  "social": [
+   "https://t.me/stonfidex"
+  ],
+  "symbol": "MOON",
+  "websites": [
+   "https://app.ston.fi"
+  ]
+ },
+ {
   "address": "0:bee912942b5e31c8dda2265f47190acacc414d7d966f0f0c765f681c181aa771",
   "description": "MPAK is a deflationary Jetton with dividends. 25% tax on every trade, part is burned, part goes to holders, and part disappears into the Darkness. Deployed from sTONks.",
   "image": "https://raw.githubusercontent.com/BubbleMind/ImagesMPAK/main/LogoMPAK.webp",
@@ -5326,6 +5357,20 @@
   ]
  },
  {
+  "address": "0:b90e3e007d0683978d1ec7a1345b250374c0491dba935e7c4d927f07b9064dce",
+  "description": "The Currency for Collective and Decentralised Ownership",
+  "image": "https://raw.githubusercontent.com/theownershipcoin/PublicImages/refs/heads/main/OC%20logo%20(256x256).png",
+  "name": "OwnershipCoin",
+  "social": [
+   "https://t.me/ownershipcoin",
+   "https://x.com/ownershipcoin"
+  ],
+  "symbol": "OC",
+  "websites": [
+   "https://ownershipcoin.com/"
+  ]
+ },
+ {
   "address": "0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38",
   "description": "Token for the residents of Paphos \ud83c\udfdb\ufe0f\ud83c\udf1e",
   "image": "https://i.ibb.co/cQ9PyCS/PAPHS.png",
@@ -5839,6 +5884,20 @@
   "symbol": "RECO",
   "websites": [
    "https://resistancecock.com/"
+  ]
+ },
+ {
+  "address": "0:0871bd56a8daf413bace5e03b471b01942755b4b4ea6807daf801bed044ea9d1",
+  "decimals": 9,
+  "description": "Redston STON.fi DEMO Token",
+  "image": "https://tarantini.dev/ston/red.png",
+  "name": "Redston Token",
+  "social": [
+   "https://t.me/stonfidex"
+  ],
+  "symbol": "RED",
+  "websites": [
+   "https://app.ston.fi"
   ]
  },
  {
@@ -11262,6 +11321,11 @@
   "address": "0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a",
   "name": "eNOT COIN",
   "symbol": "eNOT"
+ },
+ {
+  "address": "0:22a54fff31b0e715983011c7630917f00e437f4e28c2b3bb266892109d461f27",
+  "name": "ETON BITLAB",
+  "symbol": "eTON"
  },
  {
   "address": "0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4",
