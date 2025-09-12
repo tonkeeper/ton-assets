@@ -3631,6 +3631,18 @@
   ]
  },
  {
+  "address": "0:4974265c49a88493362265f90663c1f7461af9d4fbe89eabef11ac9a93e50e81",
+  "description": "Priceohistory connects history and cryptocurrency. Our goal is popularization of history. Our cryptocurrency is Historycoin (HISTR).",
+  "image": "https://images3.nplod.ru/gen_images_1/qVCguMPEVNm6ZTjeIFc5bqdQdBPhAq4b.jpg",
+  "name": "Historycoin",
+  "social": [
+   "https://www.tiktok.com/@priceohistory",
+   "https://t.me/+qdUWbmSsz9gzMmFi",
+   "https://t.me/priceohistory"
+  ],
+  "symbol": "HISTR"
+ },
+ {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
   "decimals": 9,
   "name": "Hamster Kombat",
