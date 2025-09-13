@@ -27,3 +27,9 @@ jobs:
         run: pip3 install -r requirements.txt
       - name: Dummy run of generator to check for correct syntax
         run: python3 generator.py
+name: ton-assets-env
+dependencies:
+  - python=3.11
+  - pip
+  - <other-packages>
+  
