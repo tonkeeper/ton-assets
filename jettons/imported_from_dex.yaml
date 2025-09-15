@@ -1033,6 +1033,9 @@
 - address: 0:7c44d0bb13ed2e59c7d23faf2b93f45178dd8960a4389c12ead51b0aa5a5667b
   name: Rotgar
   symbol: ROTGAR
+- address: 0:fc0d7c56e225dbac79a1f17482c1ab6f97711f867e7e81f589b5c0b1f992c2a3
+  name: RRRED PANDA
+  symbol: RRRED
 - address: 0:44ac32844dd9fa8f2c4bb588a013e4cf9972a6dc0bdb415a809c358db829d60f
   name: Riwatex Meme
   symbol: RTXM
