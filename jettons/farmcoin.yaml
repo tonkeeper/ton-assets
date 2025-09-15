@@ -3,6 +3,6 @@ symbol: FARM
 decimals: 9
 description: "FarmCoin (FARM) is the in-game currency of the BUTON TAP ecosystem."
 image: "https://raw.githubusercontent.com/VishnuS003/farmcoin-contracts/main/logo/logo.png"
-address: EQCUnf4TP73HSk5_JtkH3B8nxYc4qcwfk1jA_E_0mjnPHZ
+address: EQCLUnf4TP73HSk5_JtkH3B8nxYc4qcwfk1jA_E_0mjnPHZ  
 social:
   - "https://t.me/butontap"
