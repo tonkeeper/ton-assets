@@ -2,7 +2,7 @@
  {
   "address": "0:e5f985fd340aae48d46116a1d305b92d871df95180012ef0b2957d842fead6dc",
   "description": "The official token of the GRAND BANG universe. Launch rockets, explore space, and earn rewards in the ultimate space agency simulator\ud83d\ude80 t.me/GrandBangBot",
-  "image": "https://cdn.blum.codes/2d7944ce-9277-4abc-a778-105491a95798/7d2af282-bd98-4cb7-8ec2-63b1e3c8de26",
+  "image": "https://i.ibb.co/0jhvt7df/IMG-4991.png",
   "name": "BANG",
   "social": [
    "https://t.me/GrandBangBot",
@@ -1429,6 +1429,23 @@
   "symbol": "CATA"
  },
  {
+  "address": "0:07a83d5ea056dadb83f296d8fb3d277260cf65e6ac6d316834bbdd9a5b7468c7",
+  "description": "Innovative GameFi with Gold-Backed Tokens on TON Blockchain - Where Cat Knights Battle for Glory and Charity!",
+  "image": "https://catbomb-s3.varisoft.com/nfts/mainnet/jetton/v4/token.png",
+  "name": "Catbomb",
+  "social": [
+   "https://www.facebook.com/catbombsociety",
+   "https://youtube.com/@catbomb_society",
+   "https://discord.gg/catbomb",
+   "https://x.com/catbomb_society",
+   "https://t.me/catbomb_bot"
+  ],
+  "symbol": "CATBOMB",
+  "websites": [
+   "https://catbomb.ai"
+  ]
+ },
+ {
   "address": "0:c6f21acc9a3583ee23fb3a9d97919ea31a116d054ab306bc298f8839d3f5513e",
   "description": "Where Purr-fectly adorable meets Purr-fectly profitable!",
   "image": "https://catgoldminer.ai/CATGOLD_TOKEN.png",
@@ -1999,6 +2016,19 @@
   "symbol": "DLT",
   "websites": [
    "https://lumia.network/"
+  ]
+ },
+ {
+  "address": "0:a7174b62237bc19168cb91b40468a60e0048385707c83b07773d81d7d78a45ff",
+  "description": "The DOBRO token is created to bring a little more goodness to the world. You can share goodness, receive it, or protect it. In any case, goodness only brings more goodness.",
+  "name": "Good By Default",
+  "social": [
+   "https://t.me/AboutTheDobroChat",
+   "https://t.me/GoodByDefault"
+  ],
+  "symbol": "DOBRO",
+  "websites": [
+   "https://goodbydefault.ru"
   ]
  },
  {
@@ -3453,7 +3483,7 @@
  {
   "address": "0:2eeeac5f560320d2da67a2c06901160e1bef96d4452e5ffe47fef390b5356e1e",
   "description": "The Open Network Charity Token",
-  "image": "https://cyan-indirect-ant-156.mypinata.cloud/ipfs/QmTVVeutSCe4emnH7nhwKB98TuzASCwf8Jyvmx8MXnhuwX",
+  "image": "https://cyan-indirect-ant-156.mypinata.cloud/ipfs/QmTVVeutSCe4emnH7nhwKB98TuzASCwf8Jyvmx8MXnhuwX?v=2",
   "name": "Grouche coin",
   "social": [
    "https://t.me/grouche_coin",
@@ -3599,6 +3629,18 @@
   "websites": [
    "https://hexcube.io"
   ]
+ },
+ {
+  "address": "0:4974265c49a88493362265f90663c1f7461af9d4fbe89eabef11ac9a93e50e81",
+  "description": "Priceohistory connects history and cryptocurrency. Our goal is popularization of history. Our cryptocurrency is Historycoin (HISTR).",
+  "image": "https://images3.nplod.ru/gen_images_1/qVCguMPEVNm6ZTjeIFc5bqdQdBPhAq4b.jpg",
+  "name": "Historycoin",
+  "social": [
+   "https://www.tiktok.com/@priceohistory",
+   "https://t.me/+qdUWbmSsz9gzMmFi",
+   "https://t.me/priceohistory"
+  ],
+  "symbol": "HISTR"
  },
  {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
@@ -4718,6 +4760,12 @@
   ]
  },
  {
+  "address": "0:6fd1ad3b81ea8ebb4725e6ab5381640261d3f9356fe5268f86ef6ebfb358dc3d",
+  "image": "https://minertelegram.github.io/miner-logo/miner_logo.png",
+  "name": "Miner",
+  "symbol": "MNR"
+ },
+ {
   "address": "0:2683b078ca4f47d1b95ce19e5c958fa4f456c7cf25335b3cc10f45615efbfad2",
   "description": "Mortal Klicker is a Telegram-based GameFi app featuring PvP battles and farming, rewarding players with $MOKL tokens on the TON blockchain.",
   "image": "https://mokl.io/MOKL256.png",
@@ -4785,6 +4833,20 @@
   "websites": [
    "https://monkeyrush.app/",
    "https://t.me/monkeyrush_bot/app"
+  ]
+ },
+ {
+  "address": "0:e4d954ef9f4e1250a26b5bbad76a1cdd17cfd08babad6f4c23e372270aef6f76",
+  "decimals": 9,
+  "description": "Moonston STON.fi DEMO Token",
+  "image": "https://tarantini.dev/ston/grey.png",
+  "name": "Moonston Token",
+  "social": [
+   "https://t.me/stonfidex"
+  ],
+  "symbol": "MOON",
+  "websites": [
+   "https://app.ston.fi"
   ]
  },
  {
@@ -5313,6 +5375,20 @@
   ]
  },
  {
+  "address": "0:b90e3e007d0683978d1ec7a1345b250374c0491dba935e7c4d927f07b9064dce",
+  "description": "The Currency for Collective and Decentralised Ownership",
+  "image": "https://raw.githubusercontent.com/theownershipcoin/PublicImages/refs/heads/main/OC%20logo%20(256x256).png",
+  "name": "OwnershipCoin",
+  "social": [
+   "https://t.me/ownershipcoin",
+   "https://x.com/ownershipcoin"
+  ],
+  "symbol": "OC",
+  "websites": [
+   "https://ownershipcoin.com/"
+  ]
+ },
+ {
   "address": "0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38",
   "description": "Token for the residents of Paphos \ud83c\udfdb\ufe0f\ud83c\udf1e",
   "image": "https://i.ibb.co/cQ9PyCS/PAPHS.png",
@@ -5826,6 +5902,20 @@
   "symbol": "RECO",
   "websites": [
    "https://resistancecock.com/"
+  ]
+ },
+ {
+  "address": "0:0871bd56a8daf413bace5e03b471b01942755b4b4ea6807daf801bed044ea9d1",
+  "decimals": 9,
+  "description": "Redston STON.fi DEMO Token",
+  "image": "https://tarantini.dev/ston/red.png",
+  "name": "Redston Token",
+  "social": [
+   "https://t.me/stonfidex"
+  ],
+  "symbol": "RED",
+  "websites": [
+   "https://app.ston.fi"
   ]
  },
  {
@@ -6453,6 +6543,17 @@
   ]
  },
  {
+  "address": "0:b8ee307dd315d013ad344d34e61e3590b9bd68f6fba4c1d7cc776174b037dc10",
+  "description": "The first Spirit launched on TON",
+  "image": "https://i.ibb.co/JwQxfjY9/IMG-8624.jpg",
+  "name": "Spirit Cat",
+  "social": [
+   "https://t.me/Spirit_Cat_Ton",
+   "https://x.com/SpritCatTon"
+  ],
+  "symbol": "SCAT"
+ },
+ {
   "address": "0:7b847eb025bceb65811b820b0e7017965049a03bb9659304ca7600d4e10ffffd",
   "image": "https://raw.githubusercontent.com/spinnercoin/logo/refs/heads/main/main.png",
   "name": "SpinnerCoin",
@@ -7020,6 +7121,20 @@
   "symbol": "TEFTEL",
   "websites": [
    "https://catteftelonton.xyz/"
+  ]
+ },
+ {
+  "address": "0:275e7c34582f6913c34a27f449ecf216b47ed23ffd36e4ec8af0d8bec026e81b",
+  "description": "The unofficial mascot of Telegram!",
+  "image": "https://telegoat.fun/logotiny.png?2025",
+  "name": "TELEGOAT",
+  "social": [
+   "https://t.me/TONtelegoat",
+   "https://x.com/TONTelegoat"
+  ],
+  "symbol": "Maaaaaaaaa",
+  "websites": [
+   "https://telegoat.fun/"
   ]
  },
  {
@@ -10296,6 +10411,11 @@
   "symbol": "PTJ"
  },
  {
+  "address": "0:f0dafd2fab4692e0be8f5f56613da25423ee6363f57a3e27214a98ab55fe737d",
+  "name": "FredThePug",
+  "symbol": "PUG"
+ },
+ {
   "address": "0:91d37abbc66bf1e5b60fb192ab912449db75be329565fc534fd56e6b86aaf15e",
   "name": "Pump&Dump",
   "symbol": "PUMP"
@@ -10424,6 +10544,11 @@
   "address": "0:7c44d0bb13ed2e59c7d23faf2b93f45178dd8960a4389c12ead51b0aa5a5667b",
   "name": "Rotgar",
   "symbol": "ROTGAR"
+ },
+ {
+  "address": "0:fc0d7c56e225dbac79a1f17482c1ab6f97711f867e7e81f589b5c0b1f992c2a3",
+  "name": "RRRED PANDA",
+  "symbol": "RRRED"
  },
  {
   "address": "0:44ac32844dd9fa8f2c4bb588a013e4cf9972a6dc0bdb415a809c358db829d60f",
@@ -11051,6 +11176,11 @@
   "symbol": "UXLINK"
  },
  {
+  "address": "0:50f8042220b1a538e46b241ccf0746a775bf830809d07324025cfd3fc191c4c7",
+  "name": "Usyk",
+  "symbol": "Usyk"
+ },
+ {
   "address": "0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5",
   "name": "Vincere",
   "symbol": "VC"
@@ -11214,6 +11344,11 @@
   "address": "0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a",
   "name": "eNOT COIN",
   "symbol": "eNOT"
+ },
+ {
+  "address": "0:22a54fff31b0e715983011c7630917f00e437f4e28c2b3bb266892109d461f27",
+  "name": "ETON BITLAB",
+  "symbol": "eTON"
  },
  {
   "address": "0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4",
