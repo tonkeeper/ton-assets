@@ -4,7 +4,7 @@ decimals: 9
 version: 1
 description: "Ton21 (T21) is a limited-supply community token on the TON blockchain. Fixed supply: 21,000,000 T21."
 image: "https://raw.githubusercontent.com/VLADIMIRVLE/ton21_official/main/t21_logo.png"
-address: EQBLgiPMJ98ZiMGqaqudx0Fe_0N1a0nLhIKSFx8dbzYRG
+address: EQBLgiPMly982IMGqauqdX0Fe_N01arDLh1KSfxBd8rzYRG
 websites:
   - "https://vladimirvle.github.io/ton21-site"
   - "https://github.com/VLADIMIRVLE/ton21_official"
