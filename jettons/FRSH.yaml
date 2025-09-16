@@ -1,0 +1,11 @@
+name: FomoRush Token
+description: FomoRush.io is a decentralized social experiment and game on the TON blockchain, combining game theory, strategy, and community engagement. Participants compete and cooperate in cyclical rounds, activating keys to extend a timer and grow a prize pool. The project features a robust token (FRSH), a staking system, and a transparent, audited smart contract architecture. FomoRush is designed to test human behavior under time pressure and resource constraints, rewarding both strategic play and community participation.
+address: 0:0d8056bcb69a8a5629e846e4765394b3820314b1994b467e17aa918f61e36ecc
+symbol: FRSH
+websites:
+  - "https://fomorush.io"
+social:
+  - "https://t.me/FomoRushOfficial"
+  - "https://t.me/fomorush_bot"
+  - "https://x.com/FomoRush"
+  - "https://medium.com/@fomorush"
