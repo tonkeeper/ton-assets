@@ -1,13 +1,13 @@
 name: Ton21
-description: Ton21 (T21) is a community-driven token on the TON blockchain with a fixed supply of 21,000,000 T21. Created for games, community and DeFi growth.
-image: "https://raw.githubusercontent.com/VLADIMIRVLE/ton21_official/main/logo.png"
-address: EQBLgiPMly982IMGqauqdX0Fe_N01arD-LhlKSfxBd8rzYRG
 symbol: T21
-websites:
-  - "https://t.me/Ton21_Army"
-  - "https://github.com/VLADIMIRVLE/ton21_official"
-social:
-  - "https://twitter.com/Ton21_Official"
-  - "https://t.me/Ton21_Army"
 decimals: 9
 version: 1
+description: "Ton21 (T21) is a limited-supply community token on the TON blockchain. Fixed supply: 21,000,000 T21."
+image: "https://raw.githubusercontent.com/VLADIMIRVLE/ton21_official/main/t21_logo.png"
+address: EQBLgiPMJ98ZiMGqaqudx0Fe_0N1a0nLhIKSFx8dbzYRG
+websites:
+  - "https://vladimirvle.github.io/ton21-site"
+  - "https://github.com/VLADIMIRVLE/ton21_official"
+social:
+  - "https://t.me/Ton21_Army"
+  - "https://twitter.com/Ton21_Official"
