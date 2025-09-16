@@ -4760,6 +4760,12 @@
   ]
  },
  {
+  "address": "0:6fd1ad3b81ea8ebb4725e6ab5381640261d3f9356fe5268f86ef6ebfb358dc3d",
+  "image": "https://minertelegram.github.io/miner-logo/miner_logo.png",
+  "name": "Miner",
+  "symbol": "MNR"
+ },
+ {
   "address": "0:2683b078ca4f47d1b95ce19e5c958fa4f456c7cf25335b3cc10f45615efbfad2",
   "description": "Mortal Klicker is a Telegram-based GameFi app featuring PvP battles and farming, rewarding players with $MOKL tokens on the TON blockchain.",
   "image": "https://mokl.io/MOKL256.png",
