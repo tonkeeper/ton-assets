@@ -6181,6 +6181,20 @@
   ]
  },
  {
+  "address": "0:781f4cf6c48d95b7666d074c6589fc5b93e95de4715421b304ea0fd83bab665b",
+  "description": "SAFETON Strategy - First community project feeding the TON strategy forever by continuously buying $TON and never selling. \ud83d\ude80\ud83d\udc8e",
+  "image": "https://i.ibb.co/r2Rf6x6z/obraz-2025-09-16-150933821.png",
+  "name": "Safeton Strategy",
+  "social": [
+   "https://t.me/safetonstrat",
+   "https://x.com/safetonstrat"
+  ],
+  "symbol": "SAFE",
+  "websites": [
+   "https://safeton.xyz"
+  ]
+ },
+ {
   "address": "0:602f0dd12e410b80e254535a07b47cf09284dd6f84607d3f088131ba93f88b9d",
   "decimals": 9,
   "description": "SafemoonTon is not just a meme project - it's a movement. We're building an ecosystem that will make a lasting impact on TON Blockchain and the crypto industry at large.",
