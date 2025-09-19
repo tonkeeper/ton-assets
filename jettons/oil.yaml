@@ -1,0 +1,12 @@
+# jettons/OIL.yaml
+name: "Oil"
+symbol: "OIL TOKEN"
+address: "EQBKYEHMfMRcplj_7eVsBHW1RnqXf-PO8XP-xISXRRu-XA7q"
+decimals: 9
+totalSupply: 1000000000
+logo: "https://i.postimg.cc/bJ7mCD5Z/file-000000000c0c6243b9263765619cddcb-2.png"
+website: "https://t.me/oilofficial"
+description: |
+  Oil is a TIP-3 token on the TON blockchain, where each token represents one barrel of crude oil.
+  It enables transparent, secure, and borderless digital trading of oil, providing global accessibility
+  even in  small amounts.
