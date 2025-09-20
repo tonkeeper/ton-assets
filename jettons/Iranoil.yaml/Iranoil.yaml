@@ -1,13 +1,16 @@
-{
-  "name": "iranoil",
-  "symbol": "IROILTOKEN",
-  "decimals": 9,
-  "description": "IRANOIL is a utility token on the TON blockchain, inspired by the strategic value of crude oil. With a fixed total supply of 20,000,000,000 units (twenty billion) and 9 decimals, IRANOIL aims to serve as a transparent, fast, and secure foundation for transactions, investments, and energy-related projects within the Web3 ecosystem. Official community: https://t.me/IRANOILofficial",
-  "logo": "https://your-upload-link.com/iranoil.png",
-  "website": "https://ton.org",
-  "socials": {
-    "twitter": "",
-    "telegram": "https://t.me/IRANOILofficial",
-    "discord": ""
-  }
-}
+name: IRANOIL
+symbol: IROILTOKEN
+decimals: 9
+description: >
+  IRANOIL is a utility token on the TON blockchain, inspired by the strategic value of crude oil. With a fixed total supply of 20,000,000,000 units, IRANOIL provides a fast, transparent, and secure foundation for transactions, investments, and energy-related projects within the Web3 ecosystem.
+short_description: >
+  IRANOIL is a TON-based utility token with 20B supply, designed for fast and secure Web3 transactions.
+logo: https://i.postimg.cc/bJ7mCD5Z/file-000000000c0c6243b9263765619cddcb-2.png
+website: https://iranoil.org
+socials:
+  telegram: https://t.me/IRANOILofficial
+contract_address: EQBUTf9DfUKJZTxOtU4qBj-r82M-Tpx85MsWl2cyzo7EF5Ed
+network: TON
+verified: true
+metadata_version: 1.0
+explorer: https://tonscan.org/address/EQBUTf9DfUKJZTxOtU4qBj-r82M-Tpx85MsWl2cyzo7EF5Ed
