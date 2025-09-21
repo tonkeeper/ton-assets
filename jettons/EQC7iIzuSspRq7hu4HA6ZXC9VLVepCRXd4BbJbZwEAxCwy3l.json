@@ -1,0 +1,11 @@
+json
+{
+    "name": "General KOTLY",
+    "symbol": "KOTLY",
+    "decimals": 9,
+    "description": "General KOTLY from Kotov — the official currency of the 'General's Cauldrons' meme warfare, inspired by Mikhalkov's film and commanded by Madison.",
+    "image": "https://fv5-7.files.fm/thumb_show.php?i=zckznsagk9&view&v=1&PHPSESSID=a33ebe4a3d37c481d61159967eb6f417d5aa7d1c",
+    "socials": [
+        "https://t.me/G_KOTLY"
+    ]
+}
