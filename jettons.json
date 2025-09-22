@@ -15,6 +15,20 @@
   ]
  },
  {
+  "address": "0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884",
+  "description": "This coin was created to show how beautiful and amazing cats are and was launched on \u26fd\ufe0f GasPump",
+  "image": "https://live.staticflickr.com/65535/54121633812_521c2d3163.jpg",
+  "name": "Clown cat coin",
+  "social": [
+   "https://t.me/ClownCatCoinn",
+   "https://x.com/clowncatcoinn"
+  ],
+  "symbol": "CCAT",
+  "websites": [
+   "https://clowncatcoin.carrd.co"
+  ]
+ },
+ {
   "address": "0:a6115250e678edb4d4416b56eaa99b15ab959a1d89621bd054fdde413f506ed9",
   "description": "The most gypsy token on TON",
   "image": "https://i.ibb.co/dGCf511/IMG-1522.png",
@@ -1387,6 +1401,18 @@
   "websites": [
    "https://canabeings.io"
   ]
+ },
+ {
+  "address": "0:6afbdda6f00a3139eadcca85b68c5bd9cf3ff6fded37c5a781ac372dab9ae3dd",
+  "description": "CANDY (CANY) is a token of Telegram Mini App.",
+  "image": "https://starsgame365.top/LveOIda.png",
+  "name": "CANDY",
+  "social": [
+   "https://t.me/StarsGame365",
+   "https://t.me/starsgame365bot",
+   "https://t.me/StarsGame365Chat"
+  ],
+  "symbol": "CANY"
  },
  {
   "address": "0:d89ee523b57f514a75ae396378125ee18e9db9dcbec204539e134492a5385138",
@@ -4760,6 +4786,12 @@
   ]
  },
  {
+  "address": "0:6fd1ad3b81ea8ebb4725e6ab5381640261d3f9356fe5268f86ef6ebfb358dc3d",
+  "image": "https://minertelegram.github.io/miner-logo/miner_logo.png",
+  "name": "Miner",
+  "symbol": "MNR"
+ },
+ {
   "address": "0:2683b078ca4f47d1b95ce19e5c958fa4f456c7cf25335b3cc10f45615efbfad2",
   "description": "Mortal Klicker is a Telegram-based GameFi app featuring PvP battles and farming, rewarding players with $MOKL tokens on the TON blockchain.",
   "image": "https://mokl.io/MOKL256.png",
@@ -4972,6 +5004,20 @@
   "symbol": "Cheeks",
   "websites": [
    "http://cheeksonton.lol/"
+  ]
+ },
+ {
+  "address": "0:ce094a7fa4306f3a6191c840c4d9b9c29767231a60168cfb13591b7fbde4ac7c",
+  "description": "\u0422\u043e\u043a\u0435\u043d NAPIWAS \u0441\u043e\u0437\u0434\u0430\u043d \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c \u0445\u0432\u0430\u0442\u0430\u043b\u043e \u043d\u0430 \u043f\u0438\u0432\u043e! \u041c\u044b \u043d\u0435 \u0431\u0443\u0434\u0435\u043c \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0442\u044c \u0432\u0441\u0451 \u0441\u0440\u0430\u0437\u0443, \u043d\u0430\u043c \u043d\u0443\u0436\u043d\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0447\u0442\u043e\u0431\u044b \u043a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c \u0445\u0432\u0430\u0442\u0430\u043b\u043e \u043d\u0430 \u043f\u0438\u0432\u0430\u0441. \u0422\u043e\u043a\u0435\u043d \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0440\u0435\u043a\u043b\u0430\u043c\u044b \u043e\u0442 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u043f\u0438\u0432\u0430.",
+  "image": "https://i.ibb.co/nsH9XVJ7/20316fc0-4358-451f-b8dd-b7b6d8526f23.png",
+  "name": "NAPIWAS",
+  "social": [
+   "https://t.me/napiwas",
+   "https://t.me/NAPIWASofficial"
+  ],
+  "symbol": "NAPIWAS",
+  "websites": [
+   "https://napiwas.com/"
   ]
  },
  {
@@ -6160,6 +6206,20 @@
   "symbol": "SADDOGE",
   "websites": [
    "https://dexscreener.com/ton/EQCeAnm5DPOIY0YDx4sphpc7k44A26Rw6EsRiiL548qDWv_m"
+  ]
+ },
+ {
+  "address": "0:781f4cf6c48d95b7666d074c6589fc5b93e95de4715421b304ea0fd83bab665b",
+  "description": "SAFETON Strategy - First community project feeding the TON strategy forever by continuously buying $TON and never selling. \ud83d\ude80\ud83d\udc8e",
+  "image": "https://i.ibb.co/r2Rf6x6z/obraz-2025-09-16-150933821.png",
+  "name": "Safeton Strategy",
+  "social": [
+   "https://t.me/safetonstrat",
+   "https://x.com/safetonstrat"
+  ],
+  "symbol": "SAFE",
+  "websites": [
+   "https://safeton.xyz"
   ]
  },
  {
