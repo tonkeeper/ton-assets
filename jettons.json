@@ -1558,7 +1558,14 @@
  {
   "address": "0:83b912d3ca56aef32284931d4030ba47032e95a20ff90fa682e07364c86f0937",
   "name": "CITY",
-  "symbol": "CITY"
+  "social": [
+   "https://t.me/CITY_Holder",
+   "http://x.com/City_Holder"
+  ],
+  "symbol": "CITY",
+  "websites": [
+   "http://holder.city"
+  ]
  },
  {
   "address": "0:d5e767b48252546bf4049879a324b660726b3f5d94233e6da991cebf5b96ee62",
