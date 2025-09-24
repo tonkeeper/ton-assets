@@ -1,7 +1,7 @@
 #!/bin/env python3
 import json
 
-import yaml
+import 
 import glob
 
 from dexes import __get_stonfi_assets, __get_megaton_assets, __get_dedust_assets
