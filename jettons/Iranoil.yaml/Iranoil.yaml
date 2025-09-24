@@ -1,17 +1,47 @@
-name: IRANOIL
+name: iranoil
 symbol: IROILTOKEN
 decimals: 9
-description: >
-  IRANOIL is a utility token on the TON blockchain, inspired by the strategic value of crude oil. With a fixed total supply of 20,000,000,000 units, IRANOIL provides a fast, transparent, and secure foundation for transactions, investments, and energy-related projects within the Web3 ecosystem.
-short_description: >
-  IRANOIL is a TON-based utility token with 20B supply, designed for fast and secure Web3 transactions.
-logo: https://i.postimg.cc/bJ7mCD5Z/file-000000000c0c6243b9263765619cddcb-2.png
-website: https:
+description: |
+  IRANOIL is a utility token on the TON blockchain, inspired by the strategic value of crude oil.  
+  With a fixed total supply of 20,000,000,000 units (twenty billion) and 9 decimals, IRANOIL aims to serve as a transparent, fast, and secure foundation for transactions, investments, and energy-related projects within the Web3 ecosystem.
+
+  📊 Token Distribution:
+  - 50% distributed to 21 wallets for decentralization (completed)
+  - 20% allocated for liquidity provision on TON DEX (added gradually in multiple stages)
+  - 10% reserved for marketing, community growth, and airdrops
+  - 10% reserved for development and partnerships
+  - 10% reserved for future burns:
+    Burn will happen in 4 phases. Each phase burns 5% of the tokens sold from the 20% public sale. 🔥
+
+  🚀 Roadmap:
+  - Phase 0 — Launch: Deploy Jetton contract, publish metadata on GitHub, list in TON wallets, and provide initial DEX liquidity.
+  - Phase 1 — Accessibility: List on major TON DEX platforms, activate community channels, attract early holders, and run AMA sessions.
+  - Phase 2 — Adoption: Seek partnerships with Web3 projects, integrate Iranoil into small services, and build simple payment tools.
+  - Phase 3 — Expansion & Burn: Strengthen liquidity, apply for CEX listings once the community is strong, complete smart contract audits, and execute token burns.
+
+logo: "https://raw.githubusercontent.com/bahmansayyad/My_tokens_website/main/iranoil.png"
+address: "EQBUTf9DfUKJZTxOtU4qBj-r82M-Tpx85MsWl2cyzo7EF5Ed"   # Jetton Master
+website: "https://bahmansayyad.github.io/My_tokens_website/"
 socials:
-  telegram: https://t.me/IRANOILofficial
-contract_address: EQBUTf9DfUKJZTxOtU4qBj-r82M-Tpx85MsWl2cyzo7EF5Ed
-network: TON
-verified: true
-metadata_version: 1.0
-explorer: https://tonscan.org/address/EQBUTf9DfUKJZTxOtU4qBj-r82M-Tpx85MsWl2cyzo7EF5Ed
-https://raw.githubusercontent.com/bahmansayyad/My_tokens_website/refs/heads/main/Iranoil%20token%20roadmap
+  twitter: "https://x.com/Iranoiltoken"
+  telegram: "https://t.me/IRANOILofficial"
+  instagram: "https://www.instagram.com/iranoiltoken"
+  discord: ""
+
+team:
+  - id: "B.s"
+    role_en: "Specialist in Digital Currencies & Operations Manager"
+  - id: "P.s"
+    role_en: "Senior Specialist in Marketing & International Trade"
+  - id: "N.s"
+    role_en: "Senior Specialist in International Insurance"
+  - id: "N.p"
+    role_en: "Senior Specialist in Accounting & Finance"
+  - id: "H.p"
+    role_en: "Senior Specialist in International Law"
+  - id: "A.s"
+    role_en: "Senior Specialist in Marketing"
+  - id: "B.s2"
+    role_en: "Program Manager"
+  - id: "F.s"
+    role_en: "Public Relations Manager"
