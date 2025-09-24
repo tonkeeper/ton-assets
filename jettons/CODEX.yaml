@@ -4,13 +4,9 @@ type: Cosmic Token
 address: "0:b0b1c8ec760292c8285ac7e28c97a40efce33ec8bbbc5558a9935a6761edc164"
 decimals: 9
 image: https://storage.dyor.io/jettons/images/1758617667/51997309.png
-description: >-
-  SOS HAS BEEN ACTIVATED From TON618's event horizon, an ancient signal echoes through CODEX ARCANUM. 24 cryptographic puzzles await. Each fragment holds cosmic secrets older than galaxies. Navigate through Telegram mini-apps to unlock dimensional keys and recovery phrases. The ultimate prize: A TonKeeper vault with CODEX tokens - not just currency, but crystallized fragments of universal truth. The cosmic journey begins now.
+description: >
+  SOS HAS BEEN ACTIVATED from TON618's event horizon. 24 cryptographic puzzles await in CODEX ARCANUM. Solve them to unlock cosmic secrets and win CODEX tokens.
 external_url: https://codex.pm
-admin_address:
-  base64url: UQDR8Y2dR_B9kChz4Rj0Slvx5-Jx5NL4Ohg11uK5iZumozcK
-ton_dns: codexarcanum.ton
-owner: Exarchon Arcanum
 network: ton
 status: active
 links:
@@ -20,39 +16,14 @@ links:
   twitter: https://twitter.com/codexarcanum
   bot: https://t.me/CodexGateBot
   app: https://t.me/CodexGateBot/codexArcanum
-  telegram_mini_app: https://t.me/CodexGateBot/codexArcanum
-  telegram_support_bot: https://t.me/CodexCosmicBot
+  support: https://t.me/CodexCosmicBot
   whitepaper: https://codex.pm/whitepaper
   github: https://github.com/Codex-Arcanum/codex-arcanum
-  social:
-    twitter: https://twitter.com/codexarcanum
-    tiktok: https://www.tiktok.com/@codexarcanum
 tokenomics:
   total_supply: "618000000"
-  decimals: 6
-  mintable: true
-  burnable: true
-technical:
-  contract_type: Jetton
-  standards: [TEP-74, TEP-64]
-  compiler: FunC v0.4.0
-verification:
-  signed_by: Exarchon Arcanum
-  signature_type: arc.vault.signature
-  verified: true
+  mintable: false
+  burnable: false
 category: GameFi
 tags: [gaming, puzzle, nft, defi, utility]
-launch_date: 2025-08-25
-project:
-  name: Codex Arcanum
-  tagline: TΩN618 Black Hole Protocol
-  company: Codex Arcanum LLC
-  jurisdiction: United States (Wyoming)
-  support_email: support@codex.pm
-use_cases:
-  - In-game currency for puzzle rewards
-  - NFT minting and trading
-  - Premium hint purchases
-  - Staking for exclusive content access
-  - Governance voting rights
-  - Tournament entry fees
+
+مع توضيح: تم تبسيط وتحديث معلومات العملة، توحيد رقم المنازل العشرية، وتعديل خاصيتي mintable/burnable إلى false بعد الريفوك.
