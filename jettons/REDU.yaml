@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Resistance Duck
 description: "Resistance Duck was created to embody, embolden and champion $TON within Telegram."
 image: "https://raw.githubusercontent.com/ResistanceDuckTon/REDU/main/256x256LOGO.png"
@@ -8,3 +9,14 @@ websites:
 social:
   - "https://t.me/resistanceduck"
   - "https://x.com/REDU_TON"
+=======
+name: DONT
+description: "This is something that cannot be touched. Please do not touch it."
+symbol: DONT
+address: "EQDi8ieFKs69iSiI21CIUtwM9TkZKvr-NfJtrFtqDjO8lG6w"
+websites:
+    - "https://pleasedonttouch.fun"
+social:
+  - "https://t.me/cryptorun"
+  - "https://x.com/PleaseDontTou4"
+>>>>>>> 20eec4f4 (Create REDU.yaml)
