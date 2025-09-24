@@ -2,26 +2,40 @@ name: CODEX ARCANUM
 symbol: CODEX
 type: Cosmic Token
 address: "0:b0b1c8ec760292c8285ac7e28c97a40efce33ec8bbbc5558a9935a6761edc164"
+wallet: "UQDR8Y2dR_B9kChz4Rj0Slvx5-Jx5NL4Ohg11uK5iZumozcK"
 decimals: 9
-image: https://storage.dyor.io/jettons/images/1758617667/51997309.png
-description:
-  SOS HAS BEEN ACTIVATED From TON618's event horizon, an ancient signal echoes through CODEX ARCANUM. 24 cryptographic puzzles await. Each fragment holds cosmic secrets older than galaxies. Navigate through Telegram mini-apps to unlock dimensional portals and cosmic secrets. The ultimate prize: A TonKeeper vault with CODEX tokens TON and NOT - not just currency, but crystallized fragments of universal truth. The cosmic journey begins now.
-external_url: https://codex.pm
-network: ton
-status: active
+image: https://storage.dyor.io/jettons/images/1758740967/75957318.png
+description: SOS HAS BEEN ACTIVATED From TON618 event horizon, an ancient signal echoes through CODEX ARCANUM. 24 cryptographic puzzles await. Each fragment holds cosmic secrets older than galaxies. Navigate through Telegram mini-apps to unlock dimensional portals and cosmic secrets. The ultimate prize A TonKeeper vault with CODEX tokens and TON and NOT - not just currency, but crystallized fragments of universal truth. The cosmic journey begins now.
 links:
-  website: https://codex.pm
-  channel: https://t.me/CodexSouL
-  group: https://t.me/CodexPulse
-  twitter: https://twitter.com/codexarcanum
-  bot: https://t.me/CodexGateBot
-  app: https://t.me/CodexGateBot/codexArcanum
-  support: https://t.me/CodexCosmicBot
-  whitepaper: https://codex.pm/whitepaper
-  github: https://github.com/Codex-Arcanum/codex-arcanum
-tokenomics:
-  total_supply: "618000000"
-  mintable: false
-  burnable: false
-category: GameFi
-tags: [gaming, puzzle, nft, defi, utility]
+  - website: https://codex.pm
+  - channel: https://t.me/CodexSouL
+  - group: https://t.me/CodexPulse
+  - twitter: https://twitter.com/codexarcanum
+  - bot: https://t.me/CodexGateBot
+  - app: https://t.me/CodexGateBot/codexArcanum
+  - support: https://t.me/CodexCosmicBot
+  - whitepaper: https://codex.pm/whitepaper
+  - github: https://github.com/Codex-Arcanum/codex-arcanum
+  - tokenomics: https://codex.pm/tokenomics
+total_supply:
+  - total mint: "618000000"
+  - circulating_supply: "247200000"
+  - mintable: false
+  - burnable: false
+  - category: GameFi
+  - tags: [gaming, puzzle, nft, defi, utility]
+distribution:
+  - name: "35% Public Trading (216,300,000)"
+    wallet: "DEX Liquidity Pools"
+  - name: "25% Project Treasury (154,500,000)"
+    wallet: "UQDR8Y2dR_B9kChz4Rj0Slvx5-Jx5NL4Ohg11uK5iZumozcK"
+  - name: "15% Puzzle & Game Rewards (92,700,000)"
+    wallet: "UQDG3GQPOrQqx07LzQFywL_HkiT7pk-QhK0eeF7AI4ho7RgT"
+  - name: "10% Community Members Rewards (61,800,000)"
+    wallet: "TBD (Distribution Contract)"
+  - name: "5% Grand Prize (30,900,000)"
+    wallet: "TBD (Multi-Sig Escrow)"
+  - name: "5% Marketing & Partnerships (30,900,000)"
+    wallet: "UQBj9ol2R4cGu1aPs30dQRIVKKh2XVsjgXq5_mMy-8zAalPw"
+  - name: "5% Development Team (30,900,000) - Locked 12 months"
+    wallet: "UQB0T0tgHItkzJHLYarxWzItqIjf1WGasBvCh_mTYrtG-lam"
