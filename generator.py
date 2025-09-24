@@ -48,4 +48,3 @@ def normalize_address(a, to_raw):
         addr = raw[2:34]
     elif ":" in a:
         parts = a.split(":")
-        if len
