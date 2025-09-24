@@ -1,8 +1,5 @@
-#!/bin/env python3
-import json
-
-import 
 import glob
+<<<<<<< HEAD
 
 from dexes import __get_stonfi_assets, __get_megaton_assets, __get_dedust_assets
 from utlis import normalize_address
@@ -13,49 +10,29 @@ EXPLORER_COLLECTIONS = "https://tonviewer.com/"
 
 DEXES_FILE_NAME = "imported_from_dex.yaml"
 
+=======
+import yaml
+import json
+import base64
+
+EXPLORER_JETTONS = "https://ton.live/jettons/"
+EXPLORER_COLLECTIONS = "https://ton.live/collections/"
+EXPLORER_ACCOUNTS = "https://ton.live/accounts/"
+>>>>>>> 02af128d (Update generator.py)
 
 def collect_all_dexes():
-    temp, jettons = list(), list()
-    for file in sorted(glob.glob("jettons/*.yaml")):
-        if file.endswith(DEXES_FILE_NAME):
-            continue
-        temp.append(yaml.safe_load(open(file)))
-
-    for item in temp:
-        if isinstance(item, list):
-            jettons.extend(item)
-        else:
-            jettons.append(item)
-
-    already_exist_address = dict()
-    for jetton in jettons:
-        already_exist_address[normalize_address(jetton["address"], True)] = True
-
-    assets = __get_dedust_assets() + __get_stonfi_assets() + __get_megaton_assets()
-    assets_for_save = dict()
-    for idx, asset in enumerate(assets):
-        asset.address = normalize_address(asset.address, True)
-        if already_exist_address.get(asset.address, None):
-            continue
-        assets_for_save[asset.address] = {
-            'name': asset.name,
-            'address': asset.address,
-            'symbol': asset.symbol
-        }
-
-    with open(f"jettons/{DEXES_FILE_NAME}", "w") as yaml_file:
-        yaml.dump(list(sorted(assets_for_save.values(), key=lambda x: x['symbol'])), yaml_file, default_flow_style=False)
-
-ALLOWED_KEYS =  {'symbol', 'name', 'address', 'description', 'image', 'social', 'websites', 'decimals', 'coinmarketcap', 'coingecko'}
+    # Placeholder for your DEX collection logic
+    pass
 
 def merge_jettons():
-    temp = [yaml.safe_load(open(file)) for file in sorted(glob.glob("jettons/*.yaml"))]
+    raw = [yaml.safe_load(open(file)) for file in sorted(glob.glob("jettons/*.yaml"))]
     jettons = []
-    for j in temp:
+    for j in raw:
         if isinstance(j, list):
             jettons.extend(j)
         else:
             jettons.append(j)
+<<<<<<< HEAD
 
     already_exist_address = dict()
     for j in jettons:
@@ -87,10 +64,12 @@ def merge_jettons():
     with open('jettons.json', 'w') as out:
         json.dump(jettons, out, indent=" ", sort_keys=True)
 
+=======
+>>>>>>> 02af128d (Update generator.py)
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in jettons])
 
-
 def merge_accounts(accounts):
+<<<<<<< HEAD
     main_page = list()
     for file in ('accounts/infrastructure.yaml', 'accounts/defi.yaml', 'accounts/celebrities.yaml'):
         accs = yaml.safe_load(open(file))
@@ -105,10 +84,12 @@ def merge_accounts(accounts):
     for account in accounts:
         account['address'] = normalize_address(account['address'], True)
 
+=======
+    # Adjust or fill accounts if needed
+>>>>>>> 02af128d (Update generator.py)
     with open('accounts.json', 'w') as out:
         json.dump(accounts, out, indent=" ", sort_keys=True)
-    return main_page
-
+    return accounts
 
 def merge_collections():
     raw = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
@@ -128,6 +109,7 @@ def merge_collections():
 
     return sorted([(c.get('name', 'unknown'), c.get('address', 'unknown')) for c in collections])
 
+<<<<<<< HEAD
 
 def main():
     if len([x for x in glob.glob("*.yaml")]) > 0:
@@ -145,3 +127,15 @@ def main():
 
 if __name__ == '__main__':
     main()
+=======
+def normalize_address(a, to_raw):
+    if len(a) == 48:
+        raw = base64.urlsafe_b64decode(a)
+        workchain = raw[1]
+        if workchain == 255:
+            workchain = -1
+        addr = raw[2:34]
+    elif ":" in a:
+        parts = a.split(":")
+        if len
+>>>>>>> 02af128d (Update generator.py)
