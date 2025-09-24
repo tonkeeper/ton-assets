@@ -1,0 +1,10 @@
+name: Merge Token
+description: The official token of the Merge Pals universe.
+image: "https://cdn.mirailabs.co/merge-pals/MERGE.png"
+address: EQCvCDFaKVqFB4eSM1r2pHHWAU-NjcbU6vDDUUsTQKqIjGa8
+symbol: MERGE
+websites:
+  - "https://mergepals.io"
+social:
+  - "https://x.com/MergePals"
+  - "https://t.me/mergepalsbot"

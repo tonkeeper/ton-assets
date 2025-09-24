@@ -353,3 +353,58 @@
   name: "Wallet in Telegram"
   require_memo: true
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQBtsPAiYytiafDU2_jqYKhEi7wrz8aBLjGvjMZAXCaK91YS"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQDdb_AsWWNHRVKbmajVvu6p9sOKkYjmp-lqQk44IMisCnMY"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQACOJWu-VUCSSCikcbzcV4pHfGz3SVOr6iwniGi1Y1Yl6jF"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQD1BmMYCRqM-1MOxzIQTOOPd4PZKmZ5_8wM4JYLDpTH0GcG"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAMVoQ1X1QQqSP7fdWTFJBdx_8VeyjJEwZxx6TxcAfomE1N"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAj_lWM30Qkk4Gu82Ry5kpQcqJLqX-2Gy9XkdpgE67JLZOc"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQC3vnGsG0DkNts2ch2cIOgtROePwehqitFeALHMFoMdz3pW"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQBVtyI_BN0fLhs_KOStYo_myrYABPKA-wpYzSf8WQsurJs8"
+  name: "Wallet in Telegram"
+  require_memo: true
+  image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg"
+- address: "UQAeuGnYTvbX-IaCvMIsZYgV6TN1ECAAhTUZJ7F0YTjjdBYx"
+  name: "TEC Pay"
+  require_memo: true
+  image: "https://cdn.tonexpert.club/logo_solid.svg"
+- address: "UQDwacBggisEQ-h-HW63UiI9mtIA-lRAT1upXPioiyhCkNdf"
+  name: "Merchant WebMoney"
+  require_memo: true
+- address: "UQA9LLdOBB3wVgRdO6S-9lD5OMVT24bR2rH4C8nCOP4__rPr"
+  name: "Rapira"
+  require_memo: false
+  image: "https://storage.yandexcloud.net/rpublic/logo.svg"
+- address: "UQBwhUXO-PwBGAIllqBWBEphgz6SNhO_cP0eJfAz_v2KPEyB"
+  name: "Rapira"
+  require_memo: false
+  image: "https://storage.yandexcloud.net/rpublic/logo.svg"
+- address: "EQBlnb9GCDGnJ5XEqamHL7Sj5_0wJ4MGja5T6PKlwVAISgrW"
+  name: "Flipster Deposit"
+  require_memo: true
+- address: "EQDQpuuVQI6Vzpewyll_xSP_SAlSNjXo9RngD9y99C8MVJri"
+  name: "Flipster Withdrawal"
+- address: "EQCBdDjlsObrETq3TXP8lffsGSR9vm7iekLD0BZNYUw8oRAU"
+  name: "Ourbit"
+  require_memo: true

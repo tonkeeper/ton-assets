@@ -156,8 +156,24 @@
   "name": "STON.fi Dex"
  },
  {
+  "address": "0:70a4118401bf8d823531a66011020565f02e05ff91ac5f1677769b00d6acd07a",
+  "name": "STON.fi Dex"
+ },
+ {
   "address": "0:bffadd270a738531da7b13ba8fc403826c2586173f9ede9c316fab53bc59ac86",
   "name": "TONCO"
+ },
+ {
+  "address": "0:9a9cb80adfbd1662f5108766d73355ac2c03304fda1d25a479670e34efcd72b3",
+  "name": "Marketapp Marketplace"
+ },
+ {
+  "address": "0:04f3c1c795ac8905e31734362b149875ab9522ae5383ab7abb2e10da5da8ba82",
+  "name": "Portals Marketplace"
+ },
+ {
+  "address": "0:310569f85cd583d93c98c59de87d28c6965f5412eb43a4d4e80313226f8bd4c7",
+  "name": "Thermos"
  },
  {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
@@ -851,6 +867,91 @@
   "require_memo": true
  },
  {
+  "address": "0:6db0f022632b6269f0d4dbf8ea60a8448bbc2bcfc6812e31af8cc6405c268af7",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:dd6ff02c59634745529b99a8d5beeea9f6c38a9188e6a7e96a424e3820c8ac0a",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:023895aef955024920a291c6f3715e291df1b3dd254eafa8b09e21a2d58d5897",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:f5066318091a8cfb530ec732104ce38f7783d92a6679ffcc0ce0960b0e94c7d0",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:0c5684355f5410a923fb7dd59314905dc7ff157b28c9130671c7a4f17007e898",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:23fe558cdf44249381aef36472e64a5072a24ba97fb61b2f5791da6013aec92d",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:b7be71ac1b40e436db36721d9c20e82d44e78fc1e86a8ad15e00b1cc16831dcf",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:55b7223f04dd1f2e1b3f28e4ad628fe6cab60004f280fb0a58cd27fc590b2eac",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/wallet_bot_288.svg",
+  "name": "Wallet in Telegram",
+  "require_memo": true
+ },
+ {
+  "address": "0:1eb869d84ef6d7f88682bcc22c658815e9337510200085351927b1746138e374",
+  "image": "https://cdn.tonexpert.club/logo_solid.svg",
+  "name": "TEC Pay",
+  "require_memo": true
+ },
+ {
+  "address": "0:f069c060822b0443e87e1d6eb752223d9ad200fa54404f5ba95cf8a88b284290",
+  "name": "Merchant WebMoney",
+  "require_memo": true
+ },
+ {
+  "address": "0:3d2cb74e041df056045d3ba4bef650f938c553db86d1dab1f80bc9c238fe3ffe",
+  "image": "https://storage.yandexcloud.net/rpublic/logo.svg",
+  "name": "Rapira",
+  "require_memo": false
+ },
+ {
+  "address": "0:708545cef8fc0118022596a056044a61833e923613bf70fd1e25f033fefd8a3c",
+  "image": "https://storage.yandexcloud.net/rpublic/logo.svg",
+  "name": "Rapira",
+  "require_memo": false
+ },
+ {
+  "address": "0:659dbf460831a72795c4a9a9872fb4a3e7fd302783068dae53e8f2a5c150084a",
+  "name": "Flipster Deposit",
+  "require_memo": true
+ },
+ {
+  "address": "0:d0a6eb95408e95ce97b0ca597fc523ff4809523635e8f519e00fdcbdf42f0c54",
+  "name": "Flipster Withdrawal"
+ },
+ {
+  "address": "0:817438e5b0e6eb113ab74d73fc95f7ec19247dbe6ee27a42c3d0164d614c3ca1",
+  "name": "Ourbit",
+  "require_memo": true
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
@@ -1244,5 +1345,10 @@
   "address": "0:ef64bfe2a6518bef63a7d62a50747e8a73a10472b84227426935da3aebdf909e",
   "image": "https://totemancer.com/ton/tc.png",
   "name": "Totemancer"
+ },
+ {
+  "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
+  "image": "https://tonstakers.com/jetton/logo.svg",
+  "name": "Tonstakers master"
  }
 ]
