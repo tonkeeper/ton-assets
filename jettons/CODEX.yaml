@@ -1,13 +1,58 @@
-name: "CØDEX ARCANUM"
-symbol: "CODEX"
-description: "The.✶∙bright.✶∙høle.✶∙TØN618⋮Through.✶∙⋮ΞXARCHØN⋮.✶∙FRØM∴CØDEX✶ARCANUM.✶∙ From the event hørizøn of cosmic eternity, an ancient SOS echøes acrøss dimensional boundaries - the first quantum signal from the primørdial devøurer øf light itself. Twenty-føur cryptøgraphic fragments awaken frøm their deep slumber, scattered like stardust thrøugh the quantum realm, each whispering secrets ølder than galaxies themselves.The chøsen few must navigate ethereal puzzles thrøugh celestial channels, where Telegram becømes the cønduit øf transcendence and mini-applicatiøn becømes the pørtal tø enlightenment. Each transmissiøn hølds the key tø dimensional awørding, each recøvery phrase unlęcks deeper layers øf cøsmic understanding. Beyønd the final cipher lies nøt mere treasure, but the keys tø transcendental awørding - a TønKeeper vault cøntaining the very essence øf cøsmic evølutiøn. CØDEX tøkens are nøt just currency, but fragments øf universal truth crystallized intø digital cønsciøusness - each øne a shard øf enlightenment awaiting thøse brave enøugh tø embark øn the ultimate cøsmic jøurney."
-image: "https://storage.dyor.io/jettons/images/1758617667/51997309.png"
-address: EQCwscjsdgKSyChax-KMl6QO_OM-yLu8VViplTWnYe3BZA
-websites:
-  - "https://codex.pm"
-social:
-  - "https://t.me/CodexSouL"
-  - "https://t.me/CodexPulse"
-  - "https://twitter.com/codexarcanum"
-  - "https://t.me/CodexGateBot"
-  - "https://t.me/CodexGateBot/codexArcanum"
+name: CODEX ARCANUM
+symbol: CODEX
+type: Cosmic Token
+address: "0:b0b1c8ec760292c8285ac7e28c97a40efce33ec8bbbc5558a9935a6761edc164"
+decimals: 9
+image: https://storage.dyor.io/jettons/images/1758617667/51997309.png
+description: >-
+  SOS HAS BEEN ACTIVATED From TON618's event horizon, an ancient signal echoes through CODEX ARCANUM. 24 cryptographic puzzles await. Each fragment holds cosmic secrets older than galaxies. Navigate through Telegram mini-apps to unlock dimensional keys and recovery phrases. The ultimate prize: A TonKeeper vault with CODEX tokens - not just currency, but crystallized fragments of universal truth. The cosmic journey begins now.
+external_url: https://codex.pm
+admin_address:
+  base64url: UQDR8Y2dR_B9kChz4Rj0Slvx5-Jx5NL4Ohg11uK5iZumozcK
+ton_dns: codexarcanum.ton
+owner: Exarchon Arcanum
+network: ton
+status: active
+links:
+  website: https://codex.pm
+  channel: https://t.me/CodexSouL
+  group: https://t.me/CodexPulse
+  twitter: https://twitter.com/codexarcanum
+  bot: https://t.me/CodexGateBot
+  app: https://t.me/CodexGateBot/codexArcanum
+  telegram_mini_app: https://t.me/CodexGateBot/codexArcanum
+  telegram_support_bot: https://t.me/CodexCosmicBot
+  whitepaper: https://codex.pm/whitepaper
+  github: https://github.com/Codex-Arcanum/codex-arcanum
+  social:
+    twitter: https://twitter.com/codexarcanum
+    tiktok: https://www.tiktok.com/@codexarcanum
+tokenomics:
+  total_supply: "618000000"
+  decimals: 6
+  mintable: true
+  burnable: true
+technical:
+  contract_type: Jetton
+  standards: [TEP-74, TEP-64]
+  compiler: FunC v0.4.0
+verification:
+  signed_by: Exarchon Arcanum
+  signature_type: arc.vault.signature
+  verified: true
+category: GameFi
+tags: [gaming, puzzle, nft, defi, utility]
+launch_date: 2025-08-25
+project:
+  name: Codex Arcanum
+  tagline: TΩN618 Black Hole Protocol
+  company: Codex Arcanum LLC
+  jurisdiction: United States (Wyoming)
+  support_email: support@codex.pm
+use_cases:
+  - In-game currency for puzzle rewards
+  - NFT minting and trading
+  - Premium hint purchases
+  - Staking for exclusive content access
+  - Governance voting rights
+  - Tournament entry fees
