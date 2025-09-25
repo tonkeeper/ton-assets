@@ -4116,6 +4116,20 @@
   "symbol": "KUTI"
  },
  {
+  "address": "0:a9d576a8270787d5849330129dc9fcb959d3ee4447d275d9eebe7f4cbaf86b8d",
+  "description": "This is Labubu Fan token, created for Ton community. The character Labubu appears in \"The Monsters\" series of stories written by Hong Kong-born artist Kasing Lung.  He developed this universe in 2015, drawing inspiration from Nordic fairy tales, and its characters are based on elves, fairies, and monsters.",
+  "image": "https://staging-jubilee.flickr.com/65535/54660938777_a541332651_b.jpg",
+  "name": "LABUBU ON TON",
+  "social": [
+   " t.me/Labubuontonn",
+   " x.com/Labubuonton/"
+  ],
+  "symbol": "LABUBU",
+  "websites": [
+   "https://labubuonton.carrd.co/"
+  ]
+ },
+ {
   "address": "0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0",
   "description": "Laika is one of the oldest memecoins on TON, celebrating and honoring the first dog sent to space. Distributed through airdrops, don't buy expecting financial returns.",
   "image": "https://raw.githubusercontent.com/LaikaToTheMoon/Laika/main/LaikaResized.png",
