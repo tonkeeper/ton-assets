@@ -1,0 +1,55 @@
+name: IRANOIL
+symbol: IROILTOKEN
+decimals: 9
+description: >
+  IRANOIL is a utility token on the TON blockchain, inspired by the
+  strategic value of crude oil. With a fixed total supply of
+  20,000,000,000 units (twenty billion) and 9 decimals, IRANOIL
+  aims to serve as a transparent, fast, and secure foundation for
+  transactions, investments, and energy-related projects within
+  the Web3 ecosystem.
+
+  50% of the total supply (10,000,000,000 tokens) has been distributed
+  across 21 different wallet addresses to ensure decentralization and
+  transparency. The remaining supply will be allocated to DEX liquidity,
+  community incentives, and token burn events according to the roadmap.
+
+address: EQBUTf9DfUKJZTxOtU4qBj-r82M-Tpx85MsWl2cyzo7EF5Ed
+
+logo: "https://i.postimg.cc/bJ7mCD5Z/file-000000000c0c6243b9263765619cddcb-2.png"
+email: "IRANOILTOKEN@gmail.com"
+roadmap_html: "https://raw.githubusercontent.com/IRANOILtoken/iranoil.github.io/main/ROADMAP.HTML"
+
+socials:
+  telegram: "https://t.me/IRANOILofficial"
+  instagram: "https://www.instagram.com/iranoiltoken"
+  twitter: "https://x.com/Iranoiltoken"
+  github: "https://github.com/IRANOILtoken"
+
+team:
+  - name: B.s
+    role: Digital Assets Specialist & Project Manager
+  - name: P.s
+    role: Senior Expert in Marketing & Global Trade
+  - name: N.s
+    role: Senior Expert in International Insurance
+  - name: N.p
+    role: Senior Expert in Accounting & Finance
+  - name: H.p
+    role: Senior Expert in International Law
+  - name: A.s
+    role: Senior Marketing Specialist
+  - name: B.s2
+    role: Project Program Manager
+  - name: F.s
+    role: Public Relations Manager
+
+roadmap:
+  - phase: "🚀 Phase 0 — Launch"
+    details: "Deploy Jetton contract, publish metadata on GitHub, list in TON wallets, and provide initial DEX liquidity."
+  - phase: "👥 Phase 1 — Accessibility"
+    details: "List on major TON DEX platforms, activate community channels, attract early holders, and run AMA sessions."
+  - phase: "🔗 Phase 2 — Adoption"
+    details: "Seek partnerships with Web3 projects, integrate Iranoil into small services, and build simple payment tools."
+  - phase: "🌍 Phase 3 — Expansion"
+    details: "Strengthen liquidity, apply for CEX listings once the community is strong, and complete smart contract audits."
