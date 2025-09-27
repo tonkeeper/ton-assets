@@ -1,9 +1,9 @@
 # TON Assets
-
+BTON
 This is a list of popular addresses and assets. We are open to pull request but **please read manual in the end of this readme for PR**.
-
+TON Explorer: Bitcoin Ton https://share.google/hsyuzuE0nhvv2VJEp
 ## Addresses
-
+EQAgvpPE4AyI2Wgs-VBmnSrMOpTYbIHEj0t5_OzQSCYMid2a
 Short list. Full in [accounts.json](accounts.json)
 
 Name           | Address
