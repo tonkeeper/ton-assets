@@ -525,6 +525,23 @@
   ]
  },
  {
+  "address": "0:b73912d86164dbbdedeedc2ee761442d6edd55bfbaf59dacf43613d84e2e99f7",
+  "decimals": 9,
+  "description": "The First Alien Meme Coin Going to the Moon",
+  "image": "https://blue-big-ox-127.mypinata.cloud/ipfs/bafkreidqt2gobiwsarjsrq3eh5ghns3xmo2ejnj23igyuibsezqz622qbi",
+  "name": "Ariacoin",
+  "social": [
+   "https://t.me/ariaonton",
+   "https://x.com/AriaonTon",
+   "https://www.ariacoin.io/",
+   "https://t.me/AriaLandBot"
+  ],
+  "symbol": "ARIA",
+  "websites": [
+   "https://www.ariacoin.io/"
+  ]
+ },
+ {
   "address": "0:11e38e6a782788fd80d7231b6bf0650bf1bc103f8536bb2057ff4d88da942fea",
   "description": "Ultimate RPG on TON.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqar445qecei_ydxixtr8gul8bwqp4u2uybx_02i2pqv6t2o.png?size=lg&key=bb5be9",
