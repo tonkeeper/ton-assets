@@ -11,9 +11,6 @@
 **Logo**  
 ![DONKEY TON Logo](assets/logo.png)
 
-## Proof
-The proof file for the token can be found in proofs/proof.json.
-=======
 **Proof**  
 The proof file for the token can be found in `proofs/proof.json`.
 
