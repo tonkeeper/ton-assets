@@ -211,6 +211,20 @@
   ]
  },
  {
+  "address": "0:c5ca7aecb7380b32151c409b119e087c4d75cd95dea4dee4f9efdd0db9540088",
+  "description": "SmartCoinStrategy $SMART A community-driven token empowering investors to start with Cryptocurrencies.",
+  "image": "https://smartcoinstrategy.com/wp-content/uploads/2025/09/smartcoinstrategy-logo-black.jpeg",
+  "name": "$SMART",
+  "social": [
+   "https://t.me/smart_coin_strategy",
+   "https://x.com/smartcoinstrat1"
+  ],
+  "symbol": "$SMART",
+  "websites": [
+   "https://smartcoinstrategy.com/"
+  ]
+ },
+ {
   "address": "0:9c559870b490faf34c8d16de6a61a97d010c609d434bdc5f54e65539f5eeab7e",
   "description": "Utility-token for the 13th Floor TG Game. Shape the Game's future before the Airdrop, while your Avatar is still earning money for you. Trade and Hold for in-game bonuses, purchases, NFTs, and increased chances in the main 13th Floor Airdrop.",
   "image": "https://d8bddedf-ac40-4488-8101-05035bb63d25.selstorage.ru/BlackLogo.png",
@@ -4102,6 +4116,20 @@
   "symbol": "KUTI"
  },
  {
+  "address": "0:a9d576a8270787d5849330129dc9fcb959d3ee4447d275d9eebe7f4cbaf86b8d",
+  "description": "This is Labubu Fan token, created for Ton community. The character Labubu appears in \"The Monsters\" series of stories written by Hong Kong-born artist Kasing Lung.  He developed this universe in 2015, drawing inspiration from Nordic fairy tales, and its characters are based on elves, fairies, and monsters.",
+  "image": "https://staging-jubilee.flickr.com/65535/54660938777_a541332651_b.jpg",
+  "name": "LABUBU ON TON",
+  "social": [
+   " t.me/Labubuontonn",
+   " x.com/Labubuonton/"
+  ],
+  "symbol": "LABUBU",
+  "websites": [
+   "https://labubuonton.carrd.co/"
+  ]
+ },
+ {
   "address": "0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0",
   "description": "Laika is one of the oldest memecoins on TON, celebrating and honoring the first dog sent to space. Distributed through airdrops, don't buy expecting financial returns.",
   "image": "https://raw.githubusercontent.com/LaikaToTheMoon/Laika/main/LaikaResized.png",
@@ -5614,6 +5642,17 @@
   "websites": [
    "https://plushpepe.finance"
   ]
+ },
+ {
+  "address": "0:9b8152a406153cbe7720c9ec4a70033a8cfef408677383e7376f60bd3c1663f2",
+  "description": "The plush duck, swimming with Telegram on the $TON blockchain",
+  "image": "https://i.ibb.co/rR60GS32/n3bka3l49ro005bkno5udp4cwn36.jpg",
+  "name": "PLUSHUTYA",
+  "social": [
+   "https://x.com/plushutyacto",
+   "https://t.me/PlushUtyaCTO"
+  ],
+  "symbol": "PLUSHUTYA"
  },
  {
   "address": "0:884c38250bbb5e6aa9e87bd800ebc8de603048ba2ab03dcc8d12fd90cc92383a",
