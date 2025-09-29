@@ -3465,6 +3465,17 @@
   "symbol": "GIFT"
  },
  {
+  "address": "0:3d55029b8f831207493eeec2b552b6322209fd527529197a5472405ef7ea2c97",
+  "description": "The Degen Engine for Telegram Gifts on TON blockchain. 10 percent tax on every buy and sell, cry about it.",
+  "image": "https://i.ibb.co/twL0RSdX/1.png",
+  "name": "Gifts Strategy",
+  "social": [
+   "https://t.me/giftsfomo",
+   "https://x.com/giftsfomo"
+  ],
+  "symbol": "GIFTSTR"
+ },
+ {
   "address": "0:711d8ce05242df2e4ae6498b4e08dc6bf20ac0ec96a0be6dea96d2b73356aba5",
   "description": "Glitch ($GLITCH) \u2014 a meme coin on the $TON blockchain, embodying the chaos and bugs of the crypto world. Unstable and unpredictable, it reflects the absurdity and volatility of the market.",
   "image": "https://raw.githubusercontent.com/ilavlu/Glitch/main/images/glitchimage.jpg",
