@@ -1,1 +1,7 @@
-{"image": "ضع رابط الصورة هنا","notes": "اكتب ملاحظاتك هنا"}
+{
+  "name": "Aureum",
+  "symbol": "AUR",
+  "decimals": 9,
+  "image": "https://fuchsia-glad-buzzard-400.mypinata.cloud/ipfs/bafkreie622526aabyaikslis5eoywvfr6h2loeiwgqowljj5ageliimj2e",
+  "description": "Aureum (AUR) is the digital symbol of value and trust on the TON blockchain. Inspired by the Latin word for 'gold', Aureum represents stability, growth, and a strong community vision. With a fixed supply of 1 billion tokens and 9 decimals, AUR is designed to be a modern store of value and a community-driven currency inside the TON ecosystem. Hold, trade, and build the future with Aureum."
+}
