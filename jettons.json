@@ -8011,6 +8011,20 @@
   "symbol": "Tnr"
  },
  {
+  "address": "0:32507ed035d5afb7b85810d924a7cf1bda811ffd15e2ce519663e28f5b307556",
+  "description": "Empowering TON fam!",
+  "image": "https://tonfi.space/tonfi-logo.png",
+  "name": "TonFi",
+  "social": [
+   "https://t.me/Tonfiportal",
+   "https://x.com/_TonFi"
+  ],
+  "symbol": "TONFI",
+  "websites": [
+   "https://tonfi.space"
+  ]
+ },
+ {
   "address": "0:446ca9b9cfe4f9a6ccfc891b424588c31fe3866d102c7e142d74a7f599ad9da9",
   "description": "TryTON is a project aimed at popularizing the TON network among participants from other networks through its applications: wallet, bridge, and AirDrop game.",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GplVmGPFy2aa2ZRvYm-uxoC4I2Q1H674Gym4DxDqdPmGUBovLHnIoDHiPG72ORx8PAYTk7HPtlqH1Do-c8CMG-GhxiIOl8XAl6cTv5DnKnh_RVGdvJVyWF9B2BjLBvYNz8rxrcYD-GxbcqjGhbB9ID0IKKoevalLlFMo4y1S1B5IccbGDn7S922-YcQq/s320/ava_01.jpg",
