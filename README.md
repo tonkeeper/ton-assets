@@ -9,7 +9,7 @@
 - Max Supply: 99,901,000,889 DONT  
 
 **Logo**  
-![DONKEY TON Logo](assets/logo.png)
+![DONKEY TON Logo][def]
 
 **Proof**  
 The proof file for the token can be found in `proofs/proof.json`.
@@ -17,3 +17,6 @@ The proof file for the token can be found in `proofs/proof.json`.
 **Description**  
 DONKEY TON (DONT) is a fungible token deployed on the TON blockchain.  
 All token information including contract address, symbol, decimals, and logo are provided for verification.
+
+
+[def]: assets/logo.png
