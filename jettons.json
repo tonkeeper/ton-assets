@@ -525,6 +525,23 @@
   ]
  },
  {
+  "address": "0:b73912d86164dbbdedeedc2ee761442d6edd55bfbaf59dacf43613d84e2e99f7",
+  "decimals": 9,
+  "description": "The First Alien Meme Coin Going to the Moon",
+  "image": "https://blue-big-ox-127.mypinata.cloud/ipfs/bafkreidqt2gobiwsarjsrq3eh5ghns3xmo2ejnj23igyuibsezqz622qbi",
+  "name": "Ariacoin",
+  "social": [
+   "https://t.me/ariaonton",
+   "https://x.com/AriaonTon",
+   "https://www.ariacoin.io/",
+   "https://t.me/AriaLandBot"
+  ],
+  "symbol": "ARIA",
+  "websites": [
+   "https://www.ariacoin.io/"
+  ]
+ },
+ {
   "address": "0:11e38e6a782788fd80d7231b6bf0650bf1bc103f8536bb2057ff4d88da942fea",
   "description": "Ultimate RPG on TON.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqar445qecei_ydxixtr8gul8bwqp4u2uybx_02i2pqv6t2o.png?size=lg&key=bb5be9",
@@ -869,6 +886,20 @@
   ]
  },
  {
+  "address": "0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc",
+  "description": "One magical night at a concert, MAN was captivated by a girl\u2019s enchanting gaze. Drawn together, they shared a dance and formed a deep, intimate bond under the stars. From their passion, Baby Lady was born\u2014a token blending the elegance of Lady Token and the strength of Gentlemen Token.",
+  "image": "https://pbs.twimg.com/media/GQHq5sobcAAjYs_?format=jpg&name=360x360",
+  "name": "Baby Lady",
+  "social": [
+   "https://t.me/Babyladyonton",
+   " https://x.com/BabyLadyTon"
+  ],
+  "symbol": "BBLady",
+  "websites": [
+   "http://babyladyton.xyz"
+  ]
+ },
+ {
   "address": "0:f6111725910e67ea5bf72ad85d6eadc268e3929a563bcd07306066bdad320aec",
   "description": "BBQ COIN",
   "image": "https://bbqcoin.pages.dev/bbqcoin.png",
@@ -920,6 +951,20 @@
   "symbol": "BCAT",
   "websites": [
    "https://www.blackcatmeme.com/"
+  ]
+ },
+ {
+  "address": "0:07fe182f996596e637082cf20879cdd325c538a2565998e2def489b022fcfbb3",
+  "description": "Bulldog (BDOG) is the utility token of the Bulldog ecosystem, used in the mini app and for NFT collections within the platform.",
+  "image": "https://i.ibb.co/FkzK7LVz/256.png",
+  "name": "BULLDOG",
+  "social": [
+   "https://t.me/smarty_crypto",
+   "https://x.com/Bdogcommunity"
+  ],
+  "symbol": "BDOG",
+  "websites": [
+   "https://bulldogcommunity.fun"
   ]
  },
  {
@@ -1365,6 +1410,21 @@
    "https://t.me/birbcointon"
   ],
   "symbol": "BIRB"
+ },
+ {
+  "address": "0:54620b347dafed48edc2662c0dee57902f89170681db1a2828112c513534e446",
+  "description": "Blazium (BLZ) is a Web3 token used for gaming, staking, XP conversion, and digital payments inside the Blazium Ecosystem, designed to reward players and developers while remaining deflationary. ",
+  "image": "https://blaziumapp.xyz/blzlogo.jpg",
+  "name": "Blazium",
+  "social": [
+   "https://t.me/BLAZIUMCRYPTO",
+   "https://t.me/blaziumtoken",
+   "https://x.com/BLAZIUMCRYPTO"
+  ],
+  "symbol": "BLZ",
+  "websites": [
+   "https://blaziumecosystem.vercel.app/"
+  ]
  },
  {
   "address": "0:a01ff17431ffc210d38c3c502c06ca85fc16a3f1991ba5243937a95181f45d94",
@@ -3405,6 +3465,17 @@
   "symbol": "GIFT"
  },
  {
+  "address": "0:3d55029b8f831207493eeec2b552b6322209fd527529197a5472405ef7ea2c97",
+  "description": "The Degen Engine for Telegram Gifts on TON blockchain. 10 percent tax on every buy and sell, cry about it.",
+  "image": "https://i.ibb.co/twL0RSdX/1.png",
+  "name": "Gifts Strategy",
+  "social": [
+   "https://t.me/giftsfomo",
+   "https://x.com/giftsfomo"
+  ],
+  "symbol": "GIFTSTR"
+ },
+ {
   "address": "0:711d8ce05242df2e4ae6498b4e08dc6bf20ac0ec96a0be6dea96d2b73356aba5",
   "description": "Glitch ($GLITCH) \u2014 a meme coin on the $TON blockchain, embodying the chaos and bugs of the crypto world. Unstable and unpredictable, it reflects the absurdity and volatility of the market.",
   "image": "https://raw.githubusercontent.com/ilavlu/Glitch/main/images/glitchimage.jpg",
@@ -4218,6 +4289,20 @@
   ]
  },
  {
+  "address": "0:74aaf6919f1157e68f4eade5d966cd1012be29b59701c02e34c1f81ddc6a759f",
+  "description": "Liberty Dog is a memecoin on TON inspired by the idea of Digital Freedom, created for the community to trade, share, and have fun.",
+  "image": "https://i.ibb.co/d00TKJSd/lidotonviewer.jpg",
+  "name": "Liberty Dog",
+  "social": [
+   "https://t.me/libertydogportal",
+   "https://x.com/lidotoken"
+  ],
+  "symbol": "LIDO",
+  "websites": [
+   "https://lidoton.com"
+  ]
+ },
+ {
   "address": "0:1dce4ea36852dd2ca85d6bd939edc177203d4c584ec364650ff8acf792591baa",
   "description": "$LIGHT aims to inspire users to be honest, transparent, and strive for growth. Together with $DARK, it creates a unique ecosystem where light and darkness intertwine, giving meaning to every action.",
   "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/light.jpg",
@@ -4367,6 +4452,66 @@
   "symbol": "$TTS-TON LP",
   "websites": [
    "https://thetokenspark.tilda.ws/"
+  ]
+ },
+ {
+  "address": "0:6c0e8315b6b7d959a0d5fe4166f2cdca164cf72318519b2ed2992d4c5111673d",
+  "decimals": 9,
+  "description": "Liquidity pool token for ArtsivTON and Hamster Kombat on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:6c0e8315b6b7d959a0d5fe4166f2cdca164cf72318519b2ed2992d4c5111673d.png",
+  "name": "LP Token for ARTSIV-HMSTR",
+  "social": [
+   "https://t.me/ArtsivTON",
+   "https://t.me/artsivtonchat"
+  ],
+  "symbol": "ARTSIV-HMSTR LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQBsDoMVtrfZWaDV_kFm8s3KFkz3IxhRmy7SmS1MURFnPVZY"
+  ]
+ },
+ {
+  "address": "0:4e700020f22343547dd14215a59b10762dc78523ca743a540937fe61ad895575",
+  "decimals": 9,
+  "description": "Liquidity pool token for ArtsivTON and Notcoin on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:4e700020f22343547dd14215a59b10762dc78523ca743a540937fe61ad895575.png",
+  "name": "ARTSIV-NOT LP",
+  "social": [
+   "https://t.me/ArtsivTON",
+   "https://t.me/artsivtonchat"
+  ],
+  "symbol": "ARTSIV-NOT LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQBOcAAg8iNDVH3RQhWlmxB2LceFI8p0OlQJN_5hrYlVdYEt"
+  ]
+ },
+ {
+  "address": "0:22299b48db5374559629221d5fc192d47df57c442beaa83a0f5ccacc8ea13b4b",
+  "decimals": 9,
+  "description": "Liquidity pool token for ArtsivTON and Resistance Dog on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:22299b48db5374559629221d5fc192d47df57c442beaa83a0f5ccacc8ea13b4b.png",
+  "name": "LP Token for ARTSIV-REDO",
+  "social": [
+   "https://t.me/ArtsivTON",
+   "https://t.me/artsivtonchat"
+  ],
+  "symbol": "ARTSIV-REDO LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQAiKZtI21N0VZYpIh1fwZLUffV8RCvqqDoPXMrMjqE7S6uS"
+  ]
+ },
+ {
+  "address": "0:236291738e9ec7ef6c983ec799f2e564d48aa4f9196ed23ba13dd8b0a90514ba",
+  "decimals": 9,
+  "description": "Liquidity pool token for ArtsivTON and Proxy TON on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:236291738e9ec7ef6c983ec799f2e564d48aa4f9196ed23ba13dd8b0a90514ba.png",
+  "name": "LP Token for ARTSIV-pTON",
+  "social": [
+   "https://t.me/ArtsivTON",
+   "https://t.me/artsivtonchat"
+  ],
+  "symbol": "ARTSIV-pTON LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQAjYpFzjp7H72yYPseZ8uVk1Iqk-Rlu0juhPdiwqQUUukXC"
   ]
  },
  {
@@ -7864,6 +8009,20 @@
    "https://t.me/tenerechat"
   ],
   "symbol": "Tnr"
+ },
+ {
+  "address": "0:32507ed035d5afb7b85810d924a7cf1bda811ffd15e2ce519663e28f5b307556",
+  "description": "Empowering TON fam!",
+  "image": "https://tonfi.space/tonfi-logo.png",
+  "name": "TonFi",
+  "social": [
+   "https://t.me/Tonfiportal",
+   "https://x.com/_TonFi"
+  ],
+  "symbol": "TONFI",
+  "websites": [
+   "https://tonfi.space"
+  ]
  },
  {
   "address": "0:446ca9b9cfe4f9a6ccfc891b424588c31fe3866d102c7e142d74a7f599ad9da9",
