@@ -4398,6 +4398,36 @@
   ]
  },
  {
+  "address": "0:6c0e8315b6b7d959a0d5fe4166f2cdca164cf72318519b2ed2992d4c5111673d",
+  "decimals": 9,
+  "description": "Liquidity pool token for ArtsivTON and Hamster Kombat on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:6c0e8315b6b7d959a0d5fe4166f2cdca164cf72318519b2ed2992d4c5111673d.png",
+  "name": "LP Token for ARTSIV-HMSTR",
+  "social": [
+   "https://t.me/ArtsivTON",
+   "https://t.me/artsivtonchat"
+  ],
+  "symbol": "ARTSIV-HMSTR LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQBsDoMVtrfZWaDV_kFm8s3KFkz3IxhRmy7SmS1MURFnPVZY"
+  ]
+ },
+ {
+  "address": "0:4e700020f22343547dd14215a59b10762dc78523ca743a540937fe61ad895575",
+  "decimals": 9,
+  "description": "Liquidity pool token for ArtsivTON and Notcoin on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:4e700020f22343547dd14215a59b10762dc78523ca743a540937fe61ad895575.png",
+  "name": "ARTSIV-NOT LP",
+  "social": [
+   "https://t.me/ArtsivTON",
+   "https://t.me/artsivtonchat"
+  ],
+  "symbol": "ARTSIV-NOT LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQBOcAAg8iNDVH3RQhWlmxB2LceFI8p0OlQJN_5hrYlVdYEt"
+  ]
+ },
+ {
   "address": "0:d30bc8eaf594982f618540bec24633ceff995b6bcd2b667908d09cda95c1305e",
   "decimals": 0,
   "description": "SquidTG Egg Token (Legacy)",
