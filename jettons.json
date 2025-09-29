@@ -4232,6 +4232,20 @@
   ]
  },
  {
+  "address": "0:74aaf6919f1157e68f4eade5d966cd1012be29b59701c02e34c1f81ddc6a759f",
+  "description": "Liberty Dog is a memecoin on TON inspired by the idea of Digital Freedom, created for the community to trade, share, and have fun.",
+  "image": "https://i.ibb.co/d00TKJSd/lidotonviewer.jpg",
+  "name": "Liberty Dog",
+  "social": [
+   "https://t.me/libertydogportal",
+   "https://x.com/lidotoken"
+  ],
+  "symbol": "LIDO",
+  "websites": [
+   "https://lidoton.com"
+  ]
+ },
+ {
   "address": "0:1dce4ea36852dd2ca85d6bd939edc177203d4c584ec364650ff8acf792591baa",
   "description": "$LIGHT aims to inspire users to be honest, transparent, and strive for growth. Together with $DARK, it creates a unique ecosystem where light and darkness intertwine, giving meaning to every action.",
   "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/light.jpg",
