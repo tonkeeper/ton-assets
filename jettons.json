@@ -1412,6 +1412,21 @@
   "symbol": "BIRB"
  },
  {
+  "address": "0:54620b347dafed48edc2662c0dee57902f89170681db1a2828112c513534e446",
+  "description": "Blazium (BLZ) is a Web3 token used for gaming, staking, XP conversion, and digital payments inside the Blazium Ecosystem, designed to reward players and developers while remaining deflationary. ",
+  "image": "https://blaziumapp.xyz/blzlogo.jpg",
+  "name": "Blazium",
+  "social": [
+   "https://t.me/BLAZIUMCRYPTO",
+   "https://t.me/blaziumtoken",
+   "https://x.com/BLAZIUMCRYPTO"
+  ],
+  "symbol": "BLZ",
+  "websites": [
+   "https://blaziumecosystem.vercel.app/"
+  ]
+ },
+ {
   "address": "0:a01ff17431ffc210d38c3c502c06ca85fc16a3f1991ba5243937a95181f45d94",
   "description": "Block Card Query is a mini-app for analyzing blockchain transactions. Track wallet activity, find whales and investigate suspicious transactions.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcgh_f0mf_cenompfasbsqf_baj8zkbpsq5n6lrgfrdlkij.png?size=lg&key=c4170f",
