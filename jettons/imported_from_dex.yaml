@@ -460,6 +460,9 @@
 - address: 0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6
   name: Frogy LIVE
   symbol: FROGY
+- address: 0:2397e9ded4cdccab6a98213fa34738c52c4ed2d1547baa7320a54e958ec3d2ac
+  name: The Fund
+  symbol: FUND
 - address: 0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c
   name: FadeWallet Token
   symbol: FWT
