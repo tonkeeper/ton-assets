@@ -1304,9 +1304,6 @@
 - address: 0:3b9cb248f84a1ce680731019e52f37b34c4c06351bf2479b57ee25874fc28fc1
   name: TON7DAO
   symbol: TON7DAO
-- address: 0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9
-  name: TONALD TRUMP
-  symbol: TONALD
 - address: 0:d590ea56fabe91891612a4644a9d5bef7fc610900f97f592d9c6d75d69095d57
   name: Ton Cuphead
   symbol: TONCUP
