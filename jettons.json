@@ -2612,6 +2612,18 @@
   ]
  },
  {
+  "address": "0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681",
+  "name": "EVAA Protocol",
+  "social": [
+   "https://t.me/evaaprotocol",
+   "https://x.com/evaaprotocol"
+  ],
+  "symbol": "EVAA",
+  "websites": [
+   "https://app.evaa.finance/"
+  ]
+ },
+ {
   "address": "0:6708a4862ac5ad42e730fde95e069d22e26af3775e908907c7734ebf92245521",
   "description": "Play, stake, PvP and earn dividends",
   "image": "https://i.ibb.co/21jCnwGQ/5fc8b647746e.png",
@@ -7146,6 +7158,19 @@
   ]
  },
  {
+  "address": "0:8bd89165b43561d6653a08b73b2afcc60fb0e6a701d61e4a24fc49ea4256b271",
+  "decimals": 9,
+  "description": "Born from the OG Telegram Shinobi sticker pack, revived through a Community Takeover (CTO) \u2014 $SHINOBI is a meme coin with true ninja spirit.",
+  "image": "https://raw.githubusercontent.com/Kreatour/Shinobi_logo/refs/heads/main/IMG_20250914_202811_518.png",
+  "name": "Shinobi TON",
+  "social": [
+   "https://t.me/shinobionton",
+   "https://x.com/shinobiclanton",
+   "http://shinobiton.xyz"
+  ],
+  "symbol": "SHINOBI"
+ },
+ {
   "address": "0:d3451746b5e3c5494e66c687cdcab5c8582f712714d4e975c414c25eaef774c4",
   "description": "\u0428\u0443\u0442\u043e\u0447\u043d\u044b\u0439, \u043d\u043e \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u043a\u043e\u0438\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0440\u0435\u0448\u0438\u0442 \u0412\u0430\u0448\u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b, \u0430 \u043c\u043e\u0436\u0435\u0442 \u0438 \u043d\u0435 \u0440\u0435\u0448\u0438\u0442.",
   "image": "https://cdn.blum.codes/65783468-9e85-448b-8e89-79eed1943499/37505015-5c3a-40bc-bf08-f124eb2ffcaf",
@@ -9895,6 +9920,11 @@
   "symbol": "FROGY"
  },
  {
+  "address": "0:2397e9ded4cdccab6a98213fa34738c52c4ed2d1547baa7320a54e958ec3d2ac",
+  "name": "The Fund",
+  "symbol": "FUND"
+ },
+ {
   "address": "0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c",
   "name": "FadeWallet Token",
   "symbol": "FWT"
@@ -11238,11 +11268,6 @@
   "address": "0:3b9cb248f84a1ce680731019e52f37b34c4c06351bf2479b57ee25874fc28fc1",
   "name": "TON7DAO",
   "symbol": "TON7DAO"
- },
- {
-  "address": "0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9",
-  "name": "TONALD TRUMP",
-  "symbol": "TONALD"
  },
  {
   "address": "0:d590ea56fabe91891612a4644a9d5bef7fc610900f97f592d9c6d75d69095d57",
