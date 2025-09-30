@@ -2612,6 +2612,18 @@
   ]
  },
  {
+  "address": "0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681",
+  "name": "EVAA Protocol",
+  "social": [
+   "https://t.me/evaaprotocol",
+   "https://x.com/evaaprotocol"
+  ],
+  "symbol": "EVAA",
+  "websites": [
+   "https://app.evaa.finance/"
+  ]
+ },
+ {
   "address": "0:6708a4862ac5ad42e730fde95e069d22e26af3775e908907c7734ebf92245521",
   "description": "Play, stake, PvP and earn dividends",
   "image": "https://i.ibb.co/21jCnwGQ/5fc8b647746e.png",
