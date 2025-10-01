@@ -2612,6 +2612,23 @@
   ]
  },
  {
+  "address": "0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681",
+  "description": "The $EVAA token is the governance and utility token of the EVAA lending protocol.",
+  "image": "https://raw.githubusercontent.com/evaafi/token-meta/refs/heads/main/icon.png",
+  "name": "Evaa protocol",
+  "social": [
+   "https://t.me/evaaprotocol",
+   "https://twitter.com/evaaprotocol"
+  ],
+  "symbol": "EVAA",
+  "websites": [
+   "https://coinmarketcap.com/currencies/evaa-protocol",
+   "https://t.me/EvaaAppBot",
+   "https://evaa.finance",
+   "https://tge.evaa.finance"
+  ]
+ },
+ {
   "address": "0:6708a4862ac5ad42e730fde95e069d22e26af3775e908907c7734ebf92245521",
   "description": "Play, stake, PvP and earn dividends",
   "image": "https://i.ibb.co/21jCnwGQ/5fc8b647746e.png",
