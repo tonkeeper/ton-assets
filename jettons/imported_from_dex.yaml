@@ -106,6 +106,9 @@
 - address: 0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e
   name: Billionaire Boys Club
   symbol: BBC
+- address: 0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc
+  name: Baby Lady
+  symbol: BBLady
 - address: 0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620
   name: Baby Notcoin
   symbol: BBNOT
@@ -493,6 +496,9 @@
 - address: 0:1807ab429dc9efb20b06c63b45129d72e8ac3f721e1ae6e73a9e00082c468f38
   name: GiftHub
   symbol: GH
+- address: 0:3d55029b8f831207493eeec2b552b6322209fd527529197a5472405ef7ea2c97
+  name: Gifts Strategy
+  symbol: GIFTSTR
 - address: 0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425
   name: GLITCH
   symbol: GLITCH
