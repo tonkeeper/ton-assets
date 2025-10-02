@@ -1,0 +1,12 @@
+name: Satoshi Tribute
+description: A tribute to Satoshi Nakamotos legacy. Press F and pay your respects to the creator of Bitcoin.
+image: "https://raw.githubusercontent.com/DAOthxs/assets/refs/heads/main/verify/logo_with_footer.png"
+address: 0:a4771e4f4968e3f81b745fe0d109f35ebfaadad4d56ff6aa9cbbe5b6f92693a1
+symbol: SATOSHI
+websites:
+  - "https://daothxs.github.io/jetton"
+  - "https://t.me/satoshiNotify"
+  - "https://t.me/satoshi_dao_bot"
+  - "https://t.me/satoshi_dao_bot/mine"
+social:
+  - "https://t.me/satoshi_dao_bot/mine"
