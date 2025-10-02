@@ -1,0 +1,22 @@
+name: Oil
+symbol: Oil Token
+decimals: 9
+description: >
+  Oil Token (OIL) is a TIP-3 token on the TON blockchain, each unit represents one barrel of crude oil.
+  Provides secure, transparent, and global access to digital oil assets. 50% of total supply is distributed to ensure decentralization; the rest is allocated to DEX liquidity, community incentives, and token burn events.
+
+jetton_master: "EQBKYEHMfMRcplj_7eVsBHW1RnqXf-PO8XP-xISXRRu-XA7q"
+
+logo: "https://i.postimg.cc/bJ7mCD5Z/file-000000000c0c6243b9263765619cddcb-2.png"
+
+socials:
+  website: "https://oiltokenofficail.github.io/OilTokenSite/"
+  telegram: "https://t.me/Oiltokenofficial"
+  instagram: "https://www.instagram.com/oiltokenofficial"
+  x: "https://x.com/oiltoken_"
+  github: "https://github.com/Oiltokenofficail"
+
+whitepaper: "https://oiltokenofficail.github.io/OilTokenSite/WhitePaper.html"
+roadmap: "https://oiltokenofficail.github.io/OilTokenSite/Roadmap.html"
+team: "https://oiltokenofficail.github.io/OilTokenSite/Team.html"
+tokenomics: "https://oiltokenofficail.github.io/OilTokenSite/Tokenomics.html"
