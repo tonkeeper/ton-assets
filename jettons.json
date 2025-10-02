@@ -10109,6 +10109,11 @@
   "symbol": "SADWOOF"
  },
  {
+  "address": "0:781f4cf6c48d95b7666d074c6589fc5b93e95de4715421b304ea0fd83bab665b",
+  "name": "Safeton Strategy",
+  "symbol": "SAFE"
+ },
+ {
   "address": "0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d",
   "name": "Saintcoin",
   "symbol": "SAINT"
@@ -10457,6 +10462,11 @@
   "address": "0:147609b3bbdebe9936901671162d7ec64e95a3c2c25ad0bbc67aafecf3a85caf",
   "name": "Trump/Telegram Make America Great Again",
   "symbol": "TMAGA"
+ },
+ {
+  "address": "0:f18d88be0657b8eaf2b1b6dfef97bf6003831becc2de1dbb628b59f8bfed54c2",
+  "name": "Ton Meme Dao",
+  "symbol": "TMD"
  },
  {
   "address": "0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1",
