@@ -2524,6 +2524,11 @@
   "symbol": "ARBUZ"
  },
  {
+  "address": "0:19cd9ce105dacfc311554075a53076c363f78e9372de50faf4ed559d5f8074d7",
+  "name": "Arnold investment",
+  "symbol": "ARNI"
+ },
+ {
   "address": "0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c",
   "name": "Art Coin",
   "symbol": "ART"
@@ -3474,6 +3479,11 @@
   "symbol": "LEDO"
  },
  {
+  "address": "0:35f6810b89fc5c016bd1e5ae1d20f426238be0f6583b8dc323986862f3ccaecc",
+  "name": "LEOPOLD",
+  "symbol": "LEOPOLD"
+ },
+ {
   "address": "0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d",
   "name": "CAT LESHA",
   "symbol": "LESHA"
@@ -3677,6 +3687,11 @@
   "address": "0:7ae10db5f371fd5eab2b47d87ab55f37027465157f3a30959108c425b20414db",
   "name": "Morfey",
   "symbol": "MORFEY"
+ },
+ {
+  "address": "0:bee912942b5e31c8dda2265f47190acacc414d7d966f0f0c765f681c181aa771",
+  "name": "MPAK",
+  "symbol": "MPAK"
  },
  {
   "address": "0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7",
@@ -4184,6 +4199,11 @@
   "symbol": "SADWOOF"
  },
  {
+  "address": "0:781f4cf6c48d95b7666d074c6589fc5b93e95de4715421b304ea0fd83bab665b",
+  "name": "Safeton Strategy",
+  "symbol": "SAFE"
+ },
+ {
   "address": "0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d",
   "name": "Saintcoin",
   "symbol": "SAINT"
@@ -4404,6 +4424,11 @@
   "symbol": "TAKEN"
  },
  {
+  "address": "0:0f5bdf1fdc6ed36f88861cfd5fadc28aa2cc8f852c1e81cb09fd3a11fb3c1caa",
+  "name": "TANOS",
+  "symbol": "TANOS"
+ },
+ {
   "address": "0:01056fee89f91332fbd1d0f1eadcda0d1c34c3a04812313a14f2869390ef8789",
   "name": "Ape by Ton",
   "symbol": "TAPE"
@@ -4547,6 +4572,11 @@
   "address": "0:147609b3bbdebe9936901671162d7ec64e95a3c2c25ad0bbc67aafecf3a85caf",
   "name": "Trump/Telegram Make America Great Again",
   "symbol": "TMAGA"
+ },
+ {
+  "address": "0:f18d88be0657b8eaf2b1b6dfef97bf6003831becc2de1dbb628b59f8bfed54c2",
+  "name": "Ton Meme Dao",
+  "symbol": "TMD"
  },
  {
   "address": "0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1",
