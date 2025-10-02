@@ -1,0 +1,11 @@
+name: TonBitcoin
+address: 0:6117c8d66ac7bf0a7d5d3534deff728c5904330db570fe551492f5b993ab3ad6
+description: "Mine the fBTC utility token\nApplication: t.me/tBTCminer_bot\n\nThis is a unique miner application in the Telegram ecosystem. There are 3 types of partners in the application: Energizer, Miner and Investor, each of which performs its own function. The miner buys electricity from Energizer and mines the token fBTC on his mining equipment and then sells the token to Investors\nAs a result, we get a revolutionary Win-Win-Win system\n\nThe kW token is used for consumption by TonBitcoin miners. It is mined by tapping on the power plant and then claimed.\n\nMore details: t.me/ton4btc\n\n--------------------------------------------\n\nС помощью этого оборудования вы можете майнить утилитарный токен fBTC\nПриложение для майнинга: t.me/tBTCminer_bot\n\nТокен kW используется для потребления майнерами TonBitcoin. Его добывают тапами по электростанции и затем клеймят.\n\nПодробная информация: t.me/ton4btc"
+image: "https://storage.dyor.io/jettons/EQBhF8jWase_Cn1dNTTe_3KMWQQzDbVw_lUUkvW5k6s61ikb/image.png"
+symbol: "kW"
+websites:
+  - "https://tbtc.gitbook.io/"
+social:
+  - "https://t.me/ton4btc"
+  - "https://t.me/tBTCminer_bot"
+  - "https://www.youtube.com/watch?v=ZRgFmlEyJo8"

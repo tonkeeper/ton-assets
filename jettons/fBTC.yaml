@@ -1,0 +1,11 @@
+name: TonBitcoin
+address: 0:4ea81880ad1e391949627f1773678d196a1755863b54ec68d8fa556daabb87bd
+description: "Mine the fBTC utility token\nApplication: t.me/tBTCminer_bot\n\nThis is a unique miner application in the Telegram ecosystem. There are 3 types of partners in the application: Energizer, Miner and Investor, each of which performs its own function. The miner buys electricity from Energizer and mines the token fBTC on his mining equipment and then sells the token to Investors\nAs a result, we get a revolutionary Win-Win-Win system\n\nMore details: t.me/ton4btc\n\n--------------------------------------------\n\nС помощью этого оборудования вы можете майнить утилитарный токен fBTC\nПриложение для майнинга: t.me/tBTCminer_bot\n\nПодробная информация: t.me/ton4btc"
+image: "https://storage.dyor.io/jettons/EQBOqBiArR45GUlifxdzZ40ZahdVhjtU7GjY-lVtqruHvQEc/image.png"
+symbol: "fBTC"
+websites:
+  - "https://tbtc.gitbook.io/"
+social:
+  - "https://t.me/ton4btc"
+  - "https://t.me/tBTCminer_bot"
+  - "https://www.youtube.com/watch?v=ZRgFmlEyJo8"
