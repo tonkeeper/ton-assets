@@ -601,6 +601,9 @@
 - address: 0:38277a3f5d37562f3a99e5c7ca74a333200a38ddaaf0f557cb6c2e31a256884a
   name: Lego Resistance Dog
   symbol: LEDO
+- address: 0:35f6810b89fc5c016bd1e5ae1d20f426238be0f6583b8dc323986862f3ccaecc
+  name: LEOPOLD
+  symbol: LEOPOLD
 - address: 0:39f86edd8c5f3a91096ca6712ee112361cdfb382ef350dc13f6a9d32b80f387d
   name: CAT LESHA
   symbol: LESHA
@@ -1223,6 +1226,9 @@
 - address: 0:147609b3bbdebe9936901671162d7ec64e95a3c2c25ad0bbc67aafecf3a85caf
   name: Trump/Telegram Make America Great Again
   symbol: TMAGA
+- address: 0:f18d88be0657b8eaf2b1b6dfef97bf6003831becc2de1dbb628b59f8bfed54c2
+  name: Ton Meme Dao
+  symbol: TMD
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
