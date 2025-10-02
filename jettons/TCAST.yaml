@@ -1,0 +1,13 @@
+name: Toncast
+description: TCAST is the utility token of Toncast, a prediction market, where revenue is distributed through the DAO to TCAST stakers.
+address: 0:b02252116515737704be898ed026782754253c50c29f3e15abfca919a10e8c72
+image: "https://raw.githubusercontent.com/TonCast/toncast-minter-contract/refs/heads/main/toncast_logo.png"
+symbol: TCAST
+decimals: 9
+websites:
+  - "https://toncast.me"
+social:
+  - "https://x.com/TCASTFoundation"
+  - "https://t.me/Toncast_TCAST_bot"
+  - "https://t.me/Toncast_TCAST"
+

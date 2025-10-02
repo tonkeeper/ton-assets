@@ -1,0 +1,13 @@
+name: LP Token for USD₮-TCAST
+description: Liquidity pool token for Tether USD and Toncast on STON.fi DEX
+address: 0:7a146871066e747a61a03798369fe21206e1134d1e179bc1bfedf4c37d1f1ff3
+image: "https://meta.ston.fi/lp/v1/img/0:7a146871066e747a61a03798369fe21206e1134d1e179bc1bfedf4c37d1f1ff3.png"
+symbol: USD₮-TCAST LP
+decimals: 9
+websites:
+  - "https://app.ston.fi/liquidity/provide?type=Balanced&ft=EQCwIlIRZRVzdwS-iY7QJngnVCU8UMKfPhWr_KkZoQ6Mckju&tt=USD%E2%82%AE&pool=EQB6FGhxBm50emGgN5g2n-ISBuETTR4Xm8G_7fTDfR8f856J"
+social:
+  - "https://x.com/TCASTFoundation"
+  - "https://t.me/Toncast_TCAST_bot"
+  - "https://t.me/Toncast_TCAST"
+

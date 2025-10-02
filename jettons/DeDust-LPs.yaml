@@ -34,4 +34,7 @@
 - name: LP Token for GLINT-TON
   address: "0:102c7d53108932e26e2b04c48c7903f21f8129758d210a25bd00d5774557631d"
   symbol: GLINT-TON
+- name: LP Token for TCAST-USDT
+  address: "0:ee11c949e21271bb72d37718de27924e6183f6a6e31590026bfe6d363df403a8"
+  symbol: TCAST-USDT
 
