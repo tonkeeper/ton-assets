@@ -487,6 +487,7 @@ Name           | Address
 [NotBlumHmstrCatiDogsWoof](https://tonviewer.com/0:3571d5c4296aedf88d94ecc575849f05a5dbb026ee82c9da22a0062d3abf76d7) | EQA1cdXEKWrt-I2U7MV1hJ8FpduwJu6CydoioAYtOr921wyg
 [Notcoin](https://tonviewer.com/0:2f956143c461769579baef2e32cc2d7bc18283f40d20bb03e432cd603ac33ffc) | EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT
 [Nuka Cola](https://tonviewer.com/0:fdce0fe3301123402c0a967d7138ee2269fe85e2be11e9881758fa887962aaad) | EQD9zg_jMBEjQCwKln1xOO4iaf6F4r4R6YgXWPqIeWKqrTqj
+[Numbers Strategy](https://tonviewer.com/0:f352b4b1c313c9883e5a05483e1ce325205b1c64b656274e9e38a53ed2e0e447) | EQDzUrSxwxPJiD5aBUg-HOMlIFscZLZWJ06eOKU-0uDkR04k
 [OAAL AI](https://tonviewer.com/0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043) | EQCvsARFU_tJCRq7eFTrs2ORasCwDIPLQo7ZlkehsMmgQzd8
 [OGToken](https://tonviewer.com/0:18c5a0a90151e3a4259a66dac295790e9bd62aec054fd94440711056e068edc4) | EQAYxaCpAVHjpCWaZtrClXkOm9Yq7AVP2URAcRBW4GjtxOMj
 [OLBITX](https://tonviewer.com/0:6eaf71916af4b4ecd688572b2e1b89a576090642435e090c6e76e25bc4afe8d9) | EQBur3GRavS07NaIVysuG4mldgkGQkNeCQxuduJbxK_o2QD3

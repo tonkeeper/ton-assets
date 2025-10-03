@@ -838,6 +838,9 @@
 - address: 0:72830ac4706223e73984b5678c1ac4176d7af5581815ddca157eac944508a087
   name: NUDES Coin
   symbol: NUDES
+- address: 0:f352b4b1c313c9883e5a05483e1ce325205b1c64b656274e9e38a53ed2e0e447
+  name: Numbers Strategy
+  symbol: NUMSTR
 - address: 0:b9cef491cc302d2fe928bb71e9c956ce57fc3edb4db0262e98d03c0033b18a99
   name: NUTCOIN
   symbol: NUT
