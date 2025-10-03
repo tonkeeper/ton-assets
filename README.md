@@ -263,6 +263,7 @@ Name           | Address
 [Engage ADS on Ton Open Network](https://tonviewer.com/0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896) | EQDE2iOVhvteBA8bCxywcmCOPVxJGltPhft8RYDTXiv4lmvM
 [Epidemy](https://tonviewer.com/0:bbcc4d8155c2e2c9b04cb90d6088e3d898ee098bcf09d76afb76ea8c2563ad17) | EQC7zE2BVcLiybBMuQ1giOPYmO4Ji88J12r7duqMJWOtFxtr
 [Ethena USDe](https://tonviewer.com/0:086fa2a675f74347b08dd4606a549b8fdb98829cb282bc1949d3b12fbaed9dcc) | EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f
+[Evaa protocol](https://tonviewer.com/0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681) | EQBKMfjX_a_dsOLm-juxyVZytFP7_KKnzGv6J01kGc72gVBp
 [F](https://tonviewer.com/0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce) | EQDrpvx5-voHGu717aKEMsM8hk67FpKH6XUPWduo0qqZzl6K
 [FLOX](https://tonviewer.com/0:e0e59518a1b5db4240db28224a0e7a4077d04a85d23bb305497727d987f2d7be) | EQDg5ZUYobXbQkDbKCJKDnpAd9BKhdI7swVJdyfZh_LXvrfl
 [FLYKI Token](https://tonviewer.com/0:9efd7ad27e0e0c9cbdfeae8d5a900116c5d7c789731ddb8fd7813261ae2a027a) | EQCe_XrSfg4MnL3-ro1akAEWxdfHiXMd24_XgTJhrioCek9R

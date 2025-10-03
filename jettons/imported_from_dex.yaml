@@ -409,6 +409,9 @@
 - address: 0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184
   name: eTON NFT
   symbol: ENFT
+- address: 0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681
+  name: Evaa protocol
+  symbol: EVAA
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
