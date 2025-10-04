@@ -1,0 +1,7 @@
+name: "ITA COIN"
+description: "Официальный токен ITA Capital Group, который вскоре будет запатентован, станет основой продукта для предоставления аналитической информации на фондовые биржи и криптовалютные биржи. Этот служебный токен ITA будет использоваться на крупнейшей аналитической платформе, работающей на блокчейне TON"
+symbol: "ITA"
+decimals: 9
+social:
+  - "https://t.me/Isla_Toni"
+image: "https://github.com/IslaToni/ton-assets/blob/main/lleft_big.png?raw=true"
