@@ -186,6 +186,7 @@ Name           | Address
 [Catizen](https://tonviewer.com/0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400) | EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7
 [Chad on TON](https://tonviewer.com/0:e99e37c4c12263754b9f6ad1dda2913db192ca983ee781726f6e2c647a5eb3b5) | EQDpnjfEwSJjdUufatHdopE9sZLKmD7ngXJvbixkel6zta5B
 [Chillcoin](https://tonviewer.com/0:3c224ff11239e3872ec2acc32c691989443edc5745547a47bb82d8cd6644610f) | EQA8Ik_xEjnjhy7CrMMsaRmJRD7cV0VUeke7gtjNZkRhD2yP
+[Chilled Cat](https://tonviewer.com/0:301c0dca86285122c28a5a5266c3b8b1ac0dc5278819bf789a94e64155c9763a) | EQAwHA3KhihRIsKKWlJmw7ixrA3FJ4gZv3ialOZBVcl2Olpd
 [ChipiCoin](https://tonviewer.com/0:5e9d609d3010082eb887f323d7f5b7e68dc66599eaf52604431c359b9432b5dd) | EQBenWCdMBAILriH8yPX9bfmjcZlmer1JgRDHDWblDK13TOp
 [ChronoTech Token](https://tonviewer.com/0:eef628e4e3882b0077b70f2f6a60ecbe86273ebc9af8775087dc737237e813e4) | EQDu9ijk44grAHe3Dy9qYOy-hic-vJr4d1CH3HNyN-gT5LyL
 [Clayton](https://tonviewer.com/0:7ebdcd3483d3de5162e9b52007e20d49e64612ed64e0b5511f848ea829d42d46) | EQB-vc00g9PeUWLptSAH4g1J5kYS7WTgtVEfhI6oKdQtRudE

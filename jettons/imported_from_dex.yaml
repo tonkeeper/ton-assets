@@ -304,6 +304,9 @@
 - address: 0:3eacf4800885bc8492f5217698019510bdafc56f88bcd691755365f06dbc934e
   name: CTIDAO
   symbol: CTIDAO
+- address: 0:301c0dca86285122c28a5a5266c3b8b1ac0dc5278819bf789a94e64155c9763a
+  name: Chilled Cat
+  symbol: Chill
 - address: 0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4
   name: Cute Cats
   symbol: CuteCats
