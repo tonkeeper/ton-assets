@@ -2,12 +2,20 @@ name: Ton21
 symbol: T21
 decimals: 9
 version: 1
-description: "Ton21 (T21) is a limited-supply community token on the TON blockchain. Fixed supply: 21,000,000 T21."
-image: "https://raw.githubusercontent.com/VLADIMIRVLE/ton21_official/main/t21_logo.png"
+description: "Ton21 (T21) — a community-driven token on the TON blockchain. Transparent tokenomics, strong liquidity, and a long-term vision for growth."
+image: "https://raw.githubusercontent.com/ton21-official/ton21_official/main/t21_logo.png"
 address: EQBLgiPMly982IMGqauqdX0Fe_N01arD-LhlKSfxBd8rzYRG
 websites:
-  - "https://vladimirvle.github.io/ton21-site"
-  - "https://github.com/VLADIMIRVLE/ton21_official"
+  - "https://ton21project.com"
+  - "https://ton21-official.github.io/ton21-site/"
+  - "https://github.com/ton21-official/ton21_official"
 social:
   - "https://t.me/Ton21_Army"
-  - "https://twitter.com/Ton21_Official"
+  - "https://twitter.com/Ton21Official"
+  - "https://discord.gg/me2kuT9Pq"
+tags:
+  - ton
+  - token
+  - jetton
+  - community
+  - verified
