@@ -1201,6 +1201,9 @@
 - address: 0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74
   name: Stellarium
   symbol: STL
+- address: 0:9113c9699efe3ea1995a48e1a09fa19dc6b1c20e4349eac7f7ce502204d1d4d2
+  name: Sticker Strategy
+  symbol: STST
 - address: 0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb
   name: Seahava token
   symbol: SVV

@@ -660,6 +660,7 @@ Name           | Address
 [Steamy Julia](https://tonviewer.com/0:cd2ebaf09bb9652a471ed1802b0dbe778de10fdeb4519c9569bc3280d7aef94f) | EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft
 [Stec Network](https://tonviewer.com/0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18) | EQAMSx9XLYJ6lYB9LL0kAPjZPhGYdlV7QQsPgRrVGv3qGLNt
 [Stellarium](https://tonviewer.com/0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74) | EQBjMUhuZnLRu45LtJNixAmWH48IrB61qk1wVWJqZKuNdDvm
+[Sticker Strategy](https://tonviewer.com/0:9113c9699efe3ea1995a48e1a09fa19dc6b1c20e4349eac7f7ce502204d1d4d2) | EQCRE8lpnv4-oZlaSOGgn6GdxrHCDkNJ6sf3zlAiBNHU0lXg
 [Stuped Coyn](https://tonviewer.com/0:d193779f496d2ec2150f74dda17ee42aa0386f9b3c9e4c08893af8d1a067bf7b) | EQDRk3efSW0uwhUPdN2hfuQqoDhvmzyeTAiJOvjRoGe_exi_
 [Sushi’n’Girls](https://tonviewer.com/0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2) | EQBSVKw3FK2o_aFJyMbdddTDQKLgvobVIzLwx8o9TwoksuK-
 [SybilZero](https://tonviewer.com/0:b2fd9a3f6a174209c0f21906b3b8054a59af0a496f77d23d5523c93d65025807) | EQCy_Zo_ahdCCcDyGQazuAVKWa8KSW930j1VI8k9ZQJYB4_V
