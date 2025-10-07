@@ -2646,6 +2646,19 @@
   ]
  },
  {
+  "address": "0:b892f61846e3cf82e61cb3eecd9539abc1ef104848ab8fe03f8f9dfbd2ee7779",
+  "name": "EVAA staked on JVault.xyz",
+  "social": [
+   "https://t.me/evaaprotocol",
+   "https://x.com/evaaprotocol"
+  ],
+  "symbol": "st-EVAA-7D",
+  "websites": [
+   "https://app.evaa.finance/",
+   "https://evaa.finance/"
+  ]
+ },
+ {
   "address": "0:6708a4862ac5ad42e730fde95e069d22e26af3775e908907c7734ebf92245521",
   "description": "Play, stake, PvP and earn dividends",
   "image": "https://i.ibb.co/21jCnwGQ/5fc8b647746e.png",
