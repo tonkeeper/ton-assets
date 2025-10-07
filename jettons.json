@@ -1,5 +1,19 @@
 [
  {
+  "address": "0:02285bf68dc45f3bcf66494b58fb163804ca6619d1610cd6a871352beef5948f",
+  "description": "AssassinoTON \u2013 the first meme coin on #TON, fueled by 100% arabica.\nNot just a meme, but a project with real utility.\n",
+  "image": "https://cdn.dexscreener.com/cms/images/2a7ce27db914966e1b818a9bcd9a0c7a704bac946cf0b10a39f164935e4f2ca6?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "AssassinoTON",
+  "social": [
+   "https://x.com/assassinoTON",
+   "https://t.me/AssassinoTON"
+  ],
+  "symbol": "ASSA",
+  "websites": [
+   "https://marvelous-maamoul-64eeee.netlify.app/"
+  ]
+ },
+ {
   "address": "0:e5f985fd340aae48d46116a1d305b92d871df95180012ef0b2957d842fead6dc",
   "description": "The official token of the GRAND BANG universe. Launch rockets, explore space, and earn rewards in the ultimate space agency simulator\ud83d\ude80 t.me/GrandBangBot",
   "image": "https://i.ibb.co/0jhvt7df/IMG-4991.png",
@@ -11333,6 +11347,11 @@
   "address": "0:3b9cb248f84a1ce680731019e52f37b34c4c06351bf2479b57ee25874fc28fc1",
   "name": "TON7DAO",
   "symbol": "TON7DAO"
+ },
+ {
+  "address": "0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9",
+  "name": "TONALD TRUMP",
+  "symbol": "TONALD"
  },
  {
   "address": "0:d590ea56fabe91891612a4644a9d5bef7fc610900f97f592d9c6d75d69095d57",
