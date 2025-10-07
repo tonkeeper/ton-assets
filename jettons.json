@@ -14408,6 +14408,11 @@
   "symbol": "vyUSD"
  },
  {
+  "address": "0:165796b87c2ef889a23418d770d3588c896c07b876f617d125482d98b2dc0f55",
+  "name": "EVK Vault eTON-1",
+  "symbol": "eTON-1"
+ },
+ {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
   "description": "Spin off ARNI",
   "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
