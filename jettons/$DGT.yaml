@@ -1,1 +1,8 @@
-
+{
+  "address": "EQBdORhSxB3p86_pcwaHGyoG_J46HryQ9EQmoWGtcyZ9d70b",
+  "name": "DOGETON",
+  "symbol": "DGT",
+  "decimals": 9,
+  "image": "https://github.com/cryptokkwg/dogetonlogo/blob/main/dgt.jpg",
+  "description": "OG Doge on TON"
+}
