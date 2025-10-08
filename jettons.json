@@ -5861,6 +5861,21 @@
   "symbol": "PLUSHUTYA"
  },
  {
+  "address": "0:c7cb0257c2007fb483d2d3e32ead8d45227aa623a3c3bb25f7d51038854fe52b",
+  "description": "The official token of Pleanet X telegram bot. Build your space empire, mine DNA, and earn crypto \ud83c\udf0d",
+  "image": "https://raw.githubusercontent.com/tulindulin/xplanet-logo/refs/heads/main/bg.png",
+  "name": "PLX",
+  "social": [
+   "https://t.me/PlanetX_channel",
+   "https://t.me/planetX_Ruchannel",
+   "https://x.com/PlanetX_channel"
+  ],
+  "symbol": "PLX",
+  "websites": [
+   "https://www.xplanet.online/"
+  ]
+ },
+ {
   "address": "0:884c38250bbb5e6aa9e87bd800ebc8de603048ba2ab03dcc8d12fd90cc92383a",
   "description": "POMOYKA \u043d\u0430 TON",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcitdglc7teaqnoe9ga68jeydbiuiqwpcynev2qzji4opbd.png",
