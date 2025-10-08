@@ -1312,6 +1312,20 @@
   ]
  },
  {
+  "address": "0:107cdaf0840e6c132c2b2d3b6cc69c9015e2917c4a4b7594446482cff73f6252",
+  "description": "BRINGOLD is a multifunctional blockchain platform based on DAO principles. The ecosystem covers GameFi, DeFi, SocialFi and education, aiming to build a universal Web3/metaverse space.",
+  "image": "https://i.ibb.co/vvLQjCqk/brin-logo.png",
+  "name": "BRINGOLD",
+  "social": [
+   "https://t.me/Bringold_io",
+   "https://twitter.com/Bringold_io"
+  ],
+  "symbol": "BRIN",
+  "websites": [
+   "https://bringold.io"
+  ]
+ },
+ {
   "address": "0:165365ccbfd5663e63ab68b9920929f25ca8f4a6ac5f77255ed510f36ed5eee1",
   "description": "Bubb AI Agent is an innovative project integrated into the TON ecosystem that combines artificial intelligence (AI) and blockchain technologies",
   "name": "Bubb Ai Agent",
