@@ -5901,6 +5901,21 @@
   ]
  },
  {
+  "address": "0:8b73c8d19e9c91a993ed8601fb74ce06f9c0c5a56ecc6389373e3d7fedf58f85",
+  "description": "Polar Owl a community token. As the hype of Telegram stickers on TON continues to soar, Polar Owl emerges as a meme ready to take flight in this bull run. With its unique charm and community-driven energy, Polar Owl is shaping up to be one of the biggest memes in the market.",
+  "image": "https://i.ibb.co/bjLXcCwS/polarowlpic.png",
+  "name": "PolarOwl",
+  "social": [
+   "https://x.com/PolarOwl25",
+   "https://t.me/polarowlchannel",
+   "https://t.me/polarowlonton"
+  ],
+  "symbol": "POWL",
+  "websites": [
+   "https://www.polarowlton.com/"
+  ]
+ },
+ {
   "address": "0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530",
   "decimals": 9,
   "description": "PONCH is the native token of the Ponchiqs Game Studio, driving utility across all games and platforms. Use PONCH to purchase in-game items, trade NFTs, stake for rewards, and access exclusive content. Whether it\u2019s upgrading characters, earning rewards in tournaments, or buying collectible merchandise, PONCH connects players to an immersive, rewarding gaming experience. Play, earn, and own with PONCH \u2014 your gateway to the Ponchiqs ecosystem.",
