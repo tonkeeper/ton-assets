@@ -4248,6 +4248,17 @@
   "symbol": "KUTI"
  },
  {
+  "address": "0:569681d398ca74b1fa6b598c923d88e3008c07b3603ac3eb365bdd839c1b4a2e",
+  "description": "The first community index token on Ton",
+  "image": "https://imgs.search.brave.com/CVnfJo2cuHVw3gIRo0H6SQQytl4EGVrnAlqlMBjRf4g/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNDc3/NTI1MjgyL3Bob3Rv/L29uZS10b24td2Vp/Z2h0LmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1DLWtxc3Ew/VDBrYVdJT2FwRUYw/MUpmLXV1Rzd4a3NC/czZNQUg3UjVpRE9Z/PQ",
+  "name": "Kilogram",
+  "social": [
+   "https://t.me/KiloTonCoin",
+   "https://x.com/KilogramOnTon"
+  ],
+  "symbol": "KILO"
+ },
+ {
   "address": "0:a9d576a8270787d5849330129dc9fcb959d3ee4447d275d9eebe7f4cbaf86b8d",
   "description": "This is Labubu Fan token, created for Ton community. The character Labubu appears in \"The Monsters\" series of stories written by Hong Kong-born artist Kasing Lung.  He developed this universe in 2015, drawing inspiration from Nordic fairy tales, and its characters are based on elves, fairies, and monsters.",
   "image": "https://staging-jubilee.flickr.com/65535/54660938777_a541332651_b.jpg",
