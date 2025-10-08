@@ -329,3 +329,19 @@
 - symbol: LP eTON-2
   name: LP eTON-2 (18Dec2025)
   address: "EQAtEBj46vW3gCpt1JtEjd7PMJKPUAqNuC_eAZbD9i57mcbj"
+
+- symbol: SY eUSDT
+  name: SY eUSDT (18Dec2025)
+  address: "EQAUbmuQpEiYedIUK540uqjG7HkGasTR6ZEE18zdfU-LsjLq"
+
+- symbol: PT eUSDT
+  name: PT eUSDT (18Dec2025)
+  address: "EQAUHs30aHqcFD6nTpPHnGYZ6yUMWn5QR5SyIB_vFgHvvHLs"
+
+- symbol: YT eUSDT
+  name: YT eUSDT (18Dec2025)
+  address: "EQAUbR-uCwwdX7stkG1ZYLxDvLhwQbR-BBNyHHlMpvS_wxAx"
+
+- symbol: LP eUSDT
+  name: LP eUSDT (18Dec2025)
+  address: "EQAUPdPpAMNaMfKwesMEgxzxDn3xEdTPF3_42_6bX44qPFRG"
