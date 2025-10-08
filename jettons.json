@@ -3198,6 +3198,26 @@
   "symbol": "LP eTON-2"
  },
  {
+  "address": "0:146e6b90a4489879d2142b9e34baa8c6ec79066ac4d1e99104d7ccdd7d4f8bb2",
+  "name": "SY eUSDT (18Dec2025)",
+  "symbol": "SY eUSDT"
+ },
+ {
+  "address": "0:141ecdf4687a9c143ea74e93c79c6619eb250c5a7e504794b2201fef1601efbc",
+  "name": "PT eUSDT (18Dec2025)",
+  "symbol": "PT eUSDT"
+ },
+ {
+  "address": "0:146d1fae0b0c1d5fbb2d906d5960bc43bcb87041b47e0413721c794ca6f4bfc3",
+  "name": "YT eUSDT (18Dec2025)",
+  "symbol": "YT eUSDT"
+ },
+ {
+  "address": "0:143dd3e900c35a31f2b07ac304831cf10e7df111d4cf177ff8dbfe9b5f8e2a3c",
+  "name": "LP eUSDT (18Dec2025)",
+  "symbol": "LP eUSDT"
+ },
+ {
   "address": "0:e1505d0ddef9ed5b62c909e9ec7f9f3e7c3392a9303358166a6b6fc4f09abcba",
   "description": "$FLEX \u2014 the token of influence. Created by influencers, for the community. Locks, utility, hype. Used for access, roles, drops, and events. Not just a flex \u2014 it\u2019s $FLEX.",
   "image": "https://imagizer.imageshack.com/img923/8683/RjsqwH.png",
