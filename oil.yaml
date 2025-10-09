@@ -1,0 +1,28 @@
+address: "EQBKYEHMfMRcplj_7eVsBHW1RnqXf-PO8XP-xISXRRu-XA7q"
+
+name: "Oil"
+symbol: "OILTOKEN"
+
+description: >
+  💧 OIL – Your Digital Barrel of Crude.
+  Trade oil digitally, globally, and securely.
+  1 OIL = 1 barrel of crude on the TON blockchain.
+  Supply: 10,000,000,000 | Transferable ✅
+  Join the movement: https://t.me/oilofficial
+
+website: "https://oiltokenofficail.github.io/OilTokenSite/"
+
+social:
+  telegram: "https://t.me/oilofficial"
+  instagram: "https://instagram.com/oiltokenofficail"
+  x: "https://x.com/Oiltoken_"
+
+whitepaper: "https://oiltokenofficail.github.io/OilTokenSite/whitepaper.html"
+roadmap: "https://oiltokenofficail.github.io/OilTokenSite/roadmap.html"
+tokenomics: "https://oiltokenofficail.github.io/OilTokenSite/tokenomics.html"
+
+image: "https://raw.githubusercontent.com/Oiltokenofficail/assets/main/Logo.png"
+network: "TON"
+category: "Energy & DeFi"
+max_supply: 10000000000
+mintable: true
