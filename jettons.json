@@ -830,6 +830,18 @@
   "symbol": "AUR"
  },
  {
+  "address": "0:a3b4dc5157890fb190a34ca43c0504d12644c773444d383a654d070553d8226e",
+  "description": "\ud83d\udc8e Baby Saphir \u2014 the successor to the legendary Saphir! \ud83d\udc8e Baby Saphir ($BSAPHIR) is a new step in the Saphir Capital ecosystem, created to unite the community, support holders, and promote creative ideas in the Web3 world. \ud83d\ude80 Project Mission: To create a powerful community around the Saphir brand, where every participant can be part of its growth\u2014from memes to real investments. \ud83d\udd25 Baby Saphir Features: \ud83d\udca0 Tied to the Saphir Capital ecosystem\u2014a younger brother with bigger ambitions \ud83c\udfaf An entertaining and community-oriented token \ud83d\udc8e Rewards for active holders and participants \ud83d\udc51 Baby Saphir \u2014 small, but with the potential to become a diamond in the crypto world.",
+  "image": "https://i.ibb.co/KzX5jHwj/photo-2025-10-08-20-35-14.png",
+  "name": "Baby Saphir",
+  "social": [
+   "https://x.com/SaphirOnTon",
+   "https://t.me/baby_saphir",
+   "https://t.me/baby_saphir_chat"
+  ],
+  "symbol": "BSAPHIR"
+ },
+ {
   "address": "0:e6c34c46f6617597428b81c8ec0e79eeefd4a4334238a34f6d026467914049ba",
   "description": "The original and most important culture memecoin on TON. $BALD is the movement of polished domes and unstoppable gains. Truly fair launched, real roadmap with doxxed founders. Created by @CoreyWilton | @BaldWorldOrder on Telegram and X.",
   "image": "https://bald.sgp1.cdn.digitaloceanspaces.com/logo.png",
