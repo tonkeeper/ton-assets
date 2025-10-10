@@ -3810,6 +3810,22 @@
   ]
  },
  {
+  "address": "0:b10771fba3f137a00e628c133ae799b3e23e7070db4ed16c21fd6b23b56a1190",
+  "description": "Hash2Cash is a cloud mining service using real ASICs with daily payments in BTC. 1 H2C = 1 TH/s. Details and a profitability calculator are available on the website and in the documentation.",
+  "image": "https://i.postimg.cc/6qRFtrgb/h2c-coin.png",
+  "name": "Hash2Cash",
+  "social": [
+   "https://t.me/hash2cashio",
+   "https://x.com/hash2cashio",
+   "https://www.tiktok.com/@hash2cash"
+  ],
+  "symbol": "H2C",
+  "websites": [
+   "https://hash2cash.io/",
+   "https://docs.hash2cash.io/"
+  ]
+ },
+ {
   "address": "0:45abb71c1747925a5cb4c8527096ae2182e05a195543e25b0711b0821dab2171",
   "description": "",
   "image": "https://m2m.fra1.cdn.digitaloceanspaces.com/image.jpg",
@@ -10038,6 +10054,11 @@
   "address": "0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce",
   "name": "F",
   "symbol": "F"
+ },
+ {
+  "address": "0:4f39cd89ff3a1f6bd727d2cf3102e27d8590500f25023f97518e74ef4d32e4cd",
+  "name": "Fight For Freedom",
+  "symbol": "FFF"
  },
  {
   "address": "0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27",
