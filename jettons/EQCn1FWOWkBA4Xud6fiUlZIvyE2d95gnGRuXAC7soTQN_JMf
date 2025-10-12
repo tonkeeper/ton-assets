@@ -1,1 +1,7 @@
-
+name: "ITA COIN"
+description: "Официальный токен ITA Capital Group"
+symbol: "ITA"
+decimals: 9
+social:
+  - "https://t.me/Isla_Toni"
+image: "https://raw.githubusercontent.com/IslaToni/ton-assets/main/left_big.png"
