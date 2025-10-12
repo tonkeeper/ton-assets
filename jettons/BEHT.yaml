@@ -1,8 +1,19 @@
+```yaml
 name: BehToken
-description: BEHT powers BehLand: a Web3 learning ecosystem where studying, analyzing, and teaching turn into real rewards.
-address: EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX
 symbol: BEHT
+address: EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX
+image: "https://cdn.beh.land/token/logo.jpg"
+
+
+description:
+BEHT powers BehLand — a Web3 learning ecosystem where studying, analyzing, and teaching turn into real rewards.
+
 websites:
-  - "https://beh.land"
+- https://beh.land/
+
 social:
-  - "https://t.me/BehLand_Official"
+- https://t.me/BehLand_Official
+- https://t.me/BehLand_gp
+- https://x.com/behlandOfficial
+- https://youtube.com/@behlandOfficial
+- https://instagram.com/behlandOfficial
