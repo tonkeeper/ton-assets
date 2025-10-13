@@ -634,6 +634,9 @@
 - address: 0:09dbd5a48e32eabbeb9c9808fd034ad19bce94e8ebcd473e3a8aa7755d5cbc3e
   name: Lombard Revival Token
   symbol: LRT
+- address: 0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30
+  name: Leprechaun
+  symbol: LUCKY
 - address: 0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff
   name: LUPA
   symbol: LUPA
