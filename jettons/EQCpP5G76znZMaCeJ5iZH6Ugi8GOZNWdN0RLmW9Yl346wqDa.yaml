@@ -1,8 +1,7 @@
 name: MEDUZA
 symbol: MEDUZA
 decimals: 7
-description: |
-  MEDUZA — сообщество и токен на блокчейне TON, направленный на поддержку медиа и децентрализации информации.
+description: Community-driven token supporting decentralized media on TON.
 image: https://wjm4lsfc7cebmh6zmcghc7dx2eemdpl6avhbeamx5nriixem4piq.arweave.net/slnFyKL4iBYf2WCMcXx30QjBvX4FThIBl-tihFyM49E/logo.png
 social:
   - https://t.me/meduza_eng
