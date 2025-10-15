@@ -70,3 +70,7 @@
 - name: EVK Vault eTON-1
   address: EQAWV5a4fC74iaI0GNdw01iMiWwHuHb2F9ElSC2YstwPVbkz
   symbol: eTON-1
+  
+- name: SingularV TON Tonstakers
+  address: EQDB5MvWYyJxB5wKFnKb-vqiJ2ecHkqV-tVSSdLQ_ibJWOVS
+  symbol: svTON
