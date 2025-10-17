@@ -1,0 +1,11 @@
+address: EQC3oIEGeJnmX-g_uEIIGvyOmHRy9tfMnS3kkB0vEfkdNPsD
+name: Tomcoin
+symbol: TOM
+decimals: 9
+max_supply: 85000000
+image: https://storage.dyor.io/jettons/tomcoin.png
+description: Tomcoin - $TOM
+website: https://bit.ly/3WvYGaM
+social:
+  - https://t.me/TomcoinTom
+proof: https://verifier.ton.org/EQC3oIEGeJnmX-g_uEIIGvyOmHRy9tfMnS3kkB0vEfkdNPsD
