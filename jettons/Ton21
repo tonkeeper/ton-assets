@@ -1,0 +1,13 @@
+name: Ton21
+symbol: T21
+description: >
+  Ton21 (T21) — a community-driven Jetton on The Open Network (TON),
+  focused on transparency, fairness, and long-term ecosystem growth.
+  Built to empower users and developers within the TON community.
+image: "https://ton21-official.github.io/ton21-logo/ton21_logo.png"
+address: EQBLgiPMly982IMGqauqdX0Fe_N01arD-LhlKSfxBd8rzYRG
+decimals: 9
+social:
+  - "https://t.me/Ton21_Army"
+  - "https://x.com/Ton21Official"
+  - "https://ton21-official.github.io/ton21-site/"
