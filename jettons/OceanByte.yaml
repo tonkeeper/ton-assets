@@ -1,0 +1,14 @@
+name: "OceanByte"
+symbol: "OBYT"
+address: "EQBbw21c6iShbne8"
+decimals: 9
+description: "Utility and reward token powering the OceanByte ecosystem with real-world NFT integration."
+website: "https://oceanbyte.live"
+telegram: "https://t.me/OceanBytesss"
+twitter: "https://x.com/oceanbytess"
+image: "https://i.ibb.co/sJzgF4yn/IMG-9002-jpeg.jpg"
+links:
+  - name: "TON Explorer"
+    url: "https://tonviewer.com/EQBbw21c6iShbne8"
+  - name: "DEX (DeDust)"
+    url: "https://dedust.io/swap/TON/EQBbw21cXOitoVOsQthbZMOmFsNqBRITJkL1gztr6iShbne8"
