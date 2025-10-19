@@ -1,0 +1,12 @@
+{
+  "name": "Orbiton",
+  "symbol": "ORBN",
+  "decimals": 11,
+  "address": "EQBEYxPujPPBpdnVEnYVyCQiJfCzFkuSfzT63KDrEzgwWlHb",
+  "description": "Join the Orbit of the TON Universe. ORBITON — The Next Rotation of Finance.",
+  "website": "https://t.me/orbitonfinance",
+  "links": {
+    "telegram": "https://t.me/orbitonfinance"
+  },
+  "image": "https://raw.githubusercontent.com/tonkeeper/ton-assets/main/jettons/EQBEYxPujPPBpdnVEnYVyCQiJfCzFkuSfzT63KDrEzgwWlHb.png"
+}
