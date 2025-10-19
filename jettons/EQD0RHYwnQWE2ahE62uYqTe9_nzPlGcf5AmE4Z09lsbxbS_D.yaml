@@ -1,0 +1,9 @@
+name: TONN
+symbol: TONN
+decimals: 9
+address: EQD0RHYwnQWE2ahE62uYqTe9_nzPlGcf5AmE4Z09lsbxbS_D
+# 必须为可公开访问的直链，且以 .png/.jpg 结尾
+image: https://tonnxx.com/tonn_logo_256.png
+description: TONN is a community Jetton on TON.
+websites:
+  - https://tonnxx.com
