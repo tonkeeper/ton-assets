@@ -7050,6 +7050,23 @@
   ]
  },
  {
+  "address": "0:230814f825b5f90e404f24b07f255f98a068856e5f44ee483f4deaca578d5f23",
+  "description": "Who is Spotty? \ud83d\udc36 A doodle by Pavel Durov (founder of Telegram & VK) that once raised funds for orphanages. What started as a charity sketch became an unofficial mascot across VK, Telegram, and now TON \u2014 uniting communities and spreading positivity across the Web3 world. \ud83d\ude80",
+  "image": "https://i.ibb.co/tT7bgcKL/spottypic.png",
+  "name": "SpottyTon",
+  "social": [
+   "https://x.com/spootyton",
+   "https://t.me/SpottyTONOfficial",
+   "https://t.me/SpottyTelegram",
+   "https://vk.com/club232399178",
+   "https://www.instagram.com/spotty.ton/"
+  ],
+  "symbol": "SPOTTY",
+  "websites": [
+   "https://www.spottyton.com/"
+  ]
+ },
+ {
   "address": "0:ee4a37eb44ef12a67f5702e81b954802c34b11e6f72099aac0e4c9088f780083",
   "description": "SPR - mem token launched on the blum memepad platform aiming to build the largest meme-token community on the TON blockchain",
   "image": "https://cdn.sprcoin.org/jettons/EQDuSjfrRO8Spn9XAugblUgCw0sR5vcgmarA5MkIj3gAg2a1/SPR.png",
