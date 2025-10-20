@@ -2367,7 +2367,7 @@
  {
   "address": "0:0d130ef054c1eb8cbb393806a859fb6246a67d7f020901e781815fd4184ed597",
   "description": "Babel Durop is a play on the retard meta on Pavel Durov. Good CTO just formed after project was abandoned last year. Great meme, Great narry!",
-  "image": "https://i.ibb.co/VYFpYjCS/IMG-6446.jpg",
+  "image": "https://i.ibb.co/h1h6n0bY/IMG-1463.jpg",
   "name": "Babel Durop",
   "social": [
    "https://x.com/BabelDurop",
@@ -3807,6 +3807,22 @@
   "symbol": "HARRY",
   "websites": [
    "https://harrygorilla.com/"
+  ]
+ },
+ {
+  "address": "0:b10771fba3f137a00e628c133ae799b3e23e7070db4ed16c21fd6b23b56a1190",
+  "description": "Hash2Cash is a cloud mining service using real ASICs with daily payments in BTC. 1 H2C = 1 TH/s. Details and a profitability calculator are available on the website and in the documentation.",
+  "image": "https://i.postimg.cc/6qRFtrgb/h2c-coin.png",
+  "name": "Hash2Cash",
+  "social": [
+   "https://t.me/hash2cashio",
+   "https://x.com/hash2cashio",
+   "https://www.tiktok.com/@hash2cash"
+  ],
+  "symbol": "H2C",
+  "websites": [
+   "https://hash2cash.io/",
+   "https://docs.hash2cash.io/"
   ]
  },
  {
@@ -5597,6 +5613,20 @@
   ]
  },
  {
+  "address": "0:5aabc99808f63356e4cd2f7497024f0c30092115ccae7df8a3c0b355fb4cee0c",
+  "description": "Deployed from sTONks.",
+  "image": "https://i.ibb.co/0ygxj9kM/Nyan-cat-250px-frame-PNG.png",
+  "name": "Nyan Cat",
+  "social": [
+   "https://x.com/nyancat_cto1",
+   "https://t.me/nyan_cat_ton"
+  ],
+  "symbol": "NYAN",
+  "websites": [
+   "https://www.nyancat-ton.space/"
+  ]
+ },
+ {
   "address": "0:96b082b08d18a5aa3b7cc105340e0eca6e003c92c943677cd22e10fe40f47016",
   "description": "Naruto the famous anime character on TON",
   "image": "https://raw.githubusercontent.com/Aloeidae/NarutonHost/main/IMG_3134.jpeg",
@@ -6141,7 +6171,7 @@
  {
   "address": "0:c78e917048b63ef4d0b6770aa3125a717bd7cfb75e1de9939407182c93557813",
   "description": "The reward pig that pays you in TON for holding. Don't break the bank \u2014 let it grow.",
-  "image": "https://pouch.jumpshare.com/preview/nd2A9kY6Q5zOkIfL0r2M9pyIQ5Za1a1vSb4CNTnVyBzZa7lpbnpz7yjGPu8i-NBmIAnnqXR0CQ9BRA0Nz1coeyWU45DnygWXShSzUSBjlek",
+  "image": "https://raw.githubusercontent.com/kokokorona/Piggy-bank/refs/heads/main/logo.png",
   "name": "PiggyBank",
   "social": [
    "https://t.me/ItsPiggyBank",
@@ -7017,6 +7047,23 @@
   "symbol": "SPNG",
   "websites": [
    "https://spongeton.org/"
+  ]
+ },
+ {
+  "address": "0:230814f825b5f90e404f24b07f255f98a068856e5f44ee483f4deaca578d5f23",
+  "description": "Who is Spotty? \ud83d\udc36 A doodle by Pavel Durov (founder of Telegram & VK) that once raised funds for orphanages. What started as a charity sketch became an unofficial mascot across VK, Telegram, and now TON \u2014 uniting communities and spreading positivity across the Web3 world. \ud83d\ude80",
+  "image": "https://i.ibb.co/tT7bgcKL/spottypic.png",
+  "name": "SpottyTon",
+  "social": [
+   "https://x.com/spootyton",
+   "https://t.me/SpottyTONOfficial",
+   "https://t.me/SpottyTelegram",
+   "https://vk.com/club232399178",
+   "https://www.instagram.com/spotty.ton/"
+  ],
+  "symbol": "SPOTTY",
+  "websites": [
+   "https://www.spottyton.com/"
   ]
  },
  {
@@ -8738,6 +8785,17 @@
   ]
  },
  {
+  "address": "0:8c938fceba30a7938ea30291e72116e64ed61391299fba357d5fc61ed2abec1d",
+  "decimals": 18,
+  "description": "Herculis Gold Coin (XAUH) is a digital asset representing direct ownership of Swiss-refined, Swiss-audited, Swiss-stored, Swiss-insured and Swiss-managed physical gold. It combines the security of physical gold with the flexibility of blockchain technology.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeibfzke4a2yueebdebtllix6eee3jujyuxtibht6d52jephnaccwhy/xauh-logo.png",
+  "name": "Herculis Gold Coin",
+  "symbol": "XAUH",
+  "websites": [
+   "https://xauh.gold"
+  ]
+ },
+ {
   "address": "0:813d37e084bfbf2ac9a70122c548031529363c95ea69daa6f9adae25e17b01c1",
   "description": "OptimusX transforms daily tasks into tangible crypto rewards. Our Telegram-driven platform merges blockchain transparency with gamified fun, turning each user action into real value. Join us and unlock a new era of community engagement \ud83d\udcaa",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcbptfghl-_ksmnaslfsamvkty8lepp2qb5ra4l4xsbwykm.png?size=lg&key=e6cf3a",
@@ -10040,6 +10098,11 @@
   "symbol": "F"
  },
  {
+  "address": "0:4f39cd89ff3a1f6bd727d2cf3102e27d8590500f25023f97518e74ef4d32e4cd",
+  "name": "Fight For Freedom",
+  "symbol": "FFF"
+ },
+ {
   "address": "0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27",
   "name": "Ferma Invest Dom",
   "symbol": "FID"
@@ -10445,9 +10508,19 @@
   "symbol": "LRT"
  },
  {
+  "address": "0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30",
+  "name": "Leprechaun",
+  "symbol": "LUCKY"
+ },
+ {
   "address": "0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff",
   "name": "LUPA",
   "symbol": "LUPA"
+ },
+ {
+  "address": "0:741ba8cfd2f0d20cc84ec5bc37d557fc65fccbf2fcbfd6f72b679c24594185ad",
+  "name": "Lamborghini ",
+  "symbol": "Lambo"
  },
  {
   "address": "0:5ae8ea1f738bd06755d92d361191b5f8a965160427f4b05060a3491dc5d970ea",
@@ -14556,6 +14629,11 @@
   "address": "0:165796b87c2ef889a23418d770d3588c896c07b876f617d125482d98b2dc0f55",
   "name": "EVK Vault eTON-1",
   "symbol": "eTON-1"
+ },
+ {
+  "address": "0:c1e4cbd6632271079c0a16729bfafaa227679c1e4a95fad55249d2d0fe26c958",
+  "name": "SingularV TON Tonstakers",
+  "symbol": "svTON"
  },
  {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
