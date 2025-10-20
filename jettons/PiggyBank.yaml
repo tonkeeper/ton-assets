@@ -1,7 +1,7 @@
 - address: "EQDHjpFwSLY-9NC2dwqjElpxe9fPt14d6ZOUBxgsk1V4E9NG"
   symbol: "$Piggy"
   name: "PiggyBank"
-  image: "https://pouch.jumpshare.com/preview/nd2A9kY6Q5zOkIfL0r2M9pyIQ5Za1a1vSb4CNTnVyBzZa7lpbnpz7yjGPu8i-NBmIAnnqXR0CQ9BRA0Nz1coeyWU45DnygWXShSzUSBjlek"
+  image: "https://raw.githubusercontent.com/kokokorona/Piggy-bank/refs/heads/main/logo.png"
   description: "The reward pig that pays you in TON for holding. Don't break the bank — let it grow."
   websites:
     - "http://itspiggybank.tilda.ws/"
