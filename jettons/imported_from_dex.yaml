@@ -640,6 +640,9 @@
 - address: 0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff
   name: LUPA
   symbol: LUPA
+- address: 0:741ba8cfd2f0d20cc84ec5bc37d557fc65fccbf2fcbfd6f72b679c24594185ad
+  name: 'Lamborghini '
+  symbol: Lambo
 - address: 0:5ae8ea1f738bd06755d92d361191b5f8a965160427f4b05060a3491dc5d970ea
   name: META
   symbol: M5
