@@ -5613,6 +5613,20 @@
   ]
  },
  {
+  "address": "0:5aabc99808f63356e4cd2f7497024f0c30092115ccae7df8a3c0b355fb4cee0c",
+  "description": "Deployed from sTONks.",
+  "image": "https://i.ibb.co/0ygxj9kM/Nyan-cat-250px-frame-PNG.png",
+  "name": "Nyan Cat",
+  "social": [
+   "https://x.com/nyancat_cto1",
+   "https://t.me/nyan_cat_ton"
+  ],
+  "symbol": "NYAN",
+  "websites": [
+   "https://www.nyancat-ton.space/"
+  ]
+ },
+ {
   "address": "0:96b082b08d18a5aa3b7cc105340e0eca6e003c92c943677cd22e10fe40f47016",
   "description": "Naruto the famous anime character on TON",
   "image": "https://raw.githubusercontent.com/Aloeidae/NarutonHost/main/IMG_3134.jpeg",
