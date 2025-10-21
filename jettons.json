@@ -2045,6 +2045,20 @@
   ]
  },
  {
+  "address": "0:b9ba1a64d4aa1c6b766321671ca2f6517abb67ed75b888ccad3b635c1f9b84cb",
+  "description": "The unofficial mascot of Telegram $CUPKO is to wish you a GM every morning with his cup of coffee and his sleepy look",
+  "image": "https://raw.githubusercontent.com/devmustee/Cupko-logo/main/cupko.jpg",
+  "name": "CUPKO",
+  "social": [
+   "https://x.com/CupkoTON",
+   "https://t.me/CupkoTON"
+  ],
+  "symbol": "$CUPKO",
+  "websites": [
+   "https://cupkoton.fun"
+  ]
+ },
+ {
   "address": "0:7f13ec43e11bc7a8707e6ea09f06e5a19e3f2581810537d7b2999ac2d9833151",
   "description": "The token that took 1 place in the BlumMemePad Best Token Competition. $DARK is a next-generation token offering access to exclusive channels and events.",
   "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/dark.JPG",
