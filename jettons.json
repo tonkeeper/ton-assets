@@ -8979,7 +8979,6 @@
  },
  {
   "address": "0:d79ad6edd7e5923f4d2d4a1e8de851fee255fb2db9eb8ce442966b66b99aa0e1",
-  "description": "Affluent/Strategy-Vault/Ethena-Multiply-1/By-SingularV",
   "name": "Ethena Multiply Vault",
   "social": [
    "https://x.com/AffluentOrg",
@@ -9060,6 +9059,11 @@
    "https://affluent.org/",
    "https://app.affluent.org/"
   ]
+ },
+ {
+  "address": "0:f717b131feec418f112e6fc160783a186144886c0515c9e8426ff25288254bdf",
+  "name": "Ethena Vault",
+  "symbol": "affUSDe"
  },
  {
   "address": "0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d",
