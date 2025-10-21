@@ -1547,6 +1547,20 @@
   "symbol": "CANY"
  },
  {
+  "address": "0:27c5bb8c3db44e05a923acdfa7a9de12fe39ff2981a5b32f69c0858afd6c7e88",
+  "description": "$CAPSTR is the strategy tax token for Durov's Caps. Fees buy caps, sell at 1.2x cost, proceeds buy and burn $CAPSTR | website: https://capstrategy.fun/ | tg: https://t.me/DurovsCapStrategy",
+  "image": "https://raw.githubusercontent.com/hiruyaken/CAPSTR/refs/heads/main/coinA.png",
+  "name": "Capstrategy",
+  "social": [
+   "https://t.me/DurovsCapStrategy",
+   "https://x.com/durovscapstrat"
+  ],
+  "symbol": "CAPSTR",
+  "websites": [
+   "https://capstrategy.fun/"
+  ]
+ },
+ {
   "address": "0:d89ee523b57f514a75ae396378125ee18e9db9dcbec204539e134492a5385138",
   "description": "Carrot Farming is a project where users can get rewards by playing.",
   "image": "https://i.imgur.com/EOZwOD2.jpeg",
