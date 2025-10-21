@@ -1,10 +1,10 @@
-name: Tomcoin
-description: Tomcoin - $TOM
-address: EQC3oIEGeJnmX-g_uEIIGvyOmHRy9tfMnS3kkB0vEfkdNPsD
-symbol: TOM
-image: https://storage.dyor.io/jettons/images/1760015958/16729457.png
+name: "Tomcoin"
+description: "Tomcoin - $TOM"
+address: "EQC3oIEGeJnmX-g_uEIIGvyOmHRy9tfMnS3kkB0vEfkdNPsD"
+symbol: "TOM"
+image: "https://storage.dyor.io/jettons/images/1760015958/16729457.png"
 websites:
-  - https://tomcointom.blogspot.com/?m=1
+  - "https://tomcointom.blogspot.com/?m=1"
 social:
-  - https://t.me/TomcoinTom
-  - https://t.me/tomcoin62_bot
+  - "https://t.me/TomcoinTom"
+  - "https://t.me/tomcoin62_bot"
