@@ -1,0 +1,11 @@
+json
+{
+  "name": "CDPB",
+  "symbol": "CDPB",
+  "description": "CDPB is a blockchain-powered token redefining digital publishing by enabling creators, readers, and partners to own and earn from the ecosystem.",
+  "image": "file_000000002e08624385851a108712b74a.png",
+  "decimals": 6,
+  "address": "EQA1dfD66sM6Rmlb13TvnAlEpcUQtjhFsxP1W6veKuchimCA",
+  "max_supply": "1000000",
+  "verified": false
+}
