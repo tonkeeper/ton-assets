@@ -144,6 +144,21 @@
   "symbol": "GWT"
  },
  {
+  "address": "0:9533390ea73a03236882751de4c7711a326931ebd931cfdb805db871810bc278",
+  "description": "$HOOD, that\u2019s more than just a \u200bmeme\u2014it's a movement.Born on \u200bthe TON blockchain, $HOOD is a \u200bsymbol of our commitment to \u200bdecentralized finance and the \u200bpower of community",
+  "image": "https://live.staticflickr.com/65535/54870243831_2c1812a81d_m.jpg",
+  "name": "Resistance Hoodie",
+  "social": [
+   "t.me/HOOD_CTO",
+   "https://x.com/ResistanceHood",
+   "https://discord.gg/RaBJc5x9"
+  ],
+  "symbol": "HOOD",
+  "websites": [
+   "https://hoodcto.com"
+  ]
+ },
+ {
   "address": "0:d2091f92e04dd49ee83087c4e000af76550f63f9f02ec60cb93b623aacb0b99c",
   "description": "The Incaverse Token is the core digital asset powering the Incaverse Game Platform, seamlessly blending AI, blockchain, and gaming to create an immersive Web3 ecosystem.",
   "name": "INCAVERSE Token",
