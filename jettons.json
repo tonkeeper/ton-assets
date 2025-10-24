@@ -9408,6 +9408,17 @@
   ]
  },
  {
+  "address": "0:68153f84153be7e6f0f6877ce47dcce484c508ef4b492630ba9a9e780027a67d",
+  "description": "The hottest sticker pack on Telegram",
+  "image": "https://image2url.com/images/1760923151370-8e3a7d8a-99dc-414f-8f6a-daf489ddd904.png",
+  "name": "Little Flame",
+  "social": [
+   "https://x.com/tonflamecoin/",
+   "https://t.me/LittleFlameOfficial"
+  ],
+  "symbol": "FLAME"
+ },
+ {
   "address": "0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d",
   "name": "FRAGMENT",
   "symbol": "FRG"
