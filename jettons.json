@@ -9458,6 +9458,17 @@
   ]
  },
  {
+  "address": "0:2dc28eaa30dc2daf489303d78a559df672e002149d1529defc1ab05639ef37f9",
+  "description": "The oldest living memecoin on TON",
+  "image": "https://image2url.com/images/1760920879278-caff1137-7434-41f6-af15-5f844b61c755.jpg",
+  "name": "Groyper",
+  "social": [
+   "https://x.com/groyp_on_ton",
+   "https://t.me/GroyperonTon"
+  ],
+  "symbol": "GROYP"
+ },
+ {
   "address": "0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc",
   "image": "https://hpo.hipo.finance/hpo.png",
   "name": "Hipo Governance Token",
