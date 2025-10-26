@@ -1,0 +1,9 @@
+address: "EQA3ZjX2zGw5yqs3jPLfesJipnxXSYvSPCDN4lUhGVq730Pf"
+name: "iU$Dollar"
+symbol: "iU$D₮"
+decimals: 6
+description: "Внутренний токен проекта iU$D₮. Фиксированная цена: 1 iU$D₮ = 1 USD (≈ 90₽). Не является платёжным средством. Торговля отключена."
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tree-256x256.png"
+website: "https://t.me/your_project_channel"
+price_usd: 1
+verified: true
