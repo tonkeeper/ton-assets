@@ -1,0 +1,10 @@
+name: VoyCoin
+symbol: VOY
+description: VoyCoin is a digital asset of the VOY ecosystem, serving as the foundation for transactions and interactions within the TON network.
+image: https://gateway.pinata.cloud/ipfs/bafybeic3wbgqpvkfhhvzpfvv3kcznbzhu4rlbuwbycgumar7d2qskl5qva
+address: <YOUR_JETTON_MASTER_ADDRESS>
+decimals: 9
+websites:
+  - https://voyproject.io
+social:
+  - https://t.me/voyproject
