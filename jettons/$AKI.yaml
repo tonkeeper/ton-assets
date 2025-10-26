@@ -1,0 +1,11 @@
+name: AKICOIN
+description: Akimata official coin.
+image: "https://raw.githubusercontent.com/akimata1/akicoin/refs/heads/main/assets/aki256.png"  
+address: EQD86kt_GRiuDv0DP8Ew2Zey_SQlT_LfKeAMxGSyvo7SGwSM
+symbol: AKI
+websites:
+  - "https://coin.akimata.com"
+social:
+  - "https://t.me/akimatacoin"
+  - "https://x.com/akimatacoin"
+  - "akicoin.ton"
