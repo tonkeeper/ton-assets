@@ -778,6 +778,9 @@
 - address: 0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6
   name: NikolAI
   symbol: NIKO
+- address: 0:306f7bca7d878d706df38ce3a01e98a14bdb1b451d4aaf3d037ed943a5137488
+  name: Nepal Monarchy GOLD
+  symbol: NMGOLD
 - address: 0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684
   name: NO Rocket
   symbol: 'NO'
