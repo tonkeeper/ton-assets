@@ -8003,19 +8003,20 @@
   ]
  },
  {
-  "address": "0:b31da97af23fe829a766513bcaf4db35f4fffe6e4f0f72b1ddb979341f670804",
+  "address": "0:18cc2be1cbafad5a703d7d78e71e8ca34c9d3660b12f587f8612032e39b04666",
   "description": "Toki - this is what you need\u23f3 \u30c8\u30ad \u30c8\u30f3",
-  "image": "https://raw.githubusercontent.com/jetmoonton/connect/main/TOKI/TOKIlogo.png",
+  "image": "https://raw.githubusercontent.com/jetmoonton/connect/main/TOKI/toki.png",
   "name": "TOKI",
   "social": [
    "https://t.me/jetmoonton",
-   "https://x.com/xTokiton",
-   "https://t.me/xtokiton",
    "https://t.me/tokiton",
-   "https://t.me/tokitonbot"
+   "https://t.me/xtokiton",
+   "https://t.me/tokitonbot",
+   "https://x.com/xTokiton"
   ],
   "symbol": "TOKI",
   "websites": [
+   "https://getgems.io/jetmoonton",
    "https://getgems.io/tokiton"
   ]
  },
