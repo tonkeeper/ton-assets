@@ -1,0 +1,12 @@
+address: "EQBxGOVZylQmVor0mGt-ePKe_VDKvOWjMZ_mf4bRKzYDOwN1"
+name: "iUSDx"
+symbol: "iUSDx"
+decimals: 6
+description: "Internal utility token of the iUSDx project. Fixed rate: 1 iUSDx = 1 USD equivalent. Not a payment instrument. Trading is disabled."
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tree-256x256.png"
+websites:
+  - "https://t.me/iusdx"
+social:
+  - "https://t.me/iusdx"
+price_usd: 1
+verified: true
