@@ -1,0 +1,11 @@
+address: "EQB2CPpgOOeoY_wJDm0sy25Z8CfDeUncLIDx3tomkxTMWFVL"
+name: "Tax Gifts"
+symbol: "TGF"
+decimals: 5
+image: "https://raw.githubusercontent.com/Daylight010241658416541/ton-assets/main/jettons/tgf.png"
+description: "Игровой токен $TGF используется в Telegram-боте DashGaming для розыгрышей, аукционов и подарков внутри экосистемы Telegram Gifts. Токен создан в рамках игрового комьюнити Dash и поддерживает активность пользователей в TON."
+social:
+  - "https://t.me/DashGamingBot"
+  - "https://t.me/Dash_News"
+websites:
+  - "https://dashgames/ru"
