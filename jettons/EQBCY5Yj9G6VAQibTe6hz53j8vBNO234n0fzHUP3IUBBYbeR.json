@@ -1,0 +1,15 @@
+{
+  "address": "EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3IUBBYbeR",
+  "name": "RANNTA Coin",
+  "symbol": "RANNTA",
+  "decimals": 9,
+  "description": "RANNTA is the living consciousness token of the RANNTAverse — a decentralized field connecting art, blockchain, and collective intelligence.",
+  "image": "https://raw.githubusercontent.com/ilia144000/rannta-token/main/image.png",
+  "websites": ["https://rannta.com"],
+  "social": {
+    "twitter": "https://x.com/ranntacoin",
+    "telegram": "https://t.me/rannta_coin",
+    "github": "https://github.com/ilia144000/rannta-token",
+    "nft": "http://getgems.io/rannta-cycle"
+  }
+}
