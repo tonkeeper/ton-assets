@@ -7815,6 +7815,18 @@
   ]
  },
  {
+  "address": "0:a99aa4687470de430b18a88ab672ab8da31f40895854948e6b6d6ece5b8b28cd",
+  "description": "The first memecoin representing Goodies\u2019 Teddie Nakamoto",
+  "image": "https://i.ibb.co/Vc6W92Hq/teddie.jpg",
+  "name": "Teddie Nakamoto",
+  "social": [
+   "https://t.me/TeddieNakamotoGoodies",
+   "https://x.com/tednakamoto",
+   "https://teddienakamoto.fun"
+  ],
+  "symbol": "TEDDIE"
+ },
+ {
   "address": "0:793ef6429fe19e07cceccb3f7a5ee5c05d9fef08a1a779b0a57366671a16318f",
   "decimals": 9,
   "description": "Cat Teftel, the mischievously adorable feline sticker pack, emerges from the depths of cyberspace, embodying the whimsical spirit of Telegram's vibrant sticker culture with each playful meow and animated tail flick.",
