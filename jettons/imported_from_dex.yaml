@@ -349,6 +349,9 @@
 - address: 0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0
   name: DRAGONZ LAND
   symbol: DRAGONZ
+- address: 0:65e65b1043d6295705284e571d7ac5408e2a9af968a6896dbd1700c7720024c6
+  name: DRFT Coin
+  symbol: DRFT
 - address: 0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda
   name: TON Drift
   symbol: DRIFT
