@@ -1,0 +1,12 @@
+# jettons/cocoon.yaml
+
+name: "Cocoon"
+symbol: "COCOON"
+decimals: 9
+description: "$COCOON — From Pavel Durov’s AI vision to a memecoin reality. Born in AI, raised in TON. Sucking liquidity since day one.."
+address: "EQBiyZMUXvdnRYFUk3_R5uPdsR2ROI9mes_1S-jL1tIQDhDK"
+image: "https://i.ibb.co/GQxsts78/1000033536-jpg.jpg"
+social:
+  - "https://t.me/cocoon_moon"
+  - "https://x.com/COCOONONTON"
+  - "cocoonton.space"
