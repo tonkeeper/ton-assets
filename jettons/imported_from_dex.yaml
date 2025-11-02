@@ -253,6 +253,9 @@
 - address: 0:d45aef4cff9351f35d9a8f9ac8dc50c182755b2f2c9cbe3f856ffbb417ffc22c
   name: Closecoin
   symbol: CLOSE
+- address: 0:62c993145ef767458154937fd1e6e3ddb11d91388f667acff54be8cbd6d2100e
+  name: Cocoon
+  symbol: COCOON
 - address: 0:3d75ac8429f96b2fec087fe18a1a2ce3dbaa6f5f4402231c26460ab383953f73
   name: Coffee
   symbol: COFE
@@ -1253,6 +1256,9 @@
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
+- address: 0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286
+  name: TonMemeRepublic
+  symbol: TMP
 - address: 0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956
   name: TON FORD
   symbol: TNFRD
