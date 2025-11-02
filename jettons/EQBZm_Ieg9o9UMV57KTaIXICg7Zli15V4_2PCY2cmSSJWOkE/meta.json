@@ -1,0 +1,21 @@
+{
+  "name": "GreenTree",
+  "symbol": "GT",
+  "description": "Eco-driven blockchain initiative on TON. GT is distributed via an airdrop campaign and supported by active liquidity pools on DeDust and STON.fi.",
+  "decimals": 9,
+  "image": "https://greentreebot.me/logo.png",
+  "address": "EQBZm_Ieg9o9UMV57KTaIXICg7Zli15V4_2PCY2cmSSJWOkE",
+  "social": {
+    "website": "https://greentreebot.me",
+    "telegram_bot": "https://t.me/Green_Treebot",
+    "telegram_channel": "https://t.me/GreenTree_coin",
+    "twitter": "https://x.com/Green_Tree_coin",
+    "youtube": "https://www.youtube.com/@Green_Tree-o7f",
+    "instagram": "https://www.instagram.com/greentree_bot"
+  },
+  "links": {
+    "dedust_pool": "https://dedust.io/pools/EQAYsH0jx4XqtTBojJgj4z0xNn98bp_G91cyDIehH5Vs0sWG",
+    "stonfi_pool": "https://app.ston.fi/pools/EQAwWkRpCbO4w2sh3XtK_bqwmJyEfs3hsqV_58wgrqO5otZW",
+    "logo_ipfs_backup": "https://gateway.pinata.cloud/ipfs/bafkreid37tqxajcsxhjdogp6qv4kswaqipidw43dabkrn7kyg6zicvq6im"
+  }
+}
