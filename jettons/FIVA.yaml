@@ -201,3 +201,147 @@
 - symbol: LP tsTON
   name: LP tsTON (01Sep2025)
   address: "EQDX0WgEkv9hWLAAovC9zvQimBTILzRx0QCp610vVotmkCui"
+
+- symbol: SY eTON-1
+  name: SY eTON-1 (18Dec2025)
+  address: "EQDEfr89L-vIsH6Q_eEa73XLq3M5j0bgolze9TPpqOdn6RTm"
+
+- symbol: PT eTON-1
+  name: PT eTON-1 (18Dec2025)
+  address: "EQDE2ahaAUkJC6DLKd_p98TIe86qfavE6CCeJVi1HVt-wtTc"
+
+- symbol: YT eTON-1
+  name: YT eTON-1 (18Dec2025)
+  address: "EQDELwrJmp9ezVz_t8N702bGcuQA_9sv1INKYGxXIDdl2Cpx"
+
+- symbol: LP eTON-1
+  name: LP eTON-1 (18Dec2025)
+  address: "EQDE_Cgt5roSb2XMY8QBa-LEsjvr8T9Od9csBrMHrcdzJr1g"
+
+- symbol: SY tsUSDe
+  name: SY tsUSDe (18Dec2025)
+  address: "EQBxUy6vYBo3zb0v1XvJP2kePQQ7D2447i5EymEdvyTAJlVi"
+
+- symbol: PT tsUSDe
+  name: PT tsUSDe (18Dec2025)
+  address: "EQBxIkea3baUXLtPVuVaSMsWIkC5S0It3OcM8MeYpPnoEWeM"
+
+- symbol: YT tsUSDe
+  name: YT tsUSDe (18Dec2025)
+  address: "EQBxIgxpquCylbxvFGCfJ4D05321O2Qq_pGHOU5o8OB_Tyxb"
+
+- symbol: LP tsUSDe
+  name: LP tsUSDe (18Dec2025)
+  address: "EQBxKGABiHmQl-idPx1ZgoVlXfGCIM4gV5zQYW3dnSPiGvn4"
+
+- symbol: SY USDe
+  name: SY USDe (18Dec2025)
+  address: "EQA8xzTSbgG8yMGPAC4te9c9YrezJ3X3vQ6dxhodXU0KIWeH"
+
+- symbol: PT USDe
+  name: PT USDe (18Dec2025)
+  address: "EQA8bEblTuAGUK_YPsgN7wdO3I27xkc1Vj5se4JvsRx4BkBl"
+
+- symbol: YT USDe
+  name: YT USDe (18Dec2025)
+  address: "EQA804sUkYrCd4JOzGu-J4Un77KyjXPItB225VHtYhVtGAcS"
+
+- symbol: LP USDe
+  name: LP USDe (18Dec2025)
+  address: "EQA8AdykSHyiptG78bDGZtsVF9LyHgBaSZocj3SmyywYSphs"
+
+- symbol: SY tsTON
+  name: SY tsTON (18Dec2025)
+  address: "EQBoiugW7Q6X4r6hEfN-r-9ZI8Fmc3s9qRGysPeP-CEjdp9P"
+
+- symbol: PT tsTON
+  name: PT tsTON (18Dec2025)
+  address: "EQBoqdPuprssQrj691byTCo1nyI5wmUliYHovIeeDppbg5Gx"
+
+- symbol: YT tsTON
+  name: YT tsTON (18Dec2025)
+  address: "EQBoFoRJFobchNd8EgI6FR4aeuzOUI_RIMcnjSw8-3iqqiuv"
+
+- symbol: LP tsTON
+  name: LP tsTON (18Dec2025)
+  address: "EQBo5j7Px8aa7LN47JgvXchBF3EMKILpr2xxOtzqVE8cNOuE"
+
+- symbol: SY stgUSD
+  name: SY stgUSD (18Dec2025)
+  address: "EQDNpu_tNKXhXcJDD5pqutEp4YpmeW2EgJqWQAmCgicBWl_u"
+
+- symbol: PT stgUSD
+  name: PT stgUSD (18Dec2025)
+  address: "EQDNiQ13RGuijd5XAO_3I_JB3pN-INKnRf78gZQwMzyxhkLt"
+
+- symbol: YT stgUSD
+  name: YT stgUSD (18Dec2025)
+  address: "EQDNmcwxpWdjMV6yLQOTZWPJGJWeWlPWhHz-esDgB2OhXnka"
+
+- symbol: LP stgUSD
+  name: LP stgUSD (18Dec2025)
+  address: "EQDNy7i3-lXAFNXhel1SkG3EftvdDWVNNQ24FWVl-sr1Xg22"
+
+- symbol: SY USDT-SLP
+  name: SY USDT-SLP (18Dec2025)
+  address: "EQBbmjEHGkEDofbig93IAOE-aiQ_4caa1fVcn97GBjfNzV-Z"
+
+- symbol: PT USDT-SLP
+  name: PT USDT-SLP (18Dec2025)
+  address: "EQBbskvn29m8tIlIXfAmjWYR81mA6qoQjhMUs6ckvNxCTuYx"
+
+- symbol: YT USDT-SLP
+  name: YT USDT-SLP (18Dec2025)
+  address: "EQBbwiVmFX-9uDufmr3QWtsS2rox8cGft5g3tdwb43YVGcHs"
+
+- symbol: LP USDT-SLP
+  name: LP USDT-SLP (18Dec2025)
+  address: "EQBbv9X8tgcyx4nBpb25MBp_-4XKwMS6dKTCc_1H3cFJwhkU"
+
+- symbol: SY TON-SLP
+  name: SY TON-SLP (18Dec2025)
+  address: "EQBrHC-Fhg9_YupfujOuC2OTeVkkDrgpyHM63gfBdqYYe_pt"
+
+- symbol: PT TON-SLP
+  name: PT TON-SLP (18Dec2025)
+  address: "EQBrmmvsA7JKUaAhUWKRL4Kg7Ak0XBpDFiTXp4f2J5uYsDV-"
+
+- symbol: YT TON-SLP
+  name: YT TON-SLP (18Dec2025)
+  address: "EQBreWrBMl7v0njV-Xv4uPEaKxnTZKzrulYrotq-u3MoDbZb"
+
+- symbol: LP TON-SLP
+  name: LP TON-SLP (18Dec2025)
+  address: "EQBrbqzn3OFDtHU9POuNKS-mPfNw25mxt0hBOOLvbUGi-qp-"
+
+- symbol: SY eTON-2
+  name: SY eTON-2 (18Dec2025)
+  address: "EQAtpIx_bdafAUKZ57W22zwFL9nwGg5fl7hOdGrZdkLTXbv7"
+
+- symbol: PT eTON-2
+  name: PT eTON-2 (18Dec2025)
+  address: "EQAtV7fDbEmLZpUbivGWVlM-RqVxNVkdwej-Q6IPGP2exgs0"
+
+- symbol: YT eTON-2
+  name: YT eTON-2 (18Dec2025)
+  address: "EQAt2m5Ud8PYk6WKVmqyVXYo94obj5UpZomvTXa87JlEOEG0"
+
+- symbol: LP eTON-2
+  name: LP eTON-2 (18Dec2025)
+  address: "EQAtEBj46vW3gCpt1JtEjd7PMJKPUAqNuC_eAZbD9i57mcbj"
+
+- symbol: SY eUSDT
+  name: SY eUSDT (18Dec2025)
+  address: "EQAUbmuQpEiYedIUK540uqjG7HkGasTR6ZEE18zdfU-LsjLq"
+
+- symbol: PT eUSDT
+  name: PT eUSDT (18Dec2025)
+  address: "EQAUHs30aHqcFD6nTpPHnGYZ6yUMWn5QR5SyIB_vFgHvvHLs"
+
+- symbol: YT eUSDT
+  name: YT eUSDT (18Dec2025)
+  address: "EQAUbR-uCwwdX7stkG1ZYLxDvLhwQbR-BBNyHHlMpvS_wxAx"
+
+- symbol: LP eUSDT
+  name: LP eUSDT (18Dec2025)
+  address: "EQAUPdPpAMNaMfKwesMEgxzxDn3xEdTPF3_42_6bX44qPFRG"

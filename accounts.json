@@ -168,6 +168,14 @@
   "name": "Marketapp Marketplace"
  },
  {
+  "address": "0:04f3c1c795ac8905e31734362b149875ab9522ae5383ab7abb2e10da5da8ba82",
+  "name": "Portals Marketplace"
+ },
+ {
+  "address": "0:310569f85cd583d93c98c59de87d28c6965f5412eb43a4d4e80313226f8bd4c7",
+  "name": "Thermos"
+ },
+ {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/morgenshtern_288.png",
   "name": "Morgenshtern"
@@ -937,6 +945,15 @@
  {
   "address": "0:d0a6eb95408e95ce97b0ca597fc523ff4809523635e8f519e00fdcbdf42f0c54",
   "name": "Flipster Withdrawal"
+ },
+ {
+  "address": "0:ec85cfc7fd1009362e421b5a0141f510d6540107ab73e7829fda1ef9e97a75e3",
+  "name": "CryptoBot"
+ },
+ {
+  "address": "0:817438e5b0e6eb113ab74d73fc95f7ec19247dbe6ee27a42c3d0164d614c3ca1",
+  "name": "Ourbit",
+  "require_memo": true
  },
  {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
