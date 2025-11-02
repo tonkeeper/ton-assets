@@ -61,9 +61,6 @@
 - address: 0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f
   name: Amocucinare
   symbol: AMORE
-- address: 0:fb1522574798299f2b36ba7d7fdde4bbd44f9ba4b0c527a1d56474801d8caf41
-  name: Anubis Dog
-  symbol: ANDO
 - address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
   name: Andy
   symbol: ANDY
@@ -103,9 +100,6 @@
 - address: 0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e
   name: Billionaire Boys Club
   symbol: BBC
-- address: 0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc
-  name: Baby Lady
-  symbol: BBLady
 - address: 0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620
   name: Baby Notcoin
   symbol: BBNOT
@@ -222,9 +216,6 @@
   symbol: CAVI
 - address: 0:697c3e6ae1a1601d4d7b2af34f37f3f440ecb8d4c3888f64f0197d1b6c0cf8e0
   name: Communist Cat
-  symbol: CCAT
-- address: 0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884
-  name: Clown cat coin
   symbol: CCAT
 - address: 0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad
   name: swap.coffee
@@ -397,9 +388,6 @@
 - address: 0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184
   name: eTON NFT
   symbol: ENFT
-- address: 0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681
-  name: Evaa protocol
-  symbol: EVAA
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
@@ -484,9 +472,6 @@
 - address: 0:1807ab429dc9efb20b06c63b45129d72e8ac3f721e1ae6e73a9e00082c468f38
   name: GiftHub
   symbol: GH
-- address: 0:3d55029b8f831207493eeec2b552b6322209fd527529197a5472405ef7ea2c97
-  name: Gifts Strategy
-  symbol: GIFTSTR
 - address: 0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425
   name: GLITCH
   symbol: GLITCH
@@ -1054,9 +1039,6 @@
 - address: 0:93d40bdb9fbc1f909e39087454d4f71d61dee00a75bb4eae768687f6507c3709
   name: SAD WOOF
   symbol: SADWOOF
-- address: 0:781f4cf6c48d95b7666d074c6589fc5b93e95de4715421b304ea0fd83bab665b
-  name: Safeton Strategy
-  symbol: SAFE
 - address: 0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d
   name: Saintcoin
   symbol: SAINT
@@ -1156,9 +1138,6 @@
 - address: 0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74
   name: Stellarium
   symbol: STL
-- address: 0:9113c9699efe3ea1995a48e1a09fa19dc6b1c20e4349eac7f7ce502204d1d4d2
-  name: Sticker Strategy
-  symbol: STST
 - address: 0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb
   name: Seahava token
   symbol: SVV
