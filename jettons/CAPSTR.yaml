@@ -1,0 +1,10 @@
+name: Capstrategy
+description: "$CAPSTR is the strategy tax token for Durov's Caps. Fees buy caps, sell at 1.2x cost, proceeds buy and burn $CAPSTR | website: https://capstrategy.fun/ | tg: https://t.me/DurovsCapStrategy"
+image: "https://raw.githubusercontent.com/hiruyaken/CAPSTR/refs/heads/main/coinA.png"
+address: EQAnxbuMPbROBakjrN-nqd4S_jn_KYGlsy9pwIWK_Wx-iI_-
+symbol: CAPSTR
+websites:
+  - "https://capstrategy.fun/"
+social:
+  - "https://t.me/DurovsCapStrategy"
+  - "https://x.com/durovscapstrat"
