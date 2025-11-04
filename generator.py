@@ -31,7 +31,7 @@ def collect_all_dexes():
     for jetton in jettons:
         already_exist_address[normalize_address(jetton["address"], True)] = True
 
-    assets =  __get_stonfi_assets() 
+    assets =  __get_dedust_assets() + __get_stonfi_assets()
     assets_for_save = dict()
     for idx, asset in enumerate(assets):
         asset.address = normalize_address(asset.address, True)
