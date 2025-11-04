@@ -253,9 +253,6 @@
 - address: 0:d45aef4cff9351f35d9a8f9ac8dc50c182755b2f2c9cbe3f856ffbb417ffc22c
   name: Closecoin
   symbol: CLOSE
-- address: 0:62c993145ef767458154937fd1e6e3ddb11d91388f667acff54be8cbd6d2100e
-  name: Cocoon
-  symbol: COCOON
 - address: 0:3d75ac8429f96b2fec087fe18a1a2ce3dbaa6f5f4402231c26460ab383953f73
   name: Coffee
   symbol: COFE
