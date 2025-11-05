@@ -349,6 +349,9 @@
 - address: 0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0
   name: DRAGONZ LAND
   symbol: DRAGONZ
+- address: 0:65e65b1043d6295705284e571d7ac5408e2a9af968a6896dbd1700c7720024c6
+  name: DRFT Coin
+  symbol: DRFT
 - address: 0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda
   name: TON Drift
   symbol: DRIFT
@@ -1250,6 +1253,9 @@
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
+- address: 0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286
+  name: TonMemeRepublic
+  symbol: TMR
 - address: 0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956
   name: TON FORD
   symbol: TNFRD
