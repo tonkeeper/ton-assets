@@ -60,3 +60,6 @@
 - address: EQD3F7Ex_uxBjxEub8FgeDoYYUSIbAUVyehCb_JSiCVL369T
   symbol: affUSDe
   name: Ethena Vault
+- address: "EQBowXTtxDTSMEJbrIIcYzIvSXZ9V5HW2Oo2iSW0chUzod3d"
+  symbol: affGOLDm
+  name: Gold Multiply Vault
