@@ -9369,6 +9369,11 @@
   "symbol": "affUSDe"
  },
  {
+  "address": "0:68c174edc434d230425bac821c63322f49767d5791d6d8ea368925b4721533a1",
+  "name": "Gold Multiply Vault",
+  "symbol": "affGOLDm"
+ },
+ {
   "address": "0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d",
   "description": "$AMBER is a token created by AmberTON, a company that develops useful and free applications and games for TON users. The $AMBER token serves as a tool for interaction within the AmberTON ecosystem, allowing users to earn rewards for participating in projects, improving, and testing applications. The main goal is to create an accessible environment where everyone can benefit from and enjoy using TON-based technologies.",
   "image": "https://api.beeharvest.life/upload/ambr.png",
