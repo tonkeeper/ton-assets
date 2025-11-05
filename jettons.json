@@ -739,6 +739,16 @@
   ]
  },
  {
+  "address": "0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a",
+  "description": "That's a fan token of @vzglyadavtora. Only buy if you want it and subscribe to the channel.",
+  "image": "https://i.postimg.cc/85rmR4Tj/IMG-5283-2.png",
+  "name": "VZGLYAD AVTORA",
+  "social": [
+   "https://t.me/dmtholders"
+  ],
+  "symbol": "AVTR"
+ },
+ {
   "address": "0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07",
   "description": "We are a big community token AXM. We have Axiome Wallet for staking (20% rewards per month), AxiomePay (VISA, MasterCard, UnionPay), Testnet DEX NEXDEX will be in January.",
   "image": "https://storage.dyor.io/jettons/EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4/image.jpeg",
@@ -2289,6 +2299,16 @@
   ]
  },
  {
+  "address": "0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340",
+  "description": "The most psychedelic token in the whole crypto community.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2esHR3DHbc1lgZLGTtPJ7y2fc4SxQRuwPDGfWI-IGw&s",
+  "name": "Dimethyltryptamine",
+  "social": [
+   "https://t.me/dmtholders"
+  ],
+  "symbol": "DMT"
+ },
+ {
   "address": "0:a7174b62237bc19168cb91b40468a60e0048385707c83b07773d81d7d78a45ff",
   "description": "The DOBRO token is created to bring a little more goodness to the world. You can share goodness, receive it, or protect it. In any case, goodness only brings more goodness.",
   "name": "Good By Default",
@@ -3523,6 +3543,16 @@
   ]
  },
  {
+  "address": "0:3309d04825d6599e97e7e21eedec03a4e44ecc01ac54b0844006ea25562199ae",
+  "description": "That\u2019s FROG token - the native token of FROG P2P exchange.",
+  "image": "https://i.postimg.cc/FztNPWWh/Frame-241.png",
+  "name": "Leagushka",
+  "social": [
+   "https://t.me/dmtholders"
+  ],
+  "symbol": "FROG"
+ },
+ {
   "address": "0:66eb43d0faa9082a73d62f1a976b7227dc0ac8bfc2f4a913685ad18101f99c58",
   "description": "FROMG is an animated Telegram sticker pack featuring a popular green frog. It has been CTOd by community.",
   "image": "https://i.ibb.co/j4pPJxH/iconwasdhop.png",
@@ -4656,6 +4686,16 @@
   "symbol": "LIME"
  },
  {
+  "address": "0:90f05482a0e9c221a797dbd60518e8067519fba7d035b92f208958d9290c910f",
+  "description": "That is a liquidator - a test token for DMT ecosystem. It\u2019s going to test a unique mechanic: 2% of each transaction will be collected as a tax, that will be sold and deposited to liquidity. The liquidity of the project should always grow. Please keep in mind: this token might be an imposter, so don\u2019t buy it unless you\u2019ve seen a post with its contract in @dmtholders",
+  "image": "https://i.postimg.cc/yNyMr2YS/Frame-7.png",
+  "name": "Liquidator",
+  "social": [
+   "https://t.me/dmtholders"
+  ],
+  "symbol": "LIQ"
+ },
+ {
   "address": "0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375",
   "decimals": 9,
   "description": "Shave, Liquidate, Laugh \u2014 The Meme Coin Way!",
@@ -4844,6 +4884,16 @@
   "websites": [
    "https://app.ston.fi/pools/EQAjYpFzjp7H72yYPseZ8uVk1Iqk-Rlu0juhPdiwqQUUukXC"
   ]
+ },
+ {
+  "address": "0:bedd3e4803a17b57597e905408ef41ad5e16b47d6b589aa1df671b346427857a",
+  "description": "The most psychedelic token in the whole crypto community, the successor of DMT.",
+  "image": "https://cdn.leagushqa.com/jettons/LSD_logo.jpg",
+  "name": "LSD",
+  "social": [
+   "https://t.me/dmtholders"
+  ],
+  "symbol": "LSD"
  },
  {
   "address": "0:d30bc8eaf594982f618540bec24633ceff995b6bcd2b667908d09cda95c1305e",
@@ -7084,6 +7134,16 @@
   "websites": [
    "https://shelterofexiles.com/"
   ]
+ },
+ {
+  "address": "0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1",
+  "description": "Our mission is to reconcile people. Part of DMT ecosystem.",
+  "image": "https://i.postimg.cc/JzgTxHmF/TvIKq95.jpg",
+  "name": "Sorry Mate",
+  "social": [
+   "https://t.me/sorrymatee"
+  ],
+  "symbol": "SORRY"
  },
  {
   "address": "0:a2f675ad458e6b7445a46483ce7bff67d565e883c39b5c221fe911a6c050a7ae",
@@ -9847,11 +9907,6 @@
   "symbol": "ART"
  },
  {
-  "address": "0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a",
-  "name": "VZGLYAD AVTORA",
-  "symbol": "AVTR"
- },
- {
   "address": "0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2",
   "name": "Azure",
   "symbol": "AZURE"
@@ -10257,11 +10312,6 @@
   "symbol": "DINJA"
  },
  {
-  "address": "0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340",
-  "name": "Dimethyltryptamine",
-  "symbol": "DMT"
- },
- {
   "address": "0:667170b2b5cf590dcc9fa21f455cd36f4a4a6c97f543ec6c23921054d611754b",
   "name": "DOBERCOIN",
   "symbol": "DOBER"
@@ -10435,11 +10485,6 @@
   "address": "0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528",
   "name": "FREEDOM",
   "symbol": "FREE"
- },
- {
-  "address": "0:3309d04825d6599e97e7e21eedec03a4e44ecc01ac54b0844006ea25562199ae",
-  "name": "Leagushka",
-  "symbol": "FROG"
  },
  {
   "address": "0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6",
@@ -10760,11 +10805,6 @@
   "address": "0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971",
   "name": "\u0416\u042e",
   "symbol": "LIFEYT"
- },
- {
-  "address": "0:90f05482a0e9c221a797dbd60518e8067519fba7d035b92f208958d9290c910f",
-  "name": "Liquidator",
-  "symbol": "LIQ"
  },
  {
   "address": "0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054",
@@ -11555,11 +11595,6 @@
   "address": "0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48",
   "name": "SOON",
   "symbol": "SOON"
- },
- {
-  "address": "0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1",
-  "name": "Sorry Mate",
-  "symbol": "SORRY"
  },
  {
   "address": "0:41f843111099081d5606e433e29253a158f72c09ac632fd1ca9a046fb86b73ff",
