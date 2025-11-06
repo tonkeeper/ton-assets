@@ -8661,6 +8661,18 @@
   ]
  },
  {
+  "address": "0:823b4f1deb1005981f79f24e3f0a82c963214783ec26d8299b85ed59a31337d9",
+  "decimals": 9,
+  "description": "Liquidity pool token for Tether USD and Herculis Gold Coin (XAUH) on Capital DEX",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeigdee77us3cku7fhyjfj3agbyxuupmpe5se6qjg62pffds5ziymmy/usdt-xauh-clp.png",
+  "name": "Capital DEX LP Token for USD\u20ae-XAUH",
+  "symbol": "USD\u20ae-XAUH CLP",
+  "websites": [
+   "https://xauh.gold",
+   "https://capitaldex.exchange/swap?chain=ton&tokens=usdt-xauh"
+  ]
+ },
+ {
   "address": "0:086fa2a675f74347b08dd4606a549b8fdb98829cb282bc1949d3b12fbaed9dcc",
   "description": "Ethena: Enabling Internet Money",
   "image": "https://ethena.fi/shared/usde.png",
