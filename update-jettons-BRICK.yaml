@@ -1,11 +1,10 @@
-# Jetton Configuration for $BRICK Projects
-
-This configuration file is added for managing the jetton projects effectively.
-
-```yaml
-jettons:
-  - name: Jetton1
-    description: Description of Jetton1
-  - name: Jetton2
-    description: Description of Jetton2
-```
+name: Brick Strategy
+description: "10% tax token: 8% saved to buy Artisan Brick and 2% goes to the team. Artisan Brick will be sold at 1.2x and the proceeds will be used to buy back and burn $BRICK"
+image: "https://cdn.dexscreener.com/cms/images/66688f45ecc21897f1bc93596ff46c6075b997e9bf338eedccc2a555473f0330?width=64&height=64&fit=crop&quality=95&format=auto"
+address: EQDMktnIwvDPLojCON5mVIycY9m4yx0wBwSx3dWwHsGZfSAu
+symbol: BRICK
+decimals: 9
+social:
++ - "https://brickstrategy.live/"
++ - "https://t.me/brickstrategys"
++ - "https://x.com/brickstrategy?s=21"
