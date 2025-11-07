@@ -1,0 +1,11 @@
+# Jetton Configuration for $BRICK Projects
+
+This configuration file is added for managing the jetton projects effectively.
+
+```yaml
+jettons:
+  - name: Jetton1
+    description: Description of Jetton1
+  - name: Jetton2
+    description: Description of Jetton2
+```
