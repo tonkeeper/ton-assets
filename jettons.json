@@ -1552,6 +1552,23 @@
   "symbol": "Borka"
  },
  {
+  "address": "0:ceb9b471002a19de5f15e2e9a2c49ee2e2c356ea3e57af25f951ba78b8bd3062",
+  "description": "Bullieve is a Telegram memecoin evolving into a Web3 brand. Powered by our green bull mascot, we\u2019re spreading bullish energy through memes, onchain drops, and bold merch.",
+  "image": "https://i.ibb.co/tMW16fgQ/BULL-LOGO-03.png",
+  "name": "Bullieve",
+  "social": [
+   "https://t.me/bullievecoin",
+   "https://t.me/bullievechat",
+   "https://x.com/BullieveCoin",
+   "https://www.youtube.com/@bullievecoin",
+   "https://www.tiktok.com/@bullievecoin"
+  ],
+  "symbol": "BULL",
+  "websites": [
+   "https://bullieve.io/"
+  ]
+ },
+ {
   "address": "0:41ec9f104b66018d03ad413afef5b46b20a735328802fe382dfa0ab699cbc440",
   "description": "Cabal of Degens is a community of curious minds and bold traders, united by a shared passion for learning, exploring new strategies, and navigating the markets together.",
   "image": "https://raw.githubusercontent.com/the-links-en/images/refs/heads/main/Cabal_of_Degens.png",
