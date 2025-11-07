@@ -8606,6 +8606,17 @@
   ]
  },
  {
+  "address": "0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286",
+  "description": "TonMemeRepublic \u2014 launched on \u26fd\ufe0f GasPump. A united front of TON meme creators and believers shaping the next era of on-chain culture.",
+  "image": "https://cdn.dexscreener.com/cms/images/a128257dc928f960deb8e943ac97b2899ad448c2ca69afc4d25e488202c76034?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "TonMemeRepublic",
+  "social": [
+   "https://t.me/TonMemeRepublicChat",
+   "https://x.com/memerepublicton"
+  ],
+  "symbol": "TMP"
+ },
+ {
   "address": "0:446ca9b9cfe4f9a6ccfc891b424588c31fe3866d102c7e142d74a7f599ad9da9",
   "description": "TryTON is a project aimed at popularizing the TON network among participants from other networks through its applications: wallet, bridge, and AirDrop game.",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GplVmGPFy2aa2ZRvYm-uxoC4I2Q1H674Gym4DxDqdPmGUBovLHnIoDHiPG72ORx8PAYTk7HPtlqH1Do-c8CMG-GhxiIOl8XAl6cTv5DnKnh_RVGdvJVyWF9B2BjLBvYNz8rxrcYD-GxbcqjGhbB9ID0IKKoevalLlFMo4y1S1B5IccbGDn7S922-YcQq/s320/ava_01.jpg",
@@ -11890,11 +11901,6 @@
   "address": "0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1",
   "name": "Ton Milk",
   "symbol": "TMILK"
- },
- {
-  "address": "0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286",
-  "name": "TonMemeRepublic",
-  "symbol": "TMR"
  },
  {
   "address": "0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956",
