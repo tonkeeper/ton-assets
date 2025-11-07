@@ -4,7 +4,8 @@ decimals: 9
 image: https://safepermoon.com/logo.png
 description: SPERM (Safe Per Moon) - meme token of the MoonRaid ecosystem. Stake, play, and rise to the Moon on the TON blockchain.
 social:
-  - twitter: https://x.com/safepermoon
-  - website: https://safepermoon.com
-  - telegram: https://t.me/safepermoon
-address: EQC4yNXijh2EIqDpPunsjiNeLG7VQFdbVH64QlX5aowyX0bh
+  - https://x.com/safepermoon
+  - https://t.me/safepermoon
+websites:
+  - https://safepermoon.com
+address: EQC4yNXijh2EJqDpPunsjjNeLG7VQFdbVH64QIX5aowyX0bh
