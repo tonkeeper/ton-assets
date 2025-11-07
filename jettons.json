@@ -6065,6 +6065,22 @@
   ]
  },
  {
+  "address": "0:09e34a77ce50a8a2680034c438bb978892d2cc66d58ff3b1862832a5c96fc464",
+  "description": "Plush Brick \u2014 share a brick, stack memes, ride the hype. \ud83e\uddf1",
+  "image": "https://i.ibb.co/btSvnqT/image.png",
+  "name": "Plush Brick",
+  "social": [
+   "https://t.me/+KZZ7VDmfxTViMDRi",
+   "https://t.me/+t5ghaLZ-0vo4Mjky",
+   "https://t.me/pbr1ck",
+   "https://x.com/plushbrick"
+  ],
+  "symbol": "PBRICK",
+  "websites": [
+   "https://plushbrick.fun/"
+  ]
+ },
+ {
   "address": "0:f500ec52c039f7517d0f0810cd546138c4d90024fb23cce1014482dfbc5751e0",
   "description": "PROBULL Game Token",
   "image": "https://api-v1-srvr-game.probull.org/2-12.png",
