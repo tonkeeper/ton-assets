@@ -1,10 +1,9 @@
 {
-name: "FATHERCOIN",
-symbol: "FTRCAP",
-address: "EQC8lUhKJMpg4HaM4fLMLCWeO7QmxawYaZDDpVjfykjrYiC_",
-description: "Father's Capital is our answer to the eternal race, a symbol for those who have finally realized that the most important investment is time.",
-image: "https://camp-rp.ru/img/token.png",
-social:
-  - "https://t.me/fathercapital",
-  - "https://vk.link/ftrcap"
+  "address": "EQC8lUhKJMpg4HaM4fLMLCWeO7QmxawYaZDDpVjfykjrYiC_",
+  "name": "Father capital",
+  "symbol": "FTRCAP",
+  "decimals": 9,
+  "description": "Отцовский Капитал — наш ответ на вечную гонку, токен для тех, кто наконец понял, что главная инвестиция — это время.",
+  "social_links": ["https://t.me/fathercapital"],
+  "websites": ["https://vk.link/club233433132"]
 }
