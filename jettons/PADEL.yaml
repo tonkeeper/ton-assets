@@ -1,10 +1,9 @@
-name: PADEL Token
-description: Padel Memecoin. Do you play padel? Yes, then you must have $PADEL coins in your wallet..
+name: "Padel"
+description: "Is meme coin designed to bring together padel enthusiasts and users with similar interests."
 image: "https://cdn.prod.blum.codes/14cc6286-3248-4b33-9cb8-f12e9ac5955c/8cdf0613-ef5e-44b7-b917-f429c0de685d"
-address: EQCHpAoczO1wIJPJ0f28LYrdyrS2vZGdKRYPpaLXVsmL0qgX
-symbol: PADEL
-websites:
-  - "https://padelco.org"
+address: "EQCHpAoczO1wIJPJ0f28LYrdyrS2vZGdKRYPpaLXVsmL0qgX"
+symbol: "PADEL"
+decimals: "9"
 social:
   - "https://t.me/padelco"
   - "https://x.com/PadelCoinTon"
