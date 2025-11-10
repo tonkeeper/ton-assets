@@ -202,6 +202,21 @@
   ]
  },
  {
+  "address": "0:7c66628f8cbfec8779f857a823d6840d1ea956f4cf90e7c022100da75c16316b",
+  "description": "Totemancer PFPs are a limited collection of 10,000 NFTs that represent your identity within the Totemancer universe. Your PFP might also play a role in future features such as governance, voting, staking tied to the Totemancer Token, and more.",
+  "image": "https://totemancer.com/ton/tc.png",
+  "name": "Totemancer: PFPs",
+  "social": [
+   "https://t.me/Totemancer",
+   "https://t.me/Totemancers",
+   "https://t.me/TotemancerChat",
+   "https://x.com/Totemancer"
+  ],
+  "websites": [
+   "https://totemancer.com"
+  ]
+ },
+ {
   "address": "0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2",
   "description": "Exclusive NFT collectibles within Totemancer. Each totem represents a powerful asset, offering special in-game enhancements and tangible benefits.",
   "image": "https://totemancer.com/ton/tc.png",
