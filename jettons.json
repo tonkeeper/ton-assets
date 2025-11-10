@@ -9184,6 +9184,20 @@
   ]
  },
  {
+  "address": "0:a23a61ff75e5320e0f8df744e860f89b479540d37dceb303ec75ca80e6fade55",
+  "description": "WHALE VAULT is a hyper-emotional, ultra-viral,community-first MEME MOVEMENT forged on the TON blockchain \u2014 designed to ignite culture, not utility.",
+  "image": "https://whalevault.xyz/logo.png",
+  "name": "WhaleVault",
+  "social": [
+   "https://t.me/TheWhaleVault",
+   "http://t.me/whalesvaultbot/vault"
+  ],
+  "symbol": "$WVT",
+  "websites": [
+   "https://whalevault.xyz/whitepaper"
+  ]
+ },
+ {
   "address": "0:8c938fceba30a7938ea30291e72116e64ed61391299fba357d5fc61ed2abec1d",
   "decimals": 18,
   "description": "Herculis Gold Coin (XAUH) is a digital asset representing direct ownership of Swiss-refined, Swiss-audited, Swiss-stored, Swiss-insured and Swiss-managed physical gold. It combines the security of physical gold with the flexibility of blockchain technology.",
