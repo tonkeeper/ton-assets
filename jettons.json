@@ -8533,6 +8533,20 @@
   "symbol": "TVM"
  },
  {
+  "address": "0:2c25e386cb1626032aefe62f637e034b534c977974b85f380b5a594934f234e2",
+  "description": "TWARS powers Trading Wars, a Telegram-based trading simulator using real historical crypto charts. Trade on TWARS to experience instant results and sharpen your instincts.",
+  "image": "https://tradingwars.site/public/coin_512x512.png",
+  "name": "TradingWars Token",
+  "social": [
+   "https://t.me/tradingWarsCommunity",
+   "https://t.me/TradingWars_bot"
+  ],
+  "symbol": "TWARS",
+  "websites": [
+   "https://tradingwars.site/en/token"
+  ]
+ },
+ {
   "address": "0:d5ddc6f388f1f3f3011c0d8b7ef620cea2695cddb159412c745a26450afedf87",
   "description": "\ud83c\udfa9\ud83d\udc8eDive into the exhilarating world of Trumpwifhat - exclusive memecoin built on $TON blockchain! Embrace innovation and style with our unique $TWIF token, inspired by Trump's iconic flair!\ud83c\udf1f",
   "image": "https://trumpwifcoin.pro/images/2024/04/20/small200x200.png",
