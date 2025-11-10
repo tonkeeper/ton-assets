@@ -10570,6 +10570,11 @@
   "symbol": "EXC"
  },
  {
+  "address": "0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651",
+  "name": "Exit",
+  "symbol": "Exit"
+ },
+ {
   "address": "0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce",
   "name": "F",
   "symbol": "F"
