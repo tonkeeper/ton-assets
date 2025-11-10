@@ -1,1 +1,15 @@
 
+{
+  "symbol": "AFN",
+  "name": "Afrinimals",
+  "description": "Afrinimals is a global charity token supporting pets and animals in need. Every transaction helps fund shelters, rescues, and wildlife protection worldwide. 🐾",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/saulcarer/Goodtimes/59aa151f896e79d9acdb89ca18700492286e989c/images/token%20size%20.png",
+  "social": {
+    "website": "",
+    "twitter": "https://x.com/Afrinimals?t=KDOl_jovdXg7jaJ0MMsVTw&s=09",
+    "telegram": "https://t.me/afrinimals"
+    "discord": "https://discord.gg/Z54Sycxd" 
+  },
+  "verifier": "https://verifier.ton.org/EQAP2W59T5m51BZ4VcU21j4nnicMPfPjTV33RL-BRJg9gevZ"
+}
