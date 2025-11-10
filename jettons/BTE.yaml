@@ -1,0 +1,9 @@
+name: BTExchange
+symbol: BTE
+address: EQCV65i0hMk-zsiOg61ogmd7Bn-rxzlFAbY4qSD3d_vDhFnG
+decimals: 9
+image: https://raw.githubusercontent.com/ashi5326/ton-assets/add-BTE-token/jettons/EQCV65i0hMk-zsiOg61ogmd7Bn-rxzlFAbY4qSD3d_vDhFnG.png
+description: >
+  BTE tracks profit and loss from its trading bot and injects generated liquidity back into the market.
+  It is actively tradable on ByTetherExchange (https://www.bytetherexchange.com) and in a liquidity pool on dedust.io.
+  Official WebApp: Telegram @bte_trust_bot, Instagram: https://www.instagram.com/btexchanger?igsh=MTZjZHFraXlrbXN0Yw==
