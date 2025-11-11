@@ -1,13 +1,11 @@
-name: BCX Silver
-description: Official BCX Silver Rewards in partnership with BlueStacks
-image: "https://raw.githubusercontent.com/BCXdev/BCXS/refs/heads/main/BCXSilver.webp"
+name: BlueStacks BCX
+description: Official BlueStacks Game Platform Token
+image: "https://bcxcoin.github.io/website/BlueStacks_BCX_coinFront512.png"
 address: EQA48fgOuIGJbb7lY1MZyf-ZxZ49biOy38_wgPdVbprmDMXl
-symbol: BCXS
+symbol: BCX
 websites:
-  - "https://BCXrewards.com/"
   - "https://bcx.bluestacks.com/"
   
 social:
-  - "https://t.me/bcxrewards"
-  - "https://x.com/bcxrewards"
-  - "https://instagram.com/bcxrewards"
+  - "https://t.me/bcxnow"
+  - "https://x.com/bluestackscoin"
