@@ -1,0 +1,10 @@
+- address: "EQDHjpFwSLY-9NC2dwqjElpxe9fPt14d6ZOUBxgsk1V4E9NG"
+  symbol: "$Piggy"
+  name: "PiggyBank"
+  image: "https://raw.githubusercontent.com/kokokorona/Piggy-bank/refs/heads/main/logo.png"
+  description: "The reward pig that pays you in TON for holding. Don't break the bank — let it grow."
+  websites:
+    - "http://itspiggybank.tilda.ws/"
+  social:
+    - "https://t.me/ItsPiggyBank"
+    - "https://x.com/ItsPiggyBank_"

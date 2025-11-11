@@ -1,0 +1,12 @@
+# jettons/shinobi.yaml
+
+name: Shinobi TON
+symbol: SHINOBI
+decimals: 9
+description: Born from the OG Telegram Shinobi sticker pack, revived through a Community Takeover (CTO) — $SHINOBI is a meme coin with true ninja spirit.
+address: EQCL2JFltDVh1mU6CLc7KvzGD7DmpwHWHkok_EnqQlaycfgZ
+image: "https://raw.githubusercontent.com/Kreatour/Shinobi_logo/refs/heads/main/IMG_20250914_202811_518.png"
+social:
+  - "https://t.me/shinobionton"
+  - "https://x.com/shinobiclanton"
+  - "http://shinobiton.xyz"
