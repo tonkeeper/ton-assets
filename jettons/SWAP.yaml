@@ -2,9 +2,8 @@ name: SWAP strategy
 description: Clear trading token on TON. 10% commission on every swap to burn it out. Buy, sell and don’t hold it too long.
 image: "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fdwapak425ixk35lpriib0ac01l1t&w=128&q=75"
 address: EQB5VT8O-RVCNBKxerR-hpokrpTqEsaL4sDJU2lbKoJ5TWhr
-symbol: SWAP
+symbol: $SWAP
 social: 
-
 "https://t.me/swaption"
 "https://t.me/swap_club"
 "https://t.me/swaption_bot"
