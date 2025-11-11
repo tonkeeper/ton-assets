@@ -313,6 +313,17 @@
   ]
  },
  {
+  "address": "0:33d27652a014f8f7f956bde318059847f44bd764cae7c3a7c43d6bcde4dd0d3e",
+  "description": "The Three Head Dog meme token on the TON network \u2014 a symbol of holders unity and strength.",
+  "image": "https://cdn.dexscreener.com/cms/images/c7e8d9d873fe861df8bb6e4a90ae52e53c23a4e783b826e367c7cc6c7a4aeff3?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "Three Head Dog",
+  "social": [
+   "https://t.me/ThreeHead_Dog",
+   "https://x.com/threehead_dog"
+  ],
+  "symbol": "3DOG"
+ },
+ {
   "address": "0:5b92bf905a5f1fb0880e6734d49a723cbe9473cc2afc3b9bd145cbd68247a0ff",
   "description": "First trade to earn token, where you get back up to 50% of the fees paid on the exchange!",
   "image": "https://affiliate-token.com/_next/image?url=%2Flogo.png&w=256&q=100",
