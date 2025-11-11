@@ -1,0 +1,76 @@
+- name: TAC token
+  symbol: TAC
+  address: EQBE_gBrU3mPI9hHjlJoR_kYyrhQgyCFD6EUWfa42W8T7EBP
+  image: "https://habrastorage.org/webt/yy/ph/l-/yyphl-uznnokzbessqbrewgqo5g.png"
+
+- name: USN
+  symbol: USN
+  address: EQAdkcaiUMwAOcMzfW2m2mke3G4RdDkL4Dd4gfgsJNPxMwOD
+  
+- name: sUSN 
+  symbol: sUSN 
+  address: EQA4c6ShGataepF-sBnP_teO1tZcURcQBzyeVliV3i0LImZh
+
+- name: dogwifhat
+  symbol: WIF
+  address: EQBMeWeS3MGYYRKGFnWpiLRCX9IKrRa-LvbBAr8z9vDxAZ97
+
+- name: cbBTC (OFT)
+  symbol: cbBTC
+  address: EQDQOgtfgF6mjuEcxMjNdmP34JDe-jsIWXU0IAIhIyxBRnJ4
+
+- name: wstETH
+  symbol: wstETH
+  address: EQCrLRrwzV1gdV466gQpRXgGukNik3VExFg955ncWQiFN_f5
+
+- name: WETH (OFT)
+  address: EQBTkLAhEteZCRgRe_xMs5ZE0bMrduYxKbyzGCpXXW8dRWOT
+  symbol: WETH
+
+- name: WTAC
+  address: EQCXZSXYW1iUldSjo7OInor3-WD1cXzLQdhKocq_fI5fh_BR
+  symbol: WTAC
+
+- name: wstUSR
+  address: EQBqn2jmZ5LiDUG4mTs28uZsTsoZuTBT2O_6Sd4icJw9HTrr
+  symbol: wstUSR
+
+- name: RLP
+  address: EQCjlNsHFSAStF2FWFF5oyxwKomAeiRDqkSd1cLMIEeQ1pvd
+  symbol: RLP
+
+- name: USR
+  address: EQAcY5ASRQdN1UmM9BMxYyNEfXB3ywcsQ4FkFT2DJdzvwyFx
+  symbol: USR
+
+- name: BUSD
+  address: EQD_xXXChii7RHSxPxzI6MtblIgbRrp3p3wXt1i_itIXdpeM
+  symbol: BUSD
+
+- name: LBTC
+  address: EQBGpvzFLsoQKsJDCdXt4PBEFGj2uhSx_ERsYHkEk3KUqOQg
+  symbol: LBTC
+
+- name: M-BTC
+  address: EQCnYCNeUCKm066zIFCJKJHNeoonMtuNzaffL04XzGXkkHmE
+  symbol: M-BTC
+
+- name: Coinbase Wrapped BTC 
+  address: EQDhyPzbIjJT_WnY3gGprjSYUK9fiGMjWMezxO8MZiUdfb_B
+  symbol: cbBTC
+
+- name: YieldFi yUSD
+  address: EQD68RUD37-wdN8NnPs_tvbZACdjl29IXlvZrWqFi7hd3oH0
+  symbol: yUSD
+
+- name: YieldFi vyUSD 
+  address: EQBZIPzBLMGNlr8KBKJWubBiOrZ2dwpK-absiR025j4Z2o5S
+  symbol: vyUSD
+
+- name: EVK Vault eTON-1
+  address: EQAWV5a4fC74iaI0GNdw01iMiWwHuHb2F9ElSC2YstwPVbkz
+  symbol: eTON-1
+  
+- name: SingularV TON Tonstakers
+  address: EQDB5MvWYyJxB5wKFnKb-vqiJ2ecHkqV-tVSSdLQ_ibJWOVS
+  symbol: svTON
