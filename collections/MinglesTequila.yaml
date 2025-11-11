@@ -1,0 +1,9 @@
+# Example for collection.yaml
+address: EQDFbxzt6crA6OLhNthxbwEHJiqdiETPuXPbzUXntAjYmtMm
+name: "Mingles Tequila"
+description: "Celebrating Tequila Culture with Tequila Worms AKA Mingles ¡Salud!"
+image: "https://www.mingles.wtf/mingle-gifs/8.gif" # Must be a direct link to a PNG or JPG cover image
+social_links:
+  - "http://t.me/MinglesTequilaStickersBot"
+  - "https://www.instagram.com/minglestequila?igsh=MmV3NHg4amdkbnZ0&utm_source=qr"
+  - "https://x.com/minglesnft?s=21"
