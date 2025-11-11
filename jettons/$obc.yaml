@@ -1,0 +1,11 @@
+name: "OIL BRENT"
+symbol: "OBC"
+address: "EQD470R2L-ioO6P4bofyk90z4ISOYehpO7ECpi6Yy5s2d-mD"
+decimals: 9
+description: "Tokenized representation of oil value – OIL BRENT on TON blockchain."
+image: "https://magenta-chemical-lobster-483.mypinata.cloud/ipfs/bafybeifvlvtz42pfswjx54gvbrplra2c7ggoxqttmrl4kyipglfnrsupr4"
+websites: []
+social:
+  twitter: ""
+  telegram: "https://t.me/OilBrentToken2025"
+  github: "https://github.com/majid56312/ton-assets/edit/main/jettons/$obc.yaml"
