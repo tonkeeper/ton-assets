@@ -1,0 +1,11 @@
+name: BTExchange
+symbol: BTE
+address: EQCV65i0hMk-zsiOg61ogmd7Bn-rxzlFAbY4qSD3d_vDhFnG
+decimals: 9
+image: https://raw.githubusercontent.com/ashi5326/ton-assets/add-BTE-token/jettons/EQCV65i0hMk-zsiOg61ogmd7Bn-rxzlFAbY4qSD3d_vDhFnG.png
+description: >
+ByTetherExchange Token (BTE) represents participation in the ByTetherExchange ecosystem. 
+It reflects market activity and supports liquidity operations within the TON network. 
+The token is used in the ByTetherExchange platform (https://www.bytetherexchange.com) 
+and is available for trading through decentralized pools such as dedust.io.
+Official resources: Telegram @bte_trust_bot and Instagram @btexchanger.
