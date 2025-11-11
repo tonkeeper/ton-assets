@@ -1,0 +1,6 @@
+name: "Oil Brent"
+symbol: "OBC"
+address: "0:f8ef44762fe8a83ba3f86e87f293dd33e0848e61e8693bb102a62e98cb9b3677"
+decimals: 9
+image: "https://cache.tonapi.io/imgproxy/ZXrod2oV099qbZ4y4-LHudrM8q4OuVHcC4nfEoVkFg4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zNi51dXBsb2FkLmlyL2ZpbGVzL2xvZ28xX2NxbmgucG5n.webp"
+description: "For oil brent"
