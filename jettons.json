@@ -7856,6 +7856,23 @@
   ]
  },
  {
+  "address": "0:daaaa250a51f8eaf98e117e45ff309063df492b95ad274e9fe6056cadded1378",
+  "description": "TAPX is a play-to-earn Telegram game token used to participate in in-app contests, rewards, and activities, enabling users to earn and trade within the TON ecosystem.",
+  "image": "https://app.tapxbattle.com/logo-512x.png",
+  "name": "TAPX",
+  "social": [
+   "https://t.me/tapxbattle",
+   "https://t.me/tapxbattle_bot",
+   "https://x.com/@tapxbattle",
+   "https://youtube.com/tapxbattle",
+   "https://instagram.com/tapx_battle"
+  ],
+  "symbol": "TAPX",
+  "websites": [
+   "https://tapxbattle.com"
+  ]
+ },
+ {
   "address": "0:7604e727930b08b23a9dfab6c09b86efaee9b7fcc24a312829f7be20efecc8a3",
   "description": "Ton Attack utilises a unique set of strategy cards which is comprised of major memes on the Ton Blockchain.   Use these cards to shill your favourite projects. You can also earn $TAX by playing/spending on the new mini app.  https://t.me/OfficialTonAttack",
   "image": "https://universal-1.github.io/images/ton-attack.webp",
