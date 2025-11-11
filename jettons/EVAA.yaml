@@ -1,0 +1,13 @@
+name: Evaa protocol
+description: The $EVAA token is the governance and utility token of the EVAA lending protocol.
+image: "https://raw.githubusercontent.com/evaafi/token-meta/refs/heads/main/icon.png"
+address: 0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681
+symbol: EVAA
+websites:
+  - "https://coinmarketcap.com/currencies/evaa-protocol"
+  - "https://t.me/EvaaAppBot"
+  - "https://evaa.finance"
+  - "https://tge.evaa.finance"
+social:
+  - "https://t.me/evaaprotocol"
+  - "https://twitter.com/evaaprotocol"
