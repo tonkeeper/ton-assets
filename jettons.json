@@ -1048,6 +1048,22 @@
   ]
  },
  {
+  "address": "0:38f1f80eb881896dbee5635319c9ff99c59e3d6e23b2dfcff080f7556e9ae60c",
+  "description": "Official BCX Silver Rewards in partnership with BlueStacks",
+  "image": "https://raw.githubusercontent.com/BCXdev/BCXS/refs/heads/main/BCXSilver.webp",
+  "name": "BCX Silver",
+  "social": [
+   "https://t.me/bcxrewards",
+   "https://x.com/bcxrewards",
+   "https://instagram.com/bcxrewards"
+  ],
+  "symbol": "BCXS",
+  "websites": [
+   "https://BCXrewards.com/",
+   "https://bcx.bluestacks.com/"
+  ]
+ },
+ {
   "address": "0:07fe182f996596e637082cf20879cdd325c538a2565998e2def489b022fcfbb3",
   "description": "Bulldog (BDOG) is the utility token of the Bulldog ecosystem, used in the mini app and for NFT collections within the platform.",
   "image": "https://i.ibb.co/FkzK7LVz/256.png",
