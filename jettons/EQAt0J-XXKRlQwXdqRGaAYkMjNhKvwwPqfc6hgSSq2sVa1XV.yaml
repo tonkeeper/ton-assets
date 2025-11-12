@@ -1,0 +1,17 @@
+name: Sproutix
+symbol: SPX
+decimals: 9
+address: EQAt0J-XXKRlQwXdqRGaAYkMjNhKvwwPqfc6hgSSq2sVa1XV
+description: >
+  Sproutix (SPX) is a TON-based giveaway and reward token that incentivizes user
+  engagement through the Mining SPX Telegram bot and its gamified referral DApp.
+  Users can earn SPX by completing daily tasks, referrals, and social missions within
+  the ecosystem.
+image: https://raw.githubusercontent.com/djibarra/ton-assets-sproutix/main/jettons/EQAt0J-XXKRlQwXdqRGaAYkMjNhKvwwPqfc6hgSSq2sVa1XV/logo.png
+websites:
+  - https://djibarra.github.io/sproutix-landing/
+  - https://t.me/djibarra411_1_bot
+social:
+  telegram: https://t.me/miningspxofficial
+  twitter: https://x.com/sproutixspx
+  instagram: https://www.instagram.com/sproutixspx/
