@@ -1,0 +1,13 @@
+name: Likes & Dislikes
+symbol: LID
+description: >
+  Likes & Dislikes (LID) — токен сообщества, отражающий мнение пользователей.
+  Голосуй лайком или дизлайком, формируя децентрализованный рейтинг в TON.
+image: https://your-domain.com/lid-logo.png
+address: EQAny4ehvsQnFPjvAAb4Fd1F638PjxJM-gtouKWIX3iG0ggZ
+decimals: 9
+websites:
+  - https://your-domain.com
+social:
+  - https://t.me/yourproject
+  - https://x.com/yourproject
