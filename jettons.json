@@ -214,6 +214,13 @@
   ]
  },
  {
+  "address": "0:91f6a3a4da979e6c1c55f0bfa742cdff529d107405a56883fdfecb30c3c0ff07",
+  "description": "meme token on TON",
+  "image": "https://coin-images.coingecko.com/coins/images/38988/large/moby-icon_%281%29.png",
+  "name": "$MOBY",
+  "symbol": "$MOBY"
+ },
+ {
   "address": "0:d87487d94b1a0f5355aa9b970b7d2dade151ebc56a8126cecb2860d68867fea3",
   "description": "MUSK \u2014 \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u044f \u0432 \u043c\u0443\u0437\u044b\u043a\u0443 \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e. \u0422\u043e\u043a\u0435\u043d MUSK \u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0435\u0442 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e, \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u044f \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0443 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u043c\u0443\u0437\u044b\u043a\u0438 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0430. \u041f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u043e\u0441\u0442\u044c, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0430\u0440\u0442\u0438\u0441\u0442\u043e\u0432 \u0438 \u043d\u043e\u0432\u044b\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0438\u043d\u0432\u0435\u0441\u0442\u043e\u0440\u043e\u0432 \u2014 \u043e\u0441\u043d\u043e\u0432\u0430 \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u044b MUSK.",
   "image": "https://cdn.blum.codes/bd7f9965-5975-4b1c-8dce-865ddc622408/61c7253d-5f88-460e-be3c-acc1a487e1d2",
@@ -311,6 +318,17 @@
   "websites": [
    "https://1rus.com"
   ]
+ },
+ {
+  "address": "0:33d27652a014f8f7f956bde318059847f44bd764cae7c3a7c43d6bcde4dd0d3e",
+  "description": "The Three Head Dog meme token on the TON network \u2014 a symbol of holders unity and strength.",
+  "image": "https://cdn.dexscreener.com/cms/images/c7e8d9d873fe861df8bb6e4a90ae52e53c23a4e783b826e367c7cc6c7a4aeff3?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "Three Head Dog",
+  "social": [
+   "https://t.me/ThreeHead_Dog",
+   "https://x.com/threehead_dog"
+  ],
+  "symbol": "3DOG"
  },
  {
   "address": "0:5b92bf905a5f1fb0880e6734d49a723cbe9473cc2afc3b9bd145cbd68247a0ff",
@@ -5859,6 +5877,19 @@
   ]
  },
  {
+  "address": "0:b6ed79ea7ad966f5dd0b13933d0862f2e762f641dac8e5656380510b27c732d2",
+  "description": "Naughty Coin (NOTY) is a fun and community-driven crypto project on the TON ecosystem, blending, utility, payment simplified and real fun rewards with the NOTY Card.",
+  "name": "Naughty Coin",
+  "social": [
+   "https://t.me/naughtycoin_channel",
+   "https://x.com/notycoin"
+  ],
+  "symbol": "NOTY",
+  "websites": [
+   "https://naughtycoin.club"
+  ]
+ },
+ {
   "address": "0:5abfeb7f30cf41fe3a6436eb16f08b18cf025ba4a6d23d8e4a56ef5fd9c280f6",
   "description": "NOVA is the native reward token for the Cryptid Hunter game, designed to foster a player-driven economy and provide engaging incentives within the game\u2019s ecosystem. Through its Play-to-Earn (P2E) model, NOVA empowers players to earn tokens via gameplay, contributing to a dynamic and vibrant game world.",
   "image": "https://cryptid-hunter-mini.s3.eu-central-1.amazonaws.com/icons/token/nova.png",
@@ -7853,6 +7884,23 @@
   "symbol": "TAPS",
   "websites": [
    "https://www.tapswap.ai/"
+  ]
+ },
+ {
+  "address": "0:daaaa250a51f8eaf98e117e45ff309063df492b95ad274e9fe6056cadded1378",
+  "description": "TAPX is a play-to-earn Telegram game token used to participate in in-app contests, rewards, and activities, enabling users to earn and trade within the TON ecosystem.",
+  "image": "https://app.tapxbattle.com/logo-512x.png",
+  "name": "TAPX",
+  "social": [
+   "https://t.me/tapxbattle",
+   "https://t.me/tapxbattle_bot",
+   "https://x.com/@tapxbattle",
+   "https://youtube.com/tapxbattle",
+   "https://instagram.com/tapx_battle"
+  ],
+  "symbol": "TAPX",
+  "websites": [
+   "https://tapxbattle.com"
   ]
  },
  {
@@ -10568,6 +10616,11 @@
   "address": "0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a",
   "name": "EXTON COIN",
   "symbol": "EXC"
+ },
+ {
+  "address": "0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651",
+  "name": "Exit",
+  "symbol": "Exit"
  },
  {
   "address": "0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce",
