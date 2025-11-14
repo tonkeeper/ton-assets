@@ -1,0 +1,11 @@
+name: LP Token for ARTSIV-HMSTR
+symbol: "ARTSIV-HMSTR LP"
+description: "Liquidity pool token for ArtsivTON and Hamster Kombat on STON.fi DEX"
+address: 0:6c0e8315b6b7d959a0d5fe4166f2cdca164cf72318519b2ed2992d4c5111673d
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:6c0e8315b6b7d959a0d5fe4166f2cdca164cf72318519b2ed2992d4c5111673d.png"
+websites:
+  - "https://app.ston.fi/pools/EQBsDoMVtrfZWaDV_kFm8s3KFkz3IxhRmy7SmS1MURFnPVZY"
+social:
+  - "https://t.me/ArtsivTON"
+  - "https://t.me/artsivtonchat"
