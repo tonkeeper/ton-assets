@@ -4,6 +4,8 @@ image: "https://raw.githubusercontent.com/Iulian85/eliezer-token/main/ELZR.png"
 address: EQDnqX9FX7UTUC7Kmjzr-MseRjx1eI2aJxLdnGQ3NSuKJb-X
 symbol: ELZR
 decimals: 9
+websites:
+  - "https://github.com/Iulian85/eliezer-tapswap"
 social:
-  - telegram: https://t.me/EliezerTokenOfficial
-  - telegram_bot: https://t.me/Obadiah_Bot
+  - telegram: "https://t.me/EliezerTokenOfficial"
+  - telegram_bot: "https://t.me/Obadiah_Bot"
