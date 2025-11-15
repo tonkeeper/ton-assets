@@ -1,0 +1,15 @@
+name: Niccoin
+symbol: NIC
+decimals: 9
+description: Niccoin is a new project registered on the Ton currency platform and can be seen in the Tonkeeper wallet. The purpose of designing this project is to build and list a token with an exclusive name to form a web3 community and promote media literacy in the direction of financial and crypto markets.
+image: https://i.postimg.cc/Bvxgc7kC/niccoin.png
+social:
+  - https://twitter.com/niccoin_official
+  - https://t.me/niccoin_community
+website: https://nonetconn.github.io/
+contract_address: EQBRuOKeqeAxghTf9-dcscus8O3Ng4vzvw7pUetS3rQT7HoB
+total_supply: 4600000000000000000
+audited: false
+tags:
+  - Utility
+  - DeFi
