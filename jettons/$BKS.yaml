@@ -1,6 +1,6 @@
-address: "EQDXP2oLu-60IGY2XooeIeTOQwfSc4Yi6dDbDKrtE5789ta-"
-name: "BAKSO"
-symbol: "BKS"
+name: BAKSO
+description: Bakso Token is a community experimental jetton on the TON blockchain, created for educational use. It has no investment value and is not affiliated with any official project.
+address: 0:d73f6a0bbbeeb42066365e8a1e21e4ce4307d2738622e9d0db0caaed139efcf6
+symbol: BKS
 decimals: 9
-image: "ipfs://bafkreigpi2v4dixqoudosdik5vnaa6pfpcql26idzv46zup5ixkumy7owe"
-description: "Bakso Token is a community experimental jetton on the TON blockchain, created for educational use. It has no investment value and is not affiliated with any official project."
+image: ipfs://bafkreigpi2v4dixqoudosdik5vnaa6pfpcql26idzv46zup5ixkumy7owe
