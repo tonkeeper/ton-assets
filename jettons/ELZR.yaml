@@ -1,0 +1,9 @@
+name: Eliezer Token
+description: Eliezer (ELZR) is a TON-based utility token powering mini-apps, payments, and rewards on Telegram. Users earn ELZR through tap-to-earn games, staking, and community tasks. Built for speed, low fees, and seamless integration with Telegram wallets.
+image: "https://raw.githubusercontent.com/Iulian85/eliezer-token/main/ELZR.png"
+address: EQDnqX9FX7UTUC7Kmjzr-MseRjx1eI2aJxLdnGQ3NSuKJb-X
+symbol: ELZR
+decimals: 9
+social:
+  - telegram: https://t.me/EliezerTokenOfficial
+  - telegram_bot: https://t.me/Obadiah_Bot
