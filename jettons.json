@@ -2956,6 +2956,17 @@
   ]
  },
  {
+  "address": "0:bc95484a24ca60e0768ce1f2cc2c259e3bb426c5ac186990c3a558dfca48eb62",
+  "description": "Father's Capital is our answer to the eternal race, a symbol for those who have finally realized that the most important investment is time.",
+  "image": "https://camp-rp.ru/img/token.png",
+  "name": "FATHERCOIN",
+  "social": [
+   "https://t.me/fathercapital",
+   "https://vk.link/ftrcap"
+  ],
+  "symbol": "FTRCAP"
+ },
+ {
   "address": "0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090",
   "description": "First Digital 1:1 USD-backed Stablecoin",
   "name": "First Digital USD",
