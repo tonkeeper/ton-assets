@@ -6221,6 +6221,20 @@
   "symbol": "PEPE"
  },
  {
+  "address": "0:69cb222c5857c51e8384e19e614b52a40830d27527b6692a2b471ceca38219c5",
+  "description": "Pepe Strategy is the flywheel for Plush Pepes. https://pepestrategy.fun https://t.me/PlushPepesStrategy https://x.com/pepe_strategy",
+  "image": "https://i.ibb.co/Hp4NQqLB/plushpepestrat-token-image-jpg.jpg",
+  "name": "Pepe Strategy",
+  "social": [
+   "https://t.me/PlushPepesStrategy",
+   "https://x.com/pepe_strategy"
+  ],
+  "symbol": "PEPESTR",
+  "websites": [
+   "https://pepestrategy.fun/"
+  ]
+ },
+ {
   "address": "0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13",
   "description": "$PGC is the native token of PiggyPiggy, the first workplace simulation and social game launched on Telegram and TON.",
   "image": "https://restaurant.piggypiggy.io/piggycoin.png",
