@@ -1,0 +1,13 @@
+{
+  "name": "Afrinimals",
+  "symbol": "AFN",
+  "address": "EQAP2W59T5m51BZ4VcU21j4nnicMPfPjTV33RL-BRJg9gevZ",
+  "description": "Afrinimals ecosystem supports global animal awareness initiatives through donations. Every contribution helps fund organizations and groups dedicated to educating communities, protecting wildlife, and promoting responsible care for animals. Together, we empower voices that defend and preserve animal life worldwide.🐾",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/saulcarer/Goodtimes/59aa151f896e79d9acdb89ca18700492286e989c/images/token%20size%20.png",
+  "social": {
+    "twitter": "https://x.com/Afrinimals",
+    "telegram": "https://t.me/afrinimals",
+    "website": "https://Afrinimals.website"
+  }
+}
