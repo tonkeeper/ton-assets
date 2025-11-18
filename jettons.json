@@ -10493,6 +10493,11 @@
   "symbol": "DBT"
  },
  {
+  "address": "0:0edbf3fb09ff8cabe0b970b571249a5893700d531fbbed35ca4fbf462931ba95",
+  "name": "DegensCanAccumulate",
+  "symbol": "DCA"
+ },
+ {
   "address": "0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c",
   "name": "DexCoyote Legends",
   "symbol": "DCL"
