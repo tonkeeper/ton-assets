@@ -1,1 +1,288 @@
-[]
+- address: 0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4
+  name: The Resistance Cat
+  symbol: $RECA
+- address: 0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c
+  name: 1PLAYER TOKEN
+  symbol: 1PTON
+- address: 0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a
+  name: 3CATS in a Trench Coat
+  symbol: 3CATS
+- address: 0:b56c7e2d151dad11542e5b88b6470c2971ca1a4b2f8645012a62b08a81935f37
+  name: Shards of Anonymous Telegram Numbers
+  symbol: 8num
+- address: 0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5
+  name: '@BTC25 MEMECOIN TonMiner'
+  symbol: '@BTC25'
+- address: 0:982d6dae5f23220887d06b0ca9d856e693c0ea0e13266237bd708354e3a220ac
+  name: ALENKA
+  symbol: ALENKA
+- address: 0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886
+  name: ANON
+  symbol: ANON
+- address: 0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45
+  name: ARBUZ
+  symbol: ARBUZ
+- address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
+  name: Art Coin
+  symbol: ART
+- address: 0:160f2c40452977a25d86d5130b3307a9af7bfa4deaf996cde388096178ab2182
+  name: AquaUSD
+  symbol: AquaUSD
+- address: 0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e
+  name: BIG BALLS BIRDS
+  symbol: BALLS
+- address: 0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d
+  name: HAMSTERBATYA
+  symbol: BATYA
+- address: 0:a5c9e5aaf6189a3c9471b4a45984136bce718d883a2e5d9cb94d6b35410d83a2
+  name: Bomb Crypto
+  symbol: BCOIN
+- address: 0:9abd0bfcbec675c1a427ab3de5986130d8791433672552bce3268b70a70ceb81
+  name: BOOBA Coin
+  symbol: BOOBA
+- address: 0:716d0cad2fae30b93cf9d4a72938b7530d23a1aab5752da3ca0eb84ea8b077bf
+  name: Buffy
+  symbol: BUFFY
+- address: 0:960e3e3d1c52274b04a4e3d780a38efa135601cb02e816e499e8e3b7c7b8e63f
+  name: Baby Doge Coin
+  symbol: BabyDoge
+- address: 0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400
+  name: Catizen
+  symbol: CATI
+- address: 0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8
+  name: TON Cats Jetton
+  symbol: CATS
+- address: 0:fa5b4ada0756860abf3aa5677bfa85a9037416d955c227db269587028642217e
+  name: CAVIAR COIN
+  symbol: CAVI
+- address: 0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad
+  name: swap.coffee
+  symbol: CES
+- address: 0:4a45235191e3f5fb68dc8394ff7ffff4b391e3fafadb7cd2cc432f1d9d9b3bc5
+  name: Hot Cherry
+  symbol: CHERRY
+- address: 0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc
+  name: CARDIFY Coin
+  symbol: CRDF
+- address: 0:f6eb371de82aa9cfb5b22ca547f31fdc0fa0fbb41ae89ba84a73272ff0bf2157
+  name: DeFinder Capital
+  symbol: DFC
+- address: 0:0e2ce27d8e14b5466cc44306b209c0fff20959848de6ee534e7e83535213f84d
+  name: adDICKted
+  symbol: DICK
+- address: 0:f34c3bbe2d62de52003bbd77bc6301b3f4f606289f9ccfe2652990fd4c6557ef
+  name: DOGG TON
+  symbol: DOGG
+- address: 0:614683e638899c5367b708b283e9e099fcf7cecf689815c398df5dfd1d4531d2
+  name: 'Dubai #2049'
+  symbol: DUBAI
+- address: 0:1371473af6c19208231269db1550a746c0cd4130a4be1ca09618f93ad3164683
+  name: TON FISH MEMECOIN
+  symbol: FISH
+- address: 0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025
+  name: Flamingo Coin
+  symbol: FLAM
+- address: 0:7c3b4249fa1a9e0c0a830b5386eb33d805fa55f90cf03de77492971b20b5ec98
+  name: Gem
+  symbol: GEM
+- address: 0:57e8af5a5d59779d720d0b23cf2fce82e0e355990f2f2b7eb4bba772905297a4
+  name: GEMSTON
+  symbol: GEMSTON
+- address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
+  name: Gram
+  symbol: GRAM
+- address: 0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309
+  name: GRAND
+  symbol: GRAND
+- address: 0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34
+  name: Hedgehog in the fog
+  symbol: HIF
+- address: 0:f83f7d94d74b2736821abe8aba7183d3411f367b00233b6d1ea6282b59102ea7
+  name: Hydra
+  symbol: HYDRA
+- address: 0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc
+  name: JVault Token
+  symbol: JVT
+- address: 0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a
+  name: KAKAXA
+  symbol: KAKAXA
+- address: 0:e3387de7a142550972d20710a1d9a8278783842c3be81815f050d4f1cd9a5a11
+  name: TON KONG
+  symbol: KONG
+- address: 0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862
+  name: MrKrabs
+  symbol: KRABS
+- address: 0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054
+  name: Lucky TON
+  symbol: LKY
+- address: 0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067
+  name: LLAMA
+  symbol: LLAMA
+- address: 0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777
+  name: Margaritis
+  symbol: MARGA
+- address: 0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36
+  name: Magic Crystal
+  symbol: MC
+- address: 0:a2bd285efa78a031a9c08a5f22471c0ab29ef8700d2ad1ad349263c1b4b7d11d
+  name: Mihaylets Community
+  symbol: MCOM
+- address: 0:16a73dbf1b434ac651b656f8056e06463edf18d6a7b47068fee18c3905f99847
+  name: Not Meme
+  symbol: MEM
+- address: 0:5a2bd11db838ebd161c407a349dc908e6ff2139d7d3d7a4e584f5fbbdeda1a81
+  name: Memelandia Ton
+  symbol: MEMELAND
+- address: 0:87e3837bdc15c4853f34eb72802bfdbba02a26bc99e601a79bb28f9d668c80cb
+  name: MMM2049
+  symbol: MMM
+- address: 0:7ae10db5f371fd5eab2b47d87ab55f37027465157f3a30959108c425b20414db
+  name: Morfey
+  symbol: MORFEY
+- address: 0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7
+  name: Meridian
+  symbol: MRDN
+- address: 0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28
+  name: MyTonWallet Coin
+  symbol: MY
+- address: 0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e
+  name: Telegram's Cat
+  symbol: Mittens
+- address: 0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6
+  name: NikolAI
+  symbol: NIKO
+- address: 0:746a957e372098243570481a032fce978e9d0e8b07320fc8c9d09e415569e70c
+  name: OPEN
+  symbol: OPEN
+- address: 0:49389d9e2ff094153ff4afd99ea2a8ca53046db42ffe354272bd6431b335567b
+  name: Petcoin
+  symbol: PET
+- address: 0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c
+  name: Pi Ton Network
+  symbol: PITON
+- address: 0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc
+  name: Pizza Gram
+  symbol: PIZZA
+- address: 0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34
+  name: Paper Plane
+  symbol: PLANE
+- address: 0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729
+  name: Plankton
+  symbol: PLANKTON
+- address: 0:41ed158ed2ace8e898629172e398a25cf35212e094747327396cf00bfe1d061a
+  name: Portal Network Token
+  symbol: POE
+- address: 0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655
+  name: PROTON JETTON
+  symbol: PROTON
+- address: 0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb
+  name: $PUNK
+  symbol: PUNK
+- address: 0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a
+  name: Ton Raffles Token
+  symbol: RAFF
+- address: 0:9c61458a8631b1c2ab64fe37bd2d6d95e11a0599b84e511f5ee34e18e8541311
+  name: The Resistance Girl
+  symbol: REGI
+- address: 0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4
+  name: Shitcoin
+  symbol: SHIT
+- address: 0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48
+  name: SOON
+  symbol: SOON
+- address: 0:41f843111099081d5606e433e29253a158f72c09ac632fd1ca9a046fb86b73ff
+  name: Nobby Game
+  symbol: SOX
+- address: 0:022d70f08add35b2d8aa2bd16f622268d7996e5737c3e7353cbb00d2aba257c5
+  name: Spintria
+  symbol: SP
+- address: 0:f9b72e48c55dc7102118d5b6db75deeb34d63e65c03ea40206417cb24594440f
+  name: Stable Metal
+  symbol: STBL
+- address: 0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2
+  name: Spotty
+  symbol: Spotty
+- address: 0:cdd754d33d3c70ff148f26cff3cabcc84669782570e5a6902663326afbeb66a4
+  name: tepe
+  symbol: TEPE
+- address: 0:f8563e5ae686cf618d907e040c7d9d2a8b718f95247106efe7eaa201256526ac
+  name: TON FLOKI
+  symbol: TFLOKI
+- address: 0:9a5c0db77ba21156ceb22aa8ca4a5fc5197ab56e722de37505b5214e18fe1653
+  name: Things Regular Token
+  symbol: THNG
+- address: 0:a4b44980b2f6019fc0cf4ba96ee107dab631092512f00fde1a0ea6fc4ace9eb6
+  name: TIGER
+  symbol: TIGER
+- address: 0:8d094c45c0cb0d60a4eff3d5ae457e69cb10c25aa960062e1397ccf2b6396535
+  name: TIME
+  symbol: TIME
+- address: 0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9
+  name: TONALD TRUMP
+  symbol: TONALD
+- address: 0:efebc6f725a5813bf0eb3fabb5dceabb2ac9ca851f76ea433170e2700020d8fe
+  name: Tonk Inu
+  symbol: TONK
+- address: 0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32
+  name: Tonnel Network Token
+  symbol: TONNEL
+- address: 0:264068a6291ad21c32e596f75475e0ec5f50accc6cbf48f80d34df301368a123
+  name: TON PET MEMECOIN
+  symbol: TPET
+- address: 0:069a80f25e48c55eefec76d458e9056116c0d3c685d10c8b892761c7a21d2797
+  name: TradeBet
+  symbol: TRB
+- address: 0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05
+  name: Tribe
+  symbol: TRIBE
+- address: 0:57e2bba1e75227dbfb0b2ba196f262a32526ada14a7cc4c3b160f123b12877cb
+  name: T-Project Jetton
+  symbol: TTTU
+- address: 0:af69fd0932bbfa04ebcfa4081e7b4f2e40cfee46951dfff7e103b366f2dc33bd
+  name: TonUP
+  symbol: UP
+- address: 0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024
+  name: Us Usach
+  symbol: USACH
+- address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
+  name: Utya
+  symbol: UTYA
+- address: 0:6d70be0903e3dd3e252407cbad1dca9d69fb665124ea74bf19d4479778f2ed8b
+  name: Web3 TON Token
+  symbol: WEB3
+- address: 0:8e6e1e3e65a8213af6bcb82cff00c327be27ccdcf4be129a542442505d79e53f
+  name: Whiskers
+  symbol: WHISK
+- address: 0:1716717f0863c85c3e41e7a0be5cf1324c02623780b5848d3e2631b94ae73ac3
+  name: Wisdomise
+  symbol: WSDM
+- address: 0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba
+  name: What The
+  symbol: WTF
+- address: 0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3
+  name: X Empire
+  symbol: X
+- address: 0:74d8327471d503e2240345b06fe1a606de1b5e3c70512b5b46791b429dab5eb1
+  name: povel durev
+  symbol: durev
+- address: 0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4
+  name: 00 Token
+  symbol: j00
+- address: 0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700
+  name: GAMEE
+  symbol: jGMEE
+- address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
+  name: Mantle
+  symbol: jMNT
+- address: 0:eef628e4e3882b0077b70f2f6a60ecbe86273ebc9af8775087dc737237e813e4
+  name: ChronoTech Token
+  symbol: jTIME
+- address: 0:b8ed87d52d6a3e53fcfbb3a8843a4600004285fc2d3e801881f0a24beace66e0
+  name: TOWER
+  symbol: jTOWER
+- address: 0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45
+  name: sTONks
+  symbol: sTONks
+- address: 0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892
+  name: Staked TON
+  symbol: stTON
