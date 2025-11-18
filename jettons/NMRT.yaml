@@ -1,0 +1,11 @@
+name: NameRate
+symbol: NMRT
+description: The utility token of NameRate. Used to power the estimation algorithm and enable the valuation of digital assets (usernames & domains)
+address: 0:59ad996c4fe43e80e2a2918616331618a44e5c727ee1cc4a376549f889e26e08
+decimals: 9
+image: "https://raw.githubusercontent.com/NameRate/namerate/refs/heads/gh-pages/nmrt.png"
+websites:
+  - "https://docs.namerate.tech"
+social:
+  - "https://t.me/NameRateBot"
+  - "https://t.me/NameRate"
