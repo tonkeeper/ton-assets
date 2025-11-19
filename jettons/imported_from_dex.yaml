@@ -58,9 +58,6 @@
 - address: 0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0
   name: ALWIN AirDrop
   symbol: ALWIN
-- address: 0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f
-  name: Amocucinare
-  symbol: AMORE
 - address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
   name: Andy
   symbol: ANDY
@@ -292,6 +289,9 @@
 - address: 0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1
   name: Diamond Bull Technology
   symbol: DBT
+- address: 0:0edbf3fb09ff8cabe0b970b571249a5893700d531fbbed35ca4fbf462931ba95
+  name: DegensCanAccumulate
+  symbol: DCA
 - address: 0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c
   name: DexCoyote Legends
   symbol: DCL
@@ -382,6 +382,9 @@
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
+- address: 0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651
+  name: Exit
+  symbol: Exit
 - address: 0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce
   name: F
   symbol: F
@@ -1238,9 +1241,6 @@
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
-- address: 0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286
-  name: TonMemeRepublic
-  symbol: TMR
 - address: 0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956
   name: TON FORD
   symbol: TNFRD
