@@ -1,0 +1,16 @@
+address: EQCV65i0hMk-zsiOg61ogmd7Bn-rxzlFAbY4qSD3d_vDhFnG
+name: BTE
+symbol: BTE
+decimals: 9
+description: >
+  Utility jetton of ByTetherExchange.
+  Provides liquidity inside the ecosystem and is used within the platform.
+
+image: "https://www.bytetherexchange.com/static/Bte.png"
+
+websites:
+  - "https://www.bytetherexchange.com"
+
+social:
+  - "https://t.me/bte_trust_bot"
+  - "https://www.instagram.com/btexchanger"
