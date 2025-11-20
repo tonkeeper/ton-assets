@@ -214,6 +214,13 @@
   ]
  },
  {
+  "address": "0:91f6a3a4da979e6c1c55f0bfa742cdff529d107405a56883fdfecb30c3c0ff07",
+  "description": "meme token on TON",
+  "image": "https://coin-images.coingecko.com/coins/images/38988/large/moby-icon_%281%29.png",
+  "name": "$MOBY",
+  "symbol": "$MOBY"
+ },
+ {
   "address": "0:d87487d94b1a0f5355aa9b970b7d2dade151ebc56a8126cecb2860d68867fea3",
   "description": "MUSK \u2014 \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u044f \u0432 \u043c\u0443\u0437\u044b\u043a\u0443 \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e. \u0422\u043e\u043a\u0435\u043d MUSK \u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0435\u0442 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e, \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u044f \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0443 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u043c\u0443\u0437\u044b\u043a\u0438 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0430. \u041f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u043e\u0441\u0442\u044c, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0430\u0440\u0442\u0438\u0441\u0442\u043e\u0432 \u0438 \u043d\u043e\u0432\u044b\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0438\u043d\u0432\u0435\u0441\u0442\u043e\u0440\u043e\u0432 \u2014 \u043e\u0441\u043d\u043e\u0432\u0430 \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u044b MUSK.",
   "image": "https://cdn.blum.codes/bd7f9965-5975-4b1c-8dce-865ddc622408/61c7253d-5f88-460e-be3c-acc1a487e1d2",
@@ -252,6 +259,20 @@
   "websites": [
    "https://smartcoinstrategy.com/"
   ]
+ },
+ {
+  "address": "0:451aab804a8931111a2d60cb5d528397c98e41a22af95b260623b4b622d00250",
+  "description": "100F is the utility token of Crypto Club 100F. Buyback-based economy, private analytics community, media growth and ecosystem expansion.\n",
+  "image": "https://raw.githubusercontent.com/DmytroIOOF/100f-media/main/100F_256.png",
+  "name": "100F",
+  "social": [
+   "https://t.me/Crypto_Club_100F",
+   "https://twitter.com/100franklinov",
+   "https://instagram.com/100f_blog",
+   "https://youtube.com/@your_franklin?si=wWUR__RbwiFlzxhW",
+   "https://www.tiktok.com/@crypto_clab_100f?_t=ZM-90w4x61CN&_r=1"
+  ],
+  "symbol": "100F"
  },
  {
   "address": "0:9c559870b490faf34c8d16de6a61a97d010c609d434bdc5f54e65539f5eeab7e",
@@ -297,6 +318,17 @@
   "websites": [
    "https://1rus.com"
   ]
+ },
+ {
+  "address": "0:33d27652a014f8f7f956bde318059847f44bd764cae7c3a7c43d6bcde4dd0d3e",
+  "description": "The Three Head Dog meme token on the TON network \u2014 a symbol of holders unity and strength.",
+  "image": "https://cdn.dexscreener.com/cms/images/c7e8d9d873fe861df8bb6e4a90ae52e53c23a4e783b826e367c7cc6c7a4aeff3?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "Three Head Dog",
+  "social": [
+   "https://t.me/ThreeHead_Dog",
+   "https://x.com/threehead_dog"
+  ],
+  "symbol": "3DOG"
  },
  {
   "address": "0:5b92bf905a5f1fb0880e6734d49a723cbe9473cc2afc3b9bd145cbd68247a0ff",
@@ -454,6 +486,21 @@
   "address": "0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49",
   "name": "Ambra",
   "symbol": "AMBR"
+ },
+ {
+  "address": "0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f",
+  "description": "For those who love to cook",
+  "image": "https://coubnft.mypinata.cloud/ipfs/QmTChav5osefKkxnZcsyqYq1KF3hhoNrbbe7P8H8wm6DvU",
+  "name": "Amocucinare",
+  "social": [
+   "https://x.com/AmoreCoin",
+   "https://t.me/amoreAIcrypto"
+  ],
+  "symbol": "AMORE",
+  "websites": [
+   "https://www.youtube.com/@amocucinare",
+   "amorecoin.love"
+  ]
  },
  {
   "address": "0:fb1522574798299f2b36ba7d7fdde4bbd44f9ba4b0c527a1d56474801d8caf41",
@@ -1550,6 +1597,23 @@
    "https://github.com/tonborka"
   ],
   "symbol": "Borka"
+ },
+ {
+  "address": "0:ceb9b471002a19de5f15e2e9a2c49ee2e2c356ea3e57af25f951ba78b8bd3062",
+  "description": "Bullieve is a Telegram memecoin evolving into a Web3 brand. Powered by our green bull mascot, we\u2019re spreading bullish energy through memes, onchain drops, and bold merch.",
+  "image": "https://i.ibb.co/tMW16fgQ/BULL-LOGO-03.png",
+  "name": "Bullieve",
+  "social": [
+   "https://t.me/bullievecoin",
+   "https://t.me/bullievechat",
+   "https://x.com/BullieveCoin",
+   "https://www.youtube.com/@bullievecoin",
+   "https://www.tiktok.com/@bullievecoin"
+  ],
+  "symbol": "BULL",
+  "websites": [
+   "https://bullieve.io/"
+  ]
  },
  {
   "address": "0:41ec9f104b66018d03ad413afef5b46b20a735328802fe382dfa0ab699cbc440",
@@ -2708,6 +2772,11 @@
   ]
  },
  {
+  "address": "0:058591596327b4965b25efce4ecce246f504fa3d7c9851d9a20b853de6506e1e",
+  "name": "ENA",
+  "symbol": "ENA"
+ },
+ {
   "address": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
   "description": "First open case APP with integration in TON BlockChain.",
   "image": "https://i.ibb.co/ZrsSPWZ/83b476757f1f.png",
@@ -2753,6 +2822,21 @@
   "symbol": "EOET",
   "websites": [
    "https://theexplorergames.com"
+  ]
+ },
+ {
+  "address": "0:b8c8d5e28e1d8426a0e93ee9ec8e335e2c6ed540575b547eb84085f96a8c325f",
+  "decimals": 9,
+  "description": "SPERM (Safe Per Moon) - meme token of the MoonRaid ecosystem. Stake, play, and rise to the Moon on the TON blockchain.",
+  "image": "https://safepermoon.com/logo.png",
+  "name": "Safe Per Moon",
+  "social": [
+   "https://x.com/safepermoon",
+   "https://t.me/safepermoon"
+  ],
+  "symbol": "SPERM",
+  "websites": [
+   "https://safepermoon.com"
   ]
  },
  {
@@ -2890,6 +2974,17 @@
   "websites": [
    "https://yourfastup.com/"
   ]
+ },
+ {
+  "address": "0:bc95484a24ca60e0768ce1f2cc2c259e3bb426c5ac186990c3a558dfca48eb62",
+  "description": "Father's Capital is our answer to the eternal race, a symbol for those who have finally realized that the most important investment is time.",
+  "image": "https://camp-rp.ru/img/token.png",
+  "name": "FATHERCOIN",
+  "social": [
+   "https://t.me/fathercapital",
+   "https://vk.link/ftrcap"
+  ],
+  "symbol": "FTRCAP"
  },
  {
   "address": "0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090",
@@ -3985,6 +4080,17 @@
   "websites": [
    "https://harrygorilla.com/"
   ]
+ },
+ {
+  "address": "0:34660cc2af7251d1ce3b76e73ef8e8d2943e00dbd8b366d221005fe9cb60da12",
+  "description": "HASBULLA - LITTLE GIANT WITH GRRAT INFLUENCE.",
+  "image": "https://cdn.prod.blum.codes/1c8f0632-caf6-4aba-9a2c-84be1e20ca1d/25667ca8-ef10-4f6f-ad3f-7114ad104267",
+  "name": "HASBULLA HUSHETSKIY",
+  "social": [
+   "https://t.me/hasbullatkn",
+   "https://x.com/hasbulla_ton"
+  ],
+  "symbol": "HASBULLA"
  },
  {
   "address": "0:b10771fba3f137a00e628c133ae799b3e23e7070db4ed16c21fd6b23b56a1190",
@@ -5108,6 +5214,18 @@
   ]
  },
  {
+  "address": "0:f09f4c9b5717dfae2a36d13493e3596f46eacf3cf7eb607fdd8c6c4013194bed",
+  "description": "Unite the TON community and restore user trust in the ecosystem.",
+  "image": "https://cdn.prod.blum.codes/f56fb658-d043-4200-81e8-b33787d7cfb9/06277814-e339-407d-a99c-03959a547946",
+  "name": "Maximus",
+  "social": [
+   "https://x.com/maximustrade1",
+   "https://t.me/MaximusTrade1",
+   "https://t.me/+KlbM0YG2pl4wZWYy"
+  ],
+  "symbol": "MAXIMUS"
+ },
+ {
   "address": "0:4e0d592739570a22ac04b40aa273a240ee0015134026db1ca2c823cd99e2d1d0",
   "description": "Coin MAZNIA For creative people",
   "image": "https://2.gravatar.com/avatar/daa762ca4b084a00ba2523496bd9a6a097c3fd0af21eadf57164ad4c31aede59?size=256",
@@ -5790,6 +5908,19 @@
   ]
  },
  {
+  "address": "0:b6ed79ea7ad966f5dd0b13933d0862f2e762f641dac8e5656380510b27c732d2",
+  "description": "Naughty Coin (NOTY) is a fun and community-driven crypto project on the TON ecosystem, blending, utility, payment simplified and real fun rewards with the NOTY Card.",
+  "name": "Naughty Coin",
+  "social": [
+   "https://t.me/naughtycoin_channel",
+   "https://x.com/notycoin"
+  ],
+  "symbol": "NOTY",
+  "websites": [
+   "https://naughtycoin.club"
+  ]
+ },
+ {
   "address": "0:5abfeb7f30cf41fe3a6436eb16f08b18cf025ba4a6d23d8e4a56ef5fd9c280f6",
   "description": "NOVA is the native reward token for the Cryptid Hunter game, designed to foster a player-driven economy and provide engaging incentives within the game\u2019s ecosystem. Through its Play-to-Earn (P2E) model, NOVA empowers players to earn tokens via gameplay, contributing to a dynamic and vibrant game world.",
   "image": "https://cryptid-hunter-mini.s3.eu-central-1.amazonaws.com/icons/token/nova.png",
@@ -6021,6 +6152,18 @@
   ]
  },
  {
+  "address": "0:87a40a1ccced702093c9d1fdbc2d8addcab4b6bd919d29160fa5a2d756c98bd2",
+  "decimals": 9,
+  "description": "Is meme coin designed to bring together padel enthusiasts and users with similar interests.",
+  "image": "https://cdn.prod.blum.codes/14cc6286-3248-4b33-9cb8-f12e9ac5955c/8cdf0613-ef5e-44b7-b917-f429c0de685d",
+  "name": "Padel",
+  "social": [
+   "https://t.me/padelco",
+   "https://x.com/PadelCoinTon"
+  ],
+  "symbol": "PADEL"
+ },
+ {
   "address": "0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38",
   "description": "Token for the residents of Paphos \ud83c\udfdb\ufe0f\ud83c\udf1e",
   "image": "https://i.ibb.co/cQ9PyCS/PAPHS.png",
@@ -6045,6 +6188,22 @@
   "symbol": "PARTY",
   "websites": [
    "https://tonpartyparrot.xyz/"
+  ]
+ },
+ {
+  "address": "0:09e34a77ce50a8a2680034c438bb978892d2cc66d58ff3b1862832a5c96fc464",
+  "description": "Plush Brick \u2014 share a brick, stack memes, ride the hype. \ud83e\uddf1",
+  "image": "https://i.ibb.co/btSvnqT/image.png",
+  "name": "Plush Brick",
+  "social": [
+   "https://t.me/+KZZ7VDmfxTViMDRi",
+   "https://t.me/+t5ghaLZ-0vo4Mjky",
+   "https://t.me/pbr1ck",
+   "https://x.com/plushbrick"
+  ],
+  "symbol": "PBRICK",
+  "websites": [
+   "https://plushbrick.fun/"
   ]
  },
  {
@@ -6080,6 +6239,20 @@
   "address": "0:4ffe1859f853d31e7802de70ff01b146c1eed5595498a1f918afdbdb3e4d5e17",
   "name": "PEPE`S TON CLUB",
   "symbol": "PEPE"
+ },
+ {
+  "address": "0:69cb222c5857c51e8384e19e614b52a40830d27527b6692a2b471ceca38219c5",
+  "description": "Pepe Strategy is the flywheel for Plush Pepes. https://pepestrategy.fun https://t.me/PlushPepesStrategy https://x.com/pepe_strategy",
+  "image": "https://i.ibb.co/Hp4NQqLB/plushpepestrat-token-image-jpg.jpg",
+  "name": "Pepe Strategy",
+  "social": [
+   "https://t.me/PlushPepesStrategy",
+   "https://x.com/pepe_strategy"
+  ],
+  "symbol": "PEPESTR",
+  "websites": [
+   "https://pepestrategy.fun/"
+  ]
  },
  {
   "address": "0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13",
@@ -7759,6 +7932,23 @@
   ]
  },
  {
+  "address": "0:daaaa250a51f8eaf98e117e45ff309063df492b95ad274e9fe6056cadded1378",
+  "description": "TAPX is a play-to-earn Telegram game token used to participate in in-app contests, rewards, and activities, enabling users to earn and trade within the TON ecosystem.",
+  "image": "https://app.tapxbattle.com/logo-512x.png",
+  "name": "TAPX",
+  "social": [
+   "https://t.me/tapxbattle",
+   "https://t.me/tapxbattle_bot",
+   "https://x.com/@tapxbattle",
+   "https://youtube.com/tapxbattle",
+   "https://instagram.com/tapx_battle"
+  ],
+  "symbol": "TAPX",
+  "websites": [
+   "https://tapxbattle.com"
+  ]
+ },
+ {
   "address": "0:7604e727930b08b23a9dfab6c09b86efaee9b7fcc24a312829f7be20efecc8a3",
   "description": "Ton Attack utilises a unique set of strategy cards which is comprised of major memes on the Ton Blockchain.   Use these cards to shill your favourite projects. You can also earn $TAX by playing/spending on the new mini app.  https://t.me/OfficialTonAttack",
   "image": "https://universal-1.github.io/images/ton-attack.webp",
@@ -8462,6 +8652,20 @@
   "symbol": "TVM"
  },
  {
+  "address": "0:2c25e386cb1626032aefe62f637e034b534c977974b85f380b5a594934f234e2",
+  "description": "TWARS powers Trading Wars, a Telegram-based trading simulator using real historical crypto charts. Trade on TWARS to experience instant results and sharpen your instincts.",
+  "image": "https://tradingwars.site/public/coin_512x512.png",
+  "name": "TradingWars Token",
+  "social": [
+   "https://t.me/tradingWarsCommunity",
+   "https://t.me/TradingWars_bot"
+  ],
+  "symbol": "TWARS",
+  "websites": [
+   "https://tradingwars.site/en/token"
+  ]
+ },
+ {
   "address": "0:d5ddc6f388f1f3f3011c0d8b7ef620cea2695cddb159412c745a26450afedf87",
   "description": "\ud83c\udfa9\ud83d\udc8eDive into the exhilarating world of Trumpwifhat - exclusive memecoin built on $TON blockchain! Embrace innovation and style with our unique $TWIF token, inspired by Trump's iconic flair!\ud83c\udf1f",
   "image": "https://trumpwifcoin.pro/images/2024/04/20/small200x200.png",
@@ -8573,6 +8777,17 @@
   ]
  },
  {
+  "address": "0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286",
+  "description": "TonMemeRepublic \u2014 launched on \u26fd\ufe0f GasPump. A united front of TON meme creators and believers shaping the next era of on-chain culture.",
+  "image": "https://cdn.dexscreener.com/cms/images/a128257dc928f960deb8e943ac97b2899ad448c2ca69afc4d25e488202c76034?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "TonMemeRepublic",
+  "social": [
+   "https://t.me/TonMemeRepublicChat",
+   "https://x.com/memerepublicton"
+  ],
+  "symbol": "TMP"
+ },
+ {
   "address": "0:446ca9b9cfe4f9a6ccfc891b424588c31fe3866d102c7e142d74a7f599ad9da9",
   "description": "TryTON is a project aimed at popularizing the TON network among participants from other networks through its applications: wallet, bridge, and AirDrop game.",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GplVmGPFy2aa2ZRvYm-uxoC4I2Q1H674Gym4DxDqdPmGUBovLHnIoDHiPG72ORx8PAYTk7HPtlqH1Do-c8CMG-GhxiIOl8XAl6cTv5DnKnh_RVGdvJVyWF9B2BjLBvYNz8rxrcYD-GxbcqjGhbB9ID0IKKoevalLlFMo4y1S1B5IccbGDn7S922-YcQq/s320/ava_01.jpg",
@@ -8658,6 +8873,18 @@
   "symbol": "USDT-TLP",
   "websites": [
    "https://tradoor.io"
+  ]
+ },
+ {
+  "address": "0:823b4f1deb1005981f79f24e3f0a82c963214783ec26d8299b85ed59a31337d9",
+  "decimals": 9,
+  "description": "Liquidity pool token for Tether USD and Herculis Gold Coin (XAUH) on Capital DEX",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeigdee77us3cku7fhyjfj3agbyxuupmpe5se6qjg62pffds5ziymmy/usdt-xauh-clp.png",
+  "name": "Capital DEX LP Token for USD\u20ae-XAUH",
+  "symbol": "USD\u20ae-XAUH CLP",
+  "websites": [
+   "https://xauh.gold",
+   "https://capitaldex.exchange/swap?chain=ton&tokens=usdt-xauh"
   ]
  },
  {
@@ -9076,6 +9303,20 @@
   ]
  },
  {
+  "address": "0:a23a61ff75e5320e0f8df744e860f89b479540d37dceb303ec75ca80e6fade55",
+  "description": "WHALE VAULT is a hyper-emotional, ultra-viral,community-first MEME MOVEMENT forged on the TON blockchain \u2014 designed to ignite culture, not utility.",
+  "image": "https://whalevault.xyz/logo.png",
+  "name": "WhaleVault",
+  "social": [
+   "https://t.me/TheWhaleVault",
+   "http://t.me/whalesvaultbot/vault"
+  ],
+  "symbol": "$WVT",
+  "websites": [
+   "https://whalevault.xyz/whitepaper"
+  ]
+ },
+ {
   "address": "0:8c938fceba30a7938ea30291e72116e64ed61391299fba357d5fc61ed2abec1d",
   "decimals": 18,
   "description": "Herculis Gold Coin (XAUH) is a digital asset representing direct ownership of Swiss-refined, Swiss-audited, Swiss-stored, Swiss-insured and Swiss-managed physical gold. It combines the security of physical gold with the flexibility of blockchain technology.",
@@ -9104,15 +9345,15 @@
  {
   "address": "0:082bdb00eb1a3698cd41c9b65cb8129b9b58f939cbb48da7a0fff2e1ed127f26",
   "decimals": 9,
-  "description": "XP is a gaming token created within the AVACOIN ecosystem. It is designed to support and drive the development of both existing and future gaming projects. XP will serve as a cornerstone of the ecosystem, connecting all games and ensuring their sustainable growth and seamless integration.",
+  "description": "XP is a gaming token created within the XP LABS ecosystem. It is designed to support and drive the development of both existing and future gaming projects. XP will serve as a cornerstone of the ecosystem, connecting all games and ensuring their sustainable growth and seamless integration.",
   "image": "https://i.postimg.cc/JnBfFD2r/xp200.png",
   "name": "XP",
   "social": [
-   "https://t.me/avagoldcoin_bot",
-   "https://t.me/avagoldcoin",
-   "https://x.com/avagoldcoin",
-   "https://instagram.com/avagoldcoin",
-   "https://www.youtube.com/@AVA-GOLDCOIN"
+   "https://x.com/xplabsch",
+   "https://t.me/xplabsch",
+   "https://t.me/xplabs_games",
+   "https://www.instagram.com/xplabsch",
+   "https://www.youtube.com/@xplabsch"
   ],
   "symbol": "XP"
  },
@@ -9882,11 +10123,6 @@
   "symbol": "ALWIN"
  },
  {
-  "address": "0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f",
-  "name": "Amocucinare",
-  "symbol": "AMORE"
- },
- {
   "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
   "name": "Andy",
   "symbol": "ANDY"
@@ -10272,6 +10508,11 @@
   "symbol": "DBT"
  },
  {
+  "address": "0:0edbf3fb09ff8cabe0b970b571249a5893700d531fbbed35ca4fbf462931ba95",
+  "name": "DegensCanAccumulate",
+  "symbol": "DCA"
+ },
+ {
   "address": "0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c",
   "name": "DexCoyote Legends",
   "symbol": "DCL"
@@ -10420,6 +10661,11 @@
   "address": "0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a",
   "name": "EXTON COIN",
   "symbol": "EXC"
+ },
+ {
+  "address": "0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651",
+  "name": "Exit",
+  "symbol": "Exit"
  },
  {
   "address": "0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce",
@@ -11845,11 +12091,6 @@
   "address": "0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1",
   "name": "Ton Milk",
   "symbol": "TMILK"
- },
- {
-  "address": "0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286",
-  "name": "TonMemeRepublic",
-  "symbol": "TMR"
  },
  {
   "address": "0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956",
