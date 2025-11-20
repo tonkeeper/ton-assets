@@ -7747,6 +7747,16 @@
   "symbol": "STON"
  },
  {
+  "address": "0:fa3cee0c4bcdebfa6714b97fa540d328cd2ed2a452544deca1f0ae3592f64923",
+  "description": "GasPump finally allows token launches on STON.fi. They're gearing up for meme season, though. (launched on \u26fd\ufe0f GasPump)",
+  "image": "https://tokens.gas111.com/images/954194206df148fca9ee74cec74752d2.png",
+  "name": "first StonFi on gas pump",
+  "social": [
+   "https://t.me/STONCAT_meme"
+  ],
+  "symbol": "STONCAT"
+ },
+ {
   "address": "0:7de57e6ee41ee97eb8b8aed881e320e488c8767ecb16ff688438414a7cb9807a",
   "decimals": 9,
   "description": "Liquidity pool token for STORM and Proxy TON on STON.fi DEX. Liquidity pool link: https://app.ston.fi/pools/EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo",
