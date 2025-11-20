@@ -2772,6 +2772,11 @@
   ]
  },
  {
+  "address": "0:058591596327b4965b25efce4ecce246f504fa3d7c9851d9a20b853de6506e1e",
+  "name": "ENA",
+  "symbol": "ENA"
+ },
+ {
   "address": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
   "description": "First open case APP with integration in TON BlockChain.",
   "image": "https://i.ibb.co/ZrsSPWZ/83b476757f1f.png",
