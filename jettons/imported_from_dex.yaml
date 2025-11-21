@@ -58,9 +58,6 @@
 - address: 0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0
   name: ALWIN AirDrop
   symbol: ALWIN
-- address: 0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f
-  name: Amocucinare
-  symbol: AMORE
 - address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
   name: Andy
   symbol: ANDY
@@ -76,9 +73,6 @@
 - address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
   name: Art Coin
   symbol: ART
-- address: 0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a
-  name: VZGLYAD AVTORA
-  symbol: AVTR
 - address: 0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2
   name: Azure
   symbol: AZURE
@@ -295,6 +289,9 @@
 - address: 0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1
   name: Diamond Bull Technology
   symbol: DBT
+- address: 0:0edbf3fb09ff8cabe0b970b571249a5893700d531fbbed35ca4fbf462931ba95
+  name: DegensCanAccumulate
+  symbol: DCA
 - address: 0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c
   name: DexCoyote Legends
   symbol: DCL
@@ -322,9 +319,6 @@
 - address: 0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3
   name: DINJA
   symbol: DINJA
-- address: 0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340
-  name: Dimethyltryptamine
-  symbol: DMT
 - address: 0:667170b2b5cf590dcc9fa21f455cd36f4a4a6c97f543ec6c23921054d611754b
   name: DOBERCOIN
   symbol: DOBER
@@ -349,6 +343,9 @@
 - address: 0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0
   name: DRAGONZ LAND
   symbol: DRAGONZ
+- address: 0:65e65b1043d6295705284e571d7ac5408e2a9af968a6896dbd1700c7720024c6
+  name: DRFT Coin
+  symbol: DRFT
 - address: 0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda
   name: TON Drift
   symbol: DRIFT
@@ -385,6 +382,9 @@
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
+- address: 0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651
+  name: Exit
+  symbol: Exit
 - address: 0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce
   name: F
   symbol: F
@@ -427,9 +427,6 @@
 - address: 0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528
   name: FREEDOM
   symbol: FREE
-- address: 0:3309d04825d6599e97e7e21eedec03a4e44ecc01ac54b0844006ea25562199ae
-  name: Leagushka
-  symbol: FROG
 - address: 0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6
   name: Frogy LIVE
   symbol: FROGY
@@ -622,9 +619,6 @@
 - address: 0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971
   name: "\u0416\u042E"
   symbol: LIFEYT
-- address: 0:90f05482a0e9c221a797dbd60518e8067519fba7d035b92f208958d9290c910f
-  name: Liquidator
-  symbol: LIQ
 - address: 0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054
   name: Lucky TON
   symbol: LKY
@@ -1099,9 +1093,6 @@
 - address: 0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48
   name: SOON
   symbol: SOON
-- address: 0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1
-  name: Sorry Mate
-  symbol: SORRY
 - address: 0:41f843111099081d5606e433e29253a158f72c09ac632fd1ca9a046fb86b73ff
   name: Nobby Game
   symbol: SOX
@@ -1472,6 +1463,9 @@
 - address: 0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72
   name: Meme Inc
   symbol: YOBA
+- address: 0:a7658ce69ae845b6d34492b51937d3621e1b2a6c1208c72633856d6c255b1901
+  name: The Reversed Livaz
+  symbol: ZAVIL
 - address: 0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11
   name: ZEUS
   symbol: ZEUS
