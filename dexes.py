@@ -72,3 +72,23 @@ def __get_dedust_assets() -> List[Asset]:
             continue
         assets.append(Asset(**item))
     return assets
+
+
+def __get_backed_assets() -> List[Asset]:
+    url = "https://api.backed.fi/api/v1/token"
+    response = requests.get(url)
+    if response.status_code != 200:
+        logging.error("failed to get dedust assets")
+        return list()
+    data = response.json()
+    assets = list()
+    for item in data['nodes']:
+        ton_addr = ""
+        for d in item["deployments"]:
+            if d["network"].lower() == "ton":
+                ton_addr = d["address"].removeprefix("ton:")
+        if ton_addr == "":
+            continue
+        assets.append(Asset(name=item["name"], address=ton_addr, symbol=item["symbol"]))
+
+    return assets

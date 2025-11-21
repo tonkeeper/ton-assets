@@ -134,6 +134,17 @@
   ]
  },
  {
+  "address": "0:1b6e0a915e49599a65f97b237e22f3b9c9335ab72574fa5abca4ff085dee7280",
+  "description": "WE ARE SWIMMIN TO THE TOP LIKE A DOLPHIN THROUGH THE SEA",
+  "image": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2F78f21v1ko5isdz1sm7o4hc0t6w4s&w=128&q=75",
+  "name": "FLIPPER",
+  "social": [
+   "https://t.me/+Cg_CHtdJ2TAyMGFi",
+   "https://t.me/FlipperCompany"
+  ],
+  "symbol": "$FLIP"
+ },
+ {
   "address": "0:556325320f4160b4f9b5b799a8086d4b78e2d0d7c02226d52deeb3dfd4f46f12",
   "description": "GrokWithTon is a token born on the TON blockchain as a tribute from the TON community to Grok \u2014 the sharp-tongued, chaos-loving AI that brought humor and insight to the world of artificial intelligence.",
   "image": "https://tokens.gas111.com/images/32c2fc00549d49f29c41378a2894eac3.png",
@@ -214,6 +225,13 @@
   ]
  },
  {
+  "address": "0:91f6a3a4da979e6c1c55f0bfa742cdff529d107405a56883fdfecb30c3c0ff07",
+  "description": "meme token on TON",
+  "image": "https://coin-images.coingecko.com/coins/images/38988/large/moby-icon_%281%29.png",
+  "name": "$MOBY",
+  "symbol": "$MOBY"
+ },
+ {
   "address": "0:d87487d94b1a0f5355aa9b970b7d2dade151ebc56a8126cecb2860d68867fea3",
   "description": "MUSK \u2014 \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u044f \u0432 \u043c\u0443\u0437\u044b\u043a\u0443 \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e. \u0422\u043e\u043a\u0435\u043d MUSK \u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0435\u0442 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e, \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u044f \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0443 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u043c\u0443\u0437\u044b\u043a\u0438 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0430. \u041f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u043e\u0441\u0442\u044c, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0430\u0440\u0442\u0438\u0441\u0442\u043e\u0432 \u0438 \u043d\u043e\u0432\u044b\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0438\u043d\u0432\u0435\u0441\u0442\u043e\u0440\u043e\u0432 \u2014 \u043e\u0441\u043d\u043e\u0432\u0430 \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u044b MUSK.",
   "image": "https://cdn.blum.codes/bd7f9965-5975-4b1c-8dce-865ddc622408/61c7253d-5f88-460e-be3c-acc1a487e1d2",
@@ -252,6 +270,20 @@
   "websites": [
    "https://smartcoinstrategy.com/"
   ]
+ },
+ {
+  "address": "0:451aab804a8931111a2d60cb5d528397c98e41a22af95b260623b4b622d00250",
+  "description": "100F is the utility token of Crypto Club 100F. Buyback-based economy, private analytics community, media growth and ecosystem expansion.\n",
+  "image": "https://raw.githubusercontent.com/DmytroIOOF/100f-media/main/100F_256.png",
+  "name": "100F",
+  "social": [
+   "https://t.me/Crypto_Club_100F",
+   "https://twitter.com/100franklinov",
+   "https://instagram.com/100f_blog",
+   "https://youtube.com/@your_franklin?si=wWUR__RbwiFlzxhW",
+   "https://www.tiktok.com/@crypto_clab_100f?_t=ZM-90w4x61CN&_r=1"
+  ],
+  "symbol": "100F"
  },
  {
   "address": "0:9c559870b490faf34c8d16de6a61a97d010c609d434bdc5f54e65539f5eeab7e",
@@ -297,6 +329,17 @@
   "websites": [
    "https://1rus.com"
   ]
+ },
+ {
+  "address": "0:33d27652a014f8f7f956bde318059847f44bd764cae7c3a7c43d6bcde4dd0d3e",
+  "description": "The Three Head Dog meme token on the TON network \u2014 a symbol of holders unity and strength.",
+  "image": "https://cdn.dexscreener.com/cms/images/c7e8d9d873fe861df8bb6e4a90ae52e53c23a4e783b826e367c7cc6c7a4aeff3?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "Three Head Dog",
+  "social": [
+   "https://t.me/ThreeHead_Dog",
+   "https://x.com/threehead_dog"
+  ],
+  "symbol": "3DOG"
  },
  {
   "address": "0:5b92bf905a5f1fb0880e6734d49a723cbe9473cc2afc3b9bd145cbd68247a0ff",
@@ -454,6 +497,21 @@
   "address": "0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49",
   "name": "Ambra",
   "symbol": "AMBR"
+ },
+ {
+  "address": "0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f",
+  "description": "For those who love to cook",
+  "image": "https://coubnft.mypinata.cloud/ipfs/QmTChav5osefKkxnZcsyqYq1KF3hhoNrbbe7P8H8wm6DvU",
+  "name": "Amocucinare",
+  "social": [
+   "https://x.com/AmoreCoin",
+   "https://t.me/amoreAIcrypto"
+  ],
+  "symbol": "AMORE",
+  "websites": [
+   "https://www.youtube.com/@amocucinare",
+   "amorecoin.love"
+  ]
  },
  {
   "address": "0:fb1522574798299f2b36ba7d7fdde4bbd44f9ba4b0c527a1d56474801d8caf41",
@@ -1054,6 +1112,19 @@
   ]
  },
  {
+  "address": "0:1bff21e5450f0770ef68a9a4e3301ffb32fa6afea45ab567b7a29b08716b2add",
+  "description": "\u0412\u044b \u0441\u043b\u044b\u0448\u0430\u043b\u0438 \u0448\u0435\u043f\u043e\u0442. \u0412\u044b \u043d\u0430\u0448\u043b\u0438 \u0441\u043b\u0435\u0434\u044b. \u0422\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0438\u0448\u043b\u043e \u0432\u0440\u0435\u043c\u044f \u0440\u0430\u0441\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043a\u0440\u044b\u043b\u044c\u044f.",
+  "image": "https://freeimage.host/i/fd49ccQ",
+  "name": "Butterfly",
+  "social": [
+   "https://t.me/ButterflyQuest"
+  ],
+  "symbol": "BFLY",
+  "websites": [
+   "https://t.me/blum/app?startapp=memepadjetton_BFLY_E41C8"
+  ]
+ },
+ {
   "address": "0:2d8f1dfb8d48682e84c0555384057ab070737890c6d016979695c38b25f0bf24",
   "description": "Banana for Scale is an expression indicating that a banana has been placed in the frame of a photograph to reveal the true-to-life size of another object on display in relative scale.",
   "image": "https://i.postimg.cc/1zgNqBxt/bfs-logonew.png",
@@ -1550,6 +1621,23 @@
    "https://github.com/tonborka"
   ],
   "symbol": "Borka"
+ },
+ {
+  "address": "0:ceb9b471002a19de5f15e2e9a2c49ee2e2c356ea3e57af25f951ba78b8bd3062",
+  "description": "Bullieve is a Telegram memecoin evolving into a Web3 brand. Powered by our green bull mascot, we\u2019re spreading bullish energy through memes, onchain drops, and bold merch.",
+  "image": "https://i.ibb.co/tMW16fgQ/BULL-LOGO-03.png",
+  "name": "Bullieve",
+  "social": [
+   "https://t.me/bullievecoin",
+   "https://t.me/bullievechat",
+   "https://x.com/BullieveCoin",
+   "https://www.youtube.com/@bullievecoin",
+   "https://www.tiktok.com/@bullievecoin"
+  ],
+  "symbol": "BULL",
+  "websites": [
+   "https://bullieve.io/"
+  ]
  },
  {
   "address": "0:41ec9f104b66018d03ad413afef5b46b20a735328802fe382dfa0ab699cbc440",
@@ -2708,6 +2796,11 @@
   ]
  },
  {
+  "address": "0:058591596327b4965b25efce4ecce246f504fa3d7c9851d9a20b853de6506e1e",
+  "name": "ENA",
+  "symbol": "ENA"
+ },
+ {
   "address": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
   "description": "First open case APP with integration in TON BlockChain.",
   "image": "https://i.ibb.co/ZrsSPWZ/83b476757f1f.png",
@@ -2753,6 +2846,21 @@
   "symbol": "EOET",
   "websites": [
    "https://theexplorergames.com"
+  ]
+ },
+ {
+  "address": "0:b8c8d5e28e1d8426a0e93ee9ec8e335e2c6ed540575b547eb84085f96a8c325f",
+  "decimals": 9,
+  "description": "SPERM (Safe Per Moon) - meme token of the MoonRaid ecosystem. Stake, play, and rise to the Moon on the TON blockchain.",
+  "image": "https://safepermoon.com/logo.png",
+  "name": "Safe Per Moon",
+  "social": [
+   "https://x.com/safepermoon",
+   "https://t.me/safepermoon"
+  ],
+  "symbol": "SPERM",
+  "websites": [
+   "https://safepermoon.com"
   ]
  },
  {
@@ -2890,6 +2998,17 @@
   "websites": [
    "https://yourfastup.com/"
   ]
+ },
+ {
+  "address": "0:bc95484a24ca60e0768ce1f2cc2c259e3bb426c5ac186990c3a558dfca48eb62",
+  "description": "Father's Capital is our answer to the eternal race, a symbol for those who have finally realized that the most important investment is time.",
+  "image": "https://camp-rp.ru/img/token.png",
+  "name": "FATHERCOIN",
+  "social": [
+   "https://t.me/fathercapital",
+   "https://vk.link/ftrcap"
+  ],
+  "symbol": "FTRCAP"
  },
  {
   "address": "0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090",
@@ -3987,6 +4106,17 @@
   ]
  },
  {
+  "address": "0:34660cc2af7251d1ce3b76e73ef8e8d2943e00dbd8b366d221005fe9cb60da12",
+  "description": "HASBULLA - LITTLE GIANT WITH GRRAT INFLUENCE.",
+  "image": "https://cdn.prod.blum.codes/1c8f0632-caf6-4aba-9a2c-84be1e20ca1d/25667ca8-ef10-4f6f-ad3f-7114ad104267",
+  "name": "HASBULLA HUSHETSKIY",
+  "social": [
+   "https://t.me/hasbullatkn",
+   "https://x.com/hasbulla_ton"
+  ],
+  "symbol": "HASBULLA"
+ },
+ {
   "address": "0:b10771fba3f137a00e628c133ae799b3e23e7070db4ed16c21fd6b23b56a1190",
   "description": "Hash2Cash is a cloud mining service using real ASICs with daily payments in BTC. 1 H2C = 1 TH/s. Details and a profitability calculator are available on the website and in the documentation.",
   "image": "https://i.postimg.cc/6qRFtrgb/h2c-coin.png",
@@ -4098,6 +4228,17 @@
   "decimals": 9,
   "name": "Hamster Kombat",
   "symbol": "HMSTR"
+ },
+ {
+  "address": "0:7c92f3ef7e651f2bd9cf6e327b89ffb048b76f4f1eb3cca82a79e1e2e509b63c",
+  "description": "It's time for magic! Take your letter to the world of TON magic.",
+  "image": "https://i.imgur.com/3v7aDkH.png",
+  "name": "HOGWARTS",
+  "social": [
+   "https://t.me/hogwarts_token_ton",
+   "x.com/hogwarts_ton"
+  ],
+  "symbol": "HOGWARTS"
  },
  {
   "address": "0:74da7151d386c3c1e53c17247a089b94458994a7f638859410fc29fadd227415",
@@ -4967,6 +5108,23 @@
   ]
  },
  {
+  "address": "0:3df8a57922a4d1827b88e98c7d144ddd2eb4c2b57f120fbe93e63541b089c860",
+  "description": "Lyraxis AI transforms collective human expertise into high-quality training data for AI. Our intelligent system gathers diverse datasets from trusted global contributors, ensuring comprehensive coverage across multiple domains and use cases.",
+  "image": "https://lyraxis.io/lyraxisai.webp",
+  "name": "Lyraxis AI",
+  "social": [
+   "https://x.com/lyraxis_io",
+   "https://t.me/lyraxisaicommunity"
+  ],
+  "symbol": "LYXIS",
+  "websites": [
+   "https://lyraxis.io/",
+   "https://lyraxis.io/api-docs",
+   "https://lyraxis.io/litepaper",
+   "https://app.lyraxis.io"
+  ]
+ },
+ {
   "address": "0:9bffab108979da0bddaec7124e115113211ce5a121a4445cd81111e5c8b360a1",
   "description": "Deployed from sTONks.",
   "image": "https://trueimages.ru/img/ad/c2/f97eed76.png",
@@ -5106,6 +5264,18 @@
    "https://mars.tonplanets.ru",
    "https://tonplanets.ru"
   ]
+ },
+ {
+  "address": "0:f09f4c9b5717dfae2a36d13493e3596f46eacf3cf7eb607fdd8c6c4013194bed",
+  "description": "Unite the TON community and restore user trust in the ecosystem.",
+  "image": "https://cdn.prod.blum.codes/f56fb658-d043-4200-81e8-b33787d7cfb9/06277814-e339-407d-a99c-03959a547946",
+  "name": "Maximus",
+  "social": [
+   "https://x.com/maximustrade1",
+   "https://t.me/MaximusTrade1",
+   "https://t.me/+KlbM0YG2pl4wZWYy"
+  ],
+  "symbol": "MAXIMUS"
  },
  {
   "address": "0:4e0d592739570a22ac04b40aa273a240ee0015134026db1ca2c823cd99e2d1d0",
@@ -5790,6 +5960,19 @@
   ]
  },
  {
+  "address": "0:b6ed79ea7ad966f5dd0b13933d0862f2e762f641dac8e5656380510b27c732d2",
+  "description": "Naughty Coin (NOTY) is a fun and community-driven crypto project on the TON ecosystem, blending, utility, payment simplified and real fun rewards with the NOTY Card.",
+  "name": "Naughty Coin",
+  "social": [
+   "https://t.me/naughtycoin_channel",
+   "https://x.com/notycoin"
+  ],
+  "symbol": "NOTY",
+  "websites": [
+   "https://naughtycoin.club"
+  ]
+ },
+ {
   "address": "0:5abfeb7f30cf41fe3a6436eb16f08b18cf025ba4a6d23d8e4a56ef5fd9c280f6",
   "description": "NOVA is the native reward token for the Cryptid Hunter game, designed to foster a player-driven economy and provide engaging incentives within the game\u2019s ecosystem. Through its Play-to-Earn (P2E) model, NOVA empowers players to earn tokens via gameplay, contributing to a dynamic and vibrant game world.",
   "image": "https://cryptid-hunter-mini.s3.eu-central-1.amazonaws.com/icons/token/nova.png",
@@ -6021,6 +6204,18 @@
   ]
  },
  {
+  "address": "0:87a40a1ccced702093c9d1fdbc2d8addcab4b6bd919d29160fa5a2d756c98bd2",
+  "decimals": 9,
+  "description": "Is meme coin designed to bring together padel enthusiasts and users with similar interests.",
+  "image": "https://cdn.prod.blum.codes/14cc6286-3248-4b33-9cb8-f12e9ac5955c/8cdf0613-ef5e-44b7-b917-f429c0de685d",
+  "name": "Padel",
+  "social": [
+   "https://t.me/padelco",
+   "https://x.com/PadelCoinTon"
+  ],
+  "symbol": "PADEL"
+ },
+ {
   "address": "0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38",
   "description": "Token for the residents of Paphos \ud83c\udfdb\ufe0f\ud83c\udf1e",
   "image": "https://i.ibb.co/cQ9PyCS/PAPHS.png",
@@ -6045,6 +6240,22 @@
   "symbol": "PARTY",
   "websites": [
    "https://tonpartyparrot.xyz/"
+  ]
+ },
+ {
+  "address": "0:09e34a77ce50a8a2680034c438bb978892d2cc66d58ff3b1862832a5c96fc464",
+  "description": "Plush Brick \u2014 share a brick, stack memes, ride the hype. \ud83e\uddf1",
+  "image": "https://i.ibb.co/btSvnqT/image.png",
+  "name": "Plush Brick",
+  "social": [
+   "https://t.me/+KZZ7VDmfxTViMDRi",
+   "https://t.me/+t5ghaLZ-0vo4Mjky",
+   "https://t.me/pbr1ck",
+   "https://x.com/plushbrick"
+  ],
+  "symbol": "PBRICK",
+  "websites": [
+   "https://plushbrick.fun/"
   ]
  },
  {
@@ -6080,6 +6291,20 @@
   "address": "0:4ffe1859f853d31e7802de70ff01b146c1eed5595498a1f918afdbdb3e4d5e17",
   "name": "PEPE`S TON CLUB",
   "symbol": "PEPE"
+ },
+ {
+  "address": "0:69cb222c5857c51e8384e19e614b52a40830d27527b6692a2b471ceca38219c5",
+  "description": "Pepe Strategy is the flywheel for Plush Pepes. https://pepestrategy.fun https://t.me/PlushPepesStrategy https://x.com/pepe_strategy",
+  "image": "https://i.ibb.co/Hp4NQqLB/plushpepestrat-token-image-jpg.jpg",
+  "name": "Pepe Strategy",
+  "social": [
+   "https://t.me/PlushPepesStrategy",
+   "https://x.com/pepe_strategy"
+  ],
+  "symbol": "PEPESTR",
+  "websites": [
+   "https://pepestrategy.fun/"
+  ]
  },
  {
   "address": "0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13",
@@ -7563,6 +7788,16 @@
   "symbol": "STON"
  },
  {
+  "address": "0:fa3cee0c4bcdebfa6714b97fa540d328cd2ed2a452544deca1f0ae3592f64923",
+  "description": "GasPump finally allows token launches on STON.fi. They're gearing up for meme season, though. (launched on \u26fd\ufe0f GasPump)",
+  "image": "https://tokens.gas111.com/images/954194206df148fca9ee74cec74752d2.png",
+  "name": "first StonFi on gas pump",
+  "social": [
+   "https://t.me/STONCAT_meme"
+  ],
+  "symbol": "STONCAT"
+ },
+ {
   "address": "0:7de57e6ee41ee97eb8b8aed881e320e488c8767ecb16ff688438414a7cb9807a",
   "decimals": 9,
   "description": "Liquidity pool token for STORM and Proxy TON on STON.fi DEX. Liquidity pool link: https://app.ston.fi/pools/EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo",
@@ -7756,6 +7991,23 @@
   "symbol": "TAPS",
   "websites": [
    "https://www.tapswap.ai/"
+  ]
+ },
+ {
+  "address": "0:daaaa250a51f8eaf98e117e45ff309063df492b95ad274e9fe6056cadded1378",
+  "description": "TAPX is a play-to-earn Telegram game token used to participate in in-app contests, rewards, and activities, enabling users to earn and trade within the TON ecosystem.",
+  "image": "https://app.tapxbattle.com/logo-512x.png",
+  "name": "TAPX",
+  "social": [
+   "https://t.me/tapxbattle",
+   "https://t.me/tapxbattle_bot",
+   "https://x.com/@tapxbattle",
+   "https://youtube.com/tapxbattle",
+   "https://instagram.com/tapx_battle"
+  ],
+  "symbol": "TAPX",
+  "websites": [
+   "https://tapxbattle.com"
   ]
  },
  {
@@ -8462,6 +8714,20 @@
   "symbol": "TVM"
  },
  {
+  "address": "0:2c25e386cb1626032aefe62f637e034b534c977974b85f380b5a594934f234e2",
+  "description": "TWARS powers Trading Wars, a Telegram-based trading simulator using real historical crypto charts. Trade on TWARS to experience instant results and sharpen your instincts.",
+  "image": "https://tradingwars.site/public/coin_512x512.png",
+  "name": "TradingWars Token",
+  "social": [
+   "https://t.me/tradingWarsCommunity",
+   "https://t.me/TradingWars_bot"
+  ],
+  "symbol": "TWARS",
+  "websites": [
+   "https://tradingwars.site/en/token"
+  ]
+ },
+ {
   "address": "0:d5ddc6f388f1f3f3011c0d8b7ef620cea2695cddb159412c745a26450afedf87",
   "description": "\ud83c\udfa9\ud83d\udc8eDive into the exhilarating world of Trumpwifhat - exclusive memecoin built on $TON blockchain! Embrace innovation and style with our unique $TWIF token, inspired by Trump's iconic flair!\ud83c\udf1f",
   "image": "https://trumpwifcoin.pro/images/2024/04/20/small200x200.png",
@@ -8573,6 +8839,17 @@
   ]
  },
  {
+  "address": "0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286",
+  "description": "TonMemeRepublic \u2014 launched on \u26fd\ufe0f GasPump. A united front of TON meme creators and believers shaping the next era of on-chain culture.",
+  "image": "https://cdn.dexscreener.com/cms/images/a128257dc928f960deb8e943ac97b2899ad448c2ca69afc4d25e488202c76034?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "TonMemeRepublic",
+  "social": [
+   "https://t.me/TonMemeRepublicChat",
+   "https://x.com/memerepublicton"
+  ],
+  "symbol": "TMP"
+ },
+ {
   "address": "0:446ca9b9cfe4f9a6ccfc891b424588c31fe3866d102c7e142d74a7f599ad9da9",
   "description": "TryTON is a project aimed at popularizing the TON network among participants from other networks through its applications: wallet, bridge, and AirDrop game.",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GplVmGPFy2aa2ZRvYm-uxoC4I2Q1H674Gym4DxDqdPmGUBovLHnIoDHiPG72ORx8PAYTk7HPtlqH1Do-c8CMG-GhxiIOl8XAl6cTv5DnKnh_RVGdvJVyWF9B2BjLBvYNz8rxrcYD-GxbcqjGhbB9ID0IKKoevalLlFMo4y1S1B5IccbGDn7S922-YcQq/s320/ava_01.jpg",
@@ -8658,6 +8935,18 @@
   "symbol": "USDT-TLP",
   "websites": [
    "https://tradoor.io"
+  ]
+ },
+ {
+  "address": "0:823b4f1deb1005981f79f24e3f0a82c963214783ec26d8299b85ed59a31337d9",
+  "decimals": 9,
+  "description": "Liquidity pool token for Tether USD and Herculis Gold Coin (XAUH) on Capital DEX",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeigdee77us3cku7fhyjfj3agbyxuupmpe5se6qjg62pffds5ziymmy/usdt-xauh-clp.png",
+  "name": "Capital DEX LP Token for USD\u20ae-XAUH",
+  "symbol": "USD\u20ae-XAUH CLP",
+  "websites": [
+   "https://xauh.gold",
+   "https://capitaldex.exchange/swap?chain=ton&tokens=usdt-xauh"
   ]
  },
  {
@@ -9076,6 +9365,20 @@
   ]
  },
  {
+  "address": "0:a23a61ff75e5320e0f8df744e860f89b479540d37dceb303ec75ca80e6fade55",
+  "description": "WHALE VAULT is a hyper-emotional, ultra-viral,community-first MEME MOVEMENT forged on the TON blockchain \u2014 designed to ignite culture, not utility.",
+  "image": "https://whalevault.xyz/logo.png",
+  "name": "WhaleVault",
+  "social": [
+   "https://t.me/TheWhaleVault",
+   "http://t.me/whalesvaultbot/vault"
+  ],
+  "symbol": "$WVT",
+  "websites": [
+   "https://whalevault.xyz/whitepaper"
+  ]
+ },
+ {
   "address": "0:8c938fceba30a7938ea30291e72116e64ed61391299fba357d5fc61ed2abec1d",
   "decimals": 18,
   "description": "Herculis Gold Coin (XAUH) is a digital asset representing direct ownership of Swiss-refined, Swiss-audited, Swiss-stored, Swiss-insured and Swiss-managed physical gold. It combines the security of physical gold with the flexibility of blockchain technology.",
@@ -9104,15 +9407,15 @@
  {
   "address": "0:082bdb00eb1a3698cd41c9b65cb8129b9b58f939cbb48da7a0fff2e1ed127f26",
   "decimals": 9,
-  "description": "XP is a gaming token created within the AVACOIN ecosystem. It is designed to support and drive the development of both existing and future gaming projects. XP will serve as a cornerstone of the ecosystem, connecting all games and ensuring their sustainable growth and seamless integration.",
+  "description": "XP is a gaming token created within the XP LABS ecosystem. It is designed to support and drive the development of both existing and future gaming projects. XP will serve as a cornerstone of the ecosystem, connecting all games and ensuring their sustainable growth and seamless integration.",
   "image": "https://i.postimg.cc/JnBfFD2r/xp200.png",
   "name": "XP",
   "social": [
-   "https://t.me/avagoldcoin_bot",
-   "https://t.me/avagoldcoin",
-   "https://x.com/avagoldcoin",
-   "https://instagram.com/avagoldcoin",
-   "https://www.youtube.com/@AVA-GOLDCOIN"
+   "https://x.com/xplabsch",
+   "https://t.me/xplabsch",
+   "https://t.me/xplabs_games",
+   "https://www.instagram.com/xplabsch",
+   "https://www.youtube.com/@xplabsch"
   ],
   "symbol": "XP"
  },
@@ -9383,6 +9686,345 @@
    "https://t.me/AmberTONchat"
   ],
   "symbol": "AMBER"
+ },
+ {
+  "address": "0:d36706f8299d434b89965cdfe07515dd85c88d9dc54c6dca57808ed441e3d822",
+  "description": "Native token of Aravt Systems. Visit ARAVT.IO for more information",
+  "name": "Aravt Token",
+  "social": [
+   "https://t.me/aravtforum",
+   "https://t.me/aravt_bot/app"
+  ],
+  "symbol": "ARAVT",
+  "websites": [
+   "https://aravt.io",
+   "https://app.aravt.io"
+  ]
+ },
+ {
+  "address": "0:ec8c0c1f2a8fba15566fd8462dfb509a65363f64bfa97e448877a8de41c84dc2",
+  "name": "Apple xStock",
+  "symbol": "AAPLx"
+ },
+ {
+  "address": "0:6505b63301e708fd20d2c4babbec89f3e246c77cae5a740b7f6d6e12adaca469",
+  "name": "AbbVie xStock",
+  "symbol": "ABBVx"
+ },
+ {
+  "address": "0:cefa08f8c8b247db576d92bb5b50fca3a6aba4a96e290e667971ed0cea9d6534",
+  "name": "Abbott xStock",
+  "symbol": "ABTx"
+ },
+ {
+  "address": "0:c139f9c599095786d8e823a548b445926a01194533d69237845e2f2d69d05644",
+  "name": "Accenture xStock",
+  "symbol": "ACNx"
+ },
+ {
+  "address": "0:8ff35c8f0b7c874d6ff94355fca0faded21169ce2c978116913b5bcefee06691",
+  "name": "Amber xStock",
+  "symbol": "AMBRx"
+ },
+ {
+  "address": "0:ad0f6fbbab11e1428361c6b8b6252cc7f9d9665aa298083b65119a918b7fb9ea",
+  "name": "Amazon.com xStock",
+  "symbol": "AMZNx"
+ },
+ {
+  "address": "0:8627b2ae2ac16edf0f959a019552ee6a1e0c47d2441e7b76fd8f91d35a2ed012",
+  "name": "AppLovin xStock",
+  "symbol": "APPx"
+ },
+ {
+  "address": "0:ece24ecf4801f79ee5f0ddb5cf119eda15ab5c7a390aadffcc8b80afdfec8b02",
+  "name": "Broadcom xStock",
+  "symbol": "AVGOx"
+ },
+ {
+  "address": "0:0667eebc189103b3ce7173267617e724b7f0267896c07926e8c2bc2f9986c704",
+  "name": "AstraZeneca xStock",
+  "symbol": "AZNx"
+ },
+ {
+  "address": "0:252fb7ceca48af90479f6e5701ddb92a9f81ccc0ff2340d0cd573a3df9190a64",
+  "name": "Bank of America xStock",
+  "symbol": "BACx"
+ },
+ {
+  "address": "0:f3eb6247f93e6ae305ba0e9cee2fe44e292729382702d6222ff1d5c09d854d21",
+  "name": "Berkshire Hathaway xStock",
+  "symbol": "BRK.Bx"
+ },
+ {
+  "address": "0:574ec92b5d191043d24eec479a557c020ffa619ebccd83d11d37ddbadff6444d",
+  "name": "Bit Digital xStock",
+  "symbol": "BTBTx"
+ },
+ {
+  "address": "0:eac901e4ee6d516e9fd137ba98ad7bc24bf49364660c89b78cc9b06570f83822",
+  "name": "Comcast xStock",
+  "symbol": "CMCSAx"
+ },
+ {
+  "address": "0:af9383aada5e58b6cfd2ed0e23d3c7c1f45b73c77218fbb508d40aacb322860e",
+  "name": "Coinbase xStock",
+  "symbol": "COINx"
+ },
+ {
+  "address": "0:7e44fb400107854865b78088f4cd1121e0df763065dfa85cf101ce9346fbbece",
+  "name": "Circle xStock",
+  "symbol": "CRCLx"
+ },
+ {
+  "address": "0:67b74bc29d9562d9874592f80ce605dcc4cda4c8fd147f8dbde6228e18265196",
+  "name": "Salesforce xStock",
+  "symbol": "CRMx"
+ },
+ {
+  "address": "0:7f4945af26a23271ae7212ed2d7364ea58d46df0cf2a99562a6680d8758a8cf1",
+  "name": "CrowdStrike xStock",
+  "symbol": "CRWDx"
+ },
+ {
+  "address": "0:27ead766eb36c649a9a12514f0c2a88cd8562804a730e457950b5adfda3063be",
+  "name": "Cisco xStock",
+  "symbol": "CSCOx"
+ },
+ {
+  "address": "0:cefa62b68c7340a90079365c992803be09be1a67991fd11f354cfd72a8450ee9",
+  "name": "Chevron xStock",
+  "symbol": "CVXx"
+ },
+ {
+  "address": "0:47fbab087e97df6a1b206163b9ea500d223da4c7325e8eee6abef082f40a9855",
+  "name": "DFDV xStock",
+  "symbol": "DFDVx"
+ },
+ {
+  "address": "0:4957bc7f9b3fb8fa83bcfca4516bc8ca623538e519df554df0b9d4c76718553a",
+  "name": "Danaher xStock",
+  "symbol": "DHRx"
+ },
+ {
+  "address": "0:b8f63eaf526adaac9cd23a565f347607a0d1075f7fffd285f57592c47c4ed5cb",
+  "name": "Gold xStock",
+  "symbol": "GLDx"
+ },
+ {
+  "address": "0:367b34e73a251c7b9e73050fd886e9b894e0956a120c6518becb2ad1d0c34e37",
+  "name": "Gamestop xStock",
+  "symbol": "GMEx"
+ },
+ {
+  "address": "0:0bc09cd79f116372436cbab0a2f4eda4560ff46f529db633927ef39e765637ee",
+  "name": "Alphabet xStock",
+  "symbol": "GOOGLx"
+ },
+ {
+  "address": "0:ad69fbe84ab27a91a356a4e6b33b530b2d3232512211ff9d822465427085eb88",
+  "name": "Goldman Sachs xStock",
+  "symbol": "GSx"
+ },
+ {
+  "address": "0:bfd9349cfada0ab67e69b07e0b158671b5c31712e37110f1fd4485c1c575b8cd",
+  "name": "Home Depot xStock",
+  "symbol": "HDx"
+ },
+ {
+  "address": "0:807606491d414b82d280dc8bc992c675f88571a6b82b760c77a7097675dd1933",
+  "name": "Honeywell xStock",
+  "symbol": "HONx"
+ },
+ {
+  "address": "0:07cf58cadbb34ee48747ae1b7cd78ebe105cfda78912659c761f5c57b8d40e62",
+  "name": "Robinhood xStock",
+  "symbol": "HOODx"
+ },
+ {
+  "address": "0:7b53731473a4de3af611c2a2e8a2e17ecb1af8c3eb1af90fa7d3fe8c8d4c9095",
+  "name": "International Business Machines xStock",
+  "symbol": "IBMx"
+ },
+ {
+  "address": "0:419d217235990d9aaec8e04f725a1643650bab710846905786055fd45e26c596",
+  "name": "Intel xStock",
+  "symbol": "INTCx"
+ },
+ {
+  "address": "0:24dc64fe1b57c3dcfdd528e19f731b12c8f1dac2bf061c5a0e3a03ab351a79e5",
+  "name": "Johnson & Johnson xStock",
+  "symbol": "JNJx"
+ },
+ {
+  "address": "0:56503dbc2f409a1691f316863189f88d394027c9b6984912f6ee2e1fbce64d59",
+  "name": "JPMorgan Chase xStock",
+  "symbol": "JPMx"
+ },
+ {
+  "address": "0:03fa256654a5bc7eb0c360f77cd0dfbb772f26d8b7d4f272bff394de1e45d613",
+  "name": "Coca-Cola xStock",
+  "symbol": "KOx"
+ },
+ {
+  "address": "0:c9693d81da782b37b3b748b4718e3d5767b03cfa10076c8b4aa42f02ab80f22a",
+  "name": "Linde xStock",
+  "symbol": "LINx"
+ },
+ {
+  "address": "0:dec5016a85bcaecbd5602b578c7475d9022e640b65816c77bbe261d611d1d557",
+  "name": "Eli Lilly xStock",
+  "symbol": "LLYx"
+ },
+ {
+  "address": "0:0e9872e2e32e6e4a2020e6505a87ca62e91e30d23854fe26f44f91fec709f808",
+  "name": "Mastercard xStock",
+  "symbol": "MAx"
+ },
+ {
+  "address": "0:54b4b90ebbdbf32aedcf5b9f1ce74597ef0f3d06dcf06186656469af3abfc0ab",
+  "name": "McDonald's xStock",
+  "symbol": "MCDx"
+ },
+ {
+  "address": "0:acd8c76784a1e94e3baf9a249bf47d45a9d42d775b28e8007558c32bf77deadd",
+  "name": "Medtronic xStock",
+  "symbol": "MDTx"
+ },
+ {
+  "address": "0:f7720420e37d81882491962fa132cc2856ebcd9cee3616e31d73e017a9df3749",
+  "name": "Meta xStock",
+  "symbol": "METAx"
+ },
+ {
+  "address": "0:4b9596742798de3f09382194a6c7864ccbb9bd710f9bbe28907427c294136e7e",
+  "name": "Merck xStock",
+  "symbol": "MRKx"
+ },
+ {
+  "address": "0:ebd1435b4377cb8c7f5ccec169f94abd006fc12cff3bc9ce9a6f329f412ef6ef",
+  "name": "Marvell xStock",
+  "symbol": "MRVLx"
+ },
+ {
+  "address": "0:c8f49c246131073364d214f49615bc339c1ab4eff238029cbd4c1871b0395968",
+  "name": "Microsoft xStock",
+  "symbol": "MSFTx"
+ },
+ {
+  "address": "0:5bb0b607e6c0fbe2060ee033a88f442c1da34bf3534b0f5dc07619260f4529fb",
+  "name": "MicroStrategy xStock",
+  "symbol": "MSTRx"
+ },
+ {
+  "address": "0:4e921ffb5a4e85950eaf474dd2e81893de86d9d75f3d3060f5eae837337e7931",
+  "name": "Netflix xStock",
+  "symbol": "NFLXx"
+ },
+ {
+  "address": "0:af6be39feda710754fe98800dd95c6f3b05b40fb127066872dcfc64e5c1741a1",
+  "name": "NVIDIA xStock",
+  "symbol": "NVDAx"
+ },
+ {
+  "address": "0:3646030a3d4c1d60d812981d40f2c6a81878f50cf10f93fde1624237bea8602c",
+  "name": "Novo Nordisk xStock",
+  "symbol": "NVOx"
+ },
+ {
+  "address": "0:ffb4779f35f8b4f786a8403e8645d6efd73972764e0ae0720436c593f1c760cc",
+  "name": "OPEN xStock",
+  "symbol": "OPENx"
+ },
+ {
+  "address": "0:55f9938f374b2afe400451e189dd04ef96557f6acb3679dfb003908d9a3b3b8b",
+  "name": "Oracle xStock",
+  "symbol": "ORCLx"
+ },
+ {
+  "address": "0:934fe0b9277740fd697771e3b84653effa0b90d6a3c9eaffa825ecb1ad37efaa",
+  "name": "PepsiCo xStock",
+  "symbol": "PEPx"
+ },
+ {
+  "address": "0:b52111031cc4185bf1d40b55b820071a0a682a9f78932715ffbf81c44176d502",
+  "name": "Pfizer xStock",
+  "symbol": "PFEx"
+ },
+ {
+  "address": "0:460cbf09d5d847787e6f52f4dbd5b76d41a2919a3de8586ea23308adc8139ad0",
+  "name": "Procter & Gamble xStock",
+  "symbol": "PGx"
+ },
+ {
+  "address": "0:8638b0dd5bcae575a48094213dc8969baa4dae449cf63da1f70934723fa54b56",
+  "name": "Palantir xStock",
+  "symbol": "PLTRx"
+ },
+ {
+  "address": "0:641aae75a6a24cf0ba3f9e4298d507db666e33f7e37ee0c184d25f249b0f8143",
+  "name": "Philip Morris xStock",
+  "symbol": "PMx"
+ },
+ {
+  "address": "0:9eeaeb70a913a6acefdc39452f54d624bf279c5237ee82dba0be153095561212",
+  "name": "Nasdaq xStock",
+  "symbol": "QQQx"
+ },
+ {
+  "address": "0:757f204003da900cfe8b106685ddc6d4f976ebfa9e844816469ea94790720700",
+  "name": "SP500 xStock",
+  "symbol": "SPYx"
+ },
+ {
+  "address": "0:a3a729a95bf5df60f3b0b84c37f4feb09a593ca3a2ad468de40bfea93958f100",
+  "name": "TBLL xStock",
+  "symbol": "TBLLx"
+ },
+ {
+  "address": "0:948404116058030aceec551f8e362f764952fe3693a81f5a97d1488243e0f17a",
+  "name": "Thermo Fisher xStock",
+  "symbol": "TMOx"
+ },
+ {
+  "address": "0:959a927f524401b3fdcef1ab6a3ad48ff87bd329898f1b4d82e8673a7eceec33",
+  "name": "TON xStock",
+  "symbol": "TONXx"
+ },
+ {
+  "address": "0:a112d053a98ccfdff54401df911a4c6d9c51ef67e28f25510159dba4766c1e24",
+  "name": "TQQQ xStock",
+  "symbol": "TQQQx"
+ },
+ {
+  "address": "0:78230a9664f51cce7b5daf2f2f48ddadb092adfbd17b8886fb80415111860e07",
+  "name": "Tesla xStock",
+  "symbol": "TSLAx"
+ },
+ {
+  "address": "0:90bbd3f0221817ea8118d14d54e1074a0399c1ee030bfcad69c8125655bea9d9",
+  "name": "UnitedHealth xStock",
+  "symbol": "UNHx"
+ },
+ {
+  "address": "0:7b8a4dfefe8450d0510825862ef0d1be00d21a31df8a34b5d2bdf6e648c081d6",
+  "name": "Vanguard xStock",
+  "symbol": "VTIx"
+ },
+ {
+  "address": "0:b9519640b91e0c3376ab11d27a5965df15ec8449ab5fac3cb5dbfee0fe0d2ca8",
+  "name": "Visa xStock",
+  "symbol": "Vx"
+ },
+ {
+  "address": "0:f84a5bf80614b7ae840d54a8b64e850261cc9f7457c2e1f63846168c97eda7bf",
+  "name": "Walmart xStock",
+  "symbol": "WMTx"
+ },
+ {
+  "address": "0:b869381323270118e36b6cfeef13be6545d563fa5cb3f2a61773c8ec316676a4",
+  "name": "Exxon Mobil xStock",
+  "symbol": "XOMx"
  },
  {
   "address": "0:9adf15d9cbb4277ee40457600278902bee2b79ab3ce832ecbbeb4aa4f4a33333",
@@ -9882,11 +10524,6 @@
   "symbol": "ALWIN"
  },
  {
-  "address": "0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f",
-  "name": "Amocucinare",
-  "symbol": "AMORE"
- },
- {
   "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
   "name": "Andy",
   "symbol": "ANDY"
@@ -10272,6 +10909,11 @@
   "symbol": "DBT"
  },
  {
+  "address": "0:0edbf3fb09ff8cabe0b970b571249a5893700d531fbbed35ca4fbf462931ba95",
+  "name": "DegensCanAccumulate",
+  "symbol": "DCA"
+ },
+ {
   "address": "0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c",
   "name": "DexCoyote Legends",
   "symbol": "DCL"
@@ -10420,6 +11062,11 @@
   "address": "0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a",
   "name": "EXTON COIN",
   "symbol": "EXC"
+ },
+ {
+  "address": "0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651",
+  "name": "Exit",
+  "symbol": "Exit"
  },
  {
   "address": "0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce",
@@ -11847,11 +12494,6 @@
   "symbol": "TMILK"
  },
  {
-  "address": "0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286",
-  "name": "TonMemeRepublic",
-  "symbol": "TMR"
- },
- {
   "address": "0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956",
   "name": "TON FORD",
   "symbol": "TNFRD"
@@ -12220,6 +12862,11 @@
   "address": "0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72",
   "name": "Meme Inc",
   "symbol": "YOBA"
+ },
+ {
+  "address": "0:a7658ce69ae845b6d34492b51937d3621e1b2a6c1208c72633856d6c255b1901",
+  "name": "The Reversed Livaz",
+  "symbol": "ZAVIL"
  },
  {
   "address": "0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11",
