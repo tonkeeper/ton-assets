@@ -90,3 +90,5 @@ def __get_backed_assets() -> List[Asset]:
         if ton_addr == "":
             continue
         assets.append(Asset(name=item["name"], address=ton_addr, symbol=item["symbol"]))
+
+    return assets
