@@ -49,6 +49,8 @@ def collect_all_dexes():
 
 def collect_all_backed():
     assets = __get_backed_assets()
+    if len(assets) == 0:
+        return
     assets_for_save = dict()
     for idx, asset in enumerate(assets):
         asset.address = normalize_address(asset.address, True)
