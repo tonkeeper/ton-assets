@@ -4217,6 +4217,17 @@
   "symbol": "HMSTR"
  },
  {
+  "address": "0:7c92f3ef7e651f2bd9cf6e327b89ffb048b76f4f1eb3cca82a79e1e2e509b63c",
+  "description": "It's time for magic! Take your letter to the world of TON magic.",
+  "image": "https://i.imgur.com/3v7aDkH.png",
+  "name": "HOGWARTS",
+  "social": [
+   "https://t.me/hogwarts_token_ton",
+   "x.com/hogwarts_ton"
+  ],
+  "symbol": "HOGWARTS"
+ },
+ {
   "address": "0:74da7151d386c3c1e53c17247a089b94458994a7f638859410fc29fadd227415",
   "description": "HOLD ON \ud83d\ude80",
   "name": "Fintopio \ud83d\udc8e",
