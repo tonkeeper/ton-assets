@@ -1112,6 +1112,19 @@
   ]
  },
  {
+  "address": "0:1bff21e5450f0770ef68a9a4e3301ffb32fa6afea45ab567b7a29b08716b2add",
+  "description": "\u0412\u044b \u0441\u043b\u044b\u0448\u0430\u043b\u0438 \u0448\u0435\u043f\u043e\u0442. \u0412\u044b \u043d\u0430\u0448\u043b\u0438 \u0441\u043b\u0435\u0434\u044b. \u0422\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0438\u0448\u043b\u043e \u0432\u0440\u0435\u043c\u044f \u0440\u0430\u0441\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043a\u0440\u044b\u043b\u044c\u044f.",
+  "image": "https://freeimage.host/i/fd49ccQ",
+  "name": "Butterfly",
+  "social": [
+   "https://t.me/ButterflyQuest"
+  ],
+  "symbol": "BFLY",
+  "websites": [
+   "https://t.me/blum/app?startapp=memepadjetton_BFLY_E41C8"
+  ]
+ },
+ {
   "address": "0:2d8f1dfb8d48682e84c0555384057ab070737890c6d016979695c38b25f0bf24",
   "description": "Banana for Scale is an expression indicating that a banana has been placed in the frame of a photograph to reveal the true-to-life size of another object on display in relative scale.",
   "image": "https://i.postimg.cc/1zgNqBxt/bfs-logonew.png",
@@ -5092,6 +5105,23 @@
   "symbol": "LYAGUHO",
   "websites": [
    "https://www.youtube.com/@lyaguho"
+  ]
+ },
+ {
+  "address": "0:3df8a57922a4d1827b88e98c7d144ddd2eb4c2b57f120fbe93e63541b089c860",
+  "description": "Lyraxis AI transforms collective human expertise into high-quality training data for AI. Our intelligent system gathers diverse datasets from trusted global contributors, ensuring comprehensive coverage across multiple domains and use cases.",
+  "image": "https://lyraxis.io/lyraxisai.webp",
+  "name": "Lyraxis AI",
+  "social": [
+   "https://x.com/lyraxis_io",
+   "https://t.me/lyraxisaicommunity"
+  ],
+  "symbol": "LYXIS",
+  "websites": [
+   "https://lyraxis.io/",
+   "https://lyraxis.io/api-docs",
+   "https://lyraxis.io/litepaper",
+   "https://app.lyraxis.io"
   ]
  },
  {
