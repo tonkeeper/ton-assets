@@ -1,8 +1,11 @@
-"name": "PlumeParadise",
+{
+  "name": "PlumeParadise",
   "symbol": "PARA",
   "decimals": 9,
-  "description": "the long-term goal is to support the conservation of bird-of-paradise by donating 0,5% of each transaction to organizations like BirdLife International",
+  "description": "Conservation-focused token supporting bird-of-paradise preservation by donating 0.5% of each transaction to organizations like BirdLife International",
   "social": {
-    "instagram": "https://www.instagram.com/plumeparadise/?igsh=MXRwM3UyczI1YmowOQ%3D%3D&utm_source=qr",
+    "instagram": "https://www.instagram.com/plumeparadise/",
     "telegram": "https://t.me/plumeparadise",
-    "twitter": "https://x.com/plumeparadise?s=21"
+    "twitter": "https://x.com/plumeparadise"
+  }
+}
