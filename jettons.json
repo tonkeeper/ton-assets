@@ -9658,6 +9658,20 @@
   "symbol": "AMBER"
  },
  {
+  "address": "0:d36706f8299d434b89965cdfe07515dd85c88d9dc54c6dca57808ed441e3d822",
+  "description": "Native token of Aravt Systems. Visit ARAVT.IO for more information",
+  "name": "Aravt Token",
+  "social": [
+   "https://t.me/aravtforum",
+   "https://t.me/aravt_bot/app"
+  ],
+  "symbol": "ARAVT",
+  "websites": [
+   "https://aravt.io",
+   "https://app.aravt.io"
+  ]
+ },
+ {
   "address": "0:ec8c0c1f2a8fba15566fd8462dfb509a65363f64bfa97e448877a8de41c84dc2",
   "name": "Apple xStock",
   "symbol": "AAPLx"
