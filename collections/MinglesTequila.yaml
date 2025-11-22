@@ -1,9 +1,11 @@
-# Example for collection.yaml
 address: EQDRGoitnw1Nd5XKSf3hcRYDX1OUjBlS6F-wq8-sGzKJMWsX
 name: "Mingles Tequila"
+websites: "https://www.mingles.wtf"
 description: "Celebrating Tequila Culture with Tequila Worms AKA Mingles ¡Salud!"
 image: "https://www.mingles.wtf/mingle-gifs/8.gif" # Must be a direct link to a PNG or JPG cover image
 social_links:
   - "http://t.me/MinglesTequilaStickersBot"
   - "https://www.instagram.com/minglestequila?igsh=MmV3NHg4amdkbnZ0&utm_source=qr"
   - "https://x.com/minglesnft?s=21"
+trademarks: "https://drive.google.com/drive/folders/1o4O1deF5h3YNosRFst_SxrfuV3tmwTYv?usp=sharing" # Any user can access to verify information
+legal: "https://drive.google.com/drive/folders/1kkviZco3o3rgmPFzsI9O-MFzJZycI7QE?usp=sharing" # Any user can access to verify information
