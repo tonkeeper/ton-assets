@@ -1,13 +1,13 @@
-address: 0:582b217b885f5a2766c4a181874a9398a3e828753fd085ecd4c44fea5a41e02
 name: KOKOH
-symbol: KOKOH
-decimals: 9
-image: https://i.imgur.com/4BjAiE7.png
+symbol: "KOKOH"
 description: >
   KOKOH is the Russian word for Cocoon. We’re a cute little meme
   about the things butterflies come out of.
+address: 0:582b217b885f5a2766c4a181874a9398a3e828753fd085ecd4c44fea5a41e02
+decimals: 9
+image: "https://i.imgur.com/4BjAiE7.png"
 websites: []
 social:
-  twitter: https://x.com/kokohcocoon25?s=20
-  telegram: https://t.me/KOKOHportal
-  github: https://github.com/kokohcocoon
+  - "https://x.com/kokohcocoon25?s=20"
+  - "https://t.me/KOKOHportal"
+  - "https://github.com/kokohcocoon"
