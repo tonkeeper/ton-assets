@@ -4923,6 +4923,19 @@
   ]
  },
  {
+  "address": "0:bc7c87b71f5e8197c48b16bc23b75e06a83905160fbac28810293fc629558ae7",
+  "description": "Liquidity pool token for K1NG COIN and Proxy TON on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:bc7c87b71f5e8197c48b16bc23b75e06a83905160fbac28810293fc629558ae7.png",
+  "name": "LP Token for K1NG-pTON",
+  "social": [
+   "https://t.me/K1NG_TON_NEWS"
+  ],
+  "symbol": "K1NG-pTON LP",
+  "websites": [
+   "https://k1ngton.pro"
+  ]
+ },
+ {
   "address": "0:89b68ecce4dcedda13ef1883761d8c246ce84989ac12aeaeab78aa0050c2bcb6",
   "decimals": 9,
   "description": "Liquidity pool token for MemeBlazeToken and Proxy TON on DeDust.io DEX",
