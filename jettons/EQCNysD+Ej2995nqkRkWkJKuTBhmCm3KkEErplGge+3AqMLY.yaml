@@ -1,1 +1,8 @@
-
+name: ECOBONUS token
+description: Get an ECOBONUS for recycled materials (PET bottles, HDPE vials) Use ECOBONUSES as a discount from the network's partners
+image: "https://github.com/VARTANSED/ECOBONUS/blob/main/logo_darkbg.png"
+address: EQCNysD+Ej2995nqkRkWkJKuTBhmCm3KkEErplGge+3AqMLY
+symbol: ECOBONUS
+Decimals: 0
+social:
+  - "https://t.me/+koPDhGP8yENlYzRi"
