@@ -1,0 +1,9 @@
+name: ALFA
+description: "Utility token for AlfaChat — a messaging and AI automation platform for SMBs. ALFA is used for discounts, rewards and partial payments for AlfaChat services."
+image: "https://raw.githubusercontent.com/iml25/alfachat-token-assets/refs/heads/main/alfa-logo.png"
+address: EQBSesI3fr1kPm9aD4Z2GEoZ7bc5ijBM6UP5n6pELZ9oisR1
+symbol: ALFA
+websites:
+  - "https://alfachat.online"
+social:
+  - "https://t.me/alfachat_official"
