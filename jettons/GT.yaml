@@ -1,0 +1,20 @@
+# GreenTree (GT) – TON Jetton metadata
+address: EQBZm_Ieg9o9UMV57KTaIXICg7Zli15V4_2PCY2cmSSJWOkE
+name: GreenTree
+symbol: GT
+decimals: 9
+
+description: >
+  GreenTree (GT) is an eco-driven Jetton on TON designed to support
+  environmental initiatives and green digital engagement through an airdrop
+  and referral-based distribution.
+
+image: https://YOUR_DIRECT_LOGO_LINK/logo.png
+
+websites:
+  - https://greentreebot.me
+
+socials:
+  - https://t.me/Green_Treebot
+  - https://t.me/GreenTree_coin
+  - https://x.com/Green_Tree_coin
