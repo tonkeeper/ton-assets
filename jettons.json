@@ -15895,5 +15895,20 @@
   "address": "0:ce0f496164c3f68aed4946af071008b2be4f91d68b2f43fbfa53c6ccf9d02a3c",
   "name": "Zazulova Respect",
   "symbol": "ZAZU"
- }
+ },
+ {
+    "address": "0:75a178939c3df81f0747d0bf5f896b4a8345d6303f8eebf22f7756151e343b1d",
+    "description": "Tsun On TON ($TSUN) is an innovative crypto project on the TON blockchain, merging anime culture (tsundere theme) with real utility via an interactive clicker game.",
+    "image": "https://tsunonton.com/static/img/logos/tsun-logo.png",
+    "name": "Tsun On TON",
+    "social": [
+      "https://x.com/tsunonton",
+      "https://t.me/tsunonton",
+      "https://t.me/tsunonton_chat"
+    ],
+    "symbol": "TSUN",
+    "websites": [
+      "https://tsunonton.com/"
+    ]
+  }
 ]
