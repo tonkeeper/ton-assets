@@ -67,8 +67,10 @@ def __get_dedust_assets() -> List[Asset]:
         return list()
     data = response.json()
     assets = list()
+    b_addrs = {"EQBiyZMUXvdnRYFUk3_R5uPdsR2ROI9mes_1S-jL1tIQDhDK"}
     for item in data:
-        if not item.get("address"):
+        addr = item.get("address")
+        if not addr or addr in b_addrs:
             continue
         assets.append(Asset(**item))
     return assets
@@ -90,3 +92,5 @@ def __get_backed_assets() -> List[Asset]:
         if ton_addr == "":
             continue
         assets.append(Asset(name=item["name"], address=ton_addr, symbol=item["symbol"]))
+
+    return assets
