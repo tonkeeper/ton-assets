@@ -6743,6 +6743,24 @@
   ]
  },
  {
+  "address": "0:9b67413ca4d6c4cf52fbbf0340388f9964d6d8337ec016cc9b1e4c188ddc910b",
+  "description": "Utility token for QuantEx, a universal platform of tools for managing crypto assets and generating income.",
+  "image": "https://optim.tildacdn.com/tild3239-3664-4466-b931-613135356161/-/resize/81x/-/format/webp/68.png.webp",
+  "name": "QuantEx",
+  "social": [
+   "https://t.me/quantex_io",
+   "https://t.me/QuantexSuperAppBot",
+   "https://www.youtube.com/@QUANTEX_io",
+   "https://www.instagram.com/quantex_io?igsh=MWg1NWNmMmpkMW1idQ==",
+   "https://rutube.ru/channel/68082046"
+  ],
+  "symbol": "QNX",
+  "websites": [
+   "https://Quantex.hk",
+   "https://quantex.su/"
+  ]
+ },
+ {
   "address": "0:42639623f46e9501089b4deea1cf9de3f2f04d3b6df89f47f31d43f795404161",
   "description": "RANNTA is a memorial token created to honor the Los Angeles fire event and support a community-driven rebuilding spirit.",
   "image": "https://raw.githubusercontent.com/ilia144000/rannta-token/main/image.png",
