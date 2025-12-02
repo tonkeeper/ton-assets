@@ -6626,6 +6626,19 @@
   ]
  },
  {
+  "address": "0:f7f83b1c76310cf79cd1996f77eaf195afa3bbb852755ba6bcfbeefe560debb5",
+  "description": "PYBOBO, Your Culture, Your Coin",
+  "image": "https://capybobo.io/images/pybobo.png",
+  "name": "Capybobo",
+  "social": [
+   "https://x.com/Capybobo_io"
+  ],
+  "symbol": "PYBOBO",
+  "websites": [
+   "https://capybobo.io/"
+  ]
+ },
+ {
   "address": "0:4eddbc2736a24df571af42bf1b2c0a975305233b7d782b0b882606699cc94e73",
   "description": "The most developing memcoin on Ton. Additional utilities, games, nft... Welcome to the world of PeiPei",
   "image": "https://i.ibb.co/3S3LMmg/pepe-clean-bg-removebg-preview-png.png",
