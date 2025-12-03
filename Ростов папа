@@ -1,0 +1,24 @@
+address: EQDce_u8Z0YtwhvwftsJPBWiNG0otqppwiJCgnKdJyoFd9z9
+symbol: RPapa
+name: ROSTOV PAPA
+logo: https://i.ibb.co/DgMDQNh3/IMG-7323.jpg
+
+description: "Rostov Papa — мемкоин с душой юга. Быстрый, шумный и уверенный, как ростовские улицы. Создан для тех, кто любит хулиганский стиль и легкую криптовалютную движуху."
+decimals: 9
+socials:
+  - https://t.me/RostovPapaaa
+
+Add ROSTOV PAPA (RPapa) jetton
+
+This PR adds the ROSTOV PAPA (RPapa) jetton to the ton-assets repository.
+
+- Jetton address: EQDce_u8Z0YtwhvwftsJPBWiNG0otqppwiJCgnKdJyoFd9z9
+- Symbol: RPapa
+- Name: ROSTOV PAPA
+- Logo: https://i.ibb.co/DgMDQNh3/IMG-7323.jpg
+
+- Description: Rostov Papa — мемкоин с душой юга. Быстрый, шумный и уверенный, как ростовские улицы. Создан для тех, кто любит хулиганский стиль и легкую криптовалютную движуху.
+- Decimals: 9
+- Socials: https://t.me/RostovPapaaa
+
+Please review and merge.
