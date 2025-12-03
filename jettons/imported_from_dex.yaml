@@ -85,6 +85,9 @@
 - address: 0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0
   name: BANANA
   symbol: BANANA
+- address: 0:75dfdf613ea58376ea66570e3774a04481882c12da258951ac7e97218870be04
+  name: Lucky Bank
+  symbol: BANK
 - address: 0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca
   name: Baron
   symbol: BARO
