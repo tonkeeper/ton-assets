@@ -12510,6 +12510,11 @@
   "symbol": "TBTC"
  },
  {
+  "address": "0:8b4e9d501b16adcb2b985f0f6d90dabc7929d01ee77bcfd89a00ca7c44add323",
+  "name": "Ton Capybara",
+  "symbol": "TCAPY"
+ },
+ {
   "address": "0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713",
   "name": "TON Cat",
   "symbol": "TCAT"
