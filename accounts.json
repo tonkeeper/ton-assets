@@ -947,6 +947,10 @@
   "name": "Flipster Withdrawal"
  },
  {
+  "address": "0:ec85cfc7fd1009362e421b5a0141f510d6540107ab73e7829fda1ef9e97a75e3",
+  "name": "CryptoBot"
+ },
+ {
   "address": "0:817438e5b0e6eb113ab74d73fc95f7ec19247dbe6ee27a42c3d0164d614c3ca1",
   "name": "Ourbit",
   "require_memo": true

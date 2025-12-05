@@ -405,6 +405,8 @@
   require_memo: true
 - address: "EQDQpuuVQI6Vzpewyll_xSP_SAlSNjXo9RngD9y99C8MVJri"
   name: "Flipster Withdrawal"
+- address: "EQDshc_H_RAJNi5CG1oBQfUQ1lQBB6tz54Kf2h756Xp14_Cv"
+  name: "CryptoBot"
 - address: "EQCBdDjlsObrETq3TXP8lffsGSR9vm7iekLD0BZNYUw8oRAU"
   name: "Ourbit"
   require_memo: true

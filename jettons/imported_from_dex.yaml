@@ -58,9 +58,6 @@
 - address: 0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0
   name: ALWIN AirDrop
   symbol: ALWIN
-- address: 0:bb8ecf0d2d7defe7b66e466baeb0db4c4817648b8bdafeac8beec030766a2c7f
-  name: Amocucinare
-  symbol: AMORE
 - address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
   name: Andy
   symbol: ANDY
@@ -76,9 +73,6 @@
 - address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
   name: Art Coin
   symbol: ART
-- address: 0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a
-  name: VZGLYAD AVTORA
-  symbol: AVTR
 - address: 0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2
   name: Azure
   symbol: AZURE
@@ -91,6 +85,9 @@
 - address: 0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0
   name: BANANA
   symbol: BANANA
+- address: 0:75dfdf613ea58376ea66570e3774a04481882c12da258951ac7e97218870be04
+  name: Lucky Bank
+  symbol: BANK
 - address: 0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca
   name: Baron
   symbol: BARO
@@ -295,6 +292,9 @@
 - address: 0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1
   name: Diamond Bull Technology
   symbol: DBT
+- address: 0:0edbf3fb09ff8cabe0b970b571249a5893700d531fbbed35ca4fbf462931ba95
+  name: DegensCanAccumulate
+  symbol: DCA
 - address: 0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c
   name: DexCoyote Legends
   symbol: DCL
@@ -322,9 +322,6 @@
 - address: 0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3
   name: DINJA
   symbol: DINJA
-- address: 0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340
-  name: Dimethyltryptamine
-  symbol: DMT
 - address: 0:667170b2b5cf590dcc9fa21f455cd36f4a4a6c97f543ec6c23921054d611754b
   name: DOBERCOIN
   symbol: DOBER
@@ -349,6 +346,9 @@
 - address: 0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0
   name: DRAGONZ LAND
   symbol: DRAGONZ
+- address: 0:65e65b1043d6295705284e571d7ac5408e2a9af968a6896dbd1700c7720024c6
+  name: DRFT Coin
+  symbol: DRFT
 - address: 0:21442fe867807d560325b5f36410d49d2e4b653000cf13bdf322221c2fa7acda
   name: TON Drift
   symbol: DRIFT
@@ -385,6 +385,9 @@
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
+- address: 0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651
+  name: Exit
+  symbol: Exit
 - address: 0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce
   name: F
   symbol: F
@@ -427,9 +430,6 @@
 - address: 0:618fd170b6bd19c1fb43175ddfe9dd5aaa1e427a076a8adf01093c1b8cbef528
   name: FREEDOM
   symbol: FREE
-- address: 0:3309d04825d6599e97e7e21eedec03a4e44ecc01ac54b0844006ea25562199ae
-  name: Leagushka
-  symbol: FROG
 - address: 0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6
   name: Frogy LIVE
   symbol: FROGY
@@ -622,9 +622,6 @@
 - address: 0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971
   name: "\u0416\u042E"
   symbol: LIFEYT
-- address: 0:90f05482a0e9c221a797dbd60518e8067519fba7d035b92f208958d9290c910f
-  name: Liquidator
-  symbol: LIQ
 - address: 0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054
   name: Lucky TON
   symbol: LKY
@@ -634,9 +631,15 @@
 - address: 0:09dbd5a48e32eabbeb9c9808fd034ad19bce94e8ebcd473e3a8aa7755d5cbc3e
   name: Lombard Revival Token
   symbol: LRT
+- address: 0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30
+  name: Leprechaun
+  symbol: LUCKY
 - address: 0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff
   name: LUPA
   symbol: LUPA
+- address: 0:741ba8cfd2f0d20cc84ec5bc37d557fc65fccbf2fcbfd6f72b679c24594185ad
+  name: 'Lamborghini '
+  symbol: Lambo
 - address: 0:5ae8ea1f738bd06755d92d361191b5f8a965160427f4b05060a3491dc5d970ea
   name: META
   symbol: M5
@@ -736,6 +739,9 @@
 - address: 0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e
   name: Make Ton Great Again
   symbol: MTGA
+- address: 0:38f25c4ef31feaf538df9e9537f13ab267f7a40dc05f8d66c7d199b1d8443322
+  name: MUSHROOM
+  symbol: MUSH
 - address: 0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4
   name: Magic Vip People
   symbol: MVP
@@ -772,6 +778,9 @@
 - address: 0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6
   name: NikolAI
   symbol: NIKO
+- address: 0:306f7bca7d878d706df38ce3a01e98a14bdb1b451d4aaf3d037ed943a5137488
+  name: Nepal Monarchy GOLD
+  symbol: NMGOLD
 - address: 0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684
   name: NO Rocket
   symbol: 'NO'
@@ -796,6 +805,9 @@
 - address: 0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043
   name: OAAL AI
   symbol: OAAL
+- address: 0:998869ded68882bc80918543598aaca84d6ae8b7e691d8f1472bc401ff31096d
+  name: xn-- -8sbyftbi4do
+  symbol: OCHKO
 - address: 0:18c5a0a90151e3a4259a66dac295790e9bd62aec054fd94440711056e068edc4
   name: OGToken
   symbol: OGAT
@@ -1090,9 +1102,6 @@
 - address: 0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48
   name: SOON
   symbol: SOON
-- address: 0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1
-  name: Sorry Mate
-  symbol: SORRY
 - address: 0:41f843111099081d5606e433e29253a158f72c09ac632fd1ca9a046fb86b73ff
   name: Nobby Game
   symbol: SOX
@@ -1283,6 +1292,9 @@
 - address: 0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b
   name: TON SCAM
   symbol: TONSCAM
+- address: 0:e83c2004242e0d3c190635af4dfbccdf3ac403a410a321ee9b6f394f22822a5d
+  name: TONSKI
+  symbol: TONSKI
 - address: 0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81
   name: ToonTools
   symbol: TOON
@@ -1463,6 +1475,9 @@
 - address: 0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72
   name: Meme Inc
   symbol: YOBA
+- address: 0:a7658ce69ae845b6d34492b51937d3621e1b2a6c1208c72633856d6c255b1901
+  name: The Reversed Livaz
+  symbol: ZAVIL
 - address: 0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11
   name: ZEUS
   symbol: ZEUS
