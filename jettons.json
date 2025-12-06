@@ -1890,6 +1890,19 @@
   "symbol": "CLNR"
  },
  {
+  "address": "0:4a5542448e30414b05360ca4c8303ebe9d51d1f08a7187f45dc708ed3486d1d0",
+  "description": "Call of Odin's Chosen \u2014 The World's First VWA Game!",
+  "image": "https://cocweb3.xyz/images/coc.png",
+  "name": "Call of Odin's Chosen",
+  "social": [
+   "https://x.com/COC_Web3"
+  ],
+  "symbol": "COC",
+  "websites": [
+   "https://cocweb3.xyz/"
+  ]
+ },
+ {
   "address": "0:b0b1c8ec760292c8285ac7e28c97a40efce33ec8bbbc5558a9935a6761edc164",
   "description": "SOS HAS BEEN ACTIVATED From TON618 event horizon, an ancient signal echoes through CODEX ARCANUM. 24 cryptographic puzzles await. Each fragment holds cosmic secrets older than galaxies. Navigate through Telegram mini-apps to unlock dimensional portals and cosmic secrets. The ultimate prize A TonKeeper vault with CODEX and TON token - CODEX not just currency, but crystallized fragments of universal truth. The cosmic journey begins now",
   "image": "https://storage.dyor.io/jettons/images/1758740967/75957318.png",
@@ -2324,7 +2337,7 @@
  {
   "address": "0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4",
   "description": "Owled Didi is an animated Telegram sticker pack featuring a cute purple owl. It is also shown on the Telegram home page.",
-  "image": "https://fuchsia-patient-ocelot-485.mypinata.cloud/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
+  "image": "https://ipfs.io/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
   "name": "Owled Didi",
   "social": [
    "https://t.me/owled_didi_portal",
@@ -3683,6 +3696,21 @@
   "symbol": "FROMG"
  },
  {
+  "address": "0:351080eb477df380bdb5af00c87c6a3b8781135a279e9ed52f83b8c84fedda3f",
+  "description": "FORT is a deflationary token designed to support sustainable growth, reward activity, and strengthen the Forton economy",
+  "image": "https://forton.app/fort-logo.png",
+  "name": "FORT Token",
+  "social": [
+   "https://t.me/forsageio_official",
+   "https://t.me/smartpeoplechat",
+   "https://t.me/FortonApp_bot"
+  ],
+  "symbol": "FRT",
+  "websites": [
+   "https://forton.app"
+  ]
+ },
+ {
   "address": "0:c207089411e7812c786a216d7ad7239b1af3bbfc1a99783dd7479136cbf7f07e",
   "description": "Utility Token for Fanton Fantasy Sport Game",
   "image": "https://fan-ton.com/FTON_logo.png",
@@ -4232,7 +4260,7 @@
  {
   "address": "0:7c92f3ef7e651f2bd9cf6e327b89ffb048b76f4f1eb3cca82a79e1e2e509b63c",
   "description": "It's time for magic! Take your letter to the world of TON magic.",
-  "image": "https://i.imgur.com/3v7aDkH.png",
+  "image": "https://i.postimg.cc/tJyX6sVy/image.png",
   "name": "HOGWARTS",
   "social": [
    "https://t.me/hogwarts_token_ton",
@@ -4920,6 +4948,19 @@
   "symbol": "$ETN-TON LP",
   "websites": [
    "https://ston.fi/"
+  ]
+ },
+ {
+  "address": "0:bc7c87b71f5e8197c48b16bc23b75e06a83905160fbac28810293fc629558ae7",
+  "description": "Liquidity pool token for K1NG COIN and Proxy TON on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:bc7c87b71f5e8197c48b16bc23b75e06a83905160fbac28810293fc629558ae7.png",
+  "name": "LP Token for K1NG-pTON",
+  "social": [
+   "https://t.me/K1NG_TON_NEWS"
+  ],
+  "symbol": "K1NG-pTON LP",
+  "websites": [
+   "https://k1ngton.pro"
   ]
  },
  {
@@ -6600,6 +6641,19 @@
   ]
  },
  {
+  "address": "0:f7f83b1c76310cf79cd1996f77eaf195afa3bbb852755ba6bcfbeefe560debb5",
+  "description": "PYBOBO, Your Culture, Your Coin",
+  "image": "https://capybobo.io/images/pybobo.png",
+  "name": "Capybobo",
+  "social": [
+   "https://x.com/Capybobo_io"
+  ],
+  "symbol": "PYBOBO",
+  "websites": [
+   "https://capybobo.io/"
+  ]
+ },
+ {
   "address": "0:4eddbc2736a24df571af42bf1b2c0a975305233b7d782b0b882606699cc94e73",
   "description": "The most developing memcoin on Ton. Additional utilities, games, nft... Welcome to the world of PeiPei",
   "image": "https://i.ibb.co/3S3LMmg/pepe-clean-bg-removebg-preview-png.png",
@@ -6730,6 +6784,37 @@
   ]
  },
  {
+  "address": "0:9b67413ca4d6c4cf52fbbf0340388f9964d6d8337ec016cc9b1e4c188ddc910b",
+  "description": "Utility token for QuantEx, a universal platform of tools for managing crypto assets and generating income.",
+  "image": "https://optim.tildacdn.com/tild3239-3664-4466-b931-613135356161/-/resize/81x/-/format/webp/68.png.webp",
+  "name": "QuantEx",
+  "social": [
+   "https://t.me/quantex_io",
+   "https://t.me/QuantexSuperAppBot",
+   "https://www.youtube.com/@QUANTEX_io",
+   "https://www.instagram.com/quantex_io?igsh=MWg1NWNmMmpkMW1idQ==",
+   "https://rutube.ru/channel/68082046"
+  ],
+  "symbol": "QNX",
+  "websites": [
+   "https://Quantex.hk",
+   "https://quantex.su/"
+  ]
+ },
+ {
+  "address": "0:42639623f46e9501089b4deea1cf9de3f2f04d3b6df89f47f31d43f795404161",
+  "description": "RANNTA is a memorial token created to honor the Los Angeles fire event and support a community-driven rebuilding spirit.",
+  "image": "https://raw.githubusercontent.com/ilia144000/rannta-token/main/image.png",
+  "name": "RANNTA COIN",
+  "social": [
+   "https://rannta.com",
+   "https://t.me/rannta_coin",
+   "https://x.com/ranntacoin",
+   "https://github.com/ilia144000/rannta-token"
+  ],
+  "symbol": "RANNTA"
+ },
+ {
   "address": "0:83ee5aebc6939cab903947a9d32de17592e21b97504a09ee4e9da9c67b7701e0",
   "description": "RabBitcoin serves as the native token of the Rocky Rabbit platform, powering the Play-to-Earn ecosystem and enabling seamless in-game transactions and rewards.",
   "image": "https://cdn.rockyrabbit.io/rbtc-icon/512x512.png",
@@ -6851,8 +6936,8 @@
   "image": "https://raw.githubusercontent.com/Resistance-Dog/resistance-dog/main/resistance-dog.webp",
   "name": "Resistance Dog",
   "social": [
-   "https://t.me/redoton",
-   "https://twitter.com/redoonton"
+   "https://t.me/redotoken",
+   "https://x.com/redotoken"
   ],
   "symbol": "REDO",
   "websites": [
@@ -6912,6 +6997,22 @@
   "symbol": "REKT997",
   "websites": [
    "https://rekt997.com"
+  ]
+ },
+ {
+  "address": "0:da50a430100c789afff3ee6f9a27286081bc26a22cc9c0f192bfafd7425bf201",
+  "description": "Guard Dog of Republic",
+  "image": "https://i.ibb.co.com/9HqSjq1L/reog-256.png",
+  "name": "Republic Dog",
+  "social": [
+   "https://t.me/republicdog",
+   "https://t.me/republic_dog",
+   "https://x.com/tonrepublicdog",
+   "https://getgems.io/republicdog"
+  ],
+  "symbol": "REOG",
+  "websites": [
+   "https://reog.org"
   ]
  },
  {
@@ -8639,6 +8740,22 @@
   "symbol": "TOTO"
  },
  {
+  "address": "0:599f46856b8eba83256c37c6d976a4e73069d69d0c2e666a583e328b60afd344",
+  "coinmarketcap": "https://coinmarketcap.com/currencies/lucky-train/",
+  "description": "Native Utility Token of the Lucky Train Ecosystem",
+  "image": "https://luckytrain.com/traincoin.png",
+  "name": "TrainCoin",
+  "social": [
+   "https://t.me/LuckyTrain",
+   "https://twitter.com/LuckyTrainApp"
+  ],
+  "symbol": "TRAIN",
+  "websites": [
+   "https://LuckyTrain.com",
+   "https://t.me/LuckyTrainBot/LuckyTrain"
+  ]
+ },
+ {
   "address": "0:fba5072bd70d1df8c3182c5bc972deacdf69a7d15263cb5e3d0c0d9cffaa7372",
   "description": "Tropicana is a successful crypto woman who enjoys wakeboarding and living her best life off the coast of the Persian Gulf",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqd7pqcr1w0d-mmylfvjct6s32mn0vjjy149da2c_6pzcmjn.png?size=lg&key=6abb8b",
@@ -8848,6 +8965,17 @@
    "https://x.com/memerepublicton"
   ],
   "symbol": "TMP"
+ },
+ {
+  "address": "0:23f4e8bcbf14e55e9e5a1128b1f1b6a581806db7e3a9b8f8526bb4f26c53fc5e",
+  "description": "Community token based on Pavel Durov\u2019s new pet",
+  "image": "https://cdn.dexscreener.com/cms/images/757341e2251c10d8afaffb19e03229817b9c8d04a87ebe0e4a8d3ea5acdcc446?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "Tonski",
+  "social": [
+   "https://t.me/Tonskicommunity",
+   "https://x.com/Tonskicommunity"
+  ],
+  "symbol": "Tonski"
  },
  {
   "address": "0:446ca9b9cfe4f9a6ccfc891b424588c31fe3866d102c7e142d74a7f599ad9da9",
@@ -9407,9 +9535,9 @@
  {
   "address": "0:082bdb00eb1a3698cd41c9b65cb8129b9b58f939cbb48da7a0fff2e1ed127f26",
   "decimals": 9,
-  "description": "XP is a gaming token created within the XP LABS ecosystem. It is designed to support and drive the development of both existing and future gaming projects. XP will serve as a cornerstone of the ecosystem, connecting all games and ensuring their sustainable growth and seamless integration.",
+  "description": "XP8 is a gaming token created within the XP LABS ecosystem. It is designed to support and drive the development of both existing and future gaming projects. XP8 will serve as a cornerstone of the ecosystem, connecting all games and ensuring their sustainable growth and seamless integration.",
   "image": "https://i.postimg.cc/JnBfFD2r/xp200.png",
-  "name": "XP",
+  "name": "XP8",
   "social": [
    "https://x.com/xplabsch",
    "https://t.me/xplabsch",
@@ -9417,7 +9545,7 @@
    "https://www.instagram.com/xplabsch",
    "https://www.youtube.com/@xplabsch"
   ],
-  "symbol": "XP"
+  "symbol": "XP8"
  },
  {
   "address": "0:25fb0010e51cc132f5b223d714d690c0e75904f42e4a0fce360d55d91ef17dca",
@@ -10333,12 +10461,15 @@
  },
  {
   "address": "0:2dc28eaa30dc2daf489303d78a559df672e002149d1529defc1ab05639ef37f9",
-  "description": "The oldest living memecoin on TON",
-  "image": "https://image2url.com/images/1760920879278-caff1137-7434-41f6-af15-5f844b61c755.jpg",
+  "description": "Oldest living memecoin on Ton \ud83d\udc8e The very first Groyper in crypto \ud83d\udc38 Saving the world from the cult \u270a",
+  "image": "https://image2url.com/images/1763740420574-e21dc6d2-7b99-4af6-a545-73d98fcb897d.jpg",
   "name": "Groyper",
   "social": [
    "https://x.com/groyp_on_ton",
-   "https://t.me/GroyperonTon"
+   "https://t.me/GroyperonTon",
+   "https://t.me/groyp",
+   "https://t.me/anygroyp",
+   "https://groyponton.xyz"
   ],
   "symbol": "GROYP"
  },
