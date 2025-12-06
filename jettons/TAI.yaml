@@ -1,0 +1,11 @@
+name: TAI
+symbol: TAI
+address: "0:eb8dc2f6b939151239ad987f706dff3366b3b9c056e020e029c8856bdb6dd172"
+decimals: 9
+description: "TAI Protocol is a TON-based PoM (Proof of Market) protocol that achieves market-driven release of 90 billion tokens through an 18-round price target unlocking mechanism, building a decentralized application matrix and embodying the \"No Performance, No Liquidity\" value philosophy."
+image: "https://ivory-keen-perch-796.mypinata.cloud/ipfs/bafkreiauq4z5lklst6di36qdpaaftr4lmnw7edyqhz3w5wvxdxsk7gkzyi"
+websites:
+  - "https://tai.lat"
+social:
+  - "https://t.me/taiptocol"
+  - "https://x.com/taichi2077"
