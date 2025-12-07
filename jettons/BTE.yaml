@@ -1,0 +1,17 @@
+address: EQCV65i0hMk-zsiOg61ogmd7Bn-rxzlFAbY4qSD3d_vDhFnG
+name: BTE
+symbol: BTE
+decimals: 9
+description: >
+  BTE is a utility jetton of the ByTetherExchange ecosystem on the TON network.
+  It is used inside the platform and supported by on-chain liquidity pools.
+image: "https://bytetherexchange.com/static/bte_logo.png"
+
+websites:
+  - "https://www.bytetherexchange.com"
+
+social:
+  - "https://x.com/btexchange1"
+  - "https://t.me/bytetherexchange_chat"
+  - "https://t.me/bte_trust_bot"
+  - "https://www.instagram.com/btexchanger"
