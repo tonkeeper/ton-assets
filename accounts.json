@@ -160,6 +160,22 @@
   "name": "STON.fi Dex"
  },
  {
+  "address": "0:86822cc845a6073982ce426f5ddb4572fc42261f37e31a7c6334ab33bce4503b",
+  "name": "STON.fi Dex"
+ },
+ {
+  "address": "0:029f5ea6f4ead9fa6c35f3a33836522954ff136f7aba495f5a5fc3634a055f25",
+  "name": "STON.fi Dex"
+ },
+ {
+  "address": "0:222d5ebbec1807357114b832770b0f0ae563a22523bceb187c610ab62ed84912",
+  "name": "STON.fi Dex"
+ },
+ {
+  "address": "0:1061b9dbd4418ad166fc9a4def116e2f6c74f2bfb70e71f2653d643ceffebfa9",
+  "name": "STON.fi Dex"
+ },
+ {
   "address": "0:bffadd270a738531da7b13ba8fc403826c2586173f9ede9c316fab53bc59ac86",
   "name": "TONCO"
  },
@@ -174,6 +190,14 @@
  {
   "address": "0:310569f85cd583d93c98c59de87d28c6965f5412eb43a4d4e80313226f8bd4c7",
   "name": "Thermos"
+ },
+ {
+  "address": "0:6f7d004e411ba20c4a87383c5e35e46ce51d9961dec72e8f7dd136898ed5473f",
+  "name": "DeDust HYDRA vault"
+ },
+ {
+  "address": "0:b19d154e5d4e12a73decbd99bfc924f56c167939e43d4db3589d0636eaaaaf66",
+  "name": "DeDust MY vault"
  },
  {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
