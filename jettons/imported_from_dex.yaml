@@ -85,6 +85,9 @@
 - address: 0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0
   name: BANANA
   symbol: BANANA
+- address: 0:75dfdf613ea58376ea66570e3774a04481882c12da258951ac7e97218870be04
+  name: Lucky Bank
+  symbol: BANK
 - address: 0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca
   name: Baron
   symbol: BARO
@@ -736,6 +739,9 @@
 - address: 0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e
   name: Make Ton Great Again
   symbol: MTGA
+- address: 0:38f25c4ef31feaf538df9e9537f13ab267f7a40dc05f8d66c7d199b1d8443322
+  name: MUSHROOM
+  symbol: MUSH
 - address: 0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4
   name: Magic Vip People
   symbol: MVP
@@ -799,6 +805,9 @@
 - address: 0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043
   name: OAAL AI
   symbol: OAAL
+- address: 0:998869ded68882bc80918543598aaca84d6ae8b7e691d8f1472bc401ff31096d
+  name: xn-- -8sbyftbi4do
+  symbol: OCHKO
 - address: 0:18c5a0a90151e3a4259a66dac295790e9bd62aec054fd94440711056e068edc4
   name: OGToken
   symbol: OGAT
@@ -1162,6 +1171,9 @@
 - address: 0:91b8ae5722b89efd06de4447ef4c9433678b51b0af262e1665f975cb7f3f62e5
   name: TonBitcoin
   symbol: TBTC
+- address: 0:8b4e9d501b16adcb2b985f0f6d90dabc7929d01ee77bcfd89a00ca7c44add323
+  name: Ton Capybara
+  symbol: TCAPY
 - address: 0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713
   name: TON Cat
   symbol: TCAT
@@ -1283,6 +1295,9 @@
 - address: 0:4c5ca453220098c6ac81841c77ddbd56750b720a73a28bb28d425fcfc3c67b3b
   name: TON SCAM
   symbol: TONSCAM
+- address: 0:e83c2004242e0d3c190635af4dfbccdf3ac403a410a321ee9b6f394f22822a5d
+  name: TONSKI
+  symbol: TONSKI
 - address: 0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81
   name: ToonTools
   symbol: TOON

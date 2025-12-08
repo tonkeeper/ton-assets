@@ -1,0 +1,12 @@
+name: TrainCoin
+description: Native Utility Token of the Lucky Train Ecosystem
+image: "https://luckytrain.com/traincoin.png"
+address: 0:599f46856b8eba83256c37c6d976a4e73069d69d0c2e666a583e328b60afd344
+symbol: TRAIN
+websites:
+  - "https://LuckyTrain.com"
+  - "https://t.me/LuckyTrainBot/LuckyTrain"
+social:
+  - "https://t.me/LuckyTrain"
+  - "https://twitter.com/LuckyTrainApp"
+coinmarketcap: "https://coinmarketcap.com/currencies/lucky-train/"
