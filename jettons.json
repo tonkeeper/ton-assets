@@ -2566,6 +2566,20 @@
   ]
  },
  {
+  "address": "0:23079e337558e92f242d1ffac54c62b3dd5eccd9b81b479a4448004a3962877d",
+  "decimals": 9,
+  "description": "DRZ - Drazze official token",
+  "image": "https://peach-able-centipede-276.mypinata.cloud/ipfs/bafkreigbnd7r4jha5vat3zvf6lr4fnjfncxdcpy2x7hxmb7fg2uwh2uuji",
+  "name": "Drazze",
+  "social": [
+   "https://t.me/Drazze_Official"
+  ],
+  "symbol": "DRZ",
+  "websites": [
+   "https://drazze.online"
+  ]
+ },
+ {
   "address": "0:53732b598dd67014b8fa4ceec2786be7e1a326a97bdb5fe9ce0e20296ddd35d6",
   "image": "https://github.com/DuckMizel/DuckCoin/blob/main/duck.png?raw=true",
   "name": "Duck Coin",
