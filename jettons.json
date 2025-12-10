@@ -8634,6 +8634,17 @@
   ]
  },
  {
+  "address": "0:ca321e75d433a7d3698bd277f426b343d1396450a9a8b35ede2bdccac8602c8d",
+  "description": "For devs by devs.",
+  "image": "https://sneakpeek.bidask.finance/api/image/download/80932ba753b4becf1ab8577ab33a4532",
+  "name": "TONDEV",
+  "social": [
+   "https://t.me/tondev_jetton",
+   "https://t.me/tondevchatik"
+  ],
+  "symbol": "TONDEV"
+ },
+ {
   "address": "0:8d0adee26073def322f22e00982fb3f722f2a6a68f3843d8eaaf7b9a17639917",
   "description": "Tonion is a revolutionary Telegram-based platform that combines gaming experience, social interaction, and cryptocurrency,NFT trading in a single application.",
   "image": "https://cdn.blum.codes/4ac3ed0d-1dec-47dd-a46a-e1f5eb818f48/a7c5851d-5465-41ff-a39d-248614de2302",
