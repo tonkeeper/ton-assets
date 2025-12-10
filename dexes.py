@@ -109,4 +109,4 @@ def update_stonfi_routers():
     if len(routers) == 0:
         return
     with open("accounts/ston.yaml", "w") as f:
-        yaml.dump(f, routers)
+        yaml.safe_dump(routers, f, sort_keys=True, llow_unicode=True)
