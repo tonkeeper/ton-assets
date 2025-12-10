@@ -2566,6 +2566,20 @@
   ]
  },
  {
+  "address": "0:23079e337558e92f242d1ffac54c62b3dd5eccd9b81b479a4448004a3962877d",
+  "decimals": 9,
+  "description": "DRZ - Drazze official token",
+  "image": "https://peach-able-centipede-276.mypinata.cloud/ipfs/bafkreigbnd7r4jha5vat3zvf6lr4fnjfncxdcpy2x7hxmb7fg2uwh2uuji",
+  "name": "Drazze",
+  "social": [
+   "https://t.me/Drazze_Official"
+  ],
+  "symbol": "DRZ",
+  "websites": [
+   "https://drazze.online"
+  ]
+ },
+ {
   "address": "0:53732b598dd67014b8fa4ceec2786be7e1a326a97bdb5fe9ce0e20296ddd35d6",
   "image": "https://github.com/DuckMizel/DuckCoin/blob/main/duck.png?raw=true",
   "name": "Duck Coin",
@@ -8618,6 +8632,17 @@
   "websites": [
    "tonbankcard.com"
   ]
+ },
+ {
+  "address": "0:ca321e75d433a7d3698bd277f426b343d1396450a9a8b35ede2bdccac8602c8d",
+  "description": "For devs by devs.",
+  "image": "https://sneakpeek.bidask.finance/api/image/download/80932ba753b4becf1ab8577ab33a4532",
+  "name": "TONDEV",
+  "social": [
+   "https://t.me/tondev_jetton",
+   "https://t.me/tondevchatik"
+  ],
+  "symbol": "TONDEV"
  },
  {
   "address": "0:8d0adee26073def322f22e00982fb3f722f2a6a68f3843d8eaaf7b9a17639917",

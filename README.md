@@ -51,6 +51,7 @@ Name           | Address
 [STON.fi Dex](https://tonviewer.com/0:86822cc845a6073982ce426f5ddb4572fc42261f37e31a7c6334ab33bce4503b) | EQCGgizIRaYHOYLOQm9d20Vy_EImHzfjGnxjNKszvORQOznR
 [STON.fi Dex](https://tonviewer.com/0:029f5ea6f4ead9fa6c35f3a33836522954ff136f7aba495f5a5fc3634a055f25) | EQACn16m9OrZ-mw186M4NlIpVP8Tb3q6SV9aX8NjSgVfJTo9
 [STON.fi Dex](https://tonviewer.com/0:222d5ebbec1807357114b832770b0f0ae563a22523bceb187c610ab62ed84912) | EQAiLV677BgHNXEUuDJ3Cw8K5WOiJSO86xh8YQq2LthJEoED
+[STON.fi Dex](https://tonviewer.com/0:632bf92363947f0e8c9345f7f5d3d57316b4a5285082fe038e58832dc84bc272) | EQBjK_kjY5R_DoyTRff109VzFrSlKFCC_gOOWIMtyEvCcv2J
 [STON.fi Dex](https://tonviewer.com/0:1061b9dbd4418ad166fc9a4def116e2f6c74f2bfb70e71f2653d643ceffebfa9) | EQAQYbnb1EGK0Wb8mk3vEW4vbHTyv7cOcfJlPWQ87_6_qfzR
 [TONCO](https://tonviewer.com/0:bffadd270a738531da7b13ba8fc403826c2586173f9ede9c316fab53bc59ac86) | EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5
 [Marketapp Marketplace](https://tonviewer.com/0:9a9cb80adfbd1662f5108766d73355ac2c03304fda1d25a479670e34efcd72b3) | EQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ysx2O
@@ -58,6 +59,7 @@ Name           | Address
 [Thermos](https://tonviewer.com/0:310569f85cd583d93c98c59de87d28c6965f5412eb43a4d4e80313226f8bd4c7) | EQAxBWn4XNWD2TyYxZ3ofSjGll9UEutDpNToAxMib4vUxw1J
 [DeDust HYDRA vault](https://tonviewer.com/0:6f7d004e411ba20c4a87383c5e35e46ce51d9961dec72e8f7dd136898ed5473f) | EQBvfQBOQRuiDEqHODxeNeRs5R2ZYd7HLo990TaJjtVHP6W3
 [DeDust MY vault](https://tonviewer.com/0:b19d154e5d4e12a73decbd99bfc924f56c167939e43d4db3589d0636eaaaaf66) | EQCxnRVOXU4Spz3svZm_yST1bBZ5OeQ9TbNYnQY26qqvZmnD
+[DeDust USDT vault](https://tonviewer.com/0:18aa8e2eed51747dae033c079b93883d941cad8f65459f2ee9cd7474b6b8ed5d) | EQAYqo4u7VF0fa4DPAebk4g9lBytj2VFny7pzXR0trjtXQaO
 [Morgenshtern](https://tonviewer.com/0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonviewer.com/0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
 [Telegram Team](https://tonviewer.com/0:2ecf5e47d591eb67fa6c56b02b6bb1de6a530855e16ad3082eaa59859e8d5fdc) | EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj

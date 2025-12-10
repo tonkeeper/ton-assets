@@ -172,6 +172,10 @@
   "name": "STON.fi Dex"
  },
  {
+  "address": "0:632bf92363947f0e8c9345f7f5d3d57316b4a5285082fe038e58832dc84bc272",
+  "name": "STON.fi Dex"
+ },
+ {
   "address": "0:1061b9dbd4418ad166fc9a4def116e2f6c74f2bfb70e71f2653d643ceffebfa9",
   "name": "STON.fi Dex"
  },
@@ -198,6 +202,10 @@
  {
   "address": "0:b19d154e5d4e12a73decbd99bfc924f56c167939e43d4db3589d0636eaaaaf66",
   "name": "DeDust MY vault"
+ },
+ {
+  "address": "0:18aa8e2eed51747dae033c079b93883d941cad8f65459f2ee9cd7474b6b8ed5d",
+  "name": "DeDust USDT vault"
  },
  {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
