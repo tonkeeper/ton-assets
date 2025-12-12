@@ -1,0 +1,16 @@
+name: "ANTVERSE"
+description: "ANTVERSE (ANTv) is a utility token on the TON blockchain, powering the ANTVERSE ecosystem, digital assets, and community-driven applications."
+symbol: "ANTv"
+decimals: 6
+
+address: "EQCsBTJh1stPUoMSHuoqle9RNITvt44nic3gj6JA4QLUySh7"
+
+image: "https://ipfs.io/ipfs/QmQGwuaWvjVsK8pX686peXqaD3KER9Db3vjvYiP4dZENm6"
+
+websites:
+  - "https://bmverse.us"
+
+social:
+  - "https://t.me/+Ngn21rVyB6I3MGVh"
+  - "https://x.com/bmverseio"
+  - "https://github.com/beautifullminds/ANTverse"
