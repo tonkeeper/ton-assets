@@ -13,6 +13,9 @@
 - address: 0:8ff35c8f0b7c874d6ff94355fca0faded21169ce2c978116913b5bcefee06691
   name: Amber xStock
   symbol: AMBRx
+- address: 0:b483278f1ce2aedaa1bc8dfa9cef000838e07e75529f0de3a2a97b8202c1b36a
+  name: AMD xStock
+  symbol: AMDx
 - address: 0:ad0f6fbbab11e1428361c6b8b6252cc7f9d9665aa298083b65119a918b7fb9ea
   name: Amazon.com xStock
   symbol: AMZNx
@@ -28,6 +31,9 @@
 - address: 0:252fb7ceca48af90479f6e5701ddb92a9f81ccc0ff2340d0cd573a3df9190a64
   name: Bank of America xStock
   symbol: BACx
+- address: 0:2f2fe596845939d4313376713b7ec916a62a7d105655f094c902365f1b181822
+  name: Bitmine xStock
+  symbol: BMNRx
 - address: 0:f3eb6247f93e6ae305ba0e9cee2fe44e292729382702d6222ff1d5c09d854d21
   name: Berkshire Hathaway xStock
   symbol: BRK.Bx
@@ -85,9 +91,18 @@
 - address: 0:7b53731473a4de3af611c2a2e8a2e17ecb1af8c3eb1af90fa7d3fe8c8d4c9095
   name: International Business Machines xStock
   symbol: IBMx
+- address: 0:0784f683c91c97263c060d70419e0b66092987162aa94cba93ddcebba2e0e68e
+  name: Core MSCI Emerging Markets xStock
+  symbol: IEMGx
+- address: 0:a7976398f7cf0d688cc797a5681f41ac559cf1ef4c4901750f7cde74b23540b4
+  name: S&P Small Cap xStock
+  symbol: IJRx
 - address: 0:419d217235990d9aaec8e04f725a1643650bab710846905786055fd45e26c596
   name: Intel xStock
   symbol: INTCx
+- address: 0:a948a8746cef33af933a42793995551a50ac04b12b2313e5f6f4fc588619c48f
+  name: Russell 2000 xStock
+  symbol: IWMx
 - address: 0:24dc64fe1b57c3dcfdd528e19f731b12c8f1dac2bf061c5a0e3a03ab351a79e5
   name: Johnson & Johnson xStock
   symbol: JNJx
@@ -160,9 +175,18 @@
 - address: 0:9eeaeb70a913a6acefdc39452f54d624bf279c5237ee82dba0be153095561212
   name: Nasdaq xStock
   symbol: QQQx
+- address: 0:279802ac6bf9825e879f8f379c9a35cc9ede4ea944634fe3850f98724f537784
+  name: Schwab International Equity xStock
+  symbol: SCHFx
 - address: 0:757f204003da900cfe8b106685ddc6d4f976ebfa9e844816469ea94790720700
   name: SP500 xStock
   symbol: SPYx
+- address: 0:98ff1394c671ac17dd70d30ddaccc764d5231d04a36bee425e743593665435dd
+  name: Strategy PP Variable xStock
+  symbol: STRCx
+- address: 0:4f652eb72b14a99b42ed8441930a9bb0a0299e6bec15690ff11446a1c8f2177c
+  name: Strategy PP Fixed xStock
+  symbol: STRKx
 - address: 0:a3a729a95bf5df60f3b0b84c37f4feb09a593ca3a2ad468de40bfea93958f100
   name: TBLL xStock
   symbol: TBLLx
@@ -184,6 +208,9 @@
 - address: 0:7b8a4dfefe8450d0510825862ef0d1be00d21a31df8a34b5d2bdf6e648c081d6
   name: Vanguard xStock
   symbol: VTIx
+- address: 0:e91b0ebd8f0673a9db7cf24c1dedd5329a68395b4fb213922f4b9013b20765e7
+  name: Vanguard Total World xStock
+  symbol: VTx
 - address: 0:b9519640b91e0c3376ab11d27a5965df15ec8449ab5fac3cb5dbfee0fe0d2ca8
   name: Visa xStock
   symbol: Vx
