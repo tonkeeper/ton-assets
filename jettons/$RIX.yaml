@@ -1,0 +1,11 @@
+name: RIXCOIN
+symbol: RIX
+address: EQBTwm6T95pv_GaEpV_1mQhTZ4J3BqoLnzNRoUEDagQ4m_4z
+image: "https://rixcoin.net/static/images/icons/photo_2025-12-07_23-03-01_small.jpg"
+description: |
+  RIX is a utility token of the RIX ecosystem on the TON blockchain. It is used as a payment method inside the RIX Telegram bot for various functions and services. A portion of transactions is allocated for burning.
+websites:
+  - "https://rixcoin.net/"
+social:
+  - "https://x.com/assassinoTON"
+  - "https://t.me/ByteBotstop"
