@@ -9045,6 +9045,17 @@
   ]
  },
  {
+  "address": "0:55b55f4260718a4f39973057ac6197bce34fad6e6f5dfbca1dd0e80a99c0d5f4",
+  "description": "$UDOG will become one of the greatest tokens on TON",
+  "image": "https://pbs.twimg.com/profile_images/1994006383792979968/3kB3bUTp_400x400.jpg",
+  "name": "UNDERDOG",
+  "social": [
+   "https://t.me/redo_team",
+   "https://x.com/udogcoin?s=21"
+  ],
+  "symbol": "UDOG"
+ },
+ {
   "address": "0:abecee264fc0caf7706d65c39f134910623cc24d01edc771f88ef4fe04d7af59",
   "decimals": 9,
   "name": "UFRENS Token",
