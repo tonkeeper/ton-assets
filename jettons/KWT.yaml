@@ -1,0 +1,11 @@
+address: "UQDsOreZxZkTRYmU1RbqU4Gj-vLPH4ou2GEpgIm_tSt74xbu"
+name: "KIWI Token"
+symbol: "KWT"
+decimals: 9
+description: "KWT is the main utility token of the KIWI ecosystem."
+image: "https://kiwi.eu.com/kwt/kwt-logo.webp"
+websites:
+  - "https://kiwi.eu.com"
+social:
+  - "https://t.me/kiwitalkshow"
+  - "https://www.instagram.com/kiwi_miniapp/"
