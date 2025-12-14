@@ -15569,6 +15569,26 @@
   "symbol": "oWEMIX$"
  },
  {
+  "address": "0:c9e01b179f9887b09d451b0bd817f19d8076bb5c99f06e88ede5d94d9b0d375e",
+  "decimals": 9,
+  "description": "Liquidity pool token for Proxy TON and CODEX ARCANUM on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:c9e01b179f9887b09d451b0bd817f19d8076bb5c99f06e88ede5d94d9b0d375e.png",
+  "name": "pTON-CODEX LP",
+  "social": [
+   "https://twitter.com/codexarcanum",
+   "https://t.me/CodexSouL",
+   "https://t.me/CodexPulse",
+   "https://t.me/CodexGateBot",
+   "https://t.me/CodexGateBot/codexArcanum"
+  ],
+  "symbol": "pTON-CODEX LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQDJ4BsXn5iHsJ1FGwvYF_GdgHa7XJnwbojt5dlNmw03Xl4r",
+   "https://dedust.io/pools/EQClRUig9Ukn65gnyAtxaQbV282ua_2n5JwQwRfmlAlpUrG9",
+   "https://codex.pm"
+  ]
+ },
+ {
   "address": "0:bffeb62ecf959790c1d32b871998196a6315f75783002d5871b21b322b892898",
   "description": "Liquidity pool token for Proxy TON and RealShahnameh on STON.fi DEX",
   "image": "https://raw.githubusercontent.com/Shahnameh-TON/real/c358826d77849d2086a42e0aa1dffdcad3fe22d5/tonreal.jpg",
