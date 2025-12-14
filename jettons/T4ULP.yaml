@@ -1,0 +1,9 @@
+name: TON4U Liquidity Points
+description: "Share of participation in the options trading liquidity pool."
+image: "https://ton4u.io/assets/ton4you_collection_logo.jpeg"
+address: 0:e20adfc2d97d9c5a31e0e9fa15ed2ce4776427fdfbfa6f1e96da28fd1074faa9
+symbol: T4ULP
+websites:
+  - "https://ton4u.io/"
+social:
+  - "https://t.me/option4you"
