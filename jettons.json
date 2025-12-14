@@ -1369,7 +1369,10 @@
   "social": [
    "https://t.me/boltlink"
   ],
-  "symbol": "BOLT"
+  "symbol": "BOLT",
+  "websites": [
+   "https://huebel.art/"
+  ]
  },
  {
   "address": "0:106447fa03e05f37cc185678ddc8f5a9097c244d28e17c5e5958fec08d178ce1",
