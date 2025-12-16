@@ -316,9 +316,15 @@
 - address: 0:1a2726c0b1d7176de5bf3ecad0644959584e31f262e42fdb39f2421cd0eb6909
   name: TON Degen
   symbol: DGN
+- address: 0:86d7208d6f47fb2954ab756b3ec0f86fd667237c09b059a09072cd385d1b2dc4
+  name: Fedya, dich!
+  symbol: DICH
 - address: 0:0e2ce27d8e14b5466cc44306b209c0fff20959848de6ee534e7e83535213f84d
   name: adDICKted
   symbol: DICK
+- address: 0:f113c0b8f91e77a25e089ec8f255e7667c8f71305ea5a49928da9f743c047453
+  name: DICKSHOTI
+  symbol: DICKSHOTI
 - address: 0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3
   name: DINJA
   symbol: DINJA
@@ -1409,6 +1415,9 @@
 - address: 0:6d14df21f1d4ad4ef239f2d11273f4bbd1e86404b4aecd0a8283904b210c8a30
   name: VOMER
   symbol: VMR
+- address: 0:0e2fa49c7c7abb0742114a956ecf1650e16de38eba69811173593ee45258db32
+  name: Buzz Launcher VVERIFIED
+  symbol: VSPACE
 - address: 0:5f5fd28ee72205a6b1d63e9269dceb17fba7232e310917e879b88404dde2c963
   name: Virtuals Worlds
   symbol: VWS
