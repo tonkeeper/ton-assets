@@ -1,0 +1,10 @@
+name: CyberJoule
+description: The energy jetton of CyberKonquest
+address: EQB_F_X728F7s-eBWV8AI1TiAjTMd7ogJFAdnQENxHZEJs44
+symbol: CKJ
+decimals: 9
+image: https://cyberkonquest.com/ckj.png
+websites:
+  - "https://cyberkonquest.com"
+social:
+  - "https://t.me/CyberKonquest"
