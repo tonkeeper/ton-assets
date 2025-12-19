@@ -6282,7 +6282,10 @@
    "https://t.me/padelco",
    "https://x.com/PadelCoinTon"
   ],
-  "symbol": "PADEL"
+  "symbol": "PADEL",
+  "websites": [
+   "https://padelco.org"
+  ]
  },
  {
   "address": "0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38",
