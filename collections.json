@@ -96,6 +96,51 @@
   ]
  },
  {
+  "address": "0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c",
+  "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. \ud83d\udd25 OPEN GIFTBOXES, pull Stickerboxes, and collect Golden Orc stickers to claim the most valuable rewards from ZarGates! 100% of all proceeds go toward the prize pool and collection promotion. \ud83d\udc8e Don't miss your chance to claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
+  "image": "https://metadata.zargates.com/giftbox/collection_image.png",
+  "name": "ZarGates GiftBoxes",
+  "social": [
+   "https://t.me/ZarGatesChannel",
+   "http://t.me/ZarGatesRU",
+   "https://x.com/ZARGATES",
+   "https://zargates.com"
+  ],
+  "websites": [
+   "https://zargates.com"
+  ]
+ },
+ {
+  "address": "0:733d5b87a1247f425045b72262c837c974acbe769dac3816d8d2cd01052cda32",
+  "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! \ud83d\udd25 OPEN STICKERBOXES, pull stickers, and join the treasure hunt! Assemble a squad of Golden Orcs, gear them up with artifacts in ZarGates, and win valuable prizes! 100% of all proceeds go toward the prize pool and collection promotion. \ud83d\udc8e Don't miss your chance to claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
+  "image": "https://metadata.zargates.com/stickerbox/collection_image.png",
+  "name": "Zargates StickerBoxes",
+  "social": [
+   "https://t.me/ZarGatesChannel",
+   "http://t.me/ZarGatesRU",
+   "https://x.com/ZARGATES",
+   "https://zargates.com"
+  ],
+  "websites": [
+   "https://zargates.com"
+  ]
+ },
+ {
+  "address": "0:463685d77d0474ec774386d92622ed688d34f07230741211d838c487dcfeec64",
+  "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. \ud83c\udfaf Hunt rules: Color matters. Golden Orcs are the most valuable. COLLECT 7 of them to build a full squad and increase your reward. Gear up your squad to boost your odds \u2014 and \ud83d\udc8e claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
+  "image": "https://metadata.zargates.com/stickers/collection_image.png",
+  "name": "Unstoppable Tribe from ZarGates",
+  "social": [
+   "https://t.me/ZarGatesChannel",
+   "http://t.me/ZarGatesRU",
+   "https://x.com/ZARGATES",
+   "https://zargates.com"
+  ],
+  "websites": [
+   "https://zargates.com"
+  ]
+ },
+ {
   "address": "0:c5e44022dc5a4785cb0bc0493960e990edf0c0cfcdf66c8621fcc757ba0a72ed",
   "description": "Explore Anycraft\u2019s exclusive NFT collection, where each item is crafted by players from unique creations. In Anycraft, only the original inventor of an item or a new recipe has the right to mint an NFT. \u2b50 Gold stars mark first discoveries, while silver stars represent unique crafting methods. All NFTs can be imported back into the game for more crafting possibilities. Plus, each NFT unlocks free boosters and other benefits \u2014 check them out in Anycraft!",
   "image": "https://public.anycraft.io/nft/assets/collection_logo.png",
