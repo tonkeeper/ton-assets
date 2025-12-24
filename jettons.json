@@ -13327,6 +13327,20 @@
   "symbol": "\u0447\u0435\u0431\u0443\u0440\u0430\u0448\u043a\u0430"
  },
  {
+  "address": "0:e119110357de400343a670b3507ce9cd23049995fe5dd6b7c07cf96ac46492e5",
+  "description": "Solution for business and for banks. We develop useful and attractive projects. We create services that help people run their businesses and improve their management systems.",
+  "image": "https://ipfs.io/ipfs/QmeLqhTdvHaDy9duYk9pyb3rFPM9hV81ifwCfjumhCN8Lt",
+  "name": "ISMDCOIN",
+  "social": [
+   "https://t.me/ismacoin",
+   "https://x.com/Ismabankcoin"
+  ],
+  "symbol": "ISMDC",
+  "websites": [
+   "http://ismdcoin.online/"
+  ]
+ },
+ {
   "address": "0:ecac262d6606cee7b3d0e3b6fda32b6342b5238b1fa0cf6c083f4f3c0c452f87",
   "decimals": 18,
   "image": "https://kingy.wtf/arb-logo-CMC.png",
