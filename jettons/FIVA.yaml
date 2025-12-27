@@ -345,3 +345,51 @@
 - symbol: LP eUSDT
   name: LP eUSDT (18Dec2025)
   address: "EQAUPdPpAMNaMfKwesMEgxzxDn3xEdTPF3_42_6bX44qPFRG"
+
+- symbol: SY tsTON
+  name: SY tsTON (30Jun2026)
+  address: "EQCTFFvWkZ8gD55HmXa9VwRpWKmKGBXiSnFy67Y54tsGOVFg"
+
+- symbol: PT tsTON
+  name: PT tsTON (30Jun2026)
+  address: "EQCTLWUiVTrnreRWjm8E--XzKhFhhs9UjZBVtiQlhSoNWgZX"
+
+- symbol: YT tsTON
+  name: YT tsTON (30Jun2026)
+  address: "EQCTyiz9maBOxjlin-DIwM8jFI0bk1rBmItrIjEz8c_KKVnw"
+
+- symbol: LP tsTON
+  name: LP tsTON (30Jun2026)
+  address: "EQCTafuJPlI68x4KzkhfMV5VY3MdWYmtcHlUYK9J_TRm3PAf"
+
+- symbol: SY tsUSDe
+  name: SY tsUSDe (30Jun2026)
+  address: "EQDDhQGX5wEf5bNwj_eV8d7dCHEqTUaTVzj-L7JsFwhKv3nY"
+
+- symbol: PT tsUSDe
+  name: PT tsUSDe (30Jun2026)
+  address: "EQDDVg7lK2cpABbkvzx3omQhCVT_wcJBgkJP2X4QPy8o5e76"
+
+- symbol: YT tsUSDe
+  name: YT tsUSDe (30Jun2026)
+  address: "EQDD7887e2VgSaZj-bFgJKRZJgUXjkfyAppHbCZt8MfKBq9a"
+
+- symbol: LP tsUSDe
+  name: LP tsUSDe (30Jun2026)
+  address: "EQDDOC37cOMMVpICCmpa5QnCFXIucb4UoCWH3rSFjwmCmKcM"
+
+- symbol: SY eUSDT
+  name: SY eUSDT (30Jun2026)
+  address: "EQB5ocpw_4hyF-XHMV7UvKp9ud-nUqGVMpNsDHhw3Gwz1o_M"
+
+- symbol: PT eUSDT
+  name: PT eUSDT (30Jun2026)
+  address: "EQB5rT5NKG7TkUhOhjJn-pYhpvvlmGuxzgzO2YU-XgRnyPUu"
+
+- symbol: YT eUSDT
+  name: YT eUSDT (30Jun2026)
+  address: "EQB52zL6c6uXVhKIxXGqblFNEDOZ9h1k4XabQjb5FyYYtMIx"
+
+- symbol: LP eUSDT
+  name: LP eUSDT (30Jun2026)
+  address: "EQB5JrKftomjcOV_VJcMzGlflAKMk1obGVLioDQFuGazPs6l"
