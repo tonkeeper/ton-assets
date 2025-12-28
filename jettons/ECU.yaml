@@ -1,9 +1,18 @@
 name: Electronic Coin Unit
-symbol: "ECU"
-description: "The Electronic Coin Unit (ECU) is a decentralized reserve cryptocurrency created to ensure low volatility, reliability, and cross–platform compatibility."
-address: 0:25161fbf6b551b08fcf5d7df85cd34cbc34450bda0d3081538b0269f87f9fae1
-image: "https://github.com/ECU-1/website/blob/main/logo.png"
-websites: "https://ecutoken.tilda.ws"
+symbol: ECU
+decimals: 9
+
+address: EQAlFh-_a1UbCPz119-FzTTLw0RQvaDTCBU4sCafh_n64SYo
+
+description: >-
+  Electronic Coin Unit (ECU) is a decentralized digital currency designed
+  for low volatility and use as digital cash within the ECU Platform ecosystem.
+
+image: https://ecu-1.github.io/website/logo400.png
+
+websites:
+  - https://ecutoken.tilda.ws
+
 social:
-  - "https://t.me/ecuton"
-  - "https://x.com/ecucoins"
+  - https://t.me/ecuton
+  - https://x.com/ecucoins
