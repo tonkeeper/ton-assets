@@ -1,7 +1,10 @@
-address: EQCDovRmP0F_rEOnj-N3VpN8G_IgRad7wu6aVf2cWSMmTPkP
-name: Pegora Coin
-symbol: PEGO
+address: "EQCDovRmP0F_rEOnj-N3VpN8G_IgRad7wu6aVf2cWSMmTPkP"
+name: "Pegora Coin"
+symbol: "PEGO"
 decimals: 9
-image: https://pegora.network/pego.png
-website: https://pegora.network
-description: The native digital asset of the Pegora Coin. Built for secure transactions and independent financial infrastructure with a fixed supply of 1B units.
+image: "https://pegora.network/pego.png"
+description: "Pegora Coin (PEGO) is a decentralized digital asset and the native utility token of the Pegora ecosystem, designed for secure offline-capable financial infrastructures. With a mathematically fixed supply of 2^30 units, PEGO ensures absolute transparency and long-term scarcity. Ownership Revoked."
+social:
+  - "https://pegora.network"
+  - "https://x.com/PegoraNetwork"
+  - "https://t.me/PegoraCoin"
