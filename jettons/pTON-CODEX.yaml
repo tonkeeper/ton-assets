@@ -1,0 +1,16 @@
+name: pTON-CODEX LP
+symbol: "pTON-CODEX LP"
+description: "Liquidity pool token for Proxy TON and CODEX ARCANUM on STON.fi DEX"
+address: 0:c9e01b179f9887b09d451b0bd817f19d8076bb5c99f06e88ede5d94d9b0d375e
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:c9e01b179f9887b09d451b0bd817f19d8076bb5c99f06e88ede5d94d9b0d375e.png"
+websites:
+  - "https://app.ston.fi/pools/EQDJ4BsXn5iHsJ1FGwvYF_GdgHa7XJnwbojt5dlNmw03Xl4r"
+  - "https://dedust.io/pools/EQClRUig9Ukn65gnyAtxaQbV282ua_2n5JwQwRfmlAlpUrG9"
+  - "https://codex.pm"
+social:
+  - "https://twitter.com/codexarcanum"
+  - "https://t.me/CodexSouL"
+  - "https://t.me/CodexPulse"
+  - "https://t.me/CodexGateBot"
+  - "https://t.me/CodexGateBot/codexArcanum"

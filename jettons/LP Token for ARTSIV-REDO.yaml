@@ -1,0 +1,11 @@
+name: LP Token for ARTSIV-REDO
+symbol: "ARTSIV-REDO LP"
+description: "Liquidity pool token for ArtsivTON and Resistance Dog on STON.fi DEX"
+address: 0:22299b48db5374559629221d5fc192d47df57c442beaa83a0f5ccacc8ea13b4b
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:22299b48db5374559629221d5fc192d47df57c442beaa83a0f5ccacc8ea13b4b.png"
+websites:
+  - "https://app.ston.fi/pools/EQAiKZtI21N0VZYpIh1fwZLUffV8RCvqqDoPXMrMjqE7S6uS"
+social:
+  - "https://t.me/ArtsivTON"
+  - "https://t.me/artsivtonchat"
