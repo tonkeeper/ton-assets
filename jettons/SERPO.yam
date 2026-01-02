@@ -1,0 +1,25 @@
+name: SerpoCoin
+symbol: SERPO
+address: EQCPeUzKknneMlA1UbivELxd8lFUA_oaOX9m9PPc4d6lHQyw
+decimals: 9
+
+description: |
+  SerpoCoin is a DeFi Web3 utility token
+  built on the TON blockchain,
+  inspired by the legendary Serpo exchange
+  a story of connection
+  between humans and an advanced alien
+  civilization.
+
+image: https://serpocoin.io/logo.png
+
+websites:
+  - https://serpocoin.io
+
+social:
+  telegram: https://t.me/serpocoinchannel
+  twitter: https://x.com/serpocoin
+  tiktok: https://www.tiktok.com/@serpocoinofficial
+  facebook: https://www.facebook.com/share/1CxUHMfBCr/?mibextid=wwXIfr
+  instagram: https://www.instagram.com/serpocoin
+  youtube: https://youtu.be/IGXxhVg_eKo
