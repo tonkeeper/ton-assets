@@ -1,0 +1,10 @@
+name: Quidcoin
+symbol: QUID
+address: "EQD3UKvwCkI2kwT5UYTV8-gFYRlVRC3QjPlJlIQ1p4iCOrWw"
+decimals: 9
+description: "Liquidity for TON jettons"
+image: "https://raw.githubusercontent.com/angelmhykel/QUID/be1af1883d1180e7758cee703c826946cda77c22/quid-logo.png"
+social:
+  - "https://t.me/quidtoken"
+websites:
+  - "https://quidcoin.xyz"
