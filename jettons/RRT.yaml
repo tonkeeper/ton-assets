@@ -1,0 +1,16 @@
+name: Real Rent Token
+symbol: RRT
+address: EQCJCp-BOZ0IPQgWGAdLN5pVledroP2GIkEAEvf_fsLBsZBZ
+decimals: 9
+
+website: https://real-estate.games
+
+description: >
+  Utility Jetton token on the TON blockchain used within the
+  Real Estate Crypto Game ecosystem to support in-game and
+  service-level mechanics.
+
+social:
+  telegram: https://t.me/RealEstateCryptoGame
+
+image: https://real-estate.games/img/logo.png
