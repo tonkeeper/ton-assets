@@ -1,0 +1,12 @@
+name: TestVic
+symbol: TVIC
+address: EQCxD4q_M7rvyC58r8RwUjev4ODGgdcohOMQfxzGYGvpJCIe
+image: "https://ton.fun/jettons/TVIC.png"
+description: |
+  TestVic token - Testing token for TON.FUN platform development and testing.
+  Used for platform testing and verification purposes.
+websites:
+  - "https://ton.fun"
+social:
+  - "https://t.me/TonFunX"
+  - "https://x.com/TonFunX"
