@@ -2,7 +2,7 @@ name: "eepay"
 symbol: "PHP"
 address: "EQApDb6dze-SNb8MQxDyAVYQHrSg5cYPeo0ohVJRWNQO4G25"
 description: "This is the token for eepay in the Philippines, with a 1:1 exchange rate with the Philippine peso."
-image: "https://uih.cc/eepay-logo.png"
+image: "https://eepay.ph/eepay--logo.png"
 websites:
   - "https://eepay.ph"
 social:
