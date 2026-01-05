@@ -1060,6 +1060,9 @@
 - address: 0:db8aa9762abf6d1d37de0d19abe6c3878cd5c5921a66de9930aba36b98e9c88a
   name: Tony Tontana
   symbol: SCAR
+- address: 0:4a0ff8cac3d697f98305e3c2232065d2b6e72b64e1546cbbf13281c266bb3b9f
+  name: Scuffy
+  symbol: SCUFFY
 - address: 0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719
   name: SEED
   symbol: SEED
