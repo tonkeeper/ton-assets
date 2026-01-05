@@ -1,0 +1,12 @@
+name: VicJet
+symbol: VIC
+address: EQBcYtlc9Wn_y8WKuxm04jxMbC8728dOVQWIhdoI_UgC_iq7
+image: "https://ton.fun/jettons/VIC.png"
+description: |
+  VicJet token - Trading and gaming token on TON.FUN launchpad platform.
+  Deployed via bonding curve mechanism with 1% trading fees.
+websites:
+  - "https://ton.fun"
+social:
+  - "https://t.me/TonFunX"
+  - "https://x.com/TonFunX"
