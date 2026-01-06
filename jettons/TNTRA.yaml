@@ -1,9 +1,16 @@
+address: EQC7IUDp5S5jZ0LuX5Vd9xc0Wmq5scusjZZeW4MzCkwTZQPi
 name: Tenantra
 symbol: TNTRA
 decimals: 9
-address: EQC7IUDp5S5jZ0LuX5Vd9xc0Wmq5scusjZZeW4MzCkwTZQPi
 description: TNTRA is the utility token powering the Tenantra gaming ecosystem on TON.
-website: https://tenantra.ca
+
+image: https://i.postimg.cc/9FvwWBSx/IMG-7084.png
+
+websites:
+  - https://tenantra.ca
+  - https://tenantra.ca/whitepaper
+  - https://tenantra.ca/community
+
 social:
-  telegram: https://t.me/tenantra
-  twitter: https://x.com/tenantra
+  - https://t.me/tenantra
+  - https://x.com/tenantra
