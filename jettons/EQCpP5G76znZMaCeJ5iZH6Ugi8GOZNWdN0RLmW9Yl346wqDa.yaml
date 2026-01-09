@@ -1,0 +1,15 @@
+name: "MEDUZA"
+symbol: "MEDUZA"
+address: "EQCpP5G76znZMaCeJ5iZH6Ugi8GOZNWdN0RLmW9Yl346wqDa"
+decimals: 7
+description: "Community-driven token supporting decentralized media on TON"
+image: "https://wjm4lsfc7cebmh6zmcghc7dx2eemdpl6avhbeamx5nriixem4piq.arweave.net/slnFyKL4iBYf2WCMcXx30QjBvX4FThIBl-tihFyM49E/logo.png"
+social:
+  - "https://t.me/meduza_eng"
+  - "https://t.me/meduza_rus"
+  - "https://x.com/meduzacoin"
+  - "https://meduzacoin.ru"
+  - "https://dedust.io/pools/EQAwFWskbWUfjxefx-ey0n3DSkWwmE5EuAE-6n2XnrzAwb33"
+  - "https://dedust.io/pools/EQAyA9xIZqHRPNXp1SqSeAbAoh-MWOnIW2pKb-CX86AfvOMy"
+  - "https://app.ston.fi/pools/EQBT3hnpGDcTdxypNlCXQ1RDDCr37iURa4Bta_M5pvOtJZPd"
+  - "https://app.ston.fi/pools/EQCBtLA-_DSUF0hht0ZQFO38yoDPl-lXA7IbgqFhE-yGV0T5"
