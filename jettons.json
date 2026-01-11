@@ -6484,13 +6484,15 @@
  },
  {
   "address": "0:01b522d2ceb00e21258f7c88c1976566792b6433578768fad4c514e3f2663ef6",
-  "description": "The primary token of the Phoenix Paw project.",
-  "image": "https://raw.githubusercontent.com/PhoenixPaw/PhoenixPaw/e3c80dbb36c5cc64f0aee1f913d99785fdb76245/photo_2024-12-28_19-02-35.jpg",
-  "name": "Phoenix Paw",
+  "description": "AI-powered ecosystem of services for earning, work, games, and entertainment.",
+  "image": "https://raw.githubusercontent.com/PhoenixPaw/PhoenixPaw/refs/heads/main/ava.jpg",
+  "name": "Phoenix",
   "social": [
    "https://twitter.com/PawPhoenixoff",
-   "https://t.me/PhoenixPaw",
-   "https://phoenixpaw.io"
+   "https://t.me/+5gUYq_iIpi82NDVi",
+   "https://phoenixpaw.io",
+   "https://t.me/+MQzPg8BtXeljZjJk",
+   "https://t.me/+Nk6qryrz6EkxZWRk"
   ],
   "symbol": "PHXPW"
  },
