@@ -4497,6 +4497,21 @@
   ]
  },
  {
+  "address": "0:4e0b3d5cfc09a760e7f77d72735d1e450394e516e639a13d3e02c71b91be24f9",
+  "decimals": 9,
+  "description": "IVPAY is a utility payment token used within the IVPAY ecosystem for crypto payments, merchant settlements, and blockchain-based financial services.",
+  "image": "https://ivpay.io/favicon.ico",
+  "name": "IVPAY",
+  "social": [
+   "https://t.me/ivpay_io",
+   "https://x.com/ivpay_io"
+  ],
+  "symbol": "IVPAY",
+  "websites": [
+   "https://ivpay.io"
+  ]
+ },
+ {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
   "decimals": 9,
   "image": "https://i.ibb.co/gZQ4Jqg/john-doge-transparent.png",
