@@ -1,0 +1,11 @@
+name: IVPAY
+description: IVPAY is a utility payment token used within the IVPAY ecosystem for crypto payments, merchant settlements, and blockchain-based financial services.
+symbol: IVPAY
+decimals: 9
+address: EQBOCz1c_AmnYOf3fXJzXR5FA5TlFuY5oT0-Ascbkb4k-fIK
+image: https://ivpay.io/favicon.ico
+websites:
+  - https://ivpay.io
+social:
+  - https://t.me/ivpay_io
+  - https://x.com/ivpay_io
