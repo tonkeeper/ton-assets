@@ -2306,6 +2306,25 @@
   "symbol": "DDOG"
  },
  {
+  "address": "0:ff67ee2a9b982222070213309f8a8d6aeac8f3cf088cb265087e31a5bb919676",
+  "decimals": 9,
+  "description": "Liquidity pool token for TON and CODEX ARCANUM on DeDust DEX",
+  "image": "https://cdn.codex.pm/images/wallets/dedust-lp-codex-ton.png",
+  "name": "DeDust Pool: CODEX/TON LP",
+  "social": [
+   "https://twitter.com/codexarcanum",
+   "https://t.me/CodexSouL",
+   "https://t.me/CodexPulse",
+   "https://t.me/CodexGateBot",
+   "https://t.me/CodexGateBot/codexArcanum"
+  ],
+  "symbol": "CODEX/TON LP",
+  "websites": [
+   "https://dedust.io/pools/EQD_Z-4qm5giIgcCEzCfio1q6sjzzwiMsmUIfjGlu5GWdpg7",
+   "https://codex.pm"
+  ]
+ },
+ {
   "address": "0:b6058ddf5e8d8a9f461cd4c616f697bc3c3c78a53dd7f3b95026e2665e09e9e9",
   "description": "DEXAPES \u2013 the only meme coin on TON with a transparent launch and solid tokenomics. Our goal is DAIF investment fund.",
   "image": "https://raw.githubusercontent.com/DEXAPES/website/dfeceeb14588704568b6ec1ae0be5537bcaea879/256\u0445256.png",
