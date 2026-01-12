@@ -4941,6 +4941,21 @@
   ]
  },
  {
+  "address": "0:27cb87a1bec42714f8ef0006f815dd45eb7f0f8f124cfa0b68b8a5885f7886d2",
+  "description": "LID is a fun and interactive crypto project built around one simple idea. You vote. You predict. And if you get it right, you earn.",
+  "name": "Likes and Dislikes",
+  "social": [
+   "https://t.me/Likes_and_Dislikes",
+   "https://t.me/Likes_and_Dislikes_Chat",
+   "https://x.com/like_an_dislike",
+   "https://youtube.com/@likes_and_dislikes_coin"
+  ],
+  "symbol": "LID",
+  "websites": [
+   "https://likesdislikes.online"
+  ]
+ },
+ {
   "address": "0:74aaf6919f1157e68f4eade5d966cd1012be29b59701c02e34c1f81ddc6a759f",
   "description": "Liberty Dog is a memecoin on TON inspired by the idea of Digital Freedom, created for the community to trade, share, and have fun.",
   "image": "https://i.ibb.co/d00TKJSd/lidotonviewer.jpg",
