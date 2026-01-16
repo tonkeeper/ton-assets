@@ -9190,6 +9190,20 @@
   ]
  },
  {
+  "address": "0:89928f462604157349faca13b7a5924fd3e3933523c901c10102d7f007697c06",
+  "decimals": 9,
+  "description": "UCB - \u044d\u0442\u043e \u0441\u0438\u043c\u0432\u043e\u043b \u043d\u0430\u0448\u0435\u0433\u043e \u043a\u0440\u0438\u043f\u0442\u043e-\u0431\u0440\u0430\u0442\u0441\u0442\u0432\u0430. \u041c\u044b \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432 \u0438 \u043d\u043e\u0432\u0430\u0442\u043e\u0440\u043e\u0432, \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0445 \u0446\u0435\u043b\u044c\u044e \u043f\u043e\u043a\u043e\u0440\u0438\u0442\u044c \u043c\u0438\u0440 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442 \u0432\u043c\u0435\u0441\u0442\u0435",
+  "image": "https://bidask.finance/api/image/download/358f77ea7bd33d8ada403048f36c211a",
+  "name": "United Crypto Boys",
+  "social": [
+   "https://t.me/United_Crypto_Boys"
+  ],
+  "symbol": "UCB",
+  "websites": [
+   "https://unitedcryptoboys.online"
+  ]
+ },
+ {
   "address": "0:55b55f4260718a4f39973057ac6197bce34fad6e6f5dfbca1dd0e80a99c0d5f4",
   "description": "$UDOG will become one of the greatest tokens on TON",
   "image": "https://pbs.twimg.com/profile_images/1994006383792979968/3kB3bUTp_400x400.jpg",
