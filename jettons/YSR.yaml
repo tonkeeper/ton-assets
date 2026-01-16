@@ -1,15 +1,21 @@
 name: YSR
-description: "YSR — Your Sustainable Resource, a community token uniting people around the idea of a sustainable future. Our mission is to create an ecosystem where every community member has the opportunity to contribute to environmental, social, and economic sustainability. Join YSR, and together we will build a better tomorrow."
-image: "https://raw.githubusercontent.com/morbiuslevakov/ysr/main/logo.png"
-address: "EQCnPJgHTd77jJOCLjGDfsuS5tA6y2n7U01daMdDkGZU-dbZ"
-symbol: $YSR
+symbol: YSR
 decimals: 9
+address: EQDk6dcif4YZw849Zv2ZS__EyvNdvT7tRgyhjPCnTVN7g_8f
+
+description: >
+  YSR is a jetton on the TON blockchain
+  with a fixed total supply of 40000000
+  and a deflationary buyback model.
+
+image: https://teal-managerial-capybara-483.mypinata.cloud/ipfs/bafkreigxmwgpj2aaayppmcz64thr7zxkyxzrquq6p6zg2hxui2ixe3vlwu
+
 websites:
-  - "https://ysr.community/"
-  - "https://swap.yusra.community/"
+  - https://www.ysrtoken.com
+
 social:
-  - "https://t.me/Your_Sustainable_Resource"
-  - "https://x.com/ysr_token"
-  - "https://t.me/YSR_TOKEN"
-  - "https://www.instagram.com/ysr.token"
-  - "https://www.youtube.com/@YSRcommunity"
+  - https://t.me/YSR_TOKEN
+  - https://x.com/ysr_token
+  - https://instagram.com/ysr.token
+  - https://vk.com/ysr_token
+  - https://www.youtube.com/@YSRCommunity
