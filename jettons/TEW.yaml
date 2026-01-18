@@ -1,0 +1,56 @@
+# TechEscrow (₮EW) DAO Governance Token Verification Request
+# Submit to: https://github.com/ton-blockchain/ton-assets
+
+name: TechEscrow
+symbol: TEW
+address: EQDcfWLF6mBM9C2ISiNQp5AT6xfQzzcSKWA4Rbq5VMi3t9ic
+decimals: 9
+image: https://raw.githubusercontent.com/user/repo/main/tew-logo.png
+
+# Social Links
+social:
+  - telegram: https://t.me/TechEscrow
+  - website: https://techescrow.app/
+  - twitter: https://x.com/satoshi_wkkwu
+
+# Description
+description: >
+  ₮EW is the official DAO governance token of TechEscrow platform.
+  
+  【Token Purpose - DAO Governance】
+  - This token is designed as a DAO governance token for TechEscrow company
+  - Token holders have voting rights on company decisions
+  - Token holders receive profit sharing from platform revenue
+  - Holding ₮EW equals holding equity in TechEscrow
+  
+  【Company Significance】
+  - TechEscrow is a legitimate escrow platform for technology services
+  - This token represents significant value to our company's future development
+  - We are committed to building a transparent and compliant DAO structure
+  
+  【Identity Verification】
+  - The founder is willing to provide real-name identity verification (ID card)
+  - We have previously submitted identity verification via email
+  - We can re-submit identity documents upon request to prove legitimacy
+  
+  【Platform Links】
+  - Official Website: https://techescrow.app/
+  - Telegram Channel: https://t.me/TechEscrow
+  - Telegram Bot: https://t.me/TechEscrow_bot
+  - Telegram Mini App: https://t.me/TechEscrow_bot/TEs
+  - Twitter/X: https://x.com/satoshi_wkkwu
+
+# Token Economics
+total_supply: 2100000
+use_case: DAO governance, voting rights, profit sharing, platform equity
+
+# Verification Note
+verification_note: >
+  We are a legitimate company willing to provide full identity verification.
+  The founder can submit government-issued ID for verification purposes.
+  Please contact us if additional documentation is required.
+
+# Contact
+contact:
+  telegram: https://t.me/TechEscrow
+  email: (your email if you want to add)

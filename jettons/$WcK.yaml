@@ -1,0 +1,25 @@
+name: "WcK Token"
+description: "WcK Token is a utility token built on the TON blockchain following the Jetton standards (TEP-74, TEP-89), developed by a professional team from Hong Kong. The token functions as both a utility token within the TON ecosystem and a development incentive for Telegram Mini Apps builders. It enables seamless transactions, developer rewards, and user interactions within TON-based applications. As an integral part of the growing TON ecosystem in Hong Kong, WcK Token aims to lower the barrier for developers to create innovative decentralized applications on Telegram's platform while enhancing user engagement and adoption. The token is designed to be developer-friendly with optimized smart contract performance and comprehensive documentation."
+address: "EQCEgMQNgBgY3gu2fqcw5s_KyVog8gc9C46pfRa6MBd4ukzg"
+symbol: "WcK"
+decimals: 9
+max_supply: "30000000"
+total_supply: "30000000"
+circulating_supply: "30000000"
+image: "https://i.postimg.cc/mrJ7Pv81/WcKlogo.png"
+social:
+  - "https://t.me/WcK669"
+  - "https://t.me/WcK_669bot"
+catalogs:
+  - "development"
+  - "utility"
+  - "social"
+category: "Development & Utility"
+keywords:
+  - "WcK"
+  - "Mini App"
+  - "Developer"
+  - "Hong Kong"
+  - "TON"
+  - "Telegram"
+launch_date: "2024-03"
