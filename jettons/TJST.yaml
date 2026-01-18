@@ -1,0 +1,10 @@
+name: TON TJS
+description: Cryptocurrency for transfers from Tajikistan to Russia and China and back. Stable coin, 1 somoni-1 TJST
+address: 0:c08acec04fcca78cb959c1aeae8b82686584a9a75df7bc5ae30892fd5a717c2d
+decimals: 6
+image: "https://tjst.pages.dev/TJSTpic.png"
+symbol: TJST
+websites:
+  - "https://tjst.pages.dev"
+social:
+  - "https://t.me/TJSTcrypto"
