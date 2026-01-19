@@ -1,0 +1,12 @@
+{
+  "name": "ONTO",
+  "symbol": "ONTO",
+  "description": "Created to support good ideas on © ONTOnew.com!",
+  "image": "https://raw.githubusercontent.com/valmes001/ontonew/main/logo.png",
+  "buttons": [
+    {
+      "label": "ONTOnew",
+      "uri": "https://ontonew.com"
+    }
+  ]
+}
