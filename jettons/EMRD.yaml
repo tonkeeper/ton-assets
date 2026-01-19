@@ -1,0 +1,10 @@
+name: Emerald Token
+symbol: EMRD
+address: EQDixzzOGdzTsmaVpqlOG9pBUv95hTIqhJMXaHYFRnfQgoXD
+decimals: 9
+image: https://greeny187.github.io/EmeraldContentBots/assets/emrd.png
+description: Emerald (EMRD) – Token aus dem Emerald Ökosystem.
+websites:
+  - https://greeny187.github.io/EmeraldContentBots/
+social:
+  - https://t.me/emeraldecosystem
