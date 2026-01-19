@@ -2306,6 +2306,25 @@
   "symbol": "DDOG"
  },
  {
+  "address": "0:ff67ee2a9b982222070213309f8a8d6aeac8f3cf088cb265087e31a5bb919676",
+  "decimals": 9,
+  "description": "Liquidity pool token for TON and CODEX ARCANUM on DeDust DEX",
+  "image": "https://cdn.codex.pm/images/wallets/dedust-lp-codex-ton.png",
+  "name": "DeDust Pool: CODEX/TON LP",
+  "social": [
+   "https://twitter.com/codexarcanum",
+   "https://t.me/CodexSouL",
+   "https://t.me/CodexPulse",
+   "https://t.me/CodexGateBot",
+   "https://t.me/CodexGateBot/codexArcanum"
+  ],
+  "symbol": "CODEX/TON LP",
+  "websites": [
+   "https://dedust.io/pools/EQD_Z-4qm5giIgcCEzCfio1q6sjzzwiMsmUIfjGlu5GWdpg7",
+   "https://codex.pm"
+  ]
+ },
+ {
   "address": "0:b6058ddf5e8d8a9f461cd4c616f697bc3c3c78a53dd7f3b95026e2665e09e9e9",
   "description": "DEXAPES \u2013 the only meme coin on TON with a transparent launch and solid tokenomics. Our goal is DAIF investment fund.",
   "image": "https://raw.githubusercontent.com/DEXAPES/website/dfeceeb14588704568b6ec1ae0be5537bcaea879/256\u0445256.png",
@@ -2351,7 +2370,7 @@
  {
   "address": "0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4",
   "description": "Owled Didi is an animated Telegram sticker pack featuring a cute purple owl. It is also shown on the Telegram home page.",
-  "image": "https://ipfs.io/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
+  "image": "https://fuchsia-patient-ocelot-485.mypinata.cloud/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
   "name": "Owled Didi",
   "social": [
    "https://t.me/owled_didi_portal",
@@ -4497,6 +4516,21 @@
   ]
  },
  {
+  "address": "0:4e0b3d5cfc09a760e7f77d72735d1e450394e516e639a13d3e02c71b91be24f9",
+  "decimals": 9,
+  "description": "IVPAY is a utility payment token used within the IVPAY ecosystem for crypto payments, merchant settlements, and blockchain-based financial services.",
+  "image": "https://ivpay.io/favicon.ico",
+  "name": "IVPAY",
+  "social": [
+   "https://t.me/ivpay_io",
+   "https://x.com/ivpay_io"
+  ],
+  "symbol": "IVPAY",
+  "websites": [
+   "https://ivpay.io"
+  ]
+ },
+ {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
   "decimals": 9,
   "image": "https://i.ibb.co/gZQ4Jqg/john-doge-transparent.png",
@@ -4904,6 +4938,21 @@
   "symbol": "LIBRA",
   "websites": [
    "https://rebalancer.pro/libration"
+  ]
+ },
+ {
+  "address": "0:27cb87a1bec42714f8ef0006f815dd45eb7f0f8f124cfa0b68b8a5885f7886d2",
+  "description": "LID is a fun and interactive crypto project built around one simple idea. You vote. You predict. And if you get it right, you earn.",
+  "name": "Likes and Dislikes",
+  "social": [
+   "https://t.me/Likes_and_Dislikes",
+   "https://t.me/Likes_and_Dislikes_Chat",
+   "https://x.com/like_an_dislike",
+   "https://youtube.com/@likes_and_dislikes_coin"
+  ],
+  "symbol": "LID",
+  "websites": [
+   "https://likesdislikes.online"
   ]
  },
  {
@@ -6430,6 +6479,7 @@
   ],
   "symbol": "$PEACH",
   "websites": [
+   "https://lifeisapeach.top/",
    "https://linktr.ee/LifeisaPeach"
   ]
  },
@@ -6469,13 +6519,15 @@
  },
  {
   "address": "0:01b522d2ceb00e21258f7c88c1976566792b6433578768fad4c514e3f2663ef6",
-  "description": "The primary token of the Phoenix Paw project.",
-  "image": "https://raw.githubusercontent.com/PhoenixPaw/PhoenixPaw/e3c80dbb36c5cc64f0aee1f913d99785fdb76245/photo_2024-12-28_19-02-35.jpg",
-  "name": "Phoenix Paw",
+  "description": "AI-powered ecosystem of services for earning, work, games, and entertainment.",
+  "image": "https://raw.githubusercontent.com/PhoenixPaw/PhoenixPaw/refs/heads/main/ava.jpg",
+  "name": "Phoenix",
   "social": [
    "https://twitter.com/PawPhoenixoff",
-   "https://t.me/PhoenixPaw",
-   "https://phoenixpaw.io"
+   "https://t.me/+5gUYq_iIpi82NDVi",
+   "https://phoenixpaw.io",
+   "https://t.me/+MQzPg8BtXeljZjJk",
+   "https://t.me/+Nk6qryrz6EkxZWRk"
   ],
   "symbol": "PHXPW"
  },
@@ -7341,6 +7393,25 @@
   "symbol": "SEMZ",
   "websites": [
    "https://www.semz1.com/"
+  ]
+ },
+ {
+  "address": "0:8f794cca9279de32503551b8af10bc5df2515403fa1a397f66f4f3dce1dea51d",
+  "decimals": 9,
+  "description": "SerpoCoin is a DeFi Web3 utility token built on the TON blockchain, inspired by the legendary Serpo exchange \u2014 a story of connection between humans and an advanced alien civilization.",
+  "image": "https://serpocoin.io/logo.png",
+  "name": "SerpoCoin",
+  "social": [
+   "https://t.me/serpocoinchannel",
+   "https://x.com/serpocoin",
+   "https://www.tiktok.com/@serpocoinofficial",
+   "https://www.facebook.com/share/1CxUHMfBCr/?mibextid=wwXIfr",
+   "https://www.instagram.com/serpocoin",
+   "https://youtu.be/IGXxhVg_eKo"
+  ],
+  "symbol": "SERPO",
+  "websites": [
+   "https://serpocoin.io"
   ]
  },
  {
@@ -9117,6 +9188,20 @@
   "symbol": "TRT",
   "websites": [
    "https://tryton-on-ton.com/"
+  ]
+ },
+ {
+  "address": "0:89928f462604157349faca13b7a5924fd3e3933523c901c10102d7f007697c06",
+  "decimals": 9,
+  "description": "UCB - \u044d\u0442\u043e \u0441\u0438\u043c\u0432\u043e\u043b \u043d\u0430\u0448\u0435\u0433\u043e \u043a\u0440\u0438\u043f\u0442\u043e-\u0431\u0440\u0430\u0442\u0441\u0442\u0432\u0430. \u041c\u044b \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432 \u0438 \u043d\u043e\u0432\u0430\u0442\u043e\u0440\u043e\u0432, \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0445 \u0446\u0435\u043b\u044c\u044e \u043f\u043e\u043a\u043e\u0440\u0438\u0442\u044c \u043c\u0438\u0440 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442 \u0432\u043c\u0435\u0441\u0442\u0435",
+  "image": "https://bidask.finance/api/image/download/358f77ea7bd33d8ada403048f36c211a",
+  "name": "United Crypto Boys",
+  "social": [
+   "https://t.me/United_Crypto_Boys"
+  ],
+  "symbol": "UCB",
+  "websites": [
+   "https://unitedcryptoboys.online"
   ]
  },
  {
@@ -15999,6 +16084,11 @@
   "address": "0:c1e4cbd6632271079c0a16729bfafaa227679c1e4a95fad55249d2d0fe26c958",
   "name": "SingularV TON Tonstakers",
   "symbol": "svTON"
+ },
+ {
+  "address": "0:561caa44c7e9755450f02c27e2f302a4a8ce08dfca54af4800509b492eacb1d3",
+  "name": "Re7 USDT",
+  "symbol": "Re7USDT"
  },
  {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",

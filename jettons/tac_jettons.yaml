@@ -74,3 +74,7 @@
 - name: SingularV TON Tonstakers
   address: EQDB5MvWYyJxB5wKFnKb-vqiJ2ecHkqV-tVSSdLQ_ibJWOVS
   symbol: svTON
+
+- name: Re7 USDT
+  symbol: Re7USDT
+  address: EQBWHKpEx-l1VFDwLCfi8wKkqM4I38pUr0gAUJtJLqyx0-72
