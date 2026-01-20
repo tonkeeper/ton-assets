@@ -1917,6 +1917,25 @@
   ]
  },
  {
+  "address": "0:9e88177901c4571188b9cadc257a07bcba95a5daaeb3a0668e46961f6c8424af",
+  "decimals": 9,
+  "description": "Liquidity pool token for CODEX ARCANUM and the DeDust CODEX/TON LP on STON.fi DEX. This token represents shares in the CODEX/LP pool, enabling multi-layered liquidity provisioning across the Codex Arcanum ecosystem.\n",
+  "image": "https://meta.ston.fi/lp/v1/img/0:9e88177901c4571188b9cadc257a07bcba95a5daaeb3a0668e46961f6c8424af.png",
+  "name": "CODEX-LP LP",
+  "social": [
+   "https://twitter.com/codexarcanum",
+   "https://t.me/CodexSouL",
+   "https://t.me/CodexPulse",
+   "https://t.me/CodexGateBot",
+   "https://t.me/CodexGateBot/codexArcanum"
+  ],
+  "symbol": "CODEX-LP LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQCeiBd5AcRXEYi5ytwlege8upWl2q6zoGaORpYfbIQkr8rV",
+   "https://codex.pm"
+  ]
+ },
+ {
   "address": "0:b0b1c8ec760292c8285ac7e28c97a40efce33ec8bbbc5558a9935a6761edc164",
   "description": "SOS HAS BEEN ACTIVATED From TON618 event horizon, an ancient signal echoes through CODEX ARCANUM. 24 cryptographic puzzles await. Each fragment holds cosmic secrets older than galaxies. Navigate through Telegram mini-apps to unlock dimensional portals and cosmic secrets. The ultimate prize A TonKeeper vault with CODEX and TON token - CODEX not just currency, but crystallized fragments of universal truth. The cosmic journey begins now",
   "image": "https://storage.dyor.io/jettons/images/1758740967/75957318.png",
@@ -7594,6 +7613,20 @@
   "symbol": "SMERKS",
   "websites": [
    "https://smerks.xyz"
+  ]
+ },
+ {
+  "address": "0:42ebf51e7a0dff6840fe88cd8d95ed127a15e6a26f1fec5a4f91230f8dc66c0c",
+  "description": "\ud83d\udca3 Smony, Dive into the Gamble \u2013 Where Lucks Wild Ride Meets High-Stakes Mayhem! Smony, Pure Chance, Total Thrill \u2013 Bet Big on Chaos and Let Fortune Decide! Smony, Risk It All in the Random Realm \u2013 Lady Lucks Playground for the Brave (and Bankrupt) Powered by dmsadeqi - AKO Team",
+  "image": "https://github.com/user-attachments/assets/67402149-3b8d-4292-9258-b44e58e3a461",
+  "name": "SMONY",
+  "social": [
+   "https://t.me/smonydev",
+   "https://t.me/smony_dev_bot"
+  ],
+  "symbol": "SMONY",
+  "websites": [
+   "https://smony.io"
   ]
  },
  {
