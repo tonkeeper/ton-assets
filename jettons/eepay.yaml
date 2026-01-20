@@ -1,0 +1,7 @@
+name: eepay
+symbol: php
+address: EQBb7Aj-zwkijb3zONs5MFWc2i5ebJ-urgidpVD_PDyAVPuc
+description: Pay your bill in the Philippines.
+image: "https://eepay.ph/eepay--logo.png"
+websites:
+  - "https://ton.eepay.ph/"
