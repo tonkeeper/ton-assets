@@ -1,0 +1,12 @@
+name: HUNCH
+symbol: HNCH
+address: EQD529CGTmX1Tgcsn3vYBfUPKrVdgermb1T8o5MKLGOGdHpb
+decimals: 9
+image: "https://raw.githubusercontent.com/operalag/hunch-oracle-launchpad/main/src/assets/hnch-logo-coin.jpeg"
+description: |
+  HUNCH Oracle Protocol - Decentralized prediction markets on TON.
+  Stake HNCH to participate in governance and earn rewards from market fees.
+websites:
+  - "https://hunch-mainnet.vercel.app"
+social:
+  - "https://github.com/operalag/hunch-oracle-launchpad"
