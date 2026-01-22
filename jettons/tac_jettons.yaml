@@ -78,3 +78,7 @@
 - name: Re7 USDT
   symbol: Re7USDT
   address: EQBWHKpEx-l1VFDwLCfi8wKkqM4I38pUr0gAUJtJLqyx0-72
+
+- name: Re7 WETH
+  symbol: Re7WETH
+  address: EQDTtz1yCLca5Sy2k91s3TRd9Wn6BnLWoVloysSsiyXq0FZ9
