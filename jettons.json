@@ -16124,6 +16124,11 @@
   "symbol": "Re7USDT"
  },
  {
+  "address": "0:d3b73d7208b71ae52cb693dd6cdd345df569fa0672d6a15968cac4ac8b25ead0",
+  "name": "Re7 WETH",
+  "symbol": "Re7WETH"
+ },
+ {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
   "description": "Spin off ARNI",
   "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
