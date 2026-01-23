@@ -9943,6 +9943,35 @@
   ]
  },
  {
+  "address": "0:085625e58ae4453452ba5199de4498c3a91b7856657f85b87c9034aa0c570842",
+  "decimals": 9,
+  "description": "Liquidity pool token for Zcoin TON and Proxy TON on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:085625e58ae4453452ba5199de4498c3a91b7856657f85b87c9034aa0c570842.png",
+  "name": "LP Token for ZCOIN-pTON",
+  "social": [
+   "https://t.me/zcoin_to",
+   "https://t.me/zcointon"
+  ],
+  "symbol": "ZCOIN-pTON LP",
+  "websites": [
+   "https://ston.fi/"
+  ]
+ },
+ {
+  "address": "0:2088ea2211c3e41827f28271f92d5868e0caae436b20245cc25f2ccf97e7eb52",
+  "description": "ZCOIN: Token for Z Network ecosystem.",
+  "image": "https://zcoin-ton.github.io/website/logo.png",
+  "name": "Zcoin TON",
+  "social": [
+   "https://t.me/zcoin_to",
+   "https://t.me/zcointon"
+  ],
+  "symbol": "ZCOIN",
+  "websites": [
+   "https://zcoin.to"
+  ]
+ },
+ {
   "address": "0:bd0db04a122ea06f39fce5710d0c34e5bbd99644b301f1c0659b7d45f3473476",
   "description": "Token for ZEN ecosystem",
   "image": "https://zencoin.dev/coin.png",
