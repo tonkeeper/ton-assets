@@ -82,3 +82,7 @@
 - name: Re7 WETH
   symbol: Re7WETH
   address: EQDTtz1yCLca5Sy2k91s3TRd9Wn6BnLWoVloysSsiyXq0FZ9
+
+- name: Re7 cbBTC
+  symbol: Re7cbBTC
+  address: EQB7Kg2YgVwJiL0mfET44LQLrdDcMLMcxhzh5ji-5BzdswJA
