@@ -16170,6 +16170,11 @@
   "symbol": "Re7WETH"
  },
  {
+  "address": "0:7b2a0d98815c0988bd267c44f8e0b40badd0dc30b31cc61ce1e638bee41cddb3",
+  "name": "Re7 cbBTC",
+  "symbol": "Re7cbBTC"
+ },
+ {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
   "description": "Spin off ARNI",
   "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
