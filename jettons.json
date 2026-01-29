@@ -16175,6 +16175,11 @@
   "symbol": "Re7cbBTC"
  },
  {
+  "address": "0:0f32789bd5e82194d43d4e72d9282314b18d50278ad0ee9c81ecfbc65b130879",
+  "name": "Midas Re7 Yield",
+  "symbol": "mRe7YIELD"
+ },
+ {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
   "description": "Spin off ARNI",
   "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
