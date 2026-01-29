@@ -1,0 +1,9 @@
+name: Penny token
+description: In-game currency for TON Dungeon game
+image: https://tondungeon.com/bot/assets/ui/penny.png
+address: EQD4bypz_Mbg8t8IVerNv4xC4IXcIiOhE9lZ02IO78sn08OC
+symbol: $PENNY
+websites:
+  - "https://tondungeon.com"
+social:
+  - "https://t.me/tondungeon_news"
