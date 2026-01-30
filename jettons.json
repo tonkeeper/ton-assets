@@ -4013,6 +4013,20 @@
   "symbol": "GH"
  },
  {
+  "address": "0:9ce82d18d82b9dc0ac02caa260b5697ea7a9ac3a99c983da15ce7775f63a3ca8",
+  "description": "",
+  "image": "https://storage.googleapis.com/memhash-general/memhash/fca0614f-b0f6-4efe-9084-dc89da80226a_1757088264.jpg",
+  "name": "GhostChain",
+  "social": [
+   "https://t.me/memhash",
+   "https://x.com/memhash_app"
+  ],
+  "symbol": "GHOST",
+  "websites": [
+   "https://memhash.org/"
+  ]
+ },
+ {
   "address": "0:cb8fadb1b45493694aed6334314cf3b386281078fc092d646ef86a6f6d34265b",
   "description": "Gifties is a unique, modern and convenient service built on TON blockchain smart contracts, thanks to which users can send and receive digital gifts to their friends literally in two clicks directly in Telegram.",
   "image": "https://cdn.blum.codes/a3cf17ac-ab8c-4b03-a946-f90df3647c49/a574a7ce-65e3-44b5-8b20-bc53d8f41eee",
