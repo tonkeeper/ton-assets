@@ -1,0 +1,18 @@
+name: EVOS
+symbol: EVOS
+decimals: 9
+address: EQDWNVUVH2hl61skbxt_g1BhY21hPySuc0nXHXCKzZdyaLED
+description: >
+  EVOS is a utility token for the EVOS ecosystem, used across IT services,
+  digital platforms, applications, and games.
+website: https://www.evoscoin.com
+image: https://www.evoscoin.com/evos.png
+social:
+  - type: telegram
+    url: https://t.me/evos_coin
+  - type: twitter
+    url: https://x.com/evos_coin
+  - type: discord
+    url: https://discord.gg/rGpxRF4a6E
+  - type: email
+    url: mailto:support@evoscoin.com
