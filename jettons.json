@@ -10066,7 +10066,7 @@
  },
  {
   "address": "0:0343a25c2b434cb8d339bb009c4bd6e3727d914ef731608663365848872c14ad",
-  "description": "Affluent/Lending-Vault/TON-1/By-SingularV",
+  "description": "Affluent/Lending-Vault/TON-1",
   "name": "TON Lending Vault",
   "social": [
    "https://x.com/AffluentOrg",
@@ -10080,7 +10080,7 @@
  },
  {
   "address": "0:edc50aa4808450411e615a5ad0c6224cb4bc23477ac460d5016c472f3c3c02b3",
-  "description": "Affluent/Strategy-Vault/TON-Multiply-1/By-SingularV",
+  "description": "Affluent/Strategy-Vault/TON-Multiply-1",
   "name": "TON Multiply Vault",
   "social": [
    "https://x.com/AffluentOrg",
@@ -10094,7 +10094,7 @@
  },
  {
   "address": "0:06b609ebd46d170e294651170e077a54865f8ba3ffc9f936893f42b87b2f1cb9",
-  "description": "Affluent/Lending-Vault/USDT-1/By-SingularV",
+  "description": "Affluent/Lending-Vault/USDT-1",
   "name": "USDT Lending Vault",
   "social": [
    "https://x.com/AffluentOrg",
@@ -10108,7 +10108,7 @@
  },
  {
   "address": "0:73488b620b5be90d411fb437960f28e032eb5fe8223399ed7a8339fd88d96896",
-  "description": "Affluent/Strategy-Vault/USDT-Multiply-1/By-SingularV",
+  "description": "Affluent/Strategy-Vault/USDT-Multiply-1",
   "name": "USDT Multiply Vault",
   "social": [
    "https://x.com/AffluentOrg",
@@ -10129,6 +10129,11 @@
   "address": "0:68c174edc434d230425bac821c63322f49767d5791d6d8ea368925b4721533a1",
   "name": "Gold Multiply Vault",
   "symbol": "affGOLDm"
+ },
+ {
+  "address": "0:63a5f1b97f314449625be8ae44763bd8ff28456ba7f185cc2455f7f48e52b5cd",
+  "name": "Sentora Vault in Affluent",
+  "symbol": "affSENTORA"
  },
  {
   "address": "0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d",
