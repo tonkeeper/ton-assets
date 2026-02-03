@@ -1,15 +1,22 @@
-```yaml
 name: BehToken
 symbol: BEHT
 address: EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX
+decimals: 9
 image: "https://cdn.beh.land/token/logo.jpg"
 
 
 description:
-BEHT powers BehLand — a Web3 learning ecosystem where studying, analyzing, and teaching turn into real rewards.
+  BehLand is a Web3 learning ecosystem designed to transform education into real economic value.
+  The platform enables users to learn, analyze, and teach financial and blockchain knowledge while
+  earning tangible rewards through a tokenized and NFT-based system.
+
+  BehLand’s mission is to empower individuals with practical skills, financial literacy, and true
+  ownership over their achievements. By combining structured education, transparent tokenomics,
+  and on-chain credentials, the project aims to build a sustainable knowledge-driven economy where
+  growth, contribution, and learning are directly rewarded.
 
 websites:
-- https://beh.land/
+- https://beh.land
 
 social:
 - https://t.me/BehLand_Official
