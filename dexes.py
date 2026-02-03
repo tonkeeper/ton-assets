@@ -1,4 +1,5 @@
 import logging
+import yaml
 from typing import List
 
 import requests
@@ -67,8 +68,45 @@ def __get_dedust_assets() -> List[Asset]:
         return list()
     data = response.json()
     assets = list()
+    b_addrs = {"EQBiyZMUXvdnRYFUk3_R5uPdsR2ROI9mes_1S-jL1tIQDhDK"}
     for item in data:
-        if not item.get("address"):
+        addr = item.get("address")
+        if not addr or addr in b_addrs:
             continue
         assets.append(Asset(**item))
     return assets
+
+
+def __get_backed_assets() -> List[Asset]:
+    url = "https://api.backed.fi/api/v1/token"
+    response = requests.get(url)
+    if response.status_code != 200:
+        logging.error("failed to get dedust assets")
+        return list()
+    data = response.json()
+    assets = list()
+    for item in data['nodes']:
+        ton_addr = ""
+        for d in item["deployments"]:
+            if d["network"].lower() == "ton":
+                ton_addr = d["address"].removeprefix("ton:")
+        if ton_addr == "":
+            continue
+        assets.append(Asset(name=item["name"], address=ton_addr, symbol=item["symbol"]))
+
+    return assets
+
+
+def update_stonfi_routers():
+    response = requests.get("https://api.ston.fi/v1/routers")
+    if response.status_code != 200:
+        logging.error("failed to update stonfi routers")
+        return
+    data = response.json()
+    routers = list()
+    for item in data['router_list']:
+        routers.append({"address": item["address"], "name": "STON.fi DEX"})
+    if len(routers) == 0:
+        return
+    with open("accounts/ston.yaml", "w") as f:
+        yaml.safe_dump(routers, f, sort_keys=True, allow_unicode=True)
