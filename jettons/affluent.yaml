@@ -18,7 +18,7 @@
     - "https://x.com/AffluentOrg"
     - "https://t.me/affluent"
 - name: TON Lending Vault
-  description: Affluent/Lending-Vault/TON-1/By-SingularV
+  description: Affluent/Lending-Vault/TON-1
   address: EQADQ6JcK0NMuNM5uwCcS9bjcn2RTvcxYIZjNlhIhywUrfBN
   symbol: affTONl
   websites:
@@ -28,7 +28,7 @@
     - "https://x.com/AffluentOrg"
     - "https://t.me/affluent"
 - name: TON Multiply Vault
-  description: Affluent/Strategy-Vault/TON-Multiply-1/By-SingularV
+  description: Affluent/Strategy-Vault/TON-Multiply-1
   address: EQDtxQqkgIRQQR5hWlrQxiJMtLwjR3rEYNUBbEcvPDwCs1Ng
   symbol: affTONm
   websites:
@@ -38,7 +38,7 @@
     - "https://x.com/AffluentOrg"
     - "https://t.me/affluent"
 - name: USDT Lending Vault
-  description: Affluent/Lending-Vault/USDT-1/By-SingularV
+  description: Affluent/Lending-Vault/USDT-1
   address: EQAGtgnr1G0XDilGURcOB3pUhl-Lo__J-TaJP0K4ey8cuSaW
   symbol: affUSDTl
   websites:
@@ -48,7 +48,7 @@
     - "https://x.com/AffluentOrg"
     - "https://t.me/affluent"
 - name: USDT Multiply Vault
-  description: Affluent/Strategy-Vault/USDT-Multiply-1/By-SingularV
+  description: Affluent/Strategy-Vault/USDT-Multiply-1
   address: EQBzSItiC1vpDUEftDeWDyjgMutf6CIzme16gzn9iNlolpcY
   symbol: affUSDTm
   websites:
@@ -63,3 +63,6 @@
 - address: "EQBowXTtxDTSMEJbrIIcYzIvSXZ9V5HW2Oo2iSW0chUzod3d"
   symbol: affGOLDm
   name: Gold Multiply Vault
+- name: Sentora Vault in Affluent
+  address: EQBjpfG5fzFESWJb6K5EdjvY_yhFa6fxhcwkVff0jlK1za82
+  symbol: affSENTORA

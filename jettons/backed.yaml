@@ -40,12 +40,18 @@
 - address: 0:574ec92b5d191043d24eec479a557c020ffa619ebccd83d11d37ddbadff6444d
   name: Bit Digital xStock
   symbol: BTBTx
+- address: 0:e451ccac3fc51619124c212fd7030f35d92040d4257df543e3dadcf71d09c1ba
+  name: Bitgo xStock
+  symbol: BTGOx
 - address: 0:eac901e4ee6d516e9fd137ba98ad7bc24bf49364660c89b78cc9b06570f83822
   name: Comcast xStock
   symbol: CMCSAx
 - address: 0:af9383aada5e58b6cfd2ed0e23d3c7c1f45b73c77218fbb508d40aacb322860e
   name: Coinbase xStock
   symbol: COINx
+- address: 0:1737b0a707817fed06664da47350e228254f32af7460787430fc264a9284bb91
+  name: Global X Copper Miners xStock
+  symbol: COPXx
 - address: 0:7e44fb400107854865b78088f4cd1121e0df763065dfa85cf101ce9346fbbece
   name: Circle xStock
   symbol: CRCLx
@@ -112,6 +118,9 @@
 - address: 0:03fa256654a5bc7eb0c360f77cd0dfbb772f26d8b7d4f272bff394de1e45d613
   name: Coca-Cola xStock
   symbol: KOx
+- address: 0:5711b34897c310444baee4dc954261b1c366664e42c25320a4cf8faebbba0550
+  name: KRAQ xStock
+  symbol: KRAQx
 - address: 0:c9693d81da782b37b3b748b4718e3d5767b03cfa10076c8b4aa42f02ab80f22a
   name: Linde xStock
   symbol: LINx
@@ -157,6 +166,9 @@
 - address: 0:55f9938f374b2afe400451e189dd04ef96557f6acb3679dfb003908d9a3b3b8b
   name: Oracle xStock
   symbol: ORCLx
+- address: 0:2e91b550068168d47056617011d1b38b20c9b3b4a73319f07dca94d2578e5e9b
+  name: abrdn Physical Palladium Shares xStock
+  symbol: PALLx
 - address: 0:934fe0b9277740fd697771e3b84653effa0b90d6a3c9eaffa825ecb1ad37efaa
   name: PepsiCo xStock
   symbol: PEPx
@@ -172,12 +184,21 @@
 - address: 0:641aae75a6a24cf0ba3f9e4298d507db666e33f7e37ee0c184d25f249b0f8143
   name: Philip Morris xStock
   symbol: PMx
+- address: 0:c24abc2b64f7b8656f8e054d6fc716a54710dea332a5fe653d3a7863f9a994c0
+  name: abrdn Physical Platinum Shares xStock
+  symbol: PPLTx
 - address: 0:9eeaeb70a913a6acefdc39452f54d624bf279c5237ee82dba0be153095561212
   name: Nasdaq xStock
   symbol: QQQx
 - address: 0:279802ac6bf9825e879f8f379c9a35cc9ede4ea944634fe3850f98724f537784
   name: Schwab International Equity xStock
   symbol: SCHFx
+- address: 0:5478361f71bedb24b8bcdb4c748932cdaadec59b04f207520bda4c24eace2b53
+  name: Brera xStock
+  symbol: SLMTx
+- address: 0:92380750fb3d1bef75a4a081cabec116f00ae76d5b517ce84f22e986e4fa6df1
+  name: iShares Silver Trust xStock
+  symbol: SLVx
 - address: 0:757f204003da900cfe8b106685ddc6d4f976ebfa9e844816469ea94790720700
   name: SP500 xStock
   symbol: SPYx
