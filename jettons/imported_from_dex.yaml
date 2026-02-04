@@ -1454,6 +1454,9 @@
 - address: 0:8e6e1e3e65a8213af6bcb82cff00c327be27ccdcf4be129a542442505d79e53f
   name: Whiskers
   symbol: WHISK
+- address: 0:babc2d8ec731bb5deef5ffcce03a8fba1d99eb568b2bfc92fbbf6d5c75584870
+  name: WHITE
+  symbol: WHITE
 - address: 0:9c1101fd38766dca0269580685898bbe3a8115423489cfa0f2ff453d844c92c8
   name: WINKO
   symbol: WINKO
