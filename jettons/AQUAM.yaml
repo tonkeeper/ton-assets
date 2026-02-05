@@ -1,0 +1,11 @@
+name: Aquameme
+symbol: AQUAM
+address: EQA71L6_7UY_aENYSZ_cfbFyUz8SsufxTWyN5Ac80BtX8W9d
+decimals: 9
+description: "Aquameme is a utility-focused asset on the TON blockchain with a vision to tokenize everyday utilities through the AquaCoinX Terminal."
+image: "https://aquameme.vercel.app/logo.png"
+social:
+  - "https://t.me/aquacoinx"
+  - "https://x.com/aquacoinx"
+websites:
+  - "https://aquameme.vercel.app"
