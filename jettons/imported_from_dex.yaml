@@ -526,6 +526,9 @@
 - address: 0:1656fdb1eadc6873935e97d0a5b5b7d848130e39fd11f6c6fb1a7a98fb89dc9a
   name: Holy Coin
   symbol: HOLY
+- address: 0:75d56b54c4ae037fca5c298399dc77c257bd0b8e5e0b115b4aa371abffdb650f
+  name: Hoolicoin
+  symbol: HOOLI
 - address: 0:46b8b39107b08c1395d1f5c768c5acd13055df55cdc7f0764bceaeb1d415ca6d
   name: Hootcoin
   symbol: HOOT
@@ -1060,6 +1063,9 @@
 - address: 0:db8aa9762abf6d1d37de0d19abe6c3878cd5c5921a66de9930aba36b98e9c88a
   name: Tony Tontana
   symbol: SCAR
+- address: 0:4a0ff8cac3d697f98305e3c2232065d2b6e72b64e1546cbbf13281c266bb3b9f
+  name: Scuffy
+  symbol: SCUFFY
 - address: 0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719
   name: SEED
   symbol: SEED
@@ -1388,6 +1394,9 @@
 - address: 0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024
   name: Us Usach
   symbol: USACH
+- address: 0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496
+  name: Upstream Lab
+  symbol: USL
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
@@ -1445,6 +1454,9 @@
 - address: 0:8e6e1e3e65a8213af6bcb82cff00c327be27ccdcf4be129a542442505d79e53f
   name: Whiskers
   symbol: WHISK
+- address: 0:babc2d8ec731bb5deef5ffcce03a8fba1d99eb568b2bfc92fbbf6d5c75584870
+  name: WHITE
+  symbol: WHITE
 - address: 0:9c1101fd38766dca0269580685898bbe3a8115423489cfa0f2ff453d844c92c8
   name: WINKO
   symbol: WINKO

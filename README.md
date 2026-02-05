@@ -91,6 +91,9 @@ Name           | Address
 [Totemancer: Badges](https://tonviewer.com/0:dfdb68e5d54fe1d1d4417912266a4777de16752e3f99c669e567272a8732633d) | EQDf22jl1U_h0dRBeRImakd33hZ1Lj-ZxmnlZycqhzJjPfxx
 [Totemancer: PFPs](https://tonviewer.com/0:7c66628f8cbfec8779f857a823d6840d1ea956f4cf90e7c022100da75c16316b) | EQB8ZmKPjL_sh3n4V6gj1oQNHqlW9M-Q58AiEA2nXBYxaw1G
 [Totemancer: Totems](https://tonviewer.com/0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2) | EQBfThrlgdINBPdzVi_yLjCioYZqc8XOBYgePglglLmCwmrc
+[Unstoppable Tribe from ZarGates](https://tonviewer.com/0:463685d77d0474ec774386d92622ed688d34f07230741211d838c487dcfeec64) | EQBGNoXXfQR07HdDhtkmIu1ojTTwcjB0EhHYOMSH3P7sZGJR
+[ZarGates GiftBoxes](https://tonviewer.com/0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c) | EQD1YVbwG5dNV9lZgz18F4cjBm5iqYXyeUqdGe21JXjsLCIo
+[Zargates StickerBoxes](https://tonviewer.com/0:733d5b87a1247f425045b72262c837c974acbe769dac3816d8d2cd01052cda32) | EQBzPVuHoSR_QlBFtyJiyDfJdKy-dp2sOBbY0s0BBSzaMps7
 
 
 ## Structure
