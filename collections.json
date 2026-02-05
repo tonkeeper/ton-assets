@@ -14,8 +14,56 @@
   ]
  },
  {
+  "address": "0:94112d6c7eeee810356257b5ef9d6f3222de8a93e66767e046e5418b9e042554",
+  "name": "Bidask Protocol: Launch Collection",
+  "social": [
+   "https://x.com/BidaskProtocol",
+   "https://t.me/bidask"
+  ],
+  "websites": [
+   "https://bidask.finance/en/"
+  ]
+ },
+ {
   "address": "0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55",
   "name": "Booli Reborn"
+ },
+ {
+  "address": "0:b679515cfc1f44d7a314609c65216d243939142794b054a7b01655cccec69786",
+  "name": "Crouching Tiger"
+ },
+ {
+  "address": "0:f12c931f1c750f1453718a73ca1b1fcbe05fc94d4261d3ca157c4e710a8d50fc",
+  "name": "GiftBox Crouching Tiger"
+ },
+ {
+  "address": "0:9be8082c3a944e1618b613389737e393d201bef9114a045a565224d1ff53c0d1",
+  "name": "StickerBox Crouching Tiger"
+ },
+ {
+  "address": "0:0e56583d0f14c409b2037f7e2ee786f23c99f02031506b7f4a984be79c62cd37",
+  "description": "Degen is a collection dedicated to chemical elements and celestial bodies, as they affect and generate the physical world without using a single force,just as degenerate assets affect the digital financial world.",
+  "name": "Degen",
+  "social": [
+   "https://t.me/AURA_x_CAPITAL",
+   "https://x.com/auraxcapital",
+   "https://github.com/AURA-x-CAPITAL/community"
+  ],
+  "websites": [
+   "https://auraxcapital.com/"
+  ]
+ },
+ {
+  "address": "0:07c6e91e02c82fb7e2f603fd3a7bf007a67ec4f862efd4548a50e530c178b1a0",
+  "name": "Degens Paradise"
+ },
+ {
+  "address": "0:a36de9847b083499ba2b7f49f2435b8aa6f6b31abbb2693d1d08f1e74dc4fd2c",
+  "name": "GiftBox Degens Paradise"
+ },
+ {
+  "address": "0:873d57f407dc38f7083b9134498d49a11737d17dd09a916231fde4db70c8ff7a",
+  "name": "StickerBox Degens Paradise"
  },
  {
   "address": "0:c202dd4b9af103c981b880bdfc2872bd8473fc0606159278fdc40a2ae4f8d234",
@@ -50,6 +98,30 @@
   ]
  },
  {
+  "address": "0:57b05284fd3cf8d840c6ae84f31a73d644d8ba5db5ecfb3fff6c6e818d85a3a2",
+  "name": "Golden Sunrise"
+ },
+ {
+  "address": "0:d71c8b9e196b7ece719a21de67314aca883a3c5294001f5b669fb1fc8abaff4b",
+  "name": "GiftBox Golden Sunrise"
+ },
+ {
+  "address": "0:663702cc7104e7ab205ced5324b368851c15b2acff72faa93937db0f8f9ff7e1",
+  "name": "StickerBox Golden Sunrise"
+ },
+ {
+  "address": "0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd",
+  "name": "Hidden Dragon"
+ },
+ {
+  "address": "0:65257110bed49c338bfebae570539cc13f8b1e9c4d5102454de3055dfbb727f9",
+  "name": "GiftBox Hidden Dragon"
+ },
+ {
+  "address": "0:4050afdcadd2cec44a2f1e8f23fa65cec272d1974b42c5f2f6744ab6df206734",
+  "name": "StickerBox Hidden Dragon"
+ },
+ {
   "address": "0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf",
   "name": "KZH"
  },
@@ -64,11 +136,80 @@
   ]
  },
  {
+  "address": "0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb",
+  "name": "Sleeping Giant"
+ },
+ {
+  "address": "0:1d563b0a8034b355eca7602bbe8453b454f0705777949131848b9f6b2020042e",
+  "name": "GiftBox Sleeping Giant"
+ },
+ {
+  "address": "0:07ab0a0c75927f6bca843e49e638401e235b5410eac4ef753970b422bc9efba3",
+  "name": "StickerBox Sleeping Giant"
+ },
+ {
   "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
   "name": "Telegram usernames",
   "websites": [
    "https://t.me",
    "https://telegram.org"
+  ]
+ },
+ {
+  "address": "0:d23a7de26ab1c75126851462995c175e5b7ea0b6d14c6e61a436e9d660e85f18",
+  "name": "TON's Witnesses"
+ },
+ {
+  "address": "0:bb19eecc87d581b11feecf5b6d14b2edbedc013ad06cdd16b41226191feff15c",
+  "name": "GiftBox TON's Witnesses"
+ },
+ {
+  "address": "0:fffaf59e328fe618b6f7fa0c121c25777eea3da19b4a2459580a5c30d917c4f0",
+  "name": "StickerBox TON's Witnesses"
+ },
+ {
+  "address": "0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c",
+  "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. \ud83d\udd25 OPEN GIFTBOXES, pull Stickerboxes, and collect Golden Orc stickers to claim the most valuable rewards from ZarGates! 100% of all proceeds go toward the prize pool and collection promotion. \ud83d\udc8e Don't miss your chance to claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
+  "image": "https://metadata.zargates.com/giftbox/collection_image.png",
+  "name": "ZarGates GiftBoxes",
+  "social": [
+   "https://t.me/ZarGatesChannel",
+   "http://t.me/ZarGatesRU",
+   "https://x.com/ZARGATES",
+   "https://zargates.com"
+  ],
+  "websites": [
+   "https://zargates.com"
+  ]
+ },
+ {
+  "address": "0:733d5b87a1247f425045b72262c837c974acbe769dac3816d8d2cd01052cda32",
+  "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! \ud83d\udd25 OPEN STICKERBOXES, pull stickers, and join the treasure hunt! Assemble a squad of Golden Orcs, gear them up with artifacts in ZarGates, and win valuable prizes! 100% of all proceeds go toward the prize pool and collection promotion. \ud83d\udc8e Don't miss your chance to claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
+  "image": "https://metadata.zargates.com/stickerbox/collection_image.png",
+  "name": "Zargates StickerBoxes",
+  "social": [
+   "https://t.me/ZarGatesChannel",
+   "http://t.me/ZarGatesRU",
+   "https://x.com/ZARGATES",
+   "https://zargates.com"
+  ],
+  "websites": [
+   "https://zargates.com"
+  ]
+ },
+ {
+  "address": "0:463685d77d0474ec774386d92622ed688d34f07230741211d838c487dcfeec64",
+  "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. \ud83c\udfaf Hunt rules: Color matters. Golden Orcs are the most valuable. COLLECT 7 of them to build a full squad and increase your reward. Gear up your squad to boost your odds \u2014 and \ud83d\udc8e claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
+  "image": "https://metadata.zargates.com/stickers/collection_image.png",
+  "name": "Unstoppable Tribe from ZarGates",
+  "social": [
+   "https://t.me/ZarGatesChannel",
+   "http://t.me/ZarGatesRU",
+   "https://x.com/ZARGATES",
+   "https://zargates.com"
+  ],
+  "websites": [
+   "https://zargates.com"
   ]
  },
  {
@@ -172,6 +313,21 @@
    "https://t.me/TotemancerChat",
    "https://x.com/Totemancer",
    "https://vk.com/Totemancer"
+  ],
+  "websites": [
+   "https://totemancer.com"
+  ]
+ },
+ {
+  "address": "0:7c66628f8cbfec8779f857a823d6840d1ea956f4cf90e7c022100da75c16316b",
+  "description": "Totemancer PFPs are a limited collection of 10,000 NFTs that represent your identity within the Totemancer universe. Your PFP might also play a role in future features such as governance, voting, staking tied to the Totemancer Token, and more.",
+  "image": "https://totemancer.com/ton/tc.png",
+  "name": "Totemancer: PFPs",
+  "social": [
+   "https://t.me/Totemancer",
+   "https://t.me/Totemancers",
+   "https://t.me/TotemancerChat",
+   "https://x.com/Totemancer"
   ],
   "websites": [
    "https://totemancer.com"
