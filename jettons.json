@@ -1598,7 +1598,7 @@
   ],
   "symbol": "BLZ",
   "websites": [
-   "https://blaziumecosystem.vercel.app/"
+   "https://blaziumecosystem.com/"
   ]
  },
  {
@@ -1914,6 +1914,25 @@
   "symbol": "COC",
   "websites": [
    "https://cocweb3.xyz/"
+  ]
+ },
+ {
+  "address": "0:9e88177901c4571188b9cadc257a07bcba95a5daaeb3a0668e46961f6c8424af",
+  "decimals": 9,
+  "description": "Liquidity pool token for CODEX ARCANUM and the DeDust CODEX/TON LP on STON.fi DEX. This token represents shares in the CODEX/LP pool, enabling multi-layered liquidity provisioning across the Codex Arcanum ecosystem.\n",
+  "image": "https://meta.ston.fi/lp/v1/img/0:9e88177901c4571188b9cadc257a07bcba95a5daaeb3a0668e46961f6c8424af.png",
+  "name": "CODEX-LP LP",
+  "social": [
+   "https://twitter.com/codexarcanum",
+   "https://t.me/CodexSouL",
+   "https://t.me/CodexPulse",
+   "https://t.me/CodexGateBot",
+   "https://t.me/CodexGateBot/codexArcanum"
+  ],
+  "symbol": "CODEX-LP LP",
+  "websites": [
+   "https://app.ston.fi/pools/EQCeiBd5AcRXEYi5ytwlege8upWl2q6zoGaORpYfbIQkr8rV",
+   "https://codex.pm"
   ]
  },
  {
@@ -2306,6 +2325,25 @@
   "symbol": "DDOG"
  },
  {
+  "address": "0:ff67ee2a9b982222070213309f8a8d6aeac8f3cf088cb265087e31a5bb919676",
+  "decimals": 9,
+  "description": "Liquidity pool token for TON and CODEX ARCANUM on DeDust DEX",
+  "image": "https://cdn.codex.pm/images/wallets/dedust-lp-codex-ton.png",
+  "name": "DeDust Pool: CODEX/TON LP",
+  "social": [
+   "https://twitter.com/codexarcanum",
+   "https://t.me/CodexSouL",
+   "https://t.me/CodexPulse",
+   "https://t.me/CodexGateBot",
+   "https://t.me/CodexGateBot/codexArcanum"
+  ],
+  "symbol": "CODEX/TON LP",
+  "websites": [
+   "https://dedust.io/pools/EQD_Z-4qm5giIgcCEzCfio1q6sjzzwiMsmUIfjGlu5GWdpg7",
+   "https://codex.pm"
+  ]
+ },
+ {
   "address": "0:b6058ddf5e8d8a9f461cd4c616f697bc3c3c78a53dd7f3b95026e2665e09e9e9",
   "description": "DEXAPES \u2013 the only meme coin on TON with a transparent launch and solid tokenomics. Our goal is DAIF investment fund.",
   "image": "https://raw.githubusercontent.com/DEXAPES/website/dfeceeb14588704568b6ec1ae0be5537bcaea879/256\u0445256.png",
@@ -2351,7 +2389,7 @@
  {
   "address": "0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4",
   "description": "Owled Didi is an animated Telegram sticker pack featuring a cute purple owl. It is also shown on the Telegram home page.",
-  "image": "https://ipfs.io/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
+  "image": "https://fuchsia-patient-ocelot-485.mypinata.cloud/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
   "name": "Owled Didi",
   "social": [
    "https://t.me/owled_didi_portal",
@@ -3975,6 +4013,20 @@
   "symbol": "GH"
  },
  {
+  "address": "0:9ce82d18d82b9dc0ac02caa260b5697ea7a9ac3a99c983da15ce7775f63a3ca8",
+  "description": "",
+  "image": "https://storage.googleapis.com/memhash-general/memhash/fca0614f-b0f6-4efe-9084-dc89da80226a_1757088264.jpg",
+  "name": "GhostChain",
+  "social": [
+   "https://t.me/memhash",
+   "https://x.com/memhash_app"
+  ],
+  "symbol": "GHOST",
+  "websites": [
+   "https://memhash.org/"
+  ]
+ },
+ {
   "address": "0:cb8fadb1b45493694aed6334314cf3b386281078fc092d646ef86a6f6d34265b",
   "description": "Gifties is a unique, modern and convenient service built on TON blockchain smart contracts, thanks to which users can send and receive digital gifts to their friends literally in two clicks directly in Telegram.",
   "image": "https://cdn.blum.codes/a3cf17ac-ab8c-4b03-a946-f90df3647c49/a574a7ce-65e3-44b5-8b20-bc53d8f41eee",
@@ -4470,6 +4522,25 @@
   ]
  },
  {
+  "address": "0:8948dfc5fa04aeee3c5c2e3797bad10efa5df680e31a6743f26c1a71b0123fe2",
+  "description": "Skill-to-earn esports platform for chess, Tetris & mind games with crypto prizes.",
+  "image": "https://iqpi.ru/images/inhtml/logo_coin_blue.png",
+  "name": "Iqpi Coin",
+  "social": [
+   "https://t.me/iqpi_channel",
+   "https://x.com/iqpi_ru",
+   "https://vk.com/iqpi_official",
+   "https://discord.gg/MUm4Jv4T8m",
+   "https://discord.gg/6S4UaaRA7R",
+   "https://www.youtube.com/@iqpi_channel",
+   "https://www.twitch.tv/iqpi_official"
+  ],
+  "symbol": "IQPIC",
+  "websites": [
+   "https://iqpi.ru"
+  ]
+ },
+ {
   "address": "0:28bad023de090d2a311635bb7ff9acc510717322715eae8afb7d4927a0e8014a",
   "description": "ISMA&COIN meme will become a method of payment business for you training services by cross-border transfer in cryptocurrency within the framework of foreign economic activity. ISMA&COINInc.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqaoutaj3gknkjewnbt_-azfehfzinferor7fuknoogbsntg.png?size=lg&key=e9c8e0",
@@ -4494,6 +4565,21 @@
   "symbol": "ITCoin",
   "websites": [
    "https://itschool72.ru"
+  ]
+ },
+ {
+  "address": "0:4e0b3d5cfc09a760e7f77d72735d1e450394e516e639a13d3e02c71b91be24f9",
+  "decimals": 9,
+  "description": "IVPAY is a utility payment token used within the IVPAY ecosystem for crypto payments, merchant settlements, and blockchain-based financial services.",
+  "image": "https://ivpay.io/favicon.ico",
+  "name": "IVPAY",
+  "social": [
+   "https://t.me/ivpay_io",
+   "https://x.com/ivpay_io"
+  ],
+  "symbol": "IVPAY",
+  "websites": [
+   "https://ivpay.io"
   ]
  },
  {
@@ -4904,6 +4990,21 @@
   "symbol": "LIBRA",
   "websites": [
    "https://rebalancer.pro/libration"
+  ]
+ },
+ {
+  "address": "0:27cb87a1bec42714f8ef0006f815dd45eb7f0f8f124cfa0b68b8a5885f7886d2",
+  "description": "LID is a fun and interactive crypto project built around one simple idea. You vote. You predict. And if you get it right, you earn.",
+  "name": "Likes and Dislikes",
+  "social": [
+   "https://t.me/Likes_and_Dislikes",
+   "https://t.me/Likes_and_Dislikes_Chat",
+   "https://x.com/like_an_dislike",
+   "https://youtube.com/@likes_and_dislikes_coin"
+  ],
+  "symbol": "LID",
+  "websites": [
+   "https://likesdislikes.online"
   ]
  },
  {
@@ -5607,6 +5708,22 @@
   ]
  },
  {
+  "address": "0:db7e4a840e5b46eeebcde1775313554037feade1f60fd57ad9532850c25f0a49",
+  "description": "This is a token of a gaming project that we mine in our CryptoWorld. It is an essential tool in our ecosystem that enables progress within the game and the project. Our goal is to learn together how to mine the asset and manage it wisely.",
+  "image": "https://kriptomir.io/logo.png",
+  "name": "Mini KRIPT",
+  "social": [
+   "https://t.me/kriptofarmers",
+   "https://t.me/kripto_farmeri",
+   "https://x.com/kriptomir2024",
+   "https://t.me/kriptofarmbot"
+  ],
+  "symbol": "MKRIPT",
+  "websites": [
+   "https://kriptomir.io/"
+  ]
+ },
+ {
   "address": "0:6e61f523279d21e9c2c635c57d5174452e889de7fcee49ee6578a465e3a69da6",
   "description": "MISTER KOFEMAN - \u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0438 \u0437\u0430\u043f\u0443\u0441\u043a \u0434\u043e\u0445\u043e\u0434\u043d\u044b\u0445 \u043a\u043e\u0444\u0435\u0435\u043d \u0441\u0430\u043c\u043e\u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f. \u0411\u043e\u043b\u0435\u0435 400 \u043f\u0430\u0440\u0442\u043d\u0451\u0440\u043e\u0432 \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438. \u0421\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0446\u0435\u0445 \u043e\u0431\u0436\u0430\u0440\u043a\u0438 \u043a\u043e\u0444\u0435.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbuyfujj50h6clgncv9uxrfloid5_zuse5lekrl46adpjzf.png?size=lg&key=d44f8f",
@@ -6089,7 +6206,7 @@
   ]
  },
  {
-  "address": "0:b6ed79ea7ad966f5dd0b13933d0862f2e762f641dac8e5656380510b27c732d2",
+  "address": "0:ef83cb2b6109b77f8a4468307fdd420c97b47e4f15ef253d75c3ce4eb8daa0b9",
   "description": "Naughty Coin (NOTY) is a fun and community-driven crypto project on the TON ecosystem, blending, utility, payment simplified and real fun rewards with the NOTY Card.",
   "name": "Naughty Coin",
   "social": [
@@ -6430,6 +6547,7 @@
   ],
   "symbol": "$PEACH",
   "websites": [
+   "https://lifeisapeach.top/",
    "https://linktr.ee/LifeisaPeach"
   ]
  },
@@ -6469,13 +6587,15 @@
  },
  {
   "address": "0:01b522d2ceb00e21258f7c88c1976566792b6433578768fad4c514e3f2663ef6",
-  "description": "The primary token of the Phoenix Paw project.",
-  "image": "https://raw.githubusercontent.com/PhoenixPaw/PhoenixPaw/e3c80dbb36c5cc64f0aee1f913d99785fdb76245/photo_2024-12-28_19-02-35.jpg",
-  "name": "Phoenix Paw",
+  "description": "AI-powered ecosystem of services for earning, work, games, and entertainment.",
+  "image": "https://raw.githubusercontent.com/PhoenixPaw/PhoenixPaw/refs/heads/main/ava.jpg",
+  "name": "Phoenix",
   "social": [
    "https://twitter.com/PawPhoenixoff",
-   "https://t.me/PhoenixPaw",
-   "https://phoenixpaw.io"
+   "https://t.me/+5gUYq_iIpi82NDVi",
+   "https://phoenixpaw.io",
+   "https://t.me/+MQzPg8BtXeljZjJk",
+   "https://t.me/+Nk6qryrz6EkxZWRk"
   ],
   "symbol": "PHXPW"
  },
@@ -7344,6 +7464,25 @@
   ]
  },
  {
+  "address": "0:8f794cca9279de32503551b8af10bc5df2515403fa1a397f66f4f3dce1dea51d",
+  "decimals": 9,
+  "description": "SerpoCoin is a DeFi Web3 utility token built on the TON blockchain, inspired by the legendary Serpo exchange \u2014 a story of connection between humans and an advanced alien civilization.",
+  "image": "https://serpocoin.io/logo.png",
+  "name": "SerpoCoin",
+  "social": [
+   "https://t.me/serpocoinchannel",
+   "https://x.com/serpocoin",
+   "https://www.tiktok.com/@serpocoinofficial",
+   "https://www.facebook.com/share/1CxUHMfBCr/?mibextid=wwXIfr",
+   "https://www.instagram.com/serpocoin",
+   "https://youtu.be/IGXxhVg_eKo"
+  ],
+  "symbol": "SERPO",
+  "websites": [
+   "https://serpocoin.io"
+  ]
+ },
+ {
   "address": "0:ea59e5cd7df963044fb8c03014f7bdf0cd0485fe80460e0b13612cc929ff0c20",
   "description": "Hello everyone I am the founder Two YouTube channels SEVER1OFF 4.800.000 SEVER2OFF 5.800.000, I locked 80%token and love my community!!!!",
   "image": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2F2w82zg0sz3dtcngxhu8hu4w5joto&w=256&q=100",
@@ -7523,6 +7662,20 @@
   "symbol": "SMERKS",
   "websites": [
    "https://smerks.xyz"
+  ]
+ },
+ {
+  "address": "0:42ebf51e7a0dff6840fe88cd8d95ed127a15e6a26f1fec5a4f91230f8dc66c0c",
+  "description": "\ud83d\udca3 Smony, Dive into the Gamble \u2013 Where Lucks Wild Ride Meets High-Stakes Mayhem! Smony, Pure Chance, Total Thrill \u2013 Bet Big on Chaos and Let Fortune Decide! Smony, Risk It All in the Random Realm \u2013 Lady Lucks Playground for the Brave (and Bankrupt) Powered by dmsadeqi - AKO Team",
+  "image": "https://github.com/user-attachments/assets/67402149-3b8d-4292-9258-b44e58e3a461",
+  "name": "SMONY",
+  "social": [
+   "https://t.me/smonydev",
+   "https://t.me/smony_dev_bot"
+  ],
+  "symbol": "SMONY",
+  "websites": [
+   "https://smony.io"
   ]
  },
  {
@@ -9120,6 +9273,22 @@
   ]
  },
  {
+  "address": "0:89928f462604157349faca1b37a5924fd3e8393523c901c10102d7f007697c06",
+  "description": "UCB - \u044d\u0442\u043e \u0441\u0438\u043c\u0432\u043e\u043b \u043d\u0430\u0448\u0435\u0433\u043e \u043a\u0440\u0438\u043f\u0442\u043e-\u0431\u0440\u0430\u0442\u0441\u0442\u0432\u0430. \u041c\u044b \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432 \u0438 \u043d\u043e\u0432\u0430\u0442\u043e\u0440\u043e\u0432, \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0445 \u0446\u0435\u043b\u044c\u044e \u043f\u043e\u043a\u043e\u0440\u0438\u0442\u044c \u043c\u0438\u0440 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442 \u0432\u043c\u0435\u0441\u0442\u0435",
+  "image": "https://bidask.finance/api/image/download/358f77ea7bd33d8ada403048f36c211a",
+  "name": "United Crypto Boys",
+  "social": [
+   "https://t.me/United_Crypto_Boys",
+   "https://t.me/unitedcryptoboyschat",
+   "https://www.youtube.com/@UnitedCryptoBoys",
+   "https://x.com/UnitedCryptoBoy"
+  ],
+  "symbol": "UCB",
+  "websites": [
+   "https://unitedcryptoboys.online"
+  ]
+ },
+ {
   "address": "0:55b55f4260718a4f39973057ac6197bce34fad6e6f5dfbca1dd0e80a99c0d5f4",
   "description": "$UDOG will become one of the greatest tokens on TON",
   "image": "https://pbs.twimg.com/profile_images/1994006383792979968/3kB3bUTp_400x400.jpg",
@@ -9646,17 +9815,6 @@
   ]
  },
  {
-  "address": "0:8c938fceba30a7938ea30291e72116e64ed61391299fba357d5fc61ed2abec1d",
-  "decimals": 18,
-  "description": "Herculis Gold Coin (XAUH) is a digital asset representing direct ownership of Swiss-refined, Swiss-audited, Swiss-stored, Swiss-insured and Swiss-managed physical gold. It combines the security of physical gold with the flexibility of blockchain technology.",
-  "image": "https://gateway.pinata.cloud/ipfs/bafybeibfzke4a2yueebdebtllix6eee3jujyuxtibht6d52jephnaccwhy/xauh-logo.png",
-  "name": "Herculis Gold Coin",
-  "symbol": "XAUH",
-  "websites": [
-   "https://xauh.gold"
-  ]
- },
- {
   "address": "0:813d37e084bfbf2ac9a70122c548031529363c95ea69daa6f9adae25e17b01c1",
   "description": "OptimusX transforms daily tasks into tangible crypto rewards. Our Telegram-driven platform merges blockchain transparency with gamified fun, turning each user action into real value. Join us and unlock a new era of community engagement \ud83d\udcaa",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcbptfghl-_ksmnaslfsamvkty8lepp2qb5ra4l4xsbwykm.png?size=lg&key=e6cf3a",
@@ -9809,6 +9967,35 @@
   ]
  },
  {
+  "address": "0:085625e58ae4453452ba5199de4498c3a91b7856657f85b87c9034aa0c570842",
+  "decimals": 9,
+  "description": "Liquidity pool token for Zcoin TON and Proxy TON on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:085625e58ae4453452ba5199de4498c3a91b7856657f85b87c9034aa0c570842.png",
+  "name": "LP Token for ZCOIN-pTON",
+  "social": [
+   "https://t.me/zcoin_to",
+   "https://t.me/zcointon"
+  ],
+  "symbol": "ZCOIN-pTON LP",
+  "websites": [
+   "https://ston.fi/"
+  ]
+ },
+ {
+  "address": "0:2088ea2211c3e41827f28271f92d5868e0caae436b20245cc25f2ccf97e7eb52",
+  "description": "ZCOIN: Token for Z Network ecosystem.",
+  "image": "https://zcoin-ton.github.io/website/logo.png",
+  "name": "Zcoin TON",
+  "social": [
+   "https://t.me/zcoin_to",
+   "https://t.me/zcointon"
+  ],
+  "symbol": "ZCOIN",
+  "websites": [
+   "https://zcoin.to"
+  ]
+ },
+ {
   "address": "0:bd0db04a122ea06f39fce5710d0c34e5bbd99644b301f1c0659b7d45f3473476",
   "description": "Token for ZEN ecosystem",
   "image": "https://zencoin.dev/coin.png",
@@ -9879,7 +10066,7 @@
  },
  {
   "address": "0:0343a25c2b434cb8d339bb009c4bd6e3727d914ef731608663365848872c14ad",
-  "description": "Affluent/Lending-Vault/TON-1/By-SingularV",
+  "description": "Affluent/Lending-Vault/TON-1",
   "name": "TON Lending Vault",
   "social": [
    "https://x.com/AffluentOrg",
@@ -9893,7 +10080,7 @@
  },
  {
   "address": "0:edc50aa4808450411e615a5ad0c6224cb4bc23477ac460d5016c472f3c3c02b3",
-  "description": "Affluent/Strategy-Vault/TON-Multiply-1/By-SingularV",
+  "description": "Affluent/Strategy-Vault/TON-Multiply-1",
   "name": "TON Multiply Vault",
   "social": [
    "https://x.com/AffluentOrg",
@@ -9907,7 +10094,7 @@
  },
  {
   "address": "0:06b609ebd46d170e294651170e077a54865f8ba3ffc9f936893f42b87b2f1cb9",
-  "description": "Affluent/Lending-Vault/USDT-1/By-SingularV",
+  "description": "Affluent/Lending-Vault/USDT-1",
   "name": "USDT Lending Vault",
   "social": [
    "https://x.com/AffluentOrg",
@@ -9921,7 +10108,7 @@
  },
  {
   "address": "0:73488b620b5be90d411fb437960f28e032eb5fe8223399ed7a8339fd88d96896",
-  "description": "Affluent/Strategy-Vault/USDT-Multiply-1/By-SingularV",
+  "description": "Affluent/Strategy-Vault/USDT-Multiply-1",
   "name": "USDT Multiply Vault",
   "social": [
    "https://x.com/AffluentOrg",
@@ -9942,6 +10129,11 @@
   "address": "0:68c174edc434d230425bac821c63322f49767d5791d6d8ea368925b4721533a1",
   "name": "Gold Multiply Vault",
   "symbol": "affGOLDm"
+ },
+ {
+  "address": "0:63a5f1b97f314449625be8ae44763bd8ff28456ba7f185cc2455f7f48e52b5cd",
+  "name": "Sentora Vault in Affluent",
+  "symbol": "affSENTORA"
  },
  {
   "address": "0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d",
@@ -10039,6 +10231,11 @@
   "symbol": "BTBTx"
  },
  {
+  "address": "0:e451ccac3fc51619124c212fd7030f35d92040d4257df543e3dadcf71d09c1ba",
+  "name": "Bitgo xStock",
+  "symbol": "BTGOx"
+ },
+ {
   "address": "0:eac901e4ee6d516e9fd137ba98ad7bc24bf49364660c89b78cc9b06570f83822",
   "name": "Comcast xStock",
   "symbol": "CMCSAx"
@@ -10047,6 +10244,11 @@
   "address": "0:af9383aada5e58b6cfd2ed0e23d3c7c1f45b73c77218fbb508d40aacb322860e",
   "name": "Coinbase xStock",
   "symbol": "COINx"
+ },
+ {
+  "address": "0:1737b0a707817fed06664da47350e228254f32af7460787430fc264a9284bb91",
+  "name": "Global X Copper Miners xStock",
+  "symbol": "COPXx"
  },
  {
   "address": "0:7e44fb400107854865b78088f4cd1121e0df763065dfa85cf101ce9346fbbece",
@@ -10159,6 +10361,11 @@
   "symbol": "KOx"
  },
  {
+  "address": "0:5711b34897c310444baee4dc954261b1c366664e42c25320a4cf8faebbba0550",
+  "name": "KRAQ xStock",
+  "symbol": "KRAQx"
+ },
+ {
   "address": "0:c9693d81da782b37b3b748b4718e3d5767b03cfa10076c8b4aa42f02ab80f22a",
   "name": "Linde xStock",
   "symbol": "LINx"
@@ -10234,6 +10441,11 @@
   "symbol": "ORCLx"
  },
  {
+  "address": "0:2e91b550068168d47056617011d1b38b20c9b3b4a73319f07dca94d2578e5e9b",
+  "name": "abrdn Physical Palladium Shares xStock",
+  "symbol": "PALLx"
+ },
+ {
   "address": "0:934fe0b9277740fd697771e3b84653effa0b90d6a3c9eaffa825ecb1ad37efaa",
   "name": "PepsiCo xStock",
   "symbol": "PEPx"
@@ -10259,6 +10471,11 @@
   "symbol": "PMx"
  },
  {
+  "address": "0:c24abc2b64f7b8656f8e054d6fc716a54710dea332a5fe653d3a7863f9a994c0",
+  "name": "abrdn Physical Platinum Shares xStock",
+  "symbol": "PPLTx"
+ },
+ {
   "address": "0:9eeaeb70a913a6acefdc39452f54d624bf279c5237ee82dba0be153095561212",
   "name": "Nasdaq xStock",
   "symbol": "QQQx"
@@ -10267,6 +10484,16 @@
   "address": "0:279802ac6bf9825e879f8f379c9a35cc9ede4ea944634fe3850f98724f537784",
   "name": "Schwab International Equity xStock",
   "symbol": "SCHFx"
+ },
+ {
+  "address": "0:5478361f71bedb24b8bcdb4c748932cdaadec59b04f207520bda4c24eace2b53",
+  "name": "Brera xStock",
+  "symbol": "SLMTx"
+ },
+ {
+  "address": "0:92380750fb3d1bef75a4a081cabec116f00ae76d5b517ce84f22e986e4fa6df1",
+  "name": "iShares Silver Trust xStock",
+  "symbol": "SLVx"
  },
  {
   "address": "0:757f204003da900cfe8b106685ddc6d4f976ebfa9e844816469ea94790720700",
@@ -11617,6 +11844,11 @@
   "address": "0:1656fdb1eadc6873935e97d0a5b5b7d848130e39fd11f6c6fb1a7a98fb89dc9a",
   "name": "Holy Coin",
   "symbol": "HOLY"
+ },
+ {
+  "address": "0:75d56b54c4ae037fca5c298399dc77c257bd0b8e5e0b115b4aa371abffdb650f",
+  "name": "Hoolicoin",
+  "symbol": "HOOLI"
  },
  {
   "address": "0:46b8b39107b08c1395d1f5c768c5acd13055df55cdc7f0764bceaeb1d415ca6d",
@@ -13059,6 +13291,11 @@
   "symbol": "USACH"
  },
  {
+  "address": "0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496",
+  "name": "Upstream Lab",
+  "symbol": "USL"
+ },
+ {
   "address": "0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d",
   "name": "Utya",
   "symbol": "UTYA"
@@ -13152,6 +13389,11 @@
   "address": "0:8e6e1e3e65a8213af6bcb82cff00c327be27ccdcf4be129a542442505d79e53f",
   "name": "Whiskers",
   "symbol": "WHISK"
+ },
+ {
+  "address": "0:babc2d8ec731bb5deef5ffcce03a8fba1d99eb568b2bfc92fbbf6d5c75584870",
+  "name": "WHITE",
+  "symbol": "WHITE"
  },
  {
   "address": "0:9c1101fd38766dca0269580685898bbe3a8115423489cfa0f2ff453d844c92c8",
@@ -15999,6 +16241,26 @@
   "address": "0:c1e4cbd6632271079c0a16729bfafaa227679c1e4a95fad55249d2d0fe26c958",
   "name": "SingularV TON Tonstakers",
   "symbol": "svTON"
+ },
+ {
+  "address": "0:561caa44c7e9755450f02c27e2f302a4a8ce08dfca54af4800509b492eacb1d3",
+  "name": "Re7 USDT",
+  "symbol": "Re7USDT"
+ },
+ {
+  "address": "0:d3b73d7208b71ae52cb693dd6cdd345df569fa0672d6a15968cac4ac8b25ead0",
+  "name": "Re7 WETH",
+  "symbol": "Re7WETH"
+ },
+ {
+  "address": "0:7b2a0d98815c0988bd267c44f8e0b40badd0dc30b31cc61ce1e638bee41cddb3",
+  "name": "Re7 cbBTC",
+  "symbol": "Re7cbBTC"
+ },
+ {
+  "address": "0:0f32789bd5e82194d43d4e72d9282314b18d50278ad0ee9c81ecfbc65b130879",
+  "name": "Midas Re7 Yield",
+  "symbol": "mRe7YIELD"
  },
  {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
