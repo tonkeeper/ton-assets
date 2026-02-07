@@ -16168,11 +16168,6 @@
   "symbol": "WIF"
  },
  {
-  "address": "0:d03a0b5f805ea68ee11cc4c8cd7663f7e090defa3b08597534200221232c4146",
-  "name": "cbBTC (OFT)",
-  "symbol": "cbBTC"
- },
- {
   "address": "0:ab2d1af0cd5d60755e3aea0429457806ba4362937544c4583de799dc59088537",
   "name": "wstETH",
   "symbol": "wstETH"
