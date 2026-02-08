@@ -1,0 +1,10 @@
+name: "SARA"
+symbol: "SARA"
+address: "0:a4b269f031ef738cc6be695976ab7be3915dc4c18bfc2becc62cffc8e000af73"
+decimals: 9
+description: "Utility token for SaraInMotion AI dating platform"
+image: "https://pub-9f33e4f7622b4cbd804f3ee8f0d2ed18.r2.dev/saralogo.png"
+websites:
+  - "https://sarainmotion.date"
+social:
+  - "https://t.me/sarainmotion_official"
