@@ -40,6 +40,8 @@ Name           | Address
 [Telegram](https://tonviewer.com/0:8c397c43f9ff0b49659b5d0a302b1a93af7ccc63e5f5c0c4f25a9dc1f8b47ab3) | EQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6s3Va
 [battery.ton](https://tonviewer.com/0:8f2d840ec05d118f98459a057b1fcab535c57b9371222be15667fee932ceaf53) | EQCPLYQOwF0Rj5hFmgV7H8q1NcV7k3EiK-FWZ_7pMs6vU2N2
 [Tonkeeper battery refunds](https://tonviewer.com/0:7251e83282040cfd2387cf677b2864f7f021720fa040cda543a9194119442cea) | EQByUegyggQM_SOHz2d7KGT38CFyD6BAzaVDqRlBGUQs6lck
+[Zero Address](https://tonviewer.com/0:0000000000000000000000000000000000000000000000000000000000000000) | EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c
+[Blackhole Address](https://tonviewer.com/-1:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff) | Ef___________________________________________7Sg
 [Getgems Marketplace](https://tonviewer.com/0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18) | EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS
 [Getgems Sales](https://tonviewer.com/0:584ee61b2dff0837116d0fcb5078d93964bcbe9c05fd6a141b1bfca5d6a43e18) | EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS
 [Disintar Marketplace](https://tonviewer.com/0:eb2eaf97ea32993470127208218748758a88374ad2bbd739fc75c9ab3a3f233d) | EQDrLq-X6jKZNHAScgghh0h1iog3StK71zn8dcmrOj8jPWRA
