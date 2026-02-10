@@ -6878,6 +6878,19 @@
   ]
  },
  {
+  "address": "0:e2ba6c2689cbdadb13759e58208ddcefa7eb5d57a61cb1f29385ac593208f826",
+  "description": "PADDINGTON ($PDNT) is the most polite token on TON, which generously feeds its friends - a 25% tax forces speculators to pay you for every step they take. Just keep the bear in your wallet, and your balance will grow due to huge rewards and constant coin burning.",
+  "image": "https://i.ibb.co/MDDjZmFp/photo-2025-12-23-19-58-12-jpg.jpg",
+  "name": "Paddington",
+  "social": [
+   "https://t.me/paddington_coin"
+  ],
+  "symbol": "PDNT",
+  "websites": [
+   "http://paddington.pro"
+  ]
+ },
+ {
   "address": "0:4eddbc2736a24df571af42bf1b2c0a975305233b7d782b0b882606699cc94e73",
   "description": "The most developing memcoin on Ton. Additional utilities, games, nft... Welcome to the world of PeiPei",
   "image": "https://i.ibb.co/3S3LMmg/pepe-clean-bg-removebg-preview-png.png",
