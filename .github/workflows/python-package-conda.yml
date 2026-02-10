@@ -1,0 +1,93 @@
+# BQN README content in Python
+
+bqn_readme = """
+# BQN – The Digital Treasure
+
+BQN is a rare, fully decentralized token on the TON blockchain, designed to represent true scarcity, long-term value, and refined digital elegance.
+
+---
+
+## 🔹 Project Overview
+
+- **Token Name:** BQN
+- **Symbol:** BQN
+- **Blockchain:** TON
+- **Total Supply:** 100,000 BQN
+- **Decimals:** 0
+- **Mintable:** No
+- **Burnable:** No
+- **Transferable:** Yes
+- **Staking:** Disabled
+
+BQN follows a strict non-inflationary model. The supply is permanently fixed and cannot be changed under any circumstances.
+
+---
+
+## 🔹 Token Philosophy
+
+- Absolute scarcity
+- No minting, no burning
+- No hidden control mechanisms
+- Fully transparent and decentralized
+- Designed as a long-term digital store of value
+
+---
+
+## 🔹 Logo
+
+![BQN Logo](https://arweave.net/-XTcaic-zIPxz2GsF0fMVC2txIuTEPqxlvjAnJeULBo)
+
+---
+
+## 🧭 Roadmap
+
+### Phase 1: Foundation (Completed)
+- Deployment of BQN on the TON blockchain
+- Fixed total supply set to 100,000 BQN
+- Minting and burning permanently disabled
+- Token metadata finalized
+- Logo prepared and optimized (100 KB)
+- GitHub repository created
+- Initial liquidity pool launched
+
+### Phase 2: Stability & Transparency (In Progress)
+- Maintain a single primary liquidity pool
+- Avoid liquidity fragmentation across multiple pools
+- Monitor price behavior and market dynamics
+- Ensure full transparency in documentation
+
+### Phase 3: Verification
+- Submit Pull Request to Tonkeeper assets repository
+- Metadata and asset review
+- Achieve Verified Token status in Tonkeeper
+
+### Phase 4: Value Maturity
+- Preserve long-term scarcity
+- Support organic trading only
+- Improve branding and documentation
+- Optional non-inflationary integrations
+
+### Phase 5: Long-Term Sustainability
+- Full decentralization
+- Community-driven transparency
+- Position BQN as a long-term digital asset
+
+---
+
+## 🔹 Strategy
+
+- No supply expansion under any condition
+- Price determined purely by market demand
+- Liquidity managed carefully to reduce volatility
+- Long-term vision over short-term speculation
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+"""
+
+# Example usage: print the README content
+if __name__ == "__main__":
+    print(bqn_readme)
