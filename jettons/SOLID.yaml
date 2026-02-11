@@ -1,0 +1,11 @@
+name: "Solid Circle"
+symbol: "SOLID"
+description: "SOLID is the governance token of the Solid Circle ecosystem, powering decentralized infrastructure, digital assets, and community-driven technology initiatives across blockchain, AI, and advanced systems."
+address: "EQBEEm-kEVwjVWAT0rpqqL0zoenmnvk22fvfNP5Q-fSmngRd"
+decimals: 2
+image: "https://raw.githubusercontent.com/1SolidCircle/ton-assets/main/images/solid-token.png"
+social:
+  - "https://x.com/the_solidcircle"
+  - "https://t.me/the_solidcircle"
+websites:
+  - "https://solidcircle.tech"
