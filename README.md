@@ -1,6 +1,6 @@
-# TON Assets
+# 💎 TON Assets: O Repositório de Ativos da Rede TON
 
-This is a list of popular addresses and assets. We are open to pull request but **please read manual in the end of this readme for PR**.
+Este repositório é uma base de dados comunitária de endereços populares, coleções de NFT e Jettons (tokens) na rede **The Open Network (TON)**. Ele serve como fonte de verdade para carteiras, exploradores e aplicações que precisam identificar ativos verificados e confiáveis.
 
 ## Addresses
 
@@ -101,14 +101,21 @@ Name           | Address
 Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
 `accounts.json`, `jettons.json`, `collections.json` and `README.md` contains automatically generated data. Please don't commit directly to this files.
 
-## How to create a Pull Request? 
+## 🤝 Como Contribuir (Pull Requests)
 
-* Click the **Fork** button in the top right corner to create a copy of the repository in your account
-* Clone your fork using the Terminal (or Git Bash): git clone `https://github.com/your-username/ton-assets.git` (replace your-username with your GitHub username);
-* Edit the .yaml files in the `accounts/`, `collections/`, or `jettons/` directories, being careful not to change any `.json` files;
-* Go to your forked repository on GitHub, click the **'New Pull Request'** button, and follow the example provided in the repository.  
+Contribuições são fundamentais para manter esta base atualizada. Siga os passos abaixo para submeter um novo ativo:
 
-Before submitting, check that your PR has no duplicate or offensive content.
+1. **Fork**: Crie uma cópia do repositório em sua conta.
+2. **Clone**: `git clone https://github.com/seu-usuario/ton-assets.git`
+3. **Edição**: Adicione ou edite arquivos `.yaml` apenas nos diretórios `accounts/`, `collections/` ou `jettons/`.
+   - **Importante**: Não altere os arquivos `.json` na raiz, pois eles são gerados automaticamente.
+4. **Validação**: Certifique-se de que o YAML está formatado corretamente.
+5. **Submissão**: Abra um **New Pull Request** descrevendo as alterações.
+
+### 🔍 Regras de Verificação
+- O link da imagem deve ser direto (ex.: `.png`, `.jpg`).
+- Não utilize links da `ton.api` para imagens.
+- O processo é gratuito e revisado por ordem de chegada.
 
 In a pull request, the *image link should be a direct link to the image file*, not to a webpage. Ensure the link ends with an image extension (e.g., .jpg, .png). Please ***avoid using ton.api*** in the image link.
 
