@@ -1,0 +1,10 @@
+name: "Otters NFTs"
+address: "EQBA8kFMzS2BCJJQTIKPegAo4MXigCXjsaotx8rCxTO2q24A"
+description: "Otters NFT Store is the official marketplace for exclusive in-app collectibles, limited skins, and utility-based NFTs designed to enhance your Otters experience."
+image: "https://raw.githubusercontent.com/ottersgames/OttersWeb/refs/heads/main/Otters-Logo.png"
+websites:
+  - "https://otters.games"
+
+social:
+  - "https://t.me/OttersGames_bot"
+  - "https://t.me/otters_games"
