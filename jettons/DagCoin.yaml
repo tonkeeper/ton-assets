@@ -1,0 +1,8 @@
+name: "DagCoin"
+description: "DAG"
+symbol: "1000000000000000"
+address: "EQCy6NW_YDuqGPoHeAR9g_2F1beDJLWSJjQJsmwhVAtZrH_3"
+decimals: 9
+image: "https://dagestanrpdonate.sampproject.ru/dagcoins.png"
+social:
+  - "https://t.me"
