@@ -5383,6 +5383,16 @@
   ]
  },
  {
+  "address": "0:3ecd4f41b1daed9a3f4fb4ea4d3d9f84d67843f0c959d24f4350cf5bd1d8c0d4",
+  "description": "Gaming token of the Land ecosystem.",
+  "image": "https://mineland.app/icon_land.png",
+  "name": "LAND",
+  "symbol": "LAND",
+  "websites": [
+   "https://mineland.app/"
+  ]
+ },
+ {
   "address": "0:9bffab108979da0bddaec7124e115113211ce5a121a4445cd81111e5c8b360a1",
   "description": "Deployed from sTONks.",
   "image": "https://trueimages.ru/img/ad/c2/f97eed76.png",
