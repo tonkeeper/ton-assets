@@ -5623,6 +5623,12 @@
   "symbol": "MEH"
  },
  {
+  "address": "0:0242039ead1119d1dcea9837f24584abcab3490906dd34bf29c7180809e9cb12",
+  "decimals": 9,
+  "name": "MEMES",
+  "symbol": "MEMES"
+ },
+ {
   "address": "0:e8976a15a660739c02fabd0a45e75416de9d0f295eda838544b5ec7cfcc78c1c",
   "description": "",
   "image": "https://storage.googleapis.com/memhash-general/meta/mh-logo.jpg",
