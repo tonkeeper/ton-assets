@@ -553,6 +553,9 @@
 - address: 0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067
   name: LLAMA
   symbol: LLAMA
+- address: 0:10b88e39c419400e03d227851b4ab50eed0c974453964d7909fd17d9b917fe2e
+  name: Re Lone
+  symbol: LONE
 - address: 0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30
   name: Leprechaun
   symbol: LUCKY
