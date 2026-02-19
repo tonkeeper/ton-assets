@@ -6523,6 +6523,20 @@
   ]
  },
  {
+  "address": "0:ba73d4f81a303ef743c4e79d806a9a5406e836b41aa7eb79d45094b543ad6d24",
+  "description": "A token for Playing on GamePat, players earn a token and make in-game purchases with it.",
+  "name": "GamePat Token Pai",
+  "social": [
+   "https://t.me/GamePat_chat",
+   "https://t.me/game_pat"
+  ],
+  "symbol": "PAI",
+  "websites": [
+   "https://wp.gamepat.org/",
+   "https://t.me/GamePatBot/GamePat/"
+  ]
+ },
+ {
   "address": "0:f86218328bcf882f4c72c3068a1a04f76b715c39ba7e2fb67892b1acbd36df38",
   "description": "Token for the residents of Paphos \ud83c\udfdb\ufe0f\ud83c\udf1e",
   "image": "https://i.ibb.co/cQ9PyCS/PAPHS.png",
