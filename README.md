@@ -51,6 +51,7 @@ Name           | Address
 [TONCO](https://tonviewer.com/0:bffadd270a738531da7b13ba8fc403826c2586173f9ede9c316fab53bc59ac86) | EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5
 [Marketapp Marketplace](https://tonviewer.com/0:9a9cb80adfbd1662f5108766d73355ac2c03304fda1d25a479670e34efcd72b3) | EQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ysx2O
 [Portals Marketplace](https://tonviewer.com/0:04f3c1c795ac8905e31734362b149875ab9522ae5383ab7abb2e10da5da8ba82) | EQAE88HHlayJBeMXNDYrFJh1q5UirlODq3q7LhDaXai6goHn
+[Portals Marketplace](https://tonviewer.com/0:b39ec4a1b09985a39e11d46c06ce66c7239cdee20cb185d7fd18a5020b1ee402) | EQCznsShsJmFo54R1GwGzmbHI5ze4gyxhdf9GKUCCx7kAp4M
 [Thermos](https://tonviewer.com/0:310569f85cd583d93c98c59de87d28c6965f5412eb43a4d4e80313226f8bd4c7) | EQAxBWn4XNWD2TyYxZ3ofSjGll9UEutDpNToAxMib4vUxw1J
 [DeDust HYDRA vault](https://tonviewer.com/0:6f7d004e411ba20c4a87383c5e35e46ce51d9961dec72e8f7dd136898ed5473f) | EQBvfQBOQRuiDEqHODxeNeRs5R2ZYd7HLo990TaJjtVHP6W3
 [DeDust MY vault](https://tonviewer.com/0:b19d154e5d4e12a73decbd99bfc924f56c167939e43d4db3589d0636eaaaaf66) | EQCxnRVOXU4Spz3svZm_yST1bBZ5OeQ9TbNYnQY26qqvZmnD
