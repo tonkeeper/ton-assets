@@ -4,5 +4,5 @@ image: "https://i.ibb.co/7xNd4tt8/IMG-4487.png"
 description: "Telegram Gifts lotteries meet reward mechanics in a single token"
 symbol: "GIFTED"
 social:
-- "https://t.me/ourgifted"
-- "https://t.me/ourgiftedchat"
+    - "https://t.me/ourgifted"
+    - "https://t.me/ourgiftedchat"
