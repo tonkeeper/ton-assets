@@ -145,6 +145,17 @@
   "symbol": "$FLIP"
  },
  {
+  "address": "0:5e9f1b4d4a61856d5f22707c57a525e4d8db6956cc9bf89134099b41bc803a1f",
+  "description": "Telegram Gifts lotteries meet reward mechanics in a single token",
+  "image": "https://i.ibb.co/7xNd4tt8/IMG-4487.png",
+  "name": "GIFTED",
+  "social": [
+   "https://t.me/ourgifted",
+   "https://t.me/ourgiftedchat"
+  ],
+  "symbol": "GIFTED"
+ },
+ {
   "address": "0:556325320f4160b4f9b5b799a8086d4b78e2d0d7c02226d52deeb3dfd4f46f12",
   "description": "GrokWithTon is a token born on the TON blockchain as a tribute from the TON community to Grok \u2014 the sharp-tongued, chaos-loving AI that brought humor and insight to the world of artificial intelligence.",
   "image": "https://tokens.gas111.com/images/32c2fc00549d49f29c41378a2894eac3.png",
