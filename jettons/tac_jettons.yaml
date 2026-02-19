@@ -15,10 +15,6 @@
   symbol: WIF
   address: EQBMeWeS3MGYYRKGFnWpiLRCX9IKrRa-LvbBAr8z9vDxAZ97
 
-- name: cbBTC (OFT)
-  symbol: cbBTC
-  address: EQDQOgtfgF6mjuEcxMjNdmP34JDe-jsIWXU0IAIhIyxBRnJ4
-
 - name: wstETH
   symbol: wstETH
   address: EQCrLRrwzV1gdV466gQpRXgGukNik3VExFg955ncWQiFN_f5
