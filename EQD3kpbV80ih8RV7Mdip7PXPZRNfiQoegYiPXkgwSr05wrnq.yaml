@@ -1,0 +1,50 @@
+name: BQN
+description: "BQN is a rare, fully decentralized token on the TON blockchain, designed to represent true scarcity, long-term value, and refined digital elegance."
+address: EQD3kpbV80ih8RV7Mdip7PXPZRNfiQoegYiPXkgwSr05wrnq
+symbol: BQNcoin
+decimals: 0
+totalSupply: 100000
+mintable: false
+burnable: false
+transferable: true
+staking: false
+image: "https://arweave.net/-XTcaic-zIPxz2GsF0fMVC2txIuTEPqxlvjAnJeULBo"
+social:
+  - "https://t.me/BQNcoinOfficial"
+metadata:
+  roadmap: |
+    Phase 1: Foundation (Completed)
+    - Deployment of BQN on the TON blockchain
+    - Fixed total supply set to 100,000 BQN
+    - Minting and burning permanently disabled
+    - Token metadata finalized
+    - Logo optimized and GitHub repository created
+    - Initial liquidity pool launched
+
+    Phase 2: Stability & Transparency (In Progress)
+    - Maintain a single primary liquidity pool
+    - Avoid liquidity fragmentation across multiple pools
+    - Monitor price behavior and market dynamics
+    - Ensure full transparency in documentation
+
+    Phase 3: Verification
+    - Submit Pull Request to Tonkeeper assets repository
+    - Metadata and asset review
+    - Achieve Verified Token status in Tonkeeper
+
+    Phase 4: Value Maturity
+    - Preserve long-term scarcity
+    - Support organic trading only
+    - Improve branding and documentation
+
+    Phase 5: Long-Term Sustainability
+    - Full decentralization
+    - Community-driven transparency
+    - Position BQN as a long-term digital asset
+
+  strategy: |
+    - No supply expansion under any condition
+    - Price determined purely by market demand
+    - Liquidity managed carefully to reduce volatility
+    - Long-term vision over short-term speculation
+    
