@@ -16335,5 +16335,18 @@
   "address": "0:ce0f496164c3f68aed4946af071008b2be4f91d68b2f43fbfa53c6ccf9d02a3c",
   "name": "Zazulova Respect",
   "symbol": "ZAZU"
- }
+ }.
+{
+    "address": "EQBNwns_TGSTP4DD9iIJyiTvWNh9DefBG5bd5YWy2gBbw56o",
+    "name": "Bullion",
+    "symbol": "BULL",
+    "description": "The Golden Standard of #TON Blockchain",
+    "image": "https://raw.githubusercontent.com/gobinda4455/ton-assets/main/jettons/bullion.png",
+    "social": [
+      "https://x.com/BullionOfficial"
+    ],
+    "websites": [
+      "https://sites.google.com/view/bullion-o/home"
+    ]
+}
 ]
