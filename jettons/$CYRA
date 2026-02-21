@@ -1,0 +1,9 @@
+name: CYRA
+description: The TON wallet in Telegram. Get a wallet, swap tokens, check balance. No app install. Just chat with CYRA and take control of your assets.
+image: "https://www.cyraton.xyz/cyra.png"
+address: EQA0TNM9K3nYMrCzGQaELZB3XJRsOtYcyGKlZebsewov1SEn
+symbol: $CYRA
+social:
+  - "https://www.cyraton.xyz/"
+  - "https://t.me/CyraOfficial"
+  - "https://t.me/CyraAIbot"
