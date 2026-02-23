@@ -195,6 +195,18 @@
   ]
  },
  {
+  "address": "0:0ade592656c8736097b2a4e0ad3c19c4fe4389e0d6fd870c91bd025e4430d6e8",
+  "decimals": 9,
+  "description": "A token of creativity and travel by Jekardos. Having walked 1,000 km and wintered in a forest tent, he is building the Jekardos Coin community, accessible worldwide.",
+  "image": "https://storage.dyor.io/jettons/EQAK3lkmVshzYJeypOCtPBnE_kOJ4Nb9hwyRvQJeRDDW6HPM/image.jpeg",
+  "name": "Jekardos",
+  "social": [
+   "https://t.me/ya_jekardos",
+   "https://jekardos.lovable.app"
+  ],
+  "symbol": "$JK"
+ },
+ {
   "address": "0:ec8f1991b7ab8bd307393f31100f2f90e7014ea95e593fcea5dc2cb598b8e2ab",
   "description": "$LABR is the token of the game Labrador Adventures.",
   "image": "https://labrador-zeta.vercel.app/labr-logo.jpeg",
@@ -281,6 +293,25 @@
   "websites": [
    "https://smartcoinstrategy.com/"
   ]
+ },
+ {
+  "address": "0:8b4e9d501b16adcb2b985f0f6d90dabc7929d01ee77bcfd89a00ca7c44add323",
+  "description": "Meme coin with Chilling capybara\u2019s vibes",
+  "image": "https://i.postimg.cc/0NgkCLJp/IMG-8095.jpg",
+  "name": "Ton Capybara",
+  "symbol": "$TCAPY"
+ },
+ {
+  "address": "0:de9cbb78b5ce562fd35d76d39c81a0b7b04117313c3d08858955fa8cb12dc078",
+  "decimals": 9,
+  "description": "Token has a real product generating revenue. Buybacks every 3 days. LP locked. The team burned their tokens. Contract ownership revoked. For more details, check the official sources",
+  "image": "https://i.ibb.co/yFfx3QyC/frame-046.png",
+  "name": "Trade DINO Bot",
+  "social": [
+   "https://t.me/TradeDino",
+   "https://t.me/ChatingTDINO"
+  ],
+  "symbol": "$TDINO"
  },
  {
   "address": "0:451aab804a8931111a2d60cb5d528397c98e41a22af95b260623b4b622d00250",
@@ -1598,6 +1629,20 @@
   "symbol": "BIRB"
  },
  {
+  "address": "0:a828c8d10f50c1bf4c8bdf615f34e84f9d53eddb241cc717657e5f4c917eaf39",
+  "decimals": 9,
+  "description": "BjG is the in-game utility token for the BlueJayGames ecosystem, earned through active gameplay and used to purchase items, access premium tournaments, and unlock exclusive community rewards",
+  "image": "https://crimson-select-magpie-972.mypinata.cloud/ipfs/bafkreib5h4eghpnfysdnj5od36o6ckbmokcqmhvbju4og2rbm26avacwaa\"",
+  "name": "BjG Games Token",
+  "social": [
+   "https://t.me/BjGCommunity"
+  ],
+  "symbol": "BjG",
+  "websites": [
+   "https://www.bluejaygames.com/"
+  ]
+ },
+ {
   "address": "0:54620b347dafed48edc2662c0dee57902f89170681db1a2828112c513534e446",
   "description": "Blazium (BLZ) is a Web3 token used for gaming, staking, XP conversion, and digital payments inside the Blazium Ecosystem, designed to reward players and developers while remaining deflationary. ",
   "image": "https://blaziumapp.xyz/blzlogo.jpg",
@@ -2145,6 +2190,19 @@
   "symbol": "YOURA",
   "websites": [
    "https://culture-youra.com/"
+  ]
+ },
+ {
+  "address": "0:8d8a258f91908c42d77ef8d4f86a2b239553d637d76b09f8dca64d8ab5e74bee",
+  "description": "Utility token for the CactusAdictos RWA ecosystem. Facilitates digital traceability and access to exclusive botanical inventories.",
+  "name": "CactusAdictos",
+  "social": [
+   "https://www.instagram.com/cactusadictos",
+   "https://x.com/CactusAdictos"
+  ],
+  "symbol": "Cactuscoin",
+  "websites": [
+   "https://t.me/cactusadictos"
   ]
  },
  {
@@ -2882,6 +2940,24 @@
    "https://x.com/ecox_world"
   ],
   "symbol": "ECOX"
+ },
+ {
+  "address": "0:be9552ce31e53e66f903caf7328f8a421e9c521b6d98ff47cca1f2cde967e8d7",
+  "description": "The project is connected to a real-world business and aims to grow by bringing customers from the offline economy into TON through discounts for token holders and NFT owners. In the future, we plan to launch an application that will allow users to pay for up to 90% of purchases in real businesses using the token. It will function both as a payment method and as a bonus points system. We also plan to collaborate with other tokens and periodically buy back tokens using a percentage of the real business\u2019s net profit.",
+  "image": "https://i.ibb.co/LzXTLwxJ/photo-2025-03-13-21-40-33.jpg",
+  "name": "ELC EcoLavushkaCoin",
+  "social": [
+   "https://t.me/ecolavyshka",
+   "https://t.me/+TkmTbbM04fw5ZWIy",
+   "https://t.me/ELCtocen",
+   "https://vk.ru/ecolavyshka",
+   "https://x.com/elc_ecolavushka?s=21",
+   "https://www.instagram.com/ecolavyshka?igsh=cDNudHVwdWg3bHNx"
+  ],
+  "symbol": "ELC",
+  "websites": [
+   "https://ecolavyshka.ru"
+  ]
  },
  {
   "address": "0:a2ada5d0ac74fc18fa02641a20e78f894a87aa2578a560ed5578e88d06f6015b",
@@ -4417,6 +4493,20 @@
   "symbol": "HEX",
   "websites": [
    "https://hexcube.io"
+  ]
+ },
+ {
+  "address": "0:bdc2be813b4dccefb1de740b2f5cb60d486d9b15fb132ff0a8841ea9eae3d24b",
+  "description": "hi coin is the native utility token for the hi ecosystem. It powers a comprehensive Telegram Mini App featuring user leaderboards and direct purchases of VPN services, Telegram Stars, and other digital assets.",
+  "image": "https://raw.githubusercontent.com/oblivionik/hi-assets/main/photo_2026-01-05_19-30-29.jpg",
+  "name": "hi",
+  "social": [
+   "https://t.me/hicointon",
+   "https://t.me/hellobroxs"
+  ],
+  "symbol": "HI",
+  "websites": [
+   "https://t.me/hi_app_bot"
   ]
  },
  {
@@ -8812,6 +8902,18 @@
   ]
  },
  {
+  "address": "0:fbd5affb991f1e347e3acd86e551a7c5792a13bb3c10e858754325fd283098c1",
+  "description": "THIN preserves human intelligence in the age of AI. It transforms human knowledge into a valued, revenue-generating asset \u2014 ensuring contributors are rewarded, not exploited. Human intelligence is not disposable. It deserves ownership and return.",
+  "name": "TON Human Intelligence Network",
+  "social": [
+   "https://t.me/thinetcommunity"
+  ],
+  "symbol": "THIN",
+  "websites": [
+   "https://thinetwork.com"
+  ]
+ },
+ {
   "address": "0:88a9178415f1f764dc6a5c38b6c4697c9e67eb32e406e1a02011be7ab9101af0",
   "description": "Warthog (THOG) is a memecoin with a mission, a unique cryptocurrency inspired by the global viral trend of the Warthog \"KASONGO\" and its endearing \"reverse turbo\" antics. But $THOG is more than just a meme; it's a movement",
   "image": "https://thogtoken.com/assets/img/thogtoken.png",
@@ -12854,11 +12956,6 @@
   "address": "0:91b8ae5722b89efd06de4447ef4c9433678b51b0af262e1665f975cb7f3f62e5",
   "name": "TonBitcoin",
   "symbol": "TBTC"
- },
- {
-  "address": "0:8b4e9d501b16adcb2b985f0f6d90dabc7929d01ee77bcfd89a00ca7c44add323",
-  "name": "Ton Capybara",
-  "symbol": "TCAPY"
  },
  {
   "address": "0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713",
