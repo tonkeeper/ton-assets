@@ -302,6 +302,18 @@
   "symbol": "$TCAPY"
  },
  {
+  "address": "0:de9cbb78b5ce562fd35d76d39c81a0b7b04117313c3d08858955fa8cb12dc078",
+  "decimals": 9,
+  "description": "Token has a real product generating revenue. Buybacks every 3 days. LP locked. The team burned their tokens. Contract ownership revoked. For more details, check the official sources",
+  "image": "https://i.ibb.co/yFfx3QyC/frame-046.png",
+  "name": "Trade DINO Bot",
+  "social": [
+   "https://t.me/TradeDino",
+   "https://t.me/ChatingTDINO"
+  ],
+  "symbol": "$TDINO"
+ },
+ {
   "address": "0:451aab804a8931111a2d60cb5d528397c98e41a22af95b260623b4b622d00250",
   "description": "100F is the utility token of Crypto Club 100F. Buyback-based economy, private analytics community, media growth and ecosystem expansion.\n",
   "image": "https://raw.githubusercontent.com/DmytroIOOF/100f-media/main/100F_256.png",
