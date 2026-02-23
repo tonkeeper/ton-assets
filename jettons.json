@@ -195,6 +195,18 @@
   ]
  },
  {
+  "address": "0:0ade592656c8736097b2a4e0ad3c19c4fe4389e0d6fd870c91bd025e4430d6e8",
+  "decimals": 9,
+  "description": "A token of creativity and travel by Jekardos. Having walked 1,000 km and wintered in a forest tent, he is building the Jekardos Coin community, accessible worldwide.",
+  "image": "https://storage.dyor.io/jettons/EQAK3lkmVshzYJeypOCtPBnE_kOJ4Nb9hwyRvQJeRDDW6HPM/image.jpeg",
+  "name": "Jekardos",
+  "social": [
+   "https://t.me/ya_jekardos",
+   "https://jekardos.lovable.app"
+  ],
+  "symbol": "$JK"
+ },
+ {
   "address": "0:ec8f1991b7ab8bd307393f31100f2f90e7014ea95e593fcea5dc2cb598b8e2ab",
   "description": "$LABR is the token of the game Labrador Adventures.",
   "image": "https://labrador-zeta.vercel.app/labr-logo.jpeg",
@@ -8809,6 +8821,18 @@
   "symbol": "THELUPA",
   "websites": [
    "https://thelupaworld.space"
+  ]
+ },
+ {
+  "address": "0:fbd5affb991f1e347e3acd86e551a7c5792a13bb3c10e858754325fd283098c1",
+  "description": "THIN preserves human intelligence in the age of AI. It transforms human knowledge into a valued, revenue-generating asset \u2014 ensuring contributors are rewarded, not exploited. Human intelligence is not disposable. It deserves ownership and return.",
+  "name": "TON Human Intelligence Network",
+  "social": [
+   "https://t.me/thinetcommunity"
+  ],
+  "symbol": "THIN",
+  "websites": [
+   "https://thinetwork.com"
   ]
  },
  {
