@@ -16215,6 +16215,21 @@
   "symbol": "mRe7YIELD"
  },
  {
+  "address": "0:45623c95ec8bc1fc6e14e8674c5750dde46c8cca1cd21449a9072f39f59724dd",
+  "name": "Re7 USDTv2",
+  "symbol": "Re7 USDTv2"
+ },
+ {
+  "address": "0:dd334308007372e99d8fe9718beb8194c0545f5dd1f101cb04f46bff6e91f13b",
+  "name": "Re7 wETHv2",
+  "symbol": "Re7WETHv2"
+ },
+ {
+  "address": "0:d64cfce1b9d183dc483066c3686c737489918e2dfbb163d9f094baf9737b38ea",
+  "name": "Re7 cbBTCv2",
+  "symbol": "Re7cbBTCv2"
+ },
+ {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
   "description": "Spin off ARNI",
   "image": "https://i.ibb.co/7N12NvhQ/b9975cec2790.jpg",
