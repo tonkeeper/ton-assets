@@ -4496,6 +4496,20 @@
   ]
  },
  {
+  "address": "0:bdc2be813b4dccefb1de740b2f5cb60d486d9b15fb132ff0a8841ea9eae3d24b",
+  "description": "hi coin is the native utility token for the hi ecosystem. It powers a comprehensive Telegram Mini App featuring user leaderboards and direct purchases of VPN services, Telegram Stars, and other digital assets.",
+  "image": "https://raw.githubusercontent.com/oblivionik/hi-assets/main/photo_2026-01-05_19-30-29.jpg",
+  "name": "hi",
+  "social": [
+   "https://t.me/hicointon",
+   "https://t.me/hellobroxs"
+  ],
+  "symbol": "HI",
+  "websites": [
+   "https://t.me/hi_app_bot"
+  ]
+ },
+ {
   "address": "0:4974265c49a88493362265f90663c1f7461af9d4fbe89eabef11ac9a93e50e81",
   "description": "Priceohistory connects history and cryptocurrency. Our goal is popularization of history. Our cryptocurrency is Historycoin (HISTR).",
   "image": "https://images3.nplod.ru/gen_images_1/qVCguMPEVNm6ZTjeIFc5bqdQdBPhAq4b.jpg",
