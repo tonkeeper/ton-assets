@@ -2193,6 +2193,19 @@
   ]
  },
  {
+  "address": "0:8d8a258f91908c42d77ef8d4f86a2b239553d637d76b09f8dca64d8ab5e74bee",
+  "description": "Utility token for the CactusAdictos RWA ecosystem. Facilitates digital traceability and access to exclusive botanical inventories.",
+  "name": "CactusAdictos",
+  "social": [
+   "https://www.instagram.com/cactusadictos",
+   "https://x.com/CactusAdictos"
+  ],
+  "symbol": "Cactuscoin",
+  "websites": [
+   "https://t.me/cactusadictos"
+  ]
+ },
+ {
   "address": "0:86cf8401d283627a87b58c367b440cad933ab8aa7b383419e8ff7d1a00c945f8",
   "description": "TON synthetic token from Catton",
   "image": "https://catton.tech/cTON.png",
