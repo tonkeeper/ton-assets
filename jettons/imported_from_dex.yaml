@@ -553,6 +553,9 @@
 - address: 0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067
   name: LLAMA
   symbol: LLAMA
+- address: 0:10b88e39c419400e03d227851b4ab50eed0c974453964d7909fd17d9b917fe2e
+  name: Re Lone
+  symbol: LONE
 - address: 0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30
   name: Leprechaun
   symbol: LUCKY
@@ -997,9 +1000,6 @@
 - address: 0:91b8ae5722b89efd06de4447ef4c9433678b51b0af262e1665f975cb7f3f62e5
   name: TonBitcoin
   symbol: TBTC
-- address: 0:8b4e9d501b16adcb2b985f0f6d90dabc7929d01ee77bcfd89a00ca7c44add323
-  name: Ton Capybara
-  symbol: TCAPY
 - address: 0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713
   name: TON Cat
   symbol: TCAT
