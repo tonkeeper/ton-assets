@@ -2299,6 +2299,18 @@
   ]
  },
  {
+  "address": "0:c5e4dda81327eea99d8858e4e37d8d9c47836fc7104200abfbc83297d4cba56b",
+  "image": "https://capybobo.io/images/croco.png",
+  "name": "CrocCoin",
+  "social": [
+   "https://x.com/Capybobo_io"
+  ],
+  "symbol": "CROCO",
+  "websites": [
+   "https://capybobo.io/"
+  ]
+ },
+ {
   "address": "0:9748c357dce0798cf80e2641338d8866ec53817e4037720ee9681a93630cd7ae",
   "description": "The cuttest alligator on TON",
   "image": "https://i.ibb.co/Rhc78XF/obrazek.png",
