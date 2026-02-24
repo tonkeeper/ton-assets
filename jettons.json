@@ -12970,6 +12970,11 @@
   "symbol": "TBTC"
  },
  {
+  "address": "0:b02252116515737704be898ed026782754253c50c29f3e15abfca919a10e8c72",
+  "name": "Toncast",
+  "symbol": "TCAST"
+ },
+ {
   "address": "0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713",
   "name": "TON Cat",
   "symbol": "TCAT"
