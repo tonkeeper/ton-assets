@@ -74,6 +74,8 @@ Name           | Address
 [USD₮ - pTON Farm NFT collection](https://tonviewer.com/0:f2b307d584694eb9ee3f6bd70056e0d23f495d58fe778cada32fda977cf58685) | EQDyswfVhGlOue4_a9cAVuDSP0ldWP53jK2jL9qXfPWGhZP4
 [EVAA - USD₮ Farm NFT collection](https://tonviewer.com/0:f1c60dfec9bb6c5be028e306747b5e21f031c9340d54697d944f5b26a22086b5) | EQDxxg3-ybtsW-Ao4wZ0e14h8DHJNA1UaX2UT1smoiCGtXDS
 [STON - USD₮ Farm NFT collection](https://tonviewer.com/0:b6938cd48e97ada4aeec9703180713f8486a9b5bc4bd9be841fd9c1cc48aef2d) | EQC2k4zUjpetpK7slwMYBxP4SGqbW8S9m-hB_ZwcxIrvLVFr
+[DeDust COCOON vault](https://tonviewer.com/0:cc040478fb333180d8a15b7d7ebf744e5ee9889a3128a8e3224b0911763cc861) | EQDMBAR4-zMxgNihW31-v3ROXumImjEoqOMiSwkRdjzIYWZZ
+[ARKENSTON NFT](https://tonviewer.com/0:1340f782c2d33343dbb9e274e350d70ae27ff45514b13ce39138b7ff204d0e53) | EQATQPeCwtMzQ9u54nTjUNcK4n_0VRSxPOOROLf_IE0OU3XK
 [Morgenshtern](https://tonviewer.com/0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonviewer.com/0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
 [Telegram Team](https://tonviewer.com/0:2ecf5e47d591eb67fa6c56b02b6bb1de6a530855e16ad3082eaa59859e8d5fdc) | EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
