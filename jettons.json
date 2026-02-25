@@ -1154,6 +1154,21 @@
   ]
  },
  {
+  "address": "0:ef1e67257999d8bb97f4c1a3f4712cbebec97d19f9d73245bfb0173bdb5c01cb",
+  "description": "BehLand is a Web3 learning ecosystem designed to transform education into real economic value.",
+  "image": "https://cdn.beh.land/token/logo.jpg",
+  "name": "BehToken",
+  "social": [
+   "https://t.me/BehLand_Official",
+   "https://instagram.com/behlandOfficial"
+  ],
+  "symbol": "BEHT",
+  "websites": [
+   "https://beh.land/en",
+   "https://dex.beh.land/en"
+  ]
+ },
+ {
   "address": "0:1bff21e5450f0770ef68a9a4e3301ffb32fa6afea45ab567b7a29b08716b2add",
   "description": "\u0412\u044b \u0441\u043b\u044b\u0448\u0430\u043b\u0438 \u0448\u0435\u043f\u043e\u0442. \u0412\u044b \u043d\u0430\u0448\u043b\u0438 \u0441\u043b\u0435\u0434\u044b. \u0422\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0438\u0448\u043b\u043e \u0432\u0440\u0435\u043c\u044f \u0440\u0430\u0441\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043a\u0440\u044b\u043b\u044c\u044f.",
   "image": "https://iili.io/fd49ccQ.jpg",
