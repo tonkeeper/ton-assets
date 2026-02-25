@@ -4768,6 +4768,22 @@
   ]
  },
  {
+  "address": "0:f8f5a14b3ca8e5745207a9b394ef160a9247267f5a02357d14e96f050368b8e3",
+  "description": "The main development vector of the JOB token is focused on moving closer to equality in the accessibility of material goods in the real expression of the money supply. Taking into account inflationary and risk-related costs, relative to the value of labor measured in the equivalent of the user's expended energy (kcal).",
+  "image": "https://jobtoken.net/jobtoken/coin.png",
+  "name": "JOBTOKEN",
+  "social": [
+   "https://www.instagram.com/jobtokenn",
+   "https://www.facebook.com/profile.php?id=61572614114574",
+   "https://x.com/jobtokenn",
+   "https://t.me/jobtokenn"
+  ],
+  "symbol": "JOB",
+  "websites": [
+   "https://jobtoken.net/"
+  ]
+ },
+ {
   "address": "0:2f0f2ff1c93e29663673d74e1943ce100d9b8dcebdaa7bcffc907323fd24101e",
   "decimals": 18,
   "description": "John is the core token for the TSUBASA -Rivals- mini-app on Telegram and LINE. Users can earn seasonal airdrops by playing the game.",
