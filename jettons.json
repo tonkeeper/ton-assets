@@ -1156,10 +1156,13 @@
  {
   "address": "0:ef1e67257999d8bb97f4c1a3f4712cbebec97d19f9d73245bfb0173bdb5c01cb",
   "description": "BehLand is a Web3 learning ecosystem designed to transform education into real economic value.",
-  "image": "https://cdn.beh.land/token/logo.jpg",
+  "image": "https://cdn.beh.land/token/token-logo.jpg",
   "name": "BehToken",
   "social": [
    "https://t.me/BehLand_Official",
+   "https://t.me/BehLand_gp",
+   "https://x.com/behlandOfficial",
+   "https://youtube.com/@behlandOfficial",
    "https://instagram.com/behlandOfficial"
   ],
   "symbol": "BEHT",
@@ -7931,7 +7934,7 @@
   "symbol": "SNT"
  },
  {
-  "address": "0:ae9e9d8ce4ea7889e647eb3742aafd60c3e800484a0d49723253b98cf94df63c",
+  "address": "0:045e1c9fc088cf687d565c14ca556db6ad5a8b8b45e6bfa42da6bdf809fdde9d",
   "description": "Have you noticed how many people are afraid of people... Sociafober - First 3D GameFi-story in Telegram",
   "image": "https://sociafober.me/logo.svg",
   "name": "Sociafober",
@@ -9603,6 +9606,12 @@
    "https://www.instagram.com/unitaet_insta/"
   ],
   "symbol": "UNITF"
+ },
+ {
+  "address": "0:7b9a1fa614ea70c26cc2b8bb9edde12b12913b3d7deffcab54ef2471dcf6ec14",
+  "description": "Liquidity pool token for BEHT and on ston.fi DEX",
+  "name": "LP Token for USD\u20ae-BEHT",
+  "symbol": "USD\u20ae-BEHT LP"
  },
  {
   "address": "0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11",
