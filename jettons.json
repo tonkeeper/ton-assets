@@ -12265,11 +12265,14 @@
   "symbol": "LLAMA"
  },
  {
+ bqn-jetton-master
+
   "address": "0:10b88e39c419400e03d227851b4ab50eed0c974453964d7909fd17d9b917fe2e",
   "name": "Re Lone",
   "symbol": "LONE"
  },
  {
+  main
   "address": "0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30",
   "name": "Leprechaun",
   "symbol": "LUCKY"
