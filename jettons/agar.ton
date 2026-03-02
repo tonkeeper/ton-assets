@@ -1,0 +1,10 @@
+name: AGARTON
+description: The evolution of the virtual amoeba: AGAR.io on the TON network
+image: "https://i.postimg.cc/HxXSPsBZ/Useful-Stuff-Gamytroll.webp"
+address: 0:7cbb6c0e41835702f0cbdd74cea870948b6dfa7cfc2fa0df866a7ea117d13731
+symbol: AGAR
+max_supply: 20000000
+websites:
+  - "https://agar.io"
+social:
+  - "https://x.com/agarioofficial"
