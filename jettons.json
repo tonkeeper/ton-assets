@@ -195,6 +195,18 @@
   ]
  },
  {
+  "address": "0:0ade592656c8736097b2a4e0ad3c19c4fe4389e0d6fd870c91bd025e4430d6e8",
+  "decimals": 9,
+  "description": "A token of creativity and travel by Jekardos. Having walked 1,000 km and wintered in a forest tent, he is building the Jekardos Coin community, accessible worldwide.",
+  "image": "https://storage.dyor.io/jettons/EQAK3lkmVshzYJeypOCtPBnE_kOJ4Nb9hwyRvQJeRDDW6HPM/image.jpeg",
+  "name": "Jekardos",
+  "social": [
+   "https://t.me/ya_jekardos",
+   "https://jekardos.lovable.app"
+  ],
+  "symbol": "$JK"
+ },
+ {
   "address": "0:ec8f1991b7ab8bd307393f31100f2f90e7014ea95e593fcea5dc2cb598b8e2ab",
   "description": "$LABR is the token of the game Labrador Adventures.",
   "image": "https://labrador-zeta.vercel.app/labr-logo.jpeg",
@@ -281,6 +293,25 @@
   "websites": [
    "https://smartcoinstrategy.com/"
   ]
+ },
+ {
+  "address": "0:8b4e9d501b16adcb2b985f0f6d90dabc7929d01ee77bcfd89a00ca7c44add323",
+  "description": "Meme coin with Chilling capybara\u2019s vibes",
+  "image": "https://i.postimg.cc/0NgkCLJp/IMG-8095.jpg",
+  "name": "Ton Capybara",
+  "symbol": "$TCAPY"
+ },
+ {
+  "address": "0:de9cbb78b5ce562fd35d76d39c81a0b7b04117313c3d08858955fa8cb12dc078",
+  "decimals": 9,
+  "description": "Token has a real product generating revenue. Buybacks every 3 days. LP locked. The team burned their tokens. Contract ownership revoked. For more details, check the official sources",
+  "image": "https://i.ibb.co/yFfx3QyC/frame-046.png",
+  "name": "Trade DINO Bot",
+  "social": [
+   "https://t.me/TradeDino",
+   "https://t.me/ChatingTDINO"
+  ],
+  "symbol": "$TDINO"
  },
  {
   "address": "0:451aab804a8931111a2d60cb5d528397c98e41a22af95b260623b4b622d00250",
@@ -1123,6 +1154,24 @@
   ]
  },
  {
+  "address": "0:ef1e67257999d8bb97f4c1a3f4712cbebec97d19f9d73245bfb0173bdb5c01cb",
+  "description": "BehLand is a Web3 learning ecosystem designed to transform education into real economic value.",
+  "image": "https://cdn.beh.land/token/token-logo.jpg",
+  "name": "BehToken",
+  "social": [
+   "https://t.me/BehLand_Official",
+   "https://t.me/BehLand_gp",
+   "https://x.com/behlandOfficial",
+   "https://youtube.com/@behlandOfficial",
+   "https://instagram.com/behlandOfficial"
+  ],
+  "symbol": "BEHT",
+  "websites": [
+   "https://beh.land/en",
+   "https://dex.beh.land/en"
+  ]
+ },
+ {
   "address": "0:1bff21e5450f0770ef68a9a4e3301ffb32fa6afea45ab567b7a29b08716b2add",
   "description": "\u0412\u044b \u0441\u043b\u044b\u0448\u0430\u043b\u0438 \u0448\u0435\u043f\u043e\u0442. \u0412\u044b \u043d\u0430\u0448\u043b\u0438 \u0441\u043b\u0435\u0434\u044b. \u0422\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0438\u0448\u043b\u043e \u0432\u0440\u0435\u043c\u044f \u0440\u0430\u0441\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043a\u0440\u044b\u043b\u044c\u044f.",
   "image": "https://iili.io/fd49ccQ.jpg",
@@ -1598,12 +1647,26 @@
   "symbol": "BIRB"
  },
  {
+  "address": "0:a828c8d10f50c1bf4c8bdf615f34e84f9d53eddb241cc717657e5f4c917eaf39",
+  "decimals": 9,
+  "description": "BjG is the in-game utility token for the BlueJayGames ecosystem, earned through active gameplay and used to purchase items, access premium tournaments, and unlock exclusive community rewards",
+  "image": "https://crimson-select-magpie-972.mypinata.cloud/ipfs/bafkreib5h4eghpnfysdnj5od36o6ckbmokcqmhvbju4og2rbm26avacwaa",
+  "name": "BjG Games Token",
+  "social": [
+   "https://t.me/BjGCommunity"
+  ],
+  "symbol": "BjG",
+  "websites": [
+   "https://www.bluejaygames.com/"
+  ]
+ },
+ {
   "address": "0:54620b347dafed48edc2662c0dee57902f89170681db1a2828112c513534e446",
   "description": "Blazium (BLZ) is a Web3 token used for gaming, staking, XP conversion, and digital payments inside the Blazium Ecosystem, designed to reward players and developers while remaining deflationary. ",
   "image": "https://blaziumapp.xyz/blzlogo.jpg",
   "name": "Blazium",
   "social": [
-   "https://t.me/BLAZIUMCRYPTO",
+   "https://t.me/blaziumofficial",
    "https://t.me/blaziumtoken",
    "https://x.com/BLAZIUMCRYPTO"
   ],
@@ -2148,6 +2211,19 @@
   ]
  },
  {
+  "address": "0:8d8a258f91908c42d77ef8d4f86a2b239553d637d76b09f8dca64d8ab5e74bee",
+  "description": "Utility token for the CactusAdictos RWA ecosystem. Facilitates digital traceability and access to exclusive botanical inventories.",
+  "name": "CactusAdictos",
+  "social": [
+   "https://www.instagram.com/cactusadictos",
+   "https://x.com/CactusAdictos"
+  ],
+  "symbol": "Cactuscoin",
+  "websites": [
+   "https://t.me/cactusadictos"
+  ]
+ },
+ {
   "address": "0:86cf8401d283627a87b58c367b440cad933ab8aa7b383419e8ff7d1a00c945f8",
   "description": "TON synthetic token from Catton",
   "image": "https://catton.tech/cTON.png",
@@ -2238,6 +2314,18 @@
   "symbol": "UTN",
   "websites": [
    "https://unitontoken.com"
+  ]
+ },
+ {
+  "address": "0:c5e4dda81327eea99d8858e4e37d8d9c47836fc7104200abfbc83297d4cba56b",
+  "image": "https://capybobo.io/images/croco.png",
+  "name": "CrocCoin",
+  "social": [
+   "https://x.com/Capybobo_io"
+  ],
+  "symbol": "CROCO",
+  "websites": [
+   "https://capybobo.io/"
   ]
  },
  {
@@ -2882,6 +2970,24 @@
    "https://x.com/ecox_world"
   ],
   "symbol": "ECOX"
+ },
+ {
+  "address": "0:be9552ce31e53e66f903caf7328f8a421e9c521b6d98ff47cca1f2cde967e8d7",
+  "description": "The project is connected to a real-world business and aims to grow by bringing customers from the offline economy into TON through discounts for token holders and NFT owners. In the future, we plan to launch an application that will allow users to pay for up to 90% of purchases in real businesses using the token. It will function both as a payment method and as a bonus points system. We also plan to collaborate with other tokens and periodically buy back tokens using a percentage of the real business\u2019s net profit.",
+  "image": "https://i.ibb.co/LzXTLwxJ/photo-2025-03-13-21-40-33.jpg",
+  "name": "ELC EcoLavushkaCoin",
+  "social": [
+   "https://t.me/ecolavyshka",
+   "https://t.me/+TkmTbbM04fw5ZWIy",
+   "https://t.me/ELCtocen",
+   "https://vk.ru/ecolavyshka",
+   "https://x.com/elc_ecolavushka?s=21",
+   "https://www.instagram.com/ecolavyshka?igsh=cDNudHVwdWg3bHNx"
+  ],
+  "symbol": "ELC",
+  "websites": [
+   "https://ecolavyshka.ru"
+  ]
  },
  {
   "address": "0:a2ada5d0ac74fc18fa02641a20e78f894a87aa2578a560ed5578e88d06f6015b",
@@ -4420,6 +4526,20 @@
   ]
  },
  {
+  "address": "0:bdc2be813b4dccefb1de740b2f5cb60d486d9b15fb132ff0a8841ea9eae3d24b",
+  "description": "hi coin is the native utility token for the hi ecosystem. It powers a comprehensive Telegram Mini App featuring user leaderboards and direct purchases of VPN services, Telegram Stars, and other digital assets.",
+  "image": "https://raw.githubusercontent.com/oblivionik/hi-assets/main/photo_2026-01-05_19-30-29.jpg",
+  "name": "hi",
+  "social": [
+   "https://t.me/hicointon",
+   "https://t.me/hellobroxs"
+  ],
+  "symbol": "HI",
+  "websites": [
+   "https://t.me/hi_app_bot"
+  ]
+ },
+ {
   "address": "0:4974265c49a88493362265f90663c1f7461af9d4fbe89eabef11ac9a93e50e81",
   "description": "Priceohistory connects history and cryptocurrency. Our goal is popularization of history. Our cryptocurrency is Historycoin (HISTR).",
   "image": "https://images3.nplod.ru/gen_images_1/qVCguMPEVNm6ZTjeIFc5bqdQdBPhAq4b.jpg",
@@ -4663,6 +4783,22 @@
   "symbol": "JETTON",
   "websites": [
    "https://jetton.fan"
+  ]
+ },
+ {
+  "address": "0:f8f5a14b3ca8e5745207a9b394ef160a9247267f5a02357d14e96f050368b8e3",
+  "description": "The main development vector of the JOB token is focused on moving closer to equality in the accessibility of material goods in the real expression of the money supply. Taking into account inflationary and risk-related costs, relative to the value of labor measured in the equivalent of the user's expended energy (kcal).",
+  "image": "https://jobtoken.net/jobtoken/coin.png",
+  "name": "JOBTOKEN",
+  "social": [
+   "https://www.instagram.com/jobtokenn",
+   "https://www.facebook.com/profile.php?id=61572614114574",
+   "https://x.com/jobtokenn",
+   "https://t.me/jobtokenn"
+  ],
+  "symbol": "JOB",
+  "websites": [
+   "https://jobtoken.net/"
   ]
  },
  {
@@ -7798,7 +7934,7 @@
   "symbol": "SNT"
  },
  {
-  "address": "0:ae9e9d8ce4ea7889e647eb3742aafd60c3e800484a0d49723253b98cf94df63c",
+  "address": "0:045e1c9fc088cf687d565c14ca556db6ad5a8b8b45e6bfa42da6bdf809fdde9d",
   "description": "Have you noticed how many people are afraid of people... Sociafober - First 3D GameFi-story in Telegram",
   "image": "https://sociafober.me/logo.svg",
   "name": "Sociafober",
@@ -8812,6 +8948,18 @@
   ]
  },
  {
+  "address": "0:fbd5affb991f1e347e3acd86e551a7c5792a13bb3c10e858754325fd283098c1",
+  "description": "THIN preserves human intelligence in the age of AI. It transforms human knowledge into a valued, revenue-generating asset \u2014 ensuring contributors are rewarded, not exploited. Human intelligence is not disposable. It deserves ownership and return.",
+  "name": "TON Human Intelligence Network",
+  "social": [
+   "https://t.me/thinetcommunity"
+  ],
+  "symbol": "THIN",
+  "websites": [
+   "https://thinetwork.com"
+  ]
+ },
+ {
   "address": "0:88a9178415f1f764dc6a5c38b6c4697c9e67eb32e406e1a02011be7ab9101af0",
   "description": "Warthog (THOG) is a memecoin with a mission, a unique cryptocurrency inspired by the global viral trend of the Warthog \"KASONGO\" and its endearing \"reverse turbo\" antics. But $THOG is more than just a meme; it's a movement",
   "image": "https://thogtoken.com/assets/img/thogtoken.png",
@@ -9458,6 +9606,12 @@
    "https://www.instagram.com/unitaet_insta/"
   ],
   "symbol": "UNITF"
+ },
+ {
+  "address": "0:7b9a1fa614ea70c26cc2b8bb9edde12b12913b3d7deffcab54ef2471dcf6ec14",
+  "description": "Liquidity pool token for BEHT and on ston.fi DEX",
+  "name": "LP Token for USD\u20ae-BEHT",
+  "symbol": "USD\u20ae-BEHT LP"
  },
  {
   "address": "0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11",
@@ -12111,6 +12265,11 @@
   "symbol": "LLAMA"
  },
  {
+  "address": "0:10b88e39c419400e03d227851b4ab50eed0c974453964d7909fd17d9b917fe2e",
+  "name": "Re Lone",
+  "symbol": "LONE"
+ },
+ {
   "address": "0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30",
   "name": "Leprechaun",
   "symbol": "LUCKY"
@@ -12851,9 +13010,9 @@
   "symbol": "TBTC"
  },
  {
-  "address": "0:8b4e9d501b16adcb2b985f0f6d90dabc7929d01ee77bcfd89a00ca7c44add323",
-  "name": "Ton Capybara",
-  "symbol": "TCAPY"
+  "address": "0:b02252116515737704be898ed026782754253c50c29f3e15abfca919a10e8c72",
+  "name": "Toncast",
+  "symbol": "TCAST"
  },
  {
   "address": "0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713",
@@ -16111,6 +16270,21 @@
   "address": "0:0f32789bd5e82194d43d4e72d9282314b18d50278ad0ee9c81ecfbc65b130879",
   "name": "Midas Re7 Yield",
   "symbol": "mRe7YIELD"
+ },
+ {
+  "address": "0:45623c95ec8bc1fc6e14e8674c5750dde46c8cca1cd21449a9072f39f59724dd",
+  "name": "Re7 USDTv2",
+  "symbol": "Re7 USDTv2"
+ },
+ {
+  "address": "0:dd334308007372e99d8fe9718beb8194c0545f5dd1f101cb04f46bff6e91f13b",
+  "name": "Re7 wETHv2",
+  "symbol": "Re7WETHv2"
+ },
+ {
+  "address": "0:d64cfce1b9d183dc483066c3686c737489918e2dfbb163d9f094baf9737b38ea",
+  "name": "Re7 cbBTCv2",
+  "symbol": "Re7cbBTCv2"
  },
  {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
