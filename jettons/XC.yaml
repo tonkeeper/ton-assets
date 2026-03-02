@@ -4,4 +4,5 @@ address: "EQB4oSiTTnkjP3RgPMAheTlCjHFJuX5iwIo-1fk-0h7HhA4J"
 decimals: 7
 image: "https://raw.githubusercontent.com/cetaluan/jetton/main/logo.png"
 description: "The native token of CETALUAN project on TON blockchain."
-websites: "https://cetaluan.com"
+websites:
+  - "https://yourwebsite.com"
