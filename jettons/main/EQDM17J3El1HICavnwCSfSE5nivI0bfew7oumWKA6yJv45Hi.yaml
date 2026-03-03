@@ -1,6 +1,7 @@
 name: Queen coin
 symbol: QUC
-description: Official Queen coin on TON blockchain. Contract: https://tonviewer.com/EQDM17J3El1HICavnwCSfSE5nivI0bfew7oumWKA6yJv45Hi
+description: Official Queen coin on TON blockchain.
+Contract:https://tonviewer.com/UQCvEgaW2Blb05WPDmotWU22KgDI2LCGVNn89Pr-yQMEpHNH/jetton/0:ccd7b277125d479426af9f00927d21399e2be5d1b7dec3ba2e9b0280eb226fe3
 address: EQDM17J3El1HICavnwCSfSE5nivI0bfew7oumWKA6yJv45Hi
 decimals: 9
 image: https://b.top4top.io/p_3699d4xxu0.png
