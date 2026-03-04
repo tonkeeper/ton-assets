@@ -4,7 +4,7 @@ import json
 import yaml
 import glob
 
-from dexes import __get_stonfi_assets, __get_dedust_assets, __get_backed_assets
+from dexes import __get_stonfi_assets, __get_dedust_assets, __get_backed_assets, update_stonfi_routers
 from utlis import normalize_address
 
 EXPLORER_JETTONS = "https://tonviewer.com/"
@@ -115,7 +115,7 @@ def merge_accounts(accounts):
         accounts.extend(yaml.safe_load(open(file)))
 
     files = ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml', 'accounts/validators.yaml',
-             'accounts/scammers.yaml', 'accounts/notcoin.yaml', 'accounts/dapps.yaml')
+             'accounts/scammers.yaml', 'accounts/notcoin.yaml', 'accounts/dapps.yaml', 'accounts/ston.yaml')
     for file in files:
         accounts.extend(yaml.safe_load(open(file)))
 
@@ -149,6 +149,7 @@ def merge_collections():
 def main():
     if len([x for x in glob.glob("*.yaml")]) > 0:
         raise Exception("please don't add yaml files to root directory. use jettons/ or collections/")
+    update_stonfi_routers()
     collect_all_dexes()
     collect_all_backed()
     jettons = merge_jettons()

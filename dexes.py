@@ -1,4 +1,5 @@
 import logging
+import yaml
 from typing import List
 
 import requests
@@ -94,3 +95,18 @@ def __get_backed_assets() -> List[Asset]:
         assets.append(Asset(name=item["name"], address=ton_addr, symbol=item["symbol"]))
 
     return assets
+
+
+def update_stonfi_routers():
+    response = requests.get("https://api.ston.fi/v1/routers")
+    if response.status_code != 200:
+        logging.error("failed to update stonfi routers")
+        return
+    data = response.json()
+    routers = list()
+    for item in data['router_list']:
+        routers.append({"address": item["address"], "name": "STON.fi DEX"})
+    if len(routers) == 0:
+        return
+    with open("accounts/ston.yaml", "w") as f:
+        yaml.safe_dump(routers, f, sort_keys=True, allow_unicode=True)
