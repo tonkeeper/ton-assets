@@ -4086,18 +4086,6 @@
   ]
  },
  {
-  "address": "0:23ebcd016a99ed0c49baa5aad7e017d7fd2d4971bd6aa45eb70511221d960118",
-  "image": "https://gattogame.github.io/Gatto/500x500.png",
-  "name": "Gatto",
-  "social": [
-   "https://t.me/gatto_game"
-  ],
-  "symbol": "GTON",
-  "websites": [
-   "https://t.me/gatto_gamebot"
-  ]
- },
- {
   "address": "0:a13f0f6bc3de006f65d8b89c3827bb96a2a7049eb431b260d97a907d4cf68a89",
   "description": "GBT is a memetoken of the car showroom GegabyteAuto",
   "name": "GEGABYTEAUTO",
@@ -4417,6 +4405,18 @@
   "symbol": "GWT",
   "websites": [
    "https://goblinmine.game/"
+  ]
+ },
+ {
+  "address": "0:caf884eb99d59f9ece886ec7bdc5dc3f2b95404408a11a268c7afd2492a13353",
+  "image": "https://gattogame.github.io/Gatto/500x500.png",
+  "name": "Gatto Game Token",
+  "social": [
+   "https://t.me/gatto_game"
+  ],
+  "symbol": "GTON",
+  "websites": [
+   "https://gatto.pw"
   ]
  },
  {
