@@ -1,0 +1,9 @@
+name: "TON Quiz"
+description: "An exclusive NFT collection for the TON Quiz project. Users can create these NFTs after successfully completing quizzes to validate their knowledge in selected categories. Quizzes cover a variety of topics, from language proficiency tests to machine learning and AI."
+image: "https://ton-quiz.com/Collection.png"
+address: "EQAeNcTNUD9QReO98SPw1CraGGXDvk8miznrBwHAjroFzmLc"
+websites:
+  - "https://ton-quiz.com"
+social:
+  - "https://t.me/ton_quiz_official"
+  - "https://t.me/ton_quiz_official_bot"
