@@ -10010,6 +10010,22 @@
   "symbol": "WB"
  },
  {
+  "address": "0:03976b4f2648a86095adf9700799bec01c4210fe63fcb5922a4c05834a4d7179",
+  "description": "A space-themed game that combines engaging gameplay with a real token-based economic model. Players explore space, upgrade their ship, and earn digital assets. The WCG token will eventually become the foundation of a multifunctional platform.",
+  "name": "World Coin",
+  "social": [
+   "https://t.me/worldcoin2025",
+   "https://discord.gg/RMVrenfU9R",
+   "https://www.facebook.com/share/1DqfhwLuLH/?mibextid=wwXIfr",
+   "https://www.tiktok.com/@wcg_5",
+   "https://www.instagram.com/worldcoin902"
+  ],
+  "symbol": "WCG",
+  "websites": [
+   "https://worldcoingame.tilda.ws"
+  ]
+ },
+ {
   "address": "0:78532b87ec99f6227a0010e9cf59f5aae07e083f229347dfea6fe38c0599278b",
   "description": "$WCOIN is the community-driven token powering the W-Coin app - used for rewards, tasks, staking, and future utilities.",
   "name": "W-Coin",
@@ -12343,11 +12359,6 @@
   "address": "0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067",
   "name": "LLAMA",
   "symbol": "LLAMA"
- },
- {
-  "address": "0:10b88e39c419400e03d227851b4ab50eed0c974453964d7909fd17d9b917fe2e",
-  "name": "Re Lone",
-  "symbol": "LONE"
  },
  {
   "address": "0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30",
