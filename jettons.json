@@ -832,6 +832,23 @@
   "symbol": "ATERRA"
  },
  {
+  "address": "0:0d716e395b44e9f756f3bc76b268f3bafba85fd4b9b85e5599e2b37a2f9a1f3d",
+  "decimals": 9,
+  "image": "https://www.atftoken.com/image/atflogo.png",
+  "name": "AI Trading Forex",
+  "social": [
+   "https://t.me/AI_TRADING_FOREX",
+   "https://t.me/ATFFARSI",
+   "https://x.com/ai_trading_frx",
+   "https://www.instagram.com/ai_trading_forex",
+   "https://youtube.com/@ai_trading_forex"
+  ],
+  "symbol": "ATF",
+  "websites": [
+   "https://www.atftoken.com"
+  ]
+ },
+ {
   "address": "0:11f8a05dbb02f8c3e2e0ef64055f8b564ce0090864bbd859061eb24bf50b7b3f",
   "decimals": 9,
   "description": "AVACOIN is the first fully integrated ecosystem built on Telegram mini-apps, combining play2earn, learn2earn, staking elements, and a marketplace on a single convenient platform.",
