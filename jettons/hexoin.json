@@ -1,0 +1,10 @@
+{
+  "name": "HEXOIN",
+  "symbol": "HEX",
+  "decimals": 9,
+  "address": "EQBTraKMfUCum7uLV6dsWIZD0s9QNRhDxIB8D7S2tFFhEH8X",
+  "image": "http://ggcoin.tech/hex/img/hex_logo.png",
+  "description": "HEXOIN token for HexDrop puzzle game",
+  "websites": ["https://ggcoin.tech/hex"],
+  "social": ["https://t.me/hexdropbot"]
+}
