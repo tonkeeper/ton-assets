@@ -2987,6 +2987,25 @@
   "symbol": "E4"
  },
  {
+  "address": "0:8caf842d49bbf3809b8cb9d0ca42f4ad0dfa27124ab54c364ea3df7848504470",
+  "description": "Native token of E8T.app. Telegram's first gamified hospitality on TON: Real-World Perks, Challenges, Rewards & E8Ties\u2014collect, evolve & Battle.",
+  "image": "https://e8t.app/e8t.png",
+  "name": "E8T",
+  "social": [
+   "https://t.me/E8T_App",
+   "https://x.com/E8TApp",
+   "https://www.youtube.com/@E8TApp",
+   "https://www.tiktok.com/@e8t.app",
+   "https://www.instagram.com/e8t.app/",
+   "https://www.facebook.com/p/E8Tapp-100091568440097/",
+   "https://www.reddit.com/r/E8T_App/"
+  ],
+  "symbol": "E8T",
+  "websites": [
+   "https://e8t.app"
+  ]
+ },
+ {
   "address": "0:dcfe7ae6e6839509540cf06449e6afe1af58e0a4d423b06908184faecedb76eb",
   "description": "Ecorpay token",
   "image": "https://iimg.su/s/04/th_AxF6R4MLWDYrpbzNRuicBAC7Ls1Ectyv4vV8nd31.png",
