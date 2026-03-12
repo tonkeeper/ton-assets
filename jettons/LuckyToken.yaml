@@ -1,0 +1,10 @@
+name: Lucky Token
+description: "Lucky Token ($LUCK) - Reward token for Lucky Day, a Telegram Mini App game on TON. Earn LUCK through arena competitions and seasonal events."
+image: "https://yourluckyday.app/images/luck-token.png"
+address: EQDu0E2WIw-S2XOVMHN8aM3-joJoPXDRLTsqynRvfXqbmqwp
+symbol: LUCK
+decimals: 9
+websites:
+  - "https://yourluckyday.app"
+social:
+  - "https://t.me/yourluckyday"
