@@ -11434,6 +11434,19 @@
   "symbol": "GROYP"
  },
  {
+  "address": "0:53ada28c7d40ae9bbb8b57a76c588643d2cf50351843c4807c0fb4b6b4516110",
+  "description": "HEXOIN is the utility token powering HexDrop \u2014 a hexagonal merge puzzle game on Telegram built on TON blockchain",
+  "name": "HEXOIN",
+  "social": [
+   "https://t.me/hexdropbot",
+   "https://t.me/hexdropbot/hexdrop"
+  ],
+  "symbol": "HEXOIN",
+  "websites": [
+   "https://hexoin.tech"
+  ]
+ },
+ {
   "address": "0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc",
   "image": "https://hpo.hipo.finance/hpo.png",
   "name": "Hipo Governance Token",
