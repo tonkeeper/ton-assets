@@ -10482,6 +10482,18 @@
   ]
  },
  {
+  "address": "0:54f5925daff803c9f6f6abb77be4ff36d53cea2b6d4049fd42247a7803154668",
+  "description": "ZTX909 is a utility token that will serve as the key to our upcoming marketplace. We are preparing to offer Telegram Premium, Stars, and NFT gifts at some of the lowest prices on the market exclusively for holders. Hold ZTX909 and get the best Telegram perks for a fraction of the price! \ud83d\ude80",
+  "image": "https://i.ibb.co/Zp86hqwp/photo-2026-03-14-19-34-58.jpg",
+  "name": "ZTX909",
+  "social": [
+   "https://x.com/ZTX909",
+   "https://t.me/ZTX909",
+   "https://t.me/ZTX90GIFT"
+  ],
+  "symbol": "ZTX909"
+ },
+ {
   "address": "0:d79ad6edd7e5923f4d2d4a1e8de851fee255fb2db9eb8ce442966b66b99aa0e1",
   "name": "Ethena Multiply Vault",
   "social": [
