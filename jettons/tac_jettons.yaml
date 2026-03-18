@@ -86,3 +86,15 @@
 - name: Midas Re7 Yield
   symbol: mRe7YIELD
   address: EQAPMnib1eghlNQ9TnLZKCMUsY1QJ4rQ7pyB7PvGWxMIeQlM
+
+- name: Re7 USDTv2
+  symbol: Re7 USDTv2
+  address: EQBFYjyV7IvB_G4U6GdMV1Dd5GyMyhzSFEmpBy859Zck3cJP
+
+- name: Re7 wETHv2
+  symbol: Re7WETHv2
+  address: EQDdM0MIAHNy6Z2P6XGL64GUwFRfXdHxAcsE9Gv_bpHxO190
+  
+- name: Re7 cbBTCv2
+  symbol: Re7cbBTCv2
+  address: EQDWTPzhudGD3EgwZsNobHN0iZGOLfuxY9nwlLr5c3s46sjQ

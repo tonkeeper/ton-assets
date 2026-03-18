@@ -997,9 +997,9 @@
 - address: 0:91b8ae5722b89efd06de4447ef4c9433678b51b0af262e1665f975cb7f3f62e5
   name: TonBitcoin
   symbol: TBTC
-- address: 0:8b4e9d501b16adcb2b985f0f6d90dabc7929d01ee77bcfd89a00ca7c44add323
-  name: Ton Capybara
-  symbol: TCAPY
+- address: 0:b02252116515737704be898ed026782754253c50c29f3e15abfca919a10e8c72
+  name: Toncast
+  symbol: TCAST
 - address: 0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713
   name: TON Cat
   symbol: TCAT
@@ -1175,6 +1175,9 @@
 - address: 0:1a01717de3cb8ad63022e11c8ce72c1dfe08088f1f2e64ae162f91995fa1e590
   name: Tiny Verse Matter
   symbol: TYVM
+- address: 0:f4d53c04d69958a582af47058e2f0033cc025a0cac290766d1de77e0fb090927
+  name: Teleclaw
+  symbol: Teleclaw
 - address: 0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3
   name: Token 69
   symbol: Token 69
