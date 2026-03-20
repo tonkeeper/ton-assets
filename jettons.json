@@ -7097,6 +7097,20 @@
   ]
  },
  {
+  "address": "0:f86f2a73fcc6e0f2df0855eacdbf8c42e085dc2223a113d959d3620eefcb27d3",
+  "description": "In-game currency for TON Dungeon game Telegram mini app",
+  "image": "https://tondungeon.com/webapp/icon.png",
+  "name": "Penny token",
+  "social": [
+   "https://t.me/tondungeon_news",
+   "https://x.com/tondungeonTG"
+  ],
+  "symbol": "$PNY",
+  "websites": [
+   "https://tondungeon.com"
+  ]
+ },
+ {
   "address": "0:8b73c8d19e9c91a993ed8601fb74ce06f9c0c5a56ecc6389373e3d7fedf58f85",
   "description": "Polar Owl a community token. As the hype of Telegram stickers on TON continues to soar, Polar Owl emerges as a meme ready to take flight in this bull run. With its unique charm and community-driven energy, Polar Owl is shaping up to be one of the biggest memes in the market.",
   "image": "https://i.ibb.co/bjLXcCwS/polarowlpic.png",
