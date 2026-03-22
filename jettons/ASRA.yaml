@@ -1,0 +1,10 @@
+name: ASRA Ton
+description: ASRA Token - One-time mint only. No additional tokens will ever be minted. Total supply: 1,000,000,000 ASRA.
+image: "https://raw.githubusercontent.com/asraton/ASRA-ton/master/ASRA.png"
+address: EQA8Mx1E9_RXEroXSW7PI5EHwEAMxAMhwKLXTlKX-3uQOJWy
+symbol: ASRA
+decimals: 9
+websites:
+  - "https://github.com/asraton/ASRA-ton"
+social:
+  - "https://t.me/asratonbot"
