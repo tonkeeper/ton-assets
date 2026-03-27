@@ -13,6 +13,9 @@
 - address: 0:efb12c60e328fe47d4301170aacb39c120c3d96adfb9440a983d48e78f6e4f91
   name: Adobe xStock
   symbol: ADBEx
+- address: 0:0bd961eb6a3d0661affcbae064fe9726b002427e197423e9e2edd566f986a172
+  name: Applied Materials, Inc. xStock
+  symbol: AMATx
 - address: 0:8ff35c8f0b7c874d6ff94355fca0faded21169ce2c978116913b5bcefee06691
   name: Amber xStock
   symbol: AMBRx
@@ -22,6 +25,12 @@
 - address: 0:ad0f6fbbab11e1428361c6b8b6252cc7f9d9665aa298083b65119a918b7fb9ea
   name: Amazon.com xStock
   symbol: AMZNx
+- address: 0:d301ac23a8f20fb93c22289ec405a3f4b3e88762f2ac9448118571d59ace6c84
+  name: Arista Networks, Inc. xStock
+  symbol: ANETx
+- address: 0:2373b9060f6ea7efab41b42c5bced34dc87467d6fb9ddbe477fdeba3f00d332c
+  name: Applied Digital Corporation xStock
+  symbol: APLDx
 - address: 0:8627b2ae2ac16edf0f959a019552ee6a1e0c47d2441e7b76fd8f91d35a2ed012
   name: AppLovin xStock
   symbol: APPx
@@ -49,6 +58,9 @@
 - address: 0:e451ccac3fc51619124c212fd7030f35d92040d4257df543e3dadcf71d09c1ba
   name: Bitgo xStock
   symbol: BTGOx
+- address: 0:68fc01e35abd375299d4f56320ccba4df91407da22b46705d947a68d5c5f434c
+  name: Constellation Energy Corporation xStock
+  symbol: CEGx
 - address: 0:a3750aae82a52aeae7614158498a1927a8f729fa7bd9c7953bb8a53acb57078c
   name: CleanSpark xStock
   symbol: CLSKx
@@ -79,12 +91,21 @@
 - address: 0:cefa62b68c7340a90079365c992803be09be1a67991fd11f354cfd72a8450ee9
   name: Chevron xStock
   symbol: CVXx
+- address: 0:7516d284f0f3a3acc6fd736f56765bbcab9ff1cb46de0c6094838d5dc51a7a69
+  name: Dell Technologies Inc. xStock
+  symbol: DELLx
 - address: 0:47fbab087e97df6a1b206163b9ea500d223da4c7325e8eee6abef082f40a9855
   name: DFDV xStock
   symbol: DFDVx
 - address: 0:4957bc7f9b3fb8fa83bcfca4516bc8ca623538e519df554df0b9d4c76718553a
   name: Danaher xStock
   symbol: DHRx
+- address: 0:f4fbf3297608d95f02dc46885a3ced13e0588ba5309eea8eb543a0cec7af8968
+  name: Eaton Corporation plc xStock
+  symbol: ETNx
+- address: 0:5985e7354a2f2362a4dfcd3c061f3d3d339f124a0f846f374e4418a190cf07b1
+  name: GE Vernova Inc. xStock
+  symbol: GEVx
 - address: 0:b8f63eaf526adaac9cd23a565f347607a0d1075f7fffd285f57592c47c4ed5cb
   name: Gold xStock
   symbol: GLDx
@@ -124,6 +145,9 @@
 - address: 0:419d217235990d9aaec8e04f725a1643650bab710846905786055fd45e26c596
   name: Intel xStock
   symbol: INTCx
+- address: 0:faf0b1e26c43b816dfddf6b6f09632ecfb56a2d24488e1c04124ef428f831c9c
+  name: iShares U.S. Aerospace & Defense ETF xStock
+  symbol: ITAx
 - address: 0:a948a8746cef33af933a42793995551a50ac04b12b2313e5f6f4fc588619c48f
   name: Russell 2000 xStock
   symbol: IWMx
@@ -133,6 +157,9 @@
 - address: 0:56503dbc2f409a1691f316863189f88d394027c9b6984912f6ee2e1fbce64d59
   name: JPMorgan Chase xStock
   symbol: JPMx
+- address: 0:54239d6954eec7ed96b6e85331df9aef61edb7f3b4b757df6a00cf136f196e2b
+  name: KLA Corporation xStock
+  symbol: KLACx
 - address: 0:03fa256654a5bc7eb0c360f77cd0dfbb772f26d8b7d4f272bff394de1e45d613
   name: Coca-Cola xStock
   symbol: KOx
@@ -142,9 +169,15 @@
 - address: 0:c9693d81da782b37b3b748b4718e3d5767b03cfa10076c8b4aa42f02ab80f22a
   name: Linde xStock
   symbol: LINx
+- address: 0:8394babfd3755cba9b1ad25284e334e694a0be2f5dabda7fc5349c17f0d3ca70
+  name: Lumentum Holdings Inc. xStock
+  symbol: LITEx
 - address: 0:dec5016a85bcaecbd5602b578c7475d9022e640b65816c77bbe261d611d1d557
   name: Eli Lilly xStock
   symbol: LLYx
+- address: 0:9d8f47305e479b343826d512653190f44d5d8c68681d6e9f291225f41d36531c
+  name: Lam Research Corporation xStock
+  symbol: LRCXx
 - address: 0:44b22920ce46af62e43789ebd1254e9a835f6b734938dc0a0e5bdc5c7cd486d4
   name: MARA xStock
   symbol: MARAx
@@ -160,6 +193,9 @@
 - address: 0:f7720420e37d81882491962fa132cc2856ebcd9cee3616e31d73e017a9df3749
   name: Meta xStock
   symbol: METAx
+- address: 0:7ee422f955d576ed5ced28515d694205f1868a22203d990d7614953bb0024feb
+  name: VanEck Agribusiness ETF xStock
+  symbol: MOOx
 - address: 0:4b9596742798de3f09382194a6c7864ccbb9bd710f9bbe28907427c294136e7e
   name: Merck xStock
   symbol: MRKx
@@ -220,6 +256,9 @@
 - address: 0:c24abc2b64f7b8656f8e054d6fc716a54710dea332a5fe653d3a7863f9a994c0
   name: abrdn Physical Platinum Shares xStock
   symbol: PPLTx
+- address: 0:ce5d37732d9061d41e173da00af2e83ea6d6c99887e45e3c802656b2a7857b6f
+  name: Quanta Services, Inc. xStock
+  symbol: PWRx
 - address: 0:4d3e31874dd019f01f7f274c9bd178eb029813e8c9da0979bd75acbbc11aab1a
   name: PayPal xStock
   symbol: PYPLx
@@ -238,12 +277,27 @@
 - address: 0:279802ac6bf9825e879f8f379c9a35cc9ede4ea944634fe3850f98724f537784
   name: Schwab International Equity xStock
   symbol: SCHFx
+- address: 0:6e02373c8bd53ff5fc2b9ebe48e10a21ccd8ee73c42c53c262c105ac99201383
+  name: iShares 0-3 Month Treasury Bond ETF xStock
+  symbol: SGOVx
 - address: 0:5478361f71bedb24b8bcdb4c748932cdaadec59b04f207520bda4c24eace2b53
   name: Brera xStock
   symbol: SLMTx
 - address: 0:92380750fb3d1bef75a4a081cabec116f00ae76d5b517ce84f22e986e4fa6df1
   name: iShares Silver Trust xStock
   symbol: SLVx
+- address: 0:549cc3ff0fb5d6c63cc30347e5ec720b9f130a3f814a9eb3c14e64fc63c520a3
+  name: Super Micro Computer, Inc. xStock
+  symbol: SMCIx
+- address: 0:49fe6b5759e9df51b3b75f5a3c2d0489dd51e6a763e5fc8a5cc22df1524d7ed7
+  name: VanEck Semiconductor ETF xStock
+  symbol: SMHx
+- address: 0:7a993e000bba1f37b1f849bd8111978a626ab51878f2ca15ca23f5f63c5f427b
+  name: NuScale Power Corporation xStock
+  symbol: SMRx
+- address: 0:ee78fdb21081126dcaf026b1fa588f093b29b86636facf0d614dc95a43eaf468
+  name: Sandisk Corporation xStock
+  symbol: SNDKx
 - address: 0:4a720b2050af0e139db1bb5a1c32eda79b96e2c1e172e71577fede0feec5ec42
   name: Virgin Galactic xStock
   symbol: SPCEx
@@ -259,6 +313,9 @@
 - address: 0:a3a729a95bf5df60f3b0b84c37f4feb09a593ca3a2ad468de40bfea93958f100
   name: TBLL xStock
   symbol: TBLLx
+- address: 0:47f90edf37054db09f865095466839aafa9a3fbdff12b3f2f1318e8fa8e22256
+  name: Teradyne, Inc. xStock
+  symbol: TERx
 - address: 0:948404116058030aceec551f8e362f764952fe3693a81f5a97d1488243e0f17a
   name: Thermo Fisher xStock
   symbol: TMOx
@@ -283,12 +340,36 @@
 - address: 0:90bbd3f0221817ea8118d14d54e1074a0399c1ee030bfcad69c8125655bea9d9
   name: UnitedHealth xStock
   symbol: UNHx
+- address: 0:627f10e747580c0cac9374b27a951aa6774bd768a176a46efd9d6e4493e53561
+  name: Global X Uranium ETF xStock
+  symbol: URAx
+- address: 0:0f5f916e4152368859e2e26e2f2f7978ffc98e6c108f247b1c40573f8f56c6a2
+  name: USA Rare Earth Inc. xStock
+  symbol: USARx
+- address: 0:3fda788caf048a1f5f20fb81d93adf6b2cf598f14df36ce22703fe81c68764f8
+  name: Energy Fuels Inc. xStock
+  symbol: UUUUx
+- address: 0:4335f6f732153cdead8ee1b77ab9963413b3fb3fb8a6ff4979a36d50230a0ed4
+  name: Fundrise Innovation Fund, LLC xStock
+  symbol: VCXx
+- address: 0:b5a0c95cf19a449ed17e7a9a40b6f6441dc0e26066af4bcf699cfd568a111e7f
+  name: Vanguard FTSE Europe ETF xStock
+  symbol: VGKx
+- address: 0:e967c354ffc9e515bc9c3b5edf19aa1f9b189f2f02de76439f6d3496e9a87bff
+  name: Vertiv Holdings Co xStock
+  symbol: VRTx
 - address: 0:7b8a4dfefe8450d0510825862ef0d1be00d21a31df8a34b5d2bdf6e648c081d6
   name: Vanguard xStock
   symbol: VTIx
 - address: 0:e91b0ebd8f0673a9db7cf24c1dedd5329a68395b4fb213922f4b9013b20765e7
   name: Vanguard Total World xStock
   symbol: VTx
+- address: 0:e2c5fd7daeac0c51395fb732459487481fe1202e5267953625e3fb28a392cdb5
+  name: Vanguard Growth ETF xStock
+  symbol: VUGx
+- address: 0:6460ee3d8c8a920dc4960090ab9e3c4307331d6d85a80a8e0530b6c80106244b
+  name: Vanguard Total International Stock ETF xStock
+  symbol: VXUSx
 - address: 0:b9519640b91e0c3376ab11d27a5965df15ec8449ab5fac3cb5dbfee0fe0d2ca8
   name: Visa xStock
   symbol: Vx
@@ -301,6 +382,12 @@
 - address: 0:e769c591ca12f5195aa96a6b4db51d4cf4af7d37ba0d8371fc78cc8829607f88
   name: TeraWulf xStock
   symbol: WULFx
+- address: 0:9bc320d41aa14238f7155fc7af6cc9813e553bd1ad0ed2ce22f25467465d05f9
+  name: Energy Select Sector SPDR Fund xStock
+  symbol: XLEx
 - address: 0:b869381323270118e36b6cfeef13be6545d563fa5cb3f2a61773c8ec316676a4
   name: Exxon Mobil xStock
   symbol: XOMx
+- address: 0:66c7f1fd08da2b6b55676d97e48eddc5b0fa076a919c5c94270aca2d0344925e
+  name: SPDR S&P Oil & Gas Exploration & Production ETF xStock
+  symbol: XOPx
