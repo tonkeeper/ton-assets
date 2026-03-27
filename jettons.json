@@ -10736,6 +10736,11 @@
   "symbol": "APPx"
  },
  {
+  "address": "0:236417ee22ddf5e38e0fb321da18a98ab2a0af396cce8217455de4d978dafc8a",
+  "name": "ASML xStock",
+  "symbol": "ASMLx"
+ },
+ {
   "address": "0:19664ea2f9da7df9d9edcbd1721ed949d247816cf98641b2c6da3efa4fb394c4",
   "name": "AST SpaceMobile xStock",
   "symbol": "ASTSx"
