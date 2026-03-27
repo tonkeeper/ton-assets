@@ -1,7 +1,8 @@
 name: $WEED
+symbol: WEED
+decimals: 9
 description: "GROWEED — игровой jetton в сети TON (gweedapp.xyz)."
 image: "https://gweedapp.xyz/weed-token-logo.png"
 address: EQCNelIsfIfdYwSuKEYZENsiXxpvAJ6zW6zZN8LOzSjswYaG
-symbol: WEED
 websites:
   - "https://gweedapp.xyz/"
