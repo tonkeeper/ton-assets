@@ -1,0 +1,11 @@
+name: SYNAPSE
+symbol: SYN
+address: EQCnU_WJdTl8T1vm6pCtW4F4PpOpEzf_e1FR0xvSr65ACx0f
+image: "https://tma.claude-model.com/syn-logo.png"
+description: |
+  Decentralized AI Computing Network Token.
+  Mine $SYN by contributing GPU/CPU power via Telegram Mini App.
+websites:
+  - "https://tma.claude-model.com"
+social:
+  - "https://t.me/synapse_mining_bot"
