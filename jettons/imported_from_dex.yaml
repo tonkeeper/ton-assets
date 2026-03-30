@@ -478,6 +478,9 @@
 - address: 0:cc03b311b0b8ff03a6f35f8544c3beb1fb72c12278a9312f5119d72c9a7c4537
   name: Informatoken
   symbol: IFT
+- address: 0:0e40d83dcabd3134d478e446e6dd26b67f75a8e7e6e5c65506299848fdbd8e2c
+  name: IGOR
+  symbol: IGOR
 - address: 0:651e7602d14935dff5812b83cdfaa8c1d938a25e2c580d37bb1235f5efe215fb
   name: Ton Invaders Coin
   symbol: INC
@@ -1073,6 +1076,9 @@
 - address: 0:f18d88be0657b8eaf2b1b6dfef97bf6003831becc2de1dbb628b59f8bfed54c2
   name: Ton Meme Dao
   symbol: TMD
+- address: 0:0e45d339696c808e295b5b64a37a17816d737972ab81323a2971298f056b6673
+  name: 'TON MEME EMPIRE '
+  symbol: TME
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
