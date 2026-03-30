@@ -1,0 +1,9 @@
+address: "EQDD9e9SgzwXW3TRtqO9DPdEeXfUH3Efefqrw2VtFI8oy0Q6"
+name: "Black Cat"
+symbol: "BCT"
+decimals: 9
+websites:
+  - name: "Website"
+    url: "https://kosmos1.vercel.app/"
+  - name: "telegram"
+    url: "https://t.me/devkosmosbot"
