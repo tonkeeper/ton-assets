@@ -4437,6 +4437,17 @@
   ]
  },
  {
+  "address": "0:0eced892f27fdadfe62a98e30e133c7b486ed77ffdeaa7161f30dc3f6ccb7c84",
+  "decimals": 9,
+  "description": "you came to the right neighbourhood fren, come walk with us",
+  "image": "https://i.kym-cdn.com/photos/images/original/001/594/548/0d0.jpg",
+  "name": "Walking Groypers",
+  "symbol": "GROYPERS",
+  "websites": [
+   "https://groypfi.io/launchpad"
+  ]
+ },
+ {
   "address": "0:61293e3e39a4996b104172f0c4e2ef2cdcbd6ff2effa707c5225059cced95de8",
   "description": "Goblin World Token (GWT) is the official coin of the ever-expanding Goblin Universe on Telegram.",
   "image": "https://api.goblinmine.game/storage/gwt_token.png",
