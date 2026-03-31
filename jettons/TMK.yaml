@@ -1,0 +1,9 @@
+name: TONMarket token
+description: TMK is TONMarket’s utility token for rewards, participation, and future staking.
+image: "https://cache.tonapi.io/imgproxy/Jz3ZsL7Mf3gPIy6qdY3ZMUbmY15hvLRfHMxbpP3HjPM/rs:fill:200:200:1/g:no/aHR0cHM6Ly90b25tYXJrZXQuaW8vdG9uL2ljb24ucG5n.webp"
+address: EQA0dlYhKrmJNOKmc05kK1fDVlno8fFJNEU9GdpznLhl5osB
+symbol: TMK
+websites:
+  - "https://tonmarket.io/"
+social:
+  - "https://t.me/tonmarketio_bot"
