@@ -925,6 +925,9 @@
 - address: 0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4
   name: Shitcoin
   symbol: SHIT
+- address: 0:b873e5e585397553be809c3700d99ec697e1b1fd239cb62633d55fa40d84032c
+  name: SHREK
+  symbol: SHRK
 - address: 0:403eeb032b45bfa44c92fdd30a851402a5f171d2ccde0d984b434101a28e2a86
   name: Shark Invest Club
   symbol: SIC
