@@ -1,0 +1,6 @@
+name: "USD"
+symbol: "USD₮"
+address: "EQDDcazwMx99443_2hKs7KQkcoLq1F2a50YGLARg2bty7QQr"
+decimals: 6
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/USDT_Logo.png"
+description: "USD-pegged token on TON"
