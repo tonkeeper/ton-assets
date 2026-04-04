@@ -1,0 +1,135 @@
+name: DYO Coin
+symbol: DYO
+network: TON
+standard: Jetton
+
+project:
+  name: DYO Coin
+  category: Decentralized Digital Asset
+  launch_year: 2026
+  license: MIT
+  vision: >
+    Establish DYO Coin as a high-precision, community-driven,
+    and technologically advanced token on the TON blockchain,
+    designed for transparency, usability, and long-term ecosystem growth.
+  mission: >
+    Deliver a resilient digital asset ecosystem combining
+    precise tokenomics, staking capabilities, and adoption strategies
+    for modern decentralized finance participants.
+
+supply:
+  total: 250000
+  decimals: 17
+  mintable: Not specified
+  burnable: Optional
+  scarcity_model: Flexible / To be decided
+  rationale: >
+    DYO Coin's precise supply ensures accurate micro-transactions,
+    long-term usability, and ecosystem reliability.
+
+capabilities:
+  transferable: true
+  staking_supported: true
+  liquidity_ready: true
+  governance_ready: true
+
+contract:
+  address: EQBecPnJhY-xjHWmELM44aVqDh8tT1C1UGvi8Aioz4jlBzEv
+  blockchain: TON
+  token_standard: Jetton
+  audit_status: Pending/Verified
+
+description: >
+  DYO Coin represents a next-generation decentralized digital asset.
+  Built with precise tokenomics and staking support, DYO Coin empowers
+  investors and communities to participate in a secure, transparent,
+  and sustainable ecosystem. Every token holder can trust in
+  long-term usability and strategic growth within the TON network.
+
+branding:
+  logo: https://storage.dyor.io/jettons/images/1773998004/40623332.png
+  icon: https://storage.dyor.io/jettons/images/1773998004/40623332.png
+  theme: Futuristic, Tech-Forward, Professional
+
+community:
+  twitter: https://x.com/DYO_l
+  telegram: https://t.me/dyo_l
+
+contact:
+  primary_email: dyo@proton.me
+
+metadata:
+
+  tokenomics: |
+    DYO Coin operates on a high-precision model:
+    - Total Supply: 250,000 DYO
+    - Decimals: 17
+    - Minting: To be decided
+    - Burning: Optional
+    - Staking: Supported for secure participation
+
+    This model ensures predictable mechanics, usability, and ecosystem reliability.
+
+  value_proposition: |
+    DYO Coin integrates blockchain principles with investor-friendly design:
+    - High-precision token structure
+    - Transparent and verifiable supply
+    - Staking-enabled participation
+    - Community-centered ecosystem
+    - Alignment with TON blockchain standards
+
+  distribution_strategy: |
+    Designed to support:
+    - Ecosystem adoption through phased engagement
+    - Liquidity readiness and monitoring
+    - Transparent reporting for all stakeholders
+
+  roadmap: |
+    Phase 1 — Launch & Setup (Completed)
+      - Token deployed on TON
+      - Core parameters configured
+      - Metadata and logo prepared
+
+    Phase 2 — Community Activation (Ongoing)
+      - Social channels and community engagement
+      - Liquidity setup and monitoring
+      - Ecosystem onboarding
+
+    Phase 3 — Verification & Integration
+      - DYOR submission and wallet listings
+      - Explorer integration
+      - Transparency documentation
+
+    Phase 4 — Long-Term Growth
+      - Strategic partnerships
+      - Ecosystem expansion
+      - Continuous upgrades and innovations
+
+  governance: |
+    DYO Coin implements clear governance principles:
+    - Transparent updates for all community members
+    - Community-driven initiatives
+    - Structured decision-making for sustainable development
+
+  security: |
+    DYO Coin is secured via TON blockchain architecture:
+    - Minting decisions are flexible
+    - Transparent smart contract
+    - Staking-enabled with predictable mechanics
+    - Designed for secure long-term operation
+
+  long_term_strategy: |
+    DYO Coin focuses on establishing a resilient, forward-looking
+    digital asset ecosystem through:
+    - High-precision tokenomics
+    - Transparent governance
+    - Responsible liquidity management
+    - Community-aligned growth
+    - Gradual integration with TON technological advancements
+
+  investor_focus: |
+    DYO Coin offers a unique opportunity for investors seeking:
+    - Predictable, high-precision value
+    - Transparent and verifiable token structure
+    - Long-term sustainable growth
+    - Engagement with a community-driven, tech-forward project
