@@ -243,21 +243,6 @@
     - "https://t.me/jvault_ru"
     - "https://t.me/jvault_notifications"
 
-- name: STORM staked on JVault.xyz
-  symbol: st-STORM-30D
-  description: "These jettons confirm ownership of STORM staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/STORM"
-  address: 0:de53cbef73f778f810e932e11facf2b980e12f58d06200013fa884dc5f03cb09
-  image: "https://jvault.xyz/media/staking_v2/images/mainnet_STORM.webp"
-  websites:
-    - "https://jvault.xyz"
-    - "https://t.me/jvaultbot"
-    - "https://app.storm.tg/?ref=4A9Nrg42wC"
-    - "https://t.me/storm_trade_news_ru"
-  social:
-    - "https://t.me/jvault"
-    - "https://t.me/jvault_ru"
-    - "https://t.me/jvault_notifications"
-
 - name: LLAMA staked on JVault.xyz
   symbol: st-LLAMA-25D
   description: "These jettons confirm ownership of LLAMA staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/LLAMA"
@@ -1008,7 +993,7 @@
 - name: LSD staked on JVault.xyz
   symbol: st-LSD-10D
   description: "These jettons confirm ownership of LSD staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/LSD-FINAL"
-  address: 0:cc6e567b9a3f80d65205c3917fa8467b5f48bef042135c3d80f2518a1aedaa46
+  address: 0:fabf7d19d6c4bc4eed62b5e5ae7b5afc1c43e3bc01e3b835a7b56e6e0a2b3b47
   image: "https://jvault.xyz/media/staking_v2/images/mainnet_LSD-FINAL.webp"
   websites:
     - "https://jvault.xyz"
@@ -1021,7 +1006,7 @@
 - name: LSD staked on JVault.xyz
   symbol: st-LSD-25D
   description: "These jettons confirm ownership of LSD staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/LSD-FINAL"
-  address: 0:b31d89aabd4a3f8766517843b4bf74fc465b9b7a92405b35b2f599c080d24bb3
+  address: 0:13263cea7045824d6c0a476b39372018b072cb6015eb3493565e0fefad33f23e
   image: "https://jvault.xyz/media/staking_v2/images/mainnet_LSD-FINAL.webp"
   websites:
     - "https://jvault.xyz"
@@ -1034,7 +1019,7 @@
 - name: LSD staked on JVault.xyz
   symbol: st-LSD-50D
   description: "These jettons confirm ownership of LSD staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/LSD-FINAL"
-  address: 0:71d5e6973e3fc7d8ae7454167f495721a8a8a80c25ca5169e547ae11138a32f2
+  address: 0:a3b9b300f65864404b6d997b86f643e6ddaa39423a9e4afc9d9ca926f0368db1
   image: "https://jvault.xyz/media/staking_v2/images/mainnet_LSD-FINAL.webp"
   websites:
     - "https://jvault.xyz"
@@ -1047,7 +1032,7 @@
 - name: LSD staked on JVault.xyz
   symbol: st-LSD-100D
   description: "These jettons confirm ownership of LSD staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/LSD-FINAL"
-  address: 0:99cb82d2405c5a0debc90d490efd81108da9799bcd6bdc6002f4899847a7ba4d
+  address: 0:7fd0e34df660002456d886a4ad440ae43d464bd7723e334de0e757a9e48b420b
   image: "https://jvault.xyz/media/staking_v2/images/mainnet_LSD-FINAL.webp"
   websites:
     - "https://jvault.xyz"
@@ -1126,7 +1111,7 @@
 - name: ONIT staked on JVault.xyz
   symbol: st-ONIT-30D
   description: "These jettons confirm ownership of ONION staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/ONION"
-  address: 0:7e9b626a525c3fcb4715bc9ad91b444d86cab3e08ebf56054fbf6a8ad8078b13
+  address: 0:5d6deb32d3da86b3bad93f9872d285b092cf5f6b623d4c178b55cbbb9594294b
   image: "https://jvault.xyz/media/staking_v2/images/mainnet_ONION_j36OBZO.webp"
   websites:
     - "https://jvault.xyz"
@@ -1142,7 +1127,7 @@
 - name: ONIT staked on JVault.xyz
   symbol: st-ONIT-90D
   description: "These jettons confirm ownership of ONION staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/ONION"
-  address: 0:7fcf478bf678fb1cab9bda7be886748be79f1f97a5c2fab51d2cd55ba79ed250
+  address: 0:cbebc0afcd28f3b5bdcd4cede7186fc6a35312392f6c5d1ac301d5e6943b45bb
   image: "https://jvault.xyz/media/staking_v2/images/mainnet_ONION_j36OBZO.webp"
   websites:
     - "https://jvault.xyz"
@@ -1158,7 +1143,7 @@
 - name: ONIT staked on JVault.xyz
   symbol: st-ONIT-180D
   description: "These jettons confirm ownership of ONION staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/ONION"
-  address: 0:95976ccfc03d6d932d4d717a51e18814eb30a8c13578857f7870b8c18f97412d
+  address: 0:619305dac82955cee07f1672d19e8c72c214350fa42cb23145662f0b5bceab8d
   image: "https://jvault.xyz/media/staking_v2/images/mainnet_ONION_j36OBZO.webp"
   websites:
     - "https://jvault.xyz"
@@ -1174,7 +1159,7 @@
 - name: ONIT staked on JVault.xyz
   symbol: st-ONIT-365D
   description: "These jettons confirm ownership of ONION staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/ONION"
-  address: 0:1002ad5e9ac98ec4620e90c209c56ab0a524aa9e344dcc4ad7aba454994af93d
+  address: 0:2a2ac15064727f9608fcb66cc449e3571f784dbf75358baedb6b722ec7e7acce
   image: "https://jvault.xyz/media/staking_v2/images/mainnet_ONION_j36OBZO.webp"
   websites:
     - "https://jvault.xyz"
@@ -1701,3 +1686,4 @@
     - "https://t.me/jvault"
     - "https://t.me/jvault_ru"
     - "https://t.me/jvault_notifications"
+
