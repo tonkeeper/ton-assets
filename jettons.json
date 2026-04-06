@@ -10675,6 +10675,11 @@
   "symbol": "affSENTORA"
  },
  {
+  "address": "0:f93b8ab3266570b8a0c87c372e33a1c8edf51fd403a8960176a223c6caaaff59",
+  "name": "Sentora Vault for Wallet",
+  "symbol": "affSENTORAent"
+ },
+ {
   "address": "0:6fd9c109f93fb518d45dcda63f258a09be90084ae14738a98964f427a14a841d",
   "description": "$AMBER is a token created by AmberTON, a company that develops useful and free applications and games for TON users. The $AMBER token serves as a tool for interaction within the AmberTON ecosystem, allowing users to earn rewards for participating in projects, improving, and testing applications. The main goal is to create an accessible environment where everyone can benefit from and enjoy using TON-based technologies.",
   "image": "https://api.beeharvest.life/upload/ambr.png",
