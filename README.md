@@ -73,6 +73,10 @@ Name           | Address
 [Marketapp Deployer](https://tonviewer.com/0:972a76f260b4fb256e8800fdba51f2fe3585d6e2c4359e197a16e1e6dad034a4) | EQCXKnbyYLT7JW6IAP26UfL-NYXW4sQ1nhl6FuHm2tA0pFFw
 [Marketapp Gift Sender](https://tonviewer.com/0:e58d0685ac8e90a05c34bef9fa18375bb7ea090b7834197061a2cfaf4b6aa0e4) | EQDljQaFrI6QoFw0vvn6GDdbt-oJC3g0GXBhos-vS2qg5HZk
 [Marketapp Gift Minter](https://tonviewer.com/0:3b06ded9a845f2a6a92c151fa511d03fa01d317fa78f9bd1fb68169c257083a1) | EQA7Bt7ZqEXypqksFR-lEdA_oB0xf6ePm9H7aBacJXCDoW9u
+[Marketapp](https://tonviewer.com/0:4483994e05102418850e57a99952731d55bbe2820683f7680e9266af7752ba1d) | EQBEg5lOBRAkGIUOV6mZUnMdVbviggaD92gOkmavd1K6HYFT
+[Marketapp](https://tonviewer.com/0:740a95ba1cd4ca6d1a0ce2ef00b22a55f15ab66176b6e4ef00eae7fc99d15678) | EQB0CpW6HNTKbRoM4u8AsipV8Vq2YXa25O8A6uf8mdFWeDf6
+[Marketapp Username Minter](https://tonviewer.com/0:5fe608aa92b3c7d6700945f3f7962679c106e7856a6eebf8d3f0f85034b38165) | EQBf5giqkrPH1nAJRfP3liZ5wQbnhWpu6_jT8PhQNLOBZXyQ
+[Fragment Gift Minter](https://tonviewer.com/0:158136239adb15dd59df90c641f9efd312cfeb8664f218f4c3e5fce9d95e6c07) | EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6
 [Portals Marketplace](https://tonviewer.com/0:04f3c1c795ac8905e31734362b149875ab9522ae5383ab7abb2e10da5da8ba82) | EQAE88HHlayJBeMXNDYrFJh1q5UirlODq3q7LhDaXai6goHn
 [Portals Marketplace](https://tonviewer.com/0:b39ec4a1b09985a39e11d46c06ce66c7239cdee20cb185d7fd18a5020b1ee402) | EQCznsShsJmFo54R1GwGzmbHI5ze4gyxhdf9GKUCCx7kAp4M
 [Thermos](https://tonviewer.com/0:310569f85cd583d93c98c59de87d28c6965f5412eb43a4d4e80313226f8bd4c7) | EQAxBWn4XNWD2TyYxZ3ofSjGll9UEutDpNToAxMib4vUxw1J
