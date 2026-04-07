@@ -260,6 +260,22 @@
   "name": "Marketapp Gift Minter"
  },
  {
+  "address": "0:4483994e05102418850e57a99952731d55bbe2820683f7680e9266af7752ba1d",
+  "name": "Marketapp"
+ },
+ {
+  "address": "0:740a95ba1cd4ca6d1a0ce2ef00b22a55f15ab66176b6e4ef00eae7fc99d15678",
+  "name": "Marketapp"
+ },
+ {
+  "address": "0:5fe608aa92b3c7d6700945f3f7962679c106e7856a6eebf8d3f0f85034b38165",
+  "name": "Marketapp Username Minter"
+ },
+ {
+  "address": "0:158136239adb15dd59df90c641f9efd312cfeb8664f218f4c3e5fce9d95e6c07",
+  "name": "Fragment Gift Minter"
+ },
+ {
   "address": "0:04f3c1c795ac8905e31734362b149875ab9522ae5383ab7abb2e10da5da8ba82",
   "name": "Portals Marketplace"
  },
