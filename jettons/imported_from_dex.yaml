@@ -19,6 +19,9 @@
 - address: 0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c
   name: 1PLAYER TOKEN
   symbol: 1PTON
+- address: 0:0e1793099b5c56cceeabba1eeda2571b62639fd28942b1a1d57e364eb4daa0c6
+  name: 1 TON and a Dream
+  symbol: 1TON
 - address: 0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a
   name: 3CATS in a Trench Coat
   symbol: 3CATS
@@ -478,6 +481,9 @@
 - address: 0:cc03b311b0b8ff03a6f35f8544c3beb1fb72c12278a9312f5119d72c9a7c4537
   name: Informatoken
   symbol: IFT
+- address: 0:0e40d83dcabd3134d478e446e6dd26b67f75a8e7e6e5c65506299848fdbd8e2c
+  name: IGOR
+  symbol: IGOR
 - address: 0:651e7602d14935dff5812b83cdfaa8c1d938a25e2c580d37bb1235f5efe215fb
   name: Ton Invaders Coin
   symbol: INC
@@ -922,6 +928,9 @@
 - address: 0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4
   name: Shitcoin
   symbol: SHIT
+- address: 0:b873e5e585397553be809c3700d99ec697e1b1fd239cb62633d55fa40d84032c
+  name: SHREK
+  symbol: SHRK
 - address: 0:403eeb032b45bfa44c92fdd30a851402a5f171d2ccde0d984b434101a28e2a86
   name: Shark Invest Club
   symbol: SIC
@@ -1073,6 +1082,9 @@
 - address: 0:f18d88be0657b8eaf2b1b6dfef97bf6003831becc2de1dbb628b59f8bfed54c2
   name: Ton Meme Dao
   symbol: TMD
+- address: 0:0e45d339696c808e295b5b64a37a17816d737972ab81323a2971298f056b6673
+  name: 'TON MEME EMPIRE '
+  symbol: TME
 - address: 0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1
   name: Ton Milk
   symbol: TMILK
