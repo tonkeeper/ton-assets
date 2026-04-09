@@ -1,4 +1,10 @@
+name: AgentM
 symbol: AGNT
 address: EQDF_Jo9eR03I-9UhvsgbWVAAazcIoxlsGl_ZGgSYeVQgGey
-name: "AgentM"
 decimals: 9
+image: https://agentmeme.ai/agnt-token.png
+description: 
+websites:
+  - "https://agentmeme.ai"
+social:
+  - "https://t.me/open4dev"
