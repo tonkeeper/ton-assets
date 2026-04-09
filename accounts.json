@@ -1608,6 +1608,11 @@
   "name": "OKX 11"
  },
  {
+  "address": "0:419712bc541c4489d6f1c38a105722d293b8847fd54f2717ad69142911b8be5c",
+  "name": "Bitfinex 2",
+  "require_memo": false
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
