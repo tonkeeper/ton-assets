@@ -13168,6 +13168,11 @@
   "symbol": "PWJ"
  },
  {
+  "address": "0:d13accad4b12ed0e9ff6a512046a29d41aa64f4416d79306b2567ed5013edb1c",
+  "name": "PRIZM",
+  "symbol": "PZM"
+ },
+ {
   "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
   "name": "Mintless Points",
   "symbol": "Points"
