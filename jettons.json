@@ -12123,6 +12123,11 @@
   "symbol": "CATCH"
  },
  {
+  "address": "0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e",
+  "name": "Catchain 2.0",
+  "symbol": "CATCHAIN"
+ },
+ {
   "address": "0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400",
   "name": "Catizen",
   "symbol": "CATI"
