@@ -12123,6 +12123,11 @@
   "symbol": "CATCH"
  },
  {
+  "address": "0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e",
+  "name": "Catchain 2.0",
+  "symbol": "CATCHAIN"
+ },
+ {
   "address": "0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400",
   "name": "Catizen",
   "symbol": "CATI"
@@ -13161,6 +13166,11 @@
   "address": "0:7c4f5ca5ca4b340c51645140b629e165cd7326fb10e3befeb00c34572ebea34c",
   "name": "PUGWIFJET",
   "symbol": "PWJ"
+ },
+ {
+  "address": "0:d13accad4b12ed0e9ff6a512046a29d41aa64f4416d79306b2567ed5013edb1c",
+  "name": "PRIZM",
+  "symbol": "PZM"
  },
  {
   "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",

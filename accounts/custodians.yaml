@@ -412,3 +412,6 @@
   require_memo: true
 - address: "UQBmoechltZNb69I-ksuqGH2ewSE0tFKWcr3AdjChs5E5Uii"
   name: "OKX 11"
+- address: "EQBBlxK8VBxEidbxw4oQVyLSk7iEf9VPJxetaRQpEbi-XG4U"
+  name: "Bitfinex 2"
+  require_memo: false
