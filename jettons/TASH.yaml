@@ -1,0 +1,10 @@
+name: "TASHEV"
+symbol: "TASH"
+description: "TASHEV (TASH) - Token on TON blockchain"
+image: "https://coin.tashev.ru/logo.png"
+address: "EQCW4dRx9_IRF_zN6A8-XFi8K8nSMNs_xO0GUDu4eAY1fE9p"
+decimals: 9
+websites:
+  - "https://coin.tashev.ru"
+social:
+  - "https://t.me/Tash_coin_bot"
