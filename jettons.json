@@ -7458,6 +7458,25 @@
   ]
  },
  {
+  "address": "0:cf72c510a237fe0ab527c01bd3a2a54ee2cb06a2433bad4ff55dca2bf40c0120",
+  "description": "Quark \u2014 is the in-game currency and serves as a part of economy of the game. The player can mine it through virtual mining in Empire's Battle universe.",
+  "image": "https://yellow-narrow-turkey-189.mypinata.cloud/ipfs/bafkreigu3xti73ge2xeejjzimysgk6sczrcxwwil6sgtwbilifnmy24vx4",
+  "name": "QUARK",
+  "social": [
+   "https://t.me/empiresbattle_chat",
+   "https://t.me/empiresbattle_support_bot",
+   "https://x.com/EmpiresBattle",
+   "https://www.youtube.com/@empiresbattle",
+   "https://www.instagram.com/empiresbattle",
+   "https://vk.com/empiresbattle_community"
+  ],
+  "symbol": "QRK",
+  "websites": [
+   "https://empiresbattle.com",
+   "https://t.me/EmpiresBattleBot"
+  ]
+ },
+ {
   "address": "0:f6a6ba4d05f0916b47d9a521c9be9bea153ee15bc4b0eae85cc468262005a280",
   "decimals": 9,
   "description": "QUESTPL is the utility token for Pleasure Quest, a gamified ecosystem on The Open Network that combines NFT characters, task-based rewards, and a multi-level referral system. It powers in-app transactions, rewards, and ecosystem governance.",
