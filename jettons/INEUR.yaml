@@ -1,0 +1,9 @@
+name: IntentNote Test Euro
+description: Explorer-compatible testnet euro-denominated jetton for IntentNote prepared-pool, claimant-funded faucet, and swap-runtime validation.
+image: https://raw.githubusercontent.com/baojia888/ton-assets/codex-ineur-inusd-listing/jettons/INEUR.svg
+address: EQBbv4nB9JYI3AFLi9wZw1PqHDP-89LZw2GD_ctIGZOrxXqi
+symbol: INEUR
+websites:
+  - https://github.com/baojia888/RUSH-AMM
+social:
+  - https://t.me/intentnotebot

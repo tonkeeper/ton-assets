@@ -1,0 +1,9 @@
+name: IntentNote Test Dollar
+description: Explorer-compatible testnet dollar-denominated jetton for IntentNote prepared-pool, claimant-funded faucet, and swap-runtime validation.
+image: https://raw.githubusercontent.com/baojia888/ton-assets/codex-ineur-inusd-listing/jettons/INUSD.svg
+address: EQDjzYz350bZdutpa7pvrgzwDmyxFJkMHdvuLRturt4aAV_Q
+symbol: INUSD
+websites:
+  - https://github.com/baojia888/RUSH-AMM
+social:
+  - https://t.me/intentnotebot
