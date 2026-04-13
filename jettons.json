@@ -7255,6 +7255,14 @@
   "symbol": "PRZH"
  },
  {
+  "address": "0:5ed4305480c4809e3c65fe2149628b4249eebb7ffe3d40f928c5454040b3d90e",
+  "decimals": 9,
+  "description": "PunchThePowerAsset GameFi Token",
+  "image": "https://img2.pic.in.th/punch-coin-.png",
+  "name": "Punch",
+  "symbol": "PUNCH"
+ },
+ {
   "address": "0:7cf981b7cddd5b053ac6bc7abbbc4c9546c1e2cc6cbb1581cf38795eafcb3b4a",
   "description": "pu-pu-puu...",
   "image": "https://pupupu.fun/PUPUPU.jpeg",
