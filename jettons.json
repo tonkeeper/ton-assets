@@ -10530,6 +10530,25 @@
   ]
  },
  {
+  "address": "0:2cfa164bdfedfa1723fb0b4cb7eac8172c1ce15700705da3953abc2d9923ecf5",
+  "decimals": 9,
+  "description": "Decentralized Social Exchange",
+  "image": "https://static.yohi.io/images/2024-12-18/d5a641d224404c69a6b97516e974fb11.png",
+  "name": "Yohi crypto",
+  "social": [
+   "https://t.me/YohiCrypto",
+   "https://t.me/yohiEN",
+   "https://x.com/Yohicrypto",
+   "https://whatsapp.com/channel/0029Vb4FmmOAe5VnpwhO3045",
+   "https://www.youtube.com/@Yohicrypto",
+   "https://t.me/Yohicryptobot"
+  ],
+  "symbol": "Yohi",
+  "websites": [
+   "https://yohi.io"
+  ]
+ },
+ {
   "address": "0:085625e58ae4453452ba5199de4498c3a91b7856657f85b87c9034aa0c570842",
   "decimals": 9,
   "description": "Liquidity pool token for Zcoin TON and Proxy TON on STON.fi DEX",
