@@ -6260,6 +6260,17 @@
   "symbol": "MRSL"
  },
  {
+  "address": "0:ee1a0a9953bfc012088ec047be69ba3321e7eea1a8ab4d62cec9dedcfdff0687",
+  "description": "based on the post by Durov \"https://t.me/durov/482\"",
+  "image": "https://img.stonks.cash/b99ae75c-bfa7-41e2-a36e-dc2e88534511.png",
+  "name": "Make TON Great Again",
+  "social": [
+   "https://t.me/MTONGA_PORTAL",
+   "https://x.com/mtonga_meme"
+  ],
+  "symbol": "MTONGA"
+ },
+ {
   "address": "0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7",
   "decimals": 9,
   "description": "Once upon a time, there lived a crypto creature named Mumba, born in the bustling Indian city of Mumbai within the blockchain forest. From a young age, Mumba distinguished himself with extraordinary beauty and cultural ingenuity.  One fine day, Mumba discovered a source of blockchain cryptocurrency that filled him with energy and unveiled new possibilities. Gathering courage and determination, Mumba decided to step out of his forest and embark on a journey through the digital world.  During his journey, Mumba encountered various blockchain creatures and characters. He assisted them in overcoming challenges, exchanged knowledge, and learned new technologies from his friends.  Over time, Mumba gathered a large team of supporters who shared his love for culture and blockchain innovations. Together, they decided to create their own cryptocurrency token named Mumba. Mumba became a symbol of unity and their collective journey. Now, Mumba and his team continue to assist other crypto creatures, exchanging innovative ideas and creating a unique place in the world of cryptocurrency adventures.Let's free the world from traditional financial boundaries and join the cryptocurrency revolution! Together, we are building the future of finance, and the key to it is the Mumba token!",
@@ -12927,11 +12938,6 @@
   "address": "0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e",
   "name": "Make Ton Great Again",
   "symbol": "MTGA"
- },
- {
-  "address": "0:ee1a0a9953bfc012088ec047be69ba3321e7eea1a8ab4d62cec9dedcfdff0687",
-  "name": "Make TON Great Again",
-  "symbol": "MTONGA"
  },
  {
   "address": "0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013",
