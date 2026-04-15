@@ -1,0 +1,13 @@
+{
+  "address": "0:9af1b411da9ee3dd0cc064d72c8a4b7041ce054393654592ea0ad0770698e220",
+  "name": "Riocoin USD",
+  "symbol": "USDR",
+  "decimals": "9",
+  "image": "https://res.coinpaper.com/coinpaper/reserve_rsv_logo_2c7c47cd6c.png",
+  "description": "Low fee peer-to-peer electronic cash alternative to Bitcoin/USDT"
+
+  socials:
+    "https://t.me/riocoin_official",
+    "https://x.com/riocoin?s=21"
+  
+}
