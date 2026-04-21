@@ -19,6 +19,9 @@
 - address: 0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c
   name: 1PLAYER TOKEN
   symbol: 1PTON
+- address: 0:0e1793099b5c56cceeabba1eeda2571b62639fd28942b1a1d57e364eb4daa0c6
+  name: 1 TON and a Dream
+  symbol: 1TON
 - address: 0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a
   name: 3CATS in a Trench Coat
   symbol: 3CATS
@@ -187,6 +190,9 @@
 - address: 0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41
   name: Big Catch
   symbol: CATCH
+- address: 0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e
+  name: Catchain 2.0
+  symbol: CATCHAIN
 - address: 0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400
   name: Catizen
   symbol: CATI
@@ -634,6 +640,9 @@
 - address: 0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e
   name: Make Ton Great Again
   symbol: MTGA
+- address: 0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013
+  name: meik tun grit agen
+  symbol: MTUNGA
 - address: 0:38f25c4ef31feaf538df9e9537f13ab267f7a40dc05f8d66c7d199b1d8443322
   name: MUSHROOM
   symbol: MUSH
@@ -811,6 +820,9 @@
 - address: 0:7c4f5ca5ca4b340c51645140b629e165cd7326fb10e3befeb00c34572ebea34c
   name: PUGWIFJET
   symbol: PWJ
+- address: 0:d13accad4b12ed0e9ff6a512046a29d41aa64f4416d79306b2567ed5013edb1c
+  name: PRIZM
+  symbol: PZM
 - address: 0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832
   name: Mintless Points
   symbol: Points
@@ -925,6 +937,9 @@
 - address: 0:7880f7c6d18b688891c231352ecf13fd7ca5f2f67c7a4c587e75c025b6b9cda4
   name: Shitcoin
   symbol: SHIT
+- address: 0:b873e5e585397553be809c3700d99ec697e1b1fd239cb62633d55fa40d84032c
+  name: SHREK
+  symbol: SHRK
 - address: 0:403eeb032b45bfa44c92fdd30a851402a5f171d2ccde0d984b434101a28e2a86
   name: Shark Invest Club
   symbol: SIC
