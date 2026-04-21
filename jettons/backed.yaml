@@ -106,6 +106,9 @@
 - address: 0:f4fbf3297608d95f02dc46885a3ced13e0588ba5309eea8eb543a0cec7af8968
   name: Eaton Corporation plc xStock
   symbol: ETNx
+- address: 0:0596c5a0556535c59dbf9c69988d18cdfd0d1423723d75d73f5a22705444e1c7
+  name: Franklin Responsibly Sourced Gold ETF xStock
+  symbol: FGDLx
 - address: 0:5985e7354a2f2362a4dfcd3c061f3d3d339f124a0f846f374e4418a190cf07b1
   name: GE Vernova Inc. xStock
   symbol: GEVx
