@@ -295,6 +295,9 @@
 - address: 0:1a2726c0b1d7176de5bf3ecad0644959584e31f262e42fdb39f2421cd0eb6909
   name: TON Degen
   symbol: DGN
+- address: 0:8491404bbde5c30377d88c1a94a0b31f0921216da62893883efad1d99398c605
+  name: Dark Horse Investments
+  symbol: DHI
 - address: 0:86d7208d6f47fb2954ab756b3ec0f86fd667237c09b059a09072cd385d1b2dc4
   name: Fedya, dich!
   symbol: DICH
@@ -844,6 +847,9 @@
 - address: 0:ddf2a914236c7498ebe9fc3d3946d2b612327bb87323059edd4b8f2794ef0538
   name: Resistance Brett
   symbol: REBRE
+- address: 0:0e5dbc37d56b0fdfed58c6f2ffd972dc0e05a752a79068ae9c9282ee8dd8513f
+  name: Redrawn Dog
+  symbol: REDRAW
 - address: 0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa
   name: RED X
   symbol: REDX
@@ -970,6 +976,9 @@
 - address: 0:8c4cd150750e16e71e01ec89001a0af1a19c5d0038e06c35d5031551b63bcb50
   name: Shill Team 6
   symbol: ST6
+- address: 0:0e53eaec4ee0aae83bd227ce09037e62d864c418212d563d8d49b08e66ae03de
+  name: TONSTALLION
+  symbol: STALLION
 - address: 0:47715128230676d8689f2fb06d5531a4cc928b4280beae6a95ebf9e3ed247e84
   name: Jason Statham
   symbol: STATHAM
