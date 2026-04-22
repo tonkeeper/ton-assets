@@ -1,0 +1,13 @@
+name: GoMine
+symbol: GOMINE
+address: EQBaSm1kTmke7SD5QNlTGi1qPM8_5lfEhNjk7aB5hJ6w9z0v
+decimals: 9
+image: "https://gomine.social/gomine-icon-512.png"
+description: |
+  Mine rewards by completing quests inside Telegram. No airdrop waitlist. Earn today, withdraw from $1.
+websites:
+  - "https://gomine.social"
+social:
+  - "https://twitter.com/GoMineApp"
+  - "https://t.me/GoMineOfficial"
+  - "https://t.me/GoMineCommunity"
