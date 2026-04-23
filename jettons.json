@@ -3042,6 +3042,19 @@
   "symbol": "ECOX"
  },
  {
+  "address": "0:e967c692c5c82f09fc8a9831b1abefd68707c0141060288005edd8a66d599332",
+  "description": "EK Token serves as the fundamental utility asset across the Escape Kingdom ecosystem, unifying value and access throughout all current and future projects. Through staking, holders gain enhanced winning probabilities, aligning long-term engagement with in-game rewards.",
+  "image": "https://ipfs.geek.foundation/ipfs/bafybeifbhpzwkwloykfaijmcfajtttvrilabgyschpxp76kw77wdwcltju",
+  "name": "EK Token",
+  "social": [
+   "https://t.me/escapekingdomint"
+  ],
+  "symbol": "EK",
+  "websites": [
+   "https://ektoken.xyz"
+  ]
+ },
+ {
   "address": "0:be9552ce31e53e66f903caf7328f8a421e9c521b6d98ff47cca1f2cde967e8d7",
   "description": "The project is connected to a real-world business and aims to grow by bringing customers from the offline economy into TON through discounts for token holders and NFT owners. In the future, we plan to launch an application that will allow users to pay for up to 90% of purchases in real businesses using the token. It will function both as a payment method and as a bonus points system. We also plan to collaborate with other tokens and periodically buy back tokens using a percentage of the real business\u2019s net profit.",
   "image": "https://i.ibb.co/LzXTLwxJ/photo-2025-03-13-21-40-33.jpg",
