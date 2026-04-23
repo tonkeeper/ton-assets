@@ -226,6 +226,9 @@ Name           | Address
 [Precious Peaches](https://tonviewer.com/0:388b9f22b92f4351846d519f7bb19a399a791b898501a565d039eddd11409c3f) | EQA4i58iuS9DUYRtUZ97sZo5mnkbiYUBpWXQOe3dEUCcP1W8
 [Plush Pepes](https://tonviewer.com/0:46fa0e9a864014196a5e7d66f1f83ffdb10f2859bbf2ea9baeabbf14d9ce0d50) | EQBG-g6ahkAUGWpefWbx-D_9sQ8oWbvy6puuq78U2c4NUDFS
 [Heart Lockets](https://tonviewer.com/0:b85c4ba5c5bd392dee6017a7ac32d0d64f95d9ead97394c05018db2a7dfc6974) | EQC4XEulxb05Le5gF6esMtDWT5XZ6tlzlMBQGNsqffxpdC5U
+[Chill Flames](https://tonviewer.com/0:65049e27d35a6661ecf954f77c5a8e7df2cf1a81b402c953a3b9c5cac4b0c08b) | EQBlBJ4n01pmYez5VPd8Wo598s8agbQCyVOjucXKxLDAi9r7
+[Timeless Books](https://tonviewer.com/0:b6d76763aead208254178bc312157d5b730e0b1f0dc4b3ada52afb75959cf3b1) | EQC212djrq0gglQXi8MSFX1bcw4LHw3Es62lKvt1lZzzsYuF
+[Vice Creams](https://tonviewer.com/0:dcd3c631cd95ad94a028852c9b35cde45c09003cfb47721fa363f13a28c4376f) | EQDc08YxzZWtlKAohSybNc3kXAkAPPtHch-jY_E6KMQ3b1mn
 
 
 ## NFT collections
