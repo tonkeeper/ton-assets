@@ -2,10 +2,9 @@ name: "Black Cat"
 image: "https://cpugoood.github.io/kosmosdev/logoBCT.jpg"
 address: "EQDD9e9SgzwXW3TRtqO9DPdEeXfUH3Efefqrw2VtFI8oy0Q6"
 symbol: "BCT"
-description: 
-"BCT Eco Sphere — decentralized TON-based ecosystem."
+description: "BCT Eco Sphere — decentralized TON-based ecosystem."
 social:
-    - "https://t.me/devkosmosbot"
-    - "https://t.me/airdropBlackCaT"
-    websites:
+  - "https://t.me/devkosmosbot"
+  - "https://t.me/airdropBlackCaT"
+websites:
   - "https://cpugoood.github.io/BCTAIRDROP/"
