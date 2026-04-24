@@ -1,0 +1,11 @@
+name: GemiFaucet Coin
+description: GEMI is the native utility token of Gemifaucet — a Telegram Mini-App where your time and engagement translate into real, tradeable value on the TON blockchain.
+image: "https://gemi.gemifaucet.com/gemi_token_logo.png"
+address: EQCL_sD-AJFwggJK4p-9MJDy60y-EIfiq6oLxOtUes9dNXYz
+symbol: GEMI
+websites:
+  - "https://gemifaucet.com/"
+  - "https://gemi.gemifaucet.com/"
+social:
+  - "https://t.me/gemifaucet"
+  - "https://x.com/gemifaucet_bot"
