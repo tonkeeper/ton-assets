@@ -12860,6 +12860,11 @@
   "symbol": "LLAMA"
  },
  {
+  "address": "0:0e634c5b295d60dded95ee3768e5eac5e6efb9875f6a0782293e42b444fcb444",
+  "name": "Long Capital",
+  "symbol": "LNG"
+ },
+ {
   "address": "0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30",
   "name": "Leprechaun",
   "symbol": "LUCKY"
