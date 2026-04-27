@@ -7535,6 +7535,21 @@
   ]
  },
  {
+  "address": "0:39813a2aa8365dd620cb2c5f11718d912dacff335f65cfeb1f4c43950277f4f6",
+  "description": "Raccoon Coin is the scrappiest, most relentless meme coin on TON",
+  "image": "https://racccoin.org/logo.png",
+  "name": "Raccoon Coin",
+  "social": [
+   "https://t.me/racccoin",
+   "https://t.me/raccoin_chat",
+   "https://x.com/racccointon"
+  ],
+  "symbol": "RACC",
+  "websites": [
+   "https://racccoin.org"
+  ]
+ },
+ {
   "address": "0:42639623f46e9501089b4deea1cf9de3f2f04d3b6df89f47f31d43f795404161",
   "description": "RANNTA is a memorial token created to honor the Los Angeles fire event and support a community-driven rebuilding spirit.",
   "image": "https://raw.githubusercontent.com/ilia144000/rannta-token/main/image.png",
