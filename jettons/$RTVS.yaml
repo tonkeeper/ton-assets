@@ -1,0 +1,11 @@
+name: "RotationTV Network"
+symbol: "$RTVS"
+address: EQB2wn8LVs_8vRNISf7Lgq5z3OvLFSz6UFft5uN8ppQCygxC
+decimals: 9
+description: "The sovereign utility token for the RotationTV 8-division ecosystem, powering high-frequency commerce and automated governance."
+image: "https://v0-rotationtv-vault-deployment.vercel.app/assets/rtvs-logo.png"
+websites:
+  - "https://rotationpay.io"
+social:
+  - "https://t.me/RTVSrotationBot"
+  - "https://rotationpay.io"
