@@ -1,0 +1,10 @@
+name: TGRAF
+symbol: TGRAF
+address: EQCY8Q9LFD0O-MU4RIChegEzFIM197NuZQx9VFwNVgp6_bgD
+image: "https://token.tgraf.io/logo-400.png"
+description: |
+  TGRAF — TON jetton-расписка. 1 TGRAF = 1 ₽. Свободно торгуется на DeDust, обеспечивает учёт долговых обязательств между сторонами в мессенджере So-Messenger.
+websites:
+  - "https://token.tgraf.io"
+social:
+  - "https://t.me/tgraf_io"
