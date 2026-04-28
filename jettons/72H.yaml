@@ -1,0 +1,12 @@
+name: "72H"
+description: "72H is a fixed-supply TON Jetton with 100,000,000,000 total supply and no remaining mint authority."
+image: "https://72h.lol/brand/72hours-logo.png"
+address: EQBGIzEDvvKObStrcVb6i5Z1-8uYZYtUrYzF2rFZU7xUAXVg
+symbol: 72H
+decimals: 9
+websites:
+  - "https://72h.lol"
+  - "https://github.com/tii-mom/72h-capital-contracts"
+social:
+  - "https://t.me/the_72h"
+  - "https://x.com/72hour_s"
