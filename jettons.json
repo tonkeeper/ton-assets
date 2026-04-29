@@ -12595,6 +12595,11 @@
   "symbol": "FRE"
  },
  {
+  "address": "0:0e0c6d32c6b22c20042b3408859867ebb82e75a853ea0044c39fe1150247d0cd",
+  "name": "FROG",
+  "symbol": "FROG"
+ },
+ {
   "address": "0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6",
   "name": "Frogy LIVE",
   "symbol": "FROGY"
@@ -13378,6 +13383,11 @@
   "address": "0:e1afe8a59873d5124da89ab7d05b44b95cb6f2166d2fdb374659808375fbf566",
   "name": "Resistance Tates",
   "symbol": "RESIST"
+ },
+ {
+  "address": "0:0ea7ce62ee97fbb72574732241c542f24cfddd5c90af3d960e4343953a4d471a",
+  "name": "Resistards",
+  "symbol": "RESISTARDS"
  },
  {
   "address": "0:6e7822dacd1b40ab0cfa20f4a8caeb4bb4335d6b92be00570ea51ee2a5b18c1e",
@@ -14283,6 +14293,11 @@
   "address": "0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237",
   "name": "\u0417\u0430\u0439\u0447\u0438\u043a",
   "symbol": "\u0417\u0430\u0439\u0447\u0438\u043a"
+ },
+ {
+  "address": "0:0e193322e584958ba6b3433aab39cdf5f39ae950600aa24cf418ebdbaa3f1ebe",
+  "name": "\u0423\u043c\u043a\u0430 (UMKA)",
+  "symbol": "\u0423\u041c\u041a\u0410"
  },
  {
   "address": "0:957c2a220f5221b1029a570a7bc68007006c38684029edd1385630ec095ffc86",
