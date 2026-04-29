@@ -2512,6 +2512,19 @@
   ]
  },
  {
+  "address": "0:29f298a67958c11c441d2530fde6c87e5d15039a62c85ee8bcde8479a8cbc3f1",
+  "description": "\u0422\u043e\u043a\u0435\u043d \u043f\u0440\u043e \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0443\u044e \u0434\u0440\u0443\u0436\u0431\u0443 \u0438 \u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0435 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0438",
+  "image": "https://i.postimg.cc/Bv6W1Zrj/IMG-20250404-205729-751.jpg",
+  "name": "Dmitry'Friends",
+  "social": [
+   "https://t.me/Dmitrys_friends"
+  ],
+  "symbol": "D'F",
+  "websites": [
+   "https://dmitrys-friends.github.io/D-F"
+  ]
+ },
+ {
   "address": "0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e",
   "description": "Low fee dick-to-dick electronic cash alternative to Toncoin",
   "image": "https://raw.githubusercontent.com/DHDcoin/website/main/LOGO.png",
@@ -4954,6 +4967,19 @@
   "websites": [
    "https://ton.tsubasa-rivals.com/"
   ]
+ },
+ {
+  "address": "0:7d902757f5a4365c2002fe79749f2c92540797251b5346e3f9cdc42fad36cea6",
+  "description": "The joker is hungry",
+  "image": "https://img.stonks.cash/bf5acbf0-a448-47c9-941a-9ded2ddc4101.jpg",
+  "name": "JOKER",
+  "social": [
+   "https://t.me/JokerHungry",
+   "https://t.me/TheRabbitsLair",
+   "https://t.me/murket/JOKER",
+   "https://t.me/MurziTonBot"
+  ],
+  "symbol": "JOKER"
  },
  {
   "address": "0:49a728d88ec679c61a8294081a4aa54796016db09bdc954fbddc087e2deaae1f",
@@ -12595,6 +12621,11 @@
   "symbol": "FRE"
  },
  {
+  "address": "0:0e0c6d32c6b22c20042b3408859867ebb82e75a853ea0044c39fe1150247d0cd",
+  "name": "FROG",
+  "symbol": "FROG"
+ },
+ {
   "address": "0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6",
   "name": "Frogy LIVE",
   "symbol": "FROGY"
@@ -13378,6 +13409,11 @@
   "address": "0:e1afe8a59873d5124da89ab7d05b44b95cb6f2166d2fdb374659808375fbf566",
   "name": "Resistance Tates",
   "symbol": "RESIST"
+ },
+ {
+  "address": "0:0ea7ce62ee97fbb72574732241c542f24cfddd5c90af3d960e4343953a4d471a",
+  "name": "Resistards",
+  "symbol": "RESISTARDS"
  },
  {
   "address": "0:6e7822dacd1b40ab0cfa20f4a8caeb4bb4335d6b92be00570ea51ee2a5b18c1e",
@@ -14283,6 +14319,11 @@
   "address": "0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237",
   "name": "\u0417\u0430\u0439\u0447\u0438\u043a",
   "symbol": "\u0417\u0430\u0439\u0447\u0438\u043a"
+ },
+ {
+  "address": "0:0e193322e584958ba6b3433aab39cdf5f39ae950600aa24cf418ebdbaa3f1ebe",
+  "name": "\u0423\u043c\u043a\u0430 (UMKA)",
+  "symbol": "\u0423\u041c\u041a\u0410"
  },
  {
   "address": "0:957c2a220f5221b1029a570a7bc68007006c38684029edd1385630ec095ffc86",
