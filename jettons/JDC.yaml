@@ -1,14 +1,11 @@
 name: Jeff Dosh Coin
 symbol: JDC
 decimals: 9
+address: EQBg7EY8PMgJI1JrZsX1kAXxGi2YWRvpgCyIjydAEomEq6q0 
 description: Jeff Dosh Coin (JDC) is a story-driven meme asset on TON, emerging from the interplay of Song, Trashion, Death, and Dream — a living yarn in motion.
 image: "https://res.cloudinary.com/dnko3bvt0/image/upload/v1776825871/jeffdoshecoin_qyfoi2.png"
 websites:
   - "https://aimementoring.com"
-tags:
-  - "meme"
-  - "community"
-  - "knowledge-based-token"
-  - "experimental"
+
 social:
   - "https://www.youtube.com/aimementoring"
