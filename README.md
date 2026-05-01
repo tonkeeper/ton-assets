@@ -105,6 +105,7 @@ Name           | Address
 [DeDust COCOON vault](https://tonviewer.com/0:cc040478fb333180d8a15b7d7ebf744e5ee9889a3128a8e3224b0911763cc861) | EQDMBAR4-zMxgNihW31-v3ROXumImjEoqOMiSwkRdjzIYWZZ
 [ARKENSTON NFT](https://tonviewer.com/0:1340f782c2d33343dbb9e274e350d70ae27ff45514b13ce39138b7ff204d0e53) | EQATQPeCwtMzQ9u54nTjUNcK4n_0VRSxPOOROLf_IE0OU3XK
 [STON.fi DEX](https://tonviewer.com/0:9220c181a6cfeacd11b7b8f62138df1bb9cc82b6ed2661d2f5faee204b3efb20) | EQCSIMGBps_qzRG3uPYhON8bucyCtu0mYdL1-u4gSz77IBa3
+[Getgems Gift Minter](https://tonviewer.com/0:c708deda737561ae355fca014b23a274d47278da0832cd542f94d2dddbe1de96) | EQDHCN7ac3VhrjVfygFLI6J01HJ42ggyzVQvlNLd2-HelndX
 [Morgenshtern](https://tonviewer.com/0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonviewer.com/0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
 [Telegram Team](https://tonviewer.com/0:2ecf5e47d591eb67fa6c56b02b6bb1de6a530855e16ad3082eaa59859e8d5fdc) | EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj
@@ -114,6 +115,7 @@ Name           | Address
 [Fragment](https://tonviewer.com/0:43512860d54980cf24d59868a30e679927fb1373c10964db7500edcdf690abc4) | EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN
 [Fragment](https://tonviewer.com/0:e6f3d8824f46b1efbab9afc684793428c55fed69b46a15a49be69a29bc49e530) | EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb
 [Pavel Durov](https://tonviewer.com/0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d) | EQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinaPP
+[Pavel Durov](https://tonviewer.com/0:a355d7c7de45bb6845a5dd525798cca23cd518ca601b9c6a932493ae82292b79) | EQCjVdfH3kW7aEWl3VJXmMyiPNUYymAbnGqTJJOugikreUkI
 [Notcoin](https://tonviewer.com/0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112) | EQDtU7yZnlpK9po_nD3lN299kMSH4VKPMx5xbb6FkD1REsF3
 [Snoop Doggs](https://tonviewer.com/0:28270ec1a4e7010f7cbdbe832e110faa852dcae20b4cfba11e3cbc64ce4f224a) | EQAoJw7BpOcBD3y9voMuEQ-qhS3K4gtM-6EePLxkzk8iSifX
 [Lol Pops](https://tonviewer.com/0:bace389df2f24d116a9c5e4d745e3b1d0cb44a6dc3d9cdb1eeb2e116e85a2439) | EQC6zjid8vJNEWqcXk10XjsdDLRKbcPZzbHusuEW6FokOWIm
@@ -226,6 +228,9 @@ Name           | Address
 [Precious Peaches](https://tonviewer.com/0:388b9f22b92f4351846d519f7bb19a399a791b898501a565d039eddd11409c3f) | EQA4i58iuS9DUYRtUZ97sZo5mnkbiYUBpWXQOe3dEUCcP1W8
 [Plush Pepes](https://tonviewer.com/0:46fa0e9a864014196a5e7d66f1f83ffdb10f2859bbf2ea9baeabbf14d9ce0d50) | EQBG-g6ahkAUGWpefWbx-D_9sQ8oWbvy6puuq78U2c4NUDFS
 [Heart Lockets](https://tonviewer.com/0:b85c4ba5c5bd392dee6017a7ac32d0d64f95d9ead97394c05018db2a7dfc6974) | EQC4XEulxb05Le5gF6esMtDWT5XZ6tlzlMBQGNsqffxpdC5U
+[Chill Flames](https://tonviewer.com/0:65049e27d35a6661ecf954f77c5a8e7df2cf1a81b402c953a3b9c5cac4b0c08b) | EQBlBJ4n01pmYez5VPd8Wo598s8agbQCyVOjucXKxLDAi9r7
+[Timeless Books](https://tonviewer.com/0:b6d76763aead208254178bc312157d5b730e0b1f0dc4b3ada52afb75959cf3b1) | EQC212djrq0gglQXi8MSFX1bcw4LHw3Es62lKvt1lZzzsYuF
+[Vice Creams](https://tonviewer.com/0:dcd3c631cd95ad94a028852c9b35cde45c09003cfb47721fa363f13a28c4376f) | EQDc08YxzZWtlKAohSybNc3kXAkAPPtHch-jY_E6KMQ3b1mn
 
 
 ## NFT collections

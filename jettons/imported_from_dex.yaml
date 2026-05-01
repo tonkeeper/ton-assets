@@ -346,6 +346,9 @@
 - address: 0:25d02849cb29c65a0d2d18c08133ab2878a26b2ad366fc80137f5ee3705110c7
   name: povel durev (old)
   symbol: DUREVOLD
+- address: 0:524b69d2b8efaf632f20d6480261503b322e21a5865a51bc06d592117ff28147
+  name: DURIKOVICH
+  symbol: DURIKOVICH
 - address: 0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401
   name: Earnigram
   symbol: EARNI
@@ -397,6 +400,9 @@
 - address: 0:12c3ee18332a771c32cb4e08c3954d4407d77547970a815cd43d06e2cc758007
   name: FRANC
   symbol: FRE
+- address: 0:0e0c6d32c6b22c20042b3408859867ebb82e75a853ea0044c39fe1150247d0cd
+  name: FROG
+  symbol: FROG
 - address: 0:00f0b6935c70688ea080e67547cfdf8c0681d3c359773ab75ebb2fd9ef21abc6
   name: Frogy LIVE
   symbol: FROGY
@@ -565,6 +571,9 @@
 - address: 0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067
   name: LLAMA
   symbol: LLAMA
+- address: 0:0e634c5b295d60dded95ee3768e5eac5e6efb9875f6a0782293e42b444fcb444
+  name: Long Capital
+  symbol: LNG
 - address: 0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30
   name: Leprechaun
   symbol: LUCKY
@@ -784,6 +793,9 @@
 - address: 0:bc5e450459be9bcdbcc4f5e55a012a0a502c9803f0944002c6135e635889c4aa
   name: PONKE TON
   symbol: PONKE
+- address: 0:ec952e9cf4ae1c6c0d3ede1c69659aeb7964eb61e2652831c2af063008fe0d2e
+  name: Performance
+  symbol: POT
 - address: 0:7593497137b452b838c95da8f0ca9924bcc7b27fa9481fca9173b050c832bad9
   name: POUCHI
   symbol: POUCHI
@@ -862,6 +874,9 @@
 - address: 0:e1afe8a59873d5124da89ab7d05b44b95cb6f2166d2fdb374659808375fbf566
   name: Resistance Tates
   symbol: RESIST
+- address: 0:0ea7ce62ee97fbb72574732241c542f24cfddd5c90af3d960e4343953a4d471a
+  name: Resistards
+  symbol: RESISTARDS
 - address: 0:6e7822dacd1b40ab0cfa20f4a8caeb4bb4335d6b92be00570ea51ee2a5b18c1e
   name: Resistance Trump
   symbol: RETRUMP
@@ -1403,9 +1418,15 @@
 - address: 0:f66f9932ff01df9d825e6f01381bba0759aa28b2bf2a383eb3219d02a70086d3
   name: "\u0412\u041E\u041B\u041A"
   symbol: "\u0412\u041E\u041B\u041A"
+- address: 0:0e80bb061f112ded2c2e90c3009ddafc89150ddfcb4b9acc3e7df313e61b8cf4
+  name: "\u0422\u0435\u043C\u043D\u044B\u0439 \u0414\u0440\u0443\u043D"
+  symbol: "\u0414\u0420\u0423\u041D"
 - address: 0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237
   name: "\u0417\u0430\u0439\u0447\u0438\u043A"
   symbol: "\u0417\u0430\u0439\u0447\u0438\u043A"
+- address: 0:0e193322e584958ba6b3433aab39cdf5f39ae950600aa24cf418ebdbaa3f1ebe
+  name: "\u0423\u043C\u043A\u0430 (UMKA)"
+  symbol: "\u0423\u041C\u041A\u0410"
 - address: 0:957c2a220f5221b1029a570a7bc68007006c38684029edd1385630ec095ffc86
   name: "\u0428\u0430\u0439\u043B\u0443\u0448\u0430\u0439"
   symbol: "\u0428\u0430\u0439\u043B\u0443\u0448\u0430\u0439"
