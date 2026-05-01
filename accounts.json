@@ -1642,6 +1642,10 @@
   "require_memo": false
  },
  {
+  "address": "0:6c25b5f2fe5ef1a6a1978f611f61a50883fd50a0822b19176445fca931823263",
+  "name": "OKX 12"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
