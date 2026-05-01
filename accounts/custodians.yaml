@@ -415,3 +415,5 @@
 - address: "EQBBlxK8VBxEidbxw4oQVyLSk7iEf9VPJxetaRQpEbi-XG4U"
   name: "Bitfinex 2"
   require_memo: false
+- address: "UQBsJbXy_l7xpqGXj2EfYaUIg_1QoIIrGRdkRfypMYIyY9Ql"
+  name: "OKX 12"
