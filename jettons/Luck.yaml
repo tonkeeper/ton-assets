@@ -1,11 +1,12 @@
-name: Luck
-description: LUCK — приложение, которое приносит удачу.
-image: "https://trueimages.ru/img/ef/e6/9ab75e76.png"
-address: EQCoWcrLuKRv6RiPGT6Ml1RVoFvSzBcgL4FoQVah5LflF9SQ
-symbol: Luck
+name: Lucky Token
+description: "Lucky Token ($LUCK) - Reward token for Lucky Day, a Telegram Mini App game on TON. Earn LUCK through arena competitions and seasonal events."
+image: "https://yourluckyday.app/images/luck-token.png"
+address: "0:029d1796735ec177a5aa026e8e381d3469970b2a13208fcb3462b868a33d75c8"
+symbol: LUCK
+decimals: 9
 websites:
-  - "https://luck-app.com/"
+  - "https://yourluckyday.app"
 social:
-  - "https://t.me/appluckapp"
-  - "https://www.tiktok.com/@luck_app?_t=ZS-8v24n0yRF2d&_r=1"
-  - "https://x.com/luck_app_?s=21"
+  - "https://t.me/lucky_day_news"
+  - "https://x.com/lucky_day_ton"
+  - "https://app.ston.fi/pools/EQCjqUHoe25bZ-xuvAuOdP3ctay3_kxmlxfoQQH-Wtc2WV6V"
