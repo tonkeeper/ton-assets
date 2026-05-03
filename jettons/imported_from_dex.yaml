@@ -460,6 +460,9 @@
 - address: 0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1
   name: "\u041A\u0440\u043E\u043A\u043E\u0434\u0438\u043B \u0413\u0435\u043D\u0430"
   symbol: Gena
+- address: 0:9ed70fe73b45bf01bb18369db2888578b2b2c663eff06ebf45573c1b2d2964c2
+  name: Hao Pup
+  symbol: HAOPUP
 - address: 0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34
   name: Hedgehog in the fog
   symbol: HIF
