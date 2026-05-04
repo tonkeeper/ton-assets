@@ -9911,6 +9911,27 @@
   "symbol": "UDOG"
  },
  {
+  "address": "0:906d4fee2075eca1de46f4f7884be472f04659d5d0e8ad2f355e6ede6973794f",
+  "decimals": 6,
+  "description": "Undeads Games Token",
+  "image": "https://ipfs.io/ipfs/bafkreid2eytvdcjw4wwyaolzcnt2rnzhxfgimknbkmullsuxj33m3ykk6i",
+  "name": "Undeads Games",
+  "social": [
+   "https://undeads.com/forum",
+   "https://t.me/undeadscom",
+   "https://x.com/undeadscom",
+   "https://web.facebook.com/Undeadscom/",
+   "https://www.reddit.com/r/undeads/",
+   "https://www.instagram.com/undeadscom/",
+   "https://www.youtube.com/@undeads",
+   "https://medium.com/@undeadscom"
+  ],
+  "symbol": "UDS",
+  "websites": [
+   "https://undeads.com"
+  ]
+ },
+ {
   "address": "0:abecee264fc0caf7706d65c39f134910623cc24d01edc771f88ef4fe04d7af59",
   "decimals": 9,
   "name": "UFRENS Token",
