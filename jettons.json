@@ -14041,6 +14041,11 @@
   "symbol": "USL"
  },
  {
+  "address": "0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810",
+  "name": "Utya Strategy",
+  "symbol": "USTR"
+ },
+ {
   "address": "0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d",
   "name": "Utya",
   "symbol": "UTYA"
