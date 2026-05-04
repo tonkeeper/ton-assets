@@ -12071,6 +12071,11 @@
   "symbol": "ART"
  },
  {
+  "address": "0:8577fd6518da7c97a040d7b2142d933eb3feb25980f3d91751c12a9bb77e5e5c",
+  "name": "Agentic Wallets",
+  "symbol": "AW"
+ },
+ {
   "address": "0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2",
   "name": "Azure",
   "symbol": "AZURE"

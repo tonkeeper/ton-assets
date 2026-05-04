@@ -1646,6 +1646,10 @@
   "name": "OKX 12"
  },
  {
+  "address": "0:8b070edb01a700f3f6a4624c7e086e036da86060ebb04f19908ee61a3537335f",
+  "name": "Changelly"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },

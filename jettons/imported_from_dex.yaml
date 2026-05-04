@@ -70,6 +70,9 @@
 - address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
   name: Art Coin
   symbol: ART
+- address: 0:8577fd6518da7c97a040d7b2142d933eb3feb25980f3d91751c12a9bb77e5e5c
+  name: Agentic Wallets
+  symbol: AW
 - address: 0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2
   name: Azure
   symbol: AZURE
