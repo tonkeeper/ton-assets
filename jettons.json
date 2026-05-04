@@ -1809,6 +1809,14 @@
   ]
  },
  {
+  "address": "0:6c5bc967cb7313bbd6e27b2a845cfd944388faf58fcc3f86cf41e5fd10af28b8",
+  "decimals": 9,
+  "description": "CARDON (CRDN) is the core utility token of a Telegram-based card game ecosystem on TON, designed with a sustainable reward economy, transparent on-chain distribution, and a secure main pool model. Max supply is capped at 1,000,000,000 CRDN, and the owner/admin has been set to Zero Address.",
+  "image": "https://cardanor.com/token/assets/crdn.png",
+  "name": "CARDON",
+  "symbol": "CRDN"
+ },
+ {
   "address": "0:d89ee523b57f514a75ae396378125ee18e9db9dcbec204539e134492a5385138",
   "description": "Carrot Farming is a project where users can get rewards by playing.",
   "image": "https://i.imgur.com/EOZwOD2.jpeg",
@@ -14009,6 +14017,11 @@
   "address": "0:f4d53c04d69958a582af47058e2f0033cc025a0cac290766d1de77e0fb090927",
   "name": "Teleclaw",
   "symbol": "Teleclaw"
+ },
+ {
+  "address": "0:55deb55e94c3b9b6cdb9b9b283a2407bcd48ff7aa7074c901b7c8bd961586090",
+  "name": "TGFoundation",
+  "symbol": "Telegram"
  },
  {
   "address": "0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3",

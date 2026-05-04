@@ -1235,6 +1235,9 @@
 - address: 0:f4d53c04d69958a582af47058e2f0033cc025a0cac290766d1de77e0fb090927
   name: Teleclaw
   symbol: Teleclaw
+- address: 0:55deb55e94c3b9b6cdb9b9b283a2407bcd48ff7aa7074c901b7c8bd961586090
+  name: TGFoundation
+  symbol: Telegram
 - address: 0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3
   name: Token 69
   symbol: Token 69
