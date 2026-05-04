@@ -14375,11 +14375,6 @@
   "symbol": "\u0412\u041e\u041b\u041a"
  },
  {
-  "address": "0:0e80bb061f112ded2c2e90c3009ddafc89150ddfcb4b9acc3e7df313e61b8cf4",
-  "name": "\u0422\u0435\u043c\u043d\u044b\u0439 \u0414\u0440\u0443\u043d",
-  "symbol": "\u0414\u0420\u0423\u041d"
- },
- {
   "address": "0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237",
   "name": "\u0417\u0430\u0439\u0447\u0438\u043a",
   "symbol": "\u0417\u0430\u0439\u0447\u0438\u043a"
@@ -17406,5 +17401,18 @@
   "address": "0:ce0f496164c3f68aed4946af071008b2be4f91d68b2f43fbfa53c6ccf9d02a3c",
   "name": "Zazulova Respect",
   "symbol": "ZAZU"
+ },
+ {
+  "address": "0:0e80bb061f112ded2c2e90c3009ddafc89150ddfcb4b9acc3e7df313e61b8cf4",
+  "description": "https://vt.tiktok.com/ZS9PNtMn2 @alexandercex",
+  "image": "ipfs://QmPADRy4vJrAiHiJWofjuHFPcU1SLEYmsdBK2KtxwTapr1",
+  "name": "\u0422\u0435\u043c\u043d\u044b\u0439 \u0414\u0440\u0443\u043d",
+  "social": [
+   "https://t.me/drun_ton"
+  ],
+  "symbol": "\u0414\u0420\u0423\u041d",
+  "websites": [
+   "https://drun.live/"
+  ]
  }
 ]
