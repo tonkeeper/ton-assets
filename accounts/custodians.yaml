@@ -417,3 +417,5 @@
   require_memo: false
 - address: "UQBsJbXy_l7xpqGXj2EfYaUIg_1QoIIrGRdkRfypMYIyY9Ql"
   name: "OKX 12"
+- address: "UQCLBw7bAacA8_akYkx-CG4DbahgYOuwTxmQjuYaNTczX2jy"
+  name: "Changelly"
