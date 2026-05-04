@@ -655,6 +655,9 @@
 - address: 0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e
   name: Make Ton Great Again
   symbol: MTGA
+- address: 0:0eb0d7e67075f9f873b76bad2c71561d37e0dd1c6905bf5bf0012e46dc21215a
+  name: 'MTONGA Flag '
+  symbol: MTONGAF
 - address: 0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013
   name: meik tun grit agen
   symbol: MTUNGA
