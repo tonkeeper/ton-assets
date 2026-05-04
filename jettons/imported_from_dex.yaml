@@ -460,6 +460,9 @@
 - address: 0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1
   name: "\u041A\u0440\u043E\u043A\u043E\u0434\u0438\u043B \u0413\u0435\u043D\u0430"
   symbol: Gena
+- address: 0:9ed70fe73b45bf01bb18369db2888578b2b2c663eff06ebf45573c1b2d2964c2
+  name: Hao Pup
+  symbol: HAOPUP
 - address: 0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34
   name: Hedgehog in the fog
   symbol: HIF
@@ -652,6 +655,9 @@
 - address: 0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e
   name: Make Ton Great Again
   symbol: MTGA
+- address: 0:0eb0d7e67075f9f873b76bad2c71561d37e0dd1c6905bf5bf0012e46dc21215a
+  name: 'MTONGA Flag '
+  symbol: MTONGAF
 - address: 0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013
   name: meik tun grit agen
   symbol: MTUNGA
@@ -970,6 +976,9 @@
 - address: 0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9
   name: Slowpoke
   symbol: SLOW
+- address: 0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63
+  name: SAFEMOON
+  symbol: SMOON
 - address: 0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2
   name: "Sushi\u2019n\u2019Girls"
   symbol: SNG
@@ -1250,6 +1259,9 @@
 - address: 0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496
   name: Upstream Lab
   symbol: USL
+- address: 0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810
+  name: Utya Strategy
+  symbol: USTR
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
