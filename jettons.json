@@ -85,6 +85,19 @@
   "symbol": "$COCOZ"
  },
  {
+  "address": "0:8246aa420f4f4d0da46249cb3cbd03c04db01450aedb7d448c774903ebbbe0e5",
+  "description": "In the best tradition of great projects, our $CUPRUM was born in a garage. We recycled old copper wires and used the proceeds to create this token. Join us - help clean the planet and invest with a smile. Our moon tradition? A celebratory cup of rum (or juice)! \ud83e\udd43\u267b\ufe0f",
+  "name": "CUPRUM",
+  "social": [
+   "https://t.me/cuprum_coin_token",
+   "https://t.me/cuprum_token_chat"
+  ],
+  "symbol": "CUPRUM",
+  "websites": [
+   "https://vk.ru/cuprum_token"
+  ]
+ },
+ {
   "address": "0:c7bfaa5cb0aff5cd6b893085a207073325728f5ec875ee3d6508fb6ddeb5f2c4",
   "decimals": 9,
   "description": "Official deathdedesign coin",
@@ -1514,6 +1527,17 @@
   "symbol": "BOSS"
  },
  {
+  "address": "0:644c8df1a0de78ef2bedc2b452fb3fb5790ac247da60ecc864d01b55bc91ef32",
+  "description": "Read it. Meme it. Send it \ud83d\ude80",
+  "image": "https://img.stonks.cash/f10a6012-3715-48f5-b840-7c63fb3ddddc.jpg",
+  "name": "Book of Ton Meme",
+  "social": [
+   "https://t.me/BookOfTONmeme",
+   "https://x.com/BookOfTONmeme"
+  ],
+  "symbol": "BOTM"
+ },
+ {
   "address": "0:00e9f9bdcb33a65db42e68fc763b24f3107661b65cb9b577d5b58d9b2dca8a8d",
   "description": "Rewards Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/batymcoin/refs/heads/main/5379725509707032451.jpg",
@@ -1583,12 +1607,12 @@
  },
  {
   "address": "0:d9bc35bb09fdf7623329795afbef53ccad883298617289b4dd70be32fae9ee16",
-  "description": "Introducing Buddy Bear, the heart and soul of Telegram's cherished mascots! @BuddyBearTon",
-  "image": "https://github.com/BUDDYBearTon/LOGO/blob/main/BEAR.png?raw=true",
+  "description": "Introducing Buddy Bear, the heart and soul of Telegram's cherished mascots! @BuddyBearOnTon",
+  "image": "https://raw.githubusercontent.com/therenovatio/buddy/main/logo.jpeg",
   "name": "BUDDY BEAR",
   "social": [
-   "https://x.com/BuddyBearOnTon",
-   "https://t.me/BuddyBearTon"
+   "https://x.com/BuddyBearOnTON",
+   "https://t.me/BuddyBearOnTon"
   ],
   "symbol": "BUDDY",
   "websites": [
@@ -1807,6 +1831,14 @@
   "websites": [
    "https://capstrategy.fun/"
   ]
+ },
+ {
+  "address": "0:6c5bc967cb7313bbd6e27b2a845cfd944388faf58fcc3f86cf41e5fd10af28b8",
+  "decimals": 9,
+  "description": "CARDON (CRDN) is the core utility token of a Telegram-based card game ecosystem on TON, designed with a sustainable reward economy, transparent on-chain distribution, and a secure main pool model. Max supply is capped at 1,000,000,000 CRDN, and the owner/admin has been set to Zero Address.",
+  "image": "https://cardanor.com/token/assets/crdn.png",
+  "name": "CARDON",
+  "symbol": "CRDN"
  },
  {
   "address": "0:d89ee523b57f514a75ae396378125ee18e9db9dcbec204539e134492a5385138",
@@ -9826,6 +9858,20 @@
   "symbol": "Tnr"
  },
  {
+  "address": "0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3",
+  "description": "Token 69 is a deflationary memcoin with a total supply of 69 pieces. Created with the goal of becoming the main currency of the project, Token 69 will be used when paying for telegram channel services.",
+  "image": "https://avatars.githubusercontent.com/u/169466498?s=400&u=0dcad87841002728940ecfe82e87894dd676afdd&v=4eqbzdyqe6nblwimgerlwbpkzb9fbxxpey1gkjxpc6lksditu.png?size=lg&key=d164be",
+  "name": "Token 69",
+  "social": [
+   "https://t.me/token_69world",
+   "https://t.me/Token_69_public"
+  ],
+  "symbol": "Token 69",
+  "websites": [
+   "https://www.token69.me/"
+  ]
+ },
+ {
   "address": "0:32507ed035d5afb7b85810d924a7cf1bda811ffd15e2ce519663e28f5b307556",
   "description": "Empowering TON fam!",
   "image": "https://tonfi.space/tonfi-logo.png",
@@ -9901,6 +9947,27 @@
    "https://x.com/udogcoin?s=21"
   ],
   "symbol": "UDOG"
+ },
+ {
+  "address": "0:906d4fee2075eca1de46f4f7884be472f04659d5d0e8ad2f355e6ede6973794f",
+  "decimals": 6,
+  "description": "Undeads Games Token",
+  "image": "https://ipfs.io/ipfs/bafkreid2eytvdcjw4wwyaolzcnt2rnzhxfgimknbkmullsuxj33m3ykk6i",
+  "name": "Undeads Games",
+  "social": [
+   "https://undeads.com/forum",
+   "https://t.me/undeadscom",
+   "https://x.com/undeadscom",
+   "https://web.facebook.com/Undeadscom/",
+   "https://www.reddit.com/r/undeads/",
+   "https://www.instagram.com/undeadscom/",
+   "https://www.youtube.com/@undeads",
+   "https://medium.com/@undeadscom"
+  ],
+  "symbol": "UDS",
+  "websites": [
+   "https://undeads.com"
+  ]
  },
  {
   "address": "0:abecee264fc0caf7706d65c39f134910623cc24d01edc771f88ef4fe04d7af59",
@@ -12071,6 +12138,11 @@
   "symbol": "ART"
  },
  {
+  "address": "0:8577fd6518da7c97a040d7b2142d933eb3feb25980f3d91751c12a9bb77e5e5c",
+  "name": "Agentic Wallets",
+  "symbol": "AW"
+ },
+ {
   "address": "0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2",
   "name": "Azure",
   "symbol": "AZURE"
@@ -12701,14 +12773,14 @@
   "symbol": "GOY"
  },
  {
-  "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
-  "name": "Gram",
-  "symbol": "GRAM"
- },
- {
   "address": "0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309",
   "name": "GRAND",
   "symbol": "GRAND"
+ },
+ {
+  "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
+  "name": "Grm",
+  "symbol": "GRM"
  },
  {
   "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
@@ -12719,6 +12791,11 @@
   "address": "0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1",
   "name": "\u041a\u0440\u043e\u043a\u043e\u0434\u0438\u043b \u0413\u0435\u043d\u0430",
   "symbol": "Gena"
+ },
+ {
+  "address": "0:9ed70fe73b45bf01bb18369db2888578b2b2c663eff06ebf45573c1b2d2964c2",
+  "name": "Hao Pup",
+  "symbol": "HAOPUP"
  },
  {
   "address": "0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34",
@@ -12848,6 +12925,11 @@
  {
   "address": "0:fe2d6f635366ed4aefdc96b73e71725a1c94ba2ca27af5031ca4b6c514f53173",
   "name": "Nikolai KOT Durov",
+  "symbol": "KOT"
+ },
+ {
+  "address": "0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446",
+  "name": "Nikolai Durov",
   "symbol": "KOT"
  },
  {
@@ -13039,6 +13121,11 @@
   "address": "0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e",
   "name": "Make Ton Great Again",
   "symbol": "MTGA"
+ },
+ {
+  "address": "0:0eb0d7e67075f9f873b76bad2c71561d37e0dd1c6905bf5bf0012e46dc21215a",
+  "name": "MTONGA Flag ",
+  "symbol": "MTONGAF"
  },
  {
   "address": "0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013",
@@ -13344,6 +13431,11 @@
   "address": "0:7c4f5ca5ca4b340c51645140b629e165cd7326fb10e3befeb00c34572ebea34c",
   "name": "PUGWIFJET",
   "symbol": "PWJ"
+ },
+ {
+  "address": "0:0ec9fe27fbbc13b53238e4b190c1f69c11f9e4a4e6bdbfa6e3a7081e0875f959",
+  "name": "Durovs Dog",
+  "symbol": "PYONYA"
  },
  {
   "address": "0:d13accad4b12ed0e9ff6a512046a29d41aa64f4416d79306b2567ed5013edb1c",
@@ -13991,9 +14083,9 @@
   "symbol": "Teleclaw"
  },
  {
-  "address": "0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3",
-  "name": "Token 69",
-  "symbol": "Token 69"
+  "address": "0:55deb55e94c3b9b6cdb9b9b283a2407bcd48ff7aa7074c901b7c8bd961586090",
+  "name": "TGFoundation",
+  "symbol": "Telegram"
  },
  {
   "address": "0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce",
@@ -14034,6 +14126,11 @@
   "address": "0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496",
   "name": "Upstream Lab",
   "symbol": "USL"
+ },
+ {
+  "address": "0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810",
+  "name": "Utya Strategy",
+  "symbol": "USTR"
  },
  {
   "address": "0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d",
@@ -14314,11 +14411,6 @@
   "address": "0:f66f9932ff01df9d825e6f01381bba0759aa28b2bf2a383eb3219d02a70086d3",
   "name": "\u0412\u041e\u041b\u041a",
   "symbol": "\u0412\u041e\u041b\u041a"
- },
- {
-  "address": "0:0e80bb061f112ded2c2e90c3009ddafc89150ddfcb4b9acc3e7df313e61b8cf4",
-  "name": "\u0422\u0435\u043c\u043d\u044b\u0439 \u0414\u0440\u0443\u043d",
-  "symbol": "\u0414\u0420\u0423\u041d"
  },
  {
   "address": "0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237",
@@ -16853,6 +16945,16 @@
   "symbol": "wNOT"
  },
  {
+  "address": "0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63",
+  "description": "A Safe journey to the Moon. Initial LP locked 100% forever on dedust locker.",
+  "image": "https://www.image2url.com/r2/default/images/1777622695995-560c492b-6c30-4ca6-be5c-ac83e6ac8632.jpgARNI_Logo.png",
+  "name": "SAFEMOON",
+  "social": [
+   "https://t.me/safemoon_ton"
+  ],
+  "symbol": "SMOON"
+ },
+ {
   "address": "0:11c54d36ad3b4f5eb666b4ef7e8c4aeaa62b5fc712773064d6e887bbbaa5bd5a",
   "description": "Web3 is all about supporting each other",
   "image": "https://bigpump.fra1.cdn.digitaloceanspaces.com/prod/f8e46dd1_1736754155077_IMG_1155.jpeg",
@@ -17347,5 +17449,18 @@
   "address": "0:ce0f496164c3f68aed4946af071008b2be4f91d68b2f43fbfa53c6ccf9d02a3c",
   "name": "Zazulova Respect",
   "symbol": "ZAZU"
+ },
+ {
+  "address": "0:0e80bb061f112ded2c2e90c3009ddafc89150ddfcb4b9acc3e7df313e61b8cf4",
+  "description": "https://vt.tiktok.com/ZS9PNtMn2 @alexandercex",
+  "image": "ipfs://QmPADRy4vJrAiHiJWofjuHFPcU1SLEYmsdBK2KtxwTapr1",
+  "name": "\u0422\u0435\u043c\u043d\u044b\u0439 \u0414\u0440\u0443\u043d",
+  "social": [
+   "https://t.me/drun_ton"
+  ],
+  "symbol": "\u0414\u0420\u0423\u041d",
+  "websites": [
+   "https://drun.live/"
+  ]
  }
 ]

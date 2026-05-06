@@ -70,6 +70,9 @@
 - address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
   name: Art Coin
   symbol: ART
+- address: 0:8577fd6518da7c97a040d7b2142d933eb3feb25980f3d91751c12a9bb77e5e5c
+  name: Agentic Wallets
+  symbol: AW
 - address: 0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2
   name: Azure
   symbol: AZURE
@@ -448,18 +451,21 @@
 - address: 0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51
   name: Goy Token
   symbol: GOY
-- address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
-  name: Gram
-  symbol: GRAM
 - address: 0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309
   name: GRAND
   symbol: GRAND
+- address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
+  name: Grm
+  symbol: GRM
 - address: 0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2
   name: Gold Standard
   symbol: GSTD
 - address: 0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1
   name: "\u041A\u0440\u043E\u043A\u043E\u0434\u0438\u043B \u0413\u0435\u043D\u0430"
   symbol: Gena
+- address: 0:9ed70fe73b45bf01bb18369db2888578b2b2c663eff06ebf45573c1b2d2964c2
+  name: Hao Pup
+  symbol: HAOPUP
 - address: 0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34
   name: Hedgehog in the fog
   symbol: HIF
@@ -537,6 +543,9 @@
   symbol: KORC
 - address: 0:fe2d6f635366ed4aefdc96b73e71725a1c94ba2ca27af5031ca4b6c514f53173
   name: Nikolai KOT Durov
+  symbol: KOT
+- address: 0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446
+  name: Nikolai Durov
   symbol: KOT
 - address: 0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862
   name: MrKrabs
@@ -652,6 +661,9 @@
 - address: 0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e
   name: Make Ton Great Again
   symbol: MTGA
+- address: 0:0eb0d7e67075f9f873b76bad2c71561d37e0dd1c6905bf5bf0012e46dc21215a
+  name: 'MTONGA Flag '
+  symbol: MTONGAF
 - address: 0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013
   name: meik tun grit agen
   symbol: MTUNGA
@@ -835,6 +847,9 @@
 - address: 0:7c4f5ca5ca4b340c51645140b629e165cd7326fb10e3befeb00c34572ebea34c
   name: PUGWIFJET
   symbol: PWJ
+- address: 0:0ec9fe27fbbc13b53238e4b190c1f69c11f9e4a4e6bdbfa6e3a7081e0875f959
+  name: Durovs Dog
+  symbol: PYONYA
 - address: 0:d13accad4b12ed0e9ff6a512046a29d41aa64f4416d79306b2567ed5013edb1c
   name: PRIZM
   symbol: PZM
@@ -1223,9 +1238,9 @@
 - address: 0:f4d53c04d69958a582af47058e2f0033cc025a0cac290766d1de77e0fb090927
   name: Teleclaw
   symbol: Teleclaw
-- address: 0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3
-  name: Token 69
-  symbol: Token 69
+- address: 0:55deb55e94c3b9b6cdb9b9b283a2407bcd48ff7aa7074c901b7c8bd961586090
+  name: TGFoundation
+  symbol: Telegram
 - address: 0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce
   name: Ton Doge Coin
   symbol: TonDoge
@@ -1250,6 +1265,9 @@
 - address: 0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496
   name: Upstream Lab
   symbol: USL
+- address: 0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810
+  name: Utya Strategy
+  symbol: USTR
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
@@ -1418,9 +1436,6 @@
 - address: 0:f66f9932ff01df9d825e6f01381bba0759aa28b2bf2a383eb3219d02a70086d3
   name: "\u0412\u041E\u041B\u041A"
   symbol: "\u0412\u041E\u041B\u041A"
-- address: 0:0e80bb061f112ded2c2e90c3009ddafc89150ddfcb4b9acc3e7df313e61b8cf4
-  name: "\u0422\u0435\u043C\u043D\u044B\u0439 \u0414\u0440\u0443\u043D"
-  symbol: "\u0414\u0420\u0423\u041D"
 - address: 0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237
   name: "\u0417\u0430\u0439\u0447\u0438\u043A"
   symbol: "\u0417\u0430\u0439\u0447\u0438\u043A"
