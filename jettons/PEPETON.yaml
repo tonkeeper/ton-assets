@@ -1,0 +1,10 @@
+name: PEPETON
+symbol: PEPETON
+description: PEPETON is a TON curve Jetton. TON enters the contract, PEPETON is printed by the curve, and sells burn PEPETON back into the reserve.
+image: "https://www.pepeton.org/pepe-head.png"
+address: EQDyoySuaPkH9-QcYH7TXFNzk8BcZHSlWTkVAGVzS9qWx1_f
+decimals: 9
+websites:
+  - "https://www.pepeton.org"
+social:
+  - "https://t.me/pilethepepe_bot"
