@@ -1,0 +1,11 @@
+{
+    "name": "NEXUS",
+    "symbol": "NEXUS",
+    "decimals": 9,
+    "description": "NEXUS ORACLE - Agentic AI Oracle Network on TON Blockchain. Powering decentralized intelligence, automated agent factories, and on-chain data verification.",
+    "image": "https://nexusoracle.pro/nexus-icon.png",
+    "websites": ["https://nexusoracle.pro"],
+    "social": {
+          "telegram": "https://t.me/nexusoraclebot"
+    }
+}
