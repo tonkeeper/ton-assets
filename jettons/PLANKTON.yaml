@@ -1,0 +1,11 @@
+name: CEO Plankton
+symbol: PLANKTON
+address: EQBLl2zeXFnwt2MsCw_LOEcgP5zC0VRWTeMA7NMNErLrOijA
+description: "$PLANKTON — a TON meme coin. From plankton to whale."
+image: "https://plankton.ceo/assets/logo/logo.png"
+websites:
+  - "https://plankton.ceo/"
+social:
+  - "https://x.com/CEO_Plankton"
+  - "https://t.me/ceo_plankton"
+decimals: 9
