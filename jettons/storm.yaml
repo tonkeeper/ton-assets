@@ -1,20 +1,11 @@
-- name: TON Storm LP
-  symbol: TON-SLP
-  description: TON locked in liquidity in Storm Trade (storm.tg)
-  address: 0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea
-  image: "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/ton-slp-logo.png"
-  websites:
-    - "https://storm.tg"
-  social:
-    - "https://t.me/storm_trade_news"
-    - "https://t.me/storm_trade_fam"
-- name: jUSDT Storm LP
-  symbol: jUSDT-SLP
-  description: Bridged Tether USD locked in liquidity in Storm Trade (storm.tg)
-  image: "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/jusdt-slp-logo.png"
-  address: 0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc
-  websites:
-    - "https://storm.tg"
-  social:
-    - "https://t.me/storm_trade_news"
-    - "https://t.me/storm_trade_fam"
+name: STORM
+description: "The utility token of the Storm Trade protocol (storm.tg)."
+symbol: STORM
+image: "https://static.storm.tg/TOKEN.png"
+address: "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c"
+decimals: 9
+websites:
+  - "https://storm.tg"
+social:
+  - "https://t.me/storm_trade_news"
+  - "https://t.me/storm_trade_fam"
