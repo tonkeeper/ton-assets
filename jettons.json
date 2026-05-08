@@ -9302,6 +9302,18 @@
   ]
  },
  {
+  "address": "0:d296f6a3854547efe39da199a219bffe616ed9d67d99956e2dcaf824c2aa027a",
+  "decimals": 9,
+  "description": "The Shiba Inu of Telegram. 90% of supply was sent to Pavel Durov.",
+  "image": "https://raw.githubusercontent.com/tg-inu-dev/tginu/main/logo.png",
+  "name": "Telegram Inu",
+  "social": [
+   "https://t.me/tg_inu",
+   "https://t.me/tg_inu"
+  ],
+  "symbol": "TGINU"
+ },
+ {
   "address": "0:1fb359c8c486a4fb614a7d620de5ad5c87f7090e77d1e47d382dcd1ad35bb906",
   "description": "Telegram one million users, tgMEME one million holders",
   "image": "https://pbs.twimg.com/profile_images/1926845395696594945/WiEI074P_400x400.jpg",
