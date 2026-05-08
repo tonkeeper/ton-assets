@@ -388,6 +388,10 @@
   "name": "STON.fi DEX"
  },
  {
+  "address": "0:c708deda737561ae355fca014b23a274d47278da0832cd542f94d2dddbe1de96",
+  "name": "Getgems Gift Minter"
+ },
+ {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/morgenshtern_288.png",
   "name": "Morgenshtern"
@@ -429,6 +433,11 @@
  },
  {
   "address": "0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d",
+  "image": "https://t.me/i/userpic/320/onetimeusername.jpg",
+  "name": "Pavel Durov"
+ },
+ {
+  "address": "0:a355d7c7de45bb6845a5dd525798cca23cd518ca601b9c6a932493ae82292b79",
   "image": "https://t.me/i/userpic/320/onetimeusername.jpg",
   "name": "Pavel Durov"
  },
@@ -882,6 +891,18 @@
   "name": "Heart Lockets"
  },
  {
+  "address": "0:65049e27d35a6661ecf954f77c5a8e7df2cf1a81b402c953a3b9c5cac4b0c08b",
+  "name": "Chill Flames"
+ },
+ {
+  "address": "0:b6d76763aead208254178bc312157d5b730e0b1f0dc4b3ada52afb75959cf3b1",
+  "name": "Timeless Books"
+ },
+ {
+  "address": "0:dcd3c631cd95ad94a028852c9b35cde45c09003cfb47721fa363f13a28c4376f",
+  "name": "Vice Creams"
+ },
+ {
   "address": "-1:a491d63f07ba7eefb4cb9f685484ce9089d5abaec97c15858222f04ca592a9ac",
   "name": "PoW Giver 1"
  },
@@ -1203,6 +1224,12 @@
   "address": "0:7f97f36dda3f7dedc9e12f8c09c4f89e7fbc17527ab3f67de4c3b155297a56e4",
   "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
   "name": "Bybit 7",
+  "require_memo": true
+ },
+ {
+  "address": "0:7d133d4e425c8e00de015513a44e66e6d163b21e71720aec7579965e5de28c55",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
+  "name": "Bybit 8",
   "require_memo": true
  },
  {
@@ -1619,6 +1646,19 @@
   "address": "0:419712bc541c4489d6f1c38a105722d293b8847fd54f2717ad69142911b8be5c",
   "name": "Bitfinex 2",
   "require_memo": false
+ },
+ {
+  "address": "0:6c25b5f2fe5ef1a6a1978f611f61a50883fd50a0822b19176445fca931823263",
+  "name": "OKX 12"
+ },
+ {
+  "address": "0:8b070edb01a700f3f6a4624c7e086e036da86060ebb04f19908ee61a3537335f",
+  "name": "Changelly"
+ },
+ {
+  "address": "0:f2dc1860686cd658987e2bed8216532d8c004460dadea907cc7d4ad7236c496b",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
+  "name": "Bybit 8"
  },
  {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
@@ -2058,6 +2098,10 @@
  },
  {
   "address": "0:22bf722ec5803a64612e9ce819493b8c0736e98f045b5b0d3df96b04fa2a8a28",
+  "name": "STON.fi DEX"
+ },
+ {
+  "address": "0:2c6b9a7f516c540da53d9fd6e8dc202fdb144dacd16369d866ef425001eb1d56",
   "name": "STON.fi DEX"
  },
  {
