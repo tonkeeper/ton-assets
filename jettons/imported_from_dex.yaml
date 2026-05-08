@@ -463,6 +463,9 @@
 - address: 0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3
   name: GoMining
   symbol: GOMINING
+- address: 0:0e197b1c74b2f178fa729882e1fdbbba864660b21f8fc2ae01e52b459438dce3
+  name: GoodBoyResistance
+  symbol: GOODBOY
 - address: 0:655a02a787fa9b1584d77ca8060103f193116c02b0ce4abf67940452cf276934
   name: GOVNO
   symbol: GOVNO
