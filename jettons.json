@@ -2002,6 +2002,19 @@
   "symbol": "CFT"
  },
  {
+  "address": "0:d341c21b632b58635c19176c6c71edef759969f578bb4ed4bb99abfa14cb0e9e",
+  "description": "A utility token integrated into an application. \u26d3\ufe0f The chain is strong with its links \u26d3\ufe0f A digital comics studio building within the ecosystem.",
+  "image": "https://i.ibb.co/gZWSGYQR/photo.jpg",
+  "name": "CHAIN comics",
+  "social": [
+   "https://t.me/chain_comics",
+   "https://t.me/chain_comics_chat",
+   "https://youtube.com/@chain_comics",
+   "https://www.instagram.com/chain_comics"
+  ],
+  "symbol": "CHAIN"
+ },
+ {
   "address": "0:c5680842c4ac744c6399f61f291332e2d3203e69a69639028e936e640177aeaf",
   "description": "Durov's Child - meme coin on TON.",
   "image": "https://i.postimg.cc/x1n76y6V/IMG-0428.jpg",
@@ -12147,6 +12160,11 @@
   "symbol": "8num"
  },
  {
+  "address": "0:0e19316b2c14c194713eae4e5142e9c90e9279eb29f3ddc6cfbc4c7e51dc9278",
+  "name": "ninefortyone",
+  "symbol": "9:41"
+ },
+ {
   "address": "0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5",
   "name": "@BTC25 MEMECOIN TonMiner",
   "symbol": "@BTC25"
@@ -12255,6 +12273,11 @@
   "address": "0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0",
   "name": "BANANA",
   "symbol": "BANANA"
+ },
+ {
+  "address": "0:0e8e95cd9a7490a4aa848f87148b3ff4e3c3fe0b6e0c03524da83fc23e654038",
+  "name": "Blue Andy",
+  "symbol": "BANDY"
  },
  {
   "address": "0:75dfdf613ea58376ea66570e3774a04481882c12da258951ac7e97218870be04",
@@ -12730,6 +12753,11 @@
   "address": "0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184",
   "name": "eTON NFT",
   "symbol": "ENFT"
+ },
+ {
+  "address": "0:4be7c707fc67c785f768a4f7dc016e7d7499903e2646faaa2478998bdd5e1c8a",
+  "name": "Emoji Stake",
+  "symbol": "ES"
  },
  {
   "address": "0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651",
@@ -13527,6 +13555,11 @@
   "symbol": "PPP"
  },
  {
+  "address": "0:0e42d12497489edbe964b5aad1039b544bd3cbea4b9e028290737896d7e7ae9e",
+  "name": "Premium",
+  "symbol": "PREMIUM"
+ },
+ {
   "address": "0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3",
   "name": "Prolific",
   "symbol": "PRO"
@@ -13560,6 +13593,11 @@
   "address": "0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb",
   "name": "$PUNK",
   "symbol": "PUNK"
+ },
+ {
+  "address": "0:62653764618cbf177641eddbacbe59f47f56915dc200d1318d28acbb02b907f8",
+  "name": "Polar Seal",
+  "symbol": "PUP"
  },
  {
   "address": "0:296afb30ba0917352836a4ac4841773330e8d9736320d2dde3fcab8299205105",
@@ -14107,6 +14145,11 @@
   "symbol": "TONIC"
  },
  {
+  "address": "0:0e6a683aad3e1dc494c1f82e181830525b586eb3966bcdc6da1ab4fc62e5e4c3",
+  "name": "Super Tonic",
+  "symbol": "TONIC"
+ },
+ {
   "address": "0:efebc6f725a5813bf0eb3fabb5dceabb2ac9ca851f76ea433170e2700020d8fe",
   "name": "Tonk Inu",
   "symbol": "TONK"
@@ -14120,6 +14163,11 @@
   "address": "0:bac1af06060f53c5cc231916096efb80aa33e2d641457b9d3e834786801bf14c",
   "name": "Tonkey",
   "symbol": "TONKY"
+ },
+ {
+  "address": "0:4d4ea5b2894a015c9113ab1fe28912b725141111cdc701f0d128568c9d427ca7",
+  "name": "TONMAXXING",
+  "symbol": "TONMAXXING"
  },
  {
   "address": "0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32",
@@ -14625,6 +14673,26 @@
   "address": "0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246",
   "name": "\u0447\u0435\u0431\u0443\u0440\u0430\u0448\u043a\u0430",
   "symbol": "\u0447\u0435\u0431\u0443\u0440\u0430\u0448\u043a\u0430"
+ },
+ {
+  "address": "0:e597ba8665e0ed04daec57d275107361b4b60e397f53bb2dfc6c2ada3cbda120",
+  "name": "\u8001\u5b50",
+  "symbol": "\u8001\u5b50"
+ },
+ {
+  "address": "0:050e756b3c23ad5fa2729a54241ae60203a6ff16b9869f98a6a05f70ff62b3bf",
+  "name": "\u8ba9TON\u518d\u6b21\u4f1f\u5927",
+  "symbol": "\u8ba9TON\u518d\u6b21\u4f1f\u5927"
+ },
+ {
+  "address": "0:cd4aab1f3520d77421215350d92207d9524b5bc7721f329c56dc6adef5540f0b",
+  "name": "\u9053\u5fb7\u7d93",
+  "symbol": "\u9053\u5fb7\u7d93"
+ },
+ {
+  "address": "0:89e73c46909bbc06b25bbd4558212fe425264c99bc51fe4d3d77a8f67c1bc357",
+  "name": "\u91d1\u72d7 TON",
+  "symbol": "\u91d1\u72d7"
  },
  {
   "address": "0:e119110357de400343a670b3507ce9cd23049995fe5dd6b7c07cf96ac46492e5",
