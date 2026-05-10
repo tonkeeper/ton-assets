@@ -1,7 +1,17 @@
+- name: Tony McDuck
+  description: Tony McDuck, the mascot of TON.
+  image: "https://ipfs.io/ipfs/QmcCYFa6P7iMwBNXqJHUNh9m4w3jmJfin6KNRiidSC6kez"
+  address: EQAOp_GJvXdf-KOyrzwXV5Uf0Pzbsc5QXLRPwPc6dj1YnhPb
+  symbol: TONY
+  websites:
+    - "https://tonymcduck.com"
+  social:
+    - "https://t.me/tonymcton"
+    - "https://x.com/tonymcton"
 - name: TONY THE DUCK
   description: TONY THE DUCK - The Quackiest Duck on TON
   image: "https://n3kosempai.github.io/tonytheduck/TONY.PNG"
-  address: EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5
+  address: EQBiJd6zOWiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5
   symbol: TONY
   websites:
     - "https://tonytheduck.com"
