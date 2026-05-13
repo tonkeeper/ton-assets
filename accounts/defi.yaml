@@ -20,6 +20,8 @@
   name: "Marketapp"
 - address: "EQCYCA-47lALps90xoFFIPVznOsiHlWVKF3cEDChKgP3JYEf"
   name: "Marketapp"
+- address: "EQCpwa0v6lvGA01uKGfsW1CK1Nd59aO_xVFGGHPy7JTghHTB"
+  name: "Marketapp Proxy"
 - address: "EQBTGRpXgB3iQq74pHNcnKzFU_S4j4WGnubOiYYLU5JFOHwU"
   name: "Marketapp Deployer"
 - address: "EQCXKnbyYLT7JW6IAP26UfL-NYXW4sQ1nhl6FuHm2tA0pFFw"
