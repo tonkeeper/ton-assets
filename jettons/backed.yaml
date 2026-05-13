@@ -49,6 +49,9 @@
 - address: 0:252fb7ceca48af90479f6e5701ddb92a9f81ccc0ff2340d0cd573a3df9190a64
   name: Bank of America xStock
   symbol: BACx
+- address: 0:3c0693d9b2add7e723df3c031edf7ecc7d5d968bed20e8bf0a6ba11d548ddefc
+  name: Volatility Shares 2x Bitcoin Strategy xStock
+  symbol: BITXx
 - address: 0:2f2fe596845939d4313376713b7ec916a62a7d105655f094c902365f1b181822
   name: Bitmine xStock
   symbol: BMNRx
@@ -94,6 +97,9 @@
 - address: 0:cefa62b68c7340a90079365c992803be09be1a67991fd11f354cfd72a8450ee9
   name: Chevron xStock
   symbol: CVXx
+- address: 0:ad997cc9ccfc651176afb67fa1dee96ced48b9bc96dabe0b7510615bf394d0bb
+  name: Global X DAX Germany xStock
+  symbol: DAXx
 - address: 0:7516d284f0f3a3acc6fd736f56765bbcab9ff1cb46de0c6094838d5dc51a7a69
   name: Dell Technologies Inc. xStock
   symbol: DELLx
@@ -106,9 +112,39 @@
 - address: 0:f4fbf3297608d95f02dc46885a3ced13e0588ba5309eea8eb543a0cec7af8968
   name: Eaton Corporation plc xStock
   symbol: ETNx
+- address: 0:7280b10802c385178ef8ee1e4b7facdeb7c33dff681330f604294e8b136f4b54
+  name: iShares MSCI Germany xStock
+  symbol: EWGx
+- address: 0:cad67818731213c7999ca1bece7d3945e1c3de44ba186681dd0ce50e7783caaf
+  name: iShares MSCI France xStock
+  symbol: EWQx
+- address: 0:ea802d657ac73f2f5d3ed0b5040b7b9c816892be9f92bb38703ab0da8f9105a0
+  name: iShares MSCI United Kingdom xStock
+  symbol: EWUx
+- address: 0:4154f8418b92275c7a883be5e2e798ec462f5962d6ea80b9b3a0d4df4271e811
+  name: iShares MSCI South Korea xStock
+  symbol: EWYx
+- address: 0:e522d61b77f4d2a41ffd1b50b9b9aa284c9aa14263bec1b026e4bba0d5f96888
+  name: Fidelity AAA CLO xStock
+  symbol: FAAAx
+- address: 0:77368ab9544bde41414fb77ecfaaaf2a8a725445e1aac82628f4b1ecbfd57746
+  name: SPDR EURO STOXX 50 xStock
+  symbol: FEZx
 - address: 0:0596c5a0556535c59dbf9c69988d18cdfd0d1423723d75d73f5a22705444e1c7
   name: Franklin Responsibly Sourced Gold ETF xStock
   symbol: FGDLx
+- address: 0:a2bd1a1c09be035d098713f8485e6688a56d5a17adada5845fa2d6bdb121b3b2
+  name: Franklin Senior Loan xStock
+  symbol: FLBLx
+- address: 0:b3bfd6c1f82511c9920c5599d0341c36d360380b22f6c43277bbe27a0c924738
+  name: Franklin U.S. Mid Cap Multi-Factor xStock
+  symbol: FLQMx
+- address: 0:a99da8d7647fa8198e982f5c716818dfe14a94f2fd1700ea42a789e38e365a2f
+  name: Franklin Small Cap Enhanced xStock
+  symbol: FSMLx
+- address: 0:d0fcc5b7449202c02d6f53cdc6cdd6cf96fa07ee9eee97d54b8ec3ba67175d23
+  name: VanEck Gold Miners xStock
+  symbol: GDXx
 - address: 0:5985e7354a2f2362a4dfcd3c061f3d3d339f124a0f846f374e4418a190cf07b1
   name: GE Vernova Inc. xStock
   symbol: GEVx
@@ -130,6 +166,9 @@
 - address: 0:bfd9349cfada0ab67e69b07e0b158671b5c31712e37110f1fd4485c1c575b8cd
   name: Home Depot xStock
   symbol: HDx
+- address: 0:9889e1ee70c7744fcdce23f67ef35945a471d4aad6b9bedfb5366f4146a0e99b
+  name: Hims & Hers xStock
+  symbol: HIMSx
 - address: 0:807606491d414b82d280dc8bc992c675f88571a6b82b760c77a7097675dd1933
   name: Honeywell xStock
   symbol: HONx
@@ -151,18 +190,30 @@
 - address: 0:419d217235990d9aaec8e04f725a1643650bab710846905786055fd45e26c596
   name: Intel xStock
   symbol: INTCx
+- address: 0:9d206e9381055332e265dc6da3f5f95fcffc5c948155dcce35383831fa87c3ee
+  name: Franklin Intelligent Machines xStock
+  symbol: IQMx
+- address: 0:e50e60fb5a299becc036985fbc59030e37151844d12636a80b0e9e9d19d98702
+  name: IREN xStock
+  symbol: IRENx
 - address: 0:faf0b1e26c43b816dfddf6b6f09632ecfb56a2d24488e1c04124ef428f831c9c
   name: iShares U.S. Aerospace & Defense ETF xStock
   symbol: ITAx
 - address: 0:a948a8746cef33af933a42793995551a50ac04b12b2313e5f6f4fc588619c48f
   name: Russell 2000 xStock
   symbol: IWMx
+- address: 0:bacdb8720528de5d37d6e34b3db4a9dcc213ad5b842039053ff3b7406bd3c414
+  name: Janus Henderson AAA CLO xStock
+  symbol: JAAAx
 - address: 0:24dc64fe1b57c3dcfdd528e19f731b12c8f1dac2bf061c5a0e3a03ab351a79e5
   name: Johnson & Johnson xStock
   symbol: JNJx
 - address: 0:56503dbc2f409a1691f316863189f88d394027c9b6984912f6ee2e1fbce64d59
   name: JPMorgan Chase xStock
   symbol: JPMx
+- address: 0:c94018ce6834f755bfb69cf1662ad61056d8edd46e7f666ca9c0076e67752a4c
+  name: JPMorgan Ultra-Short Income xStock
+  symbol: JPSTx
 - address: 0:54239d6954eec7ed96b6e85331df9aef61edb7f3b4b757df6a00cf136f196e2b
   name: KLA Corporation xStock
   symbol: KLACx
@@ -181,6 +232,9 @@
 - address: 0:dec5016a85bcaecbd5602b578c7475d9022e640b65816c77bbe261d611d1d557
   name: Eli Lilly xStock
   symbol: LLYx
+- address: 0:ece8c1149dca1e4c2d18e61667e2f64be61ec2ac846c2730b7deedb8b52e7e06
+  name: Cheniere Energy xStock
+  symbol: LNGx
 - address: 0:9d8f47305e479b343826d512653190f44d5d8c68681d6e9f291225f41d36531c
   name: Lam Research Corporation xStock
   symbol: LRCXx
@@ -217,9 +271,15 @@
 - address: 0:a73ccfa40e6ea28c1a81c51ed1ea59282f32c9f0eca2e42ac4725674a15735e9
   name: Micron Technology xStock
   symbol: MUx
+- address: 0:cbb368ac1339fe9c368657226d1c83d6a6f27c542fed394826793dd127f27c67
+  name: Cloudflare xStock
+  symbol: NETx
 - address: 0:4e921ffb5a4e85950eaf474dd2e81893de86d9d75f3d3060f5eae837337e7931
   name: Netflix xStock
   symbol: NFLXx
+- address: 0:4e9d63628890029a78325ee92b3f923f9950118858612bf2815da19517677a34
+  name: VanEck Uranium and Nuclear xStock
+  symbol: NLRx
 - address: 0:af6be39feda710754fe98800dd95c6f3b05b40fb127066872dcfc64e5c1741a1
   name: NVIDIA xStock
   symbol: NVDAx
@@ -229,6 +289,9 @@
 - address: 0:9aa52a32be73fcf8b6acc7cef956aaf91d26df7182ea737de5a284e0a9e0404c
   name: Oklo xStock
   symbol: OKLOx
+- address: 0:9c00d7f6022830b5d5e2ad30662556fefa246cf2720d25c09dc195cffeec073c
+  name: Ondas xStock
+  symbol: ONDSx
 - address: 0:ffb4779f35f8b4f786a8403e8645d6efd73972764e0ae0720436c593f1c760cc
   name: OPEN xStock
   symbol: OPENx
@@ -274,9 +337,15 @@
 - address: 0:bd1699ac396492e34d050f8cccc432c8fa475595fbc7154cdd6a29862de61e7f
   name: Roblox xStock
   symbol: RBLXx
+- address: 0:9d2dbd6a34233540ccc5f58220e154bea76a262ec2778c684d51aad08486b1a2
+  name: Red Cat xStock
+  symbol: RCATx
 - address: 0:15ce0772400942e29b2ecb32e22e652493113137c4e17410243a2236fb1a445c
   name: Riot Platforms xStock
   symbol: RIOTx
+- address: 0:02a4ee4082b9e61481c9dc47397e48e8c515dd39d455ea84bfdf61a1e4c57b46
+  name: Strive, Inc. Series A Preferred xStock
+  symbol: SATAx
 - address: 0:cc1f57df1857fa1b4976dc8c773f34f07feac831fe148b5c195efe1fd3d748d0
   name: SharpLink Gaming xStock
   symbol: SBETx
@@ -304,6 +373,12 @@
 - address: 0:ee78fdb21081126dcaf026b1fa588f093b29b86636facf0d614dc95a43eaf468
   name: Sandisk Corporation xStock
   symbol: SNDKx
+- address: 0:ebc7462679ebe803685820e65af94c4c41dc288c308d38c80057654205787243
+  name: Direxion Semiconductor Bull 3X xStock
+  symbol: SOXLx
+- address: 0:25466859a871691f6b512f4874138f661b5ac9a3a0dcb065b5316ff3d1265531
+  name: iShares Semiconductor xStock
+  symbol: SOXXx
 - address: 0:4a720b2050af0e139db1bb5a1c32eda79b96e2c1e172e71577fede0feec5ec42
   name: Virgin Galactic xStock
   symbol: SPCEx
@@ -352,6 +427,9 @@
 - address: 0:0f5f916e4152368859e2e26e2f2f7978ffc98e6c108f247b1c40573f8f56c6a2
   name: USA Rare Earth Inc. xStock
   symbol: USARx
+- address: 0:c8c8cc0601fd11811447f9a2fa554fa16f7d32685140451682cd44779b36c7bd
+  name: Franklin U.S. Equity Index xStock
+  symbol: USPXx
 - address: 0:3fda788caf048a1f5f20fb81d93adf6b2cf598f14df36ce22703fe81c68764f8
   name: Energy Fuels Inc. xStock
   symbol: UUUUx
@@ -361,6 +439,12 @@
 - address: 0:b5a0c95cf19a449ed17e7a9a40b6f6441dc0e26066af4bcf699cfd568a111e7f
   name: Vanguard FTSE Europe ETF xStock
   symbol: VGKx
+- address: 0:82e607a4c5b94bb93ddef77210879077c718c4de649abac45e8e20785854cadf
+  name: Vida Global xStock
+  symbol: VIDAx
+- address: 0:581eb847809bbb7c15723d73ce872262fe89908743071098304561ba7736a5a4
+  name: Vanguard S&P 500 xStock
+  symbol: VOOx
 - address: 0:e967c354ffc9e515bc9c3b5edf19aa1f9b189f2f02de76439f6d3496e9a87bff
   name: Vertiv Holdings Co xStock
   symbol: VRTx
@@ -397,3 +481,6 @@
 - address: 0:66c7f1fd08da2b6b55676d97e48eddc5b0fa076a919c5c94270aca2d0344925e
   name: SPDR S&P Oil & Gas Exploration & Production ETF xStock
   symbol: XOPx
+- address: 0:28b68adc5b811f7275a9875d57024d5a89972866e19a21b6bd3ac228a4e03d8c
+  name: Franklin ClearBridge Enhanced Income xStock
+  symbol: YLDEx
