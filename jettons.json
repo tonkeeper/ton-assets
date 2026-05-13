@@ -12000,6 +12000,17 @@
   ]
  },
  {
+  "address": "0:6f610dd3c946138d0c596ba50f6e3c15ce39c2e54dcf4625e1a48bbe1cf31832",
+  "description": "Telegram created and posted this meme in 2021. It is the first meme they shared on Twitter and one of their first post. The original post at the time of discovery has 0 comments and 4 likes. Nobody ever seen this memes. Telegram ships features quickly. Their meme Gotta go Fast makes sense",
+  "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/IMG_0716.jpeg",
+  "name": "Gotta Go Fast",
+  "social": [
+   "https://t.me/GottaGoFasTON",
+   "https://x.com/telegram/status/1476538954505666562"
+  ],
+  "symbol": "FAST"
+ },
+ {
   "address": "0:68153f84153be7e6f0f6877ce47dcce484c508ef4b492630ba9a9e780027a67d",
   "description": "The hottest sticker pack on Telegram",
   "image": "https://image2url.com/images/1760923151370-8e3a7d8a-99dc-414f-8f6a-daf489ddd904.png",
@@ -12856,11 +12867,6 @@
   "address": "0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce",
   "name": "F",
   "symbol": "F"
- },
- {
-  "address": "0:6f610dd3c946138d0c596ba50f6e3c15ce39c2e54dcf4625e1a48bbe1cf31832",
-  "name": "Gotta Go Fast",
-  "symbol": "FAST"
  },
  {
   "address": "0:4f39cd89ff3a1f6bd727d2cf3102e27d8590500f25023f97518e74ef4d32e4cd",

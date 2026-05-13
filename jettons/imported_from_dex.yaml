@@ -397,9 +397,6 @@
 - address: 0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce
   name: F
   symbol: F
-- address: 0:6f610dd3c946138d0c596ba50f6e3c15ce39c2e54dcf4625e1a48bbe1cf31832
-  name: Gotta Go Fast
-  symbol: FAST
 - address: 0:4f39cd89ff3a1f6bd727d2cf3102e27d8590500f25023f97518e74ef4d32e4cd
   name: Fight For Freedom
   symbol: FFF
