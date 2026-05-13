@@ -248,6 +248,10 @@
   "name": "Marketapp"
  },
  {
+  "address": "0:a9c1ad2fea5bc6034d6e2867ec5b508ad4d779f5a3bfc551461873f2ec94e084",
+  "name": "Marketapp Proxy"
+ },
+ {
   "address": "0:53191a57801de242aef8a4735c9cacc553f4b88f85869ee6ce89860b53924538",
   "name": "Marketapp Deployer"
  },

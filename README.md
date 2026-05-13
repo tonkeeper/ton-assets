@@ -70,6 +70,7 @@ Name           | Address
 [Marketapp Marketplace](https://tonviewer.com/0:9a9cb80adfbd1662f5108766d73355ac2c03304fda1d25a479670e34efcd72b3) | EQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ysx2O
 [Marketapp](https://tonviewer.com/0:43960e970e99380d320f1ddd74c7328cc087d6cb41b2e518136fc56e9abd8ea1) | EQBDlg6XDpk4DTIPHd10xzKMwIfWy0Gy5RgTb8Vumr2OoSES
 [Marketapp](https://tonviewer.com/0:98080fb8ee500ba6cf74c6814520f5739ceb221e5595285ddc1030a12a03f725) | EQCYCA-47lALps90xoFFIPVznOsiHlWVKF3cEDChKgP3JYEf
+[Marketapp Proxy](https://tonviewer.com/0:a9c1ad2fea5bc6034d6e2867ec5b508ad4d779f5a3bfc551461873f2ec94e084) | EQCpwa0v6lvGA01uKGfsW1CK1Nd59aO_xVFGGHPy7JTghHTB
 [Marketapp Deployer](https://tonviewer.com/0:53191a57801de242aef8a4735c9cacc553f4b88f85869ee6ce89860b53924538) | EQBTGRpXgB3iQq74pHNcnKzFU_S4j4WGnubOiYYLU5JFOHwU
 [Marketapp Deployer](https://tonviewer.com/0:972a76f260b4fb256e8800fdba51f2fe3585d6e2c4359e197a16e1e6dad034a4) | EQCXKnbyYLT7JW6IAP26UfL-NYXW4sQ1nhl6FuHm2tA0pFFw
 [Marketapp Gift Sender](https://tonviewer.com/0:e58d0685ac8e90a05c34bef9fa18375bb7ea090b7834197061a2cfaf4b6aa0e4) | EQDljQaFrI6QoFw0vvn6GDdbt-oJC3g0GXBhos-vS2qg5HZk
