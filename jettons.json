@@ -131,6 +131,20 @@
   ]
  },
  {
+  "address": "0:24694bc3db8fea7fa595834f75a879a23ea990691bfb020fe0095cd5473c5fbb",
+  "decimals": 9,
+  "description": "Paulus Durus Maximus (DURUS) \u2014 a meme token on the TON blockchain",
+  "image": "https://i.ibb.co/4wJFrsZc/DURUS.jpg",
+  "name": "Paulus Durus Maximus",
+  "social": [
+   "https://t.me/durusmaximus"
+  ],
+  "symbol": "DURUS",
+  "websites": [
+   "https://durusmaximus.wtf/"
+  ]
+ },
+ {
   "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
   "decimals": 9,
   "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
