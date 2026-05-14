@@ -396,6 +396,46 @@
   "name": "Getgems Gift Minter"
  },
  {
+  "address": "0:26361fa7cb81ae8058afdca9adc29431537ea6cf03b6524302be1372cee07d1c",
+  "name": "Omniston Escrow Minter"
+ },
+ {
+  "address": "0:667d0669b79fba2b4252c42dfe8485dfadf1470c69ade92dcea4387ffbb518a6",
+  "name": "Omniston Escrow Minter"
+ },
+ {
+  "address": "0:3349ddd903d5ff139df8f3f471855a86858de47cde9f992d108be5c58216e926",
+  "name": "Omniston Escrow Minter"
+ },
+ {
+  "address": "0:420147ef30c4a7f961cfd1b283b38c1454e2b5af9e4eb87248ab6e7f42754508",
+  "name": "Omniston Fee Vault"
+ },
+ {
+  "address": "0:00a32bb40be68c6063d512831fb8081edbe99e25678ee4a2c92ab29624024029",
+  "name": "Omniston Fee Vault"
+ },
+ {
+  "address": "0:f94c8bc64fa371a61443297f70454909387c84d154ee4c675548603937f6fada",
+  "name": "Omniston Fee Vault"
+ },
+ {
+  "address": "0:9c25fd8a1651fdc48c77773b72b71c51164dca419284601afe7f49c520ed61dd",
+  "name": "Omniston Fee Vault"
+ },
+ {
+  "address": "0:873dc12df46c54ad0dc824ee9df946047b84375aae5162c1e2106b18a3a237bf",
+  "name": "Omniston DEX Bridge"
+ },
+ {
+  "address": "0:2aea715c8e8efa6561197c07a3ab9f3d9f498cd3fa75cdcf76ccec16424c9b6c",
+  "name": "Omniston DEX Bridge"
+ },
+ {
+  "address": "0:f2b67835de3f05e44ac5e635365f7ab14d8bdd8836db0baa89c6b157a92779e2",
+  "name": "Omniston DEX Bridge"
+ },
+ {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/morgenshtern_288.png",
   "name": "Morgenshtern"
