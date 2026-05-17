@@ -1,0 +1,12 @@
+name: $TIME
+symbol: TIME
+address: EQARuEwjLqa_jsxnjV3cD63e3SkbKbT5eJ7SeI4mYKeeDN43
+decimals: 9
+image: "https://memetimeton.fun/logo.png"
+description: |
+  $TIME is a deflationary TON jetton with a built-in time-based demurrage mechanism.
+  Encourages active circulation through a referral system and decreasing supply over time.
+websites:
+  - "https://memetimeton.fun"
+social:
+  - "https://t.me/time_meme"
