@@ -1,8 +1,8 @@
 name: чык чырык
-description: From legendary artist @egorzhgun comes a legendary pack with insane lore Chirp-Chirp( He also made UTYA, Baby Yoda and Virus)
+description: From legendary artist @egorzhgun comes a legendary pack with insane lore Chirp-Chirp (He also made UTYA, Baby Yoda and Virus)
 address: EQCwvVKjYvXaNJkPCK8c80CBd1xzx2r1hwOhKHbIFnSaT4dP
 image: "https://iili.io/JgmOO91.md.png"
 symbol: $CHYK
-Socials :
-- "https://t.me/ChkChrk_CTO"
-- "https://x.com/ChkChrk_TON"
+socials:
+  - "https://t.me/ChkChrk_CTO"
+  - "https://x.com/ChkChrk_TON"
