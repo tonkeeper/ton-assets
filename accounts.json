@@ -1709,6 +1709,10 @@
   "name": "Bybit 8"
  },
  {
+  "address": "0:14de4b02647941779108b7b99be85596260ccde813351000055d744dd8aba04c",
+  "name": "CoinEx"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
