@@ -426,3 +426,5 @@
 - address: "UQDy3BhgaGzWWJh-K-2CFlMtjABEYNreqQfMfUrXI2xJa5C1"
   name: "Bybit 8"
   image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
+- address: "UQAU3ksCZHlBd5EIt7mb6FWWJgzN6BM1EAAFXXRN2KugTJYl"
+  name: "CoinEx"
