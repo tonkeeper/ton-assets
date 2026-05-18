@@ -544,6 +544,9 @@
 - address: 0:047d436f074d64de4872c8c25e42ee98eb4f5338fb66ffe327d3ed763496f849
   name: Infinity
   symbol: INFT
+- address: 0:6f138af59d87eed35102d3f10dda57edbb1d5f639a8161821e2a9c479926ea2c
+  name: Investor TON
+  symbol: INV
 - address: 0:c0b86656d5a9aee192ff8c3d37f6ae74c34f64e0332adf73d73596f20ef765a6
   name: DMT Invest
   symbol: INVEST
