@@ -73,6 +73,17 @@
   ]
  },
  {
+  "address": "0:b0bd52a362f5da34990f08af1cf34081775c73c76af58703a12876c816749a4f",
+  "description": "From legendary artist @egorzhgun comes a legendary pack with insane lore Chirp-Chirp(He also made UTYA, Baby Yoda and Virus)",
+  "image": "https://iili.io/JgmOO91.md.png",
+  "name": "\u0447\u044b\u043a \u0447\u044b\u0440\u044b\u043a",
+  "social": [
+   "https://t.me/ChkChrk_CTO",
+   "https://x.com/ChkChrk_TON"
+  ],
+  "symbol": "$CHYK"
+ },
+ {
   "address": "0:37cec39d197dc28f974eb4e58a0bf22e81f1fe9029d35248dbc29e04680aac3a",
   "description": "COCOZ is a prediction-based GameFi token on the TON blockchain, exclusively launched on Telegram as the Next-Gen P2E token, empowering players to elevate their TON and Telegram experience through token acquisition and use.",
   "image": "https://firebasestorage.googleapis.com/v0/b/yoshicoco-dev.firebasestorage.app/o/cocoz%2FCOCOz_ICON.png?alt=media",
@@ -1095,6 +1106,18 @@
   ]
  },
  {
+  "address": "0:b57e3b013241d711c8e60131c7cb8be334229b661a2ba0346e6d3eb55d20c4d4",
+  "description": "Evil Twin of $UTYA",
+  "image": "https://i.ibb.co/TxqW7qX7/atyu.jpg",
+  "name": "Atyu",
+  "social": [
+   "https://x.com/tonatyucoin",
+   "https://tonatyu.com",
+   "https://t.me/AtyuChat"
+  ],
+  "symbol": "Atyu"
+ },
+ {
   "address": "0:edae9abace6c337ea14bf495a75f38d9a1984af716a9ac50977abc4f4b865b4b",
   "description": "Aur \u2014 \u044d\u0442\u043e \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u0430\u0440\u0431\u0438\u0442\u0440\u0430\u0436\u043d\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439 \u0432 \u043a\u0440\u0438\u043f\u0442\u043e\u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u0435. \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0435 \u0431\u043e\u043d\u0443\u0441\u043d\u044b\u0445 \u043d\u0430\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0431\u043e\u043b\u044c\u0448\u0435 \u0442\u043e\u043a\u0435\u043d\u043e\u0432 \u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430\u0445, \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u0443\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435.",
   "image": "https://trueimages.ru/img/30/bf/484d5d76.png",
@@ -1778,11 +1801,11 @@
  {
   "address": "0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7",
   "description": "Baby Yoda coin was born out of Egor's creativity and the imagination of the Telegram community.  Its arrival resonates deeply with crypto enthusiasts, demonstrating the substantial impact even a modest token could have in the expansive world of blockchain.",
-  "image": "https://raw.githubusercontent.com/maxsoloma/images/main/BabyYoda.jpg",
+  "image": "https://www.babyyoda.lol/assets/hero/BabyYoda.jpg",
   "name": "Baby Yoda",
   "social": [
    "https://t.me/BabyYodaTONCHAIN",
-   "https://twitter.com/BabyYodaonton"
+   "https://x.com/yodaonton"
   ],
   "symbol": "Yoda",
   "websites": [
@@ -5317,6 +5340,12 @@
   "websites": [
    "https://bigkirby.xyz"
   ]
+ },
+ {
+  "address": "0:1cd833beec43a7540bfdf3910bf918695bff65e439a160b8c2addd3622cc8dbc",
+  "description": "https://t.me/RoaringKitty_Ton",
+  "name": "Roaring Kitty",
+  "symbol": "KITTY"
  },
  {
   "address": "0:481644f86728945b10fd89dd2d1d33805bcf0ab431ae6a4efd1131206f0e285d",
@@ -11312,6 +11341,11 @@
   "symbol": "DHRx"
  },
  {
+  "address": "0:bbd0fae43aade5d195e6365cde1f1d43208b822cdf1ebd1feeaccf5492e3863d",
+  "name": "Enhanced Group xStock",
+  "symbol": "ENHAx"
+ },
+ {
   "address": "0:f4fbf3297608d95f02dc46885a3ced13e0588ba5309eea8eb543a0cec7af8968",
   "name": "Eaton Corporation plc xStock",
   "symbol": "ETNx"
@@ -13307,6 +13341,11 @@
   "address": "0:047d436f074d64de4872c8c25e42ee98eb4f5338fb66ffe327d3ed763496f849",
   "name": "Infinity",
   "symbol": "INFT"
+ },
+ {
+  "address": "0:6f138af59d87eed35102d3f10dda57edbb1d5f639a8161821e2a9c479926ea2c",
+  "name": "Investor TON",
+  "symbol": "INV"
  },
  {
   "address": "0:c0b86656d5a9aee192ff8c3d37f6ae74c34f64e0332adf73d73596f20ef765a6",

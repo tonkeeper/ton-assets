@@ -109,6 +109,9 @@
 - address: 0:4957bc7f9b3fb8fa83bcfca4516bc8ca623538e519df554df0b9d4c76718553a
   name: Danaher xStock
   symbol: DHRx
+- address: 0:bbd0fae43aade5d195e6365cde1f1d43208b822cdf1ebd1feeaccf5492e3863d
+  name: Enhanced Group xStock
+  symbol: ENHAx
 - address: 0:f4fbf3297608d95f02dc46885a3ced13e0588ba5309eea8eb543a0cec7af8968
   name: Eaton Corporation plc xStock
   symbol: ETNx
