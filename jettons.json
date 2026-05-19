@@ -18066,5 +18066,13 @@
   "websites": [
    "-"
   ]
- }
+ },
+ {
+    "address": "EQBY6toDD-7mGcRctvZwu8toDW83k9Jnr7b3BSISLg9buqH6",
+    "name": "Vibexe Coin",
+    "symbol": "VBX",
+    "decimals": 9,
+    "description": "Vibexe ekotizimining rasmiy utility tokeni.",
+    "image": "https://vibexe.uz/vbx/logo/logo.jpg"
+  }
 ]
