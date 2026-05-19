@@ -1,0 +1,13 @@
+name: "QubyTon"
+description: "Official utility token of QubyTon ecosystem on TON blockchain."
+address: "EQDyssJFvUkGSeSszpS9otJ4Yu-7PsLCm8T1PcKxY19-0XeF"
+symbol: "QubyTon"
+
+websites:
+  - "https://qubyton.xyz"
+
+social:
+  - "https://x.com/QubyTon"
+  - "https://t.me/QubyTon"
+
+image: "https://qubyton.xyz/logo.png"
