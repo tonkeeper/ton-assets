@@ -1,5 +1,18 @@
 [
  {
+  "address": "0:b6a9e27bb3411b6cb0e31e56066f0cb80625a728e8efb62a2a2622e5397a555a",
+  "description": "new meme by telegram",
+  "image": "https://cdn.dexscreener.com/cms/images/28iWWE6TOvml75IR?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "80 billion is 80 billion",
+  "social": [
+   "https://t.me/ton_80billion"
+  ],
+  "symbol": "$80",
+  "websites": [
+   "https://80-billion.com/"
+  ]
+ },
+ {
   "address": "0:02285bf68dc45f3bcf66494b58fb163804ca6619d1610cd6a871352beef5948f",
   "description": "AssassinoTON \u2013 the first meme coin on #TON, fueled by 100% arabica.\nNot just a meme, but a project with real utility.\n",
   "image": "https://cdn.dexscreener.com/cms/images/2a7ce27db914966e1b818a9bcd9a0c7a704bac946cf0b10a39f164935e4f2ca6?width=64&height=64&fit=crop&quality=95&format=auto",
