@@ -1,0 +1,10 @@
+name: Devpool ecosystem
+description: "DEV is the native token of the dev. ecosystem on TON: a Telegram mini-app combining wallet, terminal, launchpad and staking. 1% of every trade is redistributed to DEV holders pro-rata via the reflection pool."
+image: "https://img.stonks.cash/be673055-5d75-428b-9966-21a78991b477.png"
+address: EQBO-9qyzbBssniKGNWepV6b_cbSvMGkRIGV-Z-h_AMG2DSP
+symbol: DEV
+websites:
+  - "https://dev-ai.su"
+social:
+  - "https://t.me/devtoken_news"
+  - "https://t.me/devtokenapp_bot"
