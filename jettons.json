@@ -12232,6 +12232,21 @@
   "symbol": "jWBTC"
  },
  {
+  "address": "0:29d1af2e0bbe7268589d3dd11a4023263ee0debcb7517b5587a848356ade5ccd",
+  "description": "BTN \u2014 a token created by people, for people.",
+  "image": "https://bigpump.fra1.cdn.digitaloceanspaces.com/prod/31d82935_1769792177663_IMG_9449.jpeg",
+  "name": "BATON",
+  "social": [
+   "https://t.me/baton_token",
+   "https://t.me/BTN_CHAT",
+   "https://x.com/baton_token"
+  ],
+  "symbol": "BTN",
+  "websites": [
+   "baton-token.com"
+  ]
+ },
+ {
   "address": "0:48070de617f4c3309a960198a156cc9404c5a95b0fdd79fb592e20b14e6ac250",
   "description": "cgUSDT is a Jetton-standard variable price inflation-resistant stablecoin.",
   "image": "https://ton.cygnus.finance/jetton-metadata/cgusdt.svg",
