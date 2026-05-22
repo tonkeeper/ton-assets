@@ -1,0 +1,11 @@
+name: Pifagor Fund Share
+symbol: PIF
+address: EQBcixnbSQm8c54vHop6kmuZcMJGAH0sBlWg_a7ySdYvThvG
+decimals: 9
+image: "https://pifagor.fund/pif-logo.png"
+description: |
+  On-chain share token of Pifagor Fund — закрытый криптофонд с активным управлением.
+  Open transfer (TEP-74) jetton. Fund maintains mint/burn authority and per-wallet
+  freeze for compliance. NAV calculated daily based on AUM.
+websites:
+  - "https://pifagor.fund/"
