@@ -14924,6 +14924,11 @@
   "symbol": "eTON"
  },
  {
+  "address": "0:f5d50e913e6782006eb7669e7ad5c070ae981f6b31f2dc8c1e46a17e76f20d53",
+  "name": "giga horse",
+  "symbol": "gigahorse"
+ },
+ {
   "address": "0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4",
   "name": "00 Token",
   "symbol": "j00"
