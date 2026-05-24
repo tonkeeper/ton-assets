@@ -1,6 +1,11 @@
-name: pd
-symbol: PD
-address: EQBCDdOHy1Ub6gN1OUd2PpJ8yswkzBsVg56Fi9L8PKSlFkdt
+name: "pd"
+symbol: "$pd"
+address: "EQBFVuE7RYSzl35gCgP8LU_zpnBSnYsWlh9doIwsIT00DEMH" 
+description: "pd is inspired by Pavel Durov’s legacy and the Telegram ecosystem. 100+ kids lore."
+image: "https://i.ibb.co/Q7SbLdFP/photo-2026-05-20-21-12-08.jpg"
+websites:
+  - "http://durov-cum.com/"
 social:
-  - "https://t.me/Pdcommunitychat"
-  - "https://x.com/pdofficialton"
+  - "https://x.com/pdton"
+  - "https://t.me/pd_communitychat"
+
