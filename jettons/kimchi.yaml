@@ -1,0 +1,9 @@
+name: Kimchi
+description: "Kimchi (KIM) is a whole-number loyalty point jetton designed for rewards and payments. 1 KIM equals 1 point (KRW-like), making it easy to earn through purchases and redeem for discounts, perks, and partner-merchant payments. Fixed supply (hard cap): 100,000,000,000 KIM. No further minting."
+image: "https://raw.githubusercontent.com/coreanostra/Kimtchi-Jetton/refs/heads/main/IMG_1365.png"
+address: EQDl-YX9NAquSNRhFqHTBbkthx35UYABLvCylX2EL-rW3Ito
+symbol: KIM
+websites:
+  - "https:// coreanostra.substack.com/kimchi"
+social:
+  - "https://t.me/kimchijetton"
