@@ -289,6 +289,9 @@
 - address: 0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4
   name: Cute Cats
   symbol: CuteCats
+- address: 0:3a9f12d29c292bf6529683ab1d0623f1537df191a65cf80f9fbbbab085169e8f
+  name: Daisy Romashka
+  symbol: DAISYROMASHKA
 - address: 0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6
   name: Dancing Cat
   symbol: DANCINGCAT
