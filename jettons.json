@@ -6610,11 +6610,12 @@
  {
   "address": "0:ee1a0a9953bfc012088ec047be69ba3321e7eea1a8ab4d62cec9dedcfdff0687",
   "description": "based on the post by Durov \"https://t.me/durov/482\"",
-  "image": "https://img.stonks.cash/b99ae75c-bfa7-41e2-a36e-dc2e88534511.png",
+  "image": "https://cdn.dexscreener.com/cms/images/1WQ1hE3OJZ-Yc9sC?width=800&height=800&fit=crop&quality=100&format=png",
   "name": "Make TON Great Again",
   "social": [
-   "https://t.me/MTONGA_PORTAL",
-   "https://x.com/mtonga_meme"
+   "https://t.me/mtongaportal",
+   "https://x.com/mtongaton",
+   "https://www.mtonga.com/"
   ],
   "symbol": "MTONGA"
  },
