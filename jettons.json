@@ -5759,6 +5759,20 @@
   ]
  },
  {
+  "address": "0:2daa8f418cad46c6415ec8b700b21bf020f952298415129f976ab29279711297",
+  "decimals": 9,
+  "description": "Utility token of the LuneX Tap-to-Earn game on TON. Tap the moon, raise lunar pets, complete tasks and earn rewards.",
+  "image": "https://lunex.network/l.png",
+  "name": "LuneX",
+  "social": [
+   "https://t.me/LuneXGameBot"
+  ],
+  "symbol": "LNX",
+  "websites": [
+   "https://lunex.network"
+  ]
+ },
+ {
   "address": "0:19a28f48d8bc5aa5c897410dc3e11274246a0268e1390d4510748cc883f5f29a",
   "description": "Probably Luna",
   "image": "https://raw.githubusercontent.com/grindich/Luna-or-Not/main/LunaOrNot.png",
