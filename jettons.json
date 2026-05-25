@@ -9190,6 +9190,17 @@
   "symbol": "SPRT"
  },
  {
+  "address": "0:90ec453bb5ddc84d8e0047f23e53e43e2a1267d41ae69f04bc5b4173d2a11b7a",
+  "description": "SquidGame is a memecoin on the TON blockchain inspired by the legendary Netflix series Squid Game. The project features an exclusive sticker pack created by legendary artist @Zhgun.",
+  "image": "https://i.postimg.cc/Y0WL4qrm/logo.png",
+  "name": "SquidGame",
+  "social": [
+   "https://x.com/SquidGame_TON_X",
+   "https://t.me/SquidGame_TON_TG"
+  ],
+  "symbol": "SquidGame"
+ },
+ {
   "address": "0:cd2ebaf09bb9652a471ed1802b0dbe778de10fdeb4519c9569bc3280d7aef94f",
   "description": "NFT Sticker on TON. Girl meta. Community take over.",
   "image": "https://raw.githubusercontent.com/SteamyJulia/crypto-assets/main/julia%20(1).png",
