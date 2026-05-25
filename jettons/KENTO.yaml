@@ -6,5 +6,5 @@ description: "Monkey Puppet is a popular Telegram sticker pack and a global meme
 
 social:
 
-"https://t.me/MonkeyPuppetKento" # TG chat
-"https://x.com/kentoonton" # X
+  - "https://t.me/MonkeyPuppetKento"
+  - "https://x.com/kentoonton"
