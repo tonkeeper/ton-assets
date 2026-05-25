@@ -28,6 +28,9 @@
 - address: 0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a
   name: 3CATS in a Trench Coat
   symbol: 3CATS
+- address: 0:11a1656e1903656c6275a5635e469000cc8db902fffa35fde4c3a6a410b3cfc5
+  name: 5TON
+  symbol: 5TON
 - address: 0:b56c7e2d151dad11542e5b88b6470c2971ca1a4b2f8645012a62b08a81935f37
   name: Shards of Anonymous Telegram Numbers
   symbol: 8num
@@ -385,6 +388,9 @@
 - address: 0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b
   name: EggsWisdom
   symbol: EGG
+- address: 0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f
+  name: EGOR ZHGUN
+  symbol: EGOR
 - address: 0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184
   name: eTON NFT
   symbol: ENFT
