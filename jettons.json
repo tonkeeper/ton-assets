@@ -27,6 +27,20 @@
   ]
  },
  {
+  "address": "0:e3bcf1cebe99e8c874484855a446d037535e7213a408ee36778831b53c75a389",
+  "description": "Hello. I'm Baby Shark. Very famous and special.",
+  "image": "https://i.ibb.co/bRCTvhWC/photo.jpg",
+  "name": "Baby Shark",
+  "social": [
+   "https://t.me/BabySharkOnTon",
+   "https://x.com/BabySharkOnTon"
+  ],
+  "symbol": "BABYSHARK",
+  "websites": [
+   "https://babysharkton.xyz"
+  ]
+ },
+ {
   "address": "0:e5f985fd340aae48d46116a1d305b92d871df95180012ef0b2957d842fead6dc",
   "description": "The official token of the GRAND BANG universe. Launch rockets, explore space, and earn rewards in the ultimate space agency simulator\ud83d\ude80 t.me/GrandBangBot",
   "image": "https://i.ibb.co/0jhvt7df/IMG-4991.png",
@@ -416,7 +430,7 @@
  {
   "address": "0:cd4aab1f3520d77421215350d92207d9524b5bc7721f329c56dc6adef5540f0b",
   "description": "Crazy narrative that have never been deployed before, it's literally Durov's BIO on VKontakte he put after VK was seized from him.  \u9053\u5fb7\u7d93",
-  "image": "https://img.stonks.cash/7a37f629-ef5f-4801-b680-a9032d5b0ea0.png",
+  "image": "https://i.ibb.co/9mfGwJRJ/photo-2026-05-08-00-00-03.jpg",
   "name": "\u9053\u5fb7\u7d93",
   "social": [
    "https://x.com/TaoTON_meme",
@@ -2678,6 +2692,21 @@
   "symbol": "DEUSFIT",
   "websites": [
    "https://dzen.ru/nikcoach"
+  ]
+ },
+ {
+  "address": "0:4efbdab2cdb06cb2788a18d59ea55e9bfdc6d2bcc1a4448195f99fa1fc0306d8",
+  "description": "DEV is the native token of the dev. ecosystem on The Open Network \u2014 a full Telegram Mini App combining a non-custodial TON wallet, DEX trading terminal aggregating STON.fi + DeDust + other TON DEXes, a token launchpad with built-in liquidity tools, native TON staking with TON-denominated yields, and an in-app play-to-earn game. DEV unlocks priority features in the app, powers staking rewards, and serves as the governance token of the wider devpool studio building consumer products on TON.",
+  "image": "https://img.stonks.cash/be673055-5d75-428b-9966-21a78991b477.png",
+  "name": "Devpool ecosystem",
+  "social": [
+   "https://t.me/devtoken_news",
+   "https://t.me/devtokenapp_bot"
+  ],
+  "symbol": "DEV",
+  "websites": [
+   "https://devtoken.su",
+   "https://devpool.su"
   ]
  },
  {
@@ -6581,11 +6610,12 @@
  {
   "address": "0:ee1a0a9953bfc012088ec047be69ba3321e7eea1a8ab4d62cec9dedcfdff0687",
   "description": "based on the post by Durov \"https://t.me/durov/482\"",
-  "image": "https://img.stonks.cash/b99ae75c-bfa7-41e2-a36e-dc2e88534511.png",
+  "image": "https://cdn.dexscreener.com/cms/images/1WQ1hE3OJZ-Yc9sC?width=800&height=800&fit=crop&quality=100&format=png",
   "name": "Make TON Great Again",
   "social": [
-   "https://t.me/MTONGA_PORTAL",
-   "https://x.com/mtonga_meme"
+   "https://t.me/mtongaportal",
+   "https://x.com/mtongaton",
+   "https://www.mtonga.com/"
   ],
   "symbol": "MTONGA"
  },
@@ -9768,6 +9798,20 @@
   "symbol": "TONDEV"
  },
  {
+  "address": "0:e50b0e99fffd9ac1949af17be8ab244b8d1ea5eb8ead04d65c38f0db0da27bf8",
+  "description": "TONIGHT - The official token of Night Club game on TON blockchain.",
+  "name": "TONIGHT",
+  "social": [
+   "https://t.me/tonightclubbot",
+   "https://t.me/nightclubton",
+   "https://x.com/nightclubtonbot"
+  ],
+  "symbol": "TONIGHT",
+  "websites": [
+   "https://nightclub.ibizagaming.xyz"
+  ]
+ },
+ {
   "address": "0:8d0adee26073def322f22e00982fb3f722f2a6a68f3843d8eaaf7b9a17639917",
   "description": "Tonion is a revolutionary Telegram-based platform that combines gaming experience, social interaction, and cryptocurrency,NFT trading in a single application.",
   "image": "https://cdn.blum.codes/4ac3ed0d-1dec-47dd-a46a-e1f5eb818f48/a7c5851d-5465-41ff-a39d-248614de2302",
@@ -10718,6 +10762,13 @@
   "websites": [
    "https://mw.axiscat.com"
   ]
+ },
+ {
+  "address": "0:5878865d6cb86d286c014ea46cb6fe948015a6d1e3b4bc2a671250697067368f",
+  "description": "First Wojak meme on Ton",
+  "image": "https://i.postimg.cc/7PQSRM4b/wojak.jpg",
+  "name": "Wojak",
+  "symbol": "WOJAK"
  },
  {
   "address": "0:a7d73892dfddfe73bd862968208643606385b0921de90729b805badb90c3d85a",
@@ -12974,6 +13025,11 @@
   "symbol": "CuteCats"
  },
  {
+  "address": "0:3a9f12d29c292bf6529683ab1d0623f1537df191a65cf80f9fbbbab085169e8f",
+  "name": "Daisy Romashka",
+  "symbol": "DAISYROMASHKA"
+ },
+ {
   "address": "0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6",
   "name": "Dancing Cat",
   "symbol": "DANCINGCAT"
@@ -14922,6 +14978,11 @@
   "address": "0:22a54fff31b0e715983011c7630917f00e437f4e28c2b3bb266892109d461f27",
   "name": "ETON BITLAB",
   "symbol": "eTON"
+ },
+ {
+  "address": "0:f5d50e913e6782006eb7669e7ad5c070ae981f6b31f2dc8c1e46a17e76f20d53",
+  "name": "giga horse",
+  "symbol": "gigahorse"
  },
  {
   "address": "0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4",
@@ -17563,15 +17624,6 @@
   "address": "0:671963027f7f85659ab55b821671688601cdcf1ee674fc7fbbb1a776a18d34a3",
   "name": "Proxy TON",
   "symbol": "pTON"
- },
- {
-  "address": "0:420dd387cb551bea03753947763e927ccacc24cc1b15839e858bd2fc3ca4a516",
-  "name": "pd",
-  "social": [
-   "https://t.me/Pdcommunitychat",
-   "https://x.com/pdofficialton"
-  ],
-  "symbol": "PD"
  },
  {
   "address": "0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b",
