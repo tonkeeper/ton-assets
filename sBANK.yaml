@@ -1,0 +1,8 @@
+name: Stake Bank
+description: Liquid staking jetton — 1:1 wrapper for TON staked through @StakeBankBot. Send TON to the master contract to mint STAKED, burn STAKED to receive TON back instantly.
+address: 0:0a3c773bcdbcf201e510d158d84f64bbbb3bb2bfc4a81adcae7776a9455ff14b
+symbol: sBANK
+websites:
+  - "https://tmatma.com"
+social:
+  - "https://t.me/StakeBankBot"
