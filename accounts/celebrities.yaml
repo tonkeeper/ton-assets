@@ -1,3 +1,5 @@
+- address: "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs"
+  name: "Tether USD"
 - address: "EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV"
   name: "Morgenshtern"
   image: "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/morgenshtern_288.png"
