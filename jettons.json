@@ -2695,6 +2695,21 @@
   ]
  },
  {
+  "address": "0:4efbdab2cdb06cb2788a18d59ea55e9bfdc6d2bcc1a4448195f99fa1fc0306d8",
+  "description": "DEV is the native token of the dev. ecosystem on The Open Network \u2014 a full Telegram Mini App combining a non-custodial TON wallet, DEX trading terminal aggregating STON.fi + DeDust + other TON DEXes, a token launchpad with built-in liquidity tools, native TON staking with TON-denominated yields, and an in-app play-to-earn game. DEV unlocks priority features in the app, powers staking rewards, and serves as the governance token of the wider devpool studio building consumer products on TON.",
+  "image": "https://img.stonks.cash/be673055-5d75-428b-9966-21a78991b477.png",
+  "name": "Devpool ecosystem",
+  "social": [
+   "https://t.me/devtoken_news",
+   "https://t.me/devtokenapp_bot"
+  ],
+  "symbol": "DEV",
+  "websites": [
+   "https://devtoken.su",
+   "https://devpool.su"
+  ]
+ },
+ {
   "address": "0:b6058ddf5e8d8a9f461cd4c616f697bc3c3c78a53dd7f3b95026e2665e09e9e9",
   "description": "DEXAPES \u2013 the only meme coin on TON with a transparent launch and solid tokenomics. Our goal is DAIF investment fund.",
   "image": "https://raw.githubusercontent.com/DEXAPES/website/dfeceeb14588704568b6ec1ae0be5537bcaea879/256\u0445256.png",
