@@ -9768,6 +9768,20 @@
   "symbol": "TONDEV"
  },
  {
+  "address": "0:e50b0e99fffd9ac1949af17be8ab244b8d1ea5eb8ead04d65c38f0db0da27bf8",
+  "description": "TONIGHT - The official token of Night Club game on TON blockchain.",
+  "name": "TONIGHT",
+  "social": [
+   "https://t.me/tonightclubbot",
+   "https://t.me/nightclubton",
+   "https://x.com/nightclubtonbot"
+  ],
+  "symbol": "TONIGHT",
+  "websites": [
+   "https://nightclub.ibizagaming.xyz"
+  ]
+ },
+ {
   "address": "0:8d0adee26073def322f22e00982fb3f722f2a6a68f3843d8eaaf7b9a17639917",
   "description": "Tonion is a revolutionary Telegram-based platform that combines gaming experience, social interaction, and cryptocurrency,NFT trading in a single application.",
   "image": "https://cdn.blum.codes/4ac3ed0d-1dec-47dd-a46a-e1f5eb818f48/a7c5851d-5465-41ff-a39d-248614de2302",
