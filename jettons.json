@@ -5394,6 +5394,17 @@
   ]
  },
  {
+  "address": "0:60d5dd52b195d2283f98aa586c2a809c79f72a453362bde3071ece50cf789a4b",
+  "description": "Monkey Puppet is a popular Telegram sticker pack and a global meme sensation! By incorporating the StickerPack meta on TON, in addition to being a viral meme, Monkey Puppet ($KENTO) is set to captivate the TON community. Join our community today!",
+  "image": "https://tlgrm.eu/_/stickers/737/447/737447c4-c797-4724-aa01-6448faef4d97/256/4.webp",
+  "name": "Monkey Puppet",
+  "social": [
+   "https://t.me/MonkeyPuppetKento",
+   "https://x.com/kentoonton"
+  ],
+  "symbol": "KENTO"
+ },
+ {
   "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
   "description": "Is an ecosystem token in the TON blockchain with a large Telegram community.",
   "image": "https://i.ibb.co/FbTCKRP/logotokenkingy.png",
@@ -5745,6 +5756,20 @@
   "symbol": "LIVE",
   "websites": [
    "https://secondlive.world/"
+  ]
+ },
+ {
+  "address": "0:2daa8f418cad46c6415ec8b700b21bf020f952298415129f976ab29279711297",
+  "decimals": 9,
+  "description": "Utility token of the LuneX Tap-to-Earn game on TON. Tap the moon, raise lunar pets, complete tasks and earn rewards.",
+  "image": "https://lunex.network/l.png",
+  "name": "LuneX",
+  "social": [
+   "https://t.me/LuneXGameBot"
+  ],
+  "symbol": "LNX",
+  "websites": [
+   "https://lunex.network"
   ]
  },
  {
@@ -8346,6 +8371,17 @@
   "websites": [
    "https://saiyan.gg/"
   ]
+ },
+ {
+  "address": "0:d5d10f1eb8f3ddb311df68e4009ad743ae1de3e68fe874c60824ce27ba250eea",
+  "description": "Scared Cats is a community-led CTO project on TON, based on the famous Telegram collectible Scared Cats. The project is now managed by the community, with secured official links and updated public metadata.",
+  "image": "https://i.postimg.cc/zXTgSH42/scatcto.avif",
+  "name": "Scared Cats",
+  "social": [
+   "https://x.com/Scaredcatcto",
+   "https://t.me/scaredcatcto"
+  ],
+  "symbol": "SCAT"
  },
  {
   "address": "0:d62d27c3e7746b4ec7b774ffdae086b005b34f1a977f321a11189fb3c81bd806",
@@ -12853,6 +12889,11 @@
   "symbol": "BER"
  },
  {
+  "address": "0:3a2b624e7feb19e221c9a74c1bcfc7d5f3116e09cb3752ca06730ef6143a4b6e",
+  "name": "#4DB8FF",
+  "symbol": "BLUE"
+ },
+ {
   "address": "0:a7964987cf9c929552df794ab33e4ea96a3c39bdd538f09ccbe9282f02cfaf86",
   "name": "BLUPE",
   "symbol": "BLUPE"
@@ -13271,6 +13312,11 @@
   "address": "0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b",
   "name": "EggsWisdom",
   "symbol": "EGG"
+ },
+ {
+  "address": "0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f",
+  "name": "EGOR ZHGUN",
+  "symbol": "EGOR"
  },
  {
   "address": "0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184",
@@ -14141,6 +14187,11 @@
   "address": "0:f9ac61a0562235ea74f99cbd1ab82c199533c26f008e223364231d682d6d76b4",
   "name": "Volodemer",
   "symbol": "PUTEN"
+ },
+ {
+  "address": "0:3a14d4334de16f637f794158391a128d7b188ae2110202605b7ee2d8e535f2bc",
+  "name": "Putin's Last Term",
+  "symbol": "PUTIN"
  },
  {
   "address": "0:0cd0b3c29d2b2fe6656006a302bbbd24bdbc4dad2b617e1bbf4207944e7be0b4",
