@@ -1,0 +1,10 @@
+name: "pd"
+symbol: "pd"
+address: "EQDRrD6Vus_S_XKXdsvMwhiVZHX36cRQDFNJa2AbfWKvAO3c"
+description: "the first real pd onchain. lowercase. fertile. unstoppable. p = Pavel. d = Durov. built on TON for 1 billion Telegram users."
+image: "https://pdcointon.com/logo-web.png"
+social:
+  - "https://t.me/pdcointon"
+  - "https://x.com/pdcointon"
+websites:
+  - "https://pdcointon.com"
