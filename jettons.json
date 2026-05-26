@@ -12889,6 +12889,11 @@
   "symbol": "BER"
  },
  {
+  "address": "0:3a2b624e7feb19e221c9a74c1bcfc7d5f3116e09cb3752ca06730ef6143a4b6e",
+  "name": "#4DB8FF",
+  "symbol": "BLUE"
+ },
+ {
   "address": "0:a7964987cf9c929552df794ab33e4ea96a3c39bdd538f09ccbe9282f02cfaf86",
   "name": "BLUPE",
   "symbol": "BLUPE"
@@ -14182,6 +14187,11 @@
   "address": "0:f9ac61a0562235ea74f99cbd1ab82c199533c26f008e223364231d682d6d76b4",
   "name": "Volodemer",
   "symbol": "PUTEN"
+ },
+ {
+  "address": "0:3a14d4334de16f637f794158391a128d7b188ae2110202605b7ee2d8e535f2bc",
+  "name": "Putin's Last Term",
+  "symbol": "PUTIN"
  },
  {
   "address": "0:0cd0b3c29d2b2fe6656006a302bbbd24bdbc4dad2b617e1bbf4207944e7be0b4",
