@@ -8373,6 +8373,17 @@
   ]
  },
  {
+  "address": "0:d5d10f1eb8f3ddb311df68e4009ad743ae1de3e68fe874c60824ce27ba250eea",
+  "description": "Scared Cats is a community-led CTO project on TON, based on the famous Telegram collectible Scared Cats. The project is now managed by the community, with secured official links and updated public metadata.",
+  "image": "https://i.postimg.cc/zXTgSH42/scatcto.avif",
+  "name": "Scared Cats",
+  "social": [
+   "https://x.com/Scaredcatcto",
+   "https://t.me/scaredcatcto"
+  ],
+  "symbol": "SCAT"
+ },
+ {
   "address": "0:d62d27c3e7746b4ec7b774ffdae086b005b34f1a977f321a11189fb3c81bd806",
   "description": "It is game semz1.com in which you can earn TOKEN and convert the token into TON. To join this unique ecosystem, you only need a Telegram account.",
   "image": "https://i.ibb.co/Tq7Y2bvH/IMG-20250210-143753-627.jpg",
