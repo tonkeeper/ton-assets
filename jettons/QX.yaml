@@ -1,0 +1,8 @@
+{
+  "name": "Q Coin",
+  "symbol": "QX",
+  "description": "Q Coin 是一种专注于 AI + Web3 + 极速支付 的新型加密货币。",
+  "address": "EQC-0juuPuAL3wt7jeXXnRQ9Fk_1Lge75bc12TcgImRTOkAE",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/qxbenke/QCoin/main/assets/qx-logo.png"
+}
