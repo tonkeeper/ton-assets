@@ -232,6 +232,21 @@
   "symbol": "GLANDIA"
  },
  {
+  "address": "0:404508f3bbc6674f3249317943aab9da67e087fe7ad5d976f32f6f25ebea7cc4",
+  "decimals": 9,
+  "description": "Born from GTA street culture & pure TON season energy.",
+  "image": "https://grandtonape.life/neo-logo.png",
+  "name": "Grand Ton Ape",
+  "social": [
+   "https://x.com/gtaonton",
+   "https://discord.gg/5QRV5MwqCM"
+  ],
+  "symbol": "GTA",
+  "websites": [
+   "https://grandtonape.life"
+  ]
+ },
+ {
   "address": "0:556325320f4160b4f9b5b799a8086d4b78e2d0d7c02226d52deeb3dfd4f46f12",
   "description": "GrokWithTon is a token born on the TON blockchain as a tribute from the TON community to Grok \u2014 the sharp-tongued, chaos-loving AI that brought humor and insight to the world of artificial intelligence.",
   "image": "https://tokens.gas111.com/images/32c2fc00549d49f29c41378a2894eac3.png",
