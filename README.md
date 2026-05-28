@@ -111,6 +111,7 @@ Name           | Address
 [Omniston Escrow Minter](https://tonviewer.com/0:26361fa7cb81ae8058afdca9adc29431537ea6cf03b6524302be1372cee07d1c) | EQAmNh-ny4GugFiv3KmtwpQxU36mzwO2UkMCvhNyzuB9HHuf
 [Omniston Escrow Minter](https://tonviewer.com/0:667d0669b79fba2b4252c42dfe8485dfadf1470c69ade92dcea4387ffbb518a6) | EQBmfQZpt5-6K0JSxC3-hIXfrfFHDGmt6S3OpDh_-7UYpoOF
 [Omniston Escrow Minter](https://tonviewer.com/0:3349ddd903d5ff139df8f3f471855a86858de47cde9f992d108be5c58216e926) | EQAzSd3ZA9X_E5348_RxhVqGhY3kfN6fmS0Qi-XFghbpJrBn
+[Omniston Escrow Minter](https://tonviewer.com/0:4713df8361a3c2743ab60aa9f7e79193033cc34dda304b9d913d2fb22e621035) | EQBHE9-DYaPCdDq2Cqn355GTAzzDTdowS52RPS-yLmIQNZKq
 [Omniston Fee Vault](https://tonviewer.com/0:420147ef30c4a7f961cfd1b283b38c1454e2b5af9e4eb87248ab6e7f42754508) | EQBCAUfvMMSn-WHP0bKDs4wUVOK1r55OuHJIq25_QnVFCFye
 [Omniston Fee Vault](https://tonviewer.com/0:00a32bb40be68c6063d512831fb8081edbe99e25678ee4a2c92ab29624024029) | EQAAoyu0C-aMYGPVEoMfuAge2-meJWeO5KLJKrKWJAJAKXGL
 [Omniston Fee Vault](https://tonviewer.com/0:f94c8bc64fa371a61443297f70454909387c84d154ee4c675548603937f6fada) | EQD5TIvGT6NxphRDKX9wRUkJOHyE0VTuTGdVSGA5N_b62naH

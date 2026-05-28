@@ -412,6 +412,10 @@
   "name": "Omniston Escrow Minter"
  },
  {
+  "address": "0:4713df8361a3c2743ab60aa9f7e79193033cc34dda304b9d913d2fb22e621035",
+  "name": "Omniston Escrow Minter"
+ },
+ {
   "address": "0:420147ef30c4a7f961cfd1b283b38c1454e2b5af9e4eb87248ab6e7f42754508",
   "name": "Omniston Fee Vault"
  },
