@@ -1,0 +1,11 @@
+name: Q coin
+symbol: Q
+address: EQC-0juuPuAL3wt7jeXXnRQ9Fk_1Lge75bc12TcgImRTOkAE
+image: "https://github.com/qxbenke/QCoin/blob/main/assets/qx-logo.png?raw=true"
+description: |
+  Introducing a community coin, used for communication, trading within a small community, and representing a belief.
+websites:
+  - "https://q-coin-green.vercel.app/"
+social:
+  - "https://t.me/Qcoingroup"
+  - "https://t.me/QCoinAI_bot"
