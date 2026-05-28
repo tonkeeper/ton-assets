@@ -444,6 +444,20 @@
   ]
  },
  {
+  "address": "0:5d8ca56798a6c1c32e0bc5553d4bbe9d181ec7adfb2f1df52f9c98209d14ba70",
+  "description": "\ud83c\udd7f\ufe0fMEANS PAVEL. \ud83c\udd7f\ufe0fMEANS PUMP. \ud83c\udd7f\ufe0fMEANS PROFIT.",
+  "image": "https://i.ibb.co/B5PWZ1js/photo-2026-05-27-23-50-08.jpg",
+  "name": "\ud83c\udd7f\ufe0f",
+  "social": [
+   "https://x.com/pushinP_ton",
+   "https://t.co/CGeMLtinwO"
+  ],
+  "symbol": "\ud83c\udd7f\ufe0f",
+  "websites": [
+   "https://pushin-pavel.lol"
+  ]
+ },
+ {
   "address": "0:451aab804a8931111a2d60cb5d528397c98e41a22af95b260623b4b622d00250",
   "description": "100F is the utility token of Crypto Club 100F. Buyback-based economy, private analytics community, media growth and ecosystem expansion.\n",
   "image": "https://raw.githubusercontent.com/DmytroIOOF/100f-media/main/100F_256.png",
@@ -15296,11 +15310,6 @@
   "address": "0:e597ba8665e0ed04daec57d275107361b4b60e397f53bb2dfc6c2ada3cbda120",
   "name": "\u8001\u5b50",
   "symbol": "\u8001\u5b50"
- },
- {
-  "address": "0:5d8ca56798a6c1c32e0bc5553d4bbe9d181ec7adfb2f1df52f9c98209d14ba70",
-  "name": "\ud83c\udd7f\ufe0f\ufe0f",
-  "symbol": "\ud83c\udd7f\ufe0f\ufe0f"
  },
  {
   "address": "0:e119110357de400343a670b3507ce9cd23049995fe5dd6b7c07cf96ac46492e5",
