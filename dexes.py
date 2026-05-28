@@ -1,31 +1,13 @@
 import logging
 import yaml
 from typing import List
-
 import requests
-from pydantic import BaseModel
 
-
-class Asset(BaseModel):
-    name: str
-    address: str
-    symbol: str
-
-
-class MegatonAsset(Asset):
-    type: int
-    isVisible: int
-
-
-class StonfiAsset(BaseModel):
-    contract_address: str
-    display_name: str
-    symbol: str
-    kind: str
-    decimals: int
-    community: bool
-    deprecated: bool
-    blacklisted: bool
+class Asset:
+    def __init__(self, name: str, address: str, symbol: str):
+        self.name = name
+        self.address = address
+        self.symbol = symbol
 
 
 def __get_stonfi_assets() -> List[Asset]:
@@ -35,12 +17,19 @@ def __get_stonfi_assets() -> List[Asset]:
         logging.error("failed to get stonfi assets")
         return list()
     data = response.json()
-    stonfi_assets = [StonfiAsset(**item) for item in data["asset_list"]]
     assets = list()
-    for asset in stonfi_assets:
-        if asset.community or asset.blacklisted or asset.deprecated or asset.kind != "Jetton":
+    for item in data.get("asset_list", []):
+        community = item.get("community", False)
+        blacklisted = item.get("blacklisted", False)
+        deprecated = item.get("deprecated", False)
+        kind = item.get("kind", "")
+        if community or blacklisted or deprecated or kind != "Jetton":
             continue
-        assets.append(Asset(name=asset.display_name, address=asset.contract_address, symbol=asset.symbol))
+        assets.append(Asset(
+            name=item.get("display_name", ""),
+            address=item.get("contract_address", ""),
+            symbol=item.get("symbol", "")
+        ))
     return assets
 
 
@@ -51,12 +40,15 @@ def __get_megaton_assets() -> List[Asset]:
         logging.error("failed to get megaton assets")
         return list()
     data = response.json()
-    megaton_assets = [MegatonAsset(**item) for item in data]
     assets = list()
-    for asset in megaton_assets:
-        if asset.isVisible != 1 or asset.type != 2:
+    for item in data:
+        if item.get("isVisible") != 1 or item.get("type") != 2:
             continue
-        assets.append(Asset(name=asset.name, address=asset.address, symbol=asset.symbol))
+        assets.append(Asset(
+            name=item.get("name", ""),
+            address=item.get("address", ""),
+            symbol=item.get("symbol", "")
+        ))
     return assets
 
 
@@ -73,7 +65,11 @@ def __get_dedust_assets() -> List[Asset]:
         addr = item.get("address")
         if not addr or addr in b_addrs:
             continue
-        assets.append(Asset(**item))
+        assets.append(Asset(
+            name=item.get("name", ""),
+            address=item.get("address", ""),
+            symbol=item.get("symbol", "")
+        ))
     return assets
 
 
@@ -81,18 +77,22 @@ def __get_backed_assets() -> List[Asset]:
     url = "https://api.backed.fi/api/v1/token"
     response = requests.get(url)
     if response.status_code != 200:
-        logging.error("failed to get dedust assets")
+        logging.error("failed to get backed assets")
         return list()
     data = response.json()
     assets = list()
-    for item in data['nodes']:
+    for item in data.get('nodes', []):
         ton_addr = ""
-        for d in item["deployments"]:
-            if d["network"].lower() == "ton":
-                ton_addr = d["address"].removeprefix("ton:")
+        for d in item.get("deployments", []):
+            if d.get("network", "").lower() == "ton":
+                ton_addr = d.get("address", "").removeprefix("ton:")
         if ton_addr == "":
             continue
-        assets.append(Asset(name=item["name"], address=ton_addr, symbol=item["symbol"]))
+        assets.append(Asset(
+            name=item.get("name", ""),
+            address=ton_addr,
+            symbol=item.get("symbol", "")
+        ))
 
     return assets
 
@@ -104,10 +104,10 @@ def update_stonfi_routers():
         return
     data = response.json()
     routers = list()
-    for item in data['router_list']:
-        routers.append({"address": item["address"], "name": "STON.fi DEX"})
+    for item in data.get('router_list', []):
+        routers.append({"address": item.get("address"), "name": "STON.fi DEX"})
     if len(routers) == 0:
         return
     routers.sort(key=lambda x: x['address'])
-    with open("accounts/ston.yaml", "w") as f:
+    with open("accounts/ston.yaml", "w", encoding="utf-8") as f:
         yaml.safe_dump(routers, f, sort_keys=True, allow_unicode=True)

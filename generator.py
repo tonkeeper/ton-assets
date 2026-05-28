@@ -20,7 +20,7 @@ def collect_all_dexes():
     for file in sorted(glob.glob("jettons/*.yaml")):
         if file.endswith(DEXES_FILE_NAME):
             continue
-        temp.append(yaml.safe_load(open(file)))
+        temp.append(yaml.safe_load(open(file, encoding="utf-8")))
 
     for item in temp:
         if isinstance(item, list):
@@ -44,7 +44,7 @@ def collect_all_dexes():
             'symbol': asset.symbol
         }
 
-    with open(f"jettons/{DEXES_FILE_NAME}", "w") as yaml_file:
+    with open(f"jettons/{DEXES_FILE_NAME}", "w", encoding="utf-8") as yaml_file:
         yaml.dump(list(sorted(assets_for_save.values(), key=lambda x: x['symbol'])), yaml_file, default_flow_style=False)
 
 def collect_all_backed():
@@ -60,13 +60,13 @@ def collect_all_backed():
             'symbol': asset.symbol
         }
 
-    with open(f"jettons/{BACKED_FILE_NAME}", "w") as yaml_file:
+    with open(f"jettons/{BACKED_FILE_NAME}", "w", encoding="utf-8") as yaml_file:
         yaml.dump(list(sorted(assets_for_save.values(), key=lambda x: x['symbol'])), yaml_file, default_flow_style=False)
 
 ALLOWED_KEYS =  {'symbol', 'name', 'address', 'description', 'image', 'social', 'websites', 'decimals', 'coinmarketcap', 'coingecko'}
 
 def merge_jettons():
-    temp = [yaml.safe_load(open(file)) for file in sorted(glob.glob("jettons/*.yaml"))]
+    temp = [yaml.safe_load(open(file, encoding="utf-8")) for file in sorted(glob.glob("jettons/*.yaml"))]
     jettons = []
     for j in temp:
         if isinstance(j, list):
@@ -101,7 +101,7 @@ def merge_jettons():
         if 'decimals' in j:
             j['decimals'] = int(j['decimals'])
 
-    with open('jettons.json', 'w') as out:
+    with open('jettons.json', 'w', encoding="utf-8") as out:
         json.dump(jettons, out, indent=" ", sort_keys=True)
 
     return sorted([(j.get('name', 'unknown'), j.get('address', 'unknown')) for j in jettons])
@@ -110,25 +110,25 @@ def merge_jettons():
 def merge_accounts(accounts):
     main_page = list()
     for file in ('accounts/infrastructure.yaml', 'accounts/defi.yaml', 'accounts/celebrities.yaml'):
-        accs = yaml.safe_load(open(file))
+        accs = yaml.safe_load(open(file, encoding="utf-8"))
         main_page.extend([(x['name'], x['address']) for x in accs])
-        accounts.extend(yaml.safe_load(open(file)))
+        accounts.extend(yaml.safe_load(open(file, encoding="utf-8")))
 
     files = ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml', 'accounts/validators.yaml',
              'accounts/scammers.yaml', 'accounts/notcoin.yaml', 'accounts/dapps.yaml', 'accounts/ston.yaml')
     for file in files:
-        accounts.extend(yaml.safe_load(open(file)))
+        accounts.extend(yaml.safe_load(open(file, encoding="utf-8")))
 
     for account in accounts:
         account['address'] = normalize_address(account['address'], True)
 
-    with open('accounts.json', 'w') as out:
+    with open('accounts.json', 'w', encoding="utf-8") as out:
         json.dump(accounts, out, indent=" ", sort_keys=True)
     return main_page
 
 
 def merge_collections():
-    raw = [yaml.safe_load(open(file)) for file in sorted(glob.glob("collections/*.yaml"))]
+    raw = [yaml.safe_load(open(file, encoding="utf-8")) for file in sorted(glob.glob("collections/*.yaml"))]
     collections = list()
 
     for c in raw:
@@ -140,7 +140,7 @@ def merge_collections():
     for collection in collections:
         collection['address'] = normalize_address(collection['address'], True)
 
-    with open('collections.json', 'w') as out:
+    with open('collections.json', 'w', encoding="utf-8") as out:
         json.dump(collections, out, indent=" ", sort_keys=True)
 
     return sorted([(c.get('name', 'unknown'), c.get('address', 'unknown')) for c in collections])
@@ -160,7 +160,7 @@ def main():
     accounts_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_ACCOUNTS, normalize_address(j[1], True), normalize_address(j[1], False)) for j in accounts])
     collections_md = "\n".join(["[%s](%s%s) | %s" % (j[0], EXPLORER_COLLECTIONS,  normalize_address(j[1], True), normalize_address(j[1], False)) for j in collections])
 
-    open('README.md', 'w').write(open("readme.md.template").read() % (accounts_md, collections_md))
+    open('README.md', 'w', encoding="utf-8").write(open("readme.md.template", encoding="utf-8").read() % (accounts_md, collections_md))
 
 if __name__ == '__main__':
     main()
