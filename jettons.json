@@ -4688,6 +4688,20 @@
   "symbol": "GOI"
  },
  {
+  "address": "0:3a745d7caf3954fc560cb37068b3e5f2f2c7d33cb9eaaf39a6525d9469cdadd5",
+  "description": "GOYLAND is a meme park on TON, built for everyone tired of rugs, empty promises, and disposable scam tokens.",
+  "image": "https://goyland.fun/icons/icon-512x512.png",
+  "name": "GOYLAND",
+  "social": [
+   "https://t.me/goylandton",
+   "https://x.com/goylandton"
+  ],
+  "symbol": "GOYLAND",
+  "websites": [
+   "https://goyland.fun"
+  ]
+ },
+ {
   "address": "0:7638d97d9dfce819f791161bca4cb5f6f0c383fe7bd3f1c7c8e35f85ca5bcdbe",
   "description": "Mineable token that can be used on gaming platform. Play games, earn $ passively or actively with games.",
   "image": "https://storage.ronin.co/spa_vraeg38g0n7xzu64/e5b50782-2e9c-482f-85e0-a847917bd5d7",
