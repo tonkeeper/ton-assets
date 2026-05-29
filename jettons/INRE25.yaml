@@ -1,0 +1,12 @@
+name: INRE25
+symbol: INRE25
+description: INRE25 is a TON Jetton utility token connected with the INRE25 public website, public tokenomics materials, and a public INRE25/USDT pool on STON.fi.
+address: EQCP-D1tfJ8MDlsk9MWQXNjP9_0mxwXNVNvH_IWhobfyQLUq
+decimals: 9
+image: "https://raw.githubusercontent.com/inre25/inre25-token/main/assets/logo/512x512.png"
+websites:
+  - "https://inre25.com/"
+  - "https://inre25.com/token-info/"
+  - "https://github.com/inre25/inre25-token"
+social:
+  - "https://t.me/inre25_official"
