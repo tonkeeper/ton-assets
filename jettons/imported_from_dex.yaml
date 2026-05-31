@@ -1039,6 +1039,9 @@
 - address: 0:882149bb76706099caee6c37c52d9579da87b517f1c574366231f7abf6b8a986
   name: SAKE
   symbol: SAKE
+- address: 0:d7cba7a02e944bbd5dffdb7cafa50adc95b9771c5571ff2e87d60282e98311ef
+  name: Sakura Flower
+  symbol: SAKURA
 - address: 0:2dcbb7322c88c5ed4f8ad15806fe0724b1300ab482e46c908d8cf62567ce5c09
   name: SAUD
   symbol: SAU
