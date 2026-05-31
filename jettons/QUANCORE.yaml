@@ -1,10 +1,10 @@
-name: QUANCORE
-description: QUANCORE: THE CORE OF EVERYTHING Forget about the blockchains of the past.
-image: "https://i.ibb.co/WN7KPx6M/logo.png"
-address: EQCSAT3Nh1Rmo1zfw68hkb8TcR0gnxpyM5LW-oaKzuxtbZda
-symbol: QC
+name: "QUANCORE"
+symbol: "QC"
+address: "EQCSAT3Nh1Rmo1zfw68hkb8TcR0gnxpyM5LW-oaKzuxtbZda"
+description: "QUANCORE: THE CORE OF EVERYTHING Forget about the blockchains of the past."
+image: "https://raw.githubusercontent.com/Alexkkkkk/QUANCORE/main/logo.png"
 websites:
   - "https://quantum.bothost.tech/index.html"
- social:
+socials:
   - "https://t.me/+M8puHT0AsBpkMWVi"
- - "https://x.com/quancore95156"
+  - "https://x.com/quancore95156"
