@@ -1,1 +1,20 @@
+name: LumaPet Token
+symbol: LPT
 
+description: >
+  LPT (LumaPet Token) is the utility token of the LumaPet ecosystem.
+  It is used for in-game rewards, platform features, and community engagement.
+  The project focuses on building a game-based ecosystem with digital assets
+  and interactive user experience.
+
+decimals: 9
+
+image: https://i.ibb.co/pvGwSdhY/IMG-0033.jpg
+
+address: EQCUq9PcqyIANEcfYsNSambjRksn0L_oXEDv-eqmg0M5MY7V
+
+social:
+  - https://t.me/lumapetofficial
+  - https://x.com/lumapet_uz
+
+telegram_bot: https://t.me/lumapet_bot
