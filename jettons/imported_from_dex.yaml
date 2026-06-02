@@ -520,6 +520,9 @@
 - address: 0:9ed70fe73b45bf01bb18369db2888578b2b2c663eff06ebf45573c1b2d2964c2
   name: Hao Pup
   symbol: HAOPUP
+- address: 0:3ad056bc453bc772df4f42fc6f87ed6032246c142444aec83960ab0776400247
+  name: Hedgehoge
+  symbol: HEDGEHOGE
 - address: 0:3ab76f149e21e17dd5cb7f80ab756f2847846913b5942ddf48bae817f05b1c2e
   name: Helium Hearts
   symbol: HH
