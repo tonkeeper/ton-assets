@@ -4741,6 +4741,16 @@
   "symbol": "GPU"
  },
  {
+  "address": "0:0a040d7ffb058fdf53236c5a7e0a253b45962c51eb645681d31d3b98811f0a86",
+  "description": "Have you seen gramscan? There's a cat in its logo, so we'll call it gramcat!",
+  "image": "https://i.ibb.co/7tB3xnbj/photo-2025-08-01-23-11-37.jpg",
+  "name": "GRAMCAT",
+  "social": [
+   "https://t.me/gramcat_ton"
+  ],
+  "symbol": "GRAMCAT"
+ },
+ {
   "address": "0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab",
   "name": "Grabscape game token",
   "symbol": "GRBS"
