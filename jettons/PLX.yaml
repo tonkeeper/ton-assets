@@ -4,8 +4,13 @@ address: EQCbaUJqiRIuw5U-A_tUYTK4mdH0L37oFMvxeMEDGE5nVfLS
 decimals: 9
 image: "https://plx.foundation/plx-logo.png"
 description: |
-  Phalanx (PLX) — utility token for the Phalanx Foundation ecosystem on TON.
-  Open-source Jetton with on-chain vesting and Phalanx Toolkit payment rail.
+  Phalanx (PLX) is the utility token of Phalanx Foundation on TON mainnet.
+  Open-source Jetton (TEP-74) with published contracts, on-chain metadata,
+  team vesting, and the Phalanx Toolkit payment rail. Not an airdrop or impersonation token.
 websites:
   - "https://plx.foundation/plx-token"
+  - "https://plx.foundation"
   - "https://github.com/phalanx-foundation/plx-token"
+social:
+  - "https://t.me/phalanxfoundationbot"
+  - "https://github.com/phalanx-foundation"
