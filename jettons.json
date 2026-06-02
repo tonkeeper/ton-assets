@@ -14098,11 +14098,6 @@
   "symbol": "PC"
  },
  {
-  "address": "0:4556e13b4584b3977e600a03fc2d4ff3a670529d8b16961f5da08c2c213d340c",
-  "name": "PD",
-  "symbol": "PD"
- },
- {
   "address": "0:a6f8acc9ea469c2bd961ae739a1d1f96d4a2469be1f8d796c482c234e085530c",
   "name": "PDF Miner Boost",
   "symbol": "PDFB"
@@ -17867,6 +17862,20 @@
   "address": "0:671963027f7f85659ab55b821671688601cdcf1ee674fc7fbbb1a776a18d34a3",
   "name": "Proxy TON",
   "symbol": "pTON"
+ },
+ {
+  "address": "0:4556e13b4584b3977e600a03fc2d4ff3a670529d8b16961f5da08c2c213d340c",
+  "description": "$pd \u2014 inspired by Pavel Durov\u2019s legacy and the Telegram ecosystem. 100+ kids lore",
+  "image": "https://i.ibb.co/yvpBFTd/pdlogo.jpg",
+  "name": "pd",
+  "social": [
+   "https://x.com/pdton__",
+   "https://t.me/pd_communitychat"
+  ],
+  "symbol": "pd",
+  "websites": [
+   "https://durov-cum.com/"
+  ]
  },
  {
   "address": "0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b",

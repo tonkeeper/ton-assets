@@ -820,9 +820,6 @@
 - address: 0:23d7c2a2e2c1b8ec05dbd78368df9167acc341c42dae1dcb887a3243cab77a55
   name: PAPA CARLO
   symbol: PC
-- address: 0:4556e13b4584b3977e600a03fc2d4ff3a670529d8b16961f5da08c2c213d340c
-  name: PD
-  symbol: PD
 - address: 0:a6f8acc9ea469c2bd961ae739a1d1f96d4a2469be1f8d796c482c234e085530c
   name: PDF Miner Boost
   symbol: PDFB
