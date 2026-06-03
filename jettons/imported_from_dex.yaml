@@ -19,6 +19,9 @@
 - address: 0:bff0c5bda58b1617490640103c7b8ca9f35707beec9d8998ee01efe55487cc22
   name: TONWIFHAT
   symbol: $TWIF
+- address: 0:3a9646acd9cfb6235585d6802c6731e0b42e3ffb67ffd3e3976e1be1fdcf4afe
+  name: '1 Gram And A Dream '
+  symbol: 1GRAM
 - address: 0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c
   name: 1PLAYER TOKEN
   symbol: 1PTON
@@ -502,6 +505,12 @@
 - address: 0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51
   name: Goy Token
   symbol: GOY
+- address: 0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195
+  name: Official Gram mascot
+  symbol: GRAMIO
+- address: 0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b
+  name: GRAM SEASON
+  symbol: GRAMSEASON
 - address: 0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309
   name: GRAND
   symbol: GRAND
@@ -676,6 +685,9 @@
 - address: 0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f
   name: Commander
   symbol: MANDER
+- address: 0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d
+  name: Marg
+  symbol: MARG
 - address: 0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777
   name: Margaritis
   symbol: MARGA
@@ -709,6 +721,9 @@
 - address: 0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c
   name: MERO Mercury Coin
   symbol: MERO
+- address: 0:3afca4dc64e4487af778cf0f462469a96962abcdd8b1a1df09d5f59f9b8afb63
+  name: Make Gram Great Again
+  symbol: MGGA
 - address: 0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5
   name: Microdiving
   symbol: MIC
@@ -1132,9 +1147,6 @@
 - address: 0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb
   name: Seahava token
   symbol: SVV
-- address: 0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7
-  name: Dog Wif Shapka
-  symbol: Shapka
 - address: 0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2
   name: Spotty
   symbol: Spotty

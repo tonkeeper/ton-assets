@@ -326,6 +326,17 @@
   ]
  },
  {
+  "address": "0:b9930254f2e73b724e8204e495584086c2599515ff5a5f78e7d408f6900a527b",
+  "description": "Mighty Arm ($MARM) is a community-driven reward token on TON inspired by the iconic Telegram Gift. Built around strength, diamond hands, and holders with a strong grip. Every trade fuels rewards for the community. Flex your wallet. Join the Mighty Arm.",
+  "image": "https://i.ibb.co/bM1qKmQP/arm.jpg",
+  "name": "Mighty Arm",
+  "social": [
+   "https://t.me/MightyARM_buy",
+   "https://x.com/marm_ton"
+  ],
+  "symbol": "MARM"
+ },
+ {
   "address": "0:aa8cbb7715a47e53a0fc36984e048d0328b918ed1deb92ad84c1ddf10fa4c366",
   "description": "Meta Miner is mining based on the DePin principle",
   "name": "Meta Miner",
@@ -1075,6 +1086,20 @@
   "symbol": "AGENTPI",
   "websites": [
    "https://agent-pi.com/"
+  ]
+ },
+ {
+  "address": "0:a297f302af6545ed849c07880838ce6baa2fa23bbfc183270128adb3213ca133",
+  "description": "AiTon is a GameFi and AI-powered mining ecosystem on TON.",
+  "image": "https://i.postimg.cc/ncJ5KD4F/256-251.png",
+  "name": "AiTon",
+  "social": [
+   "https://t.me/ton4btc",
+   "https://t.me/iAiTon_bot"
+  ],
+  "symbol": "AiT",
+  "websites": [
+   "https://wp.aiton.app"
   ]
  },
  {
@@ -4481,6 +4506,20 @@
   "symbol": "GBT",
   "websites": [
    "-"
+  ]
+ },
+ {
+  "address": "0:dda86eb0816b2c4d925e96c847e4377b46d502106a7051c0fbb2bcc532e12b19",
+  "description": "Ginger Cookies \u2014 community meme token on TON.\nMax supply: 100,000,000 GCookie.\n",
+  "image": "https://i.ibb.co/gZ47sgRc/0e3759b6cebc.webp",
+  "name": "Ginger Cookies",
+  "social": [
+   "https://x.com/GingerCookieTon",
+   "https://t.me/cookie_cto_chat"
+  ],
+  "symbol": "GCookie",
+  "websites": [
+   "https://dexscreener.com/ton/EQDdqG6wgWssTZJelshH5Dd7RtUCEGpwUcD7srzFMuErGZBo"
   ]
  },
  {
@@ -9269,6 +9308,16 @@
   ]
  },
  {
+  "address": "0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7",
+  "description": "The dog we all know, now in a Russian ushanka. Rumor has it it's the Russian Wif... the rest is in the chat. The Shapka stays on.",
+  "image": "https://i.ibb.co/NMDx1xs/shapka.jpg",
+  "name": "Dog Wif Shapka",
+  "social": [
+   "https://t.me/shapka"
+  ],
+  "symbol": "Shapka"
+ },
+ {
   "address": "0:8bd89165b43561d6653a08b73b2afcc60fb0e6a701d61e4a24fc49ea4256b271",
   "decimals": 9,
   "description": "Born from the OG Telegram Shinobi sticker pack, revived through a Community Takeover (CTO) \u2014 $SHINOBI is a meme coin with true ninja spirit.",
@@ -12763,6 +12812,11 @@
   "symbol": "$TWIF"
  },
  {
+  "address": "0:3a9646acd9cfb6235585d6802c6731e0b42e3ffb67ffd3e3976e1be1fdcf4afe",
+  "name": "1 Gram And A Dream ",
+  "symbol": "1GRAM"
+ },
+ {
   "address": "0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c",
   "name": "1PLAYER TOKEN",
   "symbol": "1PTON"
@@ -13568,6 +13622,16 @@
   "symbol": "GOY"
  },
  {
+  "address": "0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195",
+  "name": "Official Gram mascot",
+  "symbol": "GRAMIO"
+ },
+ {
+  "address": "0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b",
+  "name": "GRAM SEASON",
+  "symbol": "GRAMSEASON"
+ },
+ {
   "address": "0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309",
   "name": "GRAND",
   "symbol": "GRAND"
@@ -13858,6 +13922,11 @@
   "symbol": "MANDER"
  },
  {
+  "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
+  "name": "Marg",
+  "symbol": "MARG"
+ },
+ {
   "address": "0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777",
   "name": "Margaritis",
   "symbol": "MARGA"
@@ -13911,6 +13980,11 @@
   "address": "0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c",
   "name": "MERO Mercury Coin",
   "symbol": "MERO"
+ },
+ {
+  "address": "0:3afca4dc64e4487af778cf0f462469a96962abcdd8b1a1df09d5f59f9b8afb63",
+  "name": "Make Gram Great Again",
+  "symbol": "MGGA"
  },
  {
   "address": "0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5",
@@ -14616,11 +14690,6 @@
   "address": "0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb",
   "name": "Seahava token",
   "symbol": "SVV"
- },
- {
-  "address": "0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7",
-  "name": "Dog Wif Shapka",
-  "symbol": "Shapka"
  },
  {
   "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
@@ -17554,6 +17623,25 @@
    "https://t.me/jvaultbot",
    "https://t.me/kriptofarmers/477?single",
    "https://t.me/kriptofarmbot?start=sxekg9uyibbszgwn"
+  ]
+ },
+ {
+  "address": "0:12575224e329ddc73d961401cf77bef7698088ba9909d795da400b85b09223cb",
+  "description": "These jettons confirm ownership of Utya Strategy staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/USTR-UTYA",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_USTR-UTYA.webp",
+  "name": "USTR staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-USTR-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/utya_strategy",
+   "https://utya-strategy.com",
+   "https://x.com/utya_strategy"
   ]
  },
  {
