@@ -17587,6 +17587,25 @@
   ]
  },
  {
+  "address": "0:12575224e329ddc73d961401cf77bef7698088ba9909d795da400b85b09223cb",
+  "description": "These jettons confirm ownership of Utya Strategy staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/USTR-UTYA",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_USTR-UTYA.webp",
+  "name": "USTR staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-USTR-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/utya_strategy",
+   "https://utya-strategy.com",
+   "https://x.com/utya_strategy"
+  ]
+ },
+ {
   "address": "0:d72c1cddb566f8ef30b2ffe4e75404836bb93100feff03a1bf506b7b95011b18",
   "decimals": 9,
   "description": "Kasongo Coin is the ultimate underdog meme token, inspired by a fearless warthog who defies the odds and takes on the jungle. Kasongo is for the people.",
