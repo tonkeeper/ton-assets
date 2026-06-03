@@ -2012,6 +2012,19 @@
   "symbol": "CANY"
  },
  {
+  "address": "0:4c986c69865a95a53ab40c7a421dd4d04cef8d9afe238264364f79ecd9fe1ebc",
+  "description": "The second best NFT on the TON network after Plush Pepe is called Durovs Caps.",
+  "image": "https://i.ibb.co/n81nFRWS/photo-2025-06-11-11-51-38-2.jpg",
+  "name": "Durov's Caps",
+  "social": [
+   "https://t.me/DurovsCapstoken"
+  ],
+  "symbol": "CAPS",
+  "websites": [
+   "https://durovcaps.org/"
+  ]
+ },
+ {
   "address": "0:27c5bb8c3db44e05a923acdfa7a9de12fe39ff2981a5b32f69c0858afd6c7e88",
   "description": "$CAPSTR is the strategy tax token for Durov's Caps. Fees buy caps, sell at 1.2x cost, proceeds buy and burn $CAPSTR | website: https://capstrategy.fun/ | tg: https://t.me/DurovsCapStrategy",
   "image": "https://raw.githubusercontent.com/hiruyaken/CAPSTR/refs/heads/main/coinA.png",
