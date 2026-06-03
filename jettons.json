@@ -3065,6 +3065,20 @@
   ]
  },
  {
+  "address": "0:cf1a39b83d4f350decf6ae6405414da1c3f8bc86eb7919353dd473adcd96cf11",
+  "description": "$DROPEE is the single token that links every game in the Dropee ecosystem, unlocking premium features and boosters while rewarding players for their engagement.",
+  "image": "https://bafybeicwqb5qvewmz5psmvmyunmrl7boavhtroq7gf2kbvqwlzyjjnpbai.ipfs.w3s.link/image.png",
+  "name": "$DROPEE",
+  "social": [
+   "https://t.me/DropeeBot",
+   "https://x.com/dropee_app"
+  ],
+  "symbol": "DROPEE",
+  "websites": [
+   "https://dropee.xyz"
+  ]
+ },
+ {
   "address": "0:23079e337558e92f242d1ffac54c62b3dd5eccd9b81b479a4448004a3962877d",
   "decimals": 9,
   "description": "DRZ - Drazze official token",
