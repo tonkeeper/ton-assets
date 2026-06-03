@@ -9269,6 +9269,16 @@
   ]
  },
  {
+  "address": "0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7",
+  "description": "The dog we all know, now in a Russian ushanka. Rumor has it it's the Russian Wif... the rest is in the chat. The Shapka stays on.",
+  "image": "https://i.ibb.co/NMDx1xs/shapka.jpg",
+  "name": "Dog Wif Shapka",
+  "social": [
+   "https://t.me/shapka"
+  ],
+  "symbol": "Shapka"
+ },
+ {
   "address": "0:8bd89165b43561d6653a08b73b2afcc60fb0e6a701d61e4a24fc49ea4256b271",
   "decimals": 9,
   "description": "Born from the OG Telegram Shinobi sticker pack, revived through a Community Takeover (CTO) \u2014 $SHINOBI is a meme coin with true ninja spirit.",
@@ -14641,11 +14651,6 @@
   "address": "0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb",
   "name": "Seahava token",
   "symbol": "SVV"
- },
- {
-  "address": "0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7",
-  "name": "Dog Wif Shapka",
-  "symbol": "Shapka"
  },
  {
   "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
