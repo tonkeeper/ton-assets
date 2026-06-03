@@ -12763,6 +12763,11 @@
   "symbol": "$TWIF"
  },
  {
+  "address": "0:3a9646acd9cfb6235585d6802c6731e0b42e3ffb67ffd3e3976e1be1fdcf4afe",
+  "name": "1 Gram And A Dream ",
+  "symbol": "1GRAM"
+ },
+ {
   "address": "0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c",
   "name": "1PLAYER TOKEN",
   "symbol": "1PTON"
@@ -13568,6 +13573,16 @@
   "symbol": "GOY"
  },
  {
+  "address": "0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195",
+  "name": "Official Gram mascot",
+  "symbol": "GRAMIO"
+ },
+ {
+  "address": "0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b",
+  "name": "GRAM SEASON",
+  "symbol": "GRAMSEASON"
+ },
+ {
   "address": "0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309",
   "name": "GRAND",
   "symbol": "GRAND"
@@ -13858,6 +13873,11 @@
   "symbol": "MANDER"
  },
  {
+  "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
+  "name": "Marg",
+  "symbol": "MARG"
+ },
+ {
   "address": "0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777",
   "name": "Margaritis",
   "symbol": "MARGA"
@@ -13911,6 +13931,11 @@
   "address": "0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c",
   "name": "MERO Mercury Coin",
   "symbol": "MERO"
+ },
+ {
+  "address": "0:3afca4dc64e4487af778cf0f462469a96962abcdd8b1a1df09d5f59f9b8afb63",
+  "name": "Make Gram Great Again",
+  "symbol": "MGGA"
  },
  {
   "address": "0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5",
