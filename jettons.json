@@ -393,6 +393,13 @@
   "symbol": "PRVN"
  },
  {
+  "address": "0:37b9571e0987a1cd33ec3edfd265a9e5ea0a228db82b189bd182cbeb06b5746e",
+  "description": "The new Telegrum Intern",
+  "image": "https://i.ibb.co/99c0jS05/Pump.jpg",
+  "name": "Pumpkin Jeremy",
+  "symbol": "PUMPJ"
+ },
+ {
   "address": "0:c5ca7aecb7380b32151c409b119e087c4d75cd95dea4dee4f9efdd0db9540088",
   "description": "SmartCoinStrategy $SMART A community-driven token empowering investors to start with Cryptocurrencies.",
   "image": "https://smartcoinstrategy.com/wp-content/uploads/2025/09/smartcoinstrategy-logo-black.jpeg",
@@ -3065,6 +3072,20 @@
   ]
  },
  {
+  "address": "0:cf1a39b83d4f350decf6ae6405414da1c3f8bc86eb7919353dd473adcd96cf11",
+  "description": "$DROPEE is the single token that links every game in the Dropee ecosystem, unlocking premium features and boosters while rewarding players for their engagement.",
+  "image": "https://bafybeicwqb5qvewmz5psmvmyunmrl7boavhtroq7gf2kbvqwlzyjjnpbai.ipfs.w3s.link/image.png",
+  "name": "$DROPEE",
+  "social": [
+   "https://t.me/DropeeBot",
+   "https://x.com/dropee_app"
+  ],
+  "symbol": "DROPEE",
+  "websites": [
+   "https://dropee.xyz"
+  ]
+ },
+ {
   "address": "0:23079e337558e92f242d1ffac54c62b3dd5eccd9b81b479a4448004a3962877d",
   "decimals": 9,
   "description": "DRZ - Drazze official token",
@@ -4967,6 +4988,21 @@
   ]
  },
  {
+  "address": "0:f64fb5b2d59fe3b94e44e8f079cc37f0b8095324df3a063657ade704b7134891",
+  "description": "PVP next-gen play to earn",
+  "image": "https://playhattori.io/token/icon-hattori.png",
+  "name": "Hattori",
+  "social": [
+   "https://t.me/hattorigame",
+   "https://discord.com/invite/hattoriofficial",
+   "https://x.com/Hattorigame"
+  ],
+  "symbol": "HATTORI",
+  "websites": [
+   "https://playhattori.io/"
+  ]
+ },
+ {
   "address": "0:36b9ff65cbe3368c0f2128e4394b864081c2f493fc89037eec8b112cd2eff1bd",
   "description": "HBD is a cute tap game where users play and earn rewards.",
   "image": "https://media.discordapp.net/attachments/1006277861231042671/1346149013396783265/HBD_LOGO.jpg?ex=67c72277&is=67c5d0f7&hm=43bfd85fc164f417583154d037340a928a7caeb05679f5e54eb90d796c90bc54&=&format=webp",
@@ -5495,6 +5531,17 @@
    "https://x.com/kentoonton"
   ],
   "symbol": "KENTO"
+ },
+ {
+  "address": "0:aad527640c4d8fd555a76b63701033ad768a24967db935c20811bd3785b347c0",
+  "description": "Kissed Frogs (KFROG) is a meme coin built on the TON blockchain. Inspired by frogs that dream big after every kiss of luck, KFROG captures the fun, chaotic, and playful spirit of crypto while bringing together a strong and united community.",
+  "image": "https://i.postimg.cc/Y96Sbc8v/512512.png",
+  "name": "Kissed Frogs",
+  "social": [
+   "https://t.me/Kissed_Frogs_TON",
+   "https://x.com/KissedFrogsTON"
+  ],
+  "symbol": "KFROG"
  },
  {
   "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
@@ -9037,6 +9084,20 @@
   "symbol": "SQG",
   "websites": [
    "https://t.me/squidtg_bot"
+  ]
+ },
+ {
+  "address": "0:5b9e408dac67759602c34d9f8cc47149592ae4274c4bc368258b39af4fe362eb",
+  "description": "Stellar Rocket ($SROCKET) \u2014 meme token on TON inspired by the first-ever Telegram Gift.\nFair launched on GasPump, now live on DeDust.\n",
+  "image": "https://tokens.gas111.com/images/9342151ee7b5410089ca8e68c99fe5be.png",
+  "name": "Stellar Rocket",
+  "social": [
+   "https://x.com/StellarRockTon",
+   "https://t.me/srocket_community"
+  ],
+  "symbol": "SROCKET",
+  "websites": [
+   "https://dexscreener.com/ton/EQBbnkCNrGd1lgLDTZ-MxHFJWSrkJ0xLw2glizmvT-Ni65uX"
   ]
  },
  {
@@ -13795,11 +13856,6 @@
   "address": "0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a",
   "name": "KAKAXA",
   "symbol": "KAKAXA"
- },
- {
-  "address": "0:aad527640c4d8fd555a76b63701033ad768a24967db935c20811bd3785b347c0",
-  "name": "Kissed Frogs",
-  "symbol": "KFROG"
  },
  {
   "address": "0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7",
