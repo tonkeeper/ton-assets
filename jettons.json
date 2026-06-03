@@ -5497,6 +5497,17 @@
   "symbol": "KENTO"
  },
  {
+  "address": "0:aad527640c4d8fd555a76b63701033ad768a24967db935c20811bd3785b347c0",
+  "description": "Kissed Frogs (KFROG) is a meme coin built on the TON blockchain. Inspired by frogs that dream big after every kiss of luck, KFROG captures the fun, chaotic, and playful spirit of crypto while bringing together a strong and united community.",
+  "image": "https://i.postimg.cc/Y96Sbc8v/512512.png",
+  "name": "Kissed Frogs",
+  "social": [
+   "https://t.me/Kissed_Frogs_TON",
+   "https://x.com/KissedFrogsTON"
+  ],
+  "symbol": "KFROG"
+ },
+ {
   "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
   "description": "Is an ecosystem token in the TON blockchain with a large Telegram community.",
   "image": "https://i.ibb.co/FbTCKRP/logotokenkingy.png",
@@ -13795,11 +13806,6 @@
   "address": "0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a",
   "name": "KAKAXA",
   "symbol": "KAKAXA"
- },
- {
-  "address": "0:aad527640c4d8fd555a76b63701033ad768a24967db935c20811bd3785b347c0",
-  "name": "Kissed Frogs",
-  "symbol": "KFROG"
  },
  {
   "address": "0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7",
