@@ -9064,6 +9064,20 @@
   ]
  },
  {
+  "address": "0:5b9e408dac67759602c34d9f8cc47149592ae4274c4bc368258b39af4fe362eb",
+  "description": "Stellar Rocket ($SROCKET) \u2014 meme token on TON inspired by the first-ever Telegram Gift.\nFair launched on GasPump, now live on DeDust.\n",
+  "image": "https://tokens.gas111.com/images/9342151ee7b5410089ca8e68c99fe5be.png",
+  "name": "Stellar Rocket",
+  "social": [
+   "https://x.com/StellarRockTon",
+   "https://t.me/srocket_community"
+  ],
+  "symbol": "SROCKET",
+  "websites": [
+   "https://dexscreener.com/ton/EQBbnkCNrGd1lgLDTZ-MxHFJWSrkJ0xLw2glizmvT-Ni65uX"
+  ]
+ },
+ {
   "address": "0:aa0ba121449feda569e02b12fa755d24e834a7454aecf4649590b6df742aac8f",
   "name": "Staked TON",
   "symbol": "STAKED"
