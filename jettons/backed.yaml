@@ -250,6 +250,9 @@
 - address: 0:54b4b90ebbdbf32aedcf5b9f1ce74597ef0f3d06dcf06186656469af3abfc0ab
   name: McDonald's xStock
   symbol: MCDx
+- address: 0:b8ccc2ac7805e36fe46ed82c004f468f2e0810a6482f861cd2e9aeec02278282
+  name: Medline xStock
+  symbol: MDLNx
 - address: 0:acd8c76784a1e94e3baf9a249bf47d45a9d42d775b28e8007558c32bf77deadd
   name: Medtronic xStock
   symbol: MDTx
