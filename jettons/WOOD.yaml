@@ -1,8 +1,11 @@
-name: WOOD$ Credits
-description: Dynamic supply multi-utility credit of the Doomsday ecosystem.
-image: "https://raw.githubusercontent.com/delusion-labs/doomsday-image-resources/main/WOOD.png"
-address: 0:a476dd3b954a14b554000b85ca629a42833a5d2013861c2d7b67490f87e2417e
+name: WOOD
+description: Official energy biometal token of the Armagedoom Telegram Mini App (Acton jetton master). Replaces legacy Doomsday-era WOOD jetton (see WOOD_legacy_doomsday.yaml); legacy balances were snapshotted to in-app credit.
+image: "https://armagedoom.com/wood.png"
+address: 0:ce81c66bea325507c499f22676be501af7b4216facfa3820c916693e960179a3
 symbol: WOOD
+decimals: 9
+websites:
+  - "https://armagedoom.com"
 social:
-  - "https://t.me/TONDoomsday"
-  - "https://t.me/tondoom"
+  - "https://t.me/Armagedoombot"
+  - "https://t.me/Armagedoom"

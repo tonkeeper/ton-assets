@@ -1,0 +1,10 @@
+name: Old WOOD [DEPRECATED]
+description: "[DEPRECATED] Legacy Tact-era WOOD jetton from the Doomsday ecosystem. Balances were snapshotted for Armagedoom in-app credit. Canonical on-chain WOOD is Acton master EQDOgcZr6jJVB8SZ8iZ2vlAa97Qhb6z6OCDJFmk-lgF5o18B (see ARMAGEDOOM_WOOD.yaml)."
+image: "https://armagedoom.com/old-wood-deprecated.svg"
+address: 0:a476dd3b954a14b554000b85ca629a42833a5d2013861c2d7b67490f87e2417e
+symbol: WOOD
+decimals: 9
+websites:
+  - "https://armagedoom.com/legacy-wood-metadata.json"
+social:
+  - "https://t.me/Armagedoombot"
