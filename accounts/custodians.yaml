@@ -158,6 +158,10 @@
   name: "Bybit 7"
   require_memo: true
   image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
+- address: "UQB9Ez1OQlyOAN4BVROkTmbm0WOyHnFyCux1eZZeXeKMVQN6"
+  name: "Bybit 8"
+  require_memo: true
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
 - address: "EQAAi7CI6B441YOCaQEJNWcCfMFXXsdErDVPpO7sMC0WbSVp"
   name: "bit.com"
   require_memo: true
@@ -410,3 +414,17 @@
 - address: "EQCBdDjlsObrETq3TXP8lffsGSR9vm7iekLD0BZNYUw8oRAU"
   name: "Ourbit"
   require_memo: true
+- address: "UQBmoechltZNb69I-ksuqGH2ewSE0tFKWcr3AdjChs5E5Uii"
+  name: "OKX 11"
+- address: "EQBBlxK8VBxEidbxw4oQVyLSk7iEf9VPJxetaRQpEbi-XG4U"
+  name: "Bitfinex 2"
+  require_memo: false
+- address: "UQBsJbXy_l7xpqGXj2EfYaUIg_1QoIIrGRdkRfypMYIyY9Ql"
+  name: "OKX 12"
+- address: "UQCLBw7bAacA8_akYkx-CG4DbahgYOuwTxmQjuYaNTczX2jy"
+  name: "Changelly"
+- address: "UQDy3BhgaGzWWJh-K-2CFlMtjABEYNreqQfMfUrXI2xJa5C1"
+  name: "Bybit 8"
+  image: "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg"
+- address: "UQAU3ksCZHlBd5EIt7mb6FWWJgzN6BM1EAAFXXRN2KugTJYl"
+  name: "CoinEx"
