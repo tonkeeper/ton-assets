@@ -1,0 +1,17 @@
+{
+  "name": "DYOX",
+  "symbol": "DYOX",
+  "description": "DYOX is an ultra-scarce decentralized financial asset and strategic liquidity engine deployed on the TON blockchain. The total supply is strictly capped and hardcoded; no more tokens can ever be minted, ensuring long-term scarcity and economic utility.",
+  "decimals": 9,
+  "contract_address": "EQDKf5t_2G1b0WKIdru8UPB9k5KQgomS7kuOHWPF-n8VgDam",
+  "total_supply": "75000",
+  "supply_type": "Fixed / Non-mintable",
+  "image": "https://dyoxcoin.github.io/DYOX/images/logo.png",
+  "websites": [
+    "https://dyoxcoin.github.io/DYOX/#tokenomics"
+  ],
+  "social_links": {
+    "twitter": "https://x.com/DYOXcoin",
+    "telegram": "https://t.me/DYOXcoin"
+  }
+}
