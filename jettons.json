@@ -1098,7 +1098,7 @@
  {
   "address": "0:a297f302af6545ed849c07880838ce6baa2fa23bbfc183270128adb3213ca133",
   "description": "AiTon is a GameFi and AI-powered mining ecosystem on TON.",
-  "image": "https://i.postimg.cc/ncJ5KD4F/256-251.png",
+  "image": "https://cdn.jsdelivr.net/gh/2022vg21-ux/aiton-assets@main/brightpng.png",
   "name": "AiTon",
   "social": [
    "https://t.me/ton4btc",
@@ -14385,6 +14385,11 @@
   "address": "0:0e42d12497489edbe964b5aad1039b544bd3cbea4b9e028290737896d7e7ae9e",
   "name": "Premium",
   "symbol": "PREMIUM"
+ },
+ {
+  "address": "0:1b33f4181f765eb1f74f22e8c3e75132e17a06cb4e41b888819eaaf635d12039",
+  "name": "GRAM PRINTER",
+  "symbol": "PRINTGRAM"
  },
  {
   "address": "0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3",

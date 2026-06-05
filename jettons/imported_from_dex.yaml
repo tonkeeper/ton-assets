@@ -916,6 +916,9 @@
 - address: 0:0e42d12497489edbe964b5aad1039b544bd3cbea4b9e028290737896d7e7ae9e
   name: Premium
   symbol: PREMIUM
+- address: 0:1b33f4181f765eb1f74f22e8c3e75132e17a06cb4e41b888819eaaf635d12039
+  name: GRAM PRINTER
+  symbol: PRINTGRAM
 - address: 0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3
   name: Prolific
   symbol: PRO
