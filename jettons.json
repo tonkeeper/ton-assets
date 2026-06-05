@@ -5692,6 +5692,20 @@
   "symbol": "KILO"
  },
  {
+  "address": "0:f60cfe8173f2a9cba5057ff0b50146ac0aad798c347da2d9c4a46b8ab617e47b",
+  "description": "The frogs have spoken now it's time to crown the true CTO.",
+  "image": "https://raw.githubusercontent.com/devmustee/KissedFrog-logo/master/kissedfrog-logo.png",
+  "name": "Kissed Frog",
+  "social": [
+   "https://t.me/KissedFrogCTO   ",
+   "https://x.com/KissedFrogOG"
+  ],
+  "symbol": "$Frog",
+  "websites": [
+   "kissedfrog.xyz"
+  ]
+ },
+ {
   "address": "0:a9d576a8270787d5849330129dc9fcb959d3ee4447d275d9eebe7f4cbaf86b8d",
   "description": "This is Labubu Fan token, created for Ton community. The character Labubu appears in \"The Monsters\" series of stories written by Hong Kong-born artist Kasing Lung.  He developed this universe in 2015, drawing inspiration from Nordic fairy tales, and its characters are based on elves, fairies, and monsters.",
   "image": "https://staging-jubilee.flickr.com/65535/54660938777_a541332651_b.jpg",
