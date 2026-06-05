@@ -3,8 +3,9 @@ symbol: "HELL"
 description: "The official utility token of the Hell Gems Telegram mini-game. Mine depths, merge skeleton armies, complete quests, and participate in community events to earn in-game rewards."
 image: "https://tg.hellgems.com/token.png"
 address: "EQAP0vCouG9NOH9X7Y8dxhdf6e8hc0VXUI5z8wL-C_gYC2gO"
+websites:
+  - "https://hellgems.com"
 social:
   - "https://t.me/HellGemsCommunity"
   - "https://x.com/hellgems"
-websites:
-  - "https://hellgems.com"
+
