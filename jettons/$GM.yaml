@@ -2,6 +2,6 @@ name: "Gram Morning"
 symbol: "GM"
 decimals: 9
 address: "EQA69XQSXbB6zXv36mTFaiazCBSuLj_zT6tH44m6ohvjGv02"
-image: "https://raw.githubusercontent.com/vhiksox/ton-assets/main/jettons/GM.png"
+image: "<https://raw.githubusercontent.com/vhiksox/ton-assets/main/jettons/GM.png>"
 social:
-  - https://t.me/gram_morning
+  - <https://t.me/gram_morning>
