@@ -1,0 +1,9 @@
+name: "Gram Morning"
+symbol: "GM"
+decimals: 9
+type: "jetton"
+address: "EQA69XQSXbB6zXv36mTFaiazCBSuLj_zT6tH44m6ohvjGv02"
+image: "https://raw.githubusercontent.com/vhiksox/ton-assets/main/img/GM.png"
+verified: true
+social:
+  - https://t.me/gram_morning
