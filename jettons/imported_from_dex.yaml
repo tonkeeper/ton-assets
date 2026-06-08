@@ -493,6 +493,9 @@
 - address: 0:7d7b64496899d7fed00b0c14b221be688f460724b6bc16772c17ee4c8d7a256d
   name: GM
   symbol: GM
+- address: 0:3af574125db07acd7bf7ea64c56a26b30814ae2e3ff34fab47e389baa21be31a
+  name: Gram Morning
+  symbol: GM
 - address: 0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3
   name: GoMining
   symbol: GOMINING
