@@ -59,6 +59,7 @@ Name           | Address
 [Zero Address](https://tonviewer.com/0:0000000000000000000000000000000000000000000000000000000000000000) | EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c
 [Blackhole Address](https://tonviewer.com/-1:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff) | Ef___________________________________________7Sg
 [Tonkeeper Pro Subscriptions](https://tonviewer.com/0:b16a061860c9f389d4ef41fdfdaa7914bc09167db9f5377b5ea95c504ed76b77) | EQCxagYYYMnzidTvQf39qnkUvAkWfbn1N3teqVxQTtdrdyu1
+[Stakee](https://tonviewer.com/0:f6ff877dd4ce1355b101572045f09d54c29309737eb52ca542cfa6c195f7cc5b) | EQD2_4d91M4TVbEBVyBF8J1UwpMJc361LKVCz6bBlffMW05o
 [Getgems Marketplace](https://tonviewer.com/0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18) | EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS
 [Getgems Sales](https://tonviewer.com/0:584ee61b2dff0837116d0fcb5078d93964bcbe9c05fd6a141b1bfca5d6a43e18) | EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS
 [Getgems Deployer](https://tonviewer.com/0:39d63083e48f46452ff8a04cd0d3733a90c8be299aa5951b62741759b2c17e0e) | EQA51jCD5I9GRS_4oEzQ03M6kMi-KZqllRtidBdZssF-DjDh
@@ -110,6 +111,7 @@ Name           | Address
 [Omniston Escrow Minter](https://tonviewer.com/0:26361fa7cb81ae8058afdca9adc29431537ea6cf03b6524302be1372cee07d1c) | EQAmNh-ny4GugFiv3KmtwpQxU36mzwO2UkMCvhNyzuB9HHuf
 [Omniston Escrow Minter](https://tonviewer.com/0:667d0669b79fba2b4252c42dfe8485dfadf1470c69ade92dcea4387ffbb518a6) | EQBmfQZpt5-6K0JSxC3-hIXfrfFHDGmt6S3OpDh_-7UYpoOF
 [Omniston Escrow Minter](https://tonviewer.com/0:3349ddd903d5ff139df8f3f471855a86858de47cde9f992d108be5c58216e926) | EQAzSd3ZA9X_E5348_RxhVqGhY3kfN6fmS0Qi-XFghbpJrBn
+[Omniston Escrow Minter](https://tonviewer.com/0:4713df8361a3c2743ab60aa9f7e79193033cc34dda304b9d913d2fb22e621035) | EQBHE9-DYaPCdDq2Cqn355GTAzzDTdowS52RPS-yLmIQNZKq
 [Omniston Fee Vault](https://tonviewer.com/0:420147ef30c4a7f961cfd1b283b38c1454e2b5af9e4eb87248ab6e7f42754508) | EQBCAUfvMMSn-WHP0bKDs4wUVOK1r55OuHJIq25_QnVFCFye
 [Omniston Fee Vault](https://tonviewer.com/0:00a32bb40be68c6063d512831fb8081edbe99e25678ee4a2c92ab29624024029) | EQAAoyu0C-aMYGPVEoMfuAge2-meJWeO5KLJKrKWJAJAKXGL
 [Omniston Fee Vault](https://tonviewer.com/0:f94c8bc64fa371a61443297f70454909387c84d154ee4c675548603937f6fada) | EQD5TIvGT6NxphRDKX9wRUkJOHyE0VTuTGdVSGA5N_b62naH
@@ -270,6 +272,7 @@ Name           | Address
 [GiftBox Sleeping Giant](https://tonviewer.com/0:1d563b0a8034b355eca7602bbe8453b454f0705777949131848b9f6b2020042e) | EQAdVjsKgDSzVeynYCu-hFO0VPBwV3eUkTGEi59rICAELvxT
 [GiftBox TON's Witnesses](https://tonviewer.com/0:bb19eecc87d581b11feecf5b6d14b2edbedc013ad06cdd16b41226191feff15c) | EQC7Ge7Mh9WBsR_uz1ttFLLtvtwBOtBs3Ra0EiYZH-_xXCHM
 [Golden Sunrise](https://tonviewer.com/0:57b05284fd3cf8d840c6ae84f31a73d644d8ba5db5ecfb3fff6c6e818d85a3a2) | EQBXsFKE_Tz42EDGroTzGnPWRNi6XbXs-z__bG6BjYWjokNY
+[Grouche Rewards](https://tonviewer.com/0:7958c516fb3c518f5cb1c9bfc7140db917655e19bd4b90f32ba576620f847851) | EQB5WMUW-zxRj1yxyb_HFA25F2VeGb1LkPMrpXZiD4R4UR_1
 [Hidden Dragon](https://tonviewer.com/0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd) | EQA688-wBLlWrVC9v0jxauxRURqNo6FnJSxos4Uem_gqvfPh
 [JVault locks](https://tonviewer.com/0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94) | EQCSFRiFm_qjv7W6S9xjI7ZY2XJecUhd4VymLglsOE88lMYH
 [KZH](https://tonviewer.com/0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf) | EQDaaxtmY6Dk0YzIV0zNnbUpbjZ92TJHBvO72esc0srwv8K2

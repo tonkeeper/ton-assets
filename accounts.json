@@ -204,6 +204,10 @@
   "name": "Tonkeeper Pro Subscriptions"
  },
  {
+  "address": "0:f6ff877dd4ce1355b101572045f09d54c29309737eb52ca542cfa6c195f7cc5b",
+  "name": "Stakee"
+ },
+ {
   "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
   "name": "Getgems Marketplace"
  },
@@ -405,6 +409,10 @@
  },
  {
   "address": "0:3349ddd903d5ff139df8f3f471855a86858de47cde9f992d108be5c58216e926",
+  "name": "Omniston Escrow Minter"
+ },
+ {
+  "address": "0:4713df8361a3c2743ab60aa9f7e79193033cc34dda304b9d913d2fb22e621035",
   "name": "Omniston Escrow Minter"
  },
  {
@@ -1707,6 +1715,10 @@
   "address": "0:f2dc1860686cd658987e2bed8216532d8c004460dadea907cc7d4ad7236c496b",
   "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
   "name": "Bybit 8"
+ },
+ {
+  "address": "0:14de4b02647941779108b7b99be85596260ccde813351000055d744dd8aba04c",
+  "name": "CoinEx"
  },
  {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
