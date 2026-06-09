@@ -1,7 +1,8 @@
-name: "Professor Gram"
-symbol: "PD"
-decimals: 9
-address: "EQA6wowjTYS2KKL3n3bzaPkbwHPqiwFtAWxiRJtYzYYp3QA-"
-image: "https://raw.githubusercontent.com/vhiksox/ton-assets/main/jettons/PD.png"
-social:
-  - https://t.me/Professor_GRAM
+Token: Professor Gram ($PD)
+Contract: EQA6wowjTYS2KKL3n3bzaPkbwHPqiwFtAWxiRJtYzYYp3QA-
+Network: TON (Jetton)
+Community: <https://t.me/Professor_GRAM>
+
+Requesting:
+- Add token metadata yaml
+- Mark as verified ✓
