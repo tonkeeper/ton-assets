@@ -108,5 +108,6 @@ def update_stonfi_routers():
         routers.append({"address": item["address"], "name": "STON.fi DEX"})
     if len(routers) == 0:
         return
+    routers.sort(key=lambda x: x['address'])
     with open("accounts/ston.yaml", "w") as f:
         yaml.safe_dump(routers, f, sort_keys=True, allow_unicode=True)

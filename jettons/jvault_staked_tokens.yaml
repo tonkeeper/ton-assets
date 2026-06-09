@@ -1686,4 +1686,19 @@
     - "https://t.me/jvault"
     - "https://t.me/jvault_ru"
     - "https://t.me/jvault_notifications"
+- name: USTR staked on JVault.xyz
+  symbol: st-USTR-7D
+  description: "These jettons confirm ownership of Utya Strategy staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/USTR-UTYA"
+  address: 0:12575224e329ddc73d961401cf77bef7698088ba9909d795da400b85b09223cb
+  image: "https://jvault.xyz/media/staking_v2/images/mainnet_USTR-UTYA.webp"
+  websites:
+    - "https://jvault.xyz"
+    - "https://t.me/jvaultbot"
+    - "https://t.me/utya_strategy"
+    - "https://utya-strategy.com"
+    - "https://x.com/utya_strategy"
+  social:
+    - "https://t.me/jvault"
+    - "https://t.me/jvault_ru"
+    - "https://t.me/jvault_notifications"
 
