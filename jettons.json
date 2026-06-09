@@ -2629,6 +2629,17 @@
   ]
  },
  {
+  "address": "0:dbf37e1522629572e1bd8acd3b740d66f87247b332f39d9e7daa06881a3a59d2",
+  "description": "This token is a unique token inspired by the Corgi Life stickerpack. It represents a funny corgi who is always ready for adventure and fun. This token symbolizes joy, friendliness and loyalty.",
+  "image": "https://i.postimg.cc/dtmbzwKb/Untitled-5.png",
+  "name": "Corgi Life",
+  "social": [
+   "https://x.com/lifecorgi_ton_",
+   "https://t.me/LifeCorgi"
+  ],
+  "symbol": "CORGILIFE"
+ },
+ {
   "address": "0:0f2aa4459d073eda6e4e820d1450c34cd1c65174ae09511da037ac24f0f5fdd3",
   "description": "UNITON TOKEN \ud83e\udd84 IS The First Telegram Family MEME Token Powered By",
   "image": "https://i.postimg.cc/2Szvq5FJ/UTN-Logo.png",
