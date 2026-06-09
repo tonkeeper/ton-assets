@@ -286,6 +286,16 @@
   "name": "CALLIGRAFUTURISM \u2014 24: Units"
  },
  {
+  "address": "0:7958c516fb3c518f5cb1c9bfc7140db917655e19bd4b90f32ba576620f847851",
+  "description": "Personalized SBT Rewards for Grouche Platform users.",
+  "image": "https://cdn.grouche.com/sbt/grc.jpg",
+  "name": "Grouche Rewards",
+  "social": [
+   "https://x.com/grouchecoin",
+   "https://t.me/grouche_coin"
+  ]
+ },
+ {
   "address": "0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94",
   "description": "Collection with soulbound tokens confirming ownership of jettons locked in JVault Locker (actual version)",
   "image": "https://jvault.xyz/static/images/lock_collection.png",
