@@ -18553,13 +18553,6 @@
   "symbol": "wAGARIC"
  },
  {
-  "address": "0:71bfaebe5f2d27d004cad9324f140cf4762adcf907cca0251b922943272ccd5a",
-  "description": "A piece of Loot Bag",
-  "image": "https://nft.fragment.com/collection/lootbag.webp",
-  "name": "Loot Bag Shard",
-  "symbol": "wBAG"
- },
- {
   "address": "0:bb37e63db4e1bfe55ea1ec1e30e762cde58f362a6c7741b9f77c06b5a6c20d2c",
   "description": "A piece of Toy Bear",
   "image": "https://nft.fragment.com/collection/toybear.webp",
