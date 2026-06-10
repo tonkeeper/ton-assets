@@ -8519,6 +8519,23 @@
   ]
  },
  {
+  "address": "0:fc19ba0b444a8308b9b8a0178ddec7c1243d9988da34b3e2e762a78bc74bf3bc",
+  "decimals": 9,
+  "description": "Community utility token for StrikeArena gaming community. Used for VIP and Shop on CS2 servers and trading on community marketplace.",
+  "image": "https://strikearena.ru/assets/static/sagame_logo.png",
+  "name": "StrikeArena",
+  "social": [
+   "https://t.me/strikearena",
+   "https://discord.gg/strikearena",
+   "https://steamcommunity.com/groups/strikearena",
+   "https://vk.com/strikearena"
+  ],
+  "symbol": "SA",
+  "websites": [
+   "https://strikearena.ru"
+  ]
+ },
+ {
   "address": "0:88899e9be5f6121cb7c2080aa2e0ab087aa4000f71ff1d23fe579af839481312",
   "description": "\u26fd\ufe0f https://audio.gaspump.tg/SADDOGE_1.mp3 | why i`m sad?",
   "image": "https://i.ibb.co/yP40H6F/IMG-20241023-205430-378.jpg",
