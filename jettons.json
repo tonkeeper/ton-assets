@@ -5133,6 +5133,17 @@
   "symbol": "HISTR"
  },
  {
+  "address": "0:2a5f463da5da433776d0d094146533aed926dc0ba4e2ef70f52de5415df63fc2",
+  "description": "HL Rewards ($HLR) is a reward-focused token designed to distribute ecosystem incentives, staking rewards, gaming prizes, and community bonuses while supporting long-term growth and engagement. \ud83d\ude80\ud83d\udc8e https://t.me/legendsheroess Deployed from sTONks Deployed from sTONks",
+  "image": "https://img.stonks.cash/d0d316af-7f25-4f61-984a-8616859221df.png",
+  "name": "HL Reward",
+  "social": [
+   "https://t.me/legendsheroess",
+   "https://x.com/heroeslegendss?s=11"
+  ],
+  "symbol": "HLR"
+ },
+ {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
   "decimals": 9,
   "name": "Hamster Kombat",
