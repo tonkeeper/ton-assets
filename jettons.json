@@ -199,6 +199,20 @@
   ]
  },
  {
+  "address": "0:6e3660122a15987a5f9861905d3a8c7b346036b31de2402c3f50b38c82e7af38",
+  "decimals": 9,
+  "description": "FARM is the official token of FarmTG, a TON-native Telegram mini app that blends social farming, on-chain NFTs, and play-to-earn mechanics.",
+  "image": "https://farm.w.cm/images/farmToken.png",
+  "name": "Harvest Finance",
+  "social": [
+   "https://t.me/farmtg"
+  ],
+  "symbol": "FARM",
+  "websites": [
+   "https://farm.w.cm"
+  ]
+ },
+ {
   "address": "0:1b6e0a915e49599a65f97b237e22f3b9c9335ab72574fa5abca4ff085dee7280",
   "description": "WE ARE SWIMMIN TO THE TOP LIKE A DOLPHIN THROUGH THE SEA",
   "image": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2F78f21v1ko5isdz1sm7o4hc0t6w4s&w=128&q=75",
@@ -2613,6 +2627,17 @@
   "websites": [
    "https://cerberus.style/"
   ]
+ },
+ {
+  "address": "0:dbf37e1522629572e1bd8acd3b740d66f87247b332f39d9e7daa06881a3a59d2",
+  "description": "This token is a unique token inspired by the Corgi Life stickerpack. It represents a funny corgi who is always ready for adventure and fun. This token symbolizes joy, friendliness and loyalty.",
+  "image": "https://i.postimg.cc/dtmbzwKb/Untitled-5.png",
+  "name": "Corgi Life",
+  "social": [
+   "https://x.com/lifecorgi_ton_",
+   "https://t.me/LifeCorgi"
+  ],
+  "symbol": "CORGILIFE"
  },
  {
   "address": "0:0f2aa4459d073eda6e4e820d1450c34cd1c65174ae09511da037ac24f0f5fdd3",
@@ -5108,6 +5133,17 @@
   "symbol": "HISTR"
  },
  {
+  "address": "0:2a5f463da5da433776d0d094146533aed926dc0ba4e2ef70f52de5415df63fc2",
+  "description": "HL Rewards ($HLR) is a reward-focused token designed to distribute ecosystem incentives, staking rewards, gaming prizes, and community bonuses while supporting long-term growth and engagement. \ud83d\ude80\ud83d\udc8e https://t.me/legendsheroess Deployed from sTONks Deployed from sTONks",
+  "image": "https://img.stonks.cash/d0d316af-7f25-4f61-984a-8616859221df.png",
+  "name": "HL Reward",
+  "social": [
+   "https://t.me/legendsheroess",
+   "https://x.com/heroeslegendss?s=11"
+  ],
+  "symbol": "HLR"
+ },
+ {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
   "decimals": 9,
   "name": "Hamster Kombat",
@@ -5545,17 +5581,6 @@
    "https://x.com/kentoonton"
   ],
   "symbol": "KENTO"
- },
- {
-  "address": "0:aad527640c4d8fd555a76b63701033ad768a24967db935c20811bd3785b347c0",
-  "description": "Kissed Frogs (KFROG) is a meme coin built on the TON blockchain. Inspired by frogs that dream big after every kiss of luck, KFROG captures the fun, chaotic, and playful spirit of crypto while bringing together a strong and united community.",
-  "image": "https://i.postimg.cc/Y96Sbc8v/512512.png",
-  "name": "Kissed Frogs",
-  "social": [
-   "https://t.me/Kissed_Frogs_TON",
-   "https://x.com/KissedFrogsTON"
-  ],
-  "symbol": "KFROG"
  },
  {
   "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
@@ -8491,6 +8516,23 @@
   "symbol": "RUS",
   "websites": [
    "https://ruscoinmem.ru"
+  ]
+ },
+ {
+  "address": "0:fc19ba0b444a8308b9b8a0178ddec7c1243d9988da34b3e2e762a78bc74bf3bc",
+  "decimals": 9,
+  "description": "Community utility token for StrikeArena gaming community. Used for VIP and Shop on CS2 servers and trading on community marketplace.",
+  "image": "https://strikearena.ru/assets/static/sagame_logo.png",
+  "name": "StrikeArena",
+  "social": [
+   "https://t.me/strikearena",
+   "https://discord.gg/strikearena",
+   "https://steamcommunity.com/groups/strikearena",
+   "https://vk.com/strikearena"
+  ],
+  "symbol": "SA",
+  "websites": [
+   "https://strikearena.ru"
   ]
  },
  {
@@ -13751,6 +13793,11 @@
   "symbol": "GRM"
  },
  {
+  "address": "0:3acc8ecc0284249f41f02be0e5cda661dd6a9083ea6c14c40d82a6ebaa18d6b5",
+  "name": "Grumpy Cat",
+  "symbol": "GRUMPY"
+ },
+ {
   "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
   "name": "Gold Standard",
   "symbol": "GSTD"
@@ -13894,6 +13941,11 @@
   "address": "0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a",
   "name": "KAKAXA",
   "symbol": "KAKAXA"
+ },
+ {
+  "address": "0:aad527640c4d8fd555a76b63701033ad768a24967db935c20811bd3785b347c0",
+  "name": "Kissed Frogs",
+  "symbol": "KFROG"
  },
  {
   "address": "0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7",
@@ -18073,6 +18125,17 @@
   "websites": [
    "https://durov-cum.com/"
   ]
+ },
+ {
+  "address": "0:4ac96ddfefd0cb82579e0f6c31f5b9722850b9db928a5c83e5cd57ff13061de4",
+  "description": "Did you know that Durov is better than Egor Zhgun? Durov created TG Stickers <\u041f\u0401\u041d\u042f> - proof t.me/durovleaks/1187 And it's still not a million market cap?",
+  "image": "https://img.stonks.cash/9a700920-bbc9-4a5c-89fa-fb66a2e26d2d.png",
+  "name": "\u041f\u0451\u043d\u044f",
+  "social": [
+   "https://t.me/pyonyaOG",
+   "https://x.com/pyonyaOG"
+  ],
+  "symbol": "\u041f\u0451\u043d\u044f"
  },
  {
   "address": "0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b",
