@@ -526,6 +526,9 @@
 - address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
   name: Grm
   symbol: GRM
+- address: 0:3acc8ecc0284249f41f02be0e5cda661dd6a9083ea6c14c40d82a6ebaa18d6b5
+  name: Grumpy Cat
+  symbol: GRUMPY
 - address: 0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2
   name: Gold Standard
   symbol: GSTD
