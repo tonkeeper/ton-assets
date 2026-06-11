@@ -4959,6 +4959,17 @@
   "symbol": "GST"
  },
  {
+  "address": "0:02f9290a86b2fb374b94c508fed97ca27eb669bb9bab225d4457068b3eb3bfb7",
+  "decimals": 9,
+  "description": "Gold Nugs is the Dig It rewards token. Play to earn at https://digitgoldgame.com",
+  "image": "https://iili.io/CBii8WQ.png",
+  "name": "Gold Nugs",
+  "symbol": "GOLD",
+  "websites": [
+   "https://digitgoldgame.com"
+  ]
+ },
+ {
   "address": "0:e362287713324c235561d00b49e6a5a8fe34ea69d3d0820443df7fb12e0c4128",
   "description": "Memecoin for the loyal TON and ZkSync degens. $HAKI was inspired by the legendary tale of Hachiko, the Loyal dog. Just like Hachiko's enduring devotion to Prof Hidesabur\u014d Ueno, $HAKI token embodies loyalty, trust, and companionship in the world of Memecoins",
   "name": "Hachiko Inu",
