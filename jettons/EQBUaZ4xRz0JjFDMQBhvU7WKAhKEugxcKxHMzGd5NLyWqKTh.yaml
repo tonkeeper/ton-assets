@@ -1,0 +1,14 @@
+# Адрес вашего Jetton контракта
+name: EQBUaZ4xRz0JjFDMQBhvU7WKAhKEugxcKxHMzGd5NLyWqKTh
+# Короткое название токена (тикер)
+symbol: BEAR
+# Полное название
+title: Toy Bear
+# Ссылка на логотип (PNG, квадратный, 256x256)
+image: https://avatars.mds.yandex.net/i?id=6f4cf11f385bb75093b20025a662256f365987a3-3932796-images-thumbs&n=13
+# Количество знаков после запятой (для TON стандарт 9)
+decimals: 9
+# Название социальной сети или сайта
+community: Телеграм канал
+# URL вашего сайта
+url: https://t.me/toybeartoken
