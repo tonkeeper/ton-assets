@@ -508,9 +508,6 @@
 - address: 0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51
   name: Goy Token
   symbol: GOY
-- address: 0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195
-  name: Official Gram mascot
-  symbol: GRAMIO
 - address: 0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b
   name: GRAM SEASON
   symbol: GRAMSEASON
