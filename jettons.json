@@ -4942,6 +4942,17 @@
   ]
  },
  {
+  "address": "0:3acc8ecc0284249f41f02be0e5cda661dd6a9083ea6c14c40d82a6ebaa18d6b5",
+  "description": "Inspired by Pavel Durov's legendary Grumpy Cat.",
+  "image": "https://i.ibb.co/ZRf85PKX/CHu-OTgl-Ws-AATknq.jpg",
+  "name": "Grumpy Cat",
+  "social": [
+   "https://t.me/grumpycatgram",
+   "https://x.com/GrumpyCatGram"
+  ],
+  "symbol": "GRUMPY"
+ },
+ {
   "address": "0:39bc72cb0993ff940c43d70f2244b14b033d833a6b68ab8a4bfefad621fbcf39",
   "description": "Make TON Great Again - it\u2019s already true. The synergy of Telegram gifts and the GTA token proves TON is great. Great TON Again - take note.",
   "image": "https://img.stonks.cash/8aa6ac0e-99c7-42be-a8b3-231a7d192d04.jpg",
@@ -13876,11 +13887,6 @@
   "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
   "name": "Grm",
   "symbol": "GRM"
- },
- {
-  "address": "0:3acc8ecc0284249f41f02be0e5cda661dd6a9083ea6c14c40d82a6ebaa18d6b5",
-  "name": "Grumpy Cat",
-  "symbol": "GRUMPY"
  },
  {
   "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
