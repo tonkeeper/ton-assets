@@ -4861,6 +4861,20 @@
   "symbol": "GRAMCAT"
  },
  {
+  "address": "0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195",
+  "description": "The blue diamond mascot of the Gram era on TON.\n\nGram was the beginning. TON carried the vision. Now the name returns \u2014 and Gramio is here to make it legendary!\n\nBuilt for the community. Fueled by green candles. Powered by the comeback story of Gram.\n\nStay bullish. Stay Gram.\n",
+  "image": "https://raw.githubusercontent.com/basednegan/gramio-logo/main/logo-gramio.jpg",
+  "name": "Official Gram mascot",
+  "social": [
+   "https://x.com/gramio_ton",
+   "https://t.me/gramio_ton_chat"
+  ],
+  "symbol": "GRAMIO",
+  "websites": [
+   "https://gramio.lol/"
+  ]
+ },
+ {
   "address": "0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab",
   "name": "Grabscape game token",
   "symbol": "GRBS"
@@ -13821,11 +13835,6 @@
   "address": "0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51",
   "name": "Goy Token",
   "symbol": "GOY"
- },
- {
-  "address": "0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195",
-  "name": "Official Gram mascot",
-  "symbol": "GRAMIO"
  },
  {
   "address": "0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b",
