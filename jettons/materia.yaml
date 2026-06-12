@@ -3,7 +3,7 @@ name: "Materia"
 symbol: "MAT"
 decimals: 0
 description: "Utility token of the 'Other Worlds' Metaverse. Used for in-game purchases, upgrades and NFTs."
-image: "https://bafybeih2wdahfohmvgchcald22kslgfmb27vjp6k7tf4od76pto7egbnqi.ipfs.w3s.link/materia.svg"
+image: "https://app.other-worlds.io/images/svg/common/materia.svg"
 websites:
   - "https://other-worlds.io"
 social:
