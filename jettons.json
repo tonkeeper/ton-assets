@@ -422,6 +422,17 @@
   ]
  },
  {
+  "address": "0:3ac28c234d84b628a2f79f76f368f91bc073ea8b016d016c62449b58cd8629dd",
+  "decimals": 9,
+  "image": "<https://raw.githubusercontent.com/oxv401/assets/main/PG.png>",
+  "name": "Professor Gram",
+  "social": [
+   "<https://t.me/Professor_GRAM>",
+   "<https://x.com/professorgram_>"
+  ],
+  "symbol": "PG"
+ },
+ {
   "address": "0:714795f24ef15e1aafc52fb9bed64bf4c3afe1988d092e0a86e9637c34b63f2c",
   "description": "For popularize Web3 and DeFi in the CIS",
   "image": "https://i.ibb.co/FL22JmC7/photo-2026-03-11-20-13-16-edited-fotor-2026031411237.png",
