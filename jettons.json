@@ -10896,6 +10896,16 @@
   "symbol": "VIRUS"
  },
  {
+  "address": "0:702dc717ae2e374e6e4c7ad4a084207a6ca68ed80ca02d9b57660a0ddf1e5439",
+  "description": "VISB represents VISION. The neuro-symbolic reasoning model.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreicsp4anj4fqvlyk3vsrb5d7whms2qgmgqq5i3vnxgzojsfh6ceg2q",
+  "name": "VISB",
+  "symbol": "VISB",
+  "websites": [
+   "https://telegram.vision"
+  ]
+ },
+ {
   "address": "0:3aa59787efab4b4790864a7518396451633d19702533cffd46cf4deb04568f0b",
   "decimals": 0,
   "description": "Coin for TonVillages game. Play at t.me/TonVillagesBot",
