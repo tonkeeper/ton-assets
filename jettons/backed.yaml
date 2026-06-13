@@ -388,6 +388,9 @@
 - address: 0:4a720b2050af0e139db1bb5a1c32eda79b96e2c1e172e71577fede0feec5ec42
   name: Virgin Galactic xStock
   symbol: SPCEx
+- address: 0:00b1f9756be040f1d492517d95a4b0af7856330ce2eb257f6597cf5b6926e6be
+  name: SpaceX xStock
+  symbol: SPCXx
 - address: 0:757f204003da900cfe8b106685ddc6d4f976ebfa9e844816469ea94790720700
   name: SP500 xStock
   symbol: SPYx
