@@ -1,0 +1,9 @@
+name: HoneyDrop
+description: HoneyDrop ($HONEY) is a Jetton token on the TON network with a fixed total supply of 5,000,000,000. It features a 9-digit decimal precision and is designed for widespread airdrop distribution. $HONEY aims to build a strong, engaged community by rewarding active participants and supporting the growth of the TON ecosystem.
+image: "https://raw.githubusercontent.com/MelonaColloction/My-Amage-/refs/heads/main/5493156141148226802.png"
+address: EQCre6OJDi0S7gAhvtVg5su3VmbXj0-rh27nqrSU-NTrurEq
+symbol: HONEY
+max_supply: 5000000000
+decimals: 9
+social:
+  - "https://t.me/HoneyDrop_Airdrop"
