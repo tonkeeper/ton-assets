@@ -1,0 +1,17 @@
+Name: "DYOX coin"
+symbol: "DYOX"
+description: "DYOX is a decentralized utility driven token designed for integration within DEX ecosystems It combines real utility projects that are verified and trusted with real world use cases It facilitates the creation of liquidity pools and trading pairs with blockchain projects that provide practical value The value of the ecosystem is driven by the development and adoption of integrated projects positioning DYOX as a functional infrastructure asset within decentralized finance"
+decimals: 9
+contract_address: "EQDKf5t_2G1b0WKIdru8UPB9k5KQgomS7kuOHWPF-n8VgDam"
+total_supply: "75000"
+supply_type: "Non-mintable"
+image: "https://storage.dyor.io/jettons/images/1779384992/55500292.png"
+websites:
+  - "https://dyoxcoin.github.io/DYOX/#tokenomics"
+social_links:
+  - "https://x.com/DYOXcoin"
+  - "https://t.me/dyoxcoin"
+  - "https://t.me/DYOXV"
+support:
+  - "dyox1@proton.me"
+  
