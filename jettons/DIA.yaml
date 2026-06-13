@@ -1,0 +1,9 @@
+name: DiaFun
+description: M2E project Diaverse demo token
+image: "https://storage.yandexcloud.net/diafun/DiaFun.PNG"
+address: 0:01dfbabb2948e9aa7980a21ee7390448c96fc535917c484b2ca0757beb3ec7ce
+symbol: DIA
+social:
+  - "https://t.me/publikstarttup"
+websites:
+  - "https://diaverse.app"

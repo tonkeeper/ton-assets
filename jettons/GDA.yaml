@@ -1,0 +1,11 @@
+name: "GoldAge gold"
+description: "GoldAge ingame currency."
+image: "https://play.goldage.io/token/logo.png"
+address: "EQBPprO7EW1A110C4Z7Jq2tl_2PxEGzYJwTS_UgkmalO-GdA"
+symbol: "GDA"
+websites:
+  - "https://goldage.io/"
+social:
+  - "https://t.me/goldagechat"
+  - "https://t.me/goldagegame"
+  - "https://x.com/goldagegame"

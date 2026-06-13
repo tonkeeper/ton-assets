@@ -1,0 +1,12 @@
+name: "Trade DINO Bot"
+symbol: "$TDINO"
+address: "EQDenLt4tc5WL9NddtOcgaC3sEEXMTw9CIWJVfqMsS3AeFeX"
+description: "Token has a real product generating revenue. Buybacks every 3 days. LP locked. The team burned their tokens. Contract ownership revoked. For more details, check the official sources"
+
+# опционально:
+decimals: 9
+image: "https://i.ibb.co/yFfx3QyC/frame-046.png"
+
+social:
+  - "https://t.me/TradeDino"
+  - "https://t.me/ChatingTDINO"

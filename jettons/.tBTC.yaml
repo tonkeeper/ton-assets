@@ -1,0 +1,11 @@
+name: TonBitcoin
+address: 0:43772099785151a0e9af10f670deaff1bb01806f8a97804dbfab859d9a20539d
+description: "Mine the tBTC utility token\nApplication: t.me/tBTCminer_bot\n\nThis is a unique miner application in the Telegram ecosystem. There are 3 types of partners in the application: Energizer, Miner and Investor, each of which performs its own function. The miner buys electricity from Energizer and mines the token tBTC on his mining equipment and then sells the token to Investors\nAs a result, we get a revolutionary Win-Win-Win system\n\nMore details: t.me/ton4btc\n\n--------------------------------------------\n\nС помощью этого оборудования вы можете майнить утилитарный токен tBTC\nПриложение для майнинга: t.me/tBTCminer_bot\n\nПодробная информация: t.me/ton4btc"
+image: "https://storage.dyor.io/jettons/EQBDdyCZeFFRoOmvEPZw3q_xuwGAb4qXgE2_q4WdmiBTnZLu/image.png"
+symbol: ".tBTC"
+websites:
+  - "https://tbtc.gitbook.io/"
+social:
+  - "https://t.me/ton4btc"
+  - "https://t.me/tBTCminer_bot"
+  - "https://www.youtube.com/watch?v=ZRgFmlEyJo8"
