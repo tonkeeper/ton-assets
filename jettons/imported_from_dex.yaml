@@ -1033,6 +1033,9 @@
 - address: 0:3afe1b0df89dcc98b6a824f31437e83688de1f1bb487b13403969b89ef22640a
   name: Rio Global Invest Club
   symbol: RIC
+- address: 0:3a6f3686cfc8f25a8aa4dbbd96ae725e7975e74f85f8c77a35d8c675624dc47b
+  name: Robin
+  symbol: ROBIN
 - address: 0:5daf96fb72c65b5e10e7439537eb86e92f29477e4f0059cba0f13c21cc231572
   name: Rosecoin
   symbol: ROSE
