@@ -246,10 +246,21 @@
   "symbol": "GLANDIA"
  },
  {
+  "address": "0:c9e53451c393bc68846a0057fe8aa69a363d069aefd845f0014bc4ddfdd3040d",
+  "description": "GRAMDOG has entered the chat. Born inside Telegram, raised by stickers, chaos, and pure community energy. GRAMDOG is Telegram's Dog. Not imported. Not copied. This dog was raised in the chat and unleashed on TON. No leash.",
+  "image": "https://i.ibb.co/ymgdHg7t/z-Wz-TCF8.png",
+  "name": "Gram Dog Token",
+  "social": [
+   "https://t.me/gramdog_chat",
+   "https://x.com/GRAMDOG_TON"
+  ],
+  "symbol": "GRAMDOG"
+ },
+ {
   "address": "0:404508f3bbc6674f3249317943aab9da67e087fe7ad5d976f32f6f25ebea7cc4",
   "decimals": 9,
   "description": "Born from GTA street culture & pure TON season energy.",
-  "image": "https://grandtonape.life/neo-logo.png",
+  "image": "https://files.catbox.moe/jv0xhg.png",
   "name": "Grand Ton Ape",
   "social": [
    "https://x.com/gtaonton",
@@ -409,6 +420,17 @@
    "https://t.me/theontonbot",
    "https://onion.tg"
   ]
+ },
+ {
+  "address": "0:3ac28c234d84b628a2f79f76f368f91bc073ea8b016d016c62449b58cd8629dd",
+  "decimals": 9,
+  "image": "<https://raw.githubusercontent.com/oxv401/assets/main/PG.png>",
+  "name": "Professor Gram",
+  "social": [
+   "<https://t.me/Professor_GRAM>",
+   "<https://x.com/professorgram_>"
+  ],
+  "symbol": "PG"
  },
  {
   "address": "0:714795f24ef15e1aafc52fb9bed64bf4c3afe1988d092e0a86e9637c34b63f2c",
@@ -4850,6 +4872,20 @@
   "symbol": "GRAMCAT"
  },
  {
+  "address": "0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195",
+  "description": "The blue diamond mascot of the Gram era on TON.\n\nGram was the beginning. TON carried the vision. Now the name returns \u2014 and Gramio is here to make it legendary!\n\nBuilt for the community. Fueled by green candles. Powered by the comeback story of Gram.\n\nStay bullish. Stay Gram.\n",
+  "image": "https://raw.githubusercontent.com/basednegan/gramio-logo/main/logo-gramio.jpg",
+  "name": "Official Gram mascot",
+  "social": [
+   "https://x.com/gramio_ton",
+   "https://t.me/gramio_ton_chat"
+  ],
+  "symbol": "GRAMIO",
+  "websites": [
+   "https://gramio.lol/"
+  ]
+ },
+ {
   "address": "0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab",
   "name": "Grabscape game token",
   "symbol": "GRBS"
@@ -4906,6 +4942,17 @@
   ]
  },
  {
+  "address": "0:3acc8ecc0284249f41f02be0e5cda661dd6a9083ea6c14c40d82a6ebaa18d6b5",
+  "description": "Inspired by Pavel Durov's legendary Grumpy Cat.",
+  "image": "https://i.ibb.co/ZRf85PKX/CHu-OTgl-Ws-AATknq.jpg",
+  "name": "Grumpy Cat",
+  "social": [
+   "https://t.me/grumpycatgram",
+   "https://x.com/GrumpyCatGram"
+  ],
+  "symbol": "GRUMPY"
+ },
+ {
   "address": "0:39bc72cb0993ff940c43d70f2244b14b033d833a6b68ab8a4bfefad621fbcf39",
   "description": "Make TON Great Again - it\u2019s already true. The synergy of Telegram gifts and the GTA token proves TON is great. Great TON Again - take note.",
   "image": "https://img.stonks.cash/8aa6ac0e-99c7-42be-a8b3-231a7d192d04.jpg",
@@ -4957,6 +5004,17 @@
    "https://t.me/gstchat12"
   ],
   "symbol": "GST"
+ },
+ {
+  "address": "0:02f9290a86b2fb374b94c508fed97ca27eb669bb9bab225d4457068b3eb3bfb7",
+  "decimals": 9,
+  "description": "Gold Nugs is the Dig It rewards token. Play to earn at https://digitgoldgame.com",
+  "image": "https://iili.io/CBii8WQ.png",
+  "name": "Gold Nugs",
+  "symbol": "GOLD",
+  "websites": [
+   "https://digitgoldgame.com"
+  ]
  },
  {
   "address": "0:e362287713324c235561d00b49e6a5a8fe34ea69d3d0820443df7fb12e0c4128",
@@ -5131,6 +5189,17 @@
    "https://t.me/priceohistory"
   ],
   "symbol": "HISTR"
+ },
+ {
+  "address": "0:2a5f463da5da433776d0d094146533aed926dc0ba4e2ef70f52de5415df63fc2",
+  "description": "HL Rewards ($HLR) is a reward-focused token designed to distribute ecosystem incentives, staking rewards, gaming prizes, and community bonuses while supporting long-term growth and engagement. \ud83d\ude80\ud83d\udc8e https://t.me/legendsheroess Deployed from sTONks Deployed from sTONks",
+  "image": "https://img.stonks.cash/d0d316af-7f25-4f61-984a-8616859221df.png",
+  "name": "HL Reward",
+  "social": [
+   "https://t.me/legendsheroess",
+   "https://x.com/heroeslegendss?s=11"
+  ],
+  "symbol": "HLR"
  },
  {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
@@ -8508,6 +8577,23 @@
   ]
  },
  {
+  "address": "0:fc19ba0b444a8308b9b8a0178ddec7c1243d9988da34b3e2e762a78bc74bf3bc",
+  "decimals": 9,
+  "description": "Community utility token for StrikeArena gaming community. Used for VIP and Shop on CS2 servers and trading on community marketplace.",
+  "image": "https://strikearena.ru/assets/static/sagame_logo.png",
+  "name": "StrikeArena",
+  "social": [
+   "https://t.me/strikearena",
+   "https://discord.gg/strikearena",
+   "https://steamcommunity.com/groups/strikearena",
+   "https://vk.com/strikearena"
+  ],
+  "symbol": "SA",
+  "websites": [
+   "https://strikearena.ru"
+  ]
+ },
+ {
   "address": "0:88899e9be5f6121cb7c2080aa2e0ab087aa4000f71ff1d23fe579af839481312",
   "description": "\u26fd\ufe0f https://audio.gaspump.tg/SADDOGE_1.mp3 | why i`m sad?",
   "image": "https://i.ibb.co/yP40H6F/IMG-20241023-205430-378.jpg",
@@ -10016,6 +10102,19 @@
   ]
  },
  {
+  "address": "0:7656e6eed1fc860af85433cf24c5f315149f0dafd42ea87e34986e2c29b860fd",
+  "description": "Talents freelance platform bounty distribution token",
+  "image": "https://cdn.talents.wtf/jetton/logo.jpg",
+  "name": "Talent Coin",
+  "social": [
+   "https://t.me/tontalents"
+  ],
+  "symbol": "TNT",
+  "websites": [
+   "https://talents.wtf"
+  ]
+ },
+ {
   "address": "0:7e6a33328b9f9628880e1e76ce180a5f7245066e5ead0e4dd0b7c3ca99bfb12c",
   "name": "TonexCoin",
   "symbol": "TNX"
@@ -10831,6 +10930,16 @@
    "https://t.me/TheVirusOnTon"
   ],
   "symbol": "VIRUS"
+ },
+ {
+  "address": "0:702dc717ae2e374e6e4c7ad4a084207a6ca68ed80ca02d9b57660a0ddf1e5439",
+  "description": "VISB represents VISION. The neuro-symbolic reasoning model.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreicsp4anj4fqvlyk3vsrb5d7whms2qgmgqq5i3vnxgzojsfh6ceg2q",
+  "name": "VISB",
+  "symbol": "VISB",
+  "websites": [
+   "https://telegram.vision"
+  ]
  },
  {
   "address": "0:3aa59787efab4b4790864a7518396451633d19702533cffd46cf4deb04568f0b",
@@ -12238,6 +12347,11 @@
   "symbol": "SPCEx"
  },
  {
+  "address": "0:00b1f9756be040f1d492517d95a4b0af7856330ce2eb257f6597cf5b6926e6be",
+  "name": "SpaceX xStock",
+  "symbol": "SPCXx"
+ },
+ {
   "address": "0:757f204003da900cfe8b106685ddc6d4f976ebfa9e844816469ea94790720700",
   "name": "SP500 xStock",
   "symbol": "SPYx"
@@ -13235,6 +13349,11 @@
   "symbol": "BabyDoge"
  },
  {
+  "address": "0:b90f7e2c42a25e7ab83e5ccdc9dfd8aa6aed87719a390036cb0e863337545cf6",
+  "name": "Burn Gram",
+  "symbol": "Burn"
+ },
+ {
   "address": "0:35e1e4ce64499e4b9690967cdee30587d924e60b4eb68a8c852881d61b08e2ff",
   "name": "C4",
   "symbol": "C4"
@@ -13715,6 +13834,11 @@
   "symbol": "GM"
  },
  {
+  "address": "0:3af4c86ef763810ad02c7b44896efdffdd5a62555d74779bcb530ff7060f0cca",
+  "name": "Gram Night ",
+  "symbol": "GN"
+ },
+ {
   "address": "0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3",
   "name": "GoMining",
   "symbol": "GOMINING"
@@ -13733,11 +13857,6 @@
   "address": "0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51",
   "name": "Goy Token",
   "symbol": "GOY"
- },
- {
-  "address": "0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195",
-  "name": "Official Gram mascot",
-  "symbol": "GRAMIO"
  },
  {
   "address": "0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b",
@@ -13760,6 +13879,11 @@
   "symbol": "GREM"
  },
  {
+  "address": "0:3a1b4b951110d94e42cd6b476b5819dad45e5349ba20cbb5171165391111f3e2",
+  "name": "Pepe Grinch",
+  "symbol": "GRINCH"
+ },
+ {
   "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
   "name": "Grm",
   "symbol": "GRM"
@@ -13768,6 +13892,11 @@
   "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
   "name": "Gold Standard",
   "symbol": "GSTD"
+ },
+ {
+  "address": "0:3a0a315a72516c0eee99e2038867ff5037f750d782101300321cbdb6edf0e321",
+  "name": "GRAM THEFT AUTO",
+  "symbol": "GTA"
  },
  {
   "address": "0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1",
@@ -14253,6 +14382,11 @@
   "address": "0:998869ded68882bc80918543598aaca84d6ae8b7e691d8f1472bc401ff31096d",
   "name": "xn-- -8sbyftbi4do",
   "symbol": "OCHKO"
+ },
+ {
+  "address": "0:3aa16e4459f918f97537322fe2060f6634c33b4220cf46b737949b5ba186fcc9",
+  "name": "Original Gramster",
+  "symbol": "OG"
  },
  {
   "address": "0:18c5a0a90151e3a4259a66dac295790e9bd62aec054fd94440711056e068edc4",
@@ -18518,13 +18652,6 @@
   "image": "https://nft.fragment.com/collection/spyagaric.webp",
   "name": "Spy Agaric Shard",
   "symbol": "wAGARIC"
- },
- {
-  "address": "0:71bfaebe5f2d27d004cad9324f140cf4762adcf907cca0251b922943272ccd5a",
-  "description": "A piece of Loot Bag",
-  "image": "https://nft.fragment.com/collection/lootbag.webp",
-  "name": "Loot Bag Shard",
-  "symbol": "wBAG"
  },
  {
   "address": "0:bb37e63db4e1bfe55ea1ec1e30e762cde58f362a6c7741b9f77c06b5a6c20d2c",
