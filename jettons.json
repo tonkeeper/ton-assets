@@ -13900,6 +13900,11 @@
   "symbol": "GRM"
  },
  {
+  "address": "0:3aa19a9f9e0a636d79fb4897418c8604a0ec6dfcdbac3f850b602540b90c86eb",
+  "name": "GRAMX6900",
+  "symbol": "GRX6900"
+ },
+ {
   "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
   "name": "Gold Standard",
   "symbol": "GSTD"
@@ -14238,6 +14243,11 @@
   "address": "0:3afca4dc64e4487af778cf0f462469a96962abcdd8b1a1df09d5f59f9b8afb63",
   "name": "Make Gram Great Again",
   "symbol": "MGGA"
+ },
+ {
+  "address": "0:2dbc9382d8ee1e1d6799a59753a8a281ce5df37da9387cc4ef3e1c38389f681b",
+  "name": "Make GIFTS Great Again",
+  "symbol": "MGIFTSGA"
  },
  {
   "address": "0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5",
