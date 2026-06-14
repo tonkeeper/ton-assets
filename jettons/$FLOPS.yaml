@@ -1,0 +1,10 @@
+name: Flopa Memecoin
+symbol: FLOPS
+address: EQARrIrQxUhM4QI5VpwTsgRhwppGVOCIp-krfN0BYFcwToqn
+decimals: 9
+image: https://raw.githubusercontent.com/RodikKrutoi/flopa_logo.png/7afab091932e703ff74525c248eced4c7ce0935d/flopa.png
+description: This is a meme coin dedicated to Flopa. The meme coin was created so that Flopa would have more money.
+websites:
+  - https://github.com/RodikKrutoi/flops.github.io
+social:
+  - https://t.me/FlopaMemecoin
