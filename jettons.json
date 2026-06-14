@@ -12945,18 +12945,18 @@
  },
  {
   "address": "0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87",
-  "description": "Hipo liquid staking protocol",
-  "image": "https://app.hipo.finance/hton.png",
-  "name": "Hipo Staked TON",
+  "description": "Hipo liquid staked GRAM",
+  "image": "https://hipo.finance/hgram.svg",
+  "name": "Hipo Staked GRAM",
   "social": [
    "https://t.me/HipoFinance",
    "https://x.com/hipofinance",
    "https://www.youtube.com/@HipoFinance",
    "https://medium.com/@hipofinance"
   ],
-  "symbol": "hTON",
+  "symbol": "hGRAM",
   "websites": [
-   "https://app.hipo.finance"
+   "https://hipo.finance"
   ]
  },
  {
