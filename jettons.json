@@ -14295,6 +14295,11 @@
   "symbol": "MEM"
  },
  {
+  "address": "0:2688056a3643686ecf025dbb77f0994d1655c9d1eced465b0fdd9dbb605d8332",
+  "name": "First meme Gram",
+  "symbol": "MEMEGRAM"
+ },
+ {
   "address": "0:5a2bd11db838ebd161c407a349dc908e6ff2139d7d3d7a4e584f5fbbdeda1a81",
   "name": "Memelandia Ton",
   "symbol": "MEMELAND"
@@ -15598,6 +15603,11 @@
   "address": "0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3",
   "name": "X Empire",
   "symbol": "X"
+ },
+ {
+  "address": "0:3aea67ab8b56f0fe81490955b85ea6c35da9d6b8f7063fe50ae2c2062fdbd60a",
+  "name": "Gold Gram",
+  "symbol": "XAUG"
  },
  {
   "address": "0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602",
