@@ -10195,6 +10195,19 @@
   ]
  },
  {
+  "address": "0:ed140aeccf74a27911457b191e1e7577743b646e9d933b5c0f45678ae6644005",
+  "description": "TMK is TONMarket.io\u2019s utility token for rewards, participation, and future staking.",
+  "image": "https://tonmarket.io/logo.png",
+  "name": "TONMarket Token",
+  "social": [
+   "https://t.me/TonMarket_Prediction"
+  ],
+  "symbol": "TMK",
+  "websites": [
+   "https://tonmarket.io/"
+  ]
+ },
+ {
   "address": "0:7656e6eed1fc860af85433cf24c5f315149f0dafd42ea87e34986e2c29b860fd",
   "description": "Talents freelance platform bounty distribution token",
   "image": "https://cdn.talents.wtf/jetton/logo.jpg",
