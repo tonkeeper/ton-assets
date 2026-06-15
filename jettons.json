@@ -505,6 +505,19 @@
   "symbol": "$TDINO"
  },
  {
+  "address": "0:0ac742b143c47b6c55fc12d94c3200c9d08ca36cf2523a1fb1959707792ac232",
+  "description": "Born from Durov's middle finger to Mail-ru",
+  "image": "https://raw.githubusercontent.com/trainingdev1101/Telegramka/main/tre.png",
+  "name": "Telegramka",
+  "social": [
+   "https://t.me/cto_telegramka"
+  ],
+  "symbol": "TGKA",
+  "websites": [
+   "https://telegramkacto.com/"
+  ]
+ },
+ {
   "address": "0:7dac523dd9e6256a40c7ce09fd6d8c21ab019345e8d667eefc403c7901266593",
   "description": "The official mascot of the TON blockchain",
   "image": "https://raw.githubusercontent.com/anonbuilder1337/image/main/Tony256x256.png",
@@ -13108,11 +13121,6 @@
   "address": "0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4",
   "name": "The Resistance Cat",
   "symbol": "$RECA"
- },
- {
-  "address": "0:0ac742b143c47b6c55fc12d94c3200c9d08ca36cf2523a1fb1959707792ac232",
-  "name": "Telegramka",
-  "symbol": "$TGKA"
  },
  {
   "address": "0:a5edfab38859a75ad04d6955305e4b772d9686ecc194e56648960687b20413e9",
