@@ -4580,6 +4580,17 @@
   ]
  },
  {
+  "address": "0:4f8c6d067415f560f02d4ed6af960159584846f3e8bf0204dc8448630994067e",
+  "description": "Feisty Fox ($FES) is the first fox on Telegram, powered by a Telegram sticker ranked",
+  "image": "https://i.postimg.cc/mkJZWM4f/logo.png",
+  "name": "Feisty Fox",
+  "social": [
+   "https://t.me/Feisty_Fox_CTO",
+   "https://x.com/FeistyFox_ton"
+  ],
+  "symbol": "FES"
+ },
+ {
   "address": "0:f0c66c57973c342572be1953258862159451aee143ce9e5b661be5305e84cdd2",
   "description": "G3 (Triple G Token) is a utility token used across Game-Fi with over 10 million users and in the gasless FGWallet. It powers in-game rewards, NFT utilities, staking, and airdrops.",
   "image": "https://blockchain.fg-wallet.com/g3_token_image.png",
