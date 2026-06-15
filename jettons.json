@@ -151,6 +151,13 @@
   ]
  },
  {
+  "address": "0:7f8c005687e4a75c69b3139c42cf244b0c60a80951ac8d04f3c4124b5ec4eaf0",
+  "description": "Dismantling Dictatorship narrative dedicated to Pavel and Freedom",
+  "image": "https://i.ibb.co/Y4qtRHhs/DD1.jpg",
+  "name": "Dismantling Dictatorship",
+  "symbol": "$DD"
+ },
+ {
   "address": "0:c7bfaa5cb0aff5cd6b893085a207073325728f5ec875ee3d6508fb6ddeb5f2c4",
   "decimals": 9,
   "description": "Official deathdedesign coin",
