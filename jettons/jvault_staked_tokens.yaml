@@ -1701,4 +1701,17 @@
     - "https://t.me/jvault"
     - "https://t.me/jvault_ru"
     - "https://t.me/jvault_notifications"
+- name: REST staked on JVault.xyz
+  symbol: st-REST-7D
+  description: "These jettons confirm ownership of Redo Strategy staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/REST"
+  address: EQAFpCgudb5Zhc3qrKJdXcc4o2S26VNbHCi-fxMLUWbpBTgm
+  image: "https://jvault.xyz/media/staking_v2/images/mainnet_REST.webp"
+  websites:
+    - "https://jvault.xyz"
+    - "https://t.me/jvaultbot"
+    - "https://t.me/the_redo_strategy"
+  social:
+    - "https://t.me/jvault"
+    - "https://t.me/jvault_ru"
+    - "https://t.me/jvault_notifications"
 
