@@ -14295,6 +14295,11 @@
   "symbol": "MEM"
  },
  {
+  "address": "0:2688056a3643686ecf025dbb77f0994d1655c9d1eced465b0fdd9dbb605d8332",
+  "name": "First meme Gram",
+  "symbol": "MEMEGRAM"
+ },
+ {
   "address": "0:5a2bd11db838ebd161c407a349dc908e6ff2139d7d3d7a4e584f5fbbdeda1a81",
   "name": "Memelandia Ton",
   "symbol": "MEMELAND"
