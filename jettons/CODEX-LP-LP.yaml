@@ -1,0 +1,21 @@
+name: CODEX-LP LP
+symbol: CODEX-LP LP
+description: >
+  Liquidity pool token for CODEX ARCANUM and the DeDust CODEX/TON LP on STON.fi DEX.
+  This token represents shares in the CODEX/LP pool, enabling multi-layered liquidity provisioning
+  across the Codex Arcanum ecosystem.
+
+address: "0:9e88177901c4571188b9cadc257a07bcba95a5daaeb3a0668e46961f6c8424af"
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:9e88177901c4571188b9cadc257a07bcba95a5daaeb3a0668e46961f6c8424af.png"
+
+websites:
+  - "https://app.ston.fi/pools/EQCeiBd5AcRXEYi5ytwlege8upWl2q6zoGaORpYfbIQkr8rV"
+  - "https://codex.pm"
+
+social:
+  - "https://twitter.com/codexarcanum"
+  - "https://t.me/CodexSouL"
+  - "https://t.me/CodexPulse"
+  - "https://t.me/CodexGateBot"
+  - "https://t.me/CodexGateBot/codexArcanum"

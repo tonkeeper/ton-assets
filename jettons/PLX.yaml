@@ -1,0 +1,11 @@
+name: Phalanx
+description: "Utility token for the Phalanx Foundation ecosystem on TON — audited Jetton minter, team vesting, and Tokenization Toolkit payment rail."
+image: "https://plx.foundation/plx-logo.png"
+address: EQCbaUJqiRIuw5U-A_tUYTK4mdH0L37oFMvxeMEDGE5nVfLS
+symbol: PLX
+websites:
+  - "https://plx.foundation"
+  - "https://plx.foundation/plx-token"
+social:
+  - "https://t.me/phalanxfoundationbot"
+  - "https://github.com/phalanx-foundation/plx-token"

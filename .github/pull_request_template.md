@@ -1,10 +1,7 @@
-Please make sure you change the original .yaml fields in the accounts/, Collections/ or jettons/ directories and leave the auto-generated .json files in the repository root alone. Also please make sure that you do not use ton.api links in your pull request.
+Please make sure you change the original .yaml fields in the accounts/, collections/ or jettons/ directories and leave the auto-generated .json files in the repository root alone. Also please make sure that you do not use ton.api links in your pull request.
 Example pull request:
 
 ```yaml
-name: the name of your token
-description: description of your token
-image: "link to your token logo" !!! (don't use ton.api)!!!
 address: Address of your token 
 symbol: Symbol of your token
 websites:
@@ -19,9 +16,6 @@ social:
 Пример пул реквеста:
 
 ```yaml
-name: имя вашего токена
-description: описание вашего токена
-image: "ссылка на лого вашего токена" !!! (не используйте ton.api)!!!
 address: Адрес вашего токена 
 symbol: Сивол вашего токена
 websites:

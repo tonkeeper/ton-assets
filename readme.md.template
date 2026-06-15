@@ -18,14 +18,20 @@ Name           | Address
 %s
 
 
-## Jettons
-
-Name           | Address
----------------|-----------
-%s
-
-
 ## Structure
 
 Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
 `accounts.json`, `jettons.json`, `collections.json` and `README.md` contains automatically generated data. Please don't commit directly to this files.
+
+## How to create a Pull Request? 
+
+* Click the **Fork** button in the top right corner to create a copy of the repository in your account
+* Clone your fork using the Terminal (or Git Bash): git clone `https://github.com/your-username/ton-assets.git` (replace your-username with your GitHub username);
+* Edit the .yaml files in the `accounts/`, `collections/`, or `jettons/` directories, being careful not to change any `.json` files;
+* Go to your forked repository on GitHub, click the **'New Pull Request'** button, and follow the example provided in the repository.  
+
+Before submitting, check that your PR has no duplicate or offensive content.
+
+In a pull request, the *image link should be a direct link to the image file*, not to a webpage. Ensure the link ends with an image extension (e.g., .jpg, .png). Please ***avoid using ton.api*** in the image link.
+
+Please note, the *verification process doesn’t require payment*. Your request will be reviewed by the team in the order. Any additional questions and the decision regarding your request will be provided directly in your PR.

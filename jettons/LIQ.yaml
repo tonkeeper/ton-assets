@@ -1,0 +1,7 @@
+name: Liquidator
+description: "That is a liquidator - a test token for DMT ecosystem. It’s going to test a unique mechanic: 2% of each transaction will be collected as a tax, that will be sold and deposited to liquidity. The liquidity of the project should always grow. Please keep in mind: this token might be an imposter, so don’t buy it unless you’ve seen a post with its contract in @dmtholders"
+image: https://i.postimg.cc/yNyMr2YS/Frame-7.png
+address: 0:90f05482a0e9c221a797dbd60518e8067519fba7d035b92f208958d9290c910f
+symbol: LIQ
+social:
+  - https://t.me/dmtholders

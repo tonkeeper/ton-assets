@@ -1,0 +1,11 @@
+name: ARTSIV-NOT LP
+symbol: "ARTSIV-NOT LP"
+description: "Liquidity pool token for ArtsivTON and Notcoin on STON.fi DEX"
+address: 0:4e700020f22343547dd14215a59b10762dc78523ca743a540937fe61ad895575
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:4e700020f22343547dd14215a59b10762dc78523ca743a540937fe61ad895575.png"
+websites:
+  - "https://app.ston.fi/pools/EQBOcAAg8iNDVH3RQhWlmxB2LceFI8p0OlQJN_5hrYlVdYEt"
+social:
+  - "https://t.me/ArtsivTON"
+  - "https://t.me/artsivtonchat"
