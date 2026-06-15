@@ -412,6 +412,9 @@
 - address: 0:4be7c707fc67c785f768a4f7dc016e7d7499903e2646faaa2478998bdd5e1c8a
   name: Emoji Stake
   symbol: ES
+- address: 0:3ad10c34748a5da67916cfbc023de6fcf3b57447fee8ea5ef49096e52cae7784
+  name: ex TON
+  symbol: EXTON
 - address: 0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651
   name: Exit
   symbol: Exit
@@ -799,6 +802,9 @@
 - address: 0:d0da80734cee08b67f669aedd32f5bf94d488f4bd3ee008544ab5c4ca4b1de78
   name: Only one token
   symbol: NANO
+- address: 0:3a883211e3330f2c5d16a61882ddef5368cefb92665aaa0f623188a6ae9a1780
+  name: nano GRAM
+  symbol: NANOGRAM
 - address: 0:fdce0fe3301123402c0a967d7138ee2269fe85e2be11e9881758fa887962aaad
   name: Nuka Cola
   symbol: NC
