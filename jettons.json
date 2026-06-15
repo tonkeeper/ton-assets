@@ -4872,6 +4872,16 @@
   "symbol": "GOI"
  },
  {
+  "address": "0:bea20974a9de18fe4e580e13a5258fc77e9fe110694f641ee7fd3aca96265747",
+  "description": "Deployed from sTONks Deployed from sTONks",
+  "image": "https://img.stonks.cash/62997c40-2760-49c6-8710-80aadc089de9.png",
+  "name": "GRAM OF TON",
+  "social": [
+   "https://t.me/Gram_Of_Ton_Chat"
+  ],
+  "symbol": "GOT"
+ },
+ {
   "address": "0:3a745d7caf3954fc560cb37068b3e5f2f2c7d33cb9eaaf39a6525d9469cdadd5",
   "description": "GOYLAND is a meme park on TON, built for everyone tired of rugs, empty promises, and disposable scam tokens.",
   "image": "https://goyland.fun/icons/icon-512x512.png",
