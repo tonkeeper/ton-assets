@@ -7803,18 +7803,18 @@
   "symbol": "PLUSHUTYA"
  },
  {
-  "address": "0:c7cb0257c2007fb483d2d3e32ead8d45227aa623a3c3bb25f7d51038854fe52b",
-  "description": "The official token of Pleanet X telegram bot. Build your space empire, mine DNA, and earn crypto \ud83c\udf0d",
-  "image": "https://raw.githubusercontent.com/tulindulin/xplanet-logo/refs/heads/main/bg.png",
-  "name": "PLX",
+  "address": "0:9b69426a89122ec3953e03fb546132b899d1f42f7ee814cbf178c103184e6755",
+  "description": "Utility token for the Phalanx Foundation ecosystem on TON \u2014 audited Jetton minter, team vesting, and Tokenization Toolkit payment rail.",
+  "image": "https://plx.foundation/plx-logo.png",
+  "name": "Phalanx",
   "social": [
-   "https://t.me/PlanetX_channel",
-   "https://t.me/planetX_Ruchannel",
-   "https://x.com/PlanetX_channel"
+   "https://t.me/phalanxfoundationbot",
+   "https://github.com/phalanx-foundation/plx-token"
   ],
   "symbol": "PLX",
   "websites": [
-   "https://www.xplanet.online/"
+   "https://plx.foundation",
+   "https://plx.foundation/plx-token"
   ]
  },
  {
@@ -13243,6 +13243,11 @@
   "address": "0:7f2bd4cc4bd8e563515351f5b786904279da98b0c77e81c8db5a89307b7e6d09",
   "name": "BER THE BEAR",
   "symbol": "BER"
+ },
+ {
+  "address": "0:1bdbae5d7581d4a75096287d467aa7ee313f937c788bcededc490fdef5ddca79",
+  "name": "BabyGram ",
+  "symbol": "BGRAM"
  },
  {
   "address": "0:3a2b624e7feb19e221c9a74c1bcfc7d5f3116e09cb3752ca06730ef6143a4b6e",
