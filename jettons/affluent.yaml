@@ -66,3 +66,6 @@
 - name: Sentora Vault in Affluent
   address: EQBjpfG5fzFESWJb6K5EdjvY_yhFa6fxhcwkVff0jlK1za82
   symbol: affSENTORA
+- name: Sentora Vault for Wallet
+  address: EQD5O4qzJmVwuKDIfDcuM6HI7fUf1AOolgF2oiPGyqr_WZsp
+  symbol: affSENTORAent
