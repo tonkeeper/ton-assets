@@ -7743,6 +7743,18 @@
   ]
  },
  {
+  "address": "0:e9b761e3f30a4c6e1dfdfd76a316a5907fa1e113759752552c054890ede9bde3",
+  "description": "Official token of the Pirate Network Telegram Mini App, featuring a sustainable 3% weekly vesting unlock system for app withdrawals.",
+  "image": "https://raw.githubusercontent.com/trytryx/piratenetwork/refs/heads/main/IMG_20260315_224736_copy_256x256.png",
+  "name": "Pirate Network",
+  "social": [
+   "https://t.me/Piratenetworkappbot",
+   "https://x.com/PirateNetworkTg",
+   "https://youtube.com/@piratenetworkx"
+  ],
+  "symbol": "PIRATE"
+ },
+ {
   "address": "0:035618892a6b6118c2057765a4e8709086c754cfac2ed5de68a47442cd10b76e",
   "description": "Built on TON, PLAN grew around a simple idea even the smallest plankton becomes strong when moving with purpose. Stay sharp, stay early, follow the plan.",
   "image": "https://i.ibb.co/N60r136C/photo.jpg",
