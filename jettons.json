@@ -4784,6 +4784,21 @@
   ]
  },
  {
+  "address": "0:3af4c86ef763810ad02c7b44896efdffdd5a62555d74779bcb530ff7060f0cca",
+  "decimals": 9,
+  "description": "GN after GM | Deployed from topblast.lol",
+  "image": "https://i.ibb.co/Sw1ZGsCm/image.png",
+  "name": "Gram Night",
+  "social": [
+   "https://x.com/gngramnight",
+   "https://t.me/GNGRAMCTO"
+  ],
+  "symbol": "GN",
+  "websites": [
+   "https://www.gramnight.fun"
+  ]
+ },
+ {
   "address": "0:b609442a309b9590efe2a1713d32f5bd724341bb1a8507b5dc7bb060c059d66a",
   "description": "Baa-lieve the hype!",
   "image": "https://i.imghippo.com/files/EBdZ3382ac.png",
@@ -13870,11 +13885,6 @@
   "address": "0:3af574125db07acd7bf7ea64c56a26b30814ae2e3ff34fab47e389baa21be31a",
   "name": "Gram Morning",
   "symbol": "GM"
- },
- {
-  "address": "0:3af4c86ef763810ad02c7b44896efdffdd5a62555d74779bcb530ff7060f0cca",
-  "name": "Gram Night ",
-  "symbol": "GN"
  },
  {
   "address": "0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3",
