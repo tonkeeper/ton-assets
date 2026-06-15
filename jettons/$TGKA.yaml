@@ -1,7 +1,9 @@
 name: Telegramka
-description:Born from Durov's middle finger to Mail-ru
-image: "https://cdn.dexscreener.com/cms/images/0kNSusSXkEkhZo5V?width=64&height=64&fit=crop&quality=95&format=auto"
-address: EQC2qeJ7s0EbbLDjHlYGbwy4BiWnKOjvtioqJiLlOXpVWt1A
-symbol: $TGKA
-websites:"https://telegramkacto.com/"
-social:"https://t.me/cto_telegramka"
+symbol: TGKA
+address: EQAKx0KxQ8R7bFX8EtlMMgDJ0IyjbPJSOh-xlZcHeSrCMqsA
+description: Born from Durov's middle finger to Mail-ru
+image: https://raw.githubusercontent.com/trainingdev1101/Telegramka/main/tre.png
+websites:
+  - https://telegramkacto.com/
+social:
+  - https://t.me/cto_telegramka
