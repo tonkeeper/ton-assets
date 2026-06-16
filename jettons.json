@@ -57,36 +57,6 @@
   ]
  },
  {
-  "address": "0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884",
-  "description": "This coin was created to show how beautiful and amazing cats are and was launched on \u26fd\ufe0f GasPump",
-  "image": "https://live.staticflickr.com/65535/54121633812_521c2d3163.jpg",
-  "name": "Clown cat coin",
-  "social": [
-   "https://t.me/ClownCatCoinn",
-   "https://x.com/clowncatcoinn"
-  ],
-  "symbol": "CCAT",
-  "websites": [
-   "https://clowncatcoin.carrd.co"
-  ]
- },
- {
-  "address": "0:f86c8f86579c997393c5d98c791d314995570fd7ce35947afc6dadf9ddca90f5",
-  "description": "Cash money for the 21st century. A new frontier in the evolution of money. A user can turn stablecoins into protected, connected, physical cash notes using a personal mobile ATM device.",
-  "name": "Cryptocash",
-  "social": [
-   "https://t.me/cryptocash_atm",
-   "https://x.com/cryptocash_org",
-   "https://www.instagram.com/cryptocash_official",
-   "http://www.youtube.com/@Cryptocash_Official"
-  ],
-  "symbol": "CCH",
-  "websites": [
-   "https://cryptocash.org",
-   "https://stablenotes.org"
-  ]
- },
- {
   "address": "0:b0bd52a362f5da34990f08af1cf34081775c73c76af58703a12876c816749a4f",
   "description": "From legendary artist @egorzhgun comes a legendary pack with insane lore Chirp-Chirp(He also made UTYA, Baby Yoda and Virus)",
   "image": "https://iili.io/JgmOO91.md.png",
@@ -96,18 +66,6 @@
    "https://x.com/ChkChrk_TON"
   ],
   "symbol": "$CHYK"
- },
- {
-  "address": "0:37cec39d197dc28f974eb4e58a0bf22e81f1fe9029d35248dbc29e04680aac3a",
-  "description": "COCOZ is a prediction-based GameFi token on the TON blockchain, exclusively launched on Telegram as the Next-Gen P2E token, empowering players to elevate their TON and Telegram experience through token acquisition and use.",
-  "image": "https://firebasestorage.googleapis.com/v0/b/yoshicoco-dev.firebasestorage.app/o/cocoz%2FCOCOz_ICON.png?alt=media",
-  "name": "COCOZ Token",
-  "social": [
-   "https://t.me/COCOz_Announcement",
-   "https://t.me/COCOz_Island",
-   "https://x.com/COCOZ_OFFICIAL"
-  ],
-  "symbol": "$COCOZ"
  },
  {
   "address": "0:8246aa420f4f4d0da46249cb3cbd03c04db01450aedb7d448c774903ebbbe0e5",
@@ -128,21 +86,6 @@
   "image": "https://i.ibb.co/Y4qtRHhs/DD1.jpg",
   "name": "Dismantling Dictatorship",
   "symbol": "$DD"
- },
- {
-  "address": "0:c7bfaa5cb0aff5cd6b893085a207073325728f5ec875ee3d6508fb6ddeb5f2c4",
-  "decimals": 9,
-  "description": "Official deathdedesign coin",
-  "image": "https://i.ibb.co/5Txn7R8/Logo.png",
-  "name": "Deathdedecoin",
-  "social": [
-   "https://t.me/deathdeart",
-   "https://x.com/Deathcoin666"
-  ],
-  "symbol": "DEATHCOIN",
-  "websites": [
-   "http://deathcoin.vip"
-  ]
  },
  {
   "address": "0:28351f309d70b8ac8300085ee83a41fc85a92a0e53a3c3c498d35d54b6f031f1",
@@ -343,19 +286,6 @@
   "symbol": "LABR",
   "websites": [
    "https://www.labr.meme"
-  ]
- },
- {
-  "address": "0:bfa44280398b3b226a783d068dd12f45b1633a945aee2832e7f3d90a095f0116",
-  "description": "Lizzard Kombat is a new meme coin that attracts the attention of investors and enthusiasts due to its uniqueness and growth potential. It is based on the Internet meme \"LIZZARD coin\", which has become a symbol of humor, creativity and positive attitude in the online community.",
-  "image": "https://avatars.mds.yandex.net/get-shedevrum/14441318/img_12a7d27daf6f11ef98a6fa9c70a2dfc2/orig",
-  "name": "LizzardKombat",
-  "social": [
-   "https://t.me/lzrdkombat"
-  ],
-  "symbol": "LIZZARD",
-  "websites": [
-   "http://lizzardkombatannouncement.tilda.ws/"
   ]
  },
  {
@@ -13485,6 +13415,11 @@
  {
   "address": "0:697c3e6ae1a1601d4d7b2af34f37f3f440ecb8d4c3888f64f0197d1b6c0cf8e0",
   "name": "Communist Cat",
+  "symbol": "CCAT"
+ },
+ {
+  "address": "0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884",
+  "name": "Clown cat coin",
   "symbol": "CCAT"
  },
  {
