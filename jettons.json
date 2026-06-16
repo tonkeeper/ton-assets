@@ -3168,6 +3168,20 @@
   ]
  },
  {
+  "address": "0:80bca3b9eeb9c3a4a662804c36238ac7ee04d8f18d4430eb90c3924597319749",
+  "description": "DoodleTON is the utility token of the DoodleTON Telegram game.",
+  "name": "DoodleTON",
+  "social": [
+   "https://t.me/doodleTONgame",
+   "https://t.me/doodleTONgroup",
+   "https://x.com/DoodleTON_"
+  ],
+  "symbol": "DTON",
+  "websites": [
+   "https://doodlton.com"
+  ]
+ },
+ {
   "address": "0:53732b598dd67014b8fa4ceec2786be7e1a326a97bdb5fe9ce0e20296ddd35d6",
   "image": "https://github.com/DuckMizel/DuckCoin/blob/main/duck.png?raw=true",
   "name": "Duck Coin",
