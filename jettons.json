@@ -18044,6 +18044,23 @@
   ]
  },
  {
+  "address": "0:05a4282e75be5985cdeaaca25d5dc738a364b6e9535b1c28be7f130b5166e905",
+  "description": "These jettons confirm ownership of Redo Strategy staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/REST",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_REST.webp",
+  "name": "REST staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-REST-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/the_redo_strategy"
+  ]
+ },
+ {
   "address": "0:d72c1cddb566f8ef30b2ffe4e75404836bb93100feff03a1bf506b7b95011b18",
   "decimals": 9,
   "description": "Kasongo Coin is the ultimate underdog meme token, inspired by a fearless warthog who defies the odds and takes on the jungle. Kasongo is for the people.",
