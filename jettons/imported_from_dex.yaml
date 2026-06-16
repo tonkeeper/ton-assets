@@ -115,6 +115,9 @@
 - address: 0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d
   name: HAMSTERBATYA
   symbol: BATYA
+- address: 0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc
+  name: Baby Lady
+  symbol: BBLady
 - address: 0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620
   name: Baby Notcoin
   symbol: BBNOT

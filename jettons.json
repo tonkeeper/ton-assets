@@ -574,19 +574,6 @@
   ]
  },
  {
-  "address": "0:d91c735a7bb5e47f727b7613e69ca22fdbb5b9dd3446ea8344af74dd9b524630",
-  "description": "AI Image Generator (AIIG) Token is a digital asset that unlocks a world of boundless creativity through neural networks. The AIIG token is an integral part of the AI Image Generator ecosystem, where artificial intelligence becomes your guide to creating unique images, photos, and videos.",
-  "image": "https://aiimagecreator.ru/images/ai_logo_big.png",
-  "name": "AI Image Generator",
-  "social": [
-   "https://t.me/AIImageCreator_Bot"
-  ],
-  "symbol": "AIIG",
-  "websites": [
-   "https://t.me/AIImageCreator_Bot/aiig"
-  ]
- },
- {
   "address": "0:0040c1f712a73cc96aa6ac9e4ec107c42470c7153a519620cbea7e195172334e",
   "description": "$AIR Token serve as a gateway to airdrops on TON.",
   "image": "https://coffee-genetic-toucan-373.mypinata.cloud/ipfs/QmVtFTgeEAdZJCD9HQJQgHmkFdNrTa3wZBC3zrNAwadh7o",
@@ -629,15 +616,6 @@
   "websites": [
    "https://akorn.akatoken.com"
   ]
- },
- {
-  "address": "0:fc7d84a98a50b8a321a007e47bf276d789407f2a632ed418910024086ca276b9",
-  "description": "Alice meme token created for pet owners and is a prototype of a real cat, designed to protect and love pets",
-  "name": "Alice Token",
-  "social": [
-   "https://t.me/AliceTonToken"
-  ],
-  "symbol": "ALICE"
  },
  {
   "address": "0:f8e102fda1ac0ba7786a2cd3117781ef0cafa2e26b66e99070d8227b40eb6f48",
@@ -803,20 +781,6 @@
   "address": "0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a",
   "name": "AIYA PowerCell",
   "symbol": "APC"
- },
- {
-  "address": "0:b574dfb149732f53cec70d866de50a1a113f1e74926f87743699fa59d6ad161b",
-  "description": "$APIS A revolutionary token designed to fuel the APIS ecosystem. Use it to unlock exclusive game features, earn rewards, and dive deeper into the world of cyber bees! \ud83d\ude80\ud83d\udc8e",
-  "image": "https://cdn.apisgameonline.online/images/token/token.jpeg",
-  "name": "APIS",
-  "social": [
-   "https://t.me/apisgame_community",
-   "https://t.me/apis_io"
-  ],
-  "symbol": "APIS",
-  "websites": [
-   "https://apisgame.online"
-  ]
  },
  {
   "address": "0:365c15bb3006d28eae67eed5b6fd2465af45eac09654d0beaeea62c530a742e5",
@@ -1054,20 +1018,6 @@
   "symbol": "AVTR"
  },
  {
-  "address": "0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07",
-  "description": "We are a big community token AXM. We have Axiome Wallet for staking (20% rewards per month), AxiomePay (VISA, MasterCard, UnionPay), Testnet DEX NEXDEX will be in January.",
-  "image": "https://storage.dyor.io/jettons/EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4/image.jpeg",
-  "name": "AXMTON",
-  "social": [
-   "https://t.me/axiometon",
-   "https://t.me/+cTzKAaTWTqk1NWIy"
-  ],
-  "symbol": "AXMTON",
-  "websites": [
-   "https://axmton.ru/"
-  ]
- },
- {
   "address": "0:730d8404ea7065c083201119706cf9336fd7c15d73decb58248f13c2e8b2920c",
   "description": "We are creating the future of the crypto industry, where truth, justice, and Agent Perry Platypus prevail. In our mission to combat FPI fraud by Dr. Doofenshmirtz, we use only proven blockchain technologies and unconventional approaches.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbzdyqe6nblwimgerlwbpkzb9fbxxpey1gkjxpc6lksditu.png?size=lg&key=d164be",
@@ -1296,20 +1246,6 @@
   ]
  },
  {
-  "address": "0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc",
-  "description": "One magical night at a concert, MAN was captivated by a girl\u2019s enchanting gaze. Drawn together, they shared a dance and formed a deep, intimate bond under the stars. From their passion, Baby Lady was born\u2014a token blending the elegance of Lady Token and the strength of Gentlemen Token.",
-  "image": "https://pbs.twimg.com/media/GQHq5sobcAAjYs_?format=jpg&name=360x360",
-  "name": "Baby Lady",
-  "social": [
-   "https://t.me/Babyladyonton",
-   " https://x.com/BabyLadyTon"
-  ],
-  "symbol": "BBLady",
-  "websites": [
-   "http://babyladyton.xyz"
-  ]
- },
- {
   "address": "0:f6111725910e67ea5bf72ad85d6eadc268e3929a563bcd07306066bdad320aec",
   "description": "BBQ COIN",
   "image": "https://bbqcoin.pages.dev/bbqcoin.png",
@@ -1333,34 +1269,6 @@
   "symbol": "BBTC",
   "websites": [
    "https://bbtc.gg"
-  ]
- },
- {
-  "address": "0:f435349c2e296eb3a36efcd54167a4749ec40b7347d41674245222bd75699786",
-  "description": "BlackCat is a farm type game where users earn rewards.",
-  "image": "https://i.imgur.com/QsTZCrr.jpeg",
-  "name": "BlackCat",
-  "social": [
-   "https://t.me/BlckCat_Official",
-   "https://x.com/offcl_blckcat"
-  ],
-  "symbol": "BCAT",
-  "websites": [
-   "https://www.blackcatmeme.com/"
-  ]
- },
- {
-  "address": "0:61db351d8616498acf0f6ff627faf850a0d92152eb3783b1bf7d146b52b392c3",
-  "description": "BlackCat is a farm type game where users earn $BCAT",
-  "image": "https://i.imgur.com/QsTZCrr.jpeg",
-  "name": "BlackCat",
-  "social": [
-   "https://t.me/BlckCat_Official",
-   "https://x.com/offcl_blckcat"
-  ],
-  "symbol": "BCAT",
-  "websites": [
-   "https://www.blackcatmeme.com/"
   ]
  },
  {
@@ -1453,15 +1361,6 @@
   "symbol": "BIKBS100"
  },
  {
-  "address": "0:aeda1bf9c5fe358ac5b95045c4c10909056e4790dedaae3082c8f3e9a2fca4cf",
-  "image": "https://crypto-billions.github.io/resources/icon.png",
-  "name": "BITON",
-  "symbol": "BITON",
-  "websites": [
-   "https://www.cryptobillions.org"
-  ]
- },
- {
   "address": "0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e",
   "decimals": 9,
   "description": "PIXEL [BITPIX] is a token based on the decentralized and high-speed blockchain technologies of The Open Network.",
@@ -1471,19 +1370,6 @@
    "http://t.me/TheOpenPixel"
   ],
   "symbol": "BITPIX"
- },
- {
-  "address": "0:4eca0313df62fa5bb6a4aec5f6b5991be297d7bb08eb91ace81014633c8496f3",
-  "description": "Bobr (BKRV) is a token that brings together anonymity, entertainment and freedom in the digital world. Join Bobr \u2014 stay anonymous, play, and earn without limits!",
-  "image": "https://bkrv.store/img/bober.jpg",
-  "name": "Bobr",
-  "social": [
-   "https://t.me/BKRVChat"
-  ],
-  "symbol": "BKRV",
-  "websites": [
-   "https://bkrv.store/"
-  ]
  },
  {
   "address": "0:ffb45cfd25045564d320cb76f3be7cde8bd75ea3da9ce4d32dba61b8fecc75cd",
@@ -1541,40 +1427,6 @@
    "https://t.me/blkswn_ton"
   ],
   "symbol": "BLKSWN"
- },
- {
-  "address": "0:616145dd7608f4b5e0f9be07779474f391d79263fc5e9ce331659e23e0e52a7b",
-  "description": "Blockchemy is a blockchain-powered Telegram mini-game that merges alchemy-themed crafting with a player-driven economy, centered around BLOMY, its main utility token. Players can explore hidden storylines, craft unique items, and trade collectible cards in a decentralized marketplace. By earning and utilizing BLOMY, players have a real opportunity to profit from their in-game activities, turning gameplay into a rewarding experience where creativity and strategy translate into tangible value.",
-  "image": "https://blockchemy.io/logo.png",
-  "name": "Blockchemy",
-  "social": [
-   "https://x.com/blockchemy",
-   "https://t.me/blockchemy"
-  ],
-  "symbol": "BLOMY",
-  "websites": [
-   "https://blockchemy.io"
-  ]
- },
- {
-  "address": "0:37d2215ef1b742ed92b0f7891ecbc500db501ecb81435714364d60dc4136762e",
-  "description": "BLOCKTUBE.TV COMMUNITY JETTON - %2 TRANSFER TAXATION APPLIES",
-  "image": "https://blocktube.tv/wp-content/uploads/2024/11/blt_new_512px.png",
-  "name": "BLT",
-  "social": [
-   "https://www.youtube.com/@blocktube_tv",
-   "https://x.com/blocktube_tv",
-   "https://www.facebook.com/blocktubetv",
-   "https://www.linkedin.com/company/blocktubetv/",
-   "https://www.instagram.com/blocktubetv/",
-   "https://www.tiktok.com/@blocktubetv",
-   "https://t.me/blocktube_tv",
-   "https://discord.gg/blocktubetv"
-  ],
-  "symbol": "BLT",
-  "websites": [
-   "https://blocktube.tv"
-  ]
  },
  {
   "address": "0:bffed90f833e689503d335277ff8d8bb8b00dfacd913fddae831d65b63cd9e51",
@@ -1689,18 +1541,6 @@
   "websites": [
    "https://bombie.xyz/"
   ]
- },
- {
-  "address": "0:5dc97897365254c1de836f99d136f95a24f058c5739c245e8a478286e4341943",
-  "description": "Booli is a promising NFT project working on the $BOOLI token.",
-  "image": "https://i.ibb.co/mbYCFtt/BOOLI-2.png",
-  "name": "Booli",
-  "social": [
-   "https://t.me/nftbooli",
-   "https://t.me/boolichat",
-   "https://x.com/NFT_BULL_2024"
-  ],
-  "symbol": "BOOLI"
  },
  {
   "address": "0:67969215cdeb9f068e78d5625ade32301f74d1f67a4c725efeb8ef7025df89f4",
@@ -1937,18 +1777,6 @@
    "https://t.me/GalaxyCard_Bot"
   ],
   "symbol": "BC"
- },
- {
-  "address": "0:5b3de1fb4fb3bbbe99b8c6d403a9c03efad1b838bdc34ec049c8220980eef8f2",
-  "description": "BORKA Meme Coin is a community-driven meme token built to reward and celebrate the vibrant TON ecosystem.Borka mission is to support TON enthusiasts, KOLs, digital artists, and loyal community members. Join the fast-growing BORKA family and be part of a movement where community is the utility. Together, we\u2019re shaping the future of meme culture on TON",
-  "image": "https://borka.pw/wp-content/uploads/2024/11/Borka-logo.png",
-  "name": "Ton Borka",
-  "social": [
-   "https://twitter.com/tonborka",
-   "https://t.me/ton_borka",
-   "https://github.com/tonborka"
-  ],
-  "symbol": "Borka"
  },
  {
   "address": "0:ceb9b471002a19de5f15e2e9a2c49ee2e2c356ea3e57af25f951ba78b8bd3062",
@@ -13211,6 +13039,11 @@
   "address": "0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d",
   "name": "HAMSTERBATYA",
   "symbol": "BATYA"
+ },
+ {
+  "address": "0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc",
+  "name": "Baby Lady",
+  "symbol": "BBLady"
  },
  {
   "address": "0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620",
