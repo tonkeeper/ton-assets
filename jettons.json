@@ -12884,20 +12884,6 @@
   "symbol": "CUBE"
  },
  {
-  "address": "0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad",
-  "description": "dTON Technology token",
-  "image": "https://dton.io/media/dton_logo.png",
-  "name": "dTON",
-  "social": [
-   "https://t.me/dtonforum",
-   "https://twitter.com/disintar_io"
-  ],
-  "symbol": "dTON",
-  "websites": [
-   "https://dton.io/"
-  ]
- },
- {
   "address": "0:25161fbf6b551b08fcf5d7df85cd34cbc34450bda0d3081538b0269f87f9fae1",
   "decimals": 9,
   "description": "Utility token used for operations within the ECU Protocol smart contracts on the TON network.",
