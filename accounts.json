@@ -204,6 +204,10 @@
   "name": "Tonkeeper Pro Subscriptions"
  },
  {
+  "address": "0:f6ff877dd4ce1355b101572045f09d54c29309737eb52ca542cfa6c195f7cc5b",
+  "name": "Stakee"
+ },
+ {
   "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
   "name": "Getgems Marketplace"
  },
@@ -246,6 +250,10 @@
  {
   "address": "0:98080fb8ee500ba6cf74c6814520f5739ceb221e5595285ddc1030a12a03f725",
   "name": "Marketapp"
+ },
+ {
+  "address": "0:a9c1ad2fea5bc6034d6e2867ec5b508ad4d779f5a3bfc551461873f2ec94e084",
+  "name": "Marketapp Proxy"
  },
  {
   "address": "0:53191a57801de242aef8a4735c9cacc553f4b88f85869ee6ce89860b53924538",
@@ -388,6 +396,62 @@
   "name": "STON.fi DEX"
  },
  {
+  "address": "0:c708deda737561ae355fca014b23a274d47278da0832cd542f94d2dddbe1de96",
+  "name": "Getgems Gift Minter"
+ },
+ {
+  "address": "0:26361fa7cb81ae8058afdca9adc29431537ea6cf03b6524302be1372cee07d1c",
+  "name": "Omniston Escrow Minter"
+ },
+ {
+  "address": "0:667d0669b79fba2b4252c42dfe8485dfadf1470c69ade92dcea4387ffbb518a6",
+  "name": "Omniston Escrow Minter"
+ },
+ {
+  "address": "0:3349ddd903d5ff139df8f3f471855a86858de47cde9f992d108be5c58216e926",
+  "name": "Omniston Escrow Minter"
+ },
+ {
+  "address": "0:1b589dd8d4780822f70cab5a6b1b56a79430b44f771994053b96e3d3e8b993a6",
+  "name": "Omniston Escrow Minter"
+ },
+ {
+  "address": "0:4713df8361a3c2743ab60aa9f7e79193033cc34dda304b9d913d2fb22e621035",
+  "name": "Omniston Escrow Minter"
+ },
+ {
+  "address": "0:420147ef30c4a7f961cfd1b283b38c1454e2b5af9e4eb87248ab6e7f42754508",
+  "name": "Omniston Fee Vault"
+ },
+ {
+  "address": "0:00a32bb40be68c6063d512831fb8081edbe99e25678ee4a2c92ab29624024029",
+  "name": "Omniston Fee Vault"
+ },
+ {
+  "address": "0:f94c8bc64fa371a61443297f70454909387c84d154ee4c675548603937f6fada",
+  "name": "Omniston Fee Vault"
+ },
+ {
+  "address": "0:9c25fd8a1651fdc48c77773b72b71c51164dca419284601afe7f49c520ed61dd",
+  "name": "Omniston Fee Vault"
+ },
+ {
+  "address": "0:873dc12df46c54ad0dc824ee9df946047b84375aae5162c1e2106b18a3a237bf",
+  "name": "Omniston DEX Bridge"
+ },
+ {
+  "address": "0:2aea715c8e8efa6561197c07a3ab9f3d9f498cd3fa75cdcf76ccec16424c9b6c",
+  "name": "Omniston DEX Bridge"
+ },
+ {
+  "address": "0:f2b67835de3f05e44ac5e635365f7ab14d8bdd8836db0baa89c6b157a92779e2",
+  "name": "Omniston DEX Bridge"
+ },
+ {
+  "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
+  "name": "Tether USD"
+ },
+ {
   "address": "0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/morgenshtern_288.png",
   "name": "Morgenshtern"
@@ -429,6 +493,11 @@
  },
  {
   "address": "0:d8cd999fb2b1b384e6ca254c3883375e23111a8b78c015b886286c31bf11e29d",
+  "image": "https://t.me/i/userpic/320/onetimeusername.jpg",
+  "name": "Pavel Durov"
+ },
+ {
+  "address": "0:a355d7c7de45bb6845a5dd525798cca23cd518ca601b9c6a932493ae82292b79",
   "image": "https://t.me/i/userpic/320/onetimeusername.jpg",
   "name": "Pavel Durov"
  },
@@ -1218,6 +1287,12 @@
   "require_memo": true
  },
  {
+  "address": "0:7d133d4e425c8e00de015513a44e66e6d163b21e71720aec7579965e5de28c55",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
+  "name": "Bybit 8",
+  "require_memo": true
+ },
+ {
   "address": "0:008bb088e81e38d583826901093567027cc1575ec744ac354fa4eeec302d166d",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bit_com_288.svg",
   "name": "bit.com",
@@ -1631,6 +1706,23 @@
   "address": "0:419712bc541c4489d6f1c38a105722d293b8847fd54f2717ad69142911b8be5c",
   "name": "Bitfinex 2",
   "require_memo": false
+ },
+ {
+  "address": "0:6c25b5f2fe5ef1a6a1978f611f61a50883fd50a0822b19176445fca931823263",
+  "name": "OKX 12"
+ },
+ {
+  "address": "0:8b070edb01a700f3f6a4624c7e086e036da86060ebb04f19908ee61a3537335f",
+  "name": "Changelly"
+ },
+ {
+  "address": "0:f2dc1860686cd658987e2bed8216532d8c004460dadea907cc7d4ad7236c496b",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
+  "name": "Bybit 8"
+ },
+ {
+  "address": "0:14de4b02647941779108b7b99be85596260ccde813351000055d744dd8aba04c",
+  "name": "CoinEx"
  },
  {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
@@ -2073,6 +2165,10 @@
   "name": "STON.fi DEX"
  },
  {
+  "address": "0:2c6b9a7f516c540da53d9fd6e8dc202fdb144dacd16369d866ef425001eb1d56",
+  "name": "STON.fi DEX"
+ },
+ {
   "address": "0:320fb3bc0af55d47c00425cafde9f1c8d627c5ab6d52f1032dd5cce2e487c93f",
   "name": "STON.fi DEX"
  },
@@ -2110,6 +2206,10 @@
  },
  {
   "address": "0:598fb9e15cd841e0ef6b4429f8a864bcd8365a3d43e5c8cda4e99adbbd0d63dc",
+  "name": "STON.fi DEX"
+ },
+ {
+  "address": "0:5df6f7d67e7e8c3aa0581046057b216a962398967d739c59257e9f01d36ce54b",
   "name": "STON.fi DEX"
  },
  {
