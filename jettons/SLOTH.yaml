@@ -1,6 +1,6 @@
 name: LazySloth Network
 description: SLOTH - Chill & Earn. The laziest mining bot on Telegram.
-image: "https://github.com/LazySlothNetwork/ton-assets/blob/main/SLOTH.png?raw=true"
+image: https://raw.githubusercontent.com/LazySlothNetwork/ton-assets/main/SLOTH.png
 address: EQBw_wFmYGUiyFWtaZ6Dg2B7HMQmjHd9Exf-Cm7UCTnhrRFJ
 symbol: SLOTH
 websites:
