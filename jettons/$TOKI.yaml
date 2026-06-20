@@ -1,0 +1,11 @@
+name: "TokiCoin"
+description: "Official token for Melane Studio ecosystem."
+symbol: "TOKI"
+address: "EQDlWf_4GvFvS7_AkL7ayqW0NJl8VkuSRtm2zxDaveWPGiKt"
+decimals: 9
+image: "https://melane.xyz/img/toki.png"
+websites:
+  - "https://melane.xyz"
+socials:
+  - "https://t.me/TokiCoinn"
+  - "https://x.com/xcawin"
