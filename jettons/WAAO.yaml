@@ -1,0 +1,24 @@
+name: WAAO
+symbol: WAAO
+
+description: WAAO is a Web3 entertainment token connecting K-POP fans worldwide into a unified global community.
+
+address: EQBfwMbKx-1SNlNsDTk6ZCnTQlcdl_5Vxy03UdEwhpoImbZk
+
+decimals: 9
+
+image: https://waaoent.com/images/waao-logo.png
+
+websites:
+  - https://www.waaoent.com
+
+social:
+  - https://t.me/WAAO_Community
+  - https://t.me/WAAO_Chat
+  - https://www.instagram.com/waao.official
+
+tags:
+  - kpop
+  - entertainment
+  - web3
+  - ton
