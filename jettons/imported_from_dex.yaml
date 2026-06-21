@@ -10,9 +10,6 @@
 - address: 0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4
   name: The Resistance Cat
   symbol: $RECA
-- address: 0:0ac742b143c47b6c55fc12d94c3200c9d08ca36cf2523a1fb1959707792ac232
-  name: Telegramka
-  symbol: $TGKA
 - address: 0:a5edfab38859a75ad04d6955305e4b772d9686ecc194e56648960687b20413e9
   name: TROMP
   symbol: $TROMP
@@ -118,6 +115,9 @@
 - address: 0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d
   name: HAMSTERBATYA
   symbol: BATYA
+- address: 0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc
+  name: Baby Lady
+  symbol: BBLady
 - address: 0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620
   name: Baby Notcoin
   symbol: BBNOT
@@ -139,6 +139,9 @@
 - address: 0:7f2bd4cc4bd8e563515351f5b786904279da98b0c77e81c8db5a89307b7e6d09
   name: BER THE BEAR
   symbol: BER
+- address: 0:1bdbae5d7581d4a75096287d467aa7ee313f937c788bcededc490fdef5ddca79
+  name: 'BabyGram '
+  symbol: BGRAM
 - address: 0:3a2b624e7feb19e221c9a74c1bcfc7d5f3116e09cb3752ca06730ef6143a4b6e
   name: '#4DB8FF'
   symbol: BLUE
@@ -208,9 +211,6 @@
 - address: 0:960e3e3d1c52274b04a4e3d780a38efa135601cb02e816e499e8e3b7c7b8e63f
   name: Baby Doge Coin
   symbol: BabyDoge
-- address: 0:b90f7e2c42a25e7ab83e5ccdc9dfd8aa6aed87719a390036cb0e863337545cf6
-  name: Burn Gram
-  symbol: Burn
 - address: 0:35e1e4ce64499e4b9690967cdee30587d924e60b4eb68a8c852881d61b08e2ff
   name: C4
   symbol: C4
@@ -223,6 +223,9 @@
 - address: 0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5
   name: Cash AMA Radio
   symbol: CASH
+- address: 0:3a2ceaee140ea3501661ebc0978a665f0cb76533b31f75e8ecb96ec4a024d842
+  name: Cat2O
+  symbol: CAT2O
 - address: 0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41
   name: Big Catch
   symbol: CATCH
@@ -240,6 +243,9 @@
   symbol: CAVI
 - address: 0:697c3e6ae1a1601d4d7b2af34f37f3f440ecb8d4c3888f64f0197d1b6c0cf8e0
   name: Communist Cat
+  symbol: CCAT
+- address: 0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884
+  name: Clown cat coin
   symbol: CCAT
 - address: 0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad
   name: swap.coffee
@@ -307,6 +313,9 @@
 - address: 0:3a9f12d29c292bf6529683ab1d0623f1537df191a65cf80f9fbbbab085169e8f
   name: Daisy Romashka
   symbol: DAISYROMASHKA
+- address: 0:095442beeb34a8d477dad7b0400ef70d9b81ff9ce21e2eb16c7f13860d64ff31
+  name: dalla
+  symbol: DALLA
 - address: 0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6
   name: Dancing Cat
   symbol: DANCINGCAT
@@ -412,6 +421,9 @@
 - address: 0:4be7c707fc67c785f768a4f7dc016e7d7499903e2646faaa2478998bdd5e1c8a
   name: Emoji Stake
   symbol: ES
+- address: 0:3ad10c34748a5da67916cfbc023de6fcf3b57447fee8ea5ef49096e52cae7784
+  name: ex TON
+  symbol: EXTON
 - address: 0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651
   name: Exit
   symbol: Exit
@@ -499,9 +511,6 @@
 - address: 0:3af574125db07acd7bf7ea64c56a26b30814ae2e3ff34fab47e389baa21be31a
   name: Gram Morning
   symbol: GM
-- address: 0:3af4c86ef763810ad02c7b44896efdffdd5a62555d74779bcb530ff7060f0cca
-  name: 'Gram Night '
-  symbol: GN
 - address: 0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3
   name: GoMining
   symbol: GOMINING
@@ -727,6 +736,9 @@
 - address: 0:16a73dbf1b434ac651b656f8056e06463edf18d6a7b47068fee18c3905f99847
   name: Not Meme
   symbol: MEM
+- address: 0:2688056a3643686ecf025dbb77f0994d1655c9d1eced465b0fdd9dbb605d8332
+  name: First meme Gram
+  symbol: MEMEGRAM
 - address: 0:5a2bd11db838ebd161c407a349dc908e6ff2139d7d3d7a4e584f5fbbdeda1a81
   name: Memelandia Ton
   symbol: MEMELAND
@@ -802,6 +814,9 @@
 - address: 0:d0da80734cee08b67f669aedd32f5bf94d488f4bd3ee008544ab5c4ca4b1de78
   name: Only one token
   symbol: NANO
+- address: 0:3a883211e3330f2c5d16a61882ddef5368cefb92665aaa0f623188a6ae9a1780
+  name: nano GRAM
+  symbol: NANOGRAM
 - address: 0:fdce0fe3301123402c0a967d7138ee2269fe85e2be11e9881758fa887962aaad
   name: Nuka Cola
   symbol: NC
@@ -1508,6 +1523,9 @@
 - address: 0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3
   name: X Empire
   symbol: X
+- address: 0:3aea67ab8b56f0fe81490955b85ea6c35da9d6b8f7063fe50ae2c2062fdbd60a
+  name: Gold Gram
+  symbol: XAUG
 - address: 0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602
   name: xCryproMarket
   symbol: XCM
@@ -1587,8 +1605,8 @@
   name: sTONks
   symbol: sTONks
 - address: 0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892
-  name: Staked TON
-  symbol: stTON
+  name: Staked GRAM
+  symbol: stGRAM
 - address: 0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb
   name: teh upen netwerg
   symbol: tun
