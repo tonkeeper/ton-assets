@@ -69,3 +69,10 @@
     - "https://x.com/Spintria_coin"
     - "https://t.me/spintr"
     - "https://t.me/chat_spintria"
+
+- name: Sappacoin
+  description: Sappacoin is a revolutionary cryptocurrency empowering music lovers and creators through a decentralized ecosystem.
+  address: "0:4e17d5f21dfa20b04d10e834bc3ec809f016ffbade4fd1d8def89259d9402787"
+  symbol: SP
+  social:
+    - "https://t.me/+yg-5CofOGj0wYzk0"
