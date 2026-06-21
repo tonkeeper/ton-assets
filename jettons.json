@@ -278,6 +278,20 @@
   ]
  },
  {
+  "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
+  "description": "We have a new baby. Deployed from topblast.lol.",
+  "image": "https://i.ibb.co/TBShn10j/photo-2026-06-13-10-56-27.jpg",
+  "name": "Marg",
+  "social": [
+   "https://x.com/margcto?s=21",
+   "https://t.me/MARGCTO"
+  ],
+  "symbol": "MARG",
+  "websites": [
+   "https://marg.website/"
+  ]
+ },
+ {
   "address": "0:b9930254f2e73b724e8204e495584086c2599515ff5a5f78e7d408f6900a527b",
   "description": "Mighty Arm ($MARM) is a community-driven reward token on TON inspired by the iconic Telegram Gift. Built around strength, diamond hands, and holders with a strong grip. Every trade fuels rewards for the community. Flex your wallet. Join the Mighty Arm.",
   "image": "https://i.ibb.co/bM1qKmQP/arm.jpg",
@@ -10139,6 +10153,19 @@
   ]
  },
  {
+  "address": "0:147ff83eb90302a89630cbdc46515c2b3262b6d14b14257553df18c4ebbd7bf5",
+  "description": "TROCK is the utility token of the TonRocket ecosystem on TON. Users can mine tokens, collect NFTs, and participate in community activities through the TonRocket Telegram bot.",
+  "name": "TonRocket",
+  "social": [
+   "https://t.me/tonrocketchatt",
+   "https://t.me/TonRocketOfficiall"
+  ],
+  "symbol": "TROCK",
+  "websites": [
+   "https://t.me/TonRocketOfficiall"
+  ]
+ },
+ {
   "address": "0:1107acdfbf72d99a433520b9049ef0ca261ecd72763211bad53932ed60808795",
   "description": "First Troll meme on Ton",
   "image": "https://i.ibb.co/5wT8zwT/troll.jpg",
@@ -10273,6 +10300,20 @@
    "https://t.me/tower_ton_english"
   ],
   "symbol": "TWRINV"
+ },
+ {
+  "address": "0:4d5d3820c40674c0203ca6eef1acb0a7ef2e883c5707c5340fa1b896ff1ab1b9",
+  "description": "TXL is the fuel of Toxic X Labs. Earn in-game profits, stake, buy boosters, and trade NFTs. All in one token.",
+  "image": "https://toxicx.space/assets/img/logo_tx_blue.webp",
+  "name": "Toxic X Labs",
+  "social": [
+   "https://t.me/toxic_x_official",
+   "https://t.me/toxic_x_nft"
+  ],
+  "symbol": "TXL",
+  "websites": [
+   "https://toxicx.space/"
+  ]
  },
  {
   "address": "0:10b20774fe688788407d2cba0f8fad9cf94eabfbe5f8a5801134c7ac9769d805",
@@ -12757,6 +12798,17 @@
   ]
  },
  {
+  "address": "0:bef7b155a502e11fd645f66bf2abee825737c40e52473996365b16f96cc7694d",
+  "description": "Investor Gram Token. Gram the Frog is launching a TG app and shaking up rewards! 100 percent of fees go to the project. 50 percent Token Buyback, 30 percent Collabs and Integrations, 20 percent Website, DEX & Contests.",
+  "image": "https://img.stonks.cash/53f0c765-c9ae-4ec9-a1cb-d452618c4ff4.jpg",
+  "name": "Investor Gram",
+  "social": [
+   "https://t.me/Invest0rGram",
+   "https://t.me/+_TObJBtHzs4zOWIy"
+  ],
+  "symbol": "IG"
+ },
+ {
   "address": "0:049a69023f5b6e1ef0acb8d671b8a7bdde3e032d7bcf8c3041318116693c352b",
   "name": "BabyUtya",
   "symbol": "$BUTYA"
@@ -13130,6 +13182,11 @@
   "address": "0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5",
   "name": "Cash AMA Radio",
   "symbol": "CASH"
+ },
+ {
+  "address": "0:3a2ceaee140ea3501661ebc0978a665f0cb76533b31f75e8ecb96ec4a024d842",
+  "name": "Cat2O",
+  "symbol": "CAT2O"
  },
  {
   "address": "0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41",
@@ -13632,6 +13689,11 @@
   "symbol": "GRAMGOD"
  },
  {
+  "address": "0:26b1820069d3d0ac49fec19ad12b0aa19d178b0ce78a97d4fbd2e9ae934300d5",
+  "name": "gramming",
+  "symbol": "GRAMMING"
+ },
+ {
   "address": "0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b",
   "name": "GRAM SEASON",
   "symbol": "GRAMSEASON"
@@ -13942,11 +14004,6 @@
   "symbol": "MANDER"
  },
  {
-  "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
-  "name": "Marg",
-  "symbol": "MARG"
- },
- {
   "address": "0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777",
   "name": "Margaritis",
   "symbol": "MARGA"
@@ -14088,7 +14145,7 @@
  },
  {
   "address": "0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28",
-  "name": "MyTonWallet Coin",
+  "name": "My Wallet Coin",
   "symbol": "MY"
  },
  {
@@ -15162,6 +15219,11 @@
   "symbol": "USTR"
  },
  {
+  "address": "0:3ad4eef5cb823ca190d746f30eac7b6e6f6bf170f239e1fd68180fdee21d092f",
+  "name": "Utia the duck",
+  "symbol": "UTIA"
+ },
+ {
   "address": "0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d",
   "name": "Utya",
   "symbol": "UTYA"
@@ -15428,8 +15490,8 @@
  },
  {
   "address": "0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892",
-  "name": "Staked TON",
-  "symbol": "stTON"
+  "name": "Staked GRAM",
+  "symbol": "stGRAM"
  },
  {
   "address": "0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb",
@@ -18618,11 +18680,12 @@
  },
  {
   "address": "0:c10d5cd47e6b52d4c46548f4870c64e5c14a12b93418054ece7fee26315e3707",
-  "description": "\u9e2d\u9e2d | Yaya \u2014 It's a duck. On TON. Memecoin. \u6ca1\u6709\u8def\u7ebf\u56fe\u3002\u6ca1\u6709\u627f\u8bfa\u3002\u53ea\u662f\u560e\u3002No roadmap. No promises. Just quack.",
-  "name": "YAYA Token",
+  "description": "YAYA is IP Meme with own ecosystem, access now: http://t.me/yayaminiapps_bot",
+  "image": "https://img.stonks.cash/c1baad35-4b12-4c9b-96e3-9b3810424839.jpg",
+  "name": "YAYA",
   "social": [
-   "https://t.me/yayamemeton",
-   "https://x.com/YaYaMemeTON"
+   "https://t.me/yaya_gram",
+   "https://x.com/Yaya_gram"
   ],
   "symbol": "YAYA",
   "websites": [

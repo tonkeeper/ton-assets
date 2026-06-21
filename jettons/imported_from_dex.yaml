@@ -223,6 +223,9 @@
 - address: 0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5
   name: Cash AMA Radio
   symbol: CASH
+- address: 0:3a2ceaee140ea3501661ebc0978a665f0cb76533b31f75e8ecb96ec4a024d842
+  name: Cat2O
+  symbol: CAT2O
 - address: 0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41
   name: Big Catch
   symbol: CATCH
@@ -523,6 +526,9 @@
 - address: 0:3a947da42809cdd67d6e0d962411467675f084454fabca6feeaf7155f5aec22d
   name: Gram god. In GRAM we trust.
   symbol: GRAMGOD
+- address: 0:26b1820069d3d0ac49fec19ad12b0aa19d178b0ce78a97d4fbd2e9ae934300d5
+  name: gramming
+  symbol: GRAMMING
 - address: 0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b
   name: GRAM SEASON
   symbol: GRAMSEASON
@@ -709,9 +715,6 @@
 - address: 0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f
   name: Commander
   symbol: MANDER
-- address: 0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d
-  name: Marg
-  symbol: MARG
 - address: 0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777
   name: Margaritis
   symbol: MARGA
@@ -797,7 +800,7 @@
   name: Magic Vip People
   symbol: MVP
 - address: 0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28
-  name: MyTonWallet Coin
+  name: My Wallet Coin
   symbol: MY
 - address: 0:b61a009227a04d7ee83666022b248c9dac9872228bdfa0b537d4df8c9d3e6e57
   name: MexCrewn
@@ -1442,6 +1445,9 @@
 - address: 0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810
   name: Utya Strategy
   symbol: USTR
+- address: 0:3ad4eef5cb823ca190d746f30eac7b6e6f6bf170f239e1fd68180fdee21d092f
+  name: Utia the duck
+  symbol: UTIA
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
@@ -1602,8 +1608,8 @@
   name: sTONks
   symbol: sTONks
 - address: 0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892
-  name: Staked TON
-  symbol: stTON
+  name: Staked GRAM
+  symbol: stGRAM
 - address: 0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb
   name: teh upen netwerg
   symbol: tun
