@@ -10153,6 +10153,19 @@
   ]
  },
  {
+  "address": "0:147ff83eb90302a89630cbdc46515c2b3262b6d14b14257553df18c4ebbd7bf5",
+  "description": "TROCK is the utility token of the TonRocket ecosystem on TON. Users can mine tokens, collect NFTs, and participate in community activities through the TonRocket Telegram bot.",
+  "name": "TonRocket",
+  "social": [
+   "https://t.me/tonrocketchatt",
+   "https://t.me/TonRocketOfficiall"
+  ],
+  "symbol": "TROCK",
+  "websites": [
+   "https://t.me/TonRocketOfficiall"
+  ]
+ },
+ {
   "address": "0:1107acdfbf72d99a433520b9049ef0ca261ecd72763211bad53932ed60808795",
   "description": "First Troll meme on Ton",
   "image": "https://i.ibb.co/5wT8zwT/troll.jpg",
