@@ -12771,6 +12771,17 @@
   ]
  },
  {
+  "address": "0:bef7b155a502e11fd645f66bf2abee825737c40e52473996365b16f96cc7694d",
+  "description": "Investor Gram Token. Gram the Frog is launching a TG app and shaking up rewards! 100 percent of fees go to the project. 50 percent Token Buyback, 30 percent Collabs and Integrations, 20 percent Website, DEX & Contests.",
+  "image": "https://img.stonks.cash/53f0c765-c9ae-4ec9-a1cb-d452618c4ff4.jpg",
+  "name": "Investor Gram",
+  "social": [
+   "https://t.me/Invest0rGram",
+   "https://t.me/+_TObJBtHzs4zOWIy"
+  ],
+  "symbol": "IG"
+ },
+ {
   "address": "0:049a69023f5b6e1ef0acb8d671b8a7bdde3e032d7bcf8c3041318116693c352b",
   "name": "BabyUtya",
   "symbol": "$BUTYA"
