@@ -10302,6 +10302,20 @@
   "symbol": "TWRINV"
  },
  {
+  "address": "0:4d5d3820c40674c0203ca6eef1acb0a7ef2e883c5707c5340fa1b896ff1ab1b9",
+  "description": "TXL is the fuel of Toxic X Labs. Earn in-game profits, stake, buy boosters, and trade NFTs. All in one token.",
+  "image": "https://toxicx.space/assets/img/logo_tx_blue.webp",
+  "name": "Toxic X Labs",
+  "social": [
+   "https://t.me/toxic_x_official",
+   "https://t.me/toxic_x_nft"
+  ],
+  "symbol": "TXL",
+  "websites": [
+   "https://toxicx.space/"
+  ]
+ },
+ {
   "address": "0:10b20774fe688788407d2cba0f8fad9cf94eabfbe5f8a5801134c7ac9769d805",
   "name": "TYIELD",
   "symbol": "TYIELD"
