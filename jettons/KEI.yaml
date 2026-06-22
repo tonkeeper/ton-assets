@@ -1,19 +1,14 @@
 name: KEI 
-
 symbol: KEI
-
-description: >
+decimals: 6
+address: EQD8yw-oW2tD311GZetLMy7sOsLvR_-ZvYOLeLC80v654-uA
+description: 
 KEI 是全球首个数字分身经济网络的核心价值载体。
 在 KEI Network （kei.vip）中，每个人都可以拥有属于自己的 AI 数字分身，每个数字分身都能够学习、工作、协作并持续创造价值。
 通过 Phoenix ID、Clone Protocol 与 Agent Marketplace，KEI 将知识、经验、技能与人格转化为可流通的数字资产，开启智能体文明时代的新经济体系。
 KEI 不仅是一种代币，更是未来数字身份、数字分身与超级智能体生态的价值纽带。
-凤凰涅槃，智启未来。
-
-address: EQD8yw-oW2tD311GZetLMy7sOsLvR_-ZvYOLeLC80v654-uA
 
 image: https://arweave.net/jYbqliS5_9JSmNSWnzA7WtvjAkLYoa_8IYNxEAY1lDg
-
-decimals: 6
 
 websites:
   - https://www.kei.vip
