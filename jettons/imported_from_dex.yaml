@@ -712,9 +712,6 @@
 - address: 0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f
   name: Commander
   symbol: MANDER
-- address: 0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d
-  name: Marg
-  symbol: MARG
 - address: 0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777
   name: Margaritis
   symbol: MARGA

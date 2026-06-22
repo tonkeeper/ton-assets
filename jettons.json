@@ -278,6 +278,20 @@
   ]
  },
  {
+  "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
+  "description": "We have a new baby. Deployed from topblast.lol.",
+  "image": "https://i.ibb.co/TBShn10j/photo-2026-06-13-10-56-27.jpg",
+  "name": "Marg",
+  "social": [
+   "https://x.com/margcto?s=21",
+   "https://t.me/MARGCTO"
+  ],
+  "symbol": "MARG",
+  "websites": [
+   "https://marg.website/"
+  ]
+ },
+ {
   "address": "0:b9930254f2e73b724e8204e495584086c2599515ff5a5f78e7d408f6900a527b",
   "description": "Mighty Arm ($MARM) is a community-driven reward token on TON inspired by the iconic Telegram Gift. Built around strength, diamond hands, and holders with a strong grip. Every trade fuels rewards for the community. Flex your wallet. Join the Mighty Arm.",
   "image": "https://i.ibb.co/bM1qKmQP/arm.jpg",
@@ -13945,11 +13959,6 @@
   "address": "0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f",
   "name": "Commander",
   "symbol": "MANDER"
- },
- {
-  "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
-  "name": "Marg",
-  "symbol": "MARG"
  },
  {
   "address": "0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777",
