@@ -4942,6 +4942,16 @@
   "symbol": "HLR"
  },
  {
+  "address": "0:ce7713863965cc161b903607d0b75aefe3a73ed26190b558187506549015f034",
+  "description": "Community token of the Happy's MANDARIN ecosystem on TON. The project features an NFT collection with a dedicated reward fund providing weekly rewards to NFT holders.",
+  "image": "https://i.ibb.co/RTgYBhq7/IMG-20260201-123627-jpg.jpg",
+  "name": "Happy's MANDARIN",
+  "social": [
+   "https://t.me/HappysMANDARIN"
+  ],
+  "symbol": "HMDR"
+ },
+ {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
   "decimals": 9,
   "name": "Hamster Kombat",
