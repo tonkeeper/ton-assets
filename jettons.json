@@ -1,4 +1,10 @@
 [
+ "address": "EQAWm39VGILEQp0rOm-FzhRGBeL2DPmWFQ28DdIoDNXe1EuD",
+  "name": "Tether USDT",
+  "symbol": "USDT",
+  "decimals": 9,
+  "image": "https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=4698f29faeb44f5e&udm=2&sxsrf=APpeQnt6BI3_z56N2HQs-d59JV51G7bq7g:1782219803930&q=usdt+bep20+logo&stick=H4sIAAAAAAAAAFvEyl9anFKikJRaYGSgkJOfng8AD17SdxIAAAA&source=univ&sa=X&ved=2ahUKEwj3o8yStp2VAxWjgP0HHQIWB2YQrNwCegUImwIQAA&biw=400&bih=832&dpr=2.7#sv=CAMSWRoyKhBlLVJodXFmZXlTd2lfRDJNMg5SaHVxZmV5U3dpX0QyTToORlRMMjliVDlLU1pfSE0gBCoXCgFzEhBlLVJodXFmZXlTd2lfRDJNGAEwATgASgQIARACGAcg4IiLrgxKCBACGAEgAigB"
+}
  {
   "address": "0:b6a9e27bb3411b6cb0e31e56066f0cb80625a728e8efb62a2a2622e5397a555a",
   "description": "new meme by telegram",
