@@ -1,7 +1,14 @@
 name: M$T
 description:  "Créer une crypto monnaie \"Jeton officiel de la communauté monsieurtaa\")."
 image:    https://i.ibb.co/v6DjDcZj/IMG-3064.jpg
-address:  EQ0LcPtEpGh8qv19FLHkMjJpsVimZY7yQccjRxBhhb2FN0g
+adresse:  {
+  "address": "0:b42c2a6d10f1a1f2abe5f452c790c249a52be533363bc9009c8d1c418616f614",
+  "name": "monsieurtaa ",
+  "symbol": "M$T",
+  "decimals": "9",
+  "image": "https://i.ibb.co/v6DjDcZj/IMG-3064.jpg`",
+  "description": "Créer une crypto monnaie \"Jeton officiel de la communauté monsieurtaa\")."
+}
 symbol: M$T
 websites:    - "https://www.tiktok.com/@monsieurtaa"
 social:    - "https://snapchat.com/t/wozTJQpx"
