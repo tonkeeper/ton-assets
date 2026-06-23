@@ -3,8 +3,8 @@ symbol: XNOT
 decimals: 9
 address: EQDbr1DK-5rWtqHEekhu9tWuPk30z0WfSeG250dPlKxOCPuB
 description: XNOT Web3 Ecosystem & Telegram Mini-App 'Stone Skipper' Utility Token
-image: https://github.com/pitopanjw-design/ton-assets/blob/main/xnot_logo.jpg?raw=true
+image: https://raw.githubusercontent.com/pitopanjw-design/ton-assets/refs/heads/main/xnot_logo.jpg
 websites:
   - https://xnot-homepage.vercel.app/
-social:
+socials:
   - https://x.com/TONXHQ
