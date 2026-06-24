@@ -18151,6 +18151,18 @@
   "symbol": "wNOT"
  },
  {
+  "address": "0:5fae639d4ac74b3a4d6d8b3cf1dfb24aa005bb1b42c73afb7465bf29567939ee",
+  "decimals": 9,
+  "description": "Shadow Kitty is a community-driven meme token on The Open Network.",
+  "image": "https://i.postimg.cc/DZGqN9r8/shadowskitty.jpg",
+  "name": "Shadow Kitty",
+  "social": [
+   "https://x.com/Skittygram",
+   "https://t.me/skittygram"
+  ],
+  "symbol": "SKITTY"
+ },
+ {
   "address": "0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63",
   "description": "A Safe journey to the Moon. Initial LP locked 100% forever on dedust locker.",
   "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/IMG_0698.jpeg",
