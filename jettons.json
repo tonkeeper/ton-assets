@@ -12329,6 +12329,11 @@
   "symbol": "WBDx"
  },
  {
+  "address": "0:1d58532cec300c0b35ba0ce179eaded90fa782b33e1cce6d7a0ed4b1b81861c5",
+  "name": "Wendy's xStock",
+  "symbol": "WENx"
+ },
+ {
   "address": "0:f84a5bf80614b7ae840d54a8b64e850261cc9f7457c2e1f63846168c97eda7bf",
   "name": "Walmart xStock",
   "symbol": "WMTx"

@@ -475,6 +475,9 @@
 - address: 0:01ef80f4047b4b0828c4c14731c2add144aa0ff0c9ca4329a93c12921e619327
   name: Warner Bros. Discovery xStock
   symbol: WBDx
+- address: 0:1d58532cec300c0b35ba0ce179eaded90fa782b33e1cce6d7a0ed4b1b81861c5
+  name: Wendy's xStock
+  symbol: WENx
 - address: 0:f84a5bf80614b7ae840d54a8b64e850261cc9f7457c2e1f63846168c97eda7bf
   name: Walmart xStock
   symbol: WMTx
