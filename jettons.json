@@ -13468,6 +13468,11 @@
   "symbol": "DONE"
  },
  {
+  "address": "0:3a05eb6a341d3e91ca2e7eeec2200892205dc8cbde5b27918b23c57a8e28a803",
+  "name": "DoNotBuyThisToken",
+  "symbol": "DONOTBUYTHISTOKEN"
+ },
+ {
   "address": "0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110",
   "name": "Donut The Dog",
   "symbol": "DONUT"
@@ -13853,6 +13858,11 @@
   "symbol": "INFT"
  },
  {
+  "address": "0:26027aa058fa986515fc5453e61644380441bebac393289edd4b8890af9bff66",
+  "name": "Intern Fund",
+  "symbol": "INTERNFUND"
+ },
+ {
   "address": "0:6f138af59d87eed35102d3f10dda57edbb1d5f639a8161821e2a9c479926ea2c",
   "name": "Investor TON",
   "symbol": "INV"
@@ -14216,6 +14226,11 @@
   "address": "0:ca13f38afaa91fc94d3c25b3059225f912dc57cc5d3a8f75e727ee23309f2819",
   "name": "Blockton News",
   "symbol": "NEWS"
+ },
+ {
+  "address": "0:6f2d623194f2d74c3eae3fd5b8843ef18743cc5deb7d83ce78af1f3939f63e79",
+  "name": "NIGGA",
+  "symbol": "NIGGA"
  },
  {
   "address": "0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6",
