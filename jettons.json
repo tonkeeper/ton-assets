@@ -3983,6 +3983,19 @@
   "symbol": "FLEX"
  },
  {
+  "address": "0:689b8b252c87adc7129b00c6110fad41430b3146747f4e6d003b97a3897b1262",
+  "description": "FlyON is the eagle mascot of Telegram / TON building culture. FlyON helps communities learn Telegram culture, understand TON basics and build together.",
+  "image": "https://assets.grambo.fun/mainnet/images/3dfb83e9e1c42f1924e74355efc18d09.png",
+  "name": "FlyON",
+  "social": [
+   "https://t.me/FlyOnHQ",
+   "https://t.me/FlyOnChat",
+   "https://x.com/FlyOnHQ",
+   "https://flyon.online/"
+  ],
+  "symbol": "FLYON"
+ },
+ {
   "address": "0:3df73622e9f14be0ade835332c99ce4375c191a020b002524168153ed614ac75",
   "description": "The hottest coin.",
   "image": "https://i.postimg.cc/4dvFmPhB/In-Shot-20250502-094433950.jpg",
