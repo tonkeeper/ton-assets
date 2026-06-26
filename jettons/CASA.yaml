@@ -1,0 +1,12 @@
+name: CASA Token
+symbol: CASA
+address: EQBWK_VVEBJWiIQIIXOckUVw0HdF24buJiNiiR0dUHEe2xs4
+decimals: 9
+description: CASA is the native token of CasaFond — a real estate investment platform on TON blockchain.
+image: https://raw.githubusercontent.com/codreanuruslan/ton-assets/main/jettons/CASA.jpg
+websites:
+  - https://casafond.com
+  - http://casafond.ton
+social:
+  - https://t.me/+NHBDImyAnyBjZTVi
+  - https://t.me/casafond_bot
