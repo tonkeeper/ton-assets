@@ -1,0 +1,10 @@
+name: ZKGRM
+description: ZKGRM is a privacy-first Jetton on TON inspired by the spirit of the original GRM. The token is designed around shielded transfers through ShieldedPool, while ordinary direct transfers are restricted.
+image: "https://raw.githubusercontent.com/gru2007/contract-miner/refs/heads/main/logo.png"
+address: EQB8-NmNs9WvxJ_S3ixhRy6uo1xAeJm4SC_qJeAV-z9fXksI
+symbol: ZKGRM
+websites:
+  - "https://gru2007.github.io/zkgrmcoin"
+social:
+  - "https://zkgrm.t.me"
+  - "https://x.com/zkgrmcoin"
