@@ -2,7 +2,7 @@ name: Nitrochain
 symbol: NITRO
 address: EQBdQzfbbLD0FdraaajwiVwaeeKUnC3woBm5TWB31N4Vl3nw
 image: https://i.postimg.cc/4NcSRMtY/IMG-20260621-151147-581-(1).jpg
-description: "Nitrochain is a layer 1 blockchain and also develops its own products on the Ton blockchain. We launched the first Telegram wallet based on simple, linear commands for transferring ton tokens on the telegram platform and continue to develop more capabilities. @NitrowBot
+description: Nitrochain is a layer 1 blockchain developing decentralized utility products on the TON network.
 websites:
   - https://nitrochain.space
   - https://iq.wiki/wiki/nitrochain
@@ -10,4 +10,3 @@ social:
   - https://x.com/nitrochainapp
   - https://t.me/NitrochainNews
   - https://t.me/cryptonitro
-  - https://t.me/NitrowBot
