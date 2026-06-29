@@ -11642,6 +11642,11 @@
   "symbol": "BMNRx"
  },
  {
+  "address": "0:21ed510c722429e77d1805b043495c3d5cdb6307c5d24e59f07e7fcc5665b3d9",
+  "name": "RoboStrategy xStock",
+  "symbol": "BOTx"
+ },
+ {
   "address": "0:f3eb6247f93e6ae305ba0e9cee2fe44e292729382702d6222ff1d5c09d854d21",
   "name": "Berkshire Hathaway xStock",
   "symbol": "BRK.Bx"
@@ -13954,6 +13959,11 @@
   "address": "0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446",
   "name": "Nikolai Durov",
   "symbol": "KOT"
+ },
+ {
+  "address": "0:26be9d55aebd33636fbe493747fb45ff98fe62083eb5a76bcd5496301e58019e",
+  "name": "kot\u00e9 ",
+  "symbol": "KOT\u00c9"
  },
  {
   "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",

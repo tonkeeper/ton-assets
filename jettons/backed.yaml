@@ -55,6 +55,9 @@
 - address: 0:2f2fe596845939d4313376713b7ec916a62a7d105655f094c902365f1b181822
   name: Bitmine xStock
   symbol: BMNRx
+- address: 0:21ed510c722429e77d1805b043495c3d5cdb6307c5d24e59f07e7fcc5665b3d9
+  name: RoboStrategy xStock
+  symbol: BOTx
 - address: 0:f3eb6247f93e6ae305ba0e9cee2fe44e292729382702d6222ff1d5c09d854d21
   name: Berkshire Hathaway xStock
   symbol: BRK.Bx
