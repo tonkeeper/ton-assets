@@ -18,7 +18,7 @@ Name           | Address
 [.ton DNS](https://tonviewer.com/0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf) | EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz
 [TON Believers Fund](https://tonviewer.com/0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7) | EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2
 [Tonstakers](https://tonviewer.com/0:a45b17f28409229b78360e3290420f13e4fe20f90d7e2bf8c4ac6703259e22fa) | EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
-[Tonkeeper battery](https://tonviewer.com/0:7ae5056c3fd9406f9bbbe7c7089cd4c40801d9075486cbedb7ce12df119eacf1) | EQB65QVsP9lAb5u758cInNTECAHZB1SGy-23zhLfEZ6s8aLF
+[TONAPI main gas proxy](https://tonviewer.com/0:7ae5056c3fd9406f9bbbe7c7089cd4c40801d9075486cbedb7ce12df119eacf1) | EQB65QVsP9lAb5u758cInNTECAHZB1SGy-23zhLfEZ6s8aLF
 [TONAPI gas proxy](https://tonviewer.com/0:e065d735fc349ad0d8674033798b99af76f8dce671a9c49d4fe9164e644a6a52) | EQDgZdc1_DSa0NhnQDN5i5mvdvjc5nGpxJ1P6RZOZEpqUjCj
 [TONAPI gas proxy](https://tonviewer.com/0:0dc09ed193e47757057ed6eee7fb0677719f31bd8828113ed52d47abf23447da) | EQANwJ7Rk-R3VwV-1u7n-wZ3cZ8xvYgoET7VLUer8jRH2lsx
 [TONAPI gas proxy](https://tonviewer.com/0:736118ab10bedfb4031dc904ec9d7c9061a905f6efa5d8f55d684233b715b57b) | EQBzYRirEL7ftAMdyQTsnXyQYakF9u-l2PVdaEIztxW1e2x2
