@@ -4653,6 +4653,13 @@
   "symbol": "GPU"
  },
  {
+  "address": "0:a8d1b2329e914eb6df86ba78e8ef555871d9ae6526deab13d5d3e05dde82f2ff",
+  "description": "",
+  "image": "https://assets.grambo.fun/mainnet/images/4409b13711d9436a8fcc7784e5667901.jpg",
+  "name": "GRAMBO KITTY",
+  "symbol": "KITTY"
+ },
+ {
   "address": "0:0a040d7ffb058fdf53236c5a7e0a253b45962c51eb645681d31d3b98811f0a86",
   "description": "Have you seen gramscan? There's a cat in its logo, so we'll call it gramcat!",
   "image": "https://i.ibb.co/7tB3xnbj/photo-2025-08-01-23-11-37.jpg",
