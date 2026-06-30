@@ -4582,6 +4582,22 @@
   "symbol": "GOI"
  },
  {
+  "address": "0:5a4a6d644e691eed20f940d9531a2d6a3ccf3fe657c484d8e4eda079849eb0f7",
+  "decimals": 9,
+  "description": "Mine rewards by completing quests inside Telegram. No airdrop waitlist. Earn today, withdraw from $1.\n",
+  "image": "https://gomine.social/gomine-icon-512.png",
+  "name": "GoMine",
+  "social": [
+   "https://x.com/GoMineApp",
+   "https://t.me/GoMineOfficial",
+   "https://t.me/GoMineCommunity"
+  ],
+  "symbol": "GOMINE",
+  "websites": [
+   "https://gomine.social"
+  ]
+ },
+ {
   "address": "0:bea20974a9de18fe4e580e13a5258fc77e9fe110694f641ee7fd3aca96265747",
   "description": "Deployed from sTONks Deployed from sTONks",
   "image": "https://img.stonks.cash/62997c40-2760-49c6-8710-80aadc089de9.png",
