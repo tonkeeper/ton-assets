@@ -1,0 +1,9 @@
+name: "Trady Chain"
+description: "The ultimate utility token of Trady Wallet."
+ticker: "TRADY"
+address: "EQA69EcPd3QggUMy-T7h4pj9g9Q61IzBbmIw_N6JnFfL7Hdv"
+image: "https://wallet-ehx.pages.dev/images/trady.png"
+websites:
+  - "https://t.me/TrdyWalletBot/wallet?startapp=6a2ce4200223f27654b2087a"
+socials:
+  - "https://t.me/TradyCrypto"
