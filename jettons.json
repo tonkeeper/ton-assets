@@ -2420,6 +2420,21 @@
   ]
  },
  {
+  "address": "0:5378a66bf28e1ecfbe4a7d68d2cb86abe8fd706b15932e6f24ac685158d19d6a",
+  "decimals": 9,
+  "description": "DATA is the utility token of mAInetV2, powering rewards, staking, and ecosystem participation.",
+  "image": "https://web2.mainet.io/token/logo.png",
+  "name": "mAInetV2",
+  "social": [
+   "https://t.me/mainet_io",
+   "https://x.com/mainet_io"
+  ],
+  "symbol": "DATA",
+  "websites": [
+   "https://t.me/mainet2_bot"
+  ]
+ },
+ {
   "address": "0:2dff2a6a0690c0f8be1f3b1517a771ffa66f4cbc6d3545efd3aee2dc5c1684f9",
   "description": "A token for data enthusiasts",
   "image": "https://vahidbaghi.ir/hobby/dataphile.png",
