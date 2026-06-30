@@ -8005,6 +8005,17 @@
   ]
  },
  {
+  "address": "0:2659d5b31b87ee051cbf7acba6ec09e8a59693c5c9a61f7268a038abf68ca41a",
+  "description": "QUBY is a cute sticker character created by Chinese artist Zhong Chaoneng in 2015 for WeChat. It became hugely popular because of its funny, exaggerated emotions that people could understand without words.",
+  "image": "https://i.ibb.co/Kx2rwZF2/photo-2024-06-11-16-27-33.jpg",
+  "name": "QUBY",
+  "social": [
+   "https://t.me/realquby",
+   "https://x.com/qubyonton?s=21"
+  ],
+  "symbol": "QUBY"
+ },
+ {
   "address": "0:f6a6ba4d05f0916b47d9a521c9be9bea153ee15bc4b0eae85cc468262005a280",
   "decimals": 9,
   "description": "QUESTPL is the utility token for Pleasure Quest, a gamified ecosystem on The Open Network that combines NFT characters, task-based rewards, and a multi-level referral system. It powers in-app transactions, rewards, and ecosystem governance.",
