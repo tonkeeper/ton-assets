@@ -5421,6 +5421,20 @@
   ]
  },
  {
+  "address": "0:fccb0fa85b6b43df5d4665eb4b332eec3ac2ef47ff99bd838b78b0bcd2feb9e3",
+  "decimals": 6,
+  "description": "KEI is the core utility token of KEI Network, the world's first Digital Clone Economy Network.",
+  "image": "https://autumn-field-cc2c.4xnbt5v5u.workers.dev/619.png",
+  "name": "KEI",
+  "social": [
+   "https://t.me/keivipbot"
+  ],
+  "symbol": "KEI",
+  "websites": [
+   "https://www.kei.vip"
+  ]
+ },
+ {
   "address": "0:b6dda36f7663265453296d4a98f33569473f93cdd1bd2dfc3b4f0fe46dfaa1a9",
   "description": "Behold the Rebirth of $KEKIUS on TON! This Kekius Army shall declare victory where others failed. Inspired by Elon Musk (Kekius Maximus). Join this army for an inspiring narrative of resilience, fairness and community-driven spirit.",
   "image": "https://kekiusreborn.org/img/core-img/kekius-logo-2.png",
