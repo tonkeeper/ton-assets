@@ -538,9 +538,6 @@
 - address: 0:714b940b57df65eeacc6129133d795a79f2eae088c7a66fde7fc8aed22346036
   name: Mr Greene
   symbol: GREENE
-- address: 0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca
-  name: Grem
-  symbol: GREM
 - address: 0:3a1b4b951110d94e42cd6b476b5819dad45e5349ba20cbb5171165391111f3e2
   name: Pepe Grinch
   symbol: GRINCH
@@ -661,6 +658,9 @@
 - address: 0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446
   name: Nikolai Durov
   symbol: KOT
+- address: 0:26be9d55aebd33636fbe493747fb45ff98fe62083eb5a76bcd5496301e58019e
+  name: "kot\xE9 "
+  symbol: "KOT\xC9"
 - address: 0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862
   name: MrKrabs
   symbol: KRABS
