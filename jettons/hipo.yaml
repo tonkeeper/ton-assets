@@ -1,9 +1,9 @@
 - address: 0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc
   name: Hipo Governance Token
   symbol: HPO
-  image: https://hpo.hipo.finance/hpo.png
+  image: https://hipo.finance/hpo.svg
   websites:
-    - https://hpo.hipo.finance
+    - https://hipo.finance/hpo
   social:
     - https://t.me/HipoFinance
     - https://x.com/hipofinance
