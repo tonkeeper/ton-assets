@@ -278,6 +278,20 @@
   ]
  },
  {
+  "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
+  "description": "We have a new baby. Deployed from topblast.lol.",
+  "image": "https://i.ibb.co/TBShn10j/photo-2026-06-13-10-56-27.jpg",
+  "name": "Marg",
+  "social": [
+   "https://x.com/margcto?s=21",
+   "https://t.me/MARGCTO"
+  ],
+  "symbol": "MARG",
+  "websites": [
+   "https://marg.website/"
+  ]
+ },
+ {
   "address": "0:b9930254f2e73b724e8204e495584086c2599515ff5a5f78e7d408f6900a527b",
   "description": "Mighty Arm ($MARM) is a community-driven reward token on TON inspired by the iconic Telegram Gift. Built around strength, diamond hands, and holders with a strong grip. Every trade fuels rewards for the community. Flex your wallet. Join the Mighty Arm.",
   "image": "https://i.ibb.co/bM1qKmQP/arm.jpg",
@@ -692,6 +706,13 @@
   "address": "0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a",
   "name": "AIYA PowerCell",
   "symbol": "APC"
+ },
+ {
+  "address": "0:f546ffff858be9864bc01f4a805bce4432e77a0a610217beeb60e85be12ca75d",
+  "description": "We have been working with liquidity pools for 11 years. We only work with the top 10 most established cryptocurrencies. We use 50% of the earned commissions to buy back the token",
+  "image": "https://i.ibb.co/4wRdmC0F/apex.jpg",
+  "name": "Apex",
+  "symbol": "APX"
  },
  {
   "address": "0:365c15bb3006d28eae67eed5b6fd2465af45eac09654d0beaeea62c530a742e5",
@@ -2406,6 +2427,21 @@
   ]
  },
  {
+  "address": "0:5378a66bf28e1ecfbe4a7d68d2cb86abe8fd706b15932e6f24ac685158d19d6a",
+  "decimals": 9,
+  "description": "DATA is the utility token of mAInetV2, powering rewards, staking, and ecosystem participation.",
+  "image": "https://web2.mainet.io/token/logo.png",
+  "name": "mAInetV2",
+  "social": [
+   "https://t.me/mainet_io",
+   "https://x.com/mainet_io"
+  ],
+  "symbol": "DATA",
+  "websites": [
+   "https://t.me/mainet2_bot"
+  ]
+ },
+ {
   "address": "0:2dff2a6a0690c0f8be1f3b1517a771ffa66f4cbc6d3545efd3aee2dc5c1684f9",
   "description": "A token for data enthusiasts",
   "image": "https://vahidbaghi.ir/hobby/dataphile.png",
@@ -3969,6 +4005,19 @@
   "symbol": "FLEX"
  },
  {
+  "address": "0:689b8b252c87adc7129b00c6110fad41430b3146747f4e6d003b97a3897b1262",
+  "description": "FlyON is the eagle mascot of Telegram / TON building culture. FlyON helps communities learn Telegram culture, understand TON basics and build together.",
+  "image": "https://assets.grambo.fun/mainnet/images/3dfb83e9e1c42f1924e74355efc18d09.png",
+  "name": "FlyON",
+  "social": [
+   "https://t.me/FlyOnHQ",
+   "https://t.me/FlyOnChat",
+   "https://x.com/FlyOnHQ",
+   "https://flyon.online/"
+  ],
+  "symbol": "FLYON"
+ },
+ {
   "address": "0:3df73622e9f14be0ade835332c99ce4375c191a020b002524168153ed614ac75",
   "description": "The hottest coin.",
   "image": "https://i.postimg.cc/4dvFmPhB/In-Shot-20250502-094433950.jpg",
@@ -4540,6 +4589,22 @@
   "symbol": "GOI"
  },
  {
+  "address": "0:5a4a6d644e691eed20f940d9531a2d6a3ccf3fe657c484d8e4eda079849eb0f7",
+  "decimals": 9,
+  "description": "Mine rewards by completing quests inside Telegram. No airdrop waitlist. Earn today, withdraw from $1.\n",
+  "image": "https://gomine.social/gomine-icon-512.png",
+  "name": "GoMine",
+  "social": [
+   "https://x.com/GoMineApp",
+   "https://t.me/GoMineOfficial",
+   "https://t.me/GoMineCommunity"
+  ],
+  "symbol": "GOMINE",
+  "websites": [
+   "https://gomine.social"
+  ]
+ },
+ {
   "address": "0:bea20974a9de18fe4e580e13a5258fc77e9fe110694f641ee7fd3aca96265747",
   "description": "Deployed from sTONks Deployed from sTONks",
   "image": "https://img.stonks.cash/62997c40-2760-49c6-8710-80aadc089de9.png",
@@ -4588,6 +4653,13 @@
   "symbol": "GPU"
  },
  {
+  "address": "0:a8d1b2329e914eb6df86ba78e8ef555871d9ae6526deab13d5d3e05dde82f2ff",
+  "description": "",
+  "image": "https://assets.grambo.fun/mainnet/images/4409b13711d9436a8fcc7784e5667901.jpg",
+  "name": "GRAMBO KITTY",
+  "symbol": "KITTY"
+ },
+ {
   "address": "0:0a040d7ffb058fdf53236c5a7e0a253b45962c51eb645681d31d3b98811f0a86",
   "description": "Have you seen gramscan? There's a cat in its logo, so we'll call it gramcat!",
   "image": "https://i.ibb.co/7tB3xnbj/photo-2025-08-01-23-11-37.jpg",
@@ -4609,6 +4681,20 @@
   "symbol": "GRAMIO",
   "websites": [
    "https://gramio.lol/"
+  ]
+ },
+ {
+  "address": "0:26b1820069d3d0ac49fec19ad12b0aa19d178b0ce78a97d4fbd2e9ae934300d5",
+  "description": "Gramming \u2014 is when you are posting or talking about GRAM.\n\nIf it\u2019s about Gram, it\u2019s being talked about here.\n\nLet\u2019s get Gramming \ua61c\n",
+  "image": "https://raw.githubusercontent.com/basednegan/gramming-logo/main/logo-gramming.jpg",
+  "name": "Gramming",
+  "social": [
+   "https://x.com/grammingx",
+   "https://t.me/gramming_chat"
+  ],
+  "symbol": "GRAMMING",
+  "websites": [
+   "https://gramming.lol/"
   ]
  },
  {
@@ -4740,6 +4826,20 @@
   "symbol": "GOLD",
   "websites": [
    "https://digitgoldgame.com"
+  ]
+ },
+ {
+  "address": "0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca",
+  "description": "Grem is retarded Gram with meme vibe",
+  "image": "https://raw.githubusercontent.com/dn342658/Grem-imagee/e47bb47df5d6bdb5fbef351a723906aefca7e3d1/IMG_20260612_203509_907.4.jpg",
+  "name": "Grem",
+  "social": [
+   "https://t.me/gremcto",
+   "https://x.com/gremonton"
+  ],
+  "symbol": "GREM",
+  "websites": [
+   "https://grem.pw/"
   ]
  },
  {
@@ -4926,6 +5026,16 @@
    "https://x.com/heroeslegendss?s=11"
   ],
   "symbol": "HLR"
+ },
+ {
+  "address": "0:ce7713863965cc161b903607d0b75aefe3a73ed26190b558187506549015f034",
+  "description": "Community token of the Happy's MANDARIN ecosystem on TON. The project features an NFT collection with a dedicated reward fund providing weekly rewards to NFT holders.",
+  "image": "https://i.ibb.co/RTgYBhq7/IMG-20260201-123627-jpg.jpg",
+  "name": "Happy's MANDARIN",
+  "social": [
+   "https://t.me/HappysMANDARIN"
+  ],
+  "symbol": "HMDR"
  },
  {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
@@ -5338,6 +5448,20 @@
   "symbol": "KAT",
   "websites": [
    "https://katknight.io/"
+  ]
+ },
+ {
+  "address": "0:fccb0fa85b6b43df5d4665eb4b332eec3ac2ef47ff99bd838b78b0bcd2feb9e3",
+  "decimals": 6,
+  "description": "KEI is the core utility token of KEI Network, the world's first Digital Clone Economy Network.",
+  "image": "https://autumn-field-cc2c.4xnbt5v5u.workers.dev/619.png",
+  "name": "KEI",
+  "social": [
+   "https://t.me/keivipbot"
+  ],
+  "symbol": "KEI",
+  "websites": [
+   "https://www.kei.vip"
   ]
  },
  {
@@ -6852,21 +6976,6 @@
   "symbol": "NISMO"
  },
  {
-  "address": "0:7a1c56ab22a1e0420091765bdc81ebd51dcd4235dca8ae794dccb8d666a53940",
-  "description": "The coin and its name speak for themselves, we want to show and test whether it is really that easy to create a coin from scratch and it can really grow!",
-  "image": "https://trueimages.ru/img/ba/87/3318bf76.png",
-  "name": "NITRO VAG",
-  "social": [
-   "https://t.me/crypto_mining_rvn_etc",
-   "https://t.me/vagrchat",
-   "https://x.com/vagr_"
-  ],
-  "symbol": "NITRO",
-  "websites": [
-   "https://vagr-drive.ru/"
-  ]
- },
- {
   "address": "0:298d02b5aa967706310231a2b41a4b1e592eea7e7840e585dd3fe60a5242b61e",
   "description": "Definitely NOT Pepe. Nope.",
   "image": "https://notpepe.fun/images/nope-logo.png",
@@ -7700,6 +7809,21 @@
   "symbol": "PRZH"
  },
  {
+  "address": "0:664754b64dd7820cc97de7a231ce867b20fc787fe0f6b3a163dac7a8531472d5",
+  "description": "$PUBG is the utility token powering PUBGPRO.gg; It serves as the entry key for skill-based PUBG tournaments, the stake for access to higher-prize competitions, and the reward medium for winning players. By holding and staking PUBG, participants unlock premium brackets, earn referral commissions, and join profit-sharing pools.",
+  "image": "https://pubgpro.gg/uploads/pubg-coin.png",
+  "name": "PUBG",
+  "social": [
+   "https://t.me/pubgru",
+   "https://www.twitch.tv/PUBGPROTV",
+   "https://discord.com/invite/rupubg"
+  ],
+  "symbol": "PUBG",
+  "websites": [
+   "https://pubgpro.gg"
+  ]
+ },
+ {
   "address": "0:5ed4305480c4809e3c65fe2149628b4249eebb7ffe3d40f928c5454040b3d90e",
   "decimals": 9,
   "description": "PunchThePowerAsset GameFi Token",
@@ -7908,6 +8032,17 @@
    "https://empiresbattle.com",
    "https://t.me/EmpiresBattleBot"
   ]
+ },
+ {
+  "address": "0:2659d5b31b87ee051cbf7acba6ec09e8a59693c5c9a61f7268a038abf68ca41a",
+  "description": "QUBY is a cute sticker character created by Chinese artist Zhong Chaoneng in 2015 for WeChat. It became hugely popular because of its funny, exaggerated emotions that people could understand without words.",
+  "image": "https://i.ibb.co/Kx2rwZF2/photo-2024-06-11-16-27-33.jpg",
+  "name": "QUBY",
+  "social": [
+   "https://t.me/realquby",
+   "https://x.com/qubyonton?s=21"
+  ],
+  "symbol": "QUBY"
  },
  {
   "address": "0:f6a6ba4d05f0916b47d9a521c9be9bea153ee15bc4b0eae85cc468262005a280",
@@ -10139,6 +10274,19 @@
   ]
  },
  {
+  "address": "0:147ff83eb90302a89630cbdc46515c2b3262b6d14b14257553df18c4ebbd7bf5",
+  "description": "TROCK is the utility token of the TonRocket ecosystem on TON. Users can mine tokens, collect NFTs, and participate in community activities through the TonRocket Telegram bot.",
+  "name": "TonRocket",
+  "social": [
+   "https://t.me/tonrocketchatt",
+   "https://t.me/TonRocketOfficiall"
+  ],
+  "symbol": "TROCK",
+  "websites": [
+   "https://t.me/TonRocketOfficiall"
+  ]
+ },
+ {
   "address": "0:1107acdfbf72d99a433520b9049ef0ca261ecd72763211bad53932ed60808795",
   "description": "First Troll meme on Ton",
   "image": "https://i.ibb.co/5wT8zwT/troll.jpg",
@@ -10273,6 +10421,20 @@
    "https://t.me/tower_ton_english"
   ],
   "symbol": "TWRINV"
+ },
+ {
+  "address": "0:4d5d3820c40674c0203ca6eef1acb0a7ef2e883c5707c5340fa1b896ff1ab1b9",
+  "description": "TXL is the fuel of Toxic X Labs. Earn in-game profits, stake, buy boosters, and trade NFTs. All in one token.",
+  "image": "https://toxicx.space/assets/img/logo_tx_blue.webp",
+  "name": "Toxic X Labs",
+  "social": [
+   "https://t.me/toxic_x_official",
+   "https://t.me/toxic_x_nft"
+  ],
+  "symbol": "TXL",
+  "websites": [
+   "https://toxicx.space/"
+  ]
  },
  {
   "address": "0:10b20774fe688788407d2cba0f8fad9cf94eabfbe5f8a5801134c7ac9769d805",
@@ -10790,6 +10952,20 @@
   "symbol": "W3KT",
   "websites": [
    "https://www.w3kt.com"
+  ]
+ },
+ {
+  "address": "0:5fc0c6cac7ed5236536c0d393a6429d342571d97fe55c72d3751d130869a0899",
+  "decimals": 9,
+  "description": "WAAO is a Web3 entertainment token connecting K-POP fans worldwide into a unified global community.",
+  "image": "https://waao.io/images/waao-logo.png",
+  "name": "WAAO",
+  "social": [
+   "https://www.instagram.com/waao.official"
+  ],
+  "symbol": "WAAO",
+  "websites": [
+   "https://www.waao.io"
   ]
  },
  {
@@ -11564,6 +11740,11 @@
   "symbol": "BMNRx"
  },
  {
+  "address": "0:21ed510c722429e77d1805b043495c3d5cdb6307c5d24e59f07e7fcc5665b3d9",
+  "name": "RoboStrategy xStock",
+  "symbol": "BOTx"
+ },
+ {
   "address": "0:f3eb6247f93e6ae305ba0e9cee2fe44e292729382702d6222ff1d5c09d854d21",
   "name": "Berkshire Hathaway xStock",
   "symbol": "BRK.Bx"
@@ -12264,6 +12445,11 @@
   "symbol": "WBDx"
  },
  {
+  "address": "0:1d58532cec300c0b35ba0ce179eaded90fa782b33e1cce6d7a0ed4b1b81861c5",
+  "name": "Wendy's xStock",
+  "symbol": "WENx"
+ },
+ {
   "address": "0:f84a5bf80614b7ae840d54a8b64e850261cc9f7457c2e1f63846168c97eda7bf",
   "name": "Walmart xStock",
   "symbol": "WMTx"
@@ -12755,6 +12941,17 @@
   "websites": [
    "https://0xiceberg.com/"
   ]
+ },
+ {
+  "address": "0:bef7b155a502e11fd645f66bf2abee825737c40e52473996365b16f96cc7694d",
+  "description": "Investor Gram Token. Gram the Frog is launching a TG app and shaking up rewards! 100 percent of fees go to the project. 50 percent Token Buyback, 30 percent Collabs and Integrations, 20 percent Website, DEX & Contests.",
+  "image": "https://img.stonks.cash/53f0c765-c9ae-4ec9-a1cb-d452618c4ff4.jpg",
+  "name": "Investor Gram",
+  "social": [
+   "https://t.me/Invest0rGram",
+   "https://t.me/+_TObJBtHzs4zOWIy"
+  ],
+  "symbol": "IG"
  },
  {
   "address": "0:049a69023f5b6e1ef0acb8d671b8a7bdde3e032d7bcf8c3041318116693c352b",
@@ -13387,6 +13584,11 @@
   "symbol": "DONE"
  },
  {
+  "address": "0:3a05eb6a341d3e91ca2e7eeec2200892205dc8cbde5b27918b23c57a8e28a803",
+  "name": "DoNotBuyThisToken",
+  "symbol": "DONOTBUYTHISTOKEN"
+ },
+ {
   "address": "0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110",
   "name": "Donut The Dog",
   "symbol": "DONUT"
@@ -13652,11 +13854,6 @@
   "symbol": "GREENE"
  },
  {
-  "address": "0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca",
-  "name": "Grem",
-  "symbol": "GREM"
- },
- {
   "address": "0:3a1b4b951110d94e42cd6b476b5819dad45e5349ba20cbb5171165391111f3e2",
   "name": "Pepe Grinch",
   "symbol": "GRINCH"
@@ -13772,6 +13969,11 @@
   "symbol": "INFT"
  },
  {
+  "address": "0:26027aa058fa986515fc5453e61644380441bebac393289edd4b8890af9bff66",
+  "name": "Intern Fund",
+  "symbol": "INTERNFUND"
+ },
+ {
   "address": "0:6f138af59d87eed35102d3f10dda57edbb1d5f639a8161821e2a9c479926ea2c",
   "name": "Investor TON",
   "symbol": "INV"
@@ -13850,6 +14052,11 @@
   "address": "0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446",
   "name": "Nikolai Durov",
   "symbol": "KOT"
+ },
+ {
+  "address": "0:26be9d55aebd33636fbe493747fb45ff98fe62083eb5a76bcd5496301e58019e",
+  "name": "kot\u00e9 ",
+  "symbol": "KOT\u00c9"
  },
  {
   "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
@@ -13945,11 +14152,6 @@
   "address": "0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f",
   "name": "Commander",
   "symbol": "MANDER"
- },
- {
-  "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
-  "name": "Marg",
-  "symbol": "MARG"
  },
  {
   "address": "0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777",
@@ -14093,7 +14295,7 @@
  },
  {
   "address": "0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28",
-  "name": "MyTonWallet Coin",
+  "name": "My Wallet Coin",
   "symbol": "MY"
  },
  {
@@ -14140,6 +14342,11 @@
   "address": "0:ca13f38afaa91fc94d3c25b3059225f912dc57cc5d3a8f75e727ee23309f2819",
   "name": "Blockton News",
   "symbol": "NEWS"
+ },
+ {
+  "address": "0:6f2d623194f2d74c3eae3fd5b8843ef18743cc5deb7d83ce78af1f3939f63e79",
+  "name": "NIGGA",
+  "symbol": "NIGGA"
  },
  {
   "address": "0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6",
@@ -14632,6 +14839,11 @@
   "symbol": "SEED"
  },
  {
+  "address": "0:3a489f7f53bd002a5cd8a20116428654ad2a53604291a62ab3a3f13ccd889194",
+  "name": "Shadow Kitty",
+  "symbol": "SHADOWKITTY"
+ },
+ {
   "address": "0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd",
   "name": "BARASH",
   "symbol": "SHEEP"
@@ -15009,6 +15221,11 @@
  {
   "address": "0:0ea7f189bd775ff8a3b2af3c1757951fd0fcdbb1ce505cb44fc0f73a763d589e",
   "name": "Tony McDuck",
+  "symbol": "TONY"
+ },
+ {
+  "address": "0:07f0e48dca6cb0490c8f135b74b542c59713bfff28549a5b1ca5309f30b7ff4c",
+  "name": "Tony from TON",
   "symbol": "TONY"
  },
  {
@@ -18075,6 +18292,18 @@
   "symbol": "wNOT"
  },
  {
+  "address": "0:5fae639d4ac74b3a4d6d8b3cf1dfb24aa005bb1b42c73afb7465bf29567939ee",
+  "decimals": 9,
+  "description": "Shadow Kitty is a community-driven meme token on The Open Network.",
+  "image": "https://i.postimg.cc/DZGqN9r8/shadowskitty.jpg",
+  "name": "Shadow Kitty",
+  "social": [
+   "https://x.com/Skittygram",
+   "https://t.me/skittygram"
+  ],
+  "symbol": "SKITTY"
+ },
+ {
   "address": "0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63",
   "description": "A Safe journey to the Moon. Initial LP locked 100% forever on dedust locker.",
   "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/IMG_0698.jpeg",
@@ -18628,11 +18857,12 @@
  },
  {
   "address": "0:c10d5cd47e6b52d4c46548f4870c64e5c14a12b93418054ece7fee26315e3707",
-  "description": "\u9e2d\u9e2d | Yaya \u2014 It's a duck. On TON. Memecoin. \u6ca1\u6709\u8def\u7ebf\u56fe\u3002\u6ca1\u6709\u627f\u8bfa\u3002\u53ea\u662f\u560e\u3002No roadmap. No promises. Just quack.",
-  "name": "YAYA Token",
+  "description": "YAYA is IP Meme with own ecosystem, access now: http://t.me/yayaminiapps_bot",
+  "image": "https://img.stonks.cash/c1baad35-4b12-4c9b-96e3-9b3810424839.jpg",
+  "name": "YAYA",
   "social": [
-   "https://t.me/yayamemeton",
-   "https://x.com/YaYaMemeTON"
+   "https://t.me/yaya_gram",
+   "https://x.com/Yaya_gram"
   ],
   "symbol": "YAYA",
   "websites": [

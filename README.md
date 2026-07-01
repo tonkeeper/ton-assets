@@ -18,7 +18,7 @@ Name           | Address
 [.ton DNS](https://tonviewer.com/0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf) | EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz
 [TON Believers Fund](https://tonviewer.com/0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7) | EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2
 [Tonstakers](https://tonviewer.com/0:a45b17f28409229b78360e3290420f13e4fe20f90d7e2bf8c4ac6703259e22fa) | EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
-[Tonkeeper battery](https://tonviewer.com/0:7ae5056c3fd9406f9bbbe7c7089cd4c40801d9075486cbedb7ce12df119eacf1) | EQB65QVsP9lAb5u758cInNTECAHZB1SGy-23zhLfEZ6s8aLF
+[TONAPI main gas proxy](https://tonviewer.com/0:7ae5056c3fd9406f9bbbe7c7089cd4c40801d9075486cbedb7ce12df119eacf1) | EQB65QVsP9lAb5u758cInNTECAHZB1SGy-23zhLfEZ6s8aLF
 [TONAPI gas proxy](https://tonviewer.com/0:e065d735fc349ad0d8674033798b99af76f8dce671a9c49d4fe9164e644a6a52) | EQDgZdc1_DSa0NhnQDN5i5mvdvjc5nGpxJ1P6RZOZEpqUjCj
 [TONAPI gas proxy](https://tonviewer.com/0:0dc09ed193e47757057ed6eee7fb0677719f31bd8828113ed52d47abf23447da) | EQANwJ7Rk-R3VwV-1u7n-wZ3cZ8xvYgoET7VLUer8jRH2lsx
 [TONAPI gas proxy](https://tonviewer.com/0:736118ab10bedfb4031dc904ec9d7c9061a905f6efa5d8f55d684233b715b57b) | EQBzYRirEL7ftAMdyQTsnXyQYakF9u-l2PVdaEIztxW1e2x2
@@ -273,6 +273,7 @@ Name           | Address
 [GiftBox Sleeping Giant](https://tonviewer.com/0:1d563b0a8034b355eca7602bbe8453b454f0705777949131848b9f6b2020042e) | EQAdVjsKgDSzVeynYCu-hFO0VPBwV3eUkTGEi59rICAELvxT
 [GiftBox TON's Witnesses](https://tonviewer.com/0:bb19eecc87d581b11feecf5b6d14b2edbedc013ad06cdd16b41226191feff15c) | EQC7Ge7Mh9WBsR_uz1ttFLLtvtwBOtBs3Ra0EiYZH-_xXCHM
 [Golden Sunrise](https://tonviewer.com/0:57b05284fd3cf8d840c6ae84f31a73d644d8ba5db5ecfb3fff6c6e818d85a3a2) | EQBXsFKE_Tz42EDGroTzGnPWRNi6XbXs-z__bG6BjYWjokNY
+[Gram Kitty](https://tonviewer.com/0:ae18071a98057202c5258faa02575296b02bffef7e99c501a489d542a6fd4122) | EQCuGAcamAVyAsUlj6oCV1KWsCv_736ZxQGkidVCpv1BIvbH
 [Grouche Rewards](https://tonviewer.com/0:7958c516fb3c518f5cb1c9bfc7140db917655e19bd4b90f32ba576620f847851) | EQB5WMUW-zxRj1yxyb_HFA25F2VeGb1LkPMrpXZiD4R4UR_1
 [Hidden Dragon](https://tonviewer.com/0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd) | EQA688-wBLlWrVC9v0jxauxRURqNo6FnJSxos4Uem_gqvfPh
 [JVault locks](https://tonviewer.com/0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94) | EQCSFRiFm_qjv7W6S9xjI7ZY2XJecUhd4VymLglsOE88lMYH

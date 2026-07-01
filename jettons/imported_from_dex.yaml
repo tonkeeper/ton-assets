@@ -376,6 +376,9 @@
 - address: 0:a0194301feed4692bb24c36a38d3b220f3299099f9315ae3d6d9de0836e4283c
   name: D-ONE
   symbol: DONE
+- address: 0:3a05eb6a341d3e91ca2e7eeec2200892205dc8cbde5b27918b23c57a8e28a803
+  name: DoNotBuyThisToken
+  symbol: DONOTBUYTHISTOKEN
 - address: 0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110
   name: Donut The Dog
   symbol: DONUT
@@ -535,9 +538,6 @@
 - address: 0:714b940b57df65eeacc6129133d795a79f2eae088c7a66fde7fc8aed22346036
   name: Mr Greene
   symbol: GREENE
-- address: 0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca
-  name: Grem
-  symbol: GREM
 - address: 0:3a1b4b951110d94e42cd6b476b5819dad45e5349ba20cbb5171165391111f3e2
   name: Pepe Grinch
   symbol: GRINCH
@@ -607,6 +607,9 @@
 - address: 0:047d436f074d64de4872c8c25e42ee98eb4f5338fb66ffe327d3ed763496f849
   name: Infinity
   symbol: INFT
+- address: 0:26027aa058fa986515fc5453e61644380441bebac393289edd4b8890af9bff66
+  name: Intern Fund
+  symbol: INTERNFUND
 - address: 0:6f138af59d87eed35102d3f10dda57edbb1d5f639a8161821e2a9c479926ea2c
   name: Investor TON
   symbol: INV
@@ -655,6 +658,9 @@
 - address: 0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446
   name: Nikolai Durov
   symbol: KOT
+- address: 0:26be9d55aebd33636fbe493747fb45ff98fe62083eb5a76bcd5496301e58019e
+  name: "kot\xE9 "
+  symbol: "KOT\xC9"
 - address: 0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862
   name: MrKrabs
   symbol: KRABS
@@ -712,9 +718,6 @@
 - address: 0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f
   name: Commander
   symbol: MANDER
-- address: 0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d
-  name: Marg
-  symbol: MARG
 - address: 0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777
   name: Margaritis
   symbol: MARGA
@@ -800,7 +803,7 @@
   name: Magic Vip People
   symbol: MVP
 - address: 0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28
-  name: MyTonWallet Coin
+  name: My Wallet Coin
   symbol: MY
 - address: 0:b61a009227a04d7ee83666022b248c9dac9872228bdfa0b537d4df8c9d3e6e57
   name: MexCrewn
@@ -829,6 +832,9 @@
 - address: 0:ca13f38afaa91fc94d3c25b3059225f912dc57cc5d3a8f75e727ee23309f2819
   name: Blockton News
   symbol: NEWS
+- address: 0:6f2d623194f2d74c3eae3fd5b8843ef18743cc5deb7d83ce78af1f3939f63e79
+  name: NIGGA
+  symbol: NIGGA
 - address: 0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6
   name: NikolAI
   symbol: NIKO
@@ -1123,6 +1129,9 @@
 - address: 0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719
   name: SEED
   symbol: SEED
+- address: 0:3a489f7f53bd002a5cd8a20116428654ad2a53604291a62ab3a3f13ccd889194
+  name: Shadow Kitty
+  symbol: SHADOWKITTY
 - address: 0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd
   name: BARASH
   symbol: SHEEP
@@ -1351,6 +1360,9 @@
   symbol: TONSKI
 - address: 0:0ea7f189bd775ff8a3b2af3c1757951fd0fcdbb1ce505cb44fc0f73a763d589e
   name: Tony McDuck
+  symbol: TONY
+- address: 0:07f0e48dca6cb0490c8f135b74b542c59713bfff28549a5b1ca5309f30b7ff4c
+  name: Tony from TON
   symbol: TONY
 - address: 0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81
   name: ToonTools
