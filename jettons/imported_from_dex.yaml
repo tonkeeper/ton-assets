@@ -337,6 +337,9 @@
 - address: 0:53507e9c768ce9d935ae8c0a9a98d8e0982ad7715ec5ada43a2a2783bbba58b0
   name: DEANON
   symbol: DEANON
+- address: 0:269c0d785de06a4d11d4a9195aaacfcf3c0b7105af8723677da2a1f377301a30
+  name: DedustFund
+  symbol: DEDUSTFUND
 - address: 0:5cf8be42cf344a991dfe4dd3b0066e25f97c8977126ddc77c022bfea32229a07
   name: DEPOSIT
   symbol: DEPOSIT
@@ -766,6 +769,9 @@
 - address: 0:a05b788c898aa4a818ea611dfdd70e76e7ede99c5cd5b2d1e56d9e1d92e956fe
   name: MiDtoken
   symbol: MID
+- address: 0:26e4756432f6567a9b312042107ec3259fa60926894642627130b614e55f21d5
+  name: TON CTO LEAD
+  symbol: MIKEY
 - address: 0:6a69044de9e45e253cd9fbc470eeecd6b1cf63bfce5ccdd80cccb19ae7d25bdb
   name: MINOTAUR
   symbol: MINOTAUR
