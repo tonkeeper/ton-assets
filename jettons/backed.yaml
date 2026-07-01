@@ -61,6 +61,9 @@
 - address: 0:f3eb6247f93e6ae305ba0e9cee2fe44e292729382702d6222ff1d5c09d854d21
   name: Berkshire Hathaway xStock
   symbol: BRK.Bx
+- address: 0:dcde4441c230ed57f2929b715b80636a53d3803f0d370ec035dce5a759c4e169
+  name: Bending Spoons xStock
+  symbol: BSPx
 - address: 0:574ec92b5d191043d24eec479a557c020ffa619ebccd83d11d37ddbadff6444d
   name: Bit Digital xStock
   symbol: BTBTx
