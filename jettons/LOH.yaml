@@ -1,0 +1,8 @@
+name: "loh"
+symbol: "LOH"
+address: "EQC81slflx6NkfpfL8ihZsES7SEg0nxMtzam7FLGxcH5L1d9"
+description: "Low Opinioned Horse (LOH)."
+image: "https://raw.githubusercontent.com/riotoff/lohogo/refs/heads/main/photo_2026-05-26_19-39-06.png"
+decimals: 9
+social:
+  - "https://t.me/lohenizer"
