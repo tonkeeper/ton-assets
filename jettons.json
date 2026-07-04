@@ -4592,7 +4592,7 @@
   "address": "0:5a4a6d644e691eed20f940d9531a2d6a3ccf3fe657c484d8e4eda079849eb0f7",
   "decimals": 9,
   "description": "Mine rewards by completing quests inside Telegram. No airdrop waitlist. Earn today, withdraw from $1.\n",
-  "image": "https://gomine.social/gomine-icon-512.png",
+  "image": "https://gomine.social/gomine-icon-512-v2.png",
   "name": "GoMine",
   "social": [
    "https://x.com/GoMineApp",
@@ -8536,7 +8536,7 @@
  {
   "address": "0:d5d10f1eb8f3ddb311df68e4009ad743ae1de3e68fe874c60824ce27ba250eea",
   "description": "Scared Cats is a community-led CTO project on TON, based on the famous Telegram collectible Scared Cats. The project is now managed by the community, with secured official links and updated public metadata.",
-  "image": "https://i.postimg.cc/zXTgSH42/scatcto.avif",
+  "image": "https://i.postimg.cc/nL8PytKT/scatcto.avif",
   "name": "Scared Cats",
   "social": [
    "https://x.com/Scaredcatcto",
@@ -11750,6 +11750,11 @@
   "symbol": "BRK.Bx"
  },
  {
+  "address": "0:dcde4441c230ed57f2929b715b80636a53d3803f0d370ec035dce5a759c4e169",
+  "name": "Bending Spoons xStock",
+  "symbol": "BSPx"
+ },
+ {
   "address": "0:574ec92b5d191043d24eec479a557c020ffa619ebccd83d11d37ddbadff6444d",
   "name": "Bit Digital xStock",
   "symbol": "BTBTx"
@@ -12863,7 +12868,7 @@
  },
  {
   "address": "0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc",
-  "image": "https://hpo.hipo.finance/hpo.png",
+  "image": "https://hipo.finance/hpo.svg",
   "name": "Hipo Governance Token",
   "social": [
    "https://t.me/HipoFinance",
@@ -12873,7 +12878,7 @@
   ],
   "symbol": "HPO",
   "websites": [
-   "https://hpo.hipo.finance"
+   "https://hipo.finance/hpo"
   ]
  },
  {
@@ -13517,6 +13522,11 @@
   "address": "0:53507e9c768ce9d935ae8c0a9a98d8e0982ad7715ec5ada43a2a2783bbba58b0",
   "name": "DEANON",
   "symbol": "DEANON"
+ },
+ {
+  "address": "0:269c0d785de06a4d11d4a9195aaacfcf3c0b7105af8723677da2a1f377301a30",
+  "name": "DedustFund",
+  "symbol": "DEDUSTFUND"
  },
  {
   "address": "0:5cf8be42cf344a991dfe4dd3b0066e25f97c8977126ddc77c022bfea32229a07",
@@ -14234,6 +14244,11 @@
   "symbol": "MID"
  },
  {
+  "address": "0:26e4756432f6567a9b312042107ec3259fa60926894642627130b614e55f21d5",
+  "name": "TON CTO LEAD",
+  "symbol": "MIKEY"
+ },
+ {
   "address": "0:6a69044de9e45e253cd9fbc470eeecd6b1cf63bfce5ccdd80cccb19ae7d25bdb",
   "name": "MINOTAUR",
   "symbol": "MINOTAUR"
@@ -14537,6 +14552,11 @@
   "address": "0:69e850240dd1c3fe52ca50123e27e12de7341ec89962c5ce9fde22870627bce4",
   "name": "Proof of Karl",
   "symbol": "POK"
+ },
+ {
+  "address": "0:267b9677ff0b1586f49e993bf0153a2ad80211cff3527c476228e81d23c1f5d4",
+  "name": "Pombo gram",
+  "symbol": "POMBO"
  },
  {
   "address": "0:bc5e450459be9bcdbcc4f5e55a012a0a502c9803f0944002c6135e635889c4aa",
@@ -15221,6 +15241,11 @@
  {
   "address": "0:0ea7f189bd775ff8a3b2af3c1757951fd0fcdbb1ce505cb44fc0f73a763d589e",
   "name": "Tony McDuck",
+  "symbol": "TONY"
+ },
+ {
+  "address": "0:07f0e48dca6cb0490c8f135b74b542c59713bfff28549a5b1ca5309f30b7ff4c",
+  "name": "Tony from TON",
   "symbol": "TONY"
  },
  {
