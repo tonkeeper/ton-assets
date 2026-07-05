@@ -412,6 +412,9 @@
 - address: 0:0e931d4c7648833210c6c33f1366e304df084642ab15a5946b4d216aa48c051c
   name: 'Paul Duroff '
   symbol: DUROFF
+- address: 0:2607fb27755e3937e726813dad8a140e71a7f81204f79e186cbd8789e149c809
+  name: The grambull
+  symbol: DUROV
 - address: 0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401
   name: Earnigram
   symbol: EARNI
