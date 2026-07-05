@@ -13894,6 +13894,11 @@
   "symbol": "GRX6900"
  },
  {
+  "address": "0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83",
+  "name": "Gram super cycle",
+  "symbol": "GSC"
+ },
+ {
   "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
   "name": "Gold Standard",
   "symbol": "GSTD"
