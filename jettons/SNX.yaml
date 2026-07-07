@@ -1,0 +1,12 @@
+name: StarNex
+image: "https://files.tgstars.uk/jetton-icon.png"
+description: StarNex (SNX) is the first reward token on its own smart contract in GRAM. Hold SNX in your wallet and receive GRAM rewards.
+address: EQCv6SpGEsC97jBYUkX-rPC8FnvPeJkwhydTVRDzY3QnlsNx
+symbol: SNX
+decimals: 9
+websites:
+  - "https://tgstars.uk/"
+social:
+  - "https://t.me/starnexton"
+  - "https://t.me/lot_tery_bot"
+  - "https://x.com/starnexton"
