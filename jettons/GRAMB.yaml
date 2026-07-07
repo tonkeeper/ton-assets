@@ -1,0 +1,11 @@
+name: GRAM Bridge Ticket
+description: GRAMB is the utility token of GRAM Bridge on TON. Hold GRAMB for a monthly draw — 50% of bridge fees collected on grambridge.fun are airdropped to one on-chain holder.
+address: 0:20475d4c47d007f6be81562dd89cb266b44031f1e9f5352690c9cf59b3f664b0
+symbol: GRAMB
+websites:
+  - "https://www.grambridge.fun"
+  - "https://app.ston.fi/swap?ft=TON&tt=EQAgR11MR9AH9r6BVi3YnLJmtEAx8en1NSaQyc9Zs_ZksAGC&chartVisible=false&fa=%2210%22"
+social:
+  - "https://t.me/GRAM_Bridge_TON"
+  - "https://t.me/GRAMB_News"
+  - "https://x.com/GRAM_Bridge"
