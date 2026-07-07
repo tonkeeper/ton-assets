@@ -1924,6 +1924,17 @@
   "symbol": "CHAIN"
  },
  {
+  "address": "0:718cd9b0a53cd230323afbf5f669defc7f09ef657c5d1d2ccdcb1ff4c25e67db",
+  "description": "CHEPE is a community meme token on TON.",
+  "image": "https://img.stonks.cash/32c2739e-7151-4ac7-8599-d1c8cd96b26f.png",
+  "name": "CHEPE",
+  "social": [
+   "https://t.me/chepechat",
+   "https://x.com/chepetonbot"
+  ],
+  "symbol": "CHEPE"
+ },
+ {
   "address": "0:c5680842c4ac744c6399f61f291332e2d3203e69a69639028e936e640177aeaf",
   "description": "Durov's Child - meme coin on TON.",
   "image": "https://i.postimg.cc/x1n76y6V/IMG-0428.jpg",
