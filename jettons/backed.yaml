@@ -367,6 +367,9 @@
 - address: 0:6e02373c8bd53ff5fc2b9ebe48e10a21ccd8ee73c42c53c262c105ac99201383
   name: iShares 0-3 Month Treasury Bond ETF xStock
   symbol: SGOVx
+- address: 0:007a242f9534f2178f2c6f1d409bf9ae57987a1570b410c86b009c8aff2546da
+  name: SK hynix xStock
+  symbol: SKHYx
 - address: 0:5478361f71bedb24b8bcdb4c748932cdaadec59b04f207520bda4c24eace2b53
   name: Brera xStock
   symbol: SLMTx
