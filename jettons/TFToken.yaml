@@ -1,0 +1,16 @@
+name: "TFToken"
+
+symbol: "TFToken"
+
+address: "EQAz8hPrHeGJCGrepBxhgQ22DVo3pRG2GUOmlz5iGvrLw5MH"
+
+description: "TFToken is the official utility token of the TFGame ecosystem. It powers rewards, in-game purchases, staking and community participation."
+
+image: "https://github.com/FriendsGameACTF/website/blob/main/logo2.png?raw=true"
+
+websites:
+  - "https://tfgamestudio.com"
+
+social:
+  - "https://t.me/TFGameOfficial"
+  - "https://x.com/TFGAME2025"
