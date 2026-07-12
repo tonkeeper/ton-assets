@@ -246,6 +246,7 @@ Name           | Address
 [Chill Flames](https://tonviewer.com/0:65049e27d35a6661ecf954f77c5a8e7df2cf1a81b402c953a3b9c5cac4b0c08b) | EQBlBJ4n01pmYez5VPd8Wo598s8agbQCyVOjucXKxLDAi9r7
 [Timeless Books](https://tonviewer.com/0:b6d76763aead208254178bc312157d5b730e0b1f0dc4b3ada52afb75959cf3b1) | EQC212djrq0gglQXi8MSFX1bcw4LHw3Es62lKvt1lZzzsYuF
 [Vice Creams](https://tonviewer.com/0:dcd3c631cd95ad94a028852c9b35cde45c09003cfb47721fa363f13a28c4376f) | EQDc08YxzZWtlKAohSybNc3kXAkAPPtHch-jY_E6KMQ3b1mn
+[Surge Boards](https://tonviewer.com/0:cb75aef5e46a1c3f5b180e409e70f84eede14db0dbc0443e29ba66c649a9fdeb) | EQDLda715GocP1sYDkCecPhO7eFNsNvARD4pumbGSan96wvZ
 
 
 ## NFT collections

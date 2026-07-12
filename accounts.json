@@ -963,6 +963,10 @@
   "name": "Vice Creams"
  },
  {
+  "address": "0:cb75aef5e46a1c3f5b180e409e70f84eede14db0dbc0443e29ba66c649a9fdeb",
+  "name": "Surge Boards"
+ },
+ {
   "address": "-1:a491d63f07ba7eefb4cb9f685484ce9089d5abaec97c15858222f04ca592a9ac",
   "name": "PoW Giver 1"
  },
