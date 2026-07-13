@@ -10506,6 +10506,16 @@
   ]
  },
  {
+  "address": "0:487afc4d395ab77aada45930046d0d7a6d9501eb085d9b66fb1cdf1b9e856567",
+  "description": "Deployed from sTONks",
+  "image": "https://i.ibb.co/1Y4Mnkm3/1000087656-jpg.jpg",
+  "name": "The musical bomb",
+  "social": [
+   "https://t.me/KogradMB"
+  ],
+  "symbol": "MB"
+ },
+ {
   "address": "0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965",
   "description": "Audiatur et altera pars. Universal Altcoin on Ton. @teneretoken . chat: @tenerechat",
   "name": "Tenere",
