@@ -1,0 +1,22 @@
+name: Prism Star
+symbol: PRISM
+description: Utility token for PRISM STAR, a Telegram Mini App collectible card battle game featuring 300+ cards, gacha, progression, equipment, boss battles, seasonal rankings and PRISM RUSH.
+address: EQBeUe1l-2qkBYQGyX_m6VVJ9RalyAcdIdmJNEDX5EIfr8d2
+decimals: 9
+image: https://playprismstar.com/token/logo.png
+
+websites:
+  - https://playprismstar.com
+  - https://playprismstar.com/token
+  - https://playprismstar.com/whitepaper
+
+social:
+  - https://x.com/PlayPrismStar
+  - https://t.me/PrismStarOfficial
+  - https://t.me/PrismStarCommunity
+
+tags:
+  - gamefi
+  - gaming
+  - telegram
+  - miniapp
