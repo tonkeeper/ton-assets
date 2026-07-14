@@ -7981,6 +7981,20 @@
   ]
  },
  {
+  "address": "0:3a1b4b951110d94e42cd6b476b5819dad45e5349ba20cbb5171165391111f3e2",
+  "description": "The only Pepe on TON by Egor Zhgun. The face of every trader's missed opportunity.",
+  "image": "https://www.grinchpepe.vip/assets/hero/logo.png",
+  "name": "Pepe Grinch",
+  "social": [
+   "https://t.me/grinchgramCTO",
+   "https://x.com/TheGrinchPepe"
+  ],
+  "symbol": "GRINCH",
+  "websites": [
+   "https://www.grinchpepe.vip"
+  ]
+ },
+ {
   "address": "0:c78e917048b63ef4d0b6770aa3125a717bd7cfb75e1de9939407182c93557813",
   "description": "The reward pig that pays you in TON for holding. Don't break the bank \u2014 let it grow.",
   "image": "https://raw.githubusercontent.com/kokokorona/Piggy-bank/refs/heads/main/logo.png",
@@ -13944,11 +13958,6 @@
   "address": "0:714b940b57df65eeacc6129133d795a79f2eae088c7a66fde7fc8aed22346036",
   "name": "Mr Greene",
   "symbol": "GREENE"
- },
- {
-  "address": "0:3a1b4b951110d94e42cd6b476b5819dad45e5349ba20cbb5171165391111f3e2",
-  "name": "Pepe Grinch",
-  "symbol": "GRINCH"
  },
  {
   "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
