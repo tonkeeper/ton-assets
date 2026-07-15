@@ -1,0 +1,11 @@
+name: "$1"
+description: "$1 is the native utility token of the ONE Ecosystem, built on the TON blockchain. It is used for governance, voting, and participation in prediction markets within ONE Wallet."
+image: "https://assets.1dollar.day/onedollar-token/onedollar_logo.png"
+address: EQCV2rGE-rCcHaiOgrFuqBt98pcFCZEGm47Zs_3mILO-2hxe
+symbol: "$1"
+websites:
+  - "https://onewallet.store/"
+social:
+  - "https://t.me/onedollar_project"
+  - "https://x.com/one_wallet_"
+  - "https://www.facebook.com/profile.php?id=61589009140069"
