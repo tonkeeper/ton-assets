@@ -1,4 +1,9 @@
+name: Rignite Token
+description: In-game token of Rignite, a tap-to-mine game on Telegram built on TON.
+image: "https://app.rignite.app/icon.png"
+address: "EQD4s-7jCQ_OBxNMjNagrLO3yFGAKadmwYc2jnpRMw1fcl2E"
 symbol: RGNT
-address: EQD4s-7jCQ_OBxNMjNagrLO3yFGAKadmwYc2jnpRMw1fcl2E
-name: "Rignite Token"
-decimals: 9
+websites:
+  - "https://rignite.app"
+social:
+  - "https://t.me/RigniteOfficial"
