@@ -1,0 +1,16 @@
+name: FRANC
+symbol: FRANC
+decimals: 9
+image: https://raw.githubusercontent.com/FrancLeCoq/Wallet/main/francis.png
+description: FRANC is the utility memecoin of the Francis Le Coq ecosystem, combining Telegram games, daily crypto and world news, holder perks, and French and international communities on TON.
+
+social:
+  - https://t.me/LeCoqFrancis
+  - https://x.com/FrancLeCoq
+  - https://t.me/FrancisLeCoq
+  - https://x.com/lecoqfrancisX
+
+websites:
+  - https://t.me/FrancisLeCoqBot
+
+address: EQBMR3POM1sdShe7QoSVt6DDauoor4QOK4HsN7eBdoi5lrn6
