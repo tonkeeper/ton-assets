@@ -11500,6 +11500,20 @@
   ]
  },
  {
+  "address": "0:2655e582c8fb0ace9cb2eb313e433c99d251ffeec1669aba165714b46ff7c967",
+  "description": "EGOR ZHGUN'S CAT ($ZCAT) is the unmistakable cat drawn by Egor Zhgun more than a decade ago: a simple and expressive creation born from his graphic humor.\n\nOriginal post: https://x.com/zhgun/status/418111956139409408\n",
+  "image": "https://raw.githubusercontent.com/basednegan/zcat-images/main/zcat-logo.jpg",
+  "name": "Egor Zhgun's Cat",
+  "social": [
+   "https://x.com/ZhgunCat",
+   "https://t.me/ZhgunCatCTO"
+  ],
+  "symbol": "ZCAT",
+  "websites": [
+   "https://zcat.lol/"
+  ]
+ },
+ {
   "address": "0:085625e58ae4453452ba5199de4498c3a91b7856657f85b87c9034aa0c570842",
   "decimals": 9,
   "description": "Liquidity pool token for Zcoin TON and Proxy TON on STON.fi DEX",
