@@ -4518,6 +4518,22 @@
   ]
  },
  {
+  "address": "0:5a1d2c08991065db9ad6802a46d62b3f83f7c1c80b7e753dfa00f2e7cb00bbbf",
+  "decimals": 9,
+  "description": "GLAME club utility token for CryptoGLAME rewards, GLM Store utility and bridge operations with real GLAME loyalty points.",
+  "image": "https://partner.glamejewelry.ru/static/glm_policy/glm-token-icon-v3.png",
+  "name": "GLAME Coin",
+  "social": [
+   "https://t.me/glamejewelry"
+  ],
+  "symbol": "GLM",
+  "websites": [
+   "https://glamejewelry.ru",
+   "https://partner.glamejewelry.ru/glm",
+   "https://partner.glamejewelry.ru/referral"
+  ]
+ },
+ {
   "address": "0:65b22736d7ad2c703f6b697a1aeb583046f070debb1e2f6f8aeb9779635717a7",
   "description": "Galaxy Online is an online strategy game with a huge meta-universe consisting of many galaxies.",
   "image": "https://galaxyonline.io/images/redesign/coin-galaxy.png",
