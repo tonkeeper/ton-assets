@@ -13,6 +13,9 @@
 - address: 0:efb12c60e328fe47d4301170aacb39c120c3d96adfb9440a983d48e78f6e4f91
   name: Adobe xStock
   symbol: ADBEx
+- address: 0:292d9fe42ccf886530bc5dd137d0196838c658012ccd2fdafa0c3cda77095649
+  name: Analog Devices xStock
+  symbol: ADIx
 - address: 0:0bd961eb6a3d0661affcbae064fe9726b002427e197423e9e2edd566f986a172
   name: Applied Materials, Inc. xStock
   symbol: AMATx
@@ -70,6 +73,9 @@
 - address: 0:e451ccac3fc51619124c212fd7030f35d92040d4257df543e3dadcf71d09c1ba
   name: Bitgo xStock
   symbol: BTGOx
+- address: 0:927dd498b68628670e71041272fa87e293f81f5f3f88e644e0337699640a7499
+  name: Caterpillar xStock
+  symbol: CATx
 - address: 0:68fc01e35abd375299d4f56320ccba4df91407da22b46705d947a68d5c5f434c
   name: Constellation Energy Corporation xStock
   symbol: CEGx
@@ -103,6 +109,9 @@
 - address: 0:cefa62b68c7340a90079365c992803be09be1a67991fd11f354cfd72a8450ee9
   name: Chevron xStock
   symbol: CVXx
+- address: 0:7f22ec3f7d6b04c06e87f1532524fa29cf021e8a4f6b89fac5570c7bd9dd39ef
+  name: Citigroup xStock
+  symbol: Cx
 - address: 0:ad997cc9ccfc651176afb67fa1dee96ced48b9bc96dabe0b7510615bf394d0bb
   name: Global X DAX Germany xStock
   symbol: DAXx
@@ -157,6 +166,9 @@
 - address: 0:5985e7354a2f2362a4dfcd3c061f3d3d339f124a0f846f374e4418a190cf07b1
   name: GE Vernova Inc. xStock
   symbol: GEVx
+- address: 0:1ae47eea17379c5c6b02a65516b62714640e30eb815f026f038900bcc5970713
+  name: GE Aerospace xStock
+  symbol: GEx
 - address: 0:b8f63eaf526adaac9cd23a565f347607a0d1075f7fffd285f57592c47c4ed5cb
   name: Gold xStock
   symbol: GLDx
@@ -280,6 +292,9 @@
 - address: 0:5bb0b607e6c0fbe2060ee033a88f442c1da34bf3534b0f5dc07619260f4529fb
   name: MicroStrategy xStock
   symbol: MSTRx
+- address: 0:b23e511af7e4b85ce4c5d2b08e65457fc69d5fcf6a2db5775d9b7aec480aa6a7
+  name: Morgan Stanley xStock
+  symbol: MSx
 - address: 0:a73ccfa40e6ea28c1a81c51ed1ea59282f32c9f0eca2e42ac4725674a15735e9
   name: Micron Technology xStock
   symbol: MUx
@@ -343,6 +358,9 @@
 - address: 0:4d3e31874dd019f01f7f274c9bd178eb029813e8c9da0979bd75acbbc11aab1a
   name: PayPal xStock
   symbol: PYPLx
+- address: 0:f97cb454981be64e314a3fec35a7b58756f6d4ebec706c4fa1a2a6d976c8b74e
+  name: Qualcomm xStock
+  symbol: QCOMx
 - address: 0:9eeaeb70a913a6acefdc39452f54d624bf279c5237ee82dba0be153095561212
   name: Nasdaq xStock
   symbol: QQQx
@@ -355,6 +373,9 @@
 - address: 0:15ce0772400942e29b2ecb32e22e652493113137c4e17410243a2236fb1a445c
   name: Riot Platforms xStock
   symbol: RIOTx
+- address: 0:cdada819b526b7a239fe5813af967934c68d4b19ad92f5a23de558b95f8bf937
+  name: RTX xStock
+  symbol: RTXx
 - address: 0:02a4ee4082b9e61481c9dc47397e48e8c515dd39d455ea84bfdf61a1e4c57b46
   name: Strive, Inc. Series A Preferred xStock
   symbol: SATAx
@@ -433,6 +454,9 @@
 - address: 0:8a46bb7d9e4e88053aa4b7ea58a459d6e71ae00259e232bdd201dcee88826e79
   name: TSMC xStock
   symbol: TSMx
+- address: 0:ff3cd036ca1abb39ab5c54b8e887b481c98e2434efd05640f4079a5a9cf9b8a2
+  name: Texas Instruments xStock
+  symbol: TXNx
 - address: 0:5b598394907c45ea0741dde804a0677193348e147b863d54e1bfc5152b9c8a64
   name: Uber xStock
   symbol: UBERx
@@ -484,9 +508,15 @@
 - address: 0:01ef80f4047b4b0828c4c14731c2add144aa0ff0c9ca4329a93c12921e619327
   name: Warner Bros. Discovery xStock
   symbol: WBDx
+- address: 0:ff3250837f0895bfc28b0f2da2851763ec4d848a628724a5bd6595341cf0bfab
+  name: Western Digital xStock
+  symbol: WDCx
 - address: 0:1d58532cec300c0b35ba0ce179eaded90fa782b33e1cce6d7a0ed4b1b81861c5
   name: Wendy's xStock
   symbol: WENx
+- address: 0:e5e9d8e2c27426aa77d78e4089be16da18b92ee6a89dabfbca96c8c2b549cd31
+  name: Wells Fargo xStock
+  symbol: WFCx
 - address: 0:f84a5bf80614b7ae840d54a8b64e850261cc9f7457c2e1f63846168c97eda7bf
   name: Walmart xStock
   symbol: WMTx

@@ -31,6 +31,9 @@
 - address: 0:11a1656e1903656c6275a5635e469000cc8db902fffa35fde4c3a6a410b3cfc5
   name: 5TON
   symbol: 5TON
+- address: 0:d3061b39da35c0f52ecfdf1b92bc2a21818a9b92541d2502d0f7c03736577b40
+  name: SIXSEVEN
+  symbol: '67'
 - address: 0:b56c7e2d151dad11542e5b88b6470c2971ca1a4b2f8645012a62b08a81935f37
   name: Shards of Anonymous Telegram Numbers
   symbol: 8num
