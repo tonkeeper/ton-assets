@@ -1,2 +1,7 @@
- name: Basic Reality
- address: EQB11QQ1YQDZMBUs4BrsTIrRmybF78_XAy8ZjjM5pV4Ll_jq
+name: "Basic Reality"
+address: "EQB11QQ1YQDZMBUs4BrsTIrRmybF78_XAy8ZjjM5pV4Ll_jq"
+websites:
+  - "https://basic-reality.ru"
+social:
+  - "https://t.me/basic_reality"
+  - "https://t.me/basic_reality_chat"
