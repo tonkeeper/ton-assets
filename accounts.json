@@ -2340,5 +2340,9 @@
  {
   "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
   "name": "STON.fi DEX"
+ },
+ {
+  "address": "0:04057c6d3a58479cecdbbd4d6d36bef0bfb271a3f960be9efc6bd22407bc8c40",
+  "name": "WAR"
  }
 ]
