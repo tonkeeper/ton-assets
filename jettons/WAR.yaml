@@ -1,7 +1,7 @@
 name: WAR
 description: "WAR — official utility jetton of TON TON WAR. Fixed max supply 1,000,000,000. Gameplay never mints WAR. Burns supported."
 image: "https://tontonwar.com/icon.png"
-address: EQDMyl_uGjPiz-WcSaNkUfYj3WkF_UmHozhxKDvaaFUE5VUG
+address: EQAEBXxtOlhHnOzbvU1tNr7wv7Jxo_lgvp78a9IkB7yMQIAw
 symbol: WAR
 websites:
   - "https://tontonwar.com"
