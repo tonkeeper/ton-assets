@@ -1,0 +1,11 @@
+name: Kovanica
+description: Kovanica (KVNC) is the native utility token of  Projekt Kovanica — a comprehensive Web3 ecosystem  on TON blockchain integrated with Telegram.  KVNC powers Tap-to-Earn mechanics, skill-based  mini-games, PvP competitions, NFT minting,  staking rewards and decentralised trading.  Total supply: 1,000,000,000 KVNC.  Community-driven. Transparent. Built to last.
+image: "https://github.com/ProjektKovanica/kovanica/raw/main/kvnc-logo.png"
+address: EQDKKFRJU5uar87OdtvLb8gynFF1fJj40xyYfhUgvc914I5S
+symbol: $KVNC
+websites:
+  - "https://kovanica.online"
+social:
+  - "https://t.me/kovanicatapbot"
+  - "https://x.com/ProjektKovanica"
+  - "https://github.com/ProjektKovanica"
