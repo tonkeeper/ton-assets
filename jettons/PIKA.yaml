@@ -1,8 +1,12 @@
 name: PIKA
-description: PIKA is the native cryptocurrency powering the PIKA Telegram Mini App on The Open Network (TON). Users can mine PIKA, upgrade miners, complete tasks, and earn rewards in a fast, secure, and community-driven ecosystem.
+description: PIKA is the native cryptocurrency of the PIKA Telegram Mini App on The Open Network (TON). Users can mine tokens, upgrade miners, complete tasks and earn rewards.
 image: "https://i.postimg.cc/CK2yHMBg/file-0000000035e471f4a1aa505658e2e635.png"
 address: EQAzPeuDLOCJ7mvzGskNPhIHzrYD4HZpaiqMvXmh0S8LTjh6
 symbol: PIKA
+
+websites:
+  - "https://pika-airdrop.lovable.app/"
+
 social:
   - "https://t.me/Pikaairdropbot"
   - "https://t.me/pikaairdropnews"
