@@ -14325,6 +14325,11 @@
   "symbol": "EAT"
  },
  {
+  "address": "0:3ab12eaf06ff1d8299e08c1c0050d53373f92fd7623aaecc13c4bbf7bd7ca111",
+  "name": "Edy",
+  "symbol": "EDY"
+ },
+ {
   "address": "0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b",
   "name": "EggsWisdom",
   "symbol": "EGG"
@@ -16073,6 +16078,11 @@
   "address": "0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024",
   "name": "Us Usach",
   "symbol": "USACH"
+ },
+ {
+  "address": "0:45cd58b4054a0643bf4b77ba38d7f975b28a390429688c5915cf4a315e4d51f6",
+  "name": "USD Arni",
+  "symbol": "USDA"
  },
  {
   "address": "0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496",
