@@ -16,15 +16,45 @@
 - address: 0:292d9fe42ccf886530bc5dd137d0196838c658012ccd2fdafa0c3cda77095649
   name: Analog Devices xStock
   symbol: ADIx
+- address: 0:b9a8db7ed238891614ceb30c69c59d1de1778b239a7b57e22f25349943875358
+  name: Archer-Daniels-Midland xStock
+  symbol: ADMx
 - address: 0:32a0dd4a1bfca7190d2ef9df17560c7c5000529db7a437c5f8a37d04b7181ea2
   name: Automatic Data Processing xStock
   symbol: ADPx
+- address: 0:7b4e95137786815122d6a21f31bcd3fa75bd9ddd58ac6ae57ed39f1bb064911c
+  name: Autodesk xStock
+  symbol: ADSKx
+- address: 0:5f153ca256ae3123f650d4097e1921b32e0330a13342010d785b1ea5210317ea
+  name: Ameren xStock
+  symbol: AEEx
 - address: 0:6681d535a453dbe254d74cf982ff0fe16b6e60f074a800b10b6a0f71ea4106fb
   name: American Electric Power xStock
   symbol: AEPx
+- address: 0:f114b953bccd06ae849dec959fe20bd97de3810869c9a01992ece932202549b1
+  name: Aflac xStock
+  symbol: AFLx
+- address: 0:a38e11c6f31e868df5b5d36f791dfad42106f35c5ed57fb38257d2cec00fa718
+  name: American International xStock
+  symbol: AIGx
+- address: 0:6df8acaecf185f95dbe0b210285980ad6819cae358c75dde1d6ef314e36ccc4a
+  name: Arthur J. Gallagher xStock
+  symbol: AJGx
+- address: 0:a42e41d31a52df45c16237f7c111bf410154cf2829ae3ca75694a02f36758cdf
+  name: Akamai Technologies xStock
+  symbol: AKAMx
+- address: 0:0639c0603da5d8c9058b5b32fa5c1b678af47a88c723e28be34f8c4e4781358e
+  name: Astera Labs xStock
+  symbol: ALABx
+- address: 0:f53130430b1394765175a6a630bfd6d46c90c693ec0f3b22ad1187d376ca53b2
+  name: Albemarle xStock
+  symbol: ALBx
 - address: 0:1ab52e57626dfddace0c598a1c343a764625baa686d9d89e1274ae7ac7a14061
   name: Allstate xStock
   symbol: ALLx
+- address: 0:39a7c48968bdfde2c0fd252f1b2039d502de89e00fab3c4dd78b0adba27af8f1
+  name: Alnylam Pharmaceuticals xStock
+  symbol: ALNYx
 - address: 0:0bd961eb6a3d0661affcbae064fe9726b002427e197423e9e2edd566f986a172
   name: Applied Materials, Inc. xStock
   symbol: AMATx
@@ -34,9 +64,15 @@
 - address: 0:b483278f1ce2aedaa1bc8dfa9cef000838e07e75529f0de3a2a97b8202c1b36a
   name: AMD xStock
   symbol: AMDx
+- address: 0:e374baaf6953869e7eed4b9066db42d3c839b7ef12b5a30820e18eb3092fd750
+  name: AMETEK xStock
+  symbol: AMEx
 - address: 0:ec1d4ae171080cbc2bc35376bd94d1e1dd1f69839adff301520610246bb148e3
   name: Amgen xStock
   symbol: AMGNx
+- address: 0:76b09542c8e491fa3bdddb9c74f16fd499b53830389ee3591a8023f360e62258
+  name: Ameriprise Financial xStock
+  symbol: AMPx
 - address: 0:a3877293d7226405eb0ca39ed55905a1cab1d63b302cc5d7914bc97dc929f9ca
   name: American Tower xStock
   symbol: AMTx
@@ -64,18 +100,45 @@
 - address: 0:19664ea2f9da7df9d9edcbd1721ed949d247816cf98641b2c6da3efa4fb394c4
   name: AST SpaceMobile xStock
   symbol: ASTSx
+- address: 0:20c00d263844982ec3f76a6e4802ad3495015d9435d20780d66761ef5e1132fb
+  name: ATI xStock
+  symbol: ATIx
+- address: 0:96d1c35e02608f29898035b2f39c18420c4b2bfc842777a646d4048d128955e2
+  name: Atmos Energy xStock
+  symbol: ATOx
+- address: 0:d575492b68822709913264f321550989a2b72b805c344a9f6554c639a335406f
+  name: AvalonBay Communities xStock
+  symbol: AVBx
 - address: 0:ece24ecf4801f79ee5f0ddb5cf119eda15ab5c7a390aadffcc8b80afdfec8b02
   name: Broadcom xStock
   symbol: AVGOx
+- address: 0:a82ff775a80056bfae3e60dc26b4aebf8b671c91813475e07cbd911fb16054ad
+  name: American Water Works xStock
+  symbol: AWKx
+- address: 0:4dfb0742679b14f45b2a5873379b9329e98773c2415ccf7bbbfb533feed4497d
+  name: Axon Enterprise xStock
+  symbol: AXONx
 - address: 0:0667eebc189103b3ce7173267617e724b7f0267896c07926e8c2bc2f9986c704
   name: AstraZeneca xStock
   symbol: AZNx
+- address: 0:5e0d944494a517ae852d86c0db4d3b0f129c9761ee6dc36ea2fbe26655b8e2df
+  name: AutoZone xStock
+  symbol: AZOx
+- address: 0:23238f913d8f4cb18a3409800cd4441f33cc1f44e2b16fed60ae1f2cf4682f0c
+  name: Agilent Technologies xStock
+  symbol: Ax
 - address: 0:252fb7ceca48af90479f6e5701ddb92a9f81ccc0ff2340d0cd573a3df9190a64
   name: Bank of America xStock
   symbol: BACx
 - address: 0:066fe333a51d0d1dcd18bc1aa708b27c82ec56b23a20d186b5d967cb4b974775
   name: Boeing xStock
   symbol: BAx
+- address: 0:51f71e8dbaa9be3dc3a2d05ea0ba445dad737c877318785785dc79c9a75cf7c4
+  name: Becton Dickinson xStock
+  symbol: BDXx
+- address: 0:e2d10ab77789eb5cd46b077a8b1e77f4ead3a16b0f3f9a4889a36e901e03fb6b
+  name: Biogen xStock
+  symbol: BIIBx
 - address: 0:3c0693d9b2add7e723df3c031edf7ecc7d5d968bed20e8bf0a6ba11d548ddefc
   name: Volatility Shares 2x Bitcoin Strategy xStock
   symbol: BITXx
@@ -91,6 +154,9 @@
 - address: 0:f3eb6247f93e6ae305ba0e9cee2fe44e292729382702d6222ff1d5c09d854d21
   name: Berkshire Hathaway xStock
   symbol: BRK.Bx
+- address: 0:5a909eaef21e64dad499468cb121a99b384d7e43471e971c1e4a3f17e135665d
+  name: Brown & Brown xStock
+  symbol: BROx
 - address: 0:dcde4441c230ed57f2929b715b80636a53d3803f0d370ec035dce5a759c4e169
   name: Bending Spoons xStock
   symbol: BSPx
@@ -103,21 +169,51 @@
 - address: 0:e451ccac3fc51619124c212fd7030f35d92040d4257df543e3dadcf71d09c1ba
   name: Bitgo xStock
   symbol: BTGOx
+- address: 0:e0fc7fabb4224af15f7bdb6ff7a9e3fc2bd076f0f9dbd7ee8f2b2ab2ba92e234
+  name: Burlington Stores xStock
+  symbol: BURLx
+- address: 0:8fec0a1bb2d9a74826694ccc2782743940806ddaace7535f72ea3e5a66f2fcfe
+  name: BWX Technologies xStock
+  symbol: BWXTx
 - address: 0:6e0fe7414603f1590e9695ab945653c970b5e1df3dc99d408ff1865f2cf0409d
   name: Blackstone xStock
   symbol: BXx
+- address: 0:c8a95a815dfab0165f1ee88e6fcfcf855bd7f3a1d2b02b5800535ba2fa2648e7
+  name: Cardinal Health xStock
+  symbol: CAHx
+- address: 0:8f75c5c3bc9236592119b36cc90a25348c1a7e328cc8dca5378934c97a164ea4
+  name: Carrier Global xStock
+  symbol: CARRx
+- address: 0:a409bff4b6c40ff19d2c529b9a37e0fd1fe2fdffcf08c2902d5a271ca1ce6619
+  name: Casey's General Stores xStock
+  symbol: CASYx
 - address: 0:927dd498b68628670e71041272fa87e293f81f5f3f88e644e0337699640a7499
   name: Caterpillar xStock
   symbol: CATx
+- address: 0:c43508df8da736506a42a08b9eecdf7d880132b942e7766d3d26da7a8766352a
+  name: Crown Castle xStock
+  symbol: CCIx
 - address: 0:38fe9bf8cb7135b75dfd257e37206257fbd2aa6225ba5fea638ee0e9a324aa62
   name: Cadence Design Systems xStock
   symbol: CDNSx
 - address: 0:68fc01e35abd375299d4f56320ccba4df91407da22b46705d947a68d5c5f434c
   name: Constellation Energy Corporation xStock
   symbol: CEGx
+- address: 0:17d1c90e0928c3d0cf88236f3718c326d1eaf03e01e146cd53d797f004557ce4
+  name: Citizens Financial xStock
+  symbol: CFGx
+- address: 0:0cd013c130d64a16ce2b26657c889fbee9a045bed7689dded4bc86b94f269f60
+  name: Church & Dwight xStock
+  symbol: CHDx
+- address: 0:a6b2e8e2b18712dc07ae333f2308df9f60746bb75a0f5156793b7591f0ef38aa
+  name: C.H. Robinson Worldwide xStock
+  symbol: CHRWx
 - address: 0:61567fa6ec34c415c59dd4e9311a7b6912b9c74eb53a6eebbc31c555340cc678
   name: Ciena xStock
   symbol: CIENx
+- address: 0:f03c9058622fbf330bda9ed53e9c7823b1f93eb55d1eb1d930154746ffe5c60e
+  name: Cincinnati Financial xStock
+  symbol: CINFx
 - address: 0:09cb6ea06fa49f4b599cab3a6db09e2aaf1292aaff85476639fd117e9b12b964
   name: The Cigna xStock
   symbol: CIx
@@ -130,9 +226,21 @@
 - address: 0:eac901e4ee6d516e9fd137ba98ad7bc24bf49364660c89b78cc9b06570f83822
   name: Comcast xStock
   symbol: CMCSAx
+- address: 0:f13bdbbae60621addd5c30b5d102e2c7039d26d2f1d046366ed2f2f173da7613
+  name: Chipotle Mexican Grill xStock
+  symbol: CMGx
 - address: 0:7c9c8d836fd3bca3a06ac6d05339a4d82b790f673e8ba052490de45594765f82
   name: Cummins xStock
   symbol: CMIx
+- address: 0:9f4768fc97086936bacdf47ed67e291c3a77341dd3b41705068cdbeea221a704
+  name: CMS Energy xStock
+  symbol: CMSx
+- address: 0:dfb8b2674ce53bbb850f69dc661818d2a1dd39595ce502368509c9d14552836e
+  name: Centene xStock
+  symbol: CNCx
+- address: 0:7c0af9edf8613182f538bf45e32df4696aada9edb643091fa1b08537cdc58a9b
+  name: CenterPoint Energy xStock
+  symbol: CNPx
 - address: 0:7844c7246d76ad5bcec76f9abf80675018fd3ece4d1fef843705c864c2af821f
   name: Capital One Financial xStock
   symbol: COFx
@@ -151,12 +259,24 @@
 - address: 0:72315f785da9596bbbca05c4b867363c80bf80e6c57ebbf253f61399b681d360
   name: Core Scientific xStock
   symbol: CORZx
+- address: 0:feaef63df4f2f6522ff920e5953dca1d9338c071942ba71f33698281e6f7b890
+  name: Cencora xStock
+  symbol: CORx
+- address: 0:a66ed68bb16f722d569b5f2c0f71a35dc6c260013b91b43a555566f401ca7bb7
+  name: Corpay xStock
+  symbol: CPAYx
+- address: 0:f7db934b674dd2a5e25b72a912807b494f139d0f1aacfb52d848c2acef5414a9
+  name: Copart xStock
+  symbol: CPRTx
 - address: 0:7e44fb400107854865b78088f4cd1121e0df763065dfa85cf101ce9346fbbece
   name: Circle xStock
   symbol: CRCLx
 - address: 0:67b74bc29d9562d9874592f80ce605dcc4cda4c8fd147f8dbde6228e18265196
   name: Salesforce xStock
   symbol: CRMx
+- address: 0:91b63f2fb743cc8c4503d14572c1d57ba75e90a1a770a920268b2fac370ed039
+  name: Carpenter Technology xStock
+  symbol: CRSx
 - address: 0:7f4945af26a23271ae7212ed2d7364ea58d46df0cf2a99562a6680d8758a8cf1
   name: CrowdStrike xStock
   symbol: CRWDx
@@ -169,15 +289,24 @@
 - address: 0:268bf429f55f3fc46acba23541d6129f450dd380fc07be95afed71cfaed8d9fd
   name: Cintas xStock
   symbol: CTASx
+- address: 0:abeeecac11c8ae835c52dda54fe8c3b8c8eceeb5c03e4f02ab5615d2d89406c2
+  name: Corteva xStock
+  symbol: CTVAx
 - address: 0:c2ba102ca6d4efc37faffc1f1fdca9175c235b84871fb5b6cf840e139c9bf4a6
   name: CVS Health xStock
   symbol: CVSx
 - address: 0:cefa62b68c7340a90079365c992803be09be1a67991fd11f354cfd72a8450ee9
   name: Chevron xStock
   symbol: CVXx
+- address: 0:d0e26b337585cc369d184022acb5343e38db3f3459ca6cdccbd662f327e492fb
+  name: Curtiss-Wright xStock
+  symbol: CWx
 - address: 0:7f22ec3f7d6b04c06e87f1532524fa29cf021e8a4f6b89fac5570c7bd9dd39ef
   name: Citigroup xStock
   symbol: Cx
+- address: 0:35a6f20aef2fc92cbc9d85df701bb50933d1d6ad9be4ddf8f5be8f8682dae33b
+  name: Delta Air Lines xStock
+  symbol: DALx
 - address: 0:ad997cc9ccfc651176afb67fa1dee96ced48b9bc96dabe0b7510615bf394d0bb
   name: Global X DAX Germany xStock
   symbol: DAXx
@@ -190,6 +319,15 @@
 - address: 0:47fbab087e97df6a1b206163b9ea500d223da4c7325e8eee6abef082f40a9855
   name: DFDV xStock
   symbol: DFDVx
+- address: 0:554b8a37ee9f90a8ffc09b5dba4cdea2c4766a63d30b6f5ec0cd54a1a57fcddd
+  name: Quest Diagnostics xStock
+  symbol: DGXx
+- address: 0:42425fa17c7f23f25a8288deb063ddd8957f17cd49b0f1bc46bc395810fbbf02
+  name: Dollar General xStock
+  symbol: DGx
+- address: 0:6bac2e7a2c6b77a47f0426ad26d673d6a983f72694d1b5b2fa890d28bb8e0f79
+  name: D.R. Horton xStock
+  symbol: DHIx
 - address: 0:4957bc7f9b3fb8fa83bcfca4516bc8ca623538e519df554df0b9d4c76718553a
   name: Danaher xStock
   symbol: DHRx
@@ -199,33 +337,93 @@
 - address: 0:98457ad2d420fffd4ce88ff51c2a43b1952d849ab6428bf9dae3b594e959104c
   name: Digital Realty Trust xStock
   symbol: DLRx
+- address: 0:cdcb6768afe1b064e13f1199ec91744b76d164ab4ebbc54320cc569d8304979a
+  name: Dollar Tree xStock
+  symbol: DLTRx
+- address: 0:70f3c352338258c7b4e265cb008ac07d020e40e9d094914edc3ae273f7743410
+  name: Dover xStock
+  symbol: DOVx
+- address: 0:fccbbc714d8a3d438a3524fd4f5f604be8d408977e76230b4e0a1da527542446
+  name: Dow xStock
+  symbol: DOWx
+- address: 0:08ac6ede02505cf6f75a6e3f00d6e2d305aea3d79af035022d2df4ada6290593
+  name: Darden Restaurants xStock
+  symbol: DRIx
+- address: 0:22c86694828c2ec5767011da56021e1d77cea8424b699a5cda388406b2fe1ecb
+  name: DTE Energy xStock
+  symbol: DTEx
 - address: 0:95fecb6d7d90b5628319249c2253258f58a0ce26b68e12510f756006f5ef93ec
   name: Duke Energy xStock
   symbol: DUKx
+- address: 0:99aa63ddc8c280e075e41c6254cd1380823eb46b01d231711472e3d4203a6cde
+  name: Devon Energy xStock
+  symbol: DVNx
+- address: 0:82b4addf7990c403fd2e168d35956d14e629a54caa6bf661e6312c0a394ee11c
+  name: DexCom xStock
+  symbol: DXCMx
 - address: 0:fcd6b50cee185fe1141016323f24c0ce602ad5cd3120990b7c488c357180559a
   name: Dominion Energy xStock
   symbol: Dx
+- address: 0:d1f29dbe436a0e2b0f30dcf3c9d4d50adbf1800138568f7d4025110d22034a09
+  name: Electronic Arts xStock
+  symbol: EAx
 - address: 0:c9c29cd7109ae718edf6db4e354b3679714dae56ab3af1375d04aae675f862e6
   name: Ecolab xStock
   symbol: ECLx
+- address: 0:7fb7ac430b91011b21b8003224557a7ae3e306eb1d4751d3f5b2f66e6f9a1320
+  name: Consolidated Edison xStock
+  symbol: EDx
+- address: 0:191983fc5c63263a4fe53898e7bcc3635656c6d546fc54883f0dce6f2c492bee
+  name: Equifax xStock
+  symbol: EFXx
+- address: 0:031e4193722fb846b2203f90755f7cd1ada89b0d30de4a991141481017f8e4ba
+  name: Edison International xStock
+  symbol: EIXx
 - address: 0:ac308a8c41ab8891913d31d4bab4df18f664b48599a5fcf7d8d56fd5667e91e7
   name: Elevance Health xStock
   symbol: ELVx
+- address: 0:080ff10996ca84ae0d812c12b34dcc3c35dffdbaf3b56fb9cc0f313544c8c5e8
+  name: EMCOR xStock
+  symbol: EMEx
 - address: 0:15a42bfc92e01d4b85336a665318c1dce75e6bb1932393856f4f11df5a529e18
   name: Emerson Electric xStock
   symbol: EMRx
 - address: 0:bbd0fae43aade5d195e6365cde1f1d43208b822cdf1ebd1feeaccf5492e3863d
   name: Enhanced Group xStock
   symbol: ENHAx
+- address: 0:802277a128fc6a62a5b1a2c4cfa09e94064c51bb3d987f212bf2a7fbfc3c696d
+  name: Entegris xStock
+  symbol: ENTGx
 - address: 0:f9a4438f742c0f0d71be7c3994e8621a042558d49558cd701879d477502321f3
   name: EOG Resources xStock
   symbol: EOGx
 - address: 0:1fd4d116349c9ccc1d555dbe394c99cef5927f7b37b567407f84698b13d0d366
   name: Equinix xStock
   symbol: EQIXx
+- address: 0:09df52fea2f67af5ee442f1f74a02fe8f1af9ddbb828fb856bcff0c47488fa13
+  name: Equity Residential xStock
+  symbol: EQRx
+- address: 0:489a679eb6bc2c976dbc8740e33c7a44d590ba27fbdbe15b549c2639e0524f96
+  name: EQT xStock
+  symbol: EQTx
+- address: 0:442add78a3d2abfdb68d50ad000f310debe440ab312218fd479fb4827d8071dd
+  name: Essex Property Trust xStock
+  symbol: ESSx
+- address: 0:3bad66946f98c2645da9cd7469773a4022ef41cd94c66868c0db8eb41c9e288a
+  name: Eversource Energy xStock
+  symbol: ESx
 - address: 0:f4fbf3297608d95f02dc46885a3ced13e0588ba5309eea8eb543a0cec7af8968
   name: Eaton Corporation plc xStock
   symbol: ETNx
+- address: 0:80b1359f135b04eb24bdf3e2394344b7bf64a7fe533de3938ed2ce60a94fa019
+  name: Entergy xStock
+  symbol: ETRx
+- address: 0:4cd0cd6289210c0ba481ff4c18046b7350d3b856fafa241eb5379d9e118121f2
+  name: Evergy xStock
+  symbol: EVRGx
+- address: 0:22e0747a67652d593870edaac190534aa4e1d5ab139d0605695f1ac8b5e16f28
+  name: East West Bancorp xStock
+  symbol: EWBCx
 - address: 0:7280b10802c385178ef8ee1e4b7facdeb7c33dff681330f604294e8b136f4b54
   name: iShares MSCI Germany xStock
   symbol: EWGx
@@ -238,21 +436,60 @@
 - address: 0:4154f8418b92275c7a883be5e2e798ec462f5962d6ea80b9b3a0d4df4271e811
   name: iShares MSCI South Korea xStock
   symbol: EWYx
+- address: 0:69a4ae4b167c34f8db4c0ce9e9aa4f8190d62d8dbd2c43d8fb54daa61bf566f6
+  name: Edwards Lifesciences xStock
+  symbol: EWx
+- address: 0:683df3b6d837bd647f161be44a08e8c4ea43701394f665c93f8d84de5ea92f5c
+  name: Exelon xStock
+  symbol: EXCx
+- address: 0:702248568e4f513355e85d6165e529b082993a5bb1316ea5ce37816d7618a673
+  name: Expeditors International of Washington xStock
+  symbol: EXPDx
+- address: 0:9b7206602a182242e6d5ecd68941d89df67d06a430a5558885fd1fcbf1a67b62
+  name: Extra Space Storage xStock
+  symbol: EXRx
 - address: 0:e522d61b77f4d2a41ffd1b50b9b9aa284c9aa14263bec1b026e4bba0d5f96888
   name: Fidelity AAA CLO xStock
   symbol: FAAAx
+- address: 0:b5f29aaf3585e13e6ed61088f9d663d0f583dd0574bdea251439881d50747260
+  name: Diamondback Energy xStock
+  symbol: FANGx
+- address: 0:9847ec627f8f1727fa043a52fd1502be52745abf96ecc7397a2c082c67c147f6
+  name: Fastenal xStock
+  symbol: FASTx
 - address: 0:c42eabb3c3e6ac5a2153e388956dd5ef034e4d55a9de7019ed993bfe7f5a5950
   name: Freeport-McMoRan xStock
   symbol: FCXx
 - address: 0:2592215cb7db9c7682a486aa122167b2a6e318007f69ed3b1ac2f3ae7debbf58
   name: FedEx xStock
   symbol: FDXx
+- address: 0:86924de42fc8e2a213208aeba4244777dd349f2381e84dec82eb47a056ba0273
+  name: Ferguson Enterprises xStock
+  symbol: FERGx
 - address: 0:77368ab9544bde41414fb77ecfaaaf2a8a725445e1aac82628f4b1ecbfd57746
   name: SPDR EURO STOXX 50 xStock
   symbol: FEZx
+- address: 0:4e3e2e06780edd8d47ea94d082d5098c2d5222a4af43f4a02fd326ded95b3791
+  name: FirstEnergy xStock
+  symbol: FEx
+- address: 0:6cecfa4407c66d3f28a43f6cbd739edc9340406101db36d33b526f9d20f346df
+  name: F5 xStock
+  symbol: FFIVx
 - address: 0:0596c5a0556535c59dbf9c69988d18cdfd0d1423723d75d73f5a22705444e1c7
   name: Franklin Responsibly Sourced Gold ETF xStock
   symbol: FGDLx
+- address: 0:1e973f3112a2e831c8ef2c31ed724cec7ad6f74f81e90148b798108cdd4abb3f
+  name: Fair Isaac xStock
+  symbol: FICOx
+- address: 0:f272602408939274197a8ec4ee94d38410260210308eb2218590ec4d6a2b6098
+  name: Fiserv xStock
+  symbol: FISVx
+- address: 0:7b4e278078b240056046e4cc1d4a35afd44adaf2179fc5f0ce9d23f7529c68bc
+  name: Fidelity National Information Services xStock
+  symbol: FISx
+- address: 0:687fe1e5f469974bc2bbf5c651917b03057915175ad3ffd66468ed3d894a8516
+  name: Fifth Third Bancorp xStock
+  symbol: FITBx
 - address: 0:7c35a241651aa4e0e812b39b1ab253a0fda84818cd7470c7930a05998b5aab99
   name: Comfort Systems USA xStock
   symbol: FIXx
@@ -262,12 +499,24 @@
 - address: 0:b3bfd6c1f82511c9920c5599d0341c36d360380b22f6c43277bbe27a0c924738
   name: Franklin U.S. Mid Cap Multi-Factor xStock
   symbol: FLQMx
+- address: 0:165f78560555b40a6be7e94127b7fc416b5b09c2d086ccfbbfc613f608eb4898
+  name: First Solar xStock
+  symbol: FSLRx
 - address: 0:a99da8d7647fa8198e982f5c716818dfe14a94f2fd1700ea42a789e38e365a2f
   name: Franklin Small Cap Enhanced xStock
   symbol: FSMLx
+- address: 0:2633b5ad3897bec2b4c3a8ce77de12d268938469717830f9c5e83f26504792b0
+  name: FTAI Aviation xStock
+  symbol: FTAIx
 - address: 0:297bf71c7dc61e608dbfe651c1a7eb1c943dfe52b78359597697b68f314d4288
   name: Fortinet xStock
   symbol: FTNTx
+- address: 0:cf9f361d470b9e3f7679ce3b7da531cc3b1fdd6467a5e1f7b87efd2e535c4cab
+  name: Fortive xStock
+  symbol: FTVx
+- address: 0:7c9592226f89f18feed5068737955fff911f624ad8198c8946baa545c4fe6aaa
+  name: Liberty Media xStock
+  symbol: FWONKx
 - address: 0:37808434b0414b33e77f509eb82c6ce850e83c1906f9eda5d79a3eddd317f9ae
   name: Ford Motor xStock
   symbol: Fx
@@ -277,6 +526,9 @@
 - address: 0:911212a69629a5d2cc09cd40986c6ebaad4887c2d862ded6da6a35a9c455f6f8
   name: General Dynamics xStock
   symbol: GDx
+- address: 0:8e6356433e4c445240c8be95b63f7d8f46b499ddb6a550019d023fb16ceb8e69
+  name: GE HealthCare Technologies xStock
+  symbol: GEHCx
 - address: 0:5985e7354a2f2362a4dfcd3c061f3d3d339f124a0f846f374e4418a190cf07b1
   name: GE Vernova Inc. xStock
   symbol: GEVx
@@ -286,6 +538,9 @@
 - address: 0:cf56a4318a1795e192b65f1a02e8c98073b86048fce5c8537f6e7b6636c4758e
   name: Gilead Sciences xStock
   symbol: GILDx
+- address: 0:089ff23a048f4417f242b907a5c555caf4ab0600828adeb67d3ae439803bf7aa
+  name: General Mills xStock
+  symbol: GISx
 - address: 0:b8f63eaf526adaac9cd23a565f347607a0d1075f7fffd285f57592c47c4ed5cb
   name: Gold xStock
   symbol: GLDx
@@ -310,12 +565,21 @@
 - address: 0:584ba276bdc1dabc0dd792997ad1ecc75f1b5eb52269da372b542c07673f20fd
   name: W.W. Grainger xStock
   symbol: GWWx
+- address: 0:fe1b4243ec3217a33663b8d85ca6aef5232efb3b2927a1b6b5d8d4ce7037dca5
+  name: Halliburton xStock
+  symbol: HALx
+- address: 0:e87b7de32f465a075175f7fb59d940de695894e2d31ced1428ebba376c604efd
+  name: Huntington Bancshares xStock
+  symbol: HBANx
 - address: 0:3d6bd895abd54cf3e2aea005e192eefa76921b5c4d8672101ef439c482d67cd3
   name: HCA Healthcare xStock
   symbol: HCAx
 - address: 0:bfd9349cfada0ab67e69b07e0b158671b5c31712e37110f1fd4485c1c575b8cd
   name: Home Depot xStock
   symbol: HDx
+- address: 0:4ecfe0824c927e561df6224c7c28da49350290593d50c40d5883464cb572309d
+  name: The Hartford Insurance xStock
+  symbol: HIGx
 - address: 0:9889e1ee70c7744fcdce23f67ef35945a471d4aad6b9bedfb5366f4146a0e99b
   name: Hims & Hers xStock
   symbol: HIMSx
@@ -331,6 +595,21 @@
 - address: 0:7704ea2f9f4aae1622605e3acddb0d211e50b74aa4ab40a3c281889e852f77c2
   name: Hewlett Packard Enterprise xStock
   symbol: HPEx
+- address: 0:ae18f8917485ce46b9707dafb7ae4458114f2166b7221b0e42ed1ac64c0f1399
+  name: HP xStock
+  symbol: HPQx
+- address: 0:80f2a0b1d0229bc52831ee5e80f9fa67aafec15d2439ca7cddc18eae9ecb4059
+  name: Host Hotels & Resorts xStock
+  symbol: HSTx
+- address: 0:97195b9e7df1e3b6e5cb9c92a15ce54bb6bf198197719644c572258985c28e2d
+  name: The Hershey xStock
+  symbol: HSYx
+- address: 0:f07414ef31e8918617ff8fd865b0444b1d0a9154abbe681a3681a3389c0ace74
+  name: Hubbell xStock
+  symbol: HUBBx
+- address: 0:a00e9ff59f14877473deedca65da604f574787b6f656340e7d880b5585b98821
+  name: Humana xStock
+  symbol: HUMx
 - address: 0:ec27d1cbe6a7ee73295ae43a495d4b35996cbd20c246539518f9e36d7945fdb4
   name: Hut 8 xStock
   symbol: HUTx
@@ -343,24 +622,54 @@
 - address: 0:68ef16ff698609107075c6c96ca1eca61cafdbcc162c960147c0cbac9e840674
   name: Intercontinental Exchange xStock
   symbol: ICEx
+- address: 0:a1e4d85faa1b3a3b0ddbc4cc3f9f8d5987065532050fb09e0b1b32f919d43548
+  name: IDEXX Laboratories xStock
+  symbol: IDXXx
 - address: 0:0784f683c91c97263c060d70419e0b66092987162aa94cba93ddcebba2e0e68e
   name: Core MSCI Emerging Markets xStock
   symbol: IEMGx
+- address: 0:96d535db6e339da898ca37e38d090573fbb10c02430abfc0a35ed3c249894592
+  name: IDEX xStock
+  symbol: IEXx
+- address: 0:820e9a56ba7d9ace8cd1db198dd59212775b4d05a29b4cbc25c7f1d7acbef1bf
+  name: International Flavors & Fragrances xStock
+  symbol: IFFx
 - address: 0:a7976398f7cf0d688cc797a5681f41ac559cf1ef4c4901750f7cde74b23540b4
   name: S&P Small Cap xStock
   symbol: IJRx
+- address: 0:c0f364368aa8f46a9892f147726da7bc9328e4e00e3eedb4df7ff044aaa3a314
+  name: Illumina xStock
+  symbol: ILMNx
+- address: 0:eec3721e70e31159c590043f23d95625f7c769efb357392446687ad4c227c4fa
+  name: Insmed xStock
+  symbol: INSMx
 - address: 0:419d217235990d9aaec8e04f725a1643650bab710846905786055fd45e26c596
   name: Intel xStock
   symbol: INTCx
 - address: 0:ad5d08861793ceab92a24a4f34ecad487fd7f90830ed2639e3739baf0ef1627e
   name: Intuit xStock
   symbol: INTUx
+- address: 0:102c46cc90424bafe391dc4e54433c45977a3a1c57b2706ab69546982ee91835
+  name: Invitation Homes xStock
+  symbol: INVHx
+- address: 0:7e36cdf94389db9dc03d10dce029da140519aaf87f2b61f2e2ff298c8ac07126
+  name: International Paper xStock
+  symbol: IPx
 - address: 0:9d206e9381055332e265dc6da3f5f95fcffc5c948155dcce35383831fa87c3ee
   name: Franklin Intelligent Machines xStock
   symbol: IQMx
+- address: 0:d8136cce2bd8c2f5456be71d5abd72abf777244e0a5709c74cef25c7c2cb03f4
+  name: IQVIA xStock
+  symbol: IQVx
 - address: 0:e50e60fb5a299becc036985fbc59030e37151844d12636a80b0e9e9d19d98702
   name: IREN xStock
   symbol: IRENx
+- address: 0:9e97427357ce44e16cfc14b64bbdc78c1163e246ddd7036ed7e7ca0a65e50e8b
+  name: Iron Mountain xStock
+  symbol: IRMx
+- address: 0:ddb6b4233304089cd36cd86070fea74aef7f0eb88260991d0b431edd5ead12be
+  name: Ingersoll Rand xStock
+  symbol: IRx
 - address: 0:943ad9c14aede2c75268a732dd2eb236e828c2af060d92d1889f24704d812624
   name: Intuitive Surgical xStock
   symbol: ISRGx
@@ -376,6 +685,12 @@
 - address: 0:bacdb8720528de5d37d6e34b3db4a9dcc213ad5b842039053ff3b7406bd3c414
   name: Janus Henderson AAA CLO xStock
   symbol: JAAAx
+- address: 0:6190430be522be3712b83e39e87f9a7b52e6001ed8b5d35ad8bea48c393f1c7b
+  name: JB Hunt Transport Services xStock
+  symbol: JBHTx
+- address: 0:a231c1ad8e0f4ddee4c3bce1e7bb5433044aa1e598033f88744356c62f88ed3d
+  name: Jabil xStock
+  symbol: JBLx
 - address: 0:24dc64fe1b57c3dcfdd528e19f731b12c8f1dac2bf061c5a0e3a03ab351a79e5
   name: Johnson & Johnson xStock
   symbol: JNJx
@@ -385,24 +700,48 @@
 - address: 0:c94018ce6834f755bfb69cf1662ad61056d8edd46e7f666ca9c0076e67752a4c
   name: JPMorgan Ultra-Short Income xStock
   symbol: JPSTx
+- address: 0:18b090903e07936ab40b0190a90bc46839b6f13ff909a809617ecebc87de2f1a
+  name: Keurig Dr Pepper xStock
+  symbol: KDPx
 - address: 0:7b13323dd96b7dd978942141fc164334fd16718d27bee8b6b482243a7458cae1
   name: Keysight Technologies xStock
   symbol: KEYSx
+- address: 0:4633f5886573af7d851ceaeebe64e92e66568b26ac38b9f2db45f8fe65c0c7d0
+  name: KeyCorp xStock
+  symbol: KEYx
+- address: 0:6996b2f65a8b66ff4592a45a211d42a42529a95de81af00f8466e8fb7f4ae975
+  name: The Kraft Heinz xStock
+  symbol: KHCx
+- address: 0:e15986441d9e9bbad453fb68b84c5435285fe5336b83d37162bda233069d8717
+  name: Kimco Realty xStock
+  symbol: KIMx
 - address: 0:8c06706f8aee92c3d44fa57c8acdf80460a63070f1b60b995b27acc9df1d0745
   name: KKR xStock
   symbol: KKRx
 - address: 0:54239d6954eec7ed96b6e85331df9aef61edb7f3b4b757df6a00cf136f196e2b
   name: KLA Corporation xStock
   symbol: KLACx
+- address: 0:d982bb55881bbe83a73134fa23dbd014f88fae7ad9f361829a3cae8b1319a711
+  name: Kimberly-Clark xStock
+  symbol: KMBx
 - address: 0:03fa256654a5bc7eb0c360f77cd0dfbb772f26d8b7d4f272bff394de1e45d613
   name: Coca-Cola xStock
   symbol: KOx
 - address: 0:5711b34897c310444baee4dc954261b1c366664e42c25320a4cf8faebbba0550
   name: KRAQ xStock
   symbol: KRAQx
+- address: 0:5f65cb59376b4b691d799c81d2e1604074f806c7c12a5683fd6d77ec7aae960a
+  name: The Kroger xStock
+  symbol: KRx
+- address: 0:8da4db5bcb886545ab6df141071a22a0d15d981976c43a640d13165330443e89
+  name: Kenvue xStock
+  symbol: KVUEx
 - address: 0:7544aeda1ca0f523871eed3b9e400a4b3d30ee6bb42dfd42d5e32bebb461df90
   name: L3Harris Technologies xStock
   symbol: LHXx
+- address: 0:2c74e06d4304eff73679a240821e9ae86afa2fcf85f40c53e552a2f4fb78c7f9
+  name: Lennox International xStock
+  symbol: LIIx
 - address: 0:c9693d81da782b37b3b748b4718e3d5767b03cfa10076c8b4aa42f02ab80f22a
   name: Linde xStock
   symbol: LINx
@@ -418,12 +757,30 @@
 - address: 0:ece8c1149dca1e4c2d18e61667e2f64be61ec2ac846c2730b7deedb8b52e7e06
   name: Cheniere Energy xStock
   symbol: LNGx
+- address: 0:8492e4fb591e674b00f2b2354478e74639436144263636bd72f328f51baf5e97
+  name: Alliant Energy xStock
+  symbol: LNTx
 - address: 0:4b653806bb87d64ad066cf57fb55d14d7edf5536c70bc98b675c34afb99aaed8
   name: Lowe's Companies xStock
   symbol: LOWx
+- address: 0:8a9e3048722b632805303a0093f3a8718a59d58f5dfc3ff3419d09177ade8a46
+  name: LPL Financial xStock
+  symbol: LPLAx
 - address: 0:9d8f47305e479b343826d512653190f44d5d8c68681d6e9f291225f41d36531c
   name: Lam Research Corporation xStock
   symbol: LRCXx
+- address: 0:c64b7d6705e08761d51f3da29023c23109af6867051a91062c90c42dee0a7621
+  name: Lattice Semiconductor xStock
+  symbol: LSCCx
+- address: 0:fcdb09ed90d47d3377b623f46f7b11027759f4f8338fb6dbf3edde0c286cc4c0
+  name: Southwest Airlines xStock
+  symbol: LUVx
+- address: 0:604b746694b3e0432f63c3e784b17a1e3488a5cc084ec60f212b411e223434f6
+  name: Live Nation Entertainment xStock
+  symbol: LYVx
+- address: 0:2c572b31e60cf27b5eebfb2af3faaf57bcc331c61687850cad187be0bda1c1b6
+  name: Loews xStock
+  symbol: Lx
 - address: 0:44b22920ce46af62e43789ebd1254e9a835f6b734938dc0a0e5bdc5c7cd486d4
   name: MARA xStock
   symbol: MARAx
@@ -433,6 +790,9 @@
 - address: 0:54b4b90ebbdbf32aedcf5b9f1ce74597ef0f3d06dcf06186656469af3abfc0ab
   name: McDonald's xStock
   symbol: MCDx
+- address: 0:a5af03709bb0774d173ace33010af9a138d660aa6da604b6efbe6a4dd2fc9340
+  name: Microchip Technology xStock
+  symbol: MCHPx
 - address: 0:a49a5af62a55981aa29ffd7ea095868cc004f4ea112870c66dedf97390dc5a81
   name: McKesson xStock
   symbol: MCKx
@@ -448,6 +808,18 @@
 - address: 0:f7720420e37d81882491962fa132cc2856ebcd9cee3616e31d73e017a9df3749
   name: Meta xStock
   symbol: METAx
+- address: 0:4bcee737450695ab7637cb7ea719877e9d69e90f49d46c033f51f2b08ad7638d
+  name: MetLife xStock
+  symbol: METx
+- address: 0:aed7041d6bd7ac3dec286c4a0e856e9644e1d295b7d20c4d3aeb046ac92072d7
+  name: Markel xStock
+  symbol: MKLx
+- address: 0:fc747228a1e5365e1207191431457419f68669dffc68dfd05611c9f4e4cdf783
+  name: MKS xStock
+  symbol: MKSIx
+- address: 0:d3202de12483a04c481a1597c1f738957a01b960ce7c4d0ffbd8fac24f506f60
+  name: Martin Marietta Materials xStock
+  symbol: MLMx
 - address: 0:3f85ae7551c7d576517d887716d6f2b47f6a17311a32d21be2601636b1825ae2
   name: 3M xStock
   symbol: MMMx
@@ -466,12 +838,18 @@
 - address: 0:4b9596742798de3f09382194a6c7864ccbb9bd710f9bbe28907427c294136e7e
   name: Merck xStock
   symbol: MRKx
+- address: 0:64077160baf2604c10d8cb7e2e6fedef2d88317927b069fc38019b8d54871486
+  name: Moderna xStock
+  symbol: MRNAx
 - address: 0:a65224c000cdc0a07b1f82644f880af0153631b640cfe6d6fd20a4bb9ef2860b
   name: Marsh xStock
   symbol: MRSHx
 - address: 0:ebd1435b4377cb8c7f5ccec169f94abd006fc12cff3bc9ce9a6f329f412ef6ef
   name: Marvell xStock
   symbol: MRVLx
+- address: 0:9ef0c987b9695dcbd9eaa35991aa2e7dce7611fece0ad90dd2c7dccee8538828
+  name: MSCI xStock
+  symbol: MSCIx
 - address: 0:c8f49c246131073364d214f49615bc339c1ab4eff238029cbd4c1871b0395968
   name: Microsoft xStock
   symbol: MSFTx
@@ -484,6 +862,18 @@
 - address: 0:b23e511af7e4b85ce4c5d2b08e65457fc69d5fcf6a2db5775d9b7aec480aa6a7
   name: Morgan Stanley xStock
   symbol: MSx
+- address: 0:3d884b97c089c78e5f959d8456a6206a15fc26b0c580ddec912f6095b6d5c36e
+  name: M&T Bank xStock
+  symbol: MTBx
+- address: 0:4e9c3fe6d7159a286c18db8a112823e09b3b7a554dd242e014360bf7c63b4430
+  name: Mettler-Toledo International xStock
+  symbol: MTDx
+- address: 0:f244d4aa206cd46e1436a1578f67461db805630a7592b49d251345efa7c2f330
+  name: MACOM Technology Solutions xStock
+  symbol: MTSIx
+- address: 0:f5335693f77c6692a187429af4577ebef441eeb37223595ac6e59014489b27c5
+  name: MasTec xStock
+  symbol: MTZx
 - address: 0:a73ccfa40e6ea28c1a81c51ed1ea59282f32c9f0eca2e42ac4725674a15735e9
   name: Micron Technology xStock
   symbol: MUx
@@ -499,6 +889,9 @@
 - address: 0:4e921ffb5a4e85950eaf474dd2e81893de86d9d75f3d3060f5eae837337e7931
   name: Netflix xStock
   symbol: NFLXx
+- address: 0:0d9dcf640b324f48107885b8b04d2fc8f549b6f326b2a6567da573a790e436a0
+  name: NiSource xStock
+  symbol: NIx
 - address: 0:4e9d63628890029a78325ee92b3f923f9950118858612bf2815da19517677a34
   name: VanEck Uranium and Nuclear xStock
   symbol: NLRx
@@ -508,9 +901,21 @@
 - address: 0:c5d3564ef636b54f99d92a98b294221de8a573c4c9cd6c2bf731a14f899738b4
   name: ServiceNow xStock
   symbol: NOWx
+- address: 0:a8b1525bf5d692b9d511da65f662fde188ca2da77eb3e5fc31509dd22b12c7fc
+  name: NRG Energy xStock
+  symbol: NRGx
 - address: 0:43474e058f2b26b9c519acec8c9d7a480d8be639bb91789235719a754b85b84c
   name: Norfolk Southern xStock
   symbol: NSCx
+- address: 0:2d2adc61c2094fd2ffd022e679490bf5613acf03ca6fdbdf247fc0494395c257
+  name: NetApp xStock
+  symbol: NTAPx
+- address: 0:d9225c52f2c448d9f1f9a1a5369f2d51224a0b4f0b5bc9f84d666d31cbe29fee
+  name: Natera xStock
+  symbol: NTRAx
+- address: 0:ae6d863d0ab81755a65caef501df1d82cfdaa9b6fd079320ed305a04b7d0ddae
+  name: Northern Trust xStock
+  symbol: NTRSx
 - address: 0:ee2101444b49b1533726fef25b5812330915d445fc951485053721adf5294ec0
   name: Nucor xStock
   symbol: NUEx
@@ -520,12 +925,24 @@
 - address: 0:3646030a3d4c1d60d812981d40f2c6a81878f50cf10f93fde1624237bea8602c
   name: Novo Nordisk xStock
   symbol: NVOx
+- address: 0:69da28198411b3ef751487f23ab3da3e51de942e4059ccc38db69f34b8556f8d
+  name: Old Dominion Freight Line xStock
+  symbol: ODFLx
+- address: 0:fa2982a0930b28f38629964a34ed00daeef1a050c1bdeac96925728e01fafeb3
+  name: ONEOK xStock
+  symbol: OKEx
 - address: 0:9aa52a32be73fcf8b6acc7cef956aaf91d26df7182ea737de5a284e0a9e0404c
   name: Oklo xStock
   symbol: OKLOx
+- address: 0:77b72e6a760b145bf3f3696ee67ec113696070a12576df2a23a22b662e571562
+  name: Omnicom xStock
+  symbol: OMCx
 - address: 0:9c00d7f6022830b5d5e2ad30662556fefa246cf2720d25c09dc195cffeec073c
   name: Ondas xStock
   symbol: ONDSx
+- address: 0:745b074247d5d65777e398dcc8712e011f32faaa06838c3ec7d816515b439ad1
+  name: ON Semiconductor xStock
+  symbol: ONx
 - address: 0:ffb4779f35f8b4f786a8403e8645d6efd73972764e0ae0720436c593f1c760cc
   name: OPEN xStock
   symbol: OPENx
@@ -535,21 +952,42 @@
 - address: 0:16e08823190354108aef244e02150bc9c4bcba2d7e3a6a367315fa71fe3b0fe5
   name: O'Reilly Automotive xStock
   symbol: ORLYx
+- address: 0:72882422c6af330140899331091c0aa9d1ab4dc18d6d9e352c866be1ba03f57a
+  name: Otis Worldwide xStock
+  symbol: OTISx
+- address: 0:14c30c56c2733776ea30e7ff5ed0204d0f80b2a4988f98228819e6e28bd10eab
+  name: Occidental Petroleum xStock
+  symbol: OXYx
+- address: 0:6cf31649c4e3f1f475130709ca7a0c85b6d3cc50f2bd777f40d1771513fd6f9d
+  name: Realty Income xStock
+  symbol: Ox
 - address: 0:2e91b550068168d47056617011d1b38b20c9b3b4a73319f07dca94d2578e5e9b
   name: abrdn Physical Palladium Shares xStock
   symbol: PALLx
 - address: 0:fc7168fc4ff3b7681a83104b2952e4f37009fa1d9e4554dbf9dd7f881277b753
   name: Palo Alto Networks xStock
   symbol: PANWx
+- address: 0:1e0b2b1053d5be0e54d41649ad3c11de847243bb3954ca10a687381b1180bdd4
+  name: Paychex xStock
+  symbol: PAYXx
 - address: 0:c45df73eb543b402d42b29946f07a84d66987ea3e4398e95f60e32b4df2bc0db
   name: PACCAR xStock
   symbol: PCARx
+- address: 0:68bb32e50048f4037d6c576bed736e77a5f913c8129e84d52ce36734acd14638
+  name: PG&E xStock
+  symbol: PCGx
+- address: 0:d234f36ab72afa1c21fb9a0d871d52597aa8e37bebec0010a623fbc5b2b7f88e
+  name: Public Service Enterprise xStock
+  symbol: PEGx
 - address: 0:934fe0b9277740fd697771e3b84653effa0b90d6a3c9eaffa825ecb1ad37efaa
   name: PepsiCo xStock
   symbol: PEPx
 - address: 0:b52111031cc4185bf1d40b55b820071a0a682a9f78932715ffbf81c44176d502
   name: Pfizer xStock
   symbol: PFEx
+- address: 0:9116b87355d48d1bf7fe786861947de9f032ed1d2512603ffede07a9dde31aed
+  name: Principal Financial xStock
+  symbol: PFGx
 - address: 0:02c45ec8b1b1cbce128cd9e1139d19bb609246c38ab10f3c3f57d94f7cdb1c5b
   name: Progressive xStock
   symbol: PGRx
@@ -559,6 +997,9 @@
 - address: 0:87b6c049ad5dcb38683653eb87ccc46d68d3b2c56868b28dc11c0554fb0d4f3d
   name: Parker Hannifin xStock
   symbol: PHx
+- address: 0:70bbf6ffd0131e54f09a0788411b631cfe2591c2a0bae610db6ecf1ce02c0065
+  name: Packaging Corp of America xStock
+  symbol: PKGx
 - address: 0:5ccf4af5a3e02a513fcb1afde32417a90314870dc5963e55ae73317edf00bc81
   name: Prologis xStock
   symbol: PLDx
@@ -574,9 +1015,21 @@
 - address: 0:5763348642a77c0c749b7786c5bcd9317a3f5d0b08fd17fd9da8d2e9f4e369a5
   name: PNC Financial Services xStock
   symbol: PNCx
+- address: 0:e4e7709c6360ec935af45355de33ebc8ed53a819eea71caad15dfb954c801117
+  name: PPG Industries xStock
+  symbol: PPGx
 - address: 0:c24abc2b64f7b8656f8e054d6fc716a54710dea332a5fe653d3a7863f9a994c0
   name: abrdn Physical Platinum Shares xStock
   symbol: PPLTx
+- address: 0:018fb1793ecf521ac6389585ec3296fabdcea7c54b17b00c3e3f1b4ea0b46198
+  name: PPL xStock
+  symbol: PPLx
+- address: 0:aee416bb057cfce96ec86691ac8d0bc8254306555f0f2f74d08848dac75579d9
+  name: Prudential Financial xStock
+  symbol: PRUx
+- address: 0:8f89fe1965cd691b6f1e7e477e3f972926a1bbe4212d9fe22e96a2061ad52560
+  name: Public Storage xStock
+  symbol: PSAx
 - address: 0:ae7677ec87ec4cb5d8eb928926d7609804d9c5274138678fd8db3511ef8421f2
   name: Phillips 66 xStock
   symbol: PSXx
@@ -592,6 +1045,9 @@
 - address: 0:9eeaeb70a913a6acefdc39452f54d624bf279c5237ee82dba0be153095561212
   name: Nasdaq xStock
   symbol: QQQx
+- address: 0:bdb4677e50e67b3c56effe995acec03d31c7768ec1962eb10ea1d02771746d24
+  name: Qnity Electronics xStock
+  symbol: Qx
 - address: 0:bd1699ac396492e34d050f8cccc432c8fa475595fbc7154cdd6a29862de61e7f
   name: Roblox xStock
   symbol: RBLXx
@@ -601,15 +1057,42 @@
 - address: 0:a69c39cc35b2976dd5d114d09430a8087826d6d31d9c14b5f93695bd3e1240d5
   name: Regeneron Pharmaceuticals xStock
   symbol: REGNx
+- address: 0:810899b55028b180f060821900dc32677899a1cc7e25eae61269083f6d65a24a
+  name: Regions Financial xStock
+  symbol: RFx
+- address: 0:10c7e35cb9e0c1c2cce4448cb19acfacc840fe9536b31f589d0181459f9c348c
+  name: Royal Gold xStock
+  symbol: RGLDx
 - address: 0:15ce0772400942e29b2ecb32e22e652493113137c4e17410243a2236fb1a445c
   name: Riot Platforms xStock
   symbol: RIOTx
+- address: 0:d3ff95aa3d674d987acac1376c3c78c0b0268d43d4fdd9759306f58ee3b8da01
+  name: Raymond James Financial xStock
+  symbol: RJFx
+- address: 0:36dc03b67eff0fe8a1a53ae03aecebfcd95f0ca963f181094b25e9ce250d5e6b
+  name: ResMed xStock
+  symbol: RMDx
+- address: 0:4fbc836d5647ca414d564021de6a5af83265be0f77066c487b58c9b56a20d2f0
+  name: Rockwell Automation xStock
+  symbol: ROKx
+- address: 0:bdc03f17a4e550e1d044332d80bad1e9459b5580f18279954670397398ffd0a0
+  name: Roper Technologies xStock
+  symbol: ROPx
 - address: 0:ed725593643a72ebd2c80cceaf30eb15161e6cee7e6e695abf6c6d57c2b9790b
   name: Ross Stores xStock
   symbol: ROSTx
+- address: 0:b13bdcf7568ebdca73476a434ac91034fea6f18f69ae56cc5f5a8d35eb0d6f33
+  name: Republic Services xStock
+  symbol: RSGx
+- address: 0:4a89aad2e6fa570c9551d19795d8027f5e6229f492c1f8c1be09800ddb539d33
+  name: Reliance xStock
+  symbol: RSx
 - address: 0:cdada819b526b7a239fe5813af967934c68d4b19ad92f5a23de558b95f8bf937
   name: RTX xStock
   symbol: RTXx
+- address: 0:4032fbdb9bec8db8df98a86ffb31a4c44ff4317cdc2ef40067e9ac0bcf081b78
+  name: Revolution Medicines xStock
+  symbol: RVMDx
 - address: 0:02a4ee4082b9e61481c9dc47397e48e8c515dd39d455ea84bfdf61a1e4c57b46
   name: Strive, Inc. Series A Preferred xStock
   symbol: SATAx
@@ -649,6 +1132,9 @@
 - address: 0:7a993e000bba1f37b1f849bd8111978a626ab51878f2ca15ca23f5f63c5f427b
   name: NuScale Power Corporation xStock
   symbol: SMRx
+- address: 0:9a8ab7cb5cad220976c22b958733a7e0842805be2da1ec1ba984f2044ed4526c
+  name: Snap-on xStock
+  symbol: SNAx
 - address: 0:ee78fdb21081126dcaf026b1fa588f093b29b86636facf0d614dc95a43eaf468
   name: Sandisk Corporation xStock
   symbol: SNDKx
@@ -658,6 +1144,12 @@
 - address: 0:6f78f1e6f0281daf3343af0ace228580d47b533b1f8cc09e4f3c52260ab0a445
   name: Synopsys xStock
   symbol: SNPSx
+- address: 0:573a8cebab9f37b49bc81e2ed3d3f6b06c66127b2701880a48b5f364a23cb406
+  name: TD Synnex xStock
+  symbol: SNXx
+- address: 0:edd58ae82c0b05caa01d8f0fc61d8f6c9c2c0c33a1943ea95babeff086219560
+  name: SoFi Technologies xStock
+  symbol: SOFIx
 - address: 0:ebc7462679ebe803685820e65af94c4c41dc288c308d38c80057654205787243
   name: Direxion Semiconductor Bull 3X xStock
   symbol: SOXLx
@@ -682,21 +1174,36 @@
 - address: 0:5f311bd26d33bd0a79de3ae9bbcf2cdc01d5b447f96cd4fad36d82d7a38d3ca4
   name: Sempra xStock
   symbol: SREx
+- address: 0:b9a3eb8caf86a735c5d7a83a689864e1610dcc48bde456033c125b580b50120b
+  name: Steel Dynamics xStock
+  symbol: STLDx
 - address: 0:98ff1394c671ac17dd70d30ddaccc764d5231d04a36bee425e743593665435dd
   name: Strategy PP Variable xStock
   symbol: STRCx
 - address: 0:4f652eb72b14a99b42ed8441930a9bb0a0299e6bec15690ff11446a1c8f2177c
   name: Strategy PP Fixed xStock
   symbol: STRKx
+- address: 0:92a9402c06cff77289daa87a692acd5266a7eae8c0dc66b5b5848dedc6206365
+  name: State Street xStock
+  symbol: STTx
+- address: 0:6cddf179cdc7d88d187a602f2ab11f66738ed381c3b67c236351ac4ec43d7b7a
+  name: Synchrony Financial xStock
+  symbol: SYFx
 - address: 0:52f64e5c462d49b803a42e91492ffb9325e605309e30a7ff80554c2f49c010a3
   name: Stryker xStock
   symbol: SYKx
+- address: 0:95e31f09f1b0d901502e39f960f7f20dabcd9d9cda14100757830f07d6f69fbe
+  name: Sysco xStock
+  symbol: SYYx
 - address: 0:a3a729a95bf5df60f3b0b84c37f4feb09a593ca3a2ad468de40bfea93958f100
   name: TBLL xStock
   symbol: TBLLx
 - address: 0:a9b50b56569ba58a4446f10bf4c69d5c68ba4e0a535232d059e800b055196d42
   name: TransDigm xStock
   symbol: TDGx
+- address: 0:74c6c0a9e5ad250663616853ecc9a5c0872184df0b78466ab0ab51d61bc8ccc0
+  name: Teledyne Technologies xStock
+  symbol: TDYx
 - address: 0:47f90edf37054db09f865095466839aafa9a3fbdff12b3f2f1318e8fa8e22256
   name: Teradyne, Inc. xStock
   symbol: TERx
@@ -715,9 +1222,21 @@
 - address: 0:959a927f524401b3fdcef1ab6a3ad48ff87bd329898f1b4d82e8673a7eceec33
   name: TON xStock
   symbol: TONXx
+- address: 0:b10f5f6d82a32b7d7b34f1de80c61a5d2c2f43235105317ff13d3fc3995b3f52
+  name: Texas Pacific Land xStock
+  symbol: TPLx
+- address: 0:444173d2b27678c2e99dc617128203f966c4ffe5533b36f03d5ac2bac290d9b9
+  name: Tapestry xStock
+  symbol: TPRx
 - address: 0:a112d053a98ccfdff54401df911a4c6d9c51ef67e28f25510159dba4766c1e24
   name: TQQQ xStock
   symbol: TQQQx
+- address: 0:e8e332d68d9a62b550b91a31251a3ca38586e09da9e49fe09ee18ab6fb16a569
+  name: Targa Resources xStock
+  symbol: TRGPx
+- address: 0:91d1e96d266fdeae4f6a9ce0349b97ab69026a13cddb47f8fab7490bd1da89e6
+  name: T. Rowe Price xStock
+  symbol: TROWx
 - address: 0:145cdf1ab443813dc8a703ecbe0c2bf228d91602e9abe9cfaa26393995cd65d1
   name: The Travelers Companies xStock
   symbol: TRVx
@@ -727,12 +1246,21 @@
 - address: 0:8a46bb7d9e4e88053aa4b7ea58a459d6e71ae00259e232bdd201dcee88826e79
   name: TSMC xStock
   symbol: TSMx
+- address: 0:398a316ce02f82042750e4e46548a910bb5d54421ae4e3e1955031fc43ec1874
+  name: Take-Two Interactive Software xStock
+  symbol: TTWOx
 - address: 0:ff3cd036ca1abb39ab5c54b8e887b481c98e2434efd05640f4079a5a9cf9b8a2
   name: Texas Instruments xStock
   symbol: TXNx
+- address: 0:203813bb7cca540b004a3beb62d990fd5a8a0c276fcde306a2528fc95b5ae9ed
+  name: United Airlines xStock
+  symbol: UALx
 - address: 0:5b598394907c45ea0741dde804a0677193348e147b863d54e1bfc5152b9c8a64
   name: Uber xStock
   symbol: UBERx
+- address: 0:e3aff64701fa79066753874932f01af1cbfa24e7103c4412227a6a46530a7c13
+  name: Ulta Beauty xStock
+  symbol: ULTAx
 - address: 0:90bbd3f0221817ea8118d14d54e1074a0399c1ee030bfcad69c8125655bea9d9
   name: UnitedHealth xStock
   symbol: UNHx
@@ -751,9 +1279,15 @@
 - address: 0:94a671bfdc1848343ec2cbdf30c707ccacd60582840d1243a728b526d862f0e2
   name: U.S. Bancorp xStock
   symbol: USBx
+- address: 0:b6d70d21bfb9842521aa42cba3158aa44bf716a9acbb3dbb786cef5cca47eceb
+  name: US Foods xStock
+  symbol: USFDx
 - address: 0:c8c8cc0601fd11811447f9a2fa554fa16f7d32685140451682cd44779b36c7bd
   name: Franklin U.S. Equity Index xStock
   symbol: USPXx
+- address: 0:48e03ba96110d23701f96505bc4f4e82547cedf34ce7fb31fa3664861148ec55
+  name: United Therapeutics xStock
+  symbol: UTHRx
 - address: 0:3fda788caf048a1f5f20fb81d93adf6b2cf598f14df36ce22703fe81c68764f8
   name: Energy Fuels Inc. xStock
   symbol: UUUUx
@@ -763,15 +1297,27 @@
 - address: 0:b5a0c95cf19a449ed17e7a9a40b6f6441dc0e26066af4bcf699cfd568a111e7f
   name: Vanguard FTSE Europe ETF xStock
   symbol: VGKx
+- address: 0:d05928b8a8644efaa43f7694c641f30b536e046972bed1703f5688ca8429eb90
+  name: VICI Properties xStock
+  symbol: VICIx
 - address: 0:82e607a4c5b94bb93ddef77210879077c718c4de649abac45e8e20785854cadf
   name: Vida Global xStock
   symbol: VIDAx
 - address: 0:9597414c02382ac8be17806fb176f79580fadbffe8fee7ded9e56c7ebd6e4d9a
   name: Valero Energy xStock
   symbol: VLOx
+- address: 0:11d2112742d98241ec7f15fd4f5d97d95d80572fb526e8216d112f20872674cf
+  name: Vulcan Materials xStock
+  symbol: VMCx
 - address: 0:581eb847809bbb7c15723d73ce872262fe89908743071098304561ba7736a5a4
   name: Vanguard S&P 500 xStock
   symbol: VOOx
+- address: 0:9356aa2d335cc2852eaf7b82fec50139809b60e5656a100a37eb58044a52cdf1
+  name: Verisk Analytics xStock
+  symbol: VRSKx
+- address: 0:9f7979f02913c628a7a932b1a7670f863b0bea43db8f82184cbd61b5840bdef4
+  name: VeriSign xStock
+  symbol: VRSNx
 - address: 0:ea943611bd0902cba482630a499db7855657577bd544cc47aaafa7fe31e26577
   name: Vertex Pharmaceuticals xStock
   symbol: VRTXx
@@ -781,6 +1327,12 @@
 - address: 0:7b8a4dfefe8450d0510825862ef0d1be00d21a31df8a34b5d2bdf6e648c081d6
   name: Vanguard xStock
   symbol: VTIx
+- address: 0:ce54ad260d0f78620933ee58a5ab598e828a060db4a58443da48ddeb973f9730
+  name: Viatris xStock
+  symbol: VTRSx
+- address: 0:cbb7c0baa5c5464880f675cc534bfe148c07b027f1d77f1c26e8162c2dcf1b8a
+  name: Ventas xStock
+  symbol: VTRx
 - address: 0:e91b0ebd8f0673a9db7cf24c1dedd5329a68395b4fb213922f4b9013b20765e7
   name: Vanguard Total World xStock
   symbol: VTx
@@ -796,12 +1348,24 @@
 - address: 0:b9519640b91e0c3376ab11d27a5965df15ec8449ab5fac3cb5dbfee0fe0d2ca8
   name: Visa xStock
   symbol: Vx
+- address: 0:a2316289d34e81901d2fcbc6c2df0bc663b6f86047318c255d3c1a7f42b834ab
+  name: Westinghouse Air Brake Technologies xStock
+  symbol: WABx
+- address: 0:8d3a316a23a1f01dc459ac495b6b63f5806ef82d76115f9c1cc23eb729230155
+  name: Waters xStock
+  symbol: WATx
 - address: 0:01ef80f4047b4b0828c4c14731c2add144aa0ff0c9ca4329a93c12921e619327
   name: Warner Bros. Discovery xStock
   symbol: WBDx
+- address: 0:b47f99da5694ad4f2688c1b14fc1d5c1049ef1c8a72241b79df943b2f09fd167
+  name: WESCO International xStock
+  symbol: WCCx
 - address: 0:ff3250837f0895bfc28b0f2da2851763ec4d848a628724a5bd6595341cf0bfab
   name: Western Digital xStock
   symbol: WDCx
+- address: 0:cb13caa0b205c417df1621ed4e4c67899419ea41e2d53e63184b771a7966f76b
+  name: WEC Energy xStock
+  symbol: WECx
 - address: 0:bd0c08b3444b60de5d58933f6fd9e12581240369f9866331567f7a8dbf5ef068
   name: Welltower xStock
   symbol: WELLx
@@ -820,9 +1384,24 @@
 - address: 0:8f591dbb4f2930e497cd08e5dea969e9c7b42c5b0092de5983ad9c1f1a1b5324
   name: Waste Management xStock
   symbol: WMx
+- address: 0:8a9e1d1450b1f6d313ec89a4ff48c30a29e4310e3c7aac89000d19059b51f438
+  name: Williams-Sonoma xStock
+  symbol: WSMx
+- address: 0:d4906a40c8faa1bad1128a3c9536445a88713e9cbb23f2946784b5cd11b265c0
+  name: West Pharmaceutical Services xStock
+  symbol: WSTx
 - address: 0:e769c591ca12f5195aa96a6b4db51d4cf4af7d37ba0d8371fc78cc8829607f88
   name: TeraWulf xStock
   symbol: WULFx
+- address: 0:45cc6f7c22ee2b9ca4366ef75c2c27bcda0423f2202d60b9ea65ccc78b0b4d4f
+  name: Woodward xStock
+  symbol: WWDx
+- address: 0:76655f50d1901fa92fbfe98e5a84ea10d0a661215c6d1715ca544d8f3be39b34
+  name: Weyerhaeuser xStock
+  symbol: WYx
+- address: 0:cda2366444709a423a58015936ae7f793e1d2518fe9f19815a1db7d0c1f333eb
+  name: Xcel Energy xStock
+  symbol: XELx
 - address: 0:9bc320d41aa14238f7155fc7af6cc9813e553bd1ad0ed2ce22f25467465d05f9
   name: Energy Select Sector SPDR Fund xStock
   symbol: XLEx
@@ -832,6 +1411,21 @@
 - address: 0:66c7f1fd08da2b6b55676d97e48eddc5b0fa076a919c5c94270aca2d0344925e
   name: SPDR S&P Oil & Gas Exploration & Production ETF xStock
   symbol: XOPx
+- address: 0:06d58a0e4fc340e30176d0974ff2f02ef03502400725bb44f3832e0b16d4f7ee
+  name: XPO xStock
+  symbol: XPOx
+- address: 0:08342cafe6cfaf859a67eac5f9cb355d236b471c1c86fdd6c0a5761de38c21a9
+  name: Xylem xStock
+  symbol: XYLx
 - address: 0:28b68adc5b811f7275a9875d57024d5a89972866e19a21b6bd3ac228a4e03d8c
   name: Franklin ClearBridge Enhanced Income xStock
   symbol: YLDEx
+- address: 0:02da0a30c982ff224ae9b06d8010e2873745d516c49f28a0281ac55df2e17fd3
+  name: Yum Brands xStock
+  symbol: YUMx
+- address: 0:b8faa0b7639ca2fd1fd371e80500198c2f249b7a9607116aaf9cbca3f508dc26
+  name: Zimmer Biomet xStock
+  symbol: ZBHx
+- address: 0:49994270c8e75c671492fc206c2a39cdb80f90cacaa021a3a699b5f0f6b4029a
+  name: Zoom Communications xStock
+  symbol: ZMx
