@@ -16485,6 +16485,11 @@
   "symbol": "NO"
  },
  {
+  "address": "0:267489b591c4e2ddee147c37392e94896a513b711907ec8d292c2cd72d7394f9",
+  "name": "NubCat",
+  "symbol": "NUB CAT"
+ },
+ {
   "address": "0:72830ac4706223e73984b5678c1ac4176d7af5581815ddca157eac944508a087",
   "name": "NUDES Coin",
   "symbol": "NUDES"
@@ -16563,6 +16568,11 @@
   "address": "0:46b6c9b6ead767e9b46366b98b66464caa4f8af3077847aea4e769ed3d4e14cd",
   "name": "PEDRO",
   "symbol": "PEDRO"
+ },
+ {
+  "address": "0:26645b836d5d197bcc91de5877bf49fc14848dfacdd88bb33c511093fbea9cfe",
+  "name": "PeepoPepe",
+  "symbol": "PEEPO"
  },
  {
   "address": "0:97cceec78682b97c342e08e344e3797cf90b2b7aae73abcf5954d8449dadb878",
