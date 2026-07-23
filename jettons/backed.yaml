@@ -1390,6 +1390,9 @@
 - address: 0:d3ff95aa3d674d987acac1376c3c78c0b0268d43d4fdd9759306f58ee3b8da01
   name: Raymond James Financial xStock
   symbol: RJFx
+- address: 0:e724d223345847fd49637843a9700df8c315a791d753b1180e6794c1000b209e
+  name: Rocket Lab xStock
+  symbol: RKLBx
 - address: 0:423e2de19620b9916ac3e30aaabb15db7d675d73411373a01e5649eb64dfb2ff
   name: Ralph Lauren xStock
   symbol: RLx
