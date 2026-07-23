@@ -4,3 +4,8 @@ image: "https://raw.githubusercontent.com/moistlog01-arch/ton-assets/main/jetton
 address: "EQBMlRRVqsjBe6CrlJBys3j7Zdt43nvtqpQAFSpqGx31EJJQ"
 symbol: BEAST
 decimals: 9
+websites:
+  - "https://beastsellerton.com"
+social:
+  - "https://x.com/BeastSellerTON"
+  - "https://t.me/BeastSellerTON"
