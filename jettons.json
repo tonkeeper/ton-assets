@@ -4185,6 +4185,23 @@
   "symbol": "FR0"
  },
  {
+  "address": "0:4c4773ce335b1d4a17bb428495b7a0c36aea28af840e2b81ec37b7817688b996",
+  "decimals": 9,
+  "description": "FRANC is the utility memecoin of the Francis Le Coq ecosystem, combining Telegram games, daily crypto and world news, holder perks, and French and international communities on TON.",
+  "image": "https://raw.githubusercontent.com/FrancLeCoq/Wallet/main/francis.png",
+  "name": "FRANC",
+  "social": [
+   "https://t.me/LeCoqFrancis",
+   "https://x.com/FrancLeCoq",
+   "https://t.me/FrancisLeCoq",
+   "https://x.com/lecoqfrancisX"
+  ],
+  "symbol": "FRANC",
+  "websites": [
+   "https://t.me/FrancisLeCoqBot"
+  ]
+ },
+ {
   "address": "0:89e3660d349e6efbf1234a98db9db309c24db782aa59d9e4aec5f05ae95952e0",
   "description": "Freedom - the word echoed across TON!",
   "image": "https://i.ibb.co/bMzfzCKx/Chat-GPT-Image-Oct-10-2025-11-28-10-PM-png.png",
