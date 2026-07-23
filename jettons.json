@@ -2873,6 +2873,17 @@
   ]
  },
  {
+  "address": "0:e7abc50416e6c988875a45f7fa20bf079097d0ce5843006fdddf752898c94b9f",
+  "description": "Deployed from sTONks.",
+  "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/content.png",
+  "name": "DRAKON",
+  "social": [
+   "https://t.me/arnoldton",
+   "https://t.me/TonArnold"
+  ],
+  "symbol": "DRAKON"
+ },
+ {
   "address": "0:cf1a39b83d4f350decf6ae6405414da1c3f8bc86eb7919353dd473adcd96cf11",
   "description": "$DROPEE is the single token that links every game in the Dropee ecosystem, unlocking premium features and boosters while rewarding players for their engagement.",
   "image": "https://bafybeicwqb5qvewmz5psmvmyunmrl7boavhtroq7gf2kbvqwlzyjjnpbai.ipfs.w3s.link/image.png",
