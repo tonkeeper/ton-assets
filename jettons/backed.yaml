@@ -613,9 +613,6 @@
 - address: 0:c42eabb3c3e6ac5a2153e388956dd5ef034e4d55a9de7019ed993bfe7f5a5950
   name: Freeport-McMoRan xStock
   symbol: FCXx
-- address: 0:14d1152564ee2a3d1c726fda11117e97137ac933d3c129884f1b12cfdade44b9
-  name: FedEx Freight xStock
-  symbol: FDXFx
 - address: 0:2592215cb7db9c7682a486aa122167b2a6e318007f69ed3b1ac2f3ae7debbf58
   name: FedEx xStock
   symbol: FDXx
