@@ -775,6 +775,9 @@
 - address: 0:9e6c890a66af6ee8cd4c1956de99fd3217f40e35c018fa3f88a458edcca605fc
   name: Merch Coin
   symbol: MERCH
+- address: 0:267b058c55c70ca5c2ad80b52372f9301954a7cd821aaf6c37f43f96ffe269d5
+  name: Merlin the Cat
+  symbol: MERLIN
 - address: 0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c
   name: MERO Mercury Coin
   symbol: MERO
