@@ -1,0 +1,10 @@
+address: "EQCEDnrQns5wXdl1upYykg5Xi6XDSQxLaCP-msz0_4J-6dj"
+name: "TapTired"
+symbol: "TIRED"
+decimals: 9
+description: "TapTired token official assets."
+image: "https://i.ibb.co/JwQ1MsXQ/grok-image-j3jsl.jpg"
+websites:
+  - "https://taptired.netlify.app"
+socials:
+  - "address: "https://x.com/TapTired"
