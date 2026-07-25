@@ -153,6 +153,20 @@
   ]
  },
  {
+  "address": "0:6e3660122a15987a5f9861905d3a8c7b346036b31de2402c3f50b38c82e7af38",
+  "decimals": 9,
+  "description": "FARM is the official token of FarmTG, a TON-native Telegram mini app that blends social farming, on-chain NFTs, and play-to-earn mechanics.",
+  "image": "https://farm.w.cm/images/farmToken.png",
+  "name": "Harvest Finance",
+  "social": [
+   "https://t.me/farmtg"
+  ],
+  "symbol": "FARM",
+  "websites": [
+   "https://farm.w.cm"
+  ]
+ },
+ {
   "address": "0:5e9f1b4d4a61856d5f22707c57a525e4d8db6956cc9bf89134099b41bc803a1f",
   "description": "Telegram Gifts lotteries meet reward mechanics in a single token",
   "image": "https://i.ibb.co/7xNd4tt8/IMG-4487.png",
