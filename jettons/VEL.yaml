@@ -3,6 +3,8 @@ description: Токен проекта VELVE
 image: "https://i.ibb.co/6MHDbq2/81925-1.png"
 address: EQD-dshsvEChhTpmLdUYzMt5JvK9YXXxfwZdybkVTkx3YUgW
 symbol: VEL
+websites:
+  - "https://velve.info/"
 social:
   - "https://t.me/Velve_ch"
   - "https://t.me/Velveebot"
