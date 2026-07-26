@@ -1686,4 +1686,31 @@
     - "https://t.me/jvault"
     - "https://t.me/jvault_ru"
     - "https://t.me/jvault_notifications"
-
+- name: USTR staked on JVault.xyz
+  symbol: st-USTR-7D
+  description: "These jettons confirm ownership of Utya Strategy staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/USTR-UTYA"
+  address: 0:12575224e329ddc73d961401cf77bef7698088ba9909d795da400b85b09223cb
+  image: "https://jvault.xyz/media/staking_v2/images/mainnet_USTR-UTYA.webp"
+  websites:
+    - "https://jvault.xyz"
+    - "https://t.me/jvaultbot"
+    - "https://t.me/utya_strategy"
+    - "https://utya-strategy.com"
+    - "https://x.com/utya_strategy"
+  social:
+    - "https://t.me/jvault"
+    - "https://t.me/jvault_ru"
+    - "https://t.me/jvault_notifications"
+- name: REST staked on JVault.xyz
+  symbol: st-REST-7D
+  description: "These jettons confirm ownership of Redo Strategy staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/REST"
+  address: 0:05a4282e75be5985cdeaaca25d5dc738a364b6e9535b1c28be7f130b5166e905
+  image: "https://jvault.xyz/media/staking_v2/images/mainnet_REST.webp"
+  websites:
+    - "https://jvault.xyz"
+    - "https://t.me/jvaultbot"
+    - "https://t.me/the_redo_strategy"
+  social:
+    - "https://t.me/jvault"
+    - "https://t.me/jvault_ru"
+    - "https://t.me/jvault_notifications"

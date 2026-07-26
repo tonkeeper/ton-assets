@@ -1,0 +1,13 @@
+name: StrikeArena
+symbol: SA
+address: EQD8GboLREqDCLm4oBeN3sfBJD2ZiNo0s-LnYqeLx0vzvAAO
+decimals: 9
+image: "https://strikearena.ru/assets/static/sagame_logo.png"
+description: Community utility token for StrikeArena gaming community. Used for VIP and Shop on CS2 servers and trading on community marketplace.
+websites:
+  - "https://strikearena.ru"
+social:
+  - "https://t.me/strikearena"
+  - "https://discord.gg/strikearena"
+  - "https://steamcommunity.com/groups/strikearena"
+  - "https://vk.com/strikearena"

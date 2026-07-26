@@ -10,15 +10,15 @@
 - address: 0:701cebdfdd4acf3c907b8de0c768e4fedaf3f4410943a040c1b207efe5717be4
   name: The Resistance Cat
   symbol: $RECA
-- address: 0:0ac742b143c47b6c55fc12d94c3200c9d08ca36cf2523a1fb1959707792ac232
-  name: Telegramka
-  symbol: $TGKA
 - address: 0:a5edfab38859a75ad04d6955305e4b772d9686ecc194e56648960687b20413e9
   name: TROMP
   symbol: $TROMP
 - address: 0:bff0c5bda58b1617490640103c7b8ca9f35707beec9d8998ee01efe55487cc22
   name: TONWIFHAT
   symbol: $TWIF
+- address: 0:3a9646acd9cfb6235585d6802c6731e0b42e3ffb67ffd3e3976e1be1fdcf4afe
+  name: '1 Gram And A Dream '
+  symbol: 1GRAM
 - address: 0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c
   name: 1PLAYER TOKEN
   symbol: 1PTON
@@ -31,6 +31,9 @@
 - address: 0:11a1656e1903656c6275a5635e469000cc8db902fffa35fde4c3a6a410b3cfc5
   name: 5TON
   symbol: 5TON
+- address: 0:d3061b39da35c0f52ecfdf1b92bc2a21818a9b92541d2502d0f7c03736577b40
+  name: SIXSEVEN
+  symbol: '67'
 - address: 0:b56c7e2d151dad11542e5b88b6470c2971ca1a4b2f8645012a62b08a81935f37
   name: Shards of Anonymous Telegram Numbers
   symbol: 8num
@@ -115,6 +118,9 @@
 - address: 0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d
   name: HAMSTERBATYA
   symbol: BATYA
+- address: 0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc
+  name: Baby Lady
+  symbol: BBLady
 - address: 0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620
   name: Baby Notcoin
   symbol: BBNOT
@@ -136,6 +142,9 @@
 - address: 0:7f2bd4cc4bd8e563515351f5b786904279da98b0c77e81c8db5a89307b7e6d09
   name: BER THE BEAR
   symbol: BER
+- address: 0:1bdbae5d7581d4a75096287d467aa7ee313f937c788bcededc490fdef5ddca79
+  name: 'BabyGram '
+  symbol: BGRAM
 - address: 0:3a2b624e7feb19e221c9a74c1bcfc7d5f3116e09cb3752ca06730ef6143a4b6e
   name: '#4DB8FF'
   symbol: BLUE
@@ -217,6 +226,9 @@
 - address: 0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5
   name: Cash AMA Radio
   symbol: CASH
+- address: 0:3a2ceaee140ea3501661ebc0978a665f0cb76533b31f75e8ecb96ec4a024d842
+  name: Cat2O
+  symbol: CAT2O
 - address: 0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41
   name: Big Catch
   symbol: CATCH
@@ -234,6 +246,9 @@
   symbol: CAVI
 - address: 0:697c3e6ae1a1601d4d7b2af34f37f3f440ecb8d4c3888f64f0197d1b6c0cf8e0
   name: Communist Cat
+  symbol: CCAT
+- address: 0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884
+  name: Clown cat coin
   symbol: CCAT
 - address: 0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad
   name: swap.coffee
@@ -277,6 +292,9 @@
 - address: 0:9358a65447706527e8e74ff184f11b4444338c435968b3bf94a778a94244e2ef
   name: Capybara
   symbol: CPBR
+- address: 0:26e32cb3d3a8ece3700dcef8e35fe8845c706915408df48e95d538b0d4579b36
+  name: The Devil Bull
+  symbol: CRASH
 - address: 0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc
   name: CARDIFY Coin
   symbol: CRDF
@@ -301,6 +319,9 @@
 - address: 0:3a9f12d29c292bf6529683ab1d0623f1537df191a65cf80f9fbbbab085169e8f
   name: Daisy Romashka
   symbol: DAISYROMASHKA
+- address: 0:095442beeb34a8d477dad7b0400ef70d9b81ff9ce21e2eb16c7f13860d64ff31
+  name: dalla
+  symbol: DALLA
 - address: 0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6
   name: Dancing Cat
   symbol: DANCINGCAT
@@ -322,6 +343,9 @@
 - address: 0:53507e9c768ce9d935ae8c0a9a98d8e0982ad7715ec5ada43a2a2783bbba58b0
   name: DEANON
   symbol: DEANON
+- address: 0:269c0d785de06a4d11d4a9195aaacfcf3c0b7105af8723677da2a1f377301a30
+  name: DedustFund
+  symbol: DEDUSTFUND
 - address: 0:5cf8be42cf344a991dfe4dd3b0066e25f97c8977126ddc77c022bfea32229a07
   name: DEPOSIT
   symbol: DEPOSIT
@@ -361,6 +385,9 @@
 - address: 0:a0194301feed4692bb24c36a38d3b220f3299099f9315ae3d6d9de0836e4283c
   name: D-ONE
   symbol: DONE
+- address: 0:3a05eb6a341d3e91ca2e7eeec2200892205dc8cbde5b27918b23c57a8e28a803
+  name: DoNotBuyThisToken
+  symbol: DONOTBUYTHISTOKEN
 - address: 0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110
   name: Donut The Dog
   symbol: DONUT
@@ -394,6 +421,9 @@
 - address: 0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896
   name: Engage ADS on Ton Open Network
   symbol: EAT
+- address: 0:3ab12eaf06ff1d8299e08c1c0050d53373f92fd7623aaecc13c4bbf7bd7ca111
+  name: Edy
+  symbol: EDY
 - address: 0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b
   name: EggsWisdom
   symbol: EGG
@@ -406,12 +436,18 @@
 - address: 0:4be7c707fc67c785f768a4f7dc016e7d7499903e2646faaa2478998bdd5e1c8a
   name: Emoji Stake
   symbol: ES
+- address: 0:3ad10c34748a5da67916cfbc023de6fcf3b57447fee8ea5ef49096e52cae7784
+  name: ex TON
+  symbol: EXTON
 - address: 0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651
   name: Exit
   symbol: Exit
 - address: 0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce
   name: F
   symbol: F
+- address: 0:26d1678c895538cb23f7fb83a3ec6c3ccb6a67404d5453323f33e8e63c841bf9
+  name: Favezy fund
+  symbol: FAVEZY
 - address: 0:4f39cd89ff3a1f6bd727d2cf3102e27d8590500f25023f97518e74ef4d32e4cd
   name: Fight For Freedom
   symbol: FFF
@@ -490,6 +526,9 @@
 - address: 0:7d7b64496899d7fed00b0c14b221be688f460724b6bc16772c17ee4c8d7a256d
   name: GM
   symbol: GM
+- address: 0:3af574125db07acd7bf7ea64c56a26b30814ae2e3ff34fab47e389baa21be31a
+  name: Gram Morning
+  symbol: GM
 - address: 0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3
   name: GoMining
   symbol: GOMINING
@@ -502,6 +541,18 @@
 - address: 0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51
   name: Goy Token
   symbol: GOY
+- address: 0:3a947da42809cdd67d6e0d962411467675f084454fabca6feeaf7155f5aec22d
+  name: Gram god. In GRAM we trust.
+  symbol: GRAMGOD
+- address: 0:261f167b9ae37c421275b2a4acc5dd98d4d5d0ac39dee62ab55b73a08d880d4f
+  name: grammer
+  symbol: GRAMMER
+- address: 0:26a9e7004ab5e9694eb7e7a2cf61a8c1a2154d9e190b54b032f2225a4797a120
+  name: Gram Bro
+  symbol: GRAMO
+- address: 0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b
+  name: GRAM SEASON
+  symbol: GRAMSEASON
 - address: 0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309
   name: GRAND
   symbol: GRAND
@@ -511,15 +562,27 @@
 - address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
   name: Grm
   symbol: GRM
+- address: 0:3aa19a9f9e0a636d79fb4897418c8604a0ec6dfcdbac3f850b602540b90c86eb
+  name: GRAMX6900
+  symbol: GRX6900
+- address: 0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83
+  name: Gram super cycle
+  symbol: GSC
 - address: 0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2
   name: Gold Standard
   symbol: GSTD
+- address: 0:3a0a315a72516c0eee99e2038867ff5037f750d782101300321cbdb6edf0e321
+  name: GRAM THEFT AUTO
+  symbol: GTA
 - address: 0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1
   name: "\u041A\u0440\u043E\u043A\u043E\u0434\u0438\u043B \u0413\u0435\u043D\u0430"
   symbol: Gena
 - address: 0:9ed70fe73b45bf01bb18369db2888578b2b2c663eff06ebf45573c1b2d2964c2
   name: Hao Pup
   symbol: HAOPUP
+- address: 0:3ad056bc453bc772df4f42fc6f87ed6032246c142444aec83960ab0776400247
+  name: Hedgehoge
+  symbol: HEDGEHOGE
 - address: 0:3ab76f149e21e17dd5cb7f80ab756f2847846913b5942ddf48bae817f05b1c2e
   name: Helium Hearts
   symbol: HH
@@ -565,6 +628,9 @@
 - address: 0:047d436f074d64de4872c8c25e42ee98eb4f5338fb66ffe327d3ed763496f849
   name: Infinity
   symbol: INFT
+- address: 0:26027aa058fa986515fc5453e61644380441bebac393289edd4b8890af9bff66
+  name: Intern Fund
+  symbol: INTERNFUND
 - address: 0:6f138af59d87eed35102d3f10dda57edbb1d5f639a8161821e2a9c479926ea2c
   name: Investor TON
   symbol: INV
@@ -586,6 +652,9 @@
 - address: 0:798ea1e8c59f1a8997739df55be0046bafbb014849d37595e628336ee5338826
   name: JOOBI
   symbol: JOOBI
+- address: 0:264f6d90d9a3f22de4cf9a4cdb082d280e83ac2f14e349b4765ef5a5b5be3d16
+  name: Steamy Julia
+  symbol: JULIA
 - address: 0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc
   name: JVault Token
   symbol: JVT
@@ -595,6 +664,9 @@
 - address: 0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a
   name: KAKAXA
   symbol: KAKAXA
+- address: 0:aad527640c4d8fd555a76b63701033ad768a24967db935c20811bd3785b347c0
+  name: Kissed Frogs
+  symbol: KFROG
 - address: 0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7
   name: Kito
   symbol: KITO
@@ -610,6 +682,9 @@
 - address: 0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446
   name: Nikolai Durov
   symbol: KOT
+- address: 0:26be9d55aebd33636fbe493747fb45ff98fe62083eb5a76bcd5496301e58019e
+  name: "kot\xE9 "
+  symbol: "KOT\xC9"
 - address: 0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862
   name: MrKrabs
   symbol: KRABS
@@ -688,6 +763,9 @@
 - address: 0:16a73dbf1b434ac651b656f8056e06463edf18d6a7b47068fee18c3905f99847
   name: Not Meme
   symbol: MEM
+- address: 0:2688056a3643686ecf025dbb77f0994d1655c9d1eced465b0fdd9dbb605d8332
+  name: First meme Gram
+  symbol: MEMEGRAM
 - address: 0:5a2bd11db838ebd161c407a349dc908e6ff2139d7d3d7a4e584f5fbbdeda1a81
   name: Memelandia Ton
   symbol: MEMELAND
@@ -697,15 +775,27 @@
 - address: 0:9e6c890a66af6ee8cd4c1956de99fd3217f40e35c018fa3f88a458edcca605fc
   name: Merch Coin
   symbol: MERCH
+- address: 0:267b058c55c70ca5c2ad80b52372f9301954a7cd821aaf6c37f43f96ffe269d5
+  name: Merlin the Cat
+  symbol: MERLIN
 - address: 0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c
   name: MERO Mercury Coin
   symbol: MERO
+- address: 0:3afca4dc64e4487af778cf0f462469a96962abcdd8b1a1df09d5f59f9b8afb63
+  name: Make Gram Great Again
+  symbol: MGGA
+- address: 0:2dbc9382d8ee1e1d6799a59753a8a281ce5df37da9387cc4ef3e1c38389f681b
+  name: Make GIFTS Great Again
+  symbol: MGIFTSGA
 - address: 0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5
   name: Microdiving
   symbol: MIC
 - address: 0:a05b788c898aa4a818ea611dfdd70e76e7ede99c5cd5b2d1e56d9e1d92e956fe
   name: MiDtoken
   symbol: MID
+- address: 0:26e4756432f6567a9b312042107ec3259fa60926894642627130b614e55f21d5
+  name: TON CTO LEAD
+  symbol: MIKEY
 - address: 0:6a69044de9e45e253cd9fbc470eeecd6b1cf63bfce5ccdd80cccb19ae7d25bdb
   name: MINOTAUR
   symbol: MINOTAUR
@@ -743,7 +833,7 @@
   name: Magic Vip People
   symbol: MVP
 - address: 0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28
-  name: MyTonWallet Coin
+  name: My Wallet Coin
   symbol: MY
 - address: 0:b61a009227a04d7ee83666022b248c9dac9872228bdfa0b537d4df8c9d3e6e57
   name: MexCrewn
@@ -757,6 +847,9 @@
 - address: 0:d0da80734cee08b67f669aedd32f5bf94d488f4bd3ee008544ab5c4ca4b1de78
   name: Only one token
   symbol: NANO
+- address: 0:3a883211e3330f2c5d16a61882ddef5368cefb92665aaa0f623188a6ae9a1780
+  name: nano GRAM
+  symbol: NANOGRAM
 - address: 0:fdce0fe3301123402c0a967d7138ee2269fe85e2be11e9881758fa887962aaad
   name: Nuka Cola
   symbol: NC
@@ -769,6 +862,9 @@
 - address: 0:ca13f38afaa91fc94d3c25b3059225f912dc57cc5d3a8f75e727ee23309f2819
   name: Blockton News
   symbol: NEWS
+- address: 0:6f2d623194f2d74c3eae3fd5b8843ef18743cc5deb7d83ce78af1f3939f63e79
+  name: NIGGA
+  symbol: NIGGA
 - address: 0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6
   name: NikolAI
   symbol: NIKO
@@ -778,6 +874,9 @@
 - address: 0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684
   name: NO Rocket
   symbol: 'NO'
+- address: 0:267489b591c4e2ddee147c37392e94896a513b711907ec8d292c2cd72d7394f9
+  name: NubCat
+  symbol: NUB CAT
 - address: 0:72830ac4706223e73984b5678c1ac4176d7af5581815ddca157eac944508a087
   name: NUDES Coin
   symbol: NUDES
@@ -793,6 +892,9 @@
 - address: 0:998869ded68882bc80918543598aaca84d6ae8b7e691d8f1472bc401ff31096d
   name: xn-- -8sbyftbi4do
   symbol: OCHKO
+- address: 0:3aa16e4459f918f97537322fe2060f6634c33b4220cf46b737949b5ba186fcc9
+  name: Original Gramster
+  symbol: OG
 - address: 0:18c5a0a90151e3a4259a66dac295790e9bd62aec054fd94440711056e068edc4
   name: OGToken
   symbol: OGAT
@@ -817,15 +919,15 @@
 - address: 0:23d7c2a2e2c1b8ec05dbd78368df9167acc341c42dae1dcb887a3243cab77a55
   name: PAPA CARLO
   symbol: PC
-- address: 0:4556e13b4584b3977e600a03fc2d4ff3a670529d8b16961f5da08c2c213d340c
-  name: PD
-  symbol: PD
 - address: 0:a6f8acc9ea469c2bd961ae739a1d1f96d4a2469be1f8d796c482c234e085530c
   name: PDF Miner Boost
   symbol: PDFB
 - address: 0:46b6c9b6ead767e9b46366b98b66464caa4f8af3077847aea4e769ed3d4e14cd
   name: PEDRO
   symbol: PEDRO
+- address: 0:26645b836d5d197bcc91de5877bf49fc14848dfacdd88bb33c511093fbea9cfe
+  name: PeepoPepe
+  symbol: PEEPO
 - address: 0:97cceec78682b97c342e08e344e3797cf90b2b7aae73abcf5954d8449dadb878
   name: PEPE TON
   symbol: PEPE
@@ -898,6 +1000,9 @@
 - address: 0:0e42d12497489edbe964b5aad1039b544bd3cbea4b9e028290737896d7e7ae9e
   name: Premium
   symbol: PREMIUM
+- address: 0:1b33f4181f765eb1f74f22e8c3e75132e17a06cb4e41b888819eaaf635d12039
+  name: GRAM PRINTER
+  symbol: PRINTGRAM
 - address: 0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3
   name: Prolific
   symbol: PRO
@@ -921,6 +1026,9 @@
   symbol: PUNK
 - address: 0:62653764618cbf177641eddbacbe59f47f56915dc200d1318d28acbb02b907f8
   name: Polar Seal
+  symbol: PUP
+- address: 0:26b9fdb267abd48e12958984fe21858d14482b3b75b8ee8fb0f7ed79abf883e0
+  name: Polar Pup
   symbol: PUP
 - address: 0:296afb30ba0917352836a4ac4841773330e8d9736320d2dde3fcab8299205105
   name: PUPA
@@ -994,6 +1102,9 @@
 - address: 0:3afe1b0df89dcc98b6a824f31437e83688de1f1bb487b13403969b89ef22640a
   name: Rio Global Invest Club
   symbol: RIC
+- address: 0:3a6f3686cfc8f25a8aa4dbbd96ae725e7975e74f85f8c77a35d8c675624dc47b
+  name: Robin
+  symbol: ROBIN
 - address: 0:5daf96fb72c65b5e10e7439537eb86e92f29477e4f0059cba0f13c21cc231572
   name: Rosecoin
   symbol: ROSE
@@ -1057,6 +1168,9 @@
 - address: 0:2dc2608849eb55de771945bd500e21dc6d281fa3e637efeccf2fa36179d18719
   name: SEED
   symbol: SEED
+- address: 0:3a489f7f53bd002a5cd8a20116428654ad2a53604291a62ab3a3f13ccd889194
+  name: Shadow Kitty
+  symbol: SHADOWKITTY
 - address: 0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd
   name: BARASH
   symbol: SHEEP
@@ -1126,9 +1240,6 @@
 - address: 0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb
   name: Seahava token
   symbol: SVV
-- address: 0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7
-  name: Dog Wif Shapka
-  symbol: Shapka
 - address: 0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2
   name: Spotty
   symbol: Spotty
@@ -1289,6 +1400,9 @@
 - address: 0:0ea7f189bd775ff8a3b2af3c1757951fd0fcdbb1ce505cb44fc0f73a763d589e
   name: Tony McDuck
   symbol: TONY
+- address: 0:07f0e48dca6cb0490c8f135b74b542c59713bfff28549a5b1ca5309f30b7ff4c
+  name: Tony from TON
+  symbol: TONY
 - address: 0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81
   name: ToonTools
   symbol: TOON
@@ -1376,12 +1490,18 @@
 - address: 0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024
   name: Us Usach
   symbol: USACH
+- address: 0:45cd58b4054a0643bf4b77ba38d7f975b28a390429688c5915cf4a315e4d51f6
+  name: USD Arni
+  symbol: USDA
 - address: 0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496
   name: Upstream Lab
   symbol: USL
 - address: 0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810
   name: Utya Strategy
   symbol: USTR
+- address: 0:3ad4eef5cb823ca190d746f30eac7b6e6f6bf170f239e1fd68180fdee21d092f
+  name: Utia the duck
+  symbol: UTIA
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
@@ -1391,6 +1511,9 @@
 - address: 0:50f8042220b1a538e46b241ccf0746a775bf830809d07324025cfd3fc191c4c7
   name: Usyk
   symbol: Usyk
+- address: 0:2698f741bc931ed34655724dffa102f8e873e8bfa44c1a83d6d9ec7eee48c8d0
+  name: Vampire Pepe
+  symbol: VAMPEPE
 - address: 0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5
   name: Vincere
   symbol: VC
@@ -1460,6 +1583,9 @@
 - address: 0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3
   name: X Empire
   symbol: X
+- address: 0:3aea67ab8b56f0fe81490955b85ea6c35da9d6b8f7063fe50ae2c2062fdbd60a
+  name: Gold Gram
+  symbol: XAUG
 - address: 0:fb4c7830f4667bb9d6738f3c2205730710a4821e21252841e39fffa5717a0602
   name: xCryproMarket
   symbol: XCM
@@ -1539,8 +1665,8 @@
   name: sTONks
   symbol: sTONks
 - address: 0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892
-  name: Staked TON
-  symbol: stTON
+  name: Staked GRAM
+  symbol: stGRAM
 - address: 0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb
   name: teh upen netwerg
   symbol: tun
