@@ -17537,6 +17537,11 @@
   "symbol": "TELEBTC"
  },
  {
+  "address": "0:26f87ef64ba34c68edca10fee31573e7ba9b203b4b3e9a080e296f3d974f7c94",
+  "name": "telegram.dog",
+  "symbol": "TELEDOG"
+ },
+ {
   "address": "0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14",
   "name": "Telegrem",
   "symbol": "TELEGREM"
