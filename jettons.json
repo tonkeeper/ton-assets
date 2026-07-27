@@ -1941,6 +1941,19 @@
   "symbol": "CHAIN"
  },
  {
+  "address": "0:4f074b8c3a361cd8771db32910c1ff2f7a06f4b8dba95bbadfd15ed36fadd8ff",
+  "description": "Chaty is a personal social AI agent that watches Twitch and Kick live streams with you. It listens to every word, reads the chat, remembers what happened, and replies on your behalf. CHATY is the utility token powering the Chaty ecosystem \u2014 used for streaming credits, staking rewards, and community governance on chaty.lol.",
+  "image": "https://chaty.lol/static/chaty-token-256.png",
+  "name": "Chaty",
+  "social": [
+   "https://t.me/chaty_lolbot"
+  ],
+  "symbol": "CHATY",
+  "websites": [
+   "https://chaty.lol"
+  ]
+ },
+ {
   "address": "0:718cd9b0a53cd230323afbf5f669defc7f09ef657c5d1d2ccdcb1ff4c25e67db",
   "description": "CHEPE is a community meme token on TON.",
   "image": "https://img.stonks.cash/32c2739e-7151-4ac7-8599-d1c8cd96b26f.png",
@@ -18055,6 +18068,11 @@
   "address": "0:157c463688a4a91245218052c5580807792cf6347d9757e32f0ee88a179a6549",
   "name": "xRocket Token",
   "symbol": "XROCK"
+ },
+ {
+  "address": "0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee",
+  "name": "YAYA",
+  "symbol": "YAYA"
  },
  {
   "address": "0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26",

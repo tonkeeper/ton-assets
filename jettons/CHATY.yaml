@@ -2,5 +2,8 @@ name: Chaty
 description: Chaty is a personal social AI agent that watches Twitch and Kick live streams with you. It listens to every word, reads the chat, remembers what happened, and replies on your behalf. CHATY is the utility token powering the Chaty ecosystem — used for streaming credits, staking rewards, and community governance on chaty.lol.
 address: 0:4f074b8c3a361cd8771db32910c1ff2f7a06f4b8dba95bbadfd15ed36fadd8ff
 symbol: CHATY
+image: "https://chaty.lol/static/chaty-token-256.png"
 websites:
   - "https://chaty.lol"
+social:
+  - "https://t.me/chaty_lolbot"
