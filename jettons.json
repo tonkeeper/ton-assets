@@ -16213,6 +16213,11 @@
   "symbol": "FLAM"
  },
  {
+  "address": "0:3a0ffd3d5df5fdc07049259c428b2b77376e0b38872b6235e9e8ea92716c6857",
+  "name": "Flamy Cat",
+  "symbol": "FLAMYCAT"
+ },
+ {
   "address": "0:1c498adc26ba9e3adc3a0a62b5fe4913c7b62c3fa3abf29bc6050ac015865b09",
   "name": "Coin Flipper",
   "symbol": "FLIP"
