@@ -1,4 +1,11 @@
-name: TapTired
-symbol: TIRED
+address: "EQCEdnrQns5wXdl1upYykg5Xi6XDSQxLaCP-mszr3_4J-6dj"
+name: "TapTired"
+symbol: "TIRED"
 decimals: 9
-address: EQCEdnrQns5wXdl1upYykg5Xi6XDSQxLaCP-msz0_4J-6dj
+description: "TapTired token official assets."
+image: "https://raw.githubusercontent.com/taptiredofficial-art/TapTiredAssets/main/logo.png"
+websites:
+  - "https://taptired.netlify.app"
+social:
+  - "https://x.com/TapTired"
+  - "https://t.me/taptiredofficial"
