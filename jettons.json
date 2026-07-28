@@ -21326,6 +21326,22 @@
   "symbol": "wTTon"
  },
  {
+  "address": "0:07ba3c826963e37cd68028748f0e525925dda6856976d3778b592873f0f337fd",
+  "decimals": 3,
+  "description": "wVIZ is a 1:1 bridge claim on VIZ locked in the viz-gateway multisig. Each wVIZ is redeemable for exactly 1 VIZ on the VIZ blockchain.",
+  "image": "https://raw.githubusercontent.com/viz-cx/viz-gateway/main/metadata/wviz.png",
+  "name": "Wrapped VIZ",
+  "social": [
+   "https://t.me/viz_world",
+   "https://t.me/viz_cx"
+  ],
+  "symbol": "wVIZ",
+  "websites": [
+   "https://viz.world",
+   "https://viz.cx"
+  ]
+ },
+ {
   "address": "0:90770914592a2fe38bffc291df9760323041912f2d937d30aa471ed63c1b168f",
   "description": "We\u2019re All Gonna Make It.",
   "image": "https://i.ibb.co/xqDx7WRg/photo-2026-05-08-16-26-48.jpg",
