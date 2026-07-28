@@ -8456,6 +8456,12 @@
   ]
  },
  {
+  "address": "0:f8b3eee3090fce07134c8cd6a0acb3b7c8518029a766c187368e7a51330d5f72",
+  "decimals": 9,
+  "name": "Rignite Token",
+  "symbol": "RGNT"
+ },
+ {
   "address": "0:532b0a7c102a0917624ac45127ef3e0f917ee8f561280271c961f43e7f36cbba",
   "description": "Rido is a wolf-samurai, commanding an entire army of users on the TON blockchain. The wolf-samurai lives by the Bushido code, where respect for life and reverence for the opponent are paramount.",
   "image": "https://i.postimg.cc/d3XfP1LN/Wolf-Coin-PNG.png",
