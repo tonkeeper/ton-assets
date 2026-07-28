@@ -3212,6 +3212,20 @@
   ]
  },
  {
+  "address": "0:26055e4b56c7ca4d4761410233de339e3edb80f4124babb0b546e8b4f36bf469",
+  "description": "EAGLE is a duck wearing a name tag that says Eagle \u2014 a Telegram sticker meme turned into a jetton on TON. The site is built as a Telegram client, with 18 animated stickers from the Utya Duck III pack.",
+  "image": "https://utyaeagle.baby/logo.png",
+  "name": "EAGLE",
+  "social": [
+   "https://t.me/utyaeeagle",
+   "https://x.com/UtyaEagle"
+  ],
+  "symbol": "EAGLE",
+  "websites": [
+   "https://utyaeagle.baby"
+  ]
+ },
+ {
   "address": "0:dcfe7ae6e6839509540cf06449e6afe1af58e0a4d423b06908184faecedb76eb",
   "description": "Ecorpay token",
   "image": "https://iimg.su/s/04/th_AxF6R4MLWDYrpbzNRuicBAC7Ls1Ectyv4vV8nd31.png",
