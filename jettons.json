@@ -371,6 +371,18 @@
   "symbol": "PUMPJ"
  },
  {
+  "address": "0:26b9fdb267abd48e12958984fe21858d14482b3b75b8ee8fb0f7ed79abf883e0",
+  "description": "The internet's most emotional baby seal \u2014 drawn by owlhug in 2019 (Telegram sticker contest winner), 3.3M+ pack installs before the coin existed. $PUP on TON.",
+  "image": "https://raw.githubusercontent.com/hollowtradr/pup-assets/master/pup_avatar_face_navy.png",
+  "name": "Polar Pup",
+  "social": [
+   "https://t.me/polarpup",
+   "https://x.com/PolarPupCoin",
+   "https://polarpupcoin.com"
+  ],
+  "symbol": "PUP"
+ },
+ {
   "address": "0:c5ca7aecb7380b32151c409b119e087c4d75cd95dea4dee4f9efdd0db9540088",
   "description": "SmartCoinStrategy $SMART A community-driven token empowering investors to start with Cryptocurrencies.",
   "image": "https://smartcoinstrategy.com/wp-content/uploads/2025/09/smartcoinstrategy-logo-black.jpeg",
@@ -17104,11 +17116,6 @@
  {
   "address": "0:62653764618cbf177641eddbacbe59f47f56915dc200d1318d28acbb02b907f8",
   "name": "Polar Seal",
-  "symbol": "PUP"
- },
- {
-  "address": "0:26b9fdb267abd48e12958984fe21858d14482b3b75b8ee8fb0f7ed79abf883e0",
-  "name": "Polar Pup",
   "symbol": "PUP"
  },
  {
