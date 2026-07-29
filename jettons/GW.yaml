@@ -1,1 +1,8 @@
-
+name: Gram Wallet
+description: The Gram Wallet Token.
+image: "https://raw.githubusercontent.com/Yaykoin/website/refs/heads/main/Screenshot_2026-06-05-21-02-59-82_b13c7655225956067387931bb4d781b0.jpg"
+address: EQA6kIgw_H_dFqgOouoAW9lm0kxnhk_5DSa7pSsu2qcvHdNI
+symbol: GW
+social:
+  - "https://t.me/GramWalletCTO"
+  - "https://x.com/GramWalletCTO"
