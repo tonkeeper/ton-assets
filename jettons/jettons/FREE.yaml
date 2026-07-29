@@ -1,10 +1,10 @@
 name: FREEdom coin
-description: Your token description here
+description: FREEdom Coin
 address: EQBoTq8caCdXZOrj_Dpxylwv19TAsC2MwpDTkAjAb8oDuYQG
 symbol: FREE
 image: https://assets.coingecko.com/coins/images/5585/standard/free.png
 websites: 
   - "https://coinmarketcap.com/currencies/free-coin/"
 social:
-  - "https://t.me/yourchannel"
   - "https://t.me/FREEcoinGlobal"
+  - "https://x.com/THE_FREE_COIN"
