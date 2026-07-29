@@ -1,9 +1,9 @@
 name: FREEdom coin
-description: FREEdom Coin is the TON version of the original FREE token launched in 2018 (first on ETH,TRON,BNBchain and now on TON)
+description: FREEdom Coin (FREE) is the official TON version of the FREE token originally launched in 2018. A community-driven token focused on freedom and decentralization.
 address: EQBoTq8caCdXZOrj_Dpxylwv19TAsC2MwpDTkAjAb8oDuYQG
 symbol: FREE
 image: https://assets.coingecko.com/coins/images/5585/standard/free.png
-websites: 
+websites:
   - "https://coinmarketcap.com/currencies/free-coin/"
 social:
   - "https://t.me/FREEcoinGlobal"
