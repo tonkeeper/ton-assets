@@ -6587,6 +6587,18 @@
   ]
  },
  {
+  "address": "0:267b058c55c70ca5c2ad80b52372f9301954a7cd821aaf6c37f43f96ffe269d5",
+  "decimals": 9,
+  "description": "Merlin the Cat",
+  "image": "https://wsrv.nl/?url=https%3A%2F%2Fnftstorage.link%2Fipfs%2FQmfTxFjz8XWkHuzjNS42ttPWkZ12PcrtbtzvaJcaBcL6kq&w=1024&h=1024&fit=inside&output=png",
+  "name": "Merlin the Cat",
+  "social": [
+   "https://t.me/merlintgcat",
+   "https://x.com/merlintgcat"
+  ],
+  "symbol": "MERLIN"
+ },
+ {
   "address": "0:af7d65bece657ce3c9072d3660964ebf206df00560fd21c9c9822d8e4ba927e5",
   "description": "MEMEZONE is a meme token that combines humor and investment into one platform. Each meme created by users can be turned into a unique NFT that will be linked to the MEMEZONE token.",
   "image": "https://www.memezone.tech/MEZO_token_256_logo.png",
@@ -16771,11 +16783,6 @@
   "address": "0:9e6c890a66af6ee8cd4c1956de99fd3217f40e35c018fa3f88a458edcca605fc",
   "name": "Merch Coin",
   "symbol": "MERCH"
- },
- {
-  "address": "0:267b058c55c70ca5c2ad80b52372f9301954a7cd821aaf6c37f43f96ffe269d5",
-  "name": "Merlin the Cat",
-  "symbol": "MERLIN"
  },
  {
   "address": "0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c",
