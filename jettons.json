@@ -883,6 +883,21 @@
   ]
  },
  {
+  "address": "0:ed6a261044c95c1875d591c2bcef731c2f3c7e250519b7247c5b53ba7b65c84a",
+  "name": "ASIQ",
+  "social": [
+   "https://t.me/asiqpai",
+   "https://t.me/asiqpai_bot",
+   "https://x.com/asiqpai"
+  ],
+  "symbol": "ASIQ",
+  "websites": [
+   "https://qaztrap.github.io/asiqpai/",
+   "https://github.com/qaztrap/asiqpai",
+   "https://asiqpai.site/"
+  ]
+ },
+ {
   "address": "0:504c5fc01443793ccf2b620deb70d6c01fceb335b2172a1663330de3abcca3f9",
   "description": "$ASTAHOV (SKLAD ASTAHOVA) is a meme token created by the community for the community.",
   "image": "https://coubnft.mypinata.cloud/ipfs/QmRJjhUEGBCXoKvct5MZCWvieCvFAPMAwktSaY1D59gNBe",
@@ -17221,6 +17236,11 @@
   "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
   "name": "Mintless Points",
   "symbol": "Points"
+ },
+ {
+  "address": "0:2643684bd87e00f7942ad2962f1fd8abe85e7a3e896264d25ba79d0a50bc62c2",
+  "name": "Quackers",
+  "symbol": "QUACKERS"
  },
  {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
