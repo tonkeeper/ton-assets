@@ -1417,6 +1417,9 @@
 - address: 0:ed725593643a72ebd2c80cceaf30eb15161e6cee7e6e695abf6c6d57c2b9790b
   name: Ross Stores xStock
   symbol: ROSTx
+- address: 0:807e73a6cdadbf0ba5bc6636f3e277638422de2f084c6974d9bc6b0b242d6dbb
+  name: RPM International xStock
+  symbol: RPMx
 - address: 0:1027689e612179f724f301d131ad75a37b81854325146eb72caee663b3580099
   name: Regal Rexnord xStock
   symbol: RRXx
