@@ -421,6 +421,9 @@
 - address: 0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896
   name: Engage ADS on Ton Open Network
   symbol: EAT
+- address: 0:3ab12eaf06ff1d8299e08c1c0050d53373f92fd7623aaecc13c4bbf7bd7ca111
+  name: Edy
+  symbol: EDY
 - address: 0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b
   name: EggsWisdom
   symbol: EGG
@@ -460,6 +463,9 @@
 - address: 0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025
   name: Flamingo Coin
   symbol: FLAM
+- address: 0:3a0ffd3d5df5fdc07049259c428b2b77376e0b38872b6235e9e8ea92716c6857
+  name: Flamy Cat
+  symbol: FLAMYCAT
 - address: 0:1c498adc26ba9e3adc3a0a62b5fe4913c7b62c3fa3abf29bc6050ac015865b09
   name: Coin Flipper
   symbol: FLIP
@@ -544,6 +550,9 @@
 - address: 0:261f167b9ae37c421275b2a4acc5dd98d4d5d0ac39dee62ab55b73a08d880d4f
   name: grammer
   symbol: GRAMMER
+- address: 0:26a9e7004ab5e9694eb7e7a2cf61a8c1a2154d9e190b54b032f2225a4797a120
+  name: Gram Bro
+  symbol: GRAMO
 - address: 0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b
   name: GRAM SEASON
   symbol: GRAMSEASON
@@ -646,6 +655,9 @@
 - address: 0:798ea1e8c59f1a8997739df55be0046bafbb014849d37595e628336ee5338826
   name: JOOBI
   symbol: JOOBI
+- address: 0:264f6d90d9a3f22de4cf9a4cdb082d280e83ac2f14e349b4765ef5a5b5be3d16
+  name: Steamy Julia
+  symbol: JULIA
 - address: 0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc
   name: JVault Token
   symbol: JVT
@@ -766,6 +778,9 @@
 - address: 0:9e6c890a66af6ee8cd4c1956de99fd3217f40e35c018fa3f88a458edcca605fc
   name: Merch Coin
   symbol: MERCH
+- address: 0:267b058c55c70ca5c2ad80b52372f9301954a7cd821aaf6c37f43f96ffe269d5
+  name: Merlin the Cat
+  symbol: MERLIN
 - address: 0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c
   name: MERO Mercury Coin
   symbol: MERO
@@ -862,6 +877,9 @@
 - address: 0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684
   name: NO Rocket
   symbol: 'NO'
+- address: 0:267489b591c4e2ddee147c37392e94896a513b711907ec8d292c2cd72d7394f9
+  name: NubCat
+  symbol: NUB CAT
 - address: 0:72830ac4706223e73984b5678c1ac4176d7af5581815ddca157eac944508a087
   name: NUDES Coin
   symbol: NUDES
@@ -910,6 +928,9 @@
 - address: 0:46b6c9b6ead767e9b46366b98b66464caa4f8af3077847aea4e769ed3d4e14cd
   name: PEDRO
   symbol: PEDRO
+- address: 0:26645b836d5d197bcc91de5877bf49fc14848dfacdd88bb33c511093fbea9cfe
+  name: PeepoPepe
+  symbol: PEEPO
 - address: 0:97cceec78682b97c342e08e344e3797cf90b2b7aae73abcf5954d8449dadb878
   name: PEPE TON
   symbol: PEPE
@@ -1264,6 +1285,9 @@
 - address: 0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb
   name: TeleBTC
   symbol: TELEBTC
+- address: 0:26f87ef64ba34c68edca10fee31573e7ba9b203b4b3e9a080e296f3d974f7c94
+  name: telegram.dog
+  symbol: TELEDOG
 - address: 0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14
   name: Telegrem
   symbol: TELEGREM
@@ -1469,6 +1493,9 @@
 - address: 0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024
   name: Us Usach
   symbol: USACH
+- address: 0:45cd58b4054a0643bf4b77ba38d7f975b28a390429688c5915cf4a315e4d51f6
+  name: USD Arni
+  symbol: USDA
 - address: 0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496
   name: Upstream Lab
   symbol: USL
@@ -1571,6 +1598,9 @@
 - address: 0:157c463688a4a91245218052c5580807792cf6347d9757e32f0ee88a179a6549
   name: xRocket Token
   symbol: XROCK
+- address: 0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee
+  name: YAYA
+  symbol: YAYA
 - address: 0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26
   name: Yoken
   symbol: YO
@@ -1667,6 +1697,9 @@
 - address: 0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237
   name: "\u0417\u0430\u0439\u0447\u0438\u043A"
   symbol: "\u0417\u0430\u0439\u0447\u0438\u043A"
+- address: 0:0e278ca7b05da8bfb0bde28823319a6ebe73b1d0e677861b8af67047cf73c61f
+  name: "\u041C\u041B\u0410\u041B\u041B\u0410\u0410"
+  symbol: "\u041C\u041B\u0410\u041B\u041B\u0410\u0410"
 - address: 0:0e193322e584958ba6b3433aab39cdf5f39ae950600aa24cf418ebdbaa3f1ebe
   name: "\u0423\u043C\u043A\u0430 (UMKA)"
   symbol: "\u0423\u041C\u041A\u0410"
@@ -1685,6 +1718,12 @@
 - address: 0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246
   name: "\u0447\u0435\u0431\u0443\u0440\u0430\u0448\u043A\u0430"
   symbol: "\u0447\u0435\u0431\u0443\u0440\u0430\u0448\u043A\u0430"
+- address: 0:2652d2278ec66d9c946988e3b21e89898879add8b4daaedd358a0324d148e395
+  name: "\u0628\u0627\u0641\u0644 \u062F\u0648\u0631\u0648\u0641"
+  symbol: "\u0628\u0627\u0641\u0644 \u062F\u0648\u0631\u0648\u0641"
 - address: 0:e597ba8665e0ed04daec57d275107361b4b60e397f53bb2dfc6c2ada3cbda120
   name: "\u8001\u5B50"
   symbol: "\u8001\u5B50"
+- address: 0:c10d5cd47e6b52d4c46548f4870c64e5c14a12b93418054ece7fee26315e3707
+  name: "\u9E2D\u9E2D Token"
+  symbol: "\u9E2D\u9E2D"
