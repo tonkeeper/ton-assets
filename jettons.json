@@ -11556,6 +11556,16 @@
   ]
  },
  {
+  "address": "0:260d2dcd4bd0422d23f8763aedfc1f2f692749bd5e4972b2f8acc77ffff045c9",
+  "description": "EGG YOLK is a ctoken built around the iconic emotional yolk from Telegram.",
+  "image": "https://cdn.dexscreener.com/cms/images/0VwObvcALQAmh9JU?width=128&height=128&fit=crop&quality=95&format=auto",
+  "name": "Yolky the Egg",
+  "social": [
+   "https://t.me/EggYolk_GRAM"
+  ],
+  "symbol": "YOLKY"
+ },
+ {
   "address": "0:5517bb71bff03e540667a23af17d4ab8170c666fa132112a41ecc89a088e0f7c",
   "description": "Youllonx! The token of blogger Sergey Poddubny. Follow the news on the TG channel and find out what will happen next.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbvf7txv_a-vaznojrxfuq4fwxmb6eyespb7miaci4pffpr.png",
