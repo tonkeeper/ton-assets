@@ -11172,6 +11172,21 @@
   ]
  },
  {
+  "address": "0:04057c6d3a58479cecdbbd4d6d36bef0bfb271a3f960be9efc6bd22407bc8c40",
+  "description": "Build your army, fight missions, earn soft rewards.",
+  "image": "https://storage.dyor.io/jettons/images/1784241243/44302382.png",
+  "name": "WAR",
+  "social": [
+   "https://x.com/tontonwar",
+   "https://tonscan.org/jetton/EQAEBXxtOlhHnOzbvU1tNr7wv7Jxo_lgvp78a9IkB7yMQIAw",
+   "https://t.me/tontonwarbot"
+  ],
+  "symbol": "W",
+  "websites": [
+   "https://tontonwar.com/"
+  ]
+ },
+ {
   "address": "0:3a6ba7953a047fbc9facf2a004c04d369528dfb4f956d7577c01b1c0b03c7e2a",
   "description": "This is the ultimate cultural memecoin on TON, built on the history of Telegram\u2019s most iconic art",
   "image": "https://i.ibb.co/8nd565s0/logo.png",
