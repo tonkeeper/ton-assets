@@ -889,6 +889,9 @@
 - address: 0:6aecbc689f86252aa60392b0c6be766e409b6aa160d7c5c4f00554ad10d8a16a
   name: Jones Lang LaSalle xStock
   symbol: JLLx
+- address: 0:d30034d4ccefc174371375f2988b3b65e3282d20e41b0842abd8baaa6bb247c7
+  name: Jersey Mike's Subs xStock
+  symbol: JMKEx
 - address: 0:24dc64fe1b57c3dcfdd528e19f731b12c8f1dac2bf061c5a0e3a03ab351a79e5
   name: Johnson & Johnson xStock
   symbol: JNJx
