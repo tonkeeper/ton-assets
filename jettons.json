@@ -11024,6 +11024,20 @@
   ]
  },
  {
+  "address": "0:fe76c86cbc40a1853a662dd518cccb7926f2bd6175f17f065dc9b9154e4c7761",
+  "description": "\u0422\u043e\u043a\u0435\u043d \u043f\u0440\u043e\u0435\u043a\u0442\u0430 VELVE",
+  "image": "https://i.ibb.co/6MHDbq2/81925-1.png",
+  "name": "VELVE",
+  "social": [
+   "https://t.me/Velve_ch",
+   "https://t.me/Velveebot"
+  ],
+  "symbol": "VEL",
+  "websites": [
+   "https://velve.info/"
+  ]
+ },
+ {
   "address": "0:df8257eb7f43acdfc70a3c768e2aa41e9c9a65b36b3471ecbc69c4058cf0bf54",
   "description": "VERT is a utility token designed to power the Vertus ecosystem, simplifying cryptocurrency access through Web3 integration on Telegram.",
   "image": "https://api.thevertus.app/assets/vert_coin.png",
