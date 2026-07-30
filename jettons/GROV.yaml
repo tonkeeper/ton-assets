@@ -1,0 +1,11 @@
+name: Grovling
+description: "GROV is the in-game currency of Grovling, a critter-raising game on TON. Hard cap 21,000,000; 70% is emitted to players through in-game claims."
+image: "https://grovling.io/api/jetton-icon.png"
+address: EQBgedMgOT7_CdduQ3KZ2MYTls2_dahxpA1Cr6qoA_2mnLV3
+symbol: GROV
+decimals: 9
+websites:
+  - "https://grovling.io"
+social:
+  - "https://t.me/grovling"
+  - "https://t.me/grovling_bot"
