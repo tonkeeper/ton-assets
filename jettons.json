@@ -1476,6 +1476,17 @@
   ]
  },
  {
+  "address": "0:264ab51c12e07ae71278a9d0d16b0b1618bc7faa18d09a7121bb281e820f865a",
+  "description": "BOB THE jellyfish \u2014 a community-driven project inspired by Telegram\u2019s favorite animated jellyfish | Deployed from topblast.lol",
+  "image": "https://i.ibb.co/W8vNShM/image.webp",
+  "name": "BOB THE JELLYFISH",
+  "social": [
+   "https://t.me/BOBthejellifish",
+   "https://x.com/bobthejelly"
+  ],
+  "symbol": "BOBJELLY"
+ },
+ {
   "address": "0:8392238077f4d2d7c66959b6b767043d5e969a9bfe042c908479c4da97a2ad9f",
   "description": "This is more than a memecoin, we have a whole ecosystem of goods and incentives for holders with a percentage of the business revenue.",
   "image": "https://bobrton.com/logo.png",
