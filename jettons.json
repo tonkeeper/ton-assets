@@ -11895,6 +11895,11 @@
   ]
  },
  {
+  "address": "0:cac8961e199b72798b19edda740ed4bf640780ff2ddd32d3f03defb4dbc77caa",
+  "name": "Applied Optoelectronics xStock",
+  "symbol": "AAOIx"
+ },
+ {
   "address": "0:ec8c0c1f2a8fba15566fd8462dfb509a65363f64bfa97e448877a8de41c84dc2",
   "name": "Apple xStock",
   "symbol": "AAPLx"
@@ -12110,6 +12115,11 @@
   "symbol": "ARMKx"
  },
  {
+  "address": "0:e4df91bb67cd4588aca49e7fd5e95d255f4a31081129fa8e61db9913db3ca867",
+  "name": "ARM xStock",
+  "symbol": "ARMx"
+ },
+ {
   "address": "0:88f641e2c2eb02ef7c1ebd0c61e411d726328a19a6547ea6caa97d897fb051a4",
   "name": "Arrow Electronics xStock",
   "symbol": "ARWx"
@@ -12203,6 +12213,11 @@
   "address": "0:51f71e8dbaa9be3dc3a2d05ea0ba445dad737c877318785785dc79c9a75cf7c4",
   "name": "Becton Dickinson xStock",
   "symbol": "BDXx"
+ },
+ {
+  "address": "0:afbadfbc2b0d69dfdd432ce71e0753215cc2c3d555e4e4d5223af033f0cbf2ab",
+  "name": "Bloom Energy xStock",
+  "symbol": "BEx"
  },
  {
   "address": "0:e2d10ab77789eb5cd46b077a8b1e77f4ead3a16b0f3f9a4889a36e901e03fb6b",
@@ -12318,6 +12333,11 @@
   "address": "0:3521a18f7896ac9084bde005157808adf7b47476f027f293998a831f7e5fdc1c",
   "name": "CBRE xStock",
   "symbol": "CBREx"
+ },
+ {
+  "address": "0:d83aed4869de433babbdb6ff6db27bcc5fa2fd261bf95e37250ff526295f147a",
+  "name": "Cerebras Systems xStock",
+  "symbol": "CBRSx"
  },
  {
   "address": "0:c43508df8da736506a42a08b9eecdf7d880132b942e7766d3d26da7a8766352a",
@@ -12518,6 +12538,11 @@
   "address": "0:7f4945af26a23271ae7212ed2d7364ea58d46df0cf2a99562a6680d8758a8cf1",
   "name": "CrowdStrike xStock",
   "symbol": "CRWDx"
+ },
+ {
+  "address": "0:1e4f23646099dccf00c333d402de929c8c76d247e2d3588e5cc805e863ae2884",
+  "name": "CoreWeave xStock",
+  "symbol": "CRWVx"
  },
  {
   "address": "0:27ead766eb36c649a9a12514f0c2a88cd8562804a730e457950b5adfda3063be",
@@ -13770,6 +13795,11 @@
   "symbol": "MUx"
  },
  {
+  "address": "0:93e212d82784314f53abcf85f5ffe3465a6e76bb470bd3d799c11bdd77ad9234",
+  "name": "Nebius xStock",
+  "symbol": "NBISx"
+ },
+ {
   "address": "0:d0eb26e241387c35c653f649c4de5856cfa98c8de8ceaeb0aa27ff1c8f59d93b",
   "name": "Neurocrine Biosciences xStock",
   "symbol": "NBIXx"
@@ -14150,6 +14180,11 @@
   "symbol": "QSRx"
  },
  {
+  "address": "0:dc45087ca58c495bf92f7c718d3721dc08db646e382d189bd97d459e61e87a7d",
+  "name": "uniQure xStock",
+  "symbol": "QUREx"
+ },
+ {
   "address": "0:bdb4677e50e67b3c56effe995acec03d31c7768ec1962eb10ea1d02771746d24",
   "name": "Qnity Electronics xStock",
   "symbol": "Qx"
@@ -14343,6 +14378,11 @@
   "address": "0:6e02373c8bd53ff5fc2b9ebe48e10a21ccd8ee73c42c53c262c105ac99201383",
   "name": "iShares 0-3 Month Treasury Bond ETF xStock",
   "symbol": "SGOVx"
+ },
+ {
+  "address": "0:3cb36b9b4cad0171de26e9be703771c4a8334f4529ce6062f6ffc35b984f20ad",
+  "name": "SharonAI xStock",
+  "symbol": "SHAZx"
  },
  {
   "address": "0:68f2d88001b1ab8646035352e798508359be9c46e5e72a81c391010fcc2c3726",
@@ -14540,6 +14580,11 @@
   "symbol": "TERx"
  },
  {
+  "address": "0:eed3e00cfcbfc3386f766ae0204d33be444ade72f5e13a9552940ecf9ae6d598",
+  "name": "T1 Energy xStock",
+  "symbol": "TEx"
+ },
+ {
   "address": "0:7c59185dfaa283e0a02efa59370a24780d689f7abba592b924a39407e4de9280",
   "name": "Truist Financial xStock",
   "symbol": "TFCx"
@@ -14648,6 +14693,11 @@
   "address": "0:55564a1a59098a84908a5113460e7fa8d7e98d43a9b8ba769770f09624d01cbc",
   "name": "Twilio xStock",
   "symbol": "TWLOx"
+ },
+ {
+  "address": "0:e5d458493cc9403c4f21a71b68245e686b998bf938d05b9db62a2e68c1b67eab",
+  "name": "Twist Bioscience xStock",
+  "symbol": "TWSTx"
  },
  {
   "address": "0:4700dbc76edd47cdeaf69ece4e80bafbbe282ce7e0e1634b32ae5f032bcc01bf",
