@@ -1,12 +1,9 @@
 name: ML Coin
 symbol: ML
-address: EQA_D1vFOcy4389OHMm7h8MPCdECdB0lfqQhSLPku7dDM353
+address: EQA_D1vFOcy4389OHMm7h8MPCdECdB0IfqQhSLPku7dDM353
 decimals: 9
-
-image: https://res.cloudinary.com/rpvlfjrj/image/upload/f_auto,q_auto/1000057566_fl5aup
-
-description: ML Coin is the official utility token of the Monsterland ecosystem, built on the TON blockchain.
-
+image: https://res.cloudinary.com/rpvlfjrj... (আপনার পুরোপুরো ইমেজ URL)
+description: ML Coin is the official utility token for Monster Land.
 social:
   - https://x.com/Aymanpl2t
   - https://t.me/warnsmonster6
