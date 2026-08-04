@@ -4841,6 +4841,22 @@
   ]
  },
  {
+  "address": "0:59c3902a96c00af9b888fe7e233e1fc11fd8f99640194d51701c85f2e4a56cdc",
+  "decimals": 9,
+  "description": "GRID is a community-driven token on TON focused on growth, innovation, and the future of Web3.",
+  "image": "https://storage.dyor.io/jettons/images/1779312050/89512385.png",
+  "name": "GridUp",
+  "social": [
+   "https://x.com/CNetu92945",
+   "https://t.me/GRIDUOFFICIA",
+   "https://www.tiktok.com/@gridupgrid"
+  ],
+  "symbol": "GRID",
+  "websites": [
+   "https://gridupcoin.netlify.app/"
+  ]
+ },
+ {
   "address": "0:d7f4e0ba06ade84de352e98923e96ca0365bc21c48a241e5d32031adc5095a43",
   "description": "$GRIM is a meme coin on the TON Blockchain.",
   "image": "https://i.postimg.cc/0Qrn9PMk/IMG-0983.jpg",
@@ -14581,11 +14597,6 @@
   "symbol": "TBLLx"
  },
  {
-  "address": "0:ffec37fea66603762a4ee8f3ffc771bbf7c2d5d76c9e47e0bcaa0c6aee71c5a3",
-  "name": "Tencent xStock",
-  "symbol": "TCENTx"
- },
- {
   "address": "0:a9b50b56569ba58a4446f10bf4c69d5c68ba4e0a535232d059e800b055196d42",
   "name": "TransDigm xStock",
   "symbol": "TDGx"
@@ -16143,6 +16154,11 @@
   "address": "0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4",
   "name": "DARK DUROV",
   "symbol": "DARKDUROV"
+ },
+ {
+  "address": "0:3a65efc1062d1efaea0e2ee80a40422bb5e46cb8b6d0163e52ea586a76760454",
+  "name": "Behind The Stickers",
+  "symbol": "DASA"
  },
  {
   "address": "0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1",
