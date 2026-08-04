@@ -8747,6 +8747,21 @@
   ]
  },
  {
+  "address": "0:cbb19922e2b165fbf10ce3e440b01c094c2393283a47bce8f33596a7c62343b6",
+  "description": "SAFEPAD is a utility-driven ecosystem token backed by safeton.fun launchpad infrastructure on the TON blockchain.",
+  "name": "SAFETON.FUN",
+  "social": [
+   "https://t.me/safeTONdotFUN",
+   "https://t.me/SafemoonTon",
+   "https://x.com/SafetonPad"
+  ],
+  "symbol": "SAFEPAD",
+  "websites": [
+   "https://www.safeton.fun",
+   "https://www.safeton.fun/simple-raise/EQCbqZdTIuyyf2aFd63IDVpV2bCcg_1Z7pGLg2uBH2Ljk6a7"
+  ]
+ },
+ {
   "address": "0:602f0dd12e410b80e254535a07b47cf09284dd6f84607d3f088131ba93f88b9d",
   "decimals": 9,
   "description": "SafemoonTon is not just a meme project - it's a movement. We're building an ecosystem that will make a lasting impact on TON Blockchain and the crypto industry at large.",
