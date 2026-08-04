@@ -7172,6 +7172,21 @@
   "symbol": "NISMO"
  },
  {
+  "address": "0:5d4337db6cb0f415dada69a8f0895c1a79e2949c2df0a019b94d6077d4de1597",
+  "description": "Nitrochain is the first community-driven project with diverse services in the field of crypto.",
+  "image": "https://raw.githubusercontent.com/ybana1982-hue/pics/refs/heads/main/nitrochain-logo.jpg",
+  "name": "NiTrochain",
+  "social": [
+   "https://x.com/Nitrochainapp",
+   "https://tonscan.org/jetton/EQBdQzfbbLD0FdraaajwiVwaeeKUnC3woBm5TWB31N4Vl3nw",
+   "https://t.me/NitrochainNews"
+  ],
+  "symbol": "NITRO",
+  "websites": [
+   "https://nitrochain.space/"
+  ]
+ },
+ {
   "address": "0:298d02b5aa967706310231a2b41a4b1e592eea7e7840e585dd3fe60a5242b61e",
   "description": "Definitely NOT Pepe. Nope.",
   "image": "https://notpepe.fun/images/nope-logo.png",
