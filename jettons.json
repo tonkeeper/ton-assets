@@ -16660,6 +16660,11 @@
   "symbol": "HOLY"
  },
  {
+  "address": "0:2659a9d7f28865b06eaa0697cbdab8ad090eedafb32526910aeb82a19be3b8ef",
+  "name": "Honk Honkler",
+  "symbol": "HONK"
+ },
+ {
   "address": "0:75d56b54c4ae037fca5c298399dc77c257bd0b8e5e0b115b4aa371abffdb650f",
   "name": "Hoolicoin",
   "symbol": "HOOLI"
@@ -17038,6 +17043,11 @@
   "address": "0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013",
   "name": "meik tun grit agen",
   "symbol": "MTUNGA"
+ },
+ {
+  "address": "0:265457dfe05e77b03420cc226fd5fdcb952a1fc498110446a0b00bc6a1c5b61d",
+  "name": "Muffin the Corgi",
+  "symbol": "MUFFIN"
  },
  {
   "address": "0:38f25c4ef31feaf538df9e9537f13ab267f7a40dc05f8d66c7d199b1d8443322",
