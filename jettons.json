@@ -8550,6 +8550,18 @@
   "symbol": "RGNT"
  },
  {
+  "address": "0:5366f5d749bf092727731ecdf8f6201bb4f39166fc88aafc9eb02b0e43bad89a",
+  "decimals": 9,
+  "description": "Community-supported TON token inspired by the Rica the Pirate Telegram sticker character.",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/ton-assets/main/jettons/rica-1.png",
+  "name": "Rica on Ton",
+  "social": [
+   "https://t.me/rica_the_pirate_cto",
+   "https://x.com/RicaThePirate"
+  ],
+  "symbol": "RICA"
+ },
+ {
   "address": "0:532b0a7c102a0917624ac45127ef3e0f917ee8f561280271c961f43e7f36cbba",
   "description": "Rido is a wolf-samurai, commanding an entire army of users on the TON blockchain. The wolf-samurai lives by the Bushido code, where respect for life and reverence for the opponent are paramount.",
   "image": "https://i.postimg.cc/d3XfP1LN/Wolf-Coin-PNG.png",
