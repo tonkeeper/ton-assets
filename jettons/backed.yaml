@@ -508,9 +508,6 @@
 - address: 0:fcd6b50cee185fe1141016323f24c0ce602ad5cd3120990b7c488c357180559a
   name: Dominion Energy xStock
   symbol: Dx
-- address: 0:d1f29dbe436a0e2b0f30dcf3c9d4d50adbf1800138568f7d4025110d22034a09
-  name: Electronic Arts xStock
-  symbol: EAx
 - address: 0:c9c29cd7109ae718edf6db4e354b3679714dae56ab3af1375d04aae675f862e6
   name: Ecolab xStock
   symbol: ECLx
