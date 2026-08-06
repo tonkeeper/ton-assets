@@ -1600,6 +1600,9 @@
 - address: 0:a3a729a95bf5df60f3b0b84c37f4feb09a593ca3a2ad468de40bfea93958f100
   name: TBLL xStock
   symbol: TBLLx
+- address: 0:ffec37fea66603762a4ee8f3ffc771bbf7c2d5d76c9e47e0bcaa0c6aee71c5a3
+  name: Tencent xStock
+  symbol: TCENTx
 - address: 0:a9b50b56569ba58a4446f10bf4c69d5c68ba4e0a535232d059e800b055196d42
   name: TransDigm xStock
   symbol: TDGx
