@@ -1,0 +1,9 @@
+name: AEROAL
+description: AEROAL token on TON.
+address: EQAAhMn_aDKvXAzGjcBlSQW4cL4ZItvdlHnr6McuZnLd5Z7u
+symbol: ARL
+decimals: 9
+image: "https://aeroalaero.com/ARLtoken.png"
+websites:
+  - "https://aeroalaero.com"
+  - "https://crypto.aeroalaero.com"
