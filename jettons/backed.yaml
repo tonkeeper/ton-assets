@@ -43,6 +43,9 @@
 - address: 0:f114b953bccd06ae849dec959fe20bd97de3810869c9a01992ece932202549b1
   name: Aflac xStock
   symbol: AFLx
+- address: 0:efca964eb3e0f20a3b8e3be2533e6f8258956cdfb3b671f703b61b7d23d0227e
+  name: AIA xStock
+  symbol: AIAGRx
 - address: 0:a38e11c6f31e868df5b5d36f791dfad42106f35c5ed57fb38257d2cec00fa718
   name: American International xStock
   symbol: AIGx
@@ -181,6 +184,9 @@
 - address: 0:dbda5769ca6f4dbe6f991fe508b2f9f1ca467a540f4d5f561b9d5eaa3daff7fe
   name: Brookfield Asset Management xStock
   symbol: BAMx
+- address: 0:53d986a7c35b974404f232261ceb315fd8e78d6e1967930174f90512dd17ec35
+  name: Bank Of China xStock
+  symbol: BANKCx
 - address: 0:066fe333a51d0d1dcd18bc1aa708b27c82ec56b23a20d186b5d967cb4b974775
   name: Boeing xStock
   symbol: BAx
@@ -250,6 +256,9 @@
 - address: 0:6e0fe7414603f1590e9695ab945653c970b5e1df3dc99d408ff1865f2cf0409d
   name: Blackstone xStock
   symbol: BXx
+- address: 0:a7f89de14b8efc3f35868f58e4f15f6590114f31107edf62d2e9bd3b38386501
+  name: BYD xStock
+  symbol: BYDCOx
 - address: 0:c8a95a815dfab0165f1ee88e6fcfcf855bd7f3a1d2b02b5800535ba2fa2648e7
   name: Cardinal Health xStock
   symbol: CAHx
@@ -271,6 +280,9 @@
 - address: 0:c43508df8da736506a42a08b9eecdf7d880132b942e7766d3d26da7a8766352a
   name: Crown Castle xStock
   symbol: CCIx
+- address: 0:1ad70d41be80fced29cce9f23f236dc374c8a0b28c845c5793e6b9542033406a
+  name: China Construction Bank xStock
+  symbol: CCONBx
 - address: 0:38fe9bf8cb7135b75dfd257e37206257fbd2aa6225ba5fea638ee0e9a324aa62
   name: Cadence Design Systems xStock
   symbol: CDNSx
@@ -310,6 +322,9 @@
 - address: 0:d58f938bfdb0f7a8dba9565a1d779373789629fc92cff8ec205ce502a6062e34
   name: Clean Harbors xStock
   symbol: CLHx
+- address: 0:32f982f2c730a4594fbd4ef8db637fb2b36bd7635e0ff48c402acd16881261de
+  name: China Life Insurance xStock
+  symbol: CLINSx
 - address: 0:a3750aae82a52aeae7614158498a1927a8f729fa7bd9c7953bb8a53acb57078c
   name: CleanSpark xStock
   symbol: CLSKx
@@ -397,6 +412,9 @@
 - address: 0:85e77fbd9615743b3202379dedd7c52f78887a177992a787b0d686bec4941e02
   name: CoStar xStock
   symbol: CSGPx
+- address: 0:b645e3003e4d36bdface446581fc637f820bd34fdb8d1866e5c6a67a590a3259
+  name: China Shenhua Energy xStock
+  symbol: CSHEEx
 - address: 0:55409da82fe02f2aa7304a04b456cad62b9b65eed3a6b83a0ae851e4f15b5c21
   name: Carlisle Companies xStock
   symbol: CSLx
@@ -826,6 +844,9 @@
 - address: 0:7b53731473a4de3af611c2a2e8a2e17ecb1af8c3eb1af90fa7d3fe8c8d4c9095
   name: International Business Machines xStock
   symbol: IBMx
+- address: 0:388833aaecb8c14b228930fdd068621fb355861eb6bdcfa8c1761aa5672df230
+  name: Industrial And Commercial Bank Of China xStock
+  symbol: ICBCx
 - address: 0:68ef16ff698609107075c6c96ca1eca61cafdbcc162c960147c0cbac9e840674
   name: Intercontinental Exchange xStock
   symbol: ICEx
@@ -1303,6 +1324,9 @@
 - address: 0:87b6c049ad5dcb38683653eb87ccc46d68d3b2c56868b28dc11c0554fb0d4f3d
   name: Parker Hannifin xStock
   symbol: PHx
+- address: 0:b9f4505349a18cee96ed8afb51304088f6030ede816534b1dab3feb02f5a6fff
+  name: Ping An Insurance Group Co. of China xStock
+  symbol: PICOx
 - address: 0:7933e7d748dbf0d347b938261d4b5cc68c32a5e5db964c5907a0ed717df8809f
   name: Pinterest xStock
   symbol: PINSx
@@ -1882,6 +1906,9 @@
 - address: 0:cda2366444709a423a58015936ae7f793e1d2518fe9f19815a1db7d0c1f333eb
   name: Xcel Energy xStock
   symbol: XELx
+- address: 0:c5a5d846dd32d7d86acb5e5efc92cf62c1bb218ce46ef010cad94b2f5f898ab9
+  name: Xiaomi xStock
+  symbol: XIAOx
 - address: 0:9bc320d41aa14238f7155fc7af6cc9813e553bd1ad0ed2ce22f25467465d05f9
   name: Energy Select Sector SPDR Fund xStock
   symbol: XLEx
