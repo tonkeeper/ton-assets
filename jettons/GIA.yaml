@@ -1,1 +1,11 @@
-name: "Generalintuition" 
+name: "Generalintuition AI"
+symbol: "GIA"
+description: "Generalintuition AI (GIA) TON jetton."
+decimals: 9
+jetton_master: "EQB-qHnRrgfYjpMmPU406TvnFN6-wOY_b_bqtpxcBRkZixBw"
+author: "bitcoinmarketai-netizen"
+links:
+  website: "https://generalintuition.com"
+  twitter: ""
+  telegram: "@generalintuition_wallet"
+image: "https://i.postimg.cc/wvYrB5jr/2-20260727-191649-0001.png"
