@@ -18,7 +18,7 @@ Name           | Address
 [.ton DNS](https://tonviewer.com/0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf) | EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz
 [TON Believers Fund](https://tonviewer.com/0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7) | EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2
 [Tonstakers](https://tonviewer.com/0:a45b17f28409229b78360e3290420f13e4fe20f90d7e2bf8c4ac6703259e22fa) | EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR
-[Tonkeeper battery](https://tonviewer.com/0:7ae5056c3fd9406f9bbbe7c7089cd4c40801d9075486cbedb7ce12df119eacf1) | EQB65QVsP9lAb5u758cInNTECAHZB1SGy-23zhLfEZ6s8aLF
+[TONAPI main gas proxy](https://tonviewer.com/0:7ae5056c3fd9406f9bbbe7c7089cd4c40801d9075486cbedb7ce12df119eacf1) | EQB65QVsP9lAb5u758cInNTECAHZB1SGy-23zhLfEZ6s8aLF
 [TONAPI gas proxy](https://tonviewer.com/0:e065d735fc349ad0d8674033798b99af76f8dce671a9c49d4fe9164e644a6a52) | EQDgZdc1_DSa0NhnQDN5i5mvdvjc5nGpxJ1P6RZOZEpqUjCj
 [TONAPI gas proxy](https://tonviewer.com/0:0dc09ed193e47757057ed6eee7fb0677719f31bd8828113ed52d47abf23447da) | EQANwJ7Rk-R3VwV-1u7n-wZ3cZ8xvYgoET7VLUer8jRH2lsx
 [TONAPI gas proxy](https://tonviewer.com/0:736118ab10bedfb4031dc904ec9d7c9061a905f6efa5d8f55d684233b715b57b) | EQBzYRirEL7ftAMdyQTsnXyQYakF9u-l2PVdaEIztxW1e2x2
@@ -63,6 +63,7 @@ Name           | Address
 [Getgems Marketplace](https://tonviewer.com/0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18) | EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS
 [Getgems Sales](https://tonviewer.com/0:584ee61b2dff0837116d0fcb5078d93964bcbe9c05fd6a141b1bfca5d6a43e18) | EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS
 [Getgems Deployer](https://tonviewer.com/0:39d63083e48f46452ff8a04cd0d3733a90c8be299aa5951b62741759b2c17e0e) | EQA51jCD5I9GRS_4oEzQ03M6kMi-KZqllRtidBdZssF-DjDh
+[Predict with Polymarket](https://tonviewer.com/0:14dc367ff89be34cc53b466bc28b1eab1cf373e10ab2023aed40da9b7473e5f6) | EQAU3DZ_-JvjTMU7RmvCix6rHPNz4QqyAjrtQNqbdHPl9uU2
 [Disintar Marketplace](https://tonviewer.com/0:eb2eaf97ea32993470127208218748758a88374ad2bbd739fc75c9ab3a3f233d) | EQDrLq-X6jKZNHAScgghh0h1iog3StK71zn8dcmrOj8jPWRA
 [OTC Market](https://tonviewer.com/0:4d695da777df8e1839965cd8a9e928b3b328321ab85dec243e86427ac66edbe8) | EQBNaV2nd9-OGDmWXNip6SizsygyGrhd7CQ-hkJ6xm7b6NhC
 [Megaton Finance](https://tonviewer.com/0:16709d273b75ad3654a652329caafe3bdf9602be246abbb2cc349a0f5ec74754) | EQAWcJ0nO3WtNlSmUjKcqv4735YCviRqu7LMNJoPXsdHVLC9
@@ -246,6 +247,7 @@ Name           | Address
 [Chill Flames](https://tonviewer.com/0:65049e27d35a6661ecf954f77c5a8e7df2cf1a81b402c953a3b9c5cac4b0c08b) | EQBlBJ4n01pmYez5VPd8Wo598s8agbQCyVOjucXKxLDAi9r7
 [Timeless Books](https://tonviewer.com/0:b6d76763aead208254178bc312157d5b730e0b1f0dc4b3ada52afb75959cf3b1) | EQC212djrq0gglQXi8MSFX1bcw4LHw3Es62lKvt1lZzzsYuF
 [Vice Creams](https://tonviewer.com/0:dcd3c631cd95ad94a028852c9b35cde45c09003cfb47721fa363f13a28c4376f) | EQDc08YxzZWtlKAohSybNc3kXAkAPPtHch-jY_E6KMQ3b1mn
+[Surge Boards](https://tonviewer.com/0:cb75aef5e46a1c3f5b180e409e70f84eede14db0dbc0443e29ba66c649a9fdeb) | EQDLda715GocP1sYDkCecPhO7eFNsNvARD4pumbGSan96wvZ
 
 
 ## NFT collections
@@ -273,6 +275,7 @@ Name           | Address
 [GiftBox Sleeping Giant](https://tonviewer.com/0:1d563b0a8034b355eca7602bbe8453b454f0705777949131848b9f6b2020042e) | EQAdVjsKgDSzVeynYCu-hFO0VPBwV3eUkTGEi59rICAELvxT
 [GiftBox TON's Witnesses](https://tonviewer.com/0:bb19eecc87d581b11feecf5b6d14b2edbedc013ad06cdd16b41226191feff15c) | EQC7Ge7Mh9WBsR_uz1ttFLLtvtwBOtBs3Ra0EiYZH-_xXCHM
 [Golden Sunrise](https://tonviewer.com/0:57b05284fd3cf8d840c6ae84f31a73d644d8ba5db5ecfb3fff6c6e818d85a3a2) | EQBXsFKE_Tz42EDGroTzGnPWRNi6XbXs-z__bG6BjYWjokNY
+[Gram Kitty](https://tonviewer.com/0:ae18071a98057202c5258faa02575296b02bffef7e99c501a489d542a6fd4122) | EQCuGAcamAVyAsUlj6oCV1KWsCv_736ZxQGkidVCpv1BIvbH
 [Grouche Rewards](https://tonviewer.com/0:7958c516fb3c518f5cb1c9bfc7140db917655e19bd4b90f32ba576620f847851) | EQB5WMUW-zxRj1yxyb_HFA25F2VeGb1LkPMrpXZiD4R4UR_1
 [Hidden Dragon](https://tonviewer.com/0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd) | EQA688-wBLlWrVC9v0jxauxRURqNo6FnJSxos4Uem_gqvfPh
 [JVault locks](https://tonviewer.com/0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94) | EQCSFRiFm_qjv7W6S9xjI7ZY2XJecUhd4VymLglsOE88lMYH

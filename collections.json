@@ -121,6 +121,19 @@
   "name": "StickerBox Golden Sunrise"
  },
  {
+  "address": "0:ae18071a98057202c5258faa02575296b02bffef7e99c501a489d542a6fd4122",
+  "description": "The official kitty collection for the GRAM community. Born from memes, powered by Telegram culture, and raised on TON. Built by Grambo.fun for holders, builders, and believers of the GRAM ecosystem.",
+  "image": "https://assets.grambo.fun/kitty/collection.gif",
+  "name": "Gram Kitty",
+  "social": [
+   "https://x.com/grambofun",
+   "https://t.me/grambofun"
+  ],
+  "websites": [
+   "https://grambo.fun/"
+  ]
+ },
+ {
   "address": "0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd",
   "name": "Hidden Dragon"
  },
