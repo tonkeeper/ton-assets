@@ -433,3 +433,7 @@
   name: "Changelly 2"
 - address: "UQAU3ksCZHlBd5EIt7mb6FWWJgzN6BM1EAAFXXRN2KugTJYl"
   name: "CoinEx"
+- address: "UQBoIZmuD_yyl9NISABwLVGgU4-pVn8WbjkNe9usNmkUnFU5"
+  name: "Zovix.io"
+  require_memo: true
+  image: "https://pub-eb5e7d2c3dfe49a6bfd65553f366dbc7.r2.dev/zovix-logo.svg"
