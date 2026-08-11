@@ -2012,6 +2012,21 @@
   "symbol": "CHIP"
  },
  {
+  "address": "0:3209e8b67a8c229e4ef4f852cdb47a338d2bee90694066987e99864958204603",
+  "description": "Chrome Mini Games Store. The ultimate Play To Earn Gaming Platform.",
+  "image": "https://chromeplay.store/chrome_logo_256x256.png",
+  "name": "Chrome Play",
+  "social": [
+   "https://t.me/ChromePlayStore",
+   "https://x.com/chromeplaystore",
+   "https://www.instagram.com/chromeplaystore"
+  ],
+  "symbol": "CHROME",
+  "websites": [
+   "https://chromeplay.store/"
+  ]
+ },
+ {
   "address": "0:8af4484ee13ff2de2f32a4f2f6821ada794c1662167cb4bd9716acb183b9165f",
   "description": "The next generation of gamified social interaction. As the driving force behind a platform that blends gaming with dynamic social media experiences, ChiliVersus empowers users to participate in rivalries, complete interactive tasks, and engage in meaningful connections.",
   "image": "https://chiliversus.com/coin.png",
