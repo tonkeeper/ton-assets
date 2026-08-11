@@ -10486,6 +10486,21 @@
   "symbol": "TONY"
  },
  {
+  "address": "0:2637db2cc564a8e68413858aea200888287e48e1b80a877f7a85c4599f745581",
+  "decimals": 9,
+  "description": "The pink starfish from the Telegram sticker pack with 13M+ installs, now floating on TON.",
+  "image": "https://tonystar.xyz/tonystar-icon-512.png",
+  "name": "Tony Star",
+  "social": [
+   "https://t.me/TonyStar_TON",
+   "https://x.com/TonyStar_TON"
+  ],
+  "symbol": "TONYSTAR",
+  "websites": [
+   "https://tonystar.xyz"
+  ]
+ },
+ {
   "address": "0:91864bf1896f4c978e052d3c4678fb35c4ca8101ff9ac5a90180211f23c6301d",
   "description": "Employs a unique Proof of Link algorithm to redefine blockchain usability",
   "image": "https://raw.githubusercontent.com/tonoreum/tonoreum-images/master/logo_png.png",
@@ -18438,11 +18453,6 @@
   "address": "0:07f0e48dca6cb0490c8f135b74b542c59713bfff28549a5b1ca5309f30b7ff4c",
   "name": "Tony from TON",
   "symbol": "TONY"
- },
- {
-  "address": "0:2637db2cc564a8e68413858aea200888287e48e1b80a877f7a85c4599f745581",
-  "name": "Tony Star",
-  "symbol": "TONYSTAR"
  },
  {
   "address": "0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81",
