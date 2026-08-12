@@ -1,0 +1,8 @@
+name: "Console Coin"
+symbol: CC
+decimals: 9
+address: EQAQuBaqI_eXIWQDXsqVDZAnM6el8wpvyuVWSJ5uX8Im5yRT
+description: Console Coins (CC) is the native digital token of the Console ecosystem.
+image: https://consolecoin.jasuriosdev.workers.dev/logo.png
+websites:
+  - https://consolecoin.jasuriosdev.workers.dev
