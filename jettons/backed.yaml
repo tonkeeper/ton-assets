@@ -1465,6 +1465,9 @@
 - address: 0:23c20b65da9d70b04b8b7a1337e5a586a30fb74994f07776a6aad914c77d8af6
   name: PICC Property and Casualty xStock
   symbol: PICCx
+- address: 0:b9f4505349a18cee96ed8afb51304088f6030ede816534b1dab3feb02f5a6fff
+  name: Ping An Insurance Group Co. of China xStock
+  symbol: PICOx
 - address: 0:7933e7d748dbf0d347b938261d4b5cc68c32a5e5db964c5907a0ed717df8809f
   name: Pinterest xStock
   symbol: PINSx
