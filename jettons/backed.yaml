@@ -655,9 +655,6 @@
 - address: 0:1fd4d116349c9ccc1d555dbe394c99cef5927f7b37b567407f84698b13d0d366
   name: Equinix xStock
   symbol: EQIXx
-- address: 0:09df52fea2f67af5ee442f1f74a02fe8f1af9ddbb828fb856bcff0c47488fa13
-  name: Equity Residential xStock
-  symbol: EQRx
 - address: 0:489a679eb6bc2c976dbc8740e33c7a44d590ba27fbdbe15b549c2639e0524f96
   name: EQT xStock
   symbol: EQTx
