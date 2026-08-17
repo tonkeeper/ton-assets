@@ -8556,6 +8556,18 @@
   ]
  },
  {
+  "address": "0:2e0d3922a346793cd3d41afff93671f02e395e6827a1b064da346e289adac6ed",
+  "decimals": 9,
+  "description": "Community-maintained TON token built around Resistance Lady and its community-driven continuation.",
+  "image": "https://raw.githubusercontent.com/ResistanceLady/relady-assets/main/relady.png",
+  "name": "Resistance Lady",
+  "social": [
+   "https://t.me/Reladyton",
+   "https://x.com/ReladyTONCoin"
+  ],
+  "symbol": "RELADY"
+ },
+ {
   "address": "0:da50a430100c789afff3ee6f9a27286081bc26a22cc9c0f192bfafd7425bf201",
   "description": "Guard Dog of Republic",
   "image": "https://i.ibb.co.com/9HqSjq1L/reog-256.png",
