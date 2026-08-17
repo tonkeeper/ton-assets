@@ -22131,5 +22131,229 @@
   "websites": [
    "https://chinamtonga.xyz/"
   ]
- }
+ },
+{
+    "name": "Sovereign World",
+    "description": "Money of the state (country) Sovereign World (Sovereign Union)",
+    "address": "EQBSjVO1y3ONNKE20O004IjhN6IiAeseY3jA2oN4jOOluzf0",
+    "symbol": "SOVEREIGN",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Dollar USA",
+    "description": "The Sovereign Dollar United States of America is the currency used in the Sovereign World for transactions and currency exchange",
+    "address": "EQCTruuP2R9diVueakW3TyyF4yWgAMdWPjWM4jDroE4HgqQv",
+    "symbol": "USDsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Belarusian Ruble",
+    "description": "The Sovereign Belarusian Ruble is the currency used in the Sovereign World for transactions between Belarusians and for currency exchange",
+    "address": "EQDQsKbJHj8WciifXPCqr5VPnOtsBASaPvA-uU0uJo_8Doad",
+    "symbol": "BYNsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Swiss Franc",
+    "description": "The Sovereign Swiss Franc is the currency used in the Sovereign World for transactions with the Swiss Franc and for other currency exchange",
+    "address": "EQCETM2XXSrfE4kDQzHe2OK2VpXhd5GCQmZOhlgxVISc6O9A",
+    "symbol": "CHFsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Euro",
+    "description": "The Sovereign Euro is the currency used in the Sovereign World for Euro transactions",
+    "address": "EQDd_lLpWAV83SRdRe7ks5xadu9mD4FDiljKUPisQ_H7AF92",
+    "symbol": "EURsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Georgian Lari",
+    "description": "The Sovereign Georgian Lari is the currency used in the Sovereign World for transactions with the Georgian Lari and for other currency exchange",
+    "address": "EQCnGeByn0bkjbB6YajGlI3-85LCe03gYZUrdIL_D8JE1zad",
+    "symbol": "GELsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Indonesian Rupiah",
+    "description": "The Sovereign Indonesian Rupiah is the currency used in the Sovereign World for transactions involving the Indonesian Rupiah",
+    "address": "EQDJteIqw-CkTWmJYbr_--qD44U9YRhaFoC4fOqBzEe3MVpD",
+    "symbol": "IDRsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Indian Rupee",
+    "description": "The Sovereign Indian Rupee is the currency used in the Sovereign World for transactions with the Indian Rupee",
+    "address": "EQDAoJf06UXr37MGnA6lewPGB_A34tJ8F1pWHymAVr5lBIAq",
+    "symbol": "INRsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Kazakhstan Tenge",
+    "description": "The Sovereign Kazakhstan Tenge is the currency used in Sovereign World for transactions and currency exchange in Kazakhstan",
+    "address": "EQCVMu9RdNq0k8IYR3w5rhKt4_Rtlghxn2Ffc0KE3CuPRITn",
+    "symbol": "KZTsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Polish Zloty",
+    "description": "The Sovereign Polish Zloty is the currency used in the Sovereign World for transactions with the Polish Zloty and for other currency exchange",
+    "address": "EQDa9KsreBQ4GopxcaSI8petC1BCV4U244LtMphfBSBf7ajz",
+    "symbol": "PLNsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Russian Ruble",
+    "description": "The Sovereign Russian Ruble is the currency used in Sovereign World for transactions with the Russian Ruble",
+    "address": "EQATxf8pYFsQ7WbPhQ08_WvWabIXvEmXBWSb9ipwl535pAph",
+    "symbol": "RUBsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Thai Baht",
+    "description": "The Sovereign Thai Baht is the currency used in the Sovereign World for transactions with the Thai Baht and for other currency exchange",
+    "address": "EQAizWBDo-TsPBTBtazbWK-t9EcNZ2tH9wYv7LmlYi6dQRqB",
+    "symbol": "THBsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Ukrainian Hryvnia",
+    "description": "The Sovereign Ukrainian Hryvnia is the currency used in Sovereign World for transactions with the Ukrainian Hryvnia",
+    "address": "EQDzdiuCRnLVEKkZXzZHUbmCGHWPRC41119l5T5nashFEqnA",
+    "symbol": "UAHsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+},
+{
+    "name": "Sovereign Vietnamese Dong",
+    "description": "The Sovereign Vietnamese Dong is the currency used in the Sovereign World for transactions with the Vietnamese Dong and for other currency exchange",
+    "address": "EQDLcvO7kJdBK_zT-u7GsvW0lEMRwNY84muU2zeXO_Nne5rF",
+    "symbol": "VNDsovereign",
+    "decimals": 9,
+    "websites": [
+      "https://suveren.online/"
+    ],
+    "social": [
+      "https://t.me/sovereign_news",
+      "https://t.me/Sovereign_Money",
+      "https://t.me/Sovereigncoin_bot",
+      "https://t.me/SOVEREIGN_Wallet_bot"
+    ]
+}
 ]
