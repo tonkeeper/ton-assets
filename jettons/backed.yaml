@@ -157,9 +157,6 @@
 - address: 0:96d1c35e02608f29898035b2f39c18420c4b2bfc842777a646d4048d128955e2
   name: Atmos Energy xStock
   symbol: ATOx
-- address: 0:d575492b68822709913264f321550989a2b72b805c344a9f6554c639a335406f
-  name: AvalonBay Communities xStock
-  symbol: AVBx
 - address: 0:ece24ecf4801f79ee5f0ddb5cf119eda15ab5c7a390aadffcc8b80afdfec8b02
   name: Broadcom xStock
   symbol: AVGOx
