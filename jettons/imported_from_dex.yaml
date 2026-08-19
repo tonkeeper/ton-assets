@@ -403,6 +403,9 @@
 - address: 0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110
   name: Donut The Dog
   symbol: DONUT
+- address: 0:2608be365b149f8fec1dbcb8e5a74bfa90f5d2651b3185597d5e8ff0a709e442
+  name: DotGram
+  symbol: DOTGRAM
 - address: 0:8f0968cff3c8691eef97ef8a0c3d20730687842c39e3377ab514101940476f5c
   name: Chinese Dragon
   symbol: DRAGON
