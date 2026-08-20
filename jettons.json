@@ -2596,6 +2596,14 @@
   ]
  },
  {
+  "address": "0:269c0d785de06a4d11d4a9195aaacfcf3c0b7105af8723677da2a1f377301a30",
+  "decimals": 9,
+  "description": "Community-driven TON token associated with the DeDust ecosystem.",
+  "image": "https://raw.githubusercontent.com/BabyLadyCTO/dedustfund-assets/main/dedust_fund_improved_icon_real.png",
+  "name": "DedustFund",
+  "symbol": "DEDUSTFUND"
+ },
+ {
   "address": "0:4768a094c60f84aff884f87e54858ec2ae7930ce78904b914b4566c3ca5bc300",
   "description": "This token is a voice for promoting a healthy lifestyle and debunking myths in the fitness industry, medicine, and science. Let's make our token popular and actively bought and sold to spread the truth about the dangers of seed oils, microplastics, phytoestrogens, and oral contraceptives. Hail to Ray Peat and other independent scientists whose information is being canceled by big pharma and soy globalists! From Russia with LOVE! @deus_fit",
   "image": "https://lh3.googleusercontent.com/pw/AP1GczO6Sy736w9Ad-5SJaHJteaL9JmyHCa3sVk2xsVQyFgMtT2CK0wYfsmEVZTdQMwgkxQ1RLoH0Z1YlrqkYC43mDpEKS9wsmwAN08KkGs3LG01-mWx_Pj-t4ydsVg12rpsy6gaxR_U1Ky8061wY3TTCFLH=w640-h640-s-no-gm?authuser=0",
@@ -16675,11 +16683,6 @@
   "address": "0:53507e9c768ce9d935ae8c0a9a98d8e0982ad7715ec5ada43a2a2783bbba58b0",
   "name": "DEANON",
   "symbol": "DEANON"
- },
- {
-  "address": "0:269c0d785de06a4d11d4a9195aaacfcf3c0b7105af8723677da2a1f377301a30",
-  "name": "DedustFund",
-  "symbol": "DEDUSTFUND"
  },
  {
   "address": "0:5cf8be42cf344a991dfe4dd3b0066e25f97c8977126ddc77c022bfea32229a07",
