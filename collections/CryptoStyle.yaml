@@ -1,0 +1,16 @@
+name: "Crypto Style"
+
+description: "Crypto Style Profile Items are utility NFTs used as technical user profiles within the Crypto Style application. Each NFT is created for a registered user and is not distributed randomly. These NFTs are not intended for trading, have no sale mechanics and no royalties. They are application contracts used for user identification and interaction with the Crypto Style smart-contract system."
+
+image: "https://cryptostylematrix.github.io/frontend/cs.png"
+
+address: "EQAiWZqRPp39Z46Y4Pahvj5UQSzafJrUiTbYDcQ0kldLebjn"
+
+social:
+  - "https://crypto-style.org"
+  - "https://cryptostylematrix.github.io/frontend"
+  - "https://t.me/CryptoStyleMatrixNews"
+  - "https://t.me/CryptoStyleMatrixbot"
+  - "https://github.com/cryptostylematrix"
+  - "https://www.youtube.com/@CryptoStyleOfficial"
+  - "https://x.com/CryptoStyleTON"
