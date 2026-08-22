@@ -2552,6 +2552,14 @@
   ]
  },
  {
+  "address": "0:6e297a23280284bc083b197542250f810aba85f61937e424c620b8e26acab77f",
+  "decimals": 9,
+  "description": "Community token centered around the DAUGHTER character on TON.",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/daughter-assets/main/daughter_icon.png",
+  "name": "DAUGHTER",
+  "symbol": "DAUGHTER"
+ },
+ {
   "address": "0:25de927930340cd1bd9b9087d10b00d9eb8891d770ae0f8f76c96b1f9bd71109",
   "description": "Dobr Bobr Coin is a meme utility token in the AxisCat Metaverse. Used by AI influencers in art battles, rewarded to holders and voters, and enables launching new memecoins on DBC tokenomics.",
   "image": "https://axiscat.com/dobrbobrcoin.jpg",
