@@ -63,6 +63,7 @@ Name           | Address
 [Getgems Marketplace](https://tonviewer.com/0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18) | EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS
 [Getgems Sales](https://tonviewer.com/0:584ee61b2dff0837116d0fcb5078d93964bcbe9c05fd6a141b1bfca5d6a43e18) | EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS
 [Getgems Deployer](https://tonviewer.com/0:39d63083e48f46452ff8a04cd0d3733a90c8be299aa5951b62741759b2c17e0e) | EQA51jCD5I9GRS_4oEzQ03M6kMi-KZqllRtidBdZssF-DjDh
+[Predict with Polymarket](https://tonviewer.com/0:14dc367ff89be34cc53b466bc28b1eab1cf373e10ab2023aed40da9b7473e5f6) | EQAU3DZ_-JvjTMU7RmvCix6rHPNz4QqyAjrtQNqbdHPl9uU2
 [Disintar Marketplace](https://tonviewer.com/0:eb2eaf97ea32993470127208218748758a88374ad2bbd739fc75c9ab3a3f233d) | EQDrLq-X6jKZNHAScgghh0h1iog3StK71zn8dcmrOj8jPWRA
 [OTC Market](https://tonviewer.com/0:4d695da777df8e1839965cd8a9e928b3b328321ab85dec243e86427ac66edbe8) | EQBNaV2nd9-OGDmWXNip6SizsygyGrhd7CQ-hkJ6xm7b6NhC
 [Megaton Finance](https://tonviewer.com/0:16709d273b75ad3654a652329caafe3bdf9602be246abbb2cc349a0f5ec74754) | EQAWcJ0nO3WtNlSmUjKcqv4735YCviRqu7LMNJoPXsdHVLC9
@@ -246,6 +247,7 @@ Name           | Address
 [Chill Flames](https://tonviewer.com/0:65049e27d35a6661ecf954f77c5a8e7df2cf1a81b402c953a3b9c5cac4b0c08b) | EQBlBJ4n01pmYez5VPd8Wo598s8agbQCyVOjucXKxLDAi9r7
 [Timeless Books](https://tonviewer.com/0:b6d76763aead208254178bc312157d5b730e0b1f0dc4b3ada52afb75959cf3b1) | EQC212djrq0gglQXi8MSFX1bcw4LHw3Es62lKvt1lZzzsYuF
 [Vice Creams](https://tonviewer.com/0:dcd3c631cd95ad94a028852c9b35cde45c09003cfb47721fa363f13a28c4376f) | EQDc08YxzZWtlKAohSybNc3kXAkAPPtHch-jY_E6KMQ3b1mn
+[Surge Boards](https://tonviewer.com/0:cb75aef5e46a1c3f5b180e409e70f84eede14db0dbc0443e29ba66c649a9fdeb) | EQDLda715GocP1sYDkCecPhO7eFNsNvARD4pumbGSan96wvZ
 
 
 ## NFT collections
@@ -281,6 +283,7 @@ Name           | Address
 [NFT Spaceship](https://tonviewer.com/0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0) | EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS
 [Sleeping Giant](https://tonviewer.com/0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb) | EQBfRGXk3PKeH9s_htEidRXY54NR8jgHen__C-SUuaJA--3_
 [Spinners](https://tonviewer.com/0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058) | EQAZKtHcN6mhbzhbzcnuj-94r5P-hZYBKEwQ4_-dc-2AWMqZ
+[Stellarium Worlds](https://tonviewer.com/0:9bfd0f65e9624c0043c80e3677a71329d0f515f6f40bcef171552e796770134d) | EQCb_Q9l6WJMAEPIDjZ3pxMp0PUV9vQLzvFxVS55Z3ATTbbJ
 [StickerBox Crouching Tiger](https://tonviewer.com/0:9be8082c3a944e1618b613389737e393d201bef9114a045a565224d1ff53c0d1) | EQCb6AgsOpROFhi2EziXN-OT0gG--RFKBFpWUiTR_1PA0Ycv
 [StickerBox Degens Paradise](https://tonviewer.com/0:873d57f407dc38f7083b9134498d49a11737d17dd09a916231fde4db70c8ff7a) | EQCHPVf0B9w49wg7kTRJjUmhFzfRfdCakWIx_eTbcMj_ep45
 [StickerBox Golden Sunrise](https://tonviewer.com/0:663702cc7104e7ab205ced5324b368851c15b2acff72faa93937db0f8f9ff7e1) | EQBmNwLMcQTnqyBc7VMks2iFHBWyrP9y-qk5N9sPj5_34UrA

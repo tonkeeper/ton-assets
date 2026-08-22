@@ -172,6 +172,19 @@
   "name": "StickerBox Sleeping Giant"
  },
  {
+  "address": "0:9bfd0f65e9624c0043c80e3677a71329d0f515f6f40bcef171552e796770134d",
+  "description": "Planets from Stellarium, a Telegram Mini App game. Each NFT is a planet a player owns and plays with in the game \u2014 it has rarity, genes, a level and a production rate, and it keeps developing after it is minted or bought.",
+  "image": "https://s.getgems.io/nft/b/c/6a72eff8759f2ee050935d1d/edit/images/1953238.jpg",
+  "name": "Stellarium Worlds",
+  "social": [
+   "https://t.me/Timegalaxy_bot",
+   "https://t.me/time_meme_chat"
+  ],
+  "websites": [
+   "https://memetimeton.fun/"
+  ]
+ },
+ {
   "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
   "name": "Telegram usernames",
   "websites": [

@@ -220,6 +220,10 @@
   "name": "Getgems Deployer"
  },
  {
+  "address": "0:14dc367ff89be34cc53b466bc28b1eab1cf373e10ab2023aed40da9b7473e5f6",
+  "name": "Predict with Polymarket"
+ },
+ {
   "address": "0:eb2eaf97ea32993470127208218748758a88374ad2bbd739fc75c9ab3a3f233d",
   "name": "Disintar Marketplace"
  },
@@ -963,6 +967,10 @@
   "name": "Vice Creams"
  },
  {
+  "address": "0:cb75aef5e46a1c3f5b180e409e70f84eede14db0dbc0443e29ba66c649a9fdeb",
+  "name": "Surge Boards"
+ },
+ {
   "address": "-1:a491d63f07ba7eefb4cb9f685484ce9089d5abaec97c15858222f04ca592a9ac",
   "name": "PoW Giver 1"
  },
@@ -1291,6 +1299,16 @@
   "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
   "name": "Bybit 8",
   "require_memo": true
+ },
+ {
+  "address": "0:f2dc1860686cd658987e2bed8216532d8c004460dadea907cc7d4ad7236c496b",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
+  "name": "Bybit 9"
+ },
+ {
+  "address": "0:4a1c20bc9a6f9294f75f1c87a7f383a8b73a483a2e6dcb3630ddbe78b3ccad00",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
+  "name": "Bybit 10"
  },
  {
   "address": "0:008bb088e81e38d583826901093567027cc1575ec744ac354fa4eeec302d166d",
@@ -1716,9 +1734,8 @@
   "name": "Changelly"
  },
  {
-  "address": "0:f2dc1860686cd658987e2bed8216532d8c004460dadea907cc7d4ad7236c496b",
-  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
-  "name": "Bybit 8"
+  "address": "0:3d7ee4917dc75c195b975a17b8fb7d367978fdc30bd9649200aa1255a93a3e57",
+  "name": "Changelly 2"
  },
  {
   "address": "0:14de4b02647941779108b7b99be85596260ccde813351000055d744dd8aba04c",

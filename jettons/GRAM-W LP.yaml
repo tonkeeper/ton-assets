@@ -1,0 +1,15 @@
+name: LP Token for GRAM-W
+description: Liquidity pool token for pGRAM and WAR on STON.fi DEX
+image: "https://meta.ston.fi/lp/v1/img/0:b6ca93b3513045cfd37390dfc1c3637883b8bbc73f43c720ec50019d019522f6.png"
+address: EQC2ypOzUTBFz9NzkN_Bw2N4g7i7xz9DxyDsUAGdAZUi9kKn
+symbol: GRAM-W LP
+websites:
+  - "https://www.geckoterminal.com/ton/pools/EQC2ypOzUTBFz9NzkN_Bw2N4g7i7xz9DxyDsUAGdAZUi9kKn"
+  - "https://tonviewer.com/EQC2ypOzUTBFz9NzkN_Bw2N4g7i7xz9DxyDsUAGdAZUi9kKn"
+  - "https://tonscan.org/jetton/EQC2ypOzUTBFz9NzkN_Bw2N4g7i7xz9DxyDsUAGdAZUi9kKn"
+social:
+  - "https://app.ston.fi/swap?chartVisible=true&chartInterval=1w&ft=GRAM&tt=EQAEBXxtOlhHnOzbvU1tNr7wv7Jxo_lgvp78a9IkB7yMQIAw"
+  - "https://app.tonkeeper.com/swap?ft=GRAM&open=1&tt=EQAEBXxtOlhHnOzbvU1tNr7wv7Jxo_lgvp78a9IkB7yMQIAw"
+  - "https://swap.coffee/dex?ft=GRAM&st=EQAEBXxtOlhHnOzbvU1tNr7wv7Jxo_lgvp78a9IkB7yMQIAw&sa=3&fa=1"
+  - "https://dyor.io/ru/swap?currency=pair&to=EQAEBXxtOlhHnOzbvU1tNr7wv7Jxo_lgvp78a9IkB7yMQIAw"
+  - "https://dedust.io/swap/GRAM/EQAEBXxtOlhHnOzbvU1tNr7wv7Jxo_lgvp78a9IkB7yMQIAw"
