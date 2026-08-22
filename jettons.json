@@ -953,6 +953,21 @@
   ]
  },
  {
+  "address": "0:938738adccf5e6d9d1fda6c69591996401c1eacc2263701a43dbd6f9725a2c35",
+  "decimals": 9,
+  "description": "The utility token of Platho \u2014 a fully decentralized, post-quantum encrypted messenger that lives entirely on the TON blockchain (no backend, no servers, your keys). Earn ATH as an activity bonus for using the app, and spend it to reduce messaging fees, mint .ath usernames, and attach avatars \u2014 all on-chain.",
+  "image": "https://i.postimg.cc/NMsNyCwb/jetton.webp",
+  "name": "PLATHO",
+  "social": [
+   "https://t.me/plathoapp"
+  ],
+  "symbol": "ATH",
+  "websites": [
+   "https://platho.app/",
+   "https://getgems.io/platho"
+  ]
+ },
+ {
   "address": "0:11f8a05dbb02f8c3e2e0ef64055f8b564ce0090864bbd859061eb24bf50b7b3f",
   "decimals": 9,
   "description": "AVACOIN is the first fully integrated ecosystem built on Telegram mini-apps, combining play2earn, learn2earn, staking elements, and a marketplace on a single convenient platform.",
