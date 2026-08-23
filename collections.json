@@ -29,6 +29,17 @@
   "name": "Booli Reborn"
  },
  {
+  "address": "0:6a2d41ed3529be50921a52fa4c4b2e10c36cbb8cade3baf823f494f5ec96fdc2",
+  "name": "CITY Holder | Crystal Collection",
+  "social": [
+   "https://t.me/CITY_Holder",
+   "http://x.com/City_Holder"
+  ],
+  "websites": [
+   "http://holder.city"
+  ]
+ },
+ {
   "address": "0:b679515cfc1f44d7a314609c65216d243939142794b054a7b01655cccec69786",
   "name": "Crouching Tiger"
  },
@@ -110,6 +121,19 @@
   "name": "StickerBox Golden Sunrise"
  },
  {
+  "address": "0:ae18071a98057202c5258faa02575296b02bffef7e99c501a489d542a6fd4122",
+  "description": "The official kitty collection for the GRAM community. Born from memes, powered by Telegram culture, and raised on TON. Built by Grambo.fun for holders, builders, and believers of the GRAM ecosystem.",
+  "image": "https://assets.grambo.fun/kitty/collection.gif",
+  "name": "Gram Kitty",
+  "social": [
+   "https://x.com/grambofun",
+   "https://t.me/grambofun"
+  ],
+  "websites": [
+   "https://grambo.fun/"
+  ]
+ },
+ {
   "address": "0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd",
   "name": "Hidden Dragon"
  },
@@ -148,6 +172,19 @@
   "name": "StickerBox Sleeping Giant"
  },
  {
+  "address": "0:9bfd0f65e9624c0043c80e3677a71329d0f515f6f40bcef171552e796770134d",
+  "description": "Planets from Stellarium, a Telegram Mini App game. Each NFT is a planet a player owns and plays with in the game \u2014 it has rarity, genes, a level and a production rate, and it keeps developing after it is minted or bought.",
+  "image": "https://s.getgems.io/nft/b/c/6a72eff8759f2ee050935d1d/edit/images/1953238.jpg",
+  "name": "Stellarium Worlds",
+  "social": [
+   "https://t.me/Timegalaxy_bot",
+   "https://t.me/time_meme_chat"
+  ],
+  "websites": [
+   "https://memetimeton.fun/"
+  ]
+ },
+ {
   "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
   "name": "Telegram usernames",
   "websites": [
@@ -180,6 +217,19 @@
   ],
   "websites": [
    "https://zargates.com"
+  ]
+ },
+ {
+  "address": "0:58b22ef862a9e6412d427026d443e918728069d84a482f8621fc1e7dd304d6f5",
+  "description": "NFT ZarGates Scratch Card is your invite to the Pre-launch of PvP Vibe:  AI platform for game creation and publishing without any programming skills. Every Scratch Card guaranties a reward from $10 to $5,000 for your deposit. Open Scratch Card till May 15 and get: Alpha Sword NFT. Exclusive USDT drops. Premium+ service discounts. Join the most Epic battle in the history of NFT!",
+  "image": "https://metadata.zargates.com/scratch-card-0/collection_image.png",
+  "name": "ZarGates Scratch Cards",
+  "social": [
+   "http://t.me/pvpvibechat",
+   "http://t.me/pvpvibechatRU"
+  ],
+  "websites": [
+   "https://pvpvibe.com"
   ]
  },
  {
@@ -260,6 +310,16 @@
  {
   "address": "0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf",
   "name": "CALLIGRAFUTURISM \u2014 24: Units"
+ },
+ {
+  "address": "0:7958c516fb3c518f5cb1c9bfc7140db917655e19bd4b90f32ba576620f847851",
+  "description": "Personalized SBT Rewards for Grouche Platform users.",
+  "image": "https://cdn.grouche.com/sbt/grc.jpg",
+  "name": "Grouche Rewards",
+  "social": [
+   "https://x.com/grouchecoin",
+   "https://t.me/grouche_coin"
+  ]
  },
  {
   "address": "0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94",

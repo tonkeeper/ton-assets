@@ -1,0 +1,11 @@
+name: NFT DARK TRIAD
+symbol: NDT
+decimals: 9
+description: "NDT (NFT DARK TRIAD) is a community token on the TON blockchain. Our goal is to build a strong community around the TON ecosystem." 
+image: https://github.com/Niko201-nv/not-logo/blob/main/IMG_3274.jpeg?raw=true
+address: EQAUsVFlsJU2egf5xRkSLK3j8sIt56rONkBokXiGjdvBw9P9
+social: 
+  - "https://t.me/NFT_Dark_Triad"  #An information channel about the world of cryptocurrency and at the same time the main channel for the NDT (NFT DARK TRIAD) token
+  - "https://t.me/dark_triad_chat_l" #NDT DARK TRIAD Chat Community
+
+  #Fix social links format and update image URL
