@@ -1,0 +1,8 @@
+name: Udo the cat
+symbol: UDOCAT
+address: EQAiB6nk1U4Cej3FWGBL2rfmCKfxLFRY5_HkwcFn8y1IQeaD
+description: Udo the cat is a small experimental TON Jetton created for learning and fun. It has a live STON.fi pool and public on-chain market data. The project is not presented as an investment.
+decimals: 4
+image: https://anvilfilbert.github.io/udocat-site/images/udo/udo-token-icon-192.png
+websites:
+  - https://anvilfilbert.github.io/udocat-site/
