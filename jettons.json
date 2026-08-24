@@ -17359,6 +17359,11 @@
   "symbol": "LNG"
  },
  {
+  "address": "0:2601bdddedd10ff1f31639fe36273c6ef03c86fdf08af6775f2ecd5786394de4",
+  "name": "LOCKIN",
+  "symbol": "LOCKIN"
+ },
+ {
   "address": "0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30",
   "name": "Leprechaun",
   "symbol": "LUCKY"
