@@ -7591,6 +7591,22 @@
   ]
  },
  {
+  "address": "0:9b73c945338ae6d6e54cd6e0ac4e819311e055ed969fcabe587ebc40540da7f8",
+  "description": "ORCA is a utility token powering the OrcaMining Telegram Mini App and its community ecosystem. ORCA is live on TON and available for trading with active liquidity on STON.fi.",
+  "image": "https://orcamining-two.vercel.app/orca-token-logo.png",
+  "name": "ORCA",
+  "social": [
+   "https://t.me/OrcaMineBot",
+   "https://t.me/OrcaMine",
+   "https://t.me/OrcaMineChat",
+   "https://t.me/OrcaMineSupport"
+  ],
+  "symbol": "$ORCA",
+  "websites": [
+   "https://orcamining-two.vercel.app/"
+  ]
+ },
+ {
   "address": "0:8d02004e5f158f6af5d17c1ab76d6717ce58500a63c1952553836a727cf2b315",
   "description": "ORANGE is a meme coin with no intrinsic value or expectation of financial return. This coin is for entertainment purposes only.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcnagboxxwpavxrfbq3bwcxzlhqcmpblsvtg2pyfpkzfux2.png",
