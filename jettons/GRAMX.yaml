@@ -1,0 +1,12 @@
+name: GramPad Token
+symbol: GRAMX
+description: GRAMX is the utility token of GramPad, a TON-native launchpad ecosystem designed to support token launches, community participation, and Web3 projects on The Open Network.
+image:  https://brown-gigantic-crab-18.mypinata.cloud/ipfs/bafkreigmh33ljdmvddex3dksa32g4od67niyir7i5f7q4ynkxnmwo7bvam
+address: 0:ab7f293e72178b500db0ac7013749ff4990dd3707fe2aca6e9caef03b3ed2a83
+decimals: 9
+websites:
+  - "https://grampad.io"
+social:
+  - "https://t.me/grampadio"
+  - "https://t.me/grampadio_channel"
+  - "https://x.com/grampadio"
