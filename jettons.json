@@ -953,6 +953,21 @@
   ]
  },
  {
+  "address": "0:938738adccf5e6d9d1fda6c69591996401c1eacc2263701a43dbd6f9725a2c35",
+  "decimals": 9,
+  "description": "The utility token of Platho \u2014 a fully decentralized, post-quantum encrypted messenger that lives entirely on the TON blockchain (no backend, no servers, your keys). Earn ATH as an activity bonus for using the app, and spend it to reduce messaging fees, mint .ath usernames, and attach avatars \u2014 all on-chain.",
+  "image": "https://i.postimg.cc/NMsNyCwb/jetton.webp",
+  "name": "PLATHO",
+  "social": [
+   "https://t.me/plathoapp"
+  ],
+  "symbol": "ATH",
+  "websites": [
+   "https://platho.app/",
+   "https://getgems.io/platho"
+  ]
+ },
+ {
   "address": "0:11f8a05dbb02f8c3e2e0ef64055f8b564ce0090864bbd859061eb24bf50b7b3f",
   "decimals": 9,
   "description": "AVACOIN is the first fully integrated ecosystem built on Telegram mini-apps, combining play2earn, learn2earn, staking elements, and a marketplace on a single convenient platform.",
@@ -2012,6 +2027,21 @@
   "symbol": "CHIP"
  },
  {
+  "address": "0:3209e8b67a8c229e4ef4f852cdb47a338d2bee90694066987e99864958204603",
+  "description": "Chrome Mini Games Store. The ultimate Play To Earn Gaming Platform.",
+  "image": "https://chromeplay.store/chrome_logo_256x256.png",
+  "name": "Chrome Play",
+  "social": [
+   "https://t.me/ChromePlayStore",
+   "https://x.com/chromeplaystore",
+   "https://www.instagram.com/chromeplaystore"
+  ],
+  "symbol": "CHROME",
+  "websites": [
+   "https://chromeplay.store/"
+  ]
+ },
+ {
   "address": "0:8af4484ee13ff2de2f32a4f2f6821ada794c1662167cb4bd9716acb183b9165f",
   "description": "The next generation of gamified social interaction. As the driving force behind a platform that blends gaming with dynamic social media experiences, ChiliVersus empowers users to participate in rivalries, complete interactive tasks, and engage in meaningful connections.",
   "image": "https://chiliversus.com/coin.png",
@@ -2522,6 +2552,14 @@
   ]
  },
  {
+  "address": "0:6e297a23280284bc083b197542250f810aba85f61937e424c620b8e26acab77f",
+  "decimals": 9,
+  "description": "Community token centered around the DAUGHTER character on TON.",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/daughter-assets/main/daughter_icon.png",
+  "name": "DAUGHTER",
+  "symbol": "DAUGHTER"
+ },
+ {
   "address": "0:25de927930340cd1bd9b9087d10b00d9eb8891d770ae0f8f76c96b1f9bd71109",
   "description": "Dobr Bobr Coin is a meme utility token in the AxisCat Metaverse. Used by AI influencers in art battles, rewarded to holders and voters, and enables launching new memecoins on DBC tokenomics.",
   "image": "https://axiscat.com/dobrbobrcoin.jpg",
@@ -2579,6 +2617,14 @@
    "https://dedust.io/pools/EQD_Z-4qm5giIgcCEzCfio1q6sjzzwiMsmUIfjGlu5GWdpg7",
    "https://codex.pm"
   ]
+ },
+ {
+  "address": "0:269c0d785de06a4d11d4a9195aaacfcf3c0b7105af8723677da2a1f377301a30",
+  "decimals": 9,
+  "description": "Community-driven TON token associated with the DeDust ecosystem.",
+  "image": "https://raw.githubusercontent.com/BabyLadyCTO/dedustfund-assets/main/dedust_fund_improved_icon_real.png",
+  "name": "DedustFund",
+  "symbol": "DEDUSTFUND"
  },
  {
   "address": "0:4768a094c60f84aff884f87e54858ec2ae7930ce78904b914b4566c3ca5bc300",
@@ -4449,6 +4495,19 @@
   ]
  },
  {
+  "address": "0:f66df38113e467eb3acd0ea8fd8271c9905c748069eda5ab55f5c7daacdb623c",
+  "description": "\u0422\u043e\u043a\u0435\u043d \u0438\u0433\u0440\u044b GO Cats \u2014 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u0439 \u043a\u043e\u0442\u043e\u0432, \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u0443\u0439 \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0438 \u0438 \u0441\u0440\u0430\u0436\u0430\u0439\u0441\u044f",
+  "image": "https://flasher573.github.io/gocats/GO_CATS_Coin.png",
+  "name": "GO Cats",
+  "social": [
+   "https://t.me/GO_Cats_bot"
+  ],
+  "symbol": "GCATS",
+  "websites": [
+   "https://t.me/GO_Cats_bot"
+  ]
+ },
+ {
   "address": "0:dda86eb0816b2c4d925e96c847e4377b46d502106a7051c0fbb2bcc532e12b19",
   "description": "Ginger Cookies \u2014 community meme token on TON.\nMax supply: 100,000,000 GCookie.\n",
   "image": "https://i.ibb.co/gZ47sgRc/0e3759b6cebc.webp",
@@ -5553,6 +5612,17 @@
   "websites": [
    "https://jarvisbot.pro/"
   ]
+ },
+ {
+  "address": "0:708b17ac52285ebf673cc1619a47d070394fe68d4f88d80d8c230f6ca0238954",
+  "description": "Turning creator earnings into pure burn and pump",
+  "image": "https://i.ibb.co/vvdg4S9M/Pump.png",
+  "name": "Just pump it",
+  "social": [
+   "https://t.me/justpumpthis",
+   "https://t.me/+EXnjpkBxvgcyYTUy"
+  ],
+  "symbol": "PUMP"
  },
  {
   "address": "0:2eb61564c31739a311eefe708e92dced632502a020bed4d523ac8df707936395",
@@ -7521,6 +7591,22 @@
   ]
  },
  {
+  "address": "0:9b73c945338ae6d6e54cd6e0ac4e819311e055ed969fcabe587ebc40540da7f8",
+  "description": "ORCA is a utility token powering the OrcaMining Telegram Mini App and its community ecosystem. ORCA is live on TON and available for trading with active liquidity on STON.fi.",
+  "image": "https://orcamining-two.vercel.app/orca-token-logo.png",
+  "name": "ORCA",
+  "social": [
+   "https://t.me/OrcaMineBot",
+   "https://t.me/OrcaMine",
+   "https://t.me/OrcaMineChat",
+   "https://t.me/OrcaMineSupport"
+  ],
+  "symbol": "$ORCA",
+  "websites": [
+   "https://orcamining-two.vercel.app/"
+  ]
+ },
+ {
   "address": "0:8d02004e5f158f6af5d17c1ab76d6717ce58500a63c1952553836a727cf2b315",
   "description": "ORANGE is a meme coin with no intrinsic value or expectation of financial return. This coin is for entertainment purposes only.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcnagboxxwpavxrfbq3bwcxzlhqcmpblsvtg2pyfpkzfux2.png",
@@ -8528,6 +8614,18 @@
   ]
  },
  {
+  "address": "0:2e0d3922a346793cd3d41afff93671f02e395e6827a1b064da346e289adac6ed",
+  "decimals": 9,
+  "description": "Community-maintained TON token built around Resistance Lady and its community-driven continuation.",
+  "image": "https://raw.githubusercontent.com/ResistanceLady/relady-assets/main/relady-logo.png",
+  "name": "Resistance Lady",
+  "social": [
+   "https://t.me/Reladyton",
+   "https://x.com/ReladyTONCoin"
+  ],
+  "symbol": "RELADY"
+ },
+ {
   "address": "0:da50a430100c789afff3ee6f9a27286081bc26a22cc9c0f192bfafd7425bf201",
   "description": "Guard Dog of Republic",
   "image": "https://i.ibb.co.com/9HqSjq1L/reog-256.png",
@@ -8553,7 +8651,7 @@
   "address": "0:5366f5d749bf092727731ecdf8f6201bb4f39166fc88aafc9eb02b0e43bad89a",
   "decimals": 9,
   "description": "Community-supported TON token inspired by the Rica the Pirate Telegram sticker character.",
-  "image": "https://raw.githubusercontent.com/RafaelGomez2099/ton-assets/main/jettons/rica-1.png",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/rica-assets/main/rica.png",
   "name": "Rica on Ton",
   "social": [
    "https://t.me/rica_the_pirate_cto",
@@ -10458,6 +10556,21 @@
   "symbol": "TONY"
  },
  {
+  "address": "0:2637db2cc564a8e68413858aea200888287e48e1b80a877f7a85c4599f745581",
+  "decimals": 9,
+  "description": "The pink starfish from the Telegram sticker pack with 13M+ installs, now floating on TON.",
+  "image": "https://tonystar.xyz/tonystar-icon-512.png",
+  "name": "Tony Star",
+  "social": [
+   "https://t.me/TonyStar_TON",
+   "https://x.com/TonyStar_TON"
+  ],
+  "symbol": "TONYSTAR",
+  "websites": [
+   "https://tonystar.xyz"
+  ]
+ },
+ {
   "address": "0:91864bf1896f4c978e052d3c4678fb35c4ca8101ff9ac5a90180211f23c6301d",
   "description": "Employs a unique Proof of Link algorithm to redefine blockchain usability",
   "image": "https://raw.githubusercontent.com/tonoreum/tonoreum-images/master/logo_png.png",
@@ -11171,16 +11284,6 @@
    "https://t.me/TheVirusOnTon"
   ],
   "symbol": "VIRUS"
- },
- {
-  "address": "0:702dc717ae2e374e6e4c7ad4a084207a6ca68ed80ca02d9b57660a0ddf1e5439",
-  "description": "VISB represents VISION. The neuro-symbolic reasoning model.",
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreicsp4anj4fqvlyk3vsrb5d7whms2qgmgqq5i3vnxgzojsfh6ceg2q",
-  "name": "VISB",
-  "symbol": "VISB",
-  "websites": [
-   "https://telegram.vision"
-  ]
  },
  {
   "address": "0:3aa59787efab4b4790864a7518396451633d19702533cffd46cf4deb04568f0b",
@@ -12058,6 +12161,11 @@
   "symbol": "AFLx"
  },
  {
+  "address": "0:efca964eb3e0f20a3b8e3be2533e6f8258956cdfb3b671f703b61b7d23d0227e",
+  "name": "AIA xStock",
+  "symbol": "AIAGRx"
+ },
+ {
   "address": "0:a38e11c6f31e868df5b5d36f791dfad42106f35c5ed57fb38257d2cec00fa718",
   "name": "American International xStock",
   "symbol": "AIGx"
@@ -12158,6 +12266,11 @@
   "symbol": "ANETx"
  },
  {
+  "address": "0:31d51b6ac811294c850311aa50a5dd292ccf637da9438abc57b69717f615f414",
+  "name": "ANTA Sports Products xStock",
+  "symbol": "ANTASx"
+ },
+ {
   "address": "0:5b6f05a80e5fa8c58b7bd92ff6a2de581b3289ca03c70cc8231160bada89435c",
   "name": "APA xStock",
   "symbol": "APAx"
@@ -12218,6 +12331,11 @@
   "symbol": "ASMLx"
  },
  {
+  "address": "0:67d90a7735d6fc9c1752c896986e12773da467ba68e55eebd23d3f39725cd206",
+  "name": "ASMPT xStock",
+  "symbol": "ASMPTx"
+ },
+ {
   "address": "0:19664ea2f9da7df9d9edcbd1721ed949d247816cf98641b2c6da3efa4fb394c4",
   "name": "AST SpaceMobile xStock",
   "symbol": "ASTSx"
@@ -12231,11 +12349,6 @@
   "address": "0:96d1c35e02608f29898035b2f39c18420c4b2bfc842777a646d4048d128955e2",
   "name": "Atmos Energy xStock",
   "symbol": "ATOx"
- },
- {
-  "address": "0:d575492b68822709913264f321550989a2b72b805c344a9f6554c639a335406f",
-  "name": "AvalonBay Communities xStock",
-  "symbol": "AVBx"
  },
  {
   "address": "0:ece24ecf4801f79ee5f0ddb5cf119eda15ab5c7a390aadffcc8b80afdfec8b02",
@@ -12288,6 +12401,11 @@
   "symbol": "BAMx"
  },
  {
+  "address": "0:53d986a7c35b974404f232261ceb315fd8e78d6e1967930174f90512dd17ec35",
+  "name": "Bank Of China xStock",
+  "symbol": "BANKCx"
+ },
+ {
   "address": "0:066fe333a51d0d1dcd18bc1aa708b27c82ec56b23a20d186b5d967cb4b974775",
   "name": "Boeing xStock",
   "symbol": "BAx"
@@ -12296,6 +12414,11 @@
   "address": "0:be0233e86771ecbd533e5a8c6c5ed4ac8848683139f2c7795ce0a65d850b9c06",
   "name": "Best Buy xStock",
   "symbol": "BBYx"
+ },
+ {
+  "address": "0:bfca9982150659d223517256015f8fc61db229063f85685dff57874319d0bdbe",
+  "name": "Budweiser Brewing Co APAC xStock",
+  "symbol": "BDWAPx"
  },
  {
   "address": "0:51f71e8dbaa9be3dc3a2d05ea0ba445dad737c877318785785dc79c9a75cf7c4",
@@ -12341,6 +12464,16 @@
   "address": "0:37ef99bc2bfc8bd02600ad5496e9b2a37304629b2df48229643a02356d652f78",
   "name": "Bank of New York Mellon xStock",
   "symbol": "BNYx"
+ },
+ {
+  "address": "0:4708fc3cc61e742f74330801bee7e3de9d44235e3f10ac1ff26f09e03d5b1722",
+  "name": "BOC Hong Kong xStock",
+  "symbol": "BOCHKx"
+ },
+ {
+  "address": "0:de84fbd34704e2386b1d8fd69025193770d2ed38ff8e2dd2dcd017331fd2217e",
+  "name": "Bank of Communications xStock",
+  "symbol": "BOCOMx"
  },
  {
   "address": "0:21ed510c722429e77d1805b043495c3d5cdb6307c5d24e59f07e7fcc5665b3d9",
@@ -12403,6 +12536,11 @@
   "symbol": "BXx"
  },
  {
+  "address": "0:a7f89de14b8efc3f35868f58e4f15f6590114f31107edf62d2e9bd3b38386501",
+  "name": "BYD xStock",
+  "symbol": "BYDCOx"
+ },
+ {
   "address": "0:c8a95a815dfab0165f1ee88e6fcfcf855bd7f3a1d2b02b5800535ba2fa2648e7",
   "name": "Cardinal Health xStock",
   "symbol": "CAHx"
@@ -12436,6 +12574,11 @@
   "address": "0:c43508df8da736506a42a08b9eecdf7d880132b942e7766d3d26da7a8766352a",
   "name": "Crown Castle xStock",
   "symbol": "CCIx"
+ },
+ {
+  "address": "0:1ad70d41be80fced29cce9f23f236dc374c8a0b28c845c5793e6b9542033406a",
+  "name": "China Construction Bank xStock",
+  "symbol": "CCONBx"
  },
  {
   "address": "0:38fe9bf8cb7135b75dfd257e37206257fbd2aa6225ba5fea638ee0e9a324aa62",
@@ -12473,6 +12616,11 @@
   "symbol": "CHDx"
  },
  {
+  "address": "0:b7fe0c6b80dcb6108360d285a8c9db3340187e7025d707a756bc074153baa3f8",
+  "name": "China Hongqiao xStock",
+  "symbol": "CHONGx"
+ },
+ {
   "address": "0:a6b2e8e2b18712dc07ae333f2308df9f60746bb75a0f5156793b7591f0ef38aa",
   "name": "C.H. Robinson Worldwide xStock",
   "symbol": "CHRWx"
@@ -12493,14 +12641,49 @@
   "symbol": "CINFx"
  },
  {
+  "address": "0:e58839f3fb911fd86605d36e446be6bd7934f3ba1e9196a94fcccbd36abe9dfe",
+  "name": "CITIC xStock",
+  "symbol": "CITICx"
+ },
+ {
   "address": "0:09cb6ea06fa49f4b599cab3a6db09e2aaf1292aaff85476639fd117e9b12b964",
   "name": "The Cigna xStock",
   "symbol": "CIx"
  },
  {
+  "address": "0:10e55d38903dbea522ce71d481b28dbb44020dbb20c5f3672da34b7456292e53",
+  "name": "CK Asset xStock",
+  "symbol": "CKAHx"
+ },
+ {
+  "address": "0:eeed342a597db95995123dae414e12f1cbea240b51a1cb23d440a6113e6f8f8e",
+  "name": "CK Hutchison xStock",
+  "symbol": "CKHUTx"
+ },
+ {
+  "address": "0:b3a61d614708d3f9d2bc11f0b65e2fde660d3b5c879c23a9b27e24db599c57e7",
+  "name": "CK Infrastructure xStock",
+  "symbol": "CKINFx"
+ },
+ {
   "address": "0:d58f938bfdb0f7a8dba9565a1d779373789629fc92cff8ec205ce502a6062e34",
   "name": "Clean Harbors xStock",
   "symbol": "CLHx"
+ },
+ {
+  "address": "0:32f982f2c730a4594fbd4ef8db637fb2b36bd7635e0ff48c402acd16881261de",
+  "name": "China Life Insurance xStock",
+  "symbol": "CLINSx"
+ },
+ {
+  "address": "0:4320d2b2817253e1be6627288b7e7807105241983614724f1aae418fe073ea78",
+  "name": "China Longyuan Power xStock",
+  "symbol": "CLONPx"
+ },
+ {
+  "address": "0:0fd096c00757a7e8e44a8402156095acdf92bbcf1398abfacff59204c27aa4b6",
+  "name": "CLP xStock",
+  "symbol": "CLPHDx"
  },
  {
   "address": "0:a3750aae82a52aeae7614158498a1927a8f729fa7bd9c7953bb8a53acb57078c",
@@ -12521,6 +12704,16 @@
   "address": "0:eac901e4ee6d516e9fd137ba98ad7bc24bf49364660c89b78cc9b06570f83822",
   "name": "Comcast xStock",
   "symbol": "CMCSAx"
+ },
+ {
+  "address": "0:24dd25514237471690aef3ad0f20d743a6327a8d9e780ee2d1f920849ca0568a",
+  "name": "China Mengniu Dairy xStock",
+  "symbol": "CMENDx"
+ },
+ {
+  "address": "0:3bfe4590a5320fee2f6cac8cb064cf88a44e95c2af0363d7b4b1e8d7db65b912",
+  "name": "China Merchants Port xStock",
+  "symbol": "CMERPx"
  },
  {
   "address": "0:bd6d920555b68d1e29be257cda79e11a80d3685b0de654ec5007acd0206d7e6a",
@@ -12593,9 +12786,24 @@
   "symbol": "CORx"
  },
  {
+  "address": "0:e1968f6096d26728d49f8cd77a8cc5f1a02c8f355ab43441674bde1c841316db",
+  "name": "COSCO SHIPPING xStock",
+  "symbol": "COSCx"
+ },
+ {
+  "address": "0:394cc98be0aefb66112326fec4de0c8779b49a5da3be87ef85f6f1da9b97d8a4",
+  "name": "China Overseas Land & Investment xStock",
+  "symbol": "COVELx"
+ },
+ {
   "address": "0:a66ed68bb16f722d569b5f2c0f71a35dc6c260013b91b43a555566f401ca7bb7",
   "name": "Corpay xStock",
   "symbol": "CPAYx"
+ },
+ {
+  "address": "0:0a79b2e38faac1f6877d72da74bcc757fdac952ed0df3ec7b0af1c76c6b249da",
+  "name": "China Petroleum & Chemical xStock",
+  "symbol": "CPETCx"
  },
  {
   "address": "0:a5ec9544a8f0a6b15a5bbf2f46caf7159a56a6d088cf8af646abfb8c477a290a",
@@ -12613,9 +12821,34 @@
   "symbol": "CPTx"
  },
  {
+  "address": "0:cad3c695070f2021c05e77a589dc7d4586648d28f697af3747499d63b19ee99a",
+  "name": "Chery Automobile xStock",
+  "symbol": "CRAUTx"
+ },
+ {
   "address": "0:7e44fb400107854865b78088f4cd1121e0df763065dfa85cf101ce9346fbbece",
   "name": "Circle xStock",
   "symbol": "CRCLx"
+ },
+ {
+  "address": "0:e399120fcddd82bce543d3990d4a728fdb738ca3484617cd0d808027f6fc9b93",
+  "name": "China Resources Beer Holdings xStock",
+  "symbol": "CRESBx"
+ },
+ {
+  "address": "0:5cdebe8a676f1081836d6cd6215e66e1329043df538d7dcde6dad7c924f0fb3e",
+  "name": "China Resources Land xStock",
+  "symbol": "CRESLx"
+ },
+ {
+  "address": "0:e64edc4c4910b151b5e9a7676ea224a9bf7670e17cbfd09410571f9ef2292f78",
+  "name": "China Resources Mixc Lifestyle Services xStock",
+  "symbol": "CRESMx"
+ },
+ {
+  "address": "0:ba16004d83f7305f8bcb02dcfd708ebe6639c17f1e470ef13fa7e2d21f215fe7",
+  "name": "China Resources Power xStock",
+  "symbol": "CRESPx"
  },
  {
   "address": "0:67b74bc29d9562d9874592f80ce605dcc4cda4c8fd147f8dbde6228e18265196",
@@ -12648,9 +12881,19 @@
   "symbol": "CSGPx"
  },
  {
+  "address": "0:b645e3003e4d36bdface446581fc637f820bd34fdb8d1866e5c6a67a590a3259",
+  "name": "China Shenhua Energy xStock",
+  "symbol": "CSHEEx"
+ },
+ {
   "address": "0:55409da82fe02f2aa7304a04b456cad62b9b65eed3a6b83a0ae851e4f15b5c21",
   "name": "Carlisle Companies xStock",
   "symbol": "CSLx"
+ },
+ {
+  "address": "0:1cfe08f0f5fd0b220772e3be379ac5cfc61ea7ad144e3d2441f866717bd2692b",
+  "name": "CSPC Pharmaceutical xStock",
+  "symbol": "CSPCx"
  },
  {
   "address": "0:f215f812c742d3585ad6dd31f99d7ed8fcfea3e8b75a777114747aa020ae5673",
@@ -12661,6 +12904,21 @@
   "address": "0:268bf429f55f3fc46acba23541d6129f450dd380fc07be95afed71cfaed8d9fd",
   "name": "Cintas xStock",
   "symbol": "CTASx"
+ },
+ {
+  "address": "0:6a00b897afe283f30cd276a5cbe56d360a1e92e4f91c32f8761300d21634bbe9",
+  "name": "Chow Tai Fook Jewellery xStock",
+  "symbol": "CTFJWx"
+ },
+ {
+  "address": "0:275197aba98322ce2e753a03dc15293986563aff2d44d2556ddb670d08ed75e5",
+  "name": "China Taiping Insurance xStock",
+  "symbol": "CTINSx"
+ },
+ {
+  "address": "0:b0af9ea03f368b1714455d485152c517ab11ba65db87963cb98cca5b719bce5d",
+  "name": "Cathay Pacific Airways xStock",
+  "symbol": "CTPCAx"
  },
  {
   "address": "0:b7008eee9462c0bf25f67d93a9caab218e8e381e70e44686260970ac4cf7c470",
@@ -12893,6 +13151,11 @@
   "symbol": "ENHAx"
  },
  {
+  "address": "0:ab422508afd0a84f8924301cf0cbc09e0abc97d6df94a8887dcc9f39b7ebf2a0",
+  "name": "ENN Energy xStock",
+  "symbol": "ENNHLx"
+ },
+ {
   "address": "0:802277a128fc6a62a5b1a2c4cfa09e94064c51bb3d987f212bf2a7fbfc3c696d",
   "name": "Entegris xStock",
   "symbol": "ENTGx"
@@ -12911,11 +13174,6 @@
   "address": "0:1fd4d116349c9ccc1d555dbe394c99cef5927f7b37b567407f84698b13d0d366",
   "name": "Equinix xStock",
   "symbol": "EQIXx"
- },
- {
-  "address": "0:09df52fea2f67af5ee442f1f74a02fe8f1af9ddbb828fb856bcff0c47488fa13",
-  "name": "Equity Residential xStock",
-  "symbol": "EQRx"
  },
  {
   "address": "0:489a679eb6bc2c976dbc8740e33c7a44d590ba27fbdbe15b549c2639e0524f96",
@@ -13158,9 +13416,19 @@
   "symbol": "GDx"
  },
  {
+  "address": "0:2ebbd6fa1b93a761ca8d8b44fa81032f51f0825fa43a1ed560ec32ceec74b993",
+  "name": "Geely Automobile xStock",
+  "symbol": "GEELx"
+ },
+ {
   "address": "0:8e6356433e4c445240c8be95b63f7d8f46b499ddb6a550019d023fb16ceb8e69",
   "name": "GE HealthCare Technologies xStock",
   "symbol": "GEHCx"
+ },
+ {
+  "address": "0:1efbdb5cc12b69e8de7998ac3b90a99e495208d6918761706f4448c00b6d9925",
+  "name": "Galaxy Entertainment xStock",
+  "symbol": "GENTEx"
  },
  {
   "address": "0:ffed3256fae64b386deb58b4cb064da4eb84fe0afd39670f0d7b6a5262c7c8b1",
@@ -13258,6 +13526,16 @@
   "symbol": "GWWx"
  },
  {
+  "address": "0:b8c938f3e8cb23c3c6f142bd5cec8a3b30c67dbca310ced9ea6ef2f1f8bf35b4",
+  "name": "Haidilao International xStock",
+  "symbol": "HAIDLx"
+ },
+ {
+  "address": "0:395dbdce82cca0ded7497b66284e0da331eaff6cc0f942f099cc54d738717672",
+  "name": "Haier Smart Home xStock",
+  "symbol": "HAIERx"
+ },
+ {
   "address": "0:fe1b4243ec3217a33663b8d85ca6aef5232efb3b2927a1b6b5d8d4ce7037dca5",
   "name": "Halliburton xStock",
   "symbol": "HALx"
@@ -13298,9 +13576,24 @@
   "symbol": "HIMSx"
  },
  {
+  "address": "0:3ac6e362192d27f253d4f7c399600a6758585f21dbdbf619ceb97ec82192dea0",
+  "name": "Hong Kong and China Gas xStock",
+  "symbol": "HKCGAx"
+ },
+ {
+  "address": "0:74694fe5e3ebeb0286f03d4ed9cf996b6c487b6a07f06d82d348fc0c874f57e5",
+  "name": "Hong Kong Exchanges and Clearing xStock",
+  "symbol": "HKEXCx"
+ },
+ {
   "address": "0:28aeecfc3de24904bf20706e2be0aab2d7843432fa988ac98b3d18b8bc011f1b",
   "name": "Hilton Worldwide xStock",
   "symbol": "HLTx"
+ },
+ {
+  "address": "0:c7207dc124bc37b6fc8d4b3eb8278edb3ee94a8d4e863c9ceaa17b2a2a196084",
+  "name": "Henderson Land Development xStock",
+  "symbol": "HNDLDx"
  },
  {
   "address": "0:807606491d414b82d280dc8bc992c675f88571a6b82b760c77a7097675dd1933",
@@ -13321,6 +13614,11 @@
   "address": "0:ae18f8917485ce46b9707dafb7ae4458114f2166b7221b0e42ed1ac64c0f1399",
   "name": "HP xStock",
   "symbol": "HPQx"
+ },
+ {
+  "address": "0:7c2bab9238ae586e8ea78a0baf6180bba680c0647724541a5d02ab6928f72737",
+  "name": "Horizon Robotics xStock",
+  "symbol": "HRZRBx"
  },
  {
   "address": "0:80f2a0b1d0229bc52831ee5e80f9fa67aafec15d2439ca7cddc18eae9ecb4059",
@@ -13361,6 +13659,11 @@
   "address": "0:7b53731473a4de3af611c2a2e8a2e17ecb1af8c3eb1af90fa7d3fe8c8d4c9095",
   "name": "International Business Machines xStock",
   "symbol": "IBMx"
+ },
+ {
+  "address": "0:388833aaecb8c14b228930fdd068621fb355861eb6bdcfa8c1761aa5672df230",
+  "name": "Industrial And Commercial Bank Of China xStock",
+  "symbol": "ICBCx"
  },
  {
   "address": "0:68ef16ff698609107075c6c96ca1eca61cafdbcc162c960147c0cbac9e840674",
@@ -13493,6 +13796,16 @@
   "symbol": "JBLx"
  },
  {
+  "address": "0:a8cb4baba28e0d09b50203cd8443167c4313319203915aa9e7a66a88040f97d5",
+  "name": "JD Health International xStock",
+  "symbol": "JDHLTx"
+ },
+ {
+  "address": "0:9024fd00966893d51e952f4401e7a5a49c568fec4b70b581d14492dcd7f5ed2a",
+  "name": "JD Logistics xStock",
+  "symbol": "JDLOGx"
+ },
+ {
   "address": "0:6aecbc689f86252aa60392b0c6be766e409b6aa160d7c5c4f00554ad10d8a16a",
   "name": "Jones Lang LaSalle xStock",
   "symbol": "JLLx"
@@ -13516,6 +13829,11 @@
   "address": "0:c94018ce6834f755bfb69cf1662ad61056d8edd46e7f666ca9c0076e67752a4c",
   "name": "JPMorgan Ultra-Short Income xStock",
   "symbol": "JPSTx"
+ },
+ {
+  "address": "0:2eff2a3e4f2ce60a2625fe5e87eb667b1f95a8a854ff8e667661516f54fb3bc4",
+  "name": "J&T Global Express xStock",
+  "symbol": "JTGEXx"
  },
  {
   "address": "0:bc110400550f3ef6249ba384d9bfcf7828432fdc4cfaf8696cfd12d972cf97c1",
@@ -13588,6 +13906,16 @@
   "symbol": "KRx"
  },
  {
+  "address": "0:7f39cb65cec4393913421f05198a66e72d86dca4329a9efcb29fdce2b38eceae",
+  "name": "Kuaishou Technology xStock",
+  "symbol": "KUAIx"
+ },
+ {
+  "address": "0:018e5d6f9c53e7ab9838160aaa05bbd69e048ab7d2aecef0304cfe0bf844046c",
+  "name": "Kunlun Energy xStock",
+  "symbol": "KUNLx"
+ },
+ {
   "address": "0:8da4db5bcb886545ab6df141071a22a0d15d981976c43a640d13165330443e89",
   "name": "Kenvue xStock",
   "symbol": "KVUEx"
@@ -13596,6 +13924,11 @@
   "address": "0:7642f76894935bf73f9b0d20f9f110bdd5e5078a987e75928a5c168f6a517388",
   "name": "Lamar Advertising xStock",
   "symbol": "LAMRx"
+ },
+ {
+  "address": "0:45afadfe280bdda478c4ea89311a14de66e5222d7237c4065c353dc0c0168a3e",
+  "name": "Laopu Gold xStock",
+  "symbol": "LAOPGx"
  },
  {
   "address": "0:046ce8cb1a9c8b17a7003eb36b7b0dbdbb7cb85b00fcb3fa15b0102f6d70033a",
@@ -13758,6 +14091,11 @@
   "symbol": "MDTx"
  },
  {
+  "address": "0:f2a78d75ce27dbc497831d5ed6a2f508bdf0814f085f1f92746741e2e56d58fe",
+  "name": "Meituan xStock",
+  "symbol": "MEITx"
+ },
+ {
   "address": "0:f7720420e37d81882491962fa132cc2856ebcd9cee3616e31d73e017a9df3749",
   "name": "Meta xStock",
   "symbol": "METAx"
@@ -13766,6 +14104,11 @@
   "address": "0:4bcee737450695ab7637cb7ea719877e9d69e90f49d46c033f51f2b08ad7638d",
   "name": "MetLife xStock",
   "symbol": "METx"
+ },
+ {
+  "address": "0:697f74b8155afa2205983d8094668f98cdb5332c9574489450d23b8b3009c70c",
+  "name": "Mixue xStock",
+  "symbol": "MIXUx"
  },
  {
   "address": "0:a8bd5e8e1e2876176ac6a1c49ab8e12d82003e16183f8ed8d0c8746aedf73ac8",
@@ -13791,6 +14134,11 @@
   "address": "0:d3202de12483a04c481a1597c1f738957a01b960ce7c4d0ffbd8fac24f506f60",
   "name": "Martin Marietta Materials xStock",
   "symbol": "MLMx"
+ },
+ {
+  "address": "0:6a0b0ed79ef2c988adf74b830e39239f8e1acb4eaeef3ff85cf97d93493d7134",
+  "name": "MMG xStock",
+  "symbol": "MMGx"
  },
  {
   "address": "0:3f85ae7551c7d576517d887716d6f2b47f6a17311a32d21be2601636b1825ae2",
@@ -13873,6 +14221,11 @@
   "symbol": "MTDx"
  },
  {
+  "address": "0:d7cfee07cc461b345a79986c938f5772e84687da616501a2574934f08a2575b0",
+  "name": "MTR xStock",
+  "symbol": "MTRCPx"
+ },
+ {
   "address": "0:f244d4aa206cd46e1436a1578f67461db805630a7592b49d251345efa7c2f330",
   "name": "MACOM Technology Solutions xStock",
   "symbol": "MTSIx"
@@ -13951,6 +14304,11 @@
   "address": "0:4702d5fde47125bb18ac100cffa429427e03036738bf5fdb800553f39477aaee",
   "name": "Northrop Grumman xStock",
   "symbol": "NOCx"
+ },
+ {
+  "address": "0:e09709ffb8641f1c18eaf2d91f81f21817c9719d67183375e80c27c0080a3731",
+  "name": "Nongfu Spring xStock",
+  "symbol": "NONGx"
  },
  {
   "address": "0:c5d3564ef636b54f99d92a98b294221de8a573c4c9cd6c2bf731a14f899738b4",
@@ -14158,6 +14516,16 @@
   "symbol": "PHx"
  },
  {
+  "address": "0:23c20b65da9d70b04b8b7a1337e5a586a30fb74994f07776a6aad914c77d8af6",
+  "name": "PICC Property and Casualty xStock",
+  "symbol": "PICCx"
+ },
+ {
+  "address": "0:b9f4505349a18cee96ed8afb51304088f6030ede816534b1dab3feb02f5a6fff",
+  "name": "Ping An Insurance Group Co. of China xStock",
+  "symbol": "PICOx"
+ },
+ {
   "address": "0:7933e7d748dbf0d347b938261d4b5cc68c32a5e5db964c5907a0ed717df8809f",
   "name": "Pinterest xStock",
   "symbol": "PINSx"
@@ -14203,6 +14571,11 @@
   "symbol": "PNWx"
  },
  {
+  "address": "0:498f7a03ae7e8f21b7ffad2db45c0cee7385945412a9064f827b1144d9845ec0",
+  "name": "Pop Mart International xStock",
+  "symbol": "POPMTx"
+ },
+ {
   "address": "0:e4e7709c6360ec935af45355de33ebc8ed53a819eea71caad15dfb954c801117",
   "name": "PPG Industries xStock",
   "symbol": "PPGx"
@@ -14216,6 +14589,11 @@
   "address": "0:018fb1793ecf521ac6389585ec3296fabdcea7c54b17b00c3e3f1b4ea0b46198",
   "name": "PPL xStock",
   "symbol": "PPLx"
+ },
+ {
+  "address": "0:50d4b211d100d84e12ceae4c9eeb35f82462f73e06aa84eb5a2488f97be7a613",
+  "name": "Prada xStock",
+  "symbol": "PRADx"
  },
  {
   "address": "0:aee416bb057cfce96ec86691ac8d0bc8254306555f0f2f74d08848dac75579d9",
@@ -14233,6 +14611,11 @@
   "symbol": "PSAx"
  },
  {
+  "address": "0:afc27845b0ab27cac85ab2efcfa17e4c2c77fa66a8449d8c8a21422c35e8179f",
+  "name": "Postal Savings Bank Of China xStock",
+  "symbol": "PSBOCx"
+ },
+ {
   "address": "0:ae7677ec87ec4cb5d8eb928926d7609804d9c5274138678fd8db3511ef8421f2",
   "name": "Phillips 66 xStock",
   "symbol": "PSXx"
@@ -14241,6 +14624,11 @@
   "address": "0:65880238818f67713727452c6b4a3805b6c56630e98e815a485f6fcc13b7303e",
   "name": "PTC xStock",
   "symbol": "PTCx"
+ },
+ {
+  "address": "0:4dba9b111a5aba6feb8ebd338e1ed74cbca80a713017e9fbd7819ff31ae549bb",
+  "name": "Power Assets xStock",
+  "symbol": "PWAHLx"
  },
  {
   "address": "0:ce5d37732d9061d41e173da00af2e83ea6d6c99887e45e3c802656b2a7857b6f",
@@ -14483,6 +14871,21 @@
   "symbol": "SHWx"
  },
  {
+  "address": "0:0b674b073708fe8e0c8c77f22cf4fbaccd4d7be797cda146b21daa8699fa6242",
+  "name": "Sinotruk xStock",
+  "symbol": "SINOTx"
+ },
+ {
+  "address": "0:78fdb766c2cae6ebf6c583b89f83be2309263c43aec743cab19c05e933598413",
+  "name": "Sino Land xStock",
+  "symbol": "SINOx"
+ },
+ {
+  "address": "0:8b09afea0c42b560fa34d525825b116ec8b01502c05d472516f6b4289eb75a71",
+  "name": "SITC International xStock",
+  "symbol": "SITCx"
+ },
+ {
   "address": "0:bf8e3e73f747e76b5815fbbeb7c8eeb2c72f3802524c3c75259296693fddf36b",
   "name": "J.M. Smucker xStock",
   "symbol": "SJMx"
@@ -14513,6 +14916,11 @@
   "symbol": "SMHx"
  },
  {
+  "address": "0:e210a5341217eedb184cf4acaa84f5812b0af753796b90548c644499a1c8339c",
+  "name": "Smoore International xStock",
+  "symbol": "SMOIHx"
+ },
+ {
   "address": "0:7a993e000bba1f37b1f849bd8111978a626ab51878f2ca15ca23f5f63c5f427b",
   "name": "NuScale Power Corporation xStock",
   "symbol": "SMRx"
@@ -14523,9 +14931,19 @@
   "symbol": "SNAx"
  },
  {
+  "address": "0:bcd0e043dfa7715f19412ff0fbaeb2b6eec345881cf592756665261a8941375e",
+  "name": "Sino Biopharmaceutical xStock",
+  "symbol": "SNBIOx"
+ },
+ {
   "address": "0:ee78fdb21081126dcaf026b1fa588f093b29b86636facf0d614dc95a43eaf468",
   "name": "Sandisk Corporation xStock",
   "symbol": "SNDKx"
+ },
+ {
+  "address": "0:aea833b69f5a313a522163cd7ea26b5a1591b1fe988081572d64f5e53c8175eb",
+  "name": "Sands China xStock",
+  "symbol": "SNDSCx"
  },
  {
   "address": "0:58b4146914339506612c0ea65e4151c1e76ca573885bf51bb8b650ef04b5c295",
@@ -14628,9 +15046,19 @@
   "symbol": "SUIx"
  },
  {
+  "address": "0:994be083e55adb53248ae85912253364d62cc8db3e88e53e1769bb42c8e08c84",
+  "name": "Sunny Optical Technology Group xStock",
+  "symbol": "SUOPTx"
+ },
+ {
   "address": "0:d7de716254006f42e5d00d525a49298f3ebc44452eebac3fd34dc34888801c59",
   "name": "Stanley Black & Decker xStock",
   "symbol": "SWKx"
+ },
+ {
+  "address": "0:fe0eafb9ce4f4e6e9e34116dc83f6888d8659b9c0bf109f67cfd17790f90acb0",
+  "name": "Swire Properties xStock",
+  "symbol": "SWPRPx"
  },
  {
   "address": "0:6cddf179cdc7d88d187a602f2ab11f66738ed381c3b67c236351ac4ec43d7b7a",
@@ -14648,9 +15076,19 @@
   "symbol": "SYYx"
  },
  {
+  "address": "0:87cad91bbdf62e534eeb4d2382a4c188a89306f66107c866429cd15130e4855c",
+  "name": "Shenzhou International xStock",
+  "symbol": "SZIGHx"
+ },
+ {
   "address": "0:a3a729a95bf5df60f3b0b84c37f4feb09a593ca3a2ad468de40bfea93958f100",
   "name": "TBLL xStock",
   "symbol": "TBLLx"
+ },
+ {
+  "address": "0:ffec37fea66603762a4ee8f3ffc771bbf7c2d5d76c9e47e0bcaa0c6aee71c5a3",
+  "name": "Tencent xStock",
+  "symbol": "TCENTx"
  },
  {
   "address": "0:a9b50b56569ba58a4446f10bf4c69d5c68ba4e0a535232d059e800b055196d42",
@@ -14706,6 +15144,11 @@
   "address": "0:e981f09ca761882ef52c66b72fb4a1e23b65bb8ae1a576e4f416973392d4d6a6",
   "name": "T-Mobile xStock",
   "symbol": "TMUSx"
+ },
+ {
+  "address": "0:488b435c71a36c2e83bf69c7dc939791d4b82694447c917846fa6a7de64c6cfa",
+  "name": "Tingyi xStock",
+  "symbol": "TNGYIx"
  },
  {
   "address": "0:bc37494c708970f582cb973d2727e563c8f1c2d77c6659908412c71b10bfc03b",
@@ -15018,11 +15461,6 @@
   "symbol": "WBDx"
  },
  {
-  "address": "0:6963daf87d6584d0c9208d494e068b208576de6697e3c9132ce65c009919163a",
-  "name": "Webster Financial xStock",
-  "symbol": "WBSx"
- },
- {
   "address": "0:b47f99da5694ad4f2688c1b14fc1d5c1049ef1c8a72241b79df943b2f09fd167",
   "name": "WESCO International xStock",
   "symbol": "WCCx"
@@ -15058,6 +15496,16 @@
   "symbol": "WFCx"
  },
  {
+  "address": "0:c8ce1d58f055b91eb81d167f142412ec12ac80341cf8a7267d554c3f66038845",
+  "name": "WH xStock",
+  "symbol": "WHGROx"
+ },
+ {
+  "address": "0:562195257645053dd76de7595612113dcb8b4a6083075dcc1713febd07a338c1",
+  "name": "Wharf Real Estate Investment xStock",
+  "symbol": "WHRFRx"
+ },
+ {
   "address": "0:35a0f4b1d59544428095a7d8816a84049a067dfa886f11d5eeb256dcd9617162",
   "name": "Williams Companies xStock",
   "symbol": "WMBx"
@@ -15083,6 +15531,11 @@
   "symbol": "WRBx"
  },
  {
+  "address": "0:156ebf563df068d1c031016ecc4d0fb0d40cf05def719ce5a4e748e8ccd09d48",
+  "name": "The Wharf Holdings xStock",
+  "symbol": "WRFHDx"
+ },
+ {
   "address": "0:8a9e1d1450b1f6d313ec89a4ff48c30a29e4310e3c7aac89000d19059b51f438",
   "name": "Williams-Sonoma xStock",
   "symbol": "WSMx"
@@ -15103,9 +15556,19 @@
   "symbol": "WULFx"
  },
  {
+  "address": "0:91fb1173e11caefc12dcabd36c492c299f7ab2e49dd19c1b907b1144b7b5f43a",
+  "name": "WuXi Biologics xStock",
+  "symbol": "WUXIBx"
+ },
+ {
   "address": "0:45cc6f7c22ee2b9ca4366ef75c2c27bcda0423f2202d60b9ea65ccc78b0b4d4f",
   "name": "Woodward xStock",
   "symbol": "WWDx"
+ },
+ {
+  "address": "0:0b19ea3f1d649989bb3cc1e6e929ea88acb67c3ee65d94a982fbe9315621941b",
+  "name": "WuXi XDC Cayman xStock",
+  "symbol": "WXXDCx"
  },
  {
   "address": "0:76655f50d1901fa92fbfe98e5a84ea10d0a661215c6d1715ca544d8f3be39b34",
@@ -15116,6 +15579,11 @@
   "address": "0:cda2366444709a423a58015936ae7f793e1d2518fe9f19815a1db7d0c1f333eb",
   "name": "Xcel Energy xStock",
   "symbol": "XELx"
+ },
+ {
+  "address": "0:c5a5d846dd32d7d86acb5e5efc92cf62c1bb218ce46ef010cad94b2f5f898ab9",
+  "name": "Xiaomi xStock",
+  "symbol": "XIAOx"
  },
  {
   "address": "0:9bc320d41aa14238f7155fc7af6cc9813e553bd1ad0ed2ce22f25467465d05f9",
@@ -15166,6 +15634,16 @@
   "address": "0:8414a07899ce905e74e2bc854c40dd72f3287d2b024117dc973bc89b49dcb39f",
   "name": "Zebra Technologies xStock",
   "symbol": "ZBRAx"
+ },
+ {
+  "address": "0:565496527a7597a6436405949695a2e41e92d39c00dde2fdbc02b547678b72b4",
+  "name": "Zhaojin Mining Industry xStock",
+  "symbol": "ZHAOMx"
+ },
+ {
+  "address": "0:54ad6472f05f86c99270e1087ffad4c149082bf15c015934f804ebe797ee5b4c",
+  "name": "Zijin Gold International xStock",
+  "symbol": "ZJGLDx"
  },
  {
   "address": "0:49994270c8e75c671492fc206c2a39cdb80f90cacaa021a3a699b5f0f6b4029a",
@@ -15792,6 +16270,11 @@
   "symbol": "ANT"
  },
  {
+  "address": "0:26457112180dac51cfd43c6434a9325f38b536e62c5fb04ede945c03236791dd",
+  "name": "Apugurl",
+  "symbol": "APUGURL"
+ },
+ {
   "address": "0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45",
   "name": "ARBUZ",
   "symbol": "ARBUZ"
@@ -15915,6 +16398,11 @@
   "address": "0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9",
   "name": "Airina Bolgur",
   "symbol": "BOLGUR"
+ },
+ {
+  "address": "0:2674b8e5383051cf95b29f4e12787fe4c7557ffd7f99482c234459f26109c791",
+  "name": "JustBondit",
+  "symbol": "BOND"
  },
  {
   "address": "0:3b31a0299df9902c75820bb789e96b94cc9ea3b8cb68a706672f035a00bedfdf",
@@ -16242,11 +16730,6 @@
   "symbol": "DEANON"
  },
  {
-  "address": "0:269c0d785de06a4d11d4a9195aaacfcf3c0b7105af8723677da2a1f377301a30",
-  "name": "DedustFund",
-  "symbol": "DEDUSTFUND"
- },
- {
   "address": "0:5cf8be42cf344a991dfe4dd3b0066e25f97c8977126ddc77c022bfea32229a07",
   "name": "DEPOSIT",
   "symbol": "DEPOSIT"
@@ -16320,6 +16803,11 @@
   "address": "0:76868f1cb8dce2b65860fc7dbda4e1d4c510fe565c6f21b374655391361f1110",
   "name": "Donut The Dog",
   "symbol": "DONUT"
+ },
+ {
+  "address": "0:2608be365b149f8fec1dbcb8e5a74bfa90f5d2651b3185597d5e8ff0a709e442",
+  "name": "DotGram",
+  "symbol": "DOTGRAM"
  },
  {
   "address": "0:8f0968cff3c8691eef97ef8a0c3d20730687842c39e3377ab514101940476f5c",
@@ -16632,6 +17120,11 @@
   "symbol": "GTA"
  },
  {
+  "address": "0:26da9a30cb75ab59ebb89b99dd36a423342bfed4c02b171e31397f65ee92a76d",
+  "name": "GroypUtya",
+  "symbol": "GUTYA"
+ },
+ {
   "address": "0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1",
   "name": "\u041a\u0440\u043e\u043a\u043e\u0434\u0438\u043b \u0413\u0435\u043d\u0430",
   "symbol": "Gena"
@@ -16880,6 +17373,11 @@
   "address": "0:0e634c5b295d60dded95ee3768e5eac5e6efb9875f6a0782293e42b444fcb444",
   "name": "Long Capital",
   "symbol": "LNG"
+ },
+ {
+  "address": "0:2601bdddedd10ff1f31639fe36273c6ef03c86fdf08af6775f2ecd5786394de4",
+  "name": "LOCKIN",
+  "symbol": "LOCKIN"
  },
  {
   "address": "0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30",
@@ -17735,6 +18233,11 @@
   "address": "0:e79a59fb173c2dc0d76375fb31584db5585a88315c6a17ab382f57f6bf675b29",
   "name": "StableEX Technologies",
   "symbol": "STEX"
+ },
+ {
+  "address": "0:26b102bf5fe3c2683d63d4619b7b387d7cedbe220f92f01b573d031eea3a2b70",
+  "name": "Sky Stilettos",
+  "symbol": "STILETTOS"
  },
  {
   "address": "0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74",
@@ -21240,7 +21743,7 @@
   "symbol": "SWITCH"
  },
  {
-  "address": "0:8f5a65caaed1d5f0aafce58e166ebe3c90fa44114245cc9c3031eca4f1de922f",
+  "address": "0:93edb45843d93c10b2dbd6c9947a41f9cd3ff19b4876a2bd97be99a778833cc9",
   "description": "syBTC is a synthetic Bitcoin powered by TON smart contracts. It lets you trade, hedge and get Bitcoin price exposure on the TON Blockchain. Created on syde.",
   "image": "https://i.imghippo.com/files/Zfxp7708ywo.png",
   "name": "syBTC",
