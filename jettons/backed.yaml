@@ -1975,9 +1975,6 @@
 - address: 0:11d2112742d98241ec7f15fd4f5d97d95d80572fb526e8216d112f20872674cf
   name: Vulcan Materials xStock
   symbol: VMCx
-- address: 0:2b3f8b551ac6ec7d4a9ba413818a45590bb6c06959725ecbe32230a8db678207
-  name: Vodafone xStock
-  symbol: VODx
 - address: 0:581eb847809bbb7c15723d73ce872262fe89908743071098304561ba7736a5a4
   name: Vanguard S&P 500 xStock
   symbol: VOOx
