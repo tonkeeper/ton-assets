@@ -1,0 +1,13 @@
+name: Nodenomi
+description: Open Prediction Market on TON.
+symbol: NODE
+address: EQDsCOYtbVM5tnOdYZkDdJg_dhx6_RWUuImI2_A6JrN1CeCc
+decimals: 9
+image: https://nodenomi.layerrunners.xyz/icon.png
+
+websites:
+  - https://nodenomi.layerrunners.xyz
+
+social:
+  - https://t.me/nodenomi
+  - https://t.me/nodenomibot
