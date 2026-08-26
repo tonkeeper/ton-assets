@@ -6809,7 +6809,9 @@
  },
  {
   "address": "0:e7b6133a0e364b22543f950942c2d8fe133d94ad8ce9594578f776dc71ccfe46",
+  "decimals": 9,
   "description": "Fully decentralized MEME coin by the GRAM (GRM) community. Make Gram Great Again! Not affiliated with Telegram or TON Foundation.",
+  "image": "https://mgrmga.org/logo.png",
   "name": "Make Gram Great Again",
   "social": [
    "https://t.me/mgrmga_holders"
