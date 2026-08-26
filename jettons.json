@@ -75,6 +75,19 @@
   "symbol": "$CHYK"
  },
  {
+  "address": "0:23e5beb6316f964d75dade3af4d9bc96354b42756a55a2116818ea3b1b39e52a",
+  "description": "When the calculating Scrooge McDuck and the fast, witty Bugs Bunny play on the same team, our token is born \u2014 a balance of strategy, style, and humor that builds a strong community for future growth.",
+  "image": "https://raw.githubusercontent.com/scroogemcduck968-gif/SCMD69-assets/main/SCMD69.png",
+  "name": "SCMD69",
+  "social": [
+   "https://t.me/+g6YnwiZ8IrZhNmE0"
+  ],
+  "symbol": "$CMD69",
+  "websites": [
+   "https://scmd.ton.website"
+  ]
+ },
+ {
   "address": "0:8246aa420f4f4d0da46249cb3cbd03c04db01450aedb7d448c774903ebbbe0e5",
   "description": "In the best tradition of great projects, our $CUPRUM was born in a garage. We recycled old copper wires and used the proceeds to create this token. Join us - help clean the planet and invest with a smile. Our moon tradition? A celebratory cup of rum (or juice)! \ud83e\udd43\u267b\ufe0f",
   "name": "CUPRUM",
@@ -1019,6 +1032,22 @@
    "https://t.me/dmtholders"
   ],
   "symbol": "AVTR"
+ },
+ {
+  "address": "0:acb7eb605f33b0295ee4951978a4a65b7fe5c42233e3a33aa093293431384518",
+  "description": "Awe Reads Token (AWE) fuels access, rewards, and growth in a platform turning complex knowledge into simple inspiration.",
+  "image": "https://raw.githubusercontent.com/Awereads/token/refs/heads/main/logo.png",
+  "name": "Awe Reads",
+  "social": [
+   "https://t.me/awereads",
+   "https://t.me/awereads_eng",
+   "https://www.instagram.com/awereads",
+   "https://www.instagram.com/awereads.eng"
+  ],
+  "symbol": "AWE",
+  "websites": [
+   "https://awereads.com"
+  ]
  },
  {
   "address": "0:730d8404ea7065c083201119706cf9336fd7c15d73decb58248f13c2e8b2920c",
