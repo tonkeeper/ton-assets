@@ -1157,6 +1157,14 @@
   "symbol": "AUR"
  },
  {
+  "address": "0:ae7e0c4640dd74ab285a021bc85588c78b6a6ef0dfa4bcf8582d3fee117b9530",
+  "decimals": 9,
+  "description": "Baby Ton community token on TON.",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/babyton-assets/main/babyton_icon.png",
+  "name": "Baby Ton",
+  "symbol": "BABY"
+ },
+ {
   "address": "0:0e35686fdcd92842b24f32f07aeffca49d62cfc555fcc0f79f4cf57be61ed999",
   "description": "Baby Groyper on TON - Launched on GROYPAD",
   "image": "https://i.8upload.com/image/912f58c8f890b0b2/tokenimage-babygroyp.jpg",
@@ -12099,6 +12107,20 @@
    "https://t.me/AmberTONchat"
   ],
   "symbol": "AMBER"
+ },
+ {
+  "address": "0:28f219e1c9c029a36e6befe908ec0847aa18881025b5cfd98ea064fa080d60c5",
+  "decimals": 9,
+  "description": "Apes Club utility and rewards token on TON.",
+  "image": "https://test.telegramgift.com/ape-token-logo.jpg",
+  "name": "Apes Club",
+  "social": [
+   "https://t.me/ApesClubio"
+  ],
+  "symbol": "APE",
+  "websites": [
+   "https://t.me/apes_Club_Bot/apes_club?startapp"
+  ]
  },
  {
   "address": "0:d36706f8299d434b89965cdfe07515dd85c88d9dc54c6dca57808ed441e3d822",
