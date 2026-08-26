@@ -21302,6 +21302,16 @@
   ]
  },
  {
+  "address": "0:81139806510fd2cd09e3629f101e31f6d25b38853d36ffb83abb60fd66cf5e9e",
+  "description": "Materia is the primary in-game currency in the OtherWorlds Metaverse.",
+  "image": "https://bafybeih2wdahfohmvgchcald22kslgfmb27vjp6k7tf4od76pto7egbnqi.ipfs.w3s.link/materia.svg",
+  "name": "Materia",
+  "symbol": "MAT",
+  "websites": [
+   "https://other-worlds.io/"
+  ]
+ },
+ {
   "address": "0:9a8da514d575d20234c3fb1395ee9138f5f1ad838abc905dc42c2389b46bd015",
   "name": "Wrapped TON",
   "symbol": "WTON"
