@@ -1,12 +1,11 @@
 name: TGram
-description: >-
-  TGram (TGR) is a community-driven digital token built on The Open Network (TON),
-  focused on mining participation, long-term holding, and sustainable ecosystem
-  development. TGram aims to build a strong and active community while gradually
-  expanding the utility and adoption of TGR within the TON ecosystem. The project
-  is designed with a long-term vision, emphasizing transparency, community
-  participation, and continuous development.
-address: EQDymqX9ZyAl_XRi_PefRsQkzwhirepe95ibUS_lB-9gc66z
 symbol: TGR
+address: EQDymqX9ZyAl_XRi_PefRsQkzwhirepe95ibUS_lB-9gc66z
 decimals: 9
+description: >
+  TGram (TGR) is a newly launched community-driven Jetton on The Open Network (TON),
+  focused on long-term holding, mining participation, referral rewards,
+  and ecosystem development.
 image: https://raw.githubusercontent.com/Bangpeegee/TGram-assets/5671ae1a63f774bdaef0569f5e5bd467100eda7a/TGram.png
+websites:
+  - https://github.com/Bangpeegee/TGram-assets
