@@ -1,400 +1,425 @@
 [
- {
-  "address": "0:4ed8cc9c2e3186d5697982a91f754f1b635e57eb0f9fd499db968ea8f219be61",
-  "description": "Blink Genesis NFT is a limited collection of 3,333 unique NFTs, merging cutting-edge technology with next-gen gaming. Here, blinking isn\u2019t just a reflex\u2014it\u2019s your path to earning in Web3!",
-  "image": "https://raw.githubusercontent.com/blinkgame/logo/refs/heads/main/Blink%20Logo.png",
-  "name": "Blink AI Genesis NFT",
-  "social": [
-   "https://x.com/blinkgameapp",
-   "https://discord.com/invite/blinkgameai",
-   "https://t.me/blinkgameai_bot"
-  ],
-  "websites": [
-   "https://blink.game/"
-  ]
- },
- {
-  "address": "0:94112d6c7eeee810356257b5ef9d6f3222de8a93e66767e046e5418b9e042554",
-  "name": "Bidask Protocol: Launch Collection",
-  "social": [
-   "https://x.com/BidaskProtocol",
-   "https://t.me/bidask"
-  ],
-  "websites": [
-   "https://bidask.finance/en/"
-  ]
- },
- {
-  "address": "0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55",
-  "name": "Booli Reborn"
- },
- {
-  "address": "0:6a2d41ed3529be50921a52fa4c4b2e10c36cbb8cade3baf823f494f5ec96fdc2",
-  "name": "CITY Holder | Crystal Collection",
-  "social": [
-   "https://t.me/CITY_Holder",
-   "http://x.com/City_Holder"
-  ],
-  "websites": [
-   "http://holder.city"
-  ]
- },
- {
-  "address": "0:b679515cfc1f44d7a314609c65216d243939142794b054a7b01655cccec69786",
-  "name": "Crouching Tiger"
- },
- {
-  "address": "0:f12c931f1c750f1453718a73ca1b1fcbe05fc94d4261d3ca157c4e710a8d50fc",
-  "name": "GiftBox Crouching Tiger"
- },
- {
-  "address": "0:9be8082c3a944e1618b613389737e393d201bef9114a045a565224d1ff53c0d1",
-  "name": "StickerBox Crouching Tiger"
- },
- {
-  "address": "0:0e56583d0f14c409b2037f7e2ee786f23c99f02031506b7f4a984be79c62cd37",
-  "description": "Degen is a collection dedicated to chemical elements and celestial bodies, as they affect and generate the physical world without using a single force,just as degenerate assets affect the digital financial world.",
-  "name": "Degen",
-  "social": [
-   "https://t.me/AURA_x_CAPITAL",
-   "https://x.com/auraxcapital",
-   "https://github.com/AURA-x-CAPITAL/community"
-  ],
-  "websites": [
-   "https://auraxcapital.com/"
-  ]
- },
- {
-  "address": "0:07c6e91e02c82fb7e2f603fd3a7bf007a67ec4f862efd4548a50e530c178b1a0",
-  "name": "Degens Paradise"
- },
- {
-  "address": "0:a36de9847b083499ba2b7f49f2435b8aa6f6b31abbb2693d1d08f1e74dc4fd2c",
-  "name": "GiftBox Degens Paradise"
- },
- {
-  "address": "0:873d57f407dc38f7083b9134498d49a11737d17dd09a916231fde4db70c8ff7a",
-  "name": "StickerBox Degens Paradise"
- },
- {
-  "address": "0:c202dd4b9af103c981b880bdfc2872bd8473fc0606159278fdc40a2ae4f8d234",
-  "name": "DILS COIN GENESIS",
-  "websites": [
-   "https://t.me/dilscoin",
-   "https://x.com/DILScoin"
-  ]
- },
- {
-  "address": "0:e8aabf23d68f2ea7fb0c7da85861a52c2bb3eb3c02c9880a5d1d331b3d0c0ecf",
-  "name": "FIVA Genesis Access Keys",
-  "social": [
-   "https://x.com/FivaProtocol",
-   "https://t.me/fiva_community"
-  ],
-  "websites": [
-   "https://www.thefiva.com"
-  ]
- },
- {
-  "address": "0:11ebe25ad438ceaac268173a50b44bd58f0bf2ebec04c44d272d5e7ee2b3d8fd",
-  "description": "Make a new beginning with this collection of objects and pieces found on the World's map via the GLOBULA interface. The question is: what are you going to do with these?",
-  "name": "GLOBULA",
-  "social": [
-   "https://t.me/globula_community",
-   "https://twitter.com/Globula_Game",
-   "https://discord.gg/rTdZxwkYHk"
-  ],
-  "websites": [
-   "https://globula.space"
-  ]
- },
- {
-  "address": "0:57b05284fd3cf8d840c6ae84f31a73d644d8ba5db5ecfb3fff6c6e818d85a3a2",
-  "name": "Golden Sunrise"
- },
- {
-  "address": "0:d71c8b9e196b7ece719a21de67314aca883a3c5294001f5b669fb1fc8abaff4b",
-  "name": "GiftBox Golden Sunrise"
- },
- {
-  "address": "0:663702cc7104e7ab205ced5324b368851c15b2acff72faa93937db0f8f9ff7e1",
-  "name": "StickerBox Golden Sunrise"
- },
- {
-  "address": "0:ae18071a98057202c5258faa02575296b02bffef7e99c501a489d542a6fd4122",
-  "description": "The official kitty collection for the GRAM community. Born from memes, powered by Telegram culture, and raised on TON. Built by Grambo.fun for holders, builders, and believers of the GRAM ecosystem.",
-  "image": "https://assets.grambo.fun/kitty/collection.gif",
-  "name": "Gram Kitty",
-  "social": [
-   "https://x.com/grambofun",
-   "https://t.me/grambofun"
-  ],
-  "websites": [
-   "https://grambo.fun/"
-  ]
- },
- {
-  "address": "0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd",
-  "name": "Hidden Dragon"
- },
- {
-  "address": "0:65257110bed49c338bfebae570539cc13f8b1e9c4d5102454de3055dfbb727f9",
-  "name": "GiftBox Hidden Dragon"
- },
- {
-  "address": "0:4050afdcadd2cec44a2f1e8f23fa65cec272d1974b42c5f2f6744ab6df206734",
-  "name": "StickerBox Hidden Dragon"
- },
- {
-  "address": "0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf",
-  "name": "KZH"
- },
- {
-  "address": "0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0",
-  "description": "NFT Spaceship collection from MMPro BUMP team",
-  "image": "https://ipfs.filebase.io/ipfs/QmYkdzwxiViJ3Ceqx3iXX6VTqGKkuhVqEecgiiF5nvJe7j",
-  "name": "NFT Spaceship",
-  "social": [
-   "https://t.me/marketmakingpro",
-   "https://x.com/MarketmakingX"
-  ]
- },
- {
-  "address": "0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb",
-  "name": "Sleeping Giant"
- },
- {
-  "address": "0:1d563b0a8034b355eca7602bbe8453b454f0705777949131848b9f6b2020042e",
-  "name": "GiftBox Sleeping Giant"
- },
- {
-  "address": "0:07ab0a0c75927f6bca843e49e638401e235b5410eac4ef753970b422bc9efba3",
-  "name": "StickerBox Sleeping Giant"
- },
- {
-  "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
-  "name": "Telegram usernames",
-  "websites": [
-   "https://t.me",
-   "https://telegram.org"
-  ]
- },
- {
-  "address": "0:d23a7de26ab1c75126851462995c175e5b7ea0b6d14c6e61a436e9d660e85f18",
-  "name": "TON's Witnesses"
- },
- {
-  "address": "0:bb19eecc87d581b11feecf5b6d14b2edbedc013ad06cdd16b41226191feff15c",
-  "name": "GiftBox TON's Witnesses"
- },
- {
-  "address": "0:fffaf59e328fe618b6f7fa0c121c25777eea3da19b4a2459580a5c30d917c4f0",
-  "name": "StickerBox TON's Witnesses"
- },
- {
-  "address": "0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c",
-  "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. \ud83d\udd25 OPEN GIFTBOXES, pull Stickerboxes, and collect Golden Orc stickers to claim the most valuable rewards from ZarGates! 100% of all proceeds go toward the prize pool and collection promotion. \ud83d\udc8e Don't miss your chance to claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
-  "image": "https://metadata.zargates.com/giftbox/collection_image.png",
-  "name": "ZarGates GiftBoxes",
-  "social": [
-   "https://t.me/ZarGatesChannel",
-   "http://t.me/ZarGatesRU",
-   "https://x.com/ZARGATES",
-   "https://zargates.com"
-  ],
-  "websites": [
-   "https://zargates.com"
-  ]
- },
- {
-  "address": "0:58b22ef862a9e6412d427026d443e918728069d84a482f8621fc1e7dd304d6f5",
-  "description": "NFT ZarGates Scratch Card is your invite to the Pre-launch of PvP Vibe:  AI platform for game creation and publishing without any programming skills. Every Scratch Card guaranties a reward from $10 to $5,000 for your deposit. Open Scratch Card till May 15 and get: Alpha Sword NFT. Exclusive USDT drops. Premium+ service discounts. Join the most Epic battle in the history of NFT!",
-  "image": "https://metadata.zargates.com/scratch-card-0/collection_image.png",
-  "name": "ZarGates Scratch Cards",
-  "social": [
-   "http://t.me/pvpvibechat",
-   "http://t.me/pvpvibechatRU"
-  ],
-  "websites": [
-   "https://pvpvibe.com"
-  ]
- },
- {
-  "address": "0:733d5b87a1247f425045b72262c837c974acbe769dac3816d8d2cd01052cda32",
-  "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! \ud83d\udd25 OPEN STICKERBOXES, pull stickers, and join the treasure hunt! Assemble a squad of Golden Orcs, gear them up with artifacts in ZarGates, and win valuable prizes! 100% of all proceeds go toward the prize pool and collection promotion. \ud83d\udc8e Don't miss your chance to claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
-  "image": "https://metadata.zargates.com/stickerbox/collection_image.png",
-  "name": "Zargates StickerBoxes",
-  "social": [
-   "https://t.me/ZarGatesChannel",
-   "http://t.me/ZarGatesRU",
-   "https://x.com/ZARGATES",
-   "https://zargates.com"
-  ],
-  "websites": [
-   "https://zargates.com"
-  ]
- },
- {
-  "address": "0:463685d77d0474ec774386d92622ed688d34f07230741211d838c487dcfeec64",
-  "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. \ud83c\udfaf Hunt rules: Color matters. Golden Orcs are the most valuable. COLLECT 7 of them to build a full squad and increase your reward. Gear up your squad to boost your odds \u2014 and \ud83d\udc8e claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
-  "image": "https://metadata.zargates.com/stickers/collection_image.png",
-  "name": "Unstoppable Tribe from ZarGates",
-  "social": [
-   "https://t.me/ZarGatesChannel",
-   "http://t.me/ZarGatesRU",
-   "https://x.com/ZARGATES",
-   "https://zargates.com"
-  ],
-  "websites": [
-   "https://zargates.com"
-  ]
- },
- {
-  "address": "0:c5e44022dc5a4785cb0bc0493960e990edf0c0cfcdf66c8621fcc757ba0a72ed",
-  "description": "Explore Anycraft\u2019s exclusive NFT collection, where each item is crafted by players from unique creations. In Anycraft, only the original inventor of an item or a new recipe has the right to mint an NFT. \u2b50 Gold stars mark first discoveries, while silver stars represent unique crafting methods. All NFTs can be imported back into the game for more crafting possibilities. Plus, each NFT unlocks free boosters and other benefits \u2014 check them out in Anycraft!",
-  "image": "https://public.anycraft.io/nft/assets/collection_logo.png",
-  "name": "Anycraft Unique Crafts",
-  "social": [
-   "https://t.me/anycraft_community",
-   "https://youtube.com/@Anycraftbot/shorts",
-   "https://tiktok.com/@anycraftbot",
-   "https://x.com/Anycraft_tma"
-  ],
-  "websites": [
-   "https://anycraft.io"
-  ]
- },
- {
-  "address": "0:d52400de2f5e83bfe6a55a95854a042b3fe22a1a370dac9c101fae5b5e00732a",
-  "description": "BeeHarvest NFT is a unique and innovative collection within the AmberTON and BeeHarvest ecosystem, opening new horizons for project participants. This collection is based on utility NFTs that are not only aesthetically appealing but also provide tangible bonuses to their owners.\nEach NFT in the collection has unique attributes that increase the resource harvesting percentage in the game, giving you significant advantages. The collection features 10 levels of NFTs, and you have the opportunity to merge them to create more powerful NFTs with even greater capabilities.\nYou can obtain and use these NFTs completely free by following simple rules that can be found in the official project channels or directly in the game. Don't miss your chance to be part of this revolutionary project and multiply your resources with BeeHarvest NFT!",
-  "image": "https://api.beeharvest.life/nft/file/game_nft_collection.jpg",
-  "name": "Beeharvest",
-  "social": [
-   "https://t.me/BeeHarvest",
-   "https://t.me/beeharvestbot",
-   "https://t.me/amberton"
-  ]
- },
- {
-  "address": "0:f2bd3b92c32358d75b6eb78e053e41b30fd3d46cd70f814ff005afb4aeecee1a",
-  "description": "Degrees\u2019 is a limited collection of 361\u00b0 available items. Each Degree\u00b0 has its own unique angle, contains a maths fact about its value and is an essential component to getting a complete user experience in the Degrees\u00b0 app.",
-  "image": "https://raw.githubusercontent.com/msilenkov/ONE/245f76be45fc9e32a60de758bf8c39e5dce99cd7/degrees.svg",
-  "links": {
-   "bot": "https://prodegreesbot.t.me",
-   "channel": [
-    "https://degrees.t.me",
-    "https://prodegrees.t.me"
-   ],
-   "community": "https://degreeston.t.me"
+  {
+    "address": "0:4ed8cc9c2e3186d5697982a91f754f1b635e57eb0f9fd499db968ea8f219be61",
+    "description": "Blink Genesis NFT is a limited collection of 3,333 unique NFTs, merging cutting-edge technology with next-gen gaming. Here, blinking isn’t just a reflex—it’s your path to earning in Web3!",
+    "image": "https://raw.githubusercontent.com/blinkgame/logo/refs/heads/main/Blink%20Logo.png",
+    "name": "Blink AI Genesis NFT",
+    "social": [
+      "https://x.com/blinkgameapp",
+      "https://discord.com/invite/blinkgameai",
+      "https://t.me/blinkgameai_bot"
+    ],
+    "websites": [
+      "https://blink.game/"
+    ]
   },
-  "name": "Degrees",
-  "social": [
-   "https://degrees.t.me",
-   "https://prodegrees.t.me",
-   "https://degreeston.t.me"
-  ]
- },
- {
-  "address": "0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf",
-  "name": "CALLIGRAFUTURISM \u2014 24: Units"
- },
- {
-  "address": "0:7958c516fb3c518f5cb1c9bfc7140db917655e19bd4b90f32ba576620f847851",
-  "description": "Personalized SBT Rewards for Grouche Platform users.",
-  "image": "https://cdn.grouche.com/sbt/grc.jpg",
-  "name": "Grouche Rewards",
-  "social": [
-   "https://x.com/grouchecoin",
-   "https://t.me/grouche_coin"
-  ]
- },
- {
-  "address": "0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94",
-  "description": "Collection with soulbound tokens confirming ownership of jettons locked in JVault Locker (actual version)",
-  "image": "https://jvault.xyz/static/images/lock_collection.png",
-  "name": "JVault locks",
-  "social": [
-   "https://t.me/jvault",
-   "https://t.me/jvault_ru",
-   "https://x.com/jvault_app"
-  ],
-  "websites": [
-   "https://jvault.xyz/locker"
-  ]
- },
- {
-  "address": "0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058",
-  "description": "SpinnerCoin introduces an innovative Play-to-Earn (P2E) gaming experience leveraging the power of TON blockchain technology, combined with exclusive Non-Fungible Tokens (NFTs). Immerse yourself in a dynamic gaming universe where every spin unlocks thrilling adventures and lucrative rewards.",
-  "image": "https://github.com/Spinnercoin/spinner-logos/blob/d707bc9e96668bf6683dca2fabbc7ae9975e283f/logocube4500.png?raw=true",
-  "name": "Spinners",
-  "social": [
-   "https://t.me/SpinnerCoin",
-   "https://t.me/SpinnerCoin_bot",
-   "https://t.me/SpinnerCoin_chat"
-  ],
-  "websites": [
-   "https://t.me/SpinnerCoin_bot/app"
-  ]
- },
- {
-  "address": "0:3eda0de0ec98f5ebd9ab0393d1e3d2e39880b54c841f68611c67c5270d961fb2",
-  "name": "The Gateway"
- },
- {
-  "address": "0:c089c5b80494c179cec2fc4d6a6890ef7a6e0188ac260b31fd78896f422e8349",
-  "name": "Tonkeeper Adventure"
- },
- {
-  "address": "0:3971e42d84298ca7a1ca9cf206b3ad919e83570081e5b7641ecd54fd736c8250",
-  "name": "Tonkeeper Adventure. Season 2"
- },
- {
-  "address": "0:dfdb68e5d54fe1d1d4417912266a4777de16752e3f99c669e567272a8732633d",
-  "description": "Exclusive SBT (Soulbound Token) achievements within Totemancer. Each badge representing proof of your in-game milestones and accomplishments. SBTs can only be earned through your gameplay progress.",
-  "image": "https://totemancer.com/ton/tc.png",
-  "name": "Totemancer: Badges",
-  "social": [
-   "https://t.me/TotemancerBot",
-   "https://t.me/Totemancer",
-   "https://t.me/Totemancer_RU",
-   "https://t.me/TotemancerChat",
-   "https://x.com/Totemancer",
-   "https://vk.com/Totemancer"
-  ],
-  "websites": [
-   "https://totemancer.com"
-  ]
- },
- {
-  "address": "0:7c66628f8cbfec8779f857a823d6840d1ea956f4cf90e7c022100da75c16316b",
-  "description": "Totemancer PFPs are a limited collection of 10,000 NFTs that represent your identity within the Totemancer universe. Your PFP might also play a role in future features such as governance, voting, staking tied to the Totemancer Token, and more.",
-  "image": "https://totemancer.com/ton/tc.png",
-  "name": "Totemancer: PFPs",
-  "social": [
-   "https://t.me/Totemancer",
-   "https://t.me/Totemancers",
-   "https://t.me/TotemancerChat",
-   "https://x.com/Totemancer"
-  ],
-  "websites": [
-   "https://totemancer.com"
-  ]
- },
- {
-  "address": "0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2",
-  "description": "Exclusive NFT collectibles within Totemancer. Each totem represents a powerful asset, offering special in-game enhancements and tangible benefits.",
-  "image": "https://totemancer.com/ton/tc.png",
-  "name": "Totemancer: Totems",
-  "social": [
-   "https://t.me/TotemancerBot",
-   "https://t.me/Totemancer",
-   "https://t.me/Totemancer_RU",
-   "https://t.me/TotemancerChat",
-   "https://x.com/Totemancer",
-   "https://vk.com/Totemancer"
-  ],
-  "websites": [
-   "https://totemancer.com"
-  ]
- }
+  {
+    "address": "0:94112d6c7eeee810356257b5ef9d6f3222de8a93e66767e046e5418b9e042554",
+    "name": "Bidask Protocol: Launch Collection",
+    "social": [
+      "https://x.com/BidaskProtocol",
+      "https://t.me/bidask"
+    ],
+    "websites": [
+      "https://bidask.finance/en/"
+    ]
+  },
+  {
+    "address": "0:ac096c161074b405a1217302777eddc6117a02d17775089de18004a3d78f8d55",
+    "name": "Booli Reborn"
+  },
+  {
+    "address": "0:6a2d41ed3529be50921a52fa4c4b2e10c36cbb8cade3baf823f494f5ec96fdc2",
+    "name": "CITY Holder | Crystal Collection",
+    "social": [
+      "https://t.me/CITY_Holder",
+      "http://x.com/City_Holder"
+    ],
+    "websites": [
+      "http://holder.city"
+    ]
+  },
+  {
+    "address": "0:b679515cfc1f44d7a314609c65216d243939142794b054a7b01655cccec69786",
+    "name": "Crouching Tiger"
+  },
+  {
+    "address": "0:f12c931f1c750f1453718a73ca1b1fcbe05fc94d4261d3ca157c4e710a8d50fc",
+    "name": "GiftBox Crouching Tiger"
+  },
+  {
+    "address": "0:9be8082c3a944e1618b613389737e393d201bef9114a045a565224d1ff53c0d1",
+    "name": "StickerBox Crouching Tiger"
+  },
+  {
+    "address": "0:0e56583d0f14c409b2037f7e2ee786f23c99f02031506b7f4a984be79c62cd37",
+    "description": "Degen is a collection dedicated to chemical elements and celestial bodies, as they affect and generate the physical world without using a single force,just as degenerate assets affect the digital financial world.",
+    "name": "Degen",
+    "social": [
+      "https://t.me/AURA_x_CAPITAL",
+      "https://x.com/auraxcapital",
+      "https://github.com/AURA-x-CAPITAL/community"
+    ],
+    "websites": [
+      "https://auraxcapital.com/"
+    ]
+  },
+  {
+    "address": "0:07c6e91e02c82fb7e2f603fd3a7bf007a67ec4f862efd4548a50e530c178b1a0",
+    "name": "Degens Paradise"
+  },
+  {
+    "address": "0:a36de9847b083499ba2b7f49f2435b8aa6f6b31abbb2693d1d08f1e74dc4fd2c",
+    "name": "GiftBox Degens Paradise"
+  },
+  {
+    "address": "0:873d57f407dc38f7083b9134498d49a11737d17dd09a916231fde4db70c8ff7a",
+    "name": "StickerBox Degens Paradise"
+  },
+  {
+    "address": "0:c202dd4b9af103c981b880bdfc2872bd8473fc0606159278fdc40a2ae4f8d234",
+    "name": "DILS COIN GENESIS",
+    "websites": [
+      "https://t.me/dilscoin",
+      "https://x.com/DILScoin"
+    ]
+  },
+  {
+    "address": "0:e8aabf23d68f2ea7fb0c7da85861a52c2bb3eb3c02c9880a5d1d331b3d0c0ecf",
+    "name": "FIVA Genesis Access Keys",
+    "social": [
+      "https://x.com/FivaProtocol",
+      "https://t.me/fiva_community"
+    ],
+    "websites": [
+      "https://www.thefiva.com"
+    ]
+  },
+  {
+    "address": "0:11ebe25ad438ceaac268173a50b44bd58f0bf2ebec04c44d272d5e7ee2b3d8fd",
+    "description": "Make a new beginning with this collection of objects and pieces found on the World's map via the GLOBULA interface. The question is: what are you going to do with these?",
+    "name": "GLOBULA",
+    "social": [
+      "https://t.me/globula_community",
+      "https://twitter.com/Globula_Game",
+      "https://discord.gg/rTdZxwkYHk"
+    ],
+    "websites": [
+      "https://globula.space"
+    ]
+  },
+  {
+    "address": "0:57b05284fd3cf8d840c6ae84f31a73d644d8ba5db5ecfb3fff6c6e818d85a3a2",
+    "name": "Golden Sunrise"
+  },
+  {
+    "address": "0:d71c8b9e196b7ece719a21de67314aca883a3c5294001f5b669fb1fc8abaff4b",
+    "name": "GiftBox Golden Sunrise"
+  },
+  {
+    "address": "0:663702cc7104e7ab205ced5324b368851c15b2acff72faa93937db0f8f9ff7e1",
+    "name": "StickerBox Golden Sunrise"
+  },
+  {
+    "address": "0:ae18071a98057202c5258faa02575296b02bffef7e99c501a489d542a6fd4122",
+    "description": "The official kitty collection for the GRAM community. Born from memes, powered by Telegram culture, and raised on TON. Built by Grambo.fun for holders, builders, and believers of the GRAM ecosystem.",
+    "image": "https://assets.grambo.fun/kitty/collection.gif",
+    "name": "Gram Kitty",
+    "social": [
+      "https://x.com/grambofun",
+      "https://t.me/grambofun"
+    ],
+    "websites": [
+      "https://grambo.fun/"
+    ]
+  },
+  {
+    "address": "0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd",
+    "name": "Hidden Dragon"
+  },
+  {
+    "address": "0:65257110bed49c338bfebae570539cc13f8b1e9c4d5102454de3055dfbb727f9",
+    "name": "GiftBox Hidden Dragon"
+  },
+  {
+    "address": "0:4050afdcadd2cec44a2f1e8f23fa65cec272d1974b42c5f2f6744ab6df206734",
+    "name": "StickerBox Hidden Dragon"
+  },
+  {
+    "address": "0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf",
+    "name": "KZH"
+  },
+  {
+    "address": "0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0",
+    "description": "NFT Spaceship collection from MMPro BUMP team",
+    "image": "https://ipfs.filebase.io/ipfs/QmYkdzwxiViJ3Ceqx3iXX6VTqGKkuhVqEecgiiF5nvJe7j",
+    "name": "NFT Spaceship",
+    "social": [
+      "https://t.me/marketmakingpro",
+      "https://x.com/MarketmakingX"
+    ]
+  },
+  {
+    "address": "0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb",
+    "name": "Sleeping Giant"
+  },
+  {
+    "address": "0:1d563b0a8034b355eca7602bbe8453b454f0705777949131848b9f6b2020042e",
+    "name": "GiftBox Sleeping Giant"
+  },
+  {
+    "address": "0:07ab0a0c75927f6bca843e49e638401e235b5410eac4ef753970b422bc9efba3",
+    "name": "StickerBox Sleeping Giant"
+  },
+  {
+    "address": "0:9bfd0f65e9624c0043c80e3677a71329d0f515f6f40bcef171552e796770134d",
+    "description": "Planets from Stellarium, a Telegram Mini App game. Each NFT is a planet a player owns and plays with in the game — it has rarity, genes, a level and a production rate, and it keeps developing after it is minted or bought.",
+    "image": "https://s.getgems.io/nft/b/c/6a72eff8759f2ee050935d1d/edit/images/1953238.jpg",
+    "name": "Stellarium Worlds",
+    "social": [
+      "https://t.me/Timegalaxy_bot",
+      "https://t.me/time_meme_chat"
+    ],
+    "websites": [
+      "https://memetimeton.fun/"
+    ]
+  },
+  {
+    "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
+    "name": "Telegram usernames",
+    "websites": [
+      "https://t.me",
+      "https://telegram.org"
+    ]
+  },
+  {
+    "address": "0:d23a7de26ab1c75126851462995c175e5b7ea0b6d14c6e61a436e9d660e85f18",
+    "name": "TON's Witnesses"
+  },
+  {
+    "address": "0:bb19eecc87d581b11feecf5b6d14b2edbedc013ad06cdd16b41226191feff15c",
+    "name": "GiftBox TON's Witnesses"
+  },
+  {
+    "address": "0:fffaf59e328fe618b6f7fa0c121c25777eea3da19b4a2459580a5c30d917c4f0",
+    "name": "StickerBox TON's Witnesses"
+  },
+  {
+    "address": "0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c",
+    "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. 🔥 OPEN GIFTBOXES, pull Stickerboxes, and collect Golden Orc stickers to claim the most valuable rewards from ZarGates! 100% of all proceeds go toward the prize pool and collection promotion. 💎 Don't miss your chance to claim your share of the loot from the $300,000 prize pool! ✅ Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com 🚀 Let's go — adventure awaits!",
+    "image": "https://metadata.zargates.com/giftbox/collection_image.png",
+    "name": "ZarGates GiftBoxes",
+    "social": [
+      "https://t.me/ZarGatesChannel",
+      "http://t.me/ZarGatesRU",
+      "https://x.com/ZARGATES",
+      "https://zargates.com"
+    ],
+    "websites": [
+      "https://zargates.com"
+    ]
+  },
+  {
+    "address": "0:58b22ef862a9e6412d427026d443e918728069d84a482f8621fc1e7dd304d6f5",
+    "description": "NFT ZarGates Scratch Card is your invite to the Pre-launch of PvP Vibe:  AI platform for game creation and publishing without any programming skills. Every Scratch Card guaranties a reward from $10 to $5,000 for your deposit. Open Scratch Card till May 15 and get: Alpha Sword NFT. Exclusive USDT drops. Premium+ service discounts. Join the most Epic battle in the history of NFT!",
+    "image": "https://metadata.zargates.com/scratch-card-0/collection_image.png",
+    "name": "ZarGates Scratch Cards",
+    "social": [
+      "http://t.me/pvpvibechat",
+      "http://t.me/pvpvibechatRU"
+    ],
+    "websites": [
+      "https://pvpvibe.com"
+    ]
+  },
+  {
+    "address": "0:733d5b87a1247f425045b72262c837c974acbe769dac3816d8d2cd01052cda32",
+    "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! 🔥 OPEN STICKERBOXES, pull stickers, and join the treasure hunt! Assemble a squad of Golden Orcs, gear them up with artifacts in ZarGates, and win valuable prizes! 100% of all proceeds go toward the prize pool and collection promotion. 💎 Don't miss your chance to claim your share of the loot from the $300,000 prize pool! ✅ Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com 🚀 Let's go — adventure awaits!",
+    "image": "https://metadata.zargates.com/stickerbox/collection_image.png",
+    "name": "Zargates StickerBoxes",
+    "social": [
+      "https://t.me/ZarGatesChannel",
+      "http://t.me/ZarGatesRU",
+      "https://x.com/ZARGATES",
+      "https://zargates.com"
+    ],
+    "websites": [
+      "https://zargates.com"
+    ]
+  },
+  {
+    "address": "0:463685d77d0474ec774386d92622ed688d34f07230741211d838c487dcfeec64",
+    "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. 🎯 Hunt rules: Color matters. Golden Orcs are the most valuable. COLLECT 7 of them to build a full squad and increase your reward. Gear up your squad to boost your odds — and 💎 claim your share of the loot from the $300,000 prize pool! ✅ Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com 🚀 Let's go — adventure awaits!",
+    "image": "https://metadata.zargates.com/stickers/collection_image.png",
+    "name": "Unstoppable Tribe from ZarGates",
+    "social": [
+      "https://t.me/ZarGatesChannel",
+      "http://t.me/ZarGatesRU",
+      "https://x.com/ZARGATES",
+      "https://zargates.com"
+    ],
+    "websites": [
+      "https://zargates.com"
+    ]
+  },
+  {
+    "address": "0:c5e44022dc5a4785cb0bc0493960e990edf0c0cfcdf66c8621fcc757ba0a72ed",
+    "description": "Explore Anycraft’s exclusive NFT collection, where each item is crafted by players from unique creations. In Anycraft, only the original inventor of an item or a new recipe has the right to mint an NFT. ⭐ Gold stars mark first discoveries, while silver stars represent unique crafting methods. All NFTs can be imported back into the game for more crafting possibilities. Plus, each NFT unlocks free boosters and other benefits — check them out in Anycraft!",
+    "image": "https://public.anycraft.io/nft/assets/collection_logo.png",
+    "name": "Anycraft Unique Crafts",
+    "social": [
+      "https://t.me/anycraft_community",
+      "https://youtube.com/@Anycraftbot/shorts",
+      "https://tiktok.com/@anycraftbot",
+      "https://x.com/Anycraft_tma"
+    ],
+    "websites": [
+      "https://anycraft.io"
+    ]
+  },
+  {
+    "address": "0:d52400de2f5e83bfe6a55a95854a042b3fe22a1a370dac9c101fae5b5e00732a",
+    "description": "BeeHarvest NFT is a unique and innovative collection within the AmberTON and BeeHarvest ecosystem, opening new horizons for project participants. This collection is based on utility NFTs that are not only aesthetically appealing but also provide tangible bonuses to their owners.\nEach NFT in the collection has unique attributes that increase the resource harvesting percentage in the game, giving you significant advantages. The collection features 10 levels of NFTs, and you have the opportunity to merge them to create more powerful NFTs with even greater capabilities.\nYou can obtain and use these NFTs completely free by following simple rules that can be found in the official project channels or directly in the game. Don't miss your chance to be part of this revolutionary project and multiply your resources with BeeHarvest NFT!",
+    "image": "https://api.beeharvest.life/nft/file/game_nft_collection.jpg",
+    "name": "Beeharvest",
+    "social": [
+      "https://t.me/BeeHarvest",
+      "https://t.me/beeharvestbot",
+      "https://t.me/amberton"
+    ]
+  },
+  {
+    "address": "0:f2bd3b92c32358d75b6eb78e053e41b30fd3d46cd70f814ff005afb4aeecee1a",
+    "description": "Degrees’ is a limited collection of 361° available items. Each Degree° has its own unique angle, contains a maths fact about its value and is an essential component to getting a complete user experience in the Degrees° app.",
+    "image": "https://raw.githubusercontent.com/msilenkov/ONE/245f76be45fc9e32a60de758bf8c39e5dce99cd7/degrees.svg",
+    "links": {
+      "bot": "https://prodegreesbot.t.me",
+      "channel": [
+        "https://degrees.t.me",
+        "https://prodegrees.t.me"
+      ],
+      "community": "https://degreeston.t.me"
+    },
+    "name": "Degrees",
+    "social": [
+      "https://degrees.t.me",
+      "https://prodegrees.t.me",
+      "https://degreeston.t.me"
+    ]
+  },
+  {
+    "address": "0:fb783c4fff02d7d7c92bf2ec987eceacae582834c7d16d735833c7663174f6bf",
+    "name": "CALLIGRAFUTURISM — 24: Units"
+  },
+  {
+    "address": "0:7958c516fb3c518f5cb1c9bfc7140db917655e19bd4b90f32ba576620f847851",
+    "description": "Personalized SBT Rewards for Grouche Platform users.",
+    "image": "https://cdn.grouche.com/sbt/grc.jpg",
+    "name": "Grouche Rewards",
+    "social": [
+      "https://x.com/grouchecoin",
+      "https://t.me/grouche_coin"
+    ]
+  },
+  {
+    "address": "0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94",
+    "description": "Collection with soulbound tokens confirming ownership of jettons locked in JVault Locker (actual version)",
+    "image": "https://jvault.xyz/static/images/lock_collection.png",
+    "name": "JVault locks",
+    "social": [
+      "https://t.me/jvault",
+      "https://t.me/jvault_ru",
+      "https://x.com/jvault_app"
+    ],
+    "websites": [
+      "https://jvault.xyz/locker"
+    ]
+  },
+  {
+    "address": "0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058",
+    "description": "SpinnerCoin introduces an innovative Play-to-Earn (P2E) gaming experience leveraging the power of TON blockchain technology, combined with exclusive Non-Fungible Tokens (NFTs). Immerse yourself in a dynamic gaming universe where every spin unlocks thrilling adventures and lucrative rewards.",
+    "image": "https://github.com/Spinnercoin/spinner-logos/blob/d707bc9e96668bf6683dca2fabbc7ae9975e283f/logocube4500.png?raw=true",
+    "name": "Spinners",
+    "social": [
+      "https://t.me/SpinnerCoin",
+      "https://t.me/SpinnerCoin_bot",
+      "https://t.me/SpinnerCoin_chat"
+    ],
+    "websites": [
+      "https://t.me/SpinnerCoin_bot/app"
+    ]
+  },
+  {
+    "address": "0:3eda0de0ec98f5ebd9ab0393d1e3d2e39880b54c841f68611c67c5270d961fb2",
+    "name": "The Gateway"
+  },
+  {
+    "address": "0:c089c5b80494c179cec2fc4d6a6890ef7a6e0188ac260b31fd78896f422e8349",
+    "name": "Tonkeeper Adventure"
+  },
+  {
+    "address": "0:3971e42d84298ca7a1ca9cf206b3ad919e83570081e5b7641ecd54fd736c8250",
+    "name": "Tonkeeper Adventure. Season 2"
+  },
+  {
+    "address": "0:dfdb68e5d54fe1d1d4417912266a4777de16752e3f99c669e567272a8732633d",
+    "description": "Exclusive SBT (Soulbound Token) achievements within Totemancer. Each badge representing proof of your in-game milestones and accomplishments. SBTs can only be earned through your gameplay progress.",
+    "image": "https://totemancer.com/ton/tc.png",
+    "name": "Totemancer: Badges",
+    "social": [
+      "https://t.me/TotemancerBot",
+      "https://t.me/Totemancer",
+      "https://t.me/Totemancer_RU",
+      "https://t.me/TotemancerChat",
+      "https://x.com/Totemancer",
+      "https://vk.com/Totemancer"
+    ],
+    "websites": [
+      "https://totemancer.com"
+    ]
+  },
+  {
+    "address": "0:7c66628f8cbfec8779f857a823d6840d1ea956f4cf90e7c022100da75c16316b",
+    "description": "Totemancer PFPs are a limited collection of 10,000 NFTs that represent your identity within the Totemancer universe. Your PFP might also play a role in future features such as governance, voting, staking tied to the Totemancer Token, and more.",
+    "image": "https://totemancer.com/ton/tc.png",
+    "name": "Totemancer: PFPs",
+    "social": [
+      "https://t.me/Totemancer",
+      "https://t.me/Totemancers",
+      "https://t.me/TotemancerChat",
+      "https://x.com/Totemancer"
+    ],
+    "websites": [
+      "https://totemancer.com"
+    ]
+  },
+  {
+    "address": "0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2",
+    "description": "Exclusive NFT collectibles within Totemancer. Each totem represents a powerful asset, offering special in-game enhancements and tangible benefits.",
+    "image": "https://totemancer.com/ton/tc.png",
+    "name": "Totemancer: Totems",
+    "social": [
+      "https://t.me/TotemancerBot",
+      "https://t.me/Totemancer",
+      "https://t.me/Totemancer_RU",
+      "https://t.me/TotemancerChat",
+      "https://x.com/Totemancer",
+      "https://vk.com/Totemancer"
+    ],
+    "websites": [
+      "https://totemancer.com"
+    ]
+  },
+  {
+    "address": "0:40341fd1799d328a6ffb3adc22a3b52deacfb7b4ff46046e9269d2e90bd8f540",
+    "name": "HydraNFT — Crownville Legendary Artifacts",
+    "description": "On-chain legendary artifacts of Crownville. Forge 10 legendary artifacts plus a Basilisk to mint a HydraNFT that runs your legendary at full power. 1200 pieces across 12 types, integrated with the Crownville game.",
+    "image": "https://nft.crownville.online/api/nft/hydra/img/cover-royal.png",
+    "social": [
+      "https://t.me/CrownvilleSurvivorsBot"
+    ],
+    "websites": [
+      "https://crownville.online/"
+    ]
+  }
 ]
