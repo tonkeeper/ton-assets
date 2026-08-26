@@ -8978,6 +8978,17 @@
   "symbol": "SCAT"
  },
  {
+  "address": "0:9dc10e167b0140277b2bad0955a47185a99f50bfd70889978440d9c3993ad0c3",
+  "decimals": 9,
+  "description": "SCREAM Telegram sticker community token on TON.",
+  "image": "https://raw.githubusercontent.com/BabyLadyCTO/scream-assets/main/SCREAM_icon.png",
+  "name": "Scream",
+  "social": [
+   "https://t.me/SCREAMonTON"
+  ],
+  "symbol": "SCREAM"
+ },
+ {
   "address": "0:d62d27c3e7746b4ec7b774ffdae086b005b34f1a977f321a11189fb3c81bd806",
   "description": "It is game semz1.com in which you can earn TOKEN and convert the token into TON. To join this unique ecosystem, you only need a Telegram account.",
   "image": "https://i.ibb.co/Tq7Y2bvH/IMG-20250210-143753-627.jpg",
