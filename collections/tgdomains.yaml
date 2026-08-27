@@ -1,0 +1,9 @@
+name: ".TG Domains"
+description: "Verified .tg domain ownership certificates issued by GDomains. Each NFT represents a unique domain name and grants its holder full control over the buy, rental and resale of the name on the GDomains and GetGems platforms."
+image: "https://raw.githubusercontent.com/giftcollection-ui/logo/main/tgdomains.png"
+address: "EQDDXd9DwycN-5wHGfH0Nxw83gUBwsB5FWylIhKeJt9jRMFA"
+websites:
+  - "https://reg.tg/"
+social:
+  - "https://t.me/regtg"
+  - "https://t.me/tgdomains_bot"
