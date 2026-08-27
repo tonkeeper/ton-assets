@@ -373,6 +373,9 @@
 - address: 0:f113c0b8f91e77a25e089ec8f255e7667c8f71305ea5a49928da9f743c047453
   name: DICKSHOTI
   symbol: DICKSHOTI
+- address: 0:264d47223f291a370e5b67d0e5617ce907dbc58d464e779adefd38821db6989b
+  name: Diggy
+  symbol: DIGGY
 - address: 0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3
   name: DINJA
   symbol: DINJA
