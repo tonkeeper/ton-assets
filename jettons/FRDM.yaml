@@ -4,3 +4,7 @@ decimals: 9
 description: "The currency of the Order of Freedom — uniting people to defend freedom and privacy, expand knowledge, and build a free future. Everything begins with freedom."
 image: "https://raw.githubusercontent.com/VechnoeTsukuyomi/frdm-assets/main/frdm.png"
 address: EQCuo36wxohB45p5UFmsPKLBCoT0BR_REkianmiuzF3Rlx-N
+websites:
+  - "https://t.me/OrderOfFreedomBot"
+social:
+  - "https://t.me/OrderOfFreedom"
