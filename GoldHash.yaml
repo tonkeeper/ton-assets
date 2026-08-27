@@ -4,8 +4,8 @@ symbol: GHS
 address: "EQDHbcEYaBclBP7tl6RA6_-NRvxUlSKlDFG48DZBKaP5h0XL"
 image: "https://raw.githubusercontent.com/Bangpeegee/Aset-HashGold/main/GoldHash.png"
 decimals: 9
-supply: 16.000.000.000
-website: "https://goldhash.com" # Ganti dengan URL website Anda jika sudah ada
+total_supply: "16000000000"
+website: "https://goldhash.com"
 social:
-  - "https://t.me/goldhash" # Ganti dengan link Telegram resmi Anda
-  - "https://x.com/goldhash" # Ganti dengan link X/Twitter resmi Anda
+  - "https://t.me/goldhash"
+  - "https://x.com/goldhash"
