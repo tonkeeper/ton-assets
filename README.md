@@ -283,6 +283,7 @@ Name           | Address
 [NFT Spaceship](https://tonviewer.com/0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0) | EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS
 [Sleeping Giant](https://tonviewer.com/0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb) | EQBfRGXk3PKeH9s_htEidRXY54NR8jgHen__C-SUuaJA--3_
 [Spinners](https://tonviewer.com/0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058) | EQAZKtHcN6mhbzhbzcnuj-94r5P-hZYBKEwQ4_-dc-2AWMqZ
+[Stellarium Worlds](https://tonviewer.com/0:9bfd0f65e9624c0043c80e3677a71329d0f515f6f40bcef171552e796770134d) | EQCb_Q9l6WJMAEPIDjZ3pxMp0PUV9vQLzvFxVS55Z3ATTbbJ
 [StickerBox Crouching Tiger](https://tonviewer.com/0:9be8082c3a944e1618b613389737e393d201bef9114a045a565224d1ff53c0d1) | EQCb6AgsOpROFhi2EziXN-OT0gG--RFKBFpWUiTR_1PA0Ycv
 [StickerBox Degens Paradise](https://tonviewer.com/0:873d57f407dc38f7083b9134498d49a11737d17dd09a916231fde4db70c8ff7a) | EQCHPVf0B9w49wg7kTRJjUmhFzfRfdCakWIx_eTbcMj_ep45
 [StickerBox Golden Sunrise](https://tonviewer.com/0:663702cc7104e7ab205ced5324b368851c15b2acff72faa93937db0f8f9ff7e1) | EQBmNwLMcQTnqyBc7VMks2iFHBWyrP9y-qk5N9sPj5_34UrA

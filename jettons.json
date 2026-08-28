@@ -75,6 +75,19 @@
   "symbol": "$CHYK"
  },
  {
+  "address": "0:23e5beb6316f964d75dade3af4d9bc96354b42756a55a2116818ea3b1b39e52a",
+  "description": "When the calculating Scrooge McDuck and the fast, witty Bugs Bunny play on the same team, our token is born \u2014 a balance of strategy, style, and humor that builds a strong community for future growth.",
+  "image": "https://raw.githubusercontent.com/scroogemcduck968-gif/SCMD69-assets/main/SCMD69.png",
+  "name": "SCMD69",
+  "social": [
+   "https://t.me/+g6YnwiZ8IrZhNmE0"
+  ],
+  "symbol": "$CMD69",
+  "websites": [
+   "https://scmd.ton.website"
+  ]
+ },
+ {
   "address": "0:8246aa420f4f4d0da46249cb3cbd03c04db01450aedb7d448c774903ebbbe0e5",
   "description": "In the best tradition of great projects, our $CUPRUM was born in a garage. We recycled old copper wires and used the proceeds to create this token. Join us - help clean the planet and invest with a smile. Our moon tradition? A celebratory cup of rum (or juice)! \ud83e\udd43\u267b\ufe0f",
   "name": "CUPRUM",
@@ -213,6 +226,18 @@
   "websites": [
    "https://grandtonape.life"
   ]
+ },
+ {
+  "address": "0:3721bb2648e6ed041c5c98fb1b911c258ead6195f32209b47629456dd25a23bf",
+  "description": "Welcome to GRAMVILLE A small village. A big story. Built on TON. Powered by memes.",
+  "image": "https://i.ibb.co/p6LvKgp1/GRAMVILLE.png",
+  "name": "GRAMVILLE",
+  "social": [
+   "https://t.me/GramVilleMem",
+   "https://t.me/GramVilleChat",
+   "https://x.com/GramVilleX"
+  ],
+  "symbol": "GV"
  },
  {
   "address": "0:556325320f4160b4f9b5b799a8086d4b78e2d0d7c02226d52deeb3dfd4f46f12",
@@ -953,6 +978,21 @@
   ]
  },
  {
+  "address": "0:938738adccf5e6d9d1fda6c69591996401c1eacc2263701a43dbd6f9725a2c35",
+  "decimals": 9,
+  "description": "The utility token of Platho \u2014 a fully decentralized, post-quantum encrypted messenger that lives entirely on the TON blockchain (no backend, no servers, your keys). Earn ATH as an activity bonus for using the app, and spend it to reduce messaging fees, mint .ath usernames, and attach avatars \u2014 all on-chain.",
+  "image": "https://i.postimg.cc/NMsNyCwb/jetton.webp",
+  "name": "PLATHO",
+  "social": [
+   "https://t.me/plathoapp"
+  ],
+  "symbol": "ATH",
+  "websites": [
+   "https://platho.app/",
+   "https://getgems.io/platho"
+  ]
+ },
+ {
   "address": "0:11f8a05dbb02f8c3e2e0ef64055f8b564ce0090864bbd859061eb24bf50b7b3f",
   "decimals": 9,
   "description": "AVACOIN is the first fully integrated ecosystem built on Telegram mini-apps, combining play2earn, learn2earn, staking elements, and a marketplace on a single convenient platform.",
@@ -992,6 +1032,22 @@
    "https://t.me/dmtholders"
   ],
   "symbol": "AVTR"
+ },
+ {
+  "address": "0:acb7eb605f33b0295ee4951978a4a65b7fe5c42233e3a33aa093293431384518",
+  "description": "Awe Reads Token (AWE) fuels access, rewards, and growth in a platform turning complex knowledge into simple inspiration.",
+  "image": "https://raw.githubusercontent.com/Awereads/token/refs/heads/main/logo.png",
+  "name": "Awe Reads",
+  "social": [
+   "https://t.me/awereads",
+   "https://t.me/awereads_eng",
+   "https://www.instagram.com/awereads",
+   "https://www.instagram.com/awereads.eng"
+  ],
+  "symbol": "AWE",
+  "websites": [
+   "https://awereads.com"
+  ]
  },
  {
   "address": "0:730d8404ea7065c083201119706cf9336fd7c15d73decb58248f13c2e8b2920c",
@@ -1130,6 +1186,14 @@
   "symbol": "AUR"
  },
  {
+  "address": "0:ae7e0c4640dd74ab285a021bc85588c78b6a6ef0dfa4bcf8582d3fee117b9530",
+  "decimals": 9,
+  "description": "Baby Ton community token on TON.",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/babyton-assets/main/babyton_icon.png",
+  "name": "Baby Ton",
+  "symbol": "BABY"
+ },
+ {
   "address": "0:0e35686fdcd92842b24f32f07aeffca49d62cfc555fcc0f79f4cf57be61ed999",
   "description": "Baby Groyper on TON - Launched on GROYPAD",
   "image": "https://i.8upload.com/image/912f58c8f890b0b2/tokenimage-babygroyp.jpg",
@@ -1219,6 +1283,23 @@
   "symbol": "BATYM",
   "websites": [
    "https://vk.link/batymchanin"
+  ]
+ },
+ {
+  "address": "0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc",
+  "description": "Baby Lady (BBLady) is a community-driven meme project on TON and the home of the Baby Ladyverse, a creative ecosystem built around storytelling, art, educational content, NFTs, and community-built lore.",
+  "image": "https://raw.githubusercontent.com/emunagomez-commits/babylady-assets/main/babylady-logo.png",
+  "name": "Baby Lady",
+  "social": [
+   "https://t.me/BabyLadyTONCoin",
+   "https://x.com/BabyLadyMemes",
+   "https://discord.gg/DP6nmu63u",
+   "https://github.com/BabyLadyCTO",
+   "https://youtube.com/@babylady-h7s1x?si=I7WNmGu2AsP3-3_i"
+  ],
+  "symbol": "BBLady",
+  "websites": [
+   "https://bbladycto.com/"
   ]
  },
  {
@@ -2535,6 +2616,14 @@
   "websites": [
    "https://vahidbaghi.ir"
   ]
+ },
+ {
+  "address": "0:6e297a23280284bc083b197542250f810aba85f61937e424c620b8e26acab77f",
+  "decimals": 9,
+  "description": "Community token centered around the DAUGHTER character on TON.",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/daughter-assets/main/daughter_icon.png",
+  "name": "DAUGHTER",
+  "symbol": "DAUGHTER"
  },
  {
   "address": "0:25de927930340cd1bd9b9087d10b00d9eb8891d770ae0f8f76c96b1f9bd71109",
@@ -6720,7 +6809,9 @@
  },
  {
   "address": "0:e7b6133a0e364b22543f950942c2d8fe133d94ad8ce9594578f776dc71ccfe46",
+  "decimals": 9,
   "description": "Fully decentralized MEME coin by the GRAM (GRM) community. Make Gram Great Again! Not affiliated with Telegram or TON Foundation.",
+  "image": "https://mgrmga.org/logo.png",
   "name": "Make Gram Great Again",
   "social": [
    "https://t.me/mgrmga_holders"
@@ -7565,6 +7656,22 @@
   "websites": [
    "https://orcmine.io",
    "https://orcmine.gitbook.io"
+  ]
+ },
+ {
+  "address": "0:9b73c945338ae6d6e54cd6e0ac4e819311e055ed969fcabe587ebc40540da7f8",
+  "description": "ORCA is a utility token powering the OrcaMining Telegram Mini App and its community ecosystem. ORCA is live on TON and available for trading with active liquidity on STON.fi.",
+  "image": "https://orcamining-two.vercel.app/orca-token-logo.png",
+  "name": "ORCA",
+  "social": [
+   "https://t.me/OrcaMineBot",
+   "https://t.me/OrcaMine",
+   "https://t.me/OrcaMineChat",
+   "https://t.me/OrcaMineSupport"
+  ],
+  "symbol": "$ORCA",
+  "websites": [
+   "https://orcamining-two.vercel.app/"
   ]
  },
  {
@@ -8578,7 +8685,7 @@
   "address": "0:2e0d3922a346793cd3d41afff93671f02e395e6827a1b064da346e289adac6ed",
   "decimals": 9,
   "description": "Community-maintained TON token built around Resistance Lady and its community-driven continuation.",
-  "image": "https://raw.githubusercontent.com/ResistanceLady/relady-assets/main/relady.png",
+  "image": "https://raw.githubusercontent.com/ResistanceLady/relady-assets/main/relady-logo.png",
   "name": "Resistance Lady",
   "social": [
    "https://t.me/Reladyton",
@@ -8871,6 +8978,17 @@
    "https://t.me/scaredcatcto"
   ],
   "symbol": "SCAT"
+ },
+ {
+  "address": "0:9dc10e167b0140277b2bad0955a47185a99f50bfd70889978440d9c3993ad0c3",
+  "decimals": 9,
+  "description": "SCREAM Telegram sticker community token on TON.",
+  "image": "https://raw.githubusercontent.com/BabyLadyCTO/scream-assets/main/SCREAM_icon.png",
+  "name": "Scream",
+  "social": [
+   "https://t.me/SCREAMonTON"
+  ],
+  "symbol": "SCREAM"
  },
  {
   "address": "0:d62d27c3e7746b4ec7b774ffdae086b005b34f1a977f321a11189fb3c81bd806",
@@ -11692,6 +11810,20 @@
   ]
  },
  {
+  "address": "0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee",
+  "description": "YAYA is IP Meme with own ecosystem, access now: http://t.me/yayaminiapps_bot",
+  "image": "https://yayaton.org/assets/yaya-logo.png",
+  "name": "YAYA",
+  "social": [
+   "https://t.me/yayafam",
+   "https://x.com/Yaya_gram"
+  ],
+  "symbol": "YAYA",
+  "websites": [
+   "https://yayaton.org/"
+  ]
+ },
+ {
   "address": "0:a992e0fa82901d5d624338b2b2c71ea78030dc5f3d804bce635b20d66b7a9355",
   "description": "\u041c\u043e\u043d\u0435\u0442\u0430 \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u0430 \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0431\u043b\u0430\u0433\u043e\u0441\u0442\u043d\u043e\u0433\u043e \u0434\u0435\u043b\u0430. \u041d\u0430 \u0439\u043e\u0433\u0430-\u0444\u0435\u0440\u043c\u0435 \u0432\u044b \u043f\u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u0435\u0441\u044c \u0441 \u0438\u0441\u0442\u0438\u043d\u043d\u044b\u043c \u0441\u043e\u0431\u043e\u0439, \u043e\u0442\u043a\u0440\u043e\u0435\u0442\u0435 \u043d\u043e\u0432\u044b\u0435 \u0442\u043e\u0447\u043a\u0438 \u043e\u043f\u043e\u0440\u044b \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0441\u0438\u043b\u044b.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcpkud6gpadxwjdolkyxx6ngddcxz2as85jwydwa3qtvxyq.png?size=lg&key=da7f97",
@@ -12031,6 +12163,20 @@
    "https://t.me/AmberTONchat"
   ],
   "symbol": "AMBER"
+ },
+ {
+  "address": "0:28f219e1c9c029a36e6befe908ec0847aa18881025b5cfd98ea064fa080d60c5",
+  "decimals": 9,
+  "description": "Apes Club utility and rewards token on TON.",
+  "image": "https://test.telegramgift.com/ape-token-logo.jpg",
+  "name": "Apes Club",
+  "social": [
+   "https://t.me/ApesClubio"
+  ],
+  "symbol": "APE",
+  "websites": [
+   "https://t.me/apes_Club_Bot/apes_club?startapp"
+  ]
  },
  {
   "address": "0:d36706f8299d434b89965cdfe07515dd85c88d9dc54c6dca57808ed441e3d822",
@@ -16301,11 +16447,6 @@
   "symbol": "BATYA"
  },
  {
-  "address": "0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc",
-  "name": "Baby Lady",
-  "symbol": "BBLady"
- },
- {
   "address": "0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620",
   "name": "Baby Notcoin",
   "symbol": "BBNOT"
@@ -16724,6 +16865,11 @@
   "address": "0:f113c0b8f91e77a25e089ec8f255e7667c8f71305ea5a49928da9f743c047453",
   "name": "DICKSHOTI",
   "symbol": "DICKSHOTI"
+ },
+ {
+  "address": "0:264d47223f291a370e5b67d0e5617ce907dbc58d464e779adefd38821db6989b",
+  "name": "Diggy",
+  "symbol": "DIGGY"
  },
  {
   "address": "0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3",
@@ -17334,6 +17480,11 @@
   "address": "0:0e634c5b295d60dded95ee3768e5eac5e6efb9875f6a0782293e42b444fcb444",
   "name": "Long Capital",
   "symbol": "LNG"
+ },
+ {
+  "address": "0:2601bdddedd10ff1f31639fe36273c6ef03c86fdf08af6775f2ecd5786394de4",
+  "name": "LOCKIN",
+  "symbol": "LOCKIN"
  },
  {
   "address": "0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30",
@@ -18799,11 +18950,6 @@
   "address": "0:157c463688a4a91245218052c5580807792cf6347d9757e32f0ee88a179a6549",
   "name": "xRocket Token",
   "symbol": "XROCK"
- },
- {
-  "address": "0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee",
-  "name": "YAYA",
-  "symbol": "YAYA"
  },
  {
   "address": "0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26",
@@ -21255,6 +21401,16 @@
   "symbol": "KG",
   "websites": [
    "https://www.kgonton.com"
+  ]
+ },
+ {
+  "address": "0:81139806510fd2cd09e3629f101e31f6d25b38853d36ffb83abb60fd66cf5e9e",
+  "description": "Materia is the primary in-game currency in the OtherWorlds Metaverse.",
+  "image": "https://bafybeih2wdahfohmvgchcald22kslgfmb27vjp6k7tf4od76pto7egbnqi.ipfs.w3s.link/materia.svg",
+  "name": "Materia",
+  "symbol": "MAT",
+  "websites": [
+   "https://other-worlds.io/"
   ]
  },
  {

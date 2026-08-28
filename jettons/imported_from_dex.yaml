@@ -121,9 +121,6 @@
 - address: 0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d
   name: HAMSTERBATYA
   symbol: BATYA
-- address: 0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc
-  name: Baby Lady
-  symbol: BBLady
 - address: 0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620
   name: Baby Notcoin
   symbol: BBNOT
@@ -376,6 +373,9 @@
 - address: 0:f113c0b8f91e77a25e089ec8f255e7667c8f71305ea5a49928da9f743c047453
   name: DICKSHOTI
   symbol: DICKSHOTI
+- address: 0:264d47223f291a370e5b67d0e5617ce907dbc58d464e779adefd38821db6989b
+  name: Diggy
+  symbol: DIGGY
 - address: 0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3
   name: DINJA
   symbol: DINJA
@@ -742,6 +742,9 @@
 - address: 0:0e634c5b295d60dded95ee3768e5eac5e6efb9875f6a0782293e42b444fcb444
   name: Long Capital
   symbol: LNG
+- address: 0:2601bdddedd10ff1f31639fe36273c6ef03c86fdf08af6775f2ecd5786394de4
+  name: LOCKIN
+  symbol: LOCKIN
 - address: 0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30
   name: Leprechaun
   symbol: LUCKY
@@ -1622,9 +1625,6 @@
 - address: 0:157c463688a4a91245218052c5580807792cf6347d9757e32f0ee88a179a6549
   name: xRocket Token
   symbol: XROCK
-- address: 0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee
-  name: YAYA
-  symbol: YAYA
 - address: 0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26
   name: Yoken
   symbol: YO
