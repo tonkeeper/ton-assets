@@ -77,3 +77,19 @@
 - symbol: IF
   name: IF
   address: "EQDfefbhN-qmZqH5UZgFQ7GrrRex6ALMgPFImfADHwwDblj6"
+  
+- symbol: RRMONEY
+  name: viperr coin
+  address: "EQDz4YOi2Mnzdqca0ZCprrcIm5K16UvM_OPiB4HWJ5KMVie3"
+    
+- symbol: FIG
+  name: FIGAVAM
+  address: "EQDsQv8wdqVtWRRxoQ3LcP-UA2dFzJx6VuE1yqAiU5LodqvS"
+  
+- symbol: BLUM
+  name: Blum
+  address: "EQCAj5oiRRrXokYsg_B-e0KG9xMwh5upr5I8HQzErm0_BLUM"
+
+- symbol: TOADY
+  name: DISGRUNTED TOAD
+  address: "EQCzHnwm4Ja_XsvqnUMex_9X8vvg_uPPukJQLlV5OldlbXGA"

@@ -1,0 +1,11 @@
+name: LP Token for ARTSIV-pTON
+symbol: "ARTSIV-pTON LP"
+description: "Liquidity pool token for ArtsivTON and Proxy TON on STON.fi DEX"
+address: 0:236291738e9ec7ef6c983ec799f2e564d48aa4f9196ed23ba13dd8b0a90514ba
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:236291738e9ec7ef6c983ec799f2e564d48aa4f9196ed23ba13dd8b0a90514ba.png"
+websites:
+  - "https://app.ston.fi/pools/EQAjYpFzjp7H72yYPseZ8uVk1Iqk-Rlu0juhPdiwqQUUukXC"
+social:
+  - "https://t.me/ArtsivTON"
+  - "https://t.me/artsivtonchat"

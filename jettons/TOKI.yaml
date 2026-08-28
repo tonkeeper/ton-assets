@@ -1,13 +1,14 @@
 name: "TOKI"
-address: EQCzHal68j_oKadmUTvK9Ns19P_-bk8PcrHduXk0H2cIBA_W
+address: EQAYzCvhy6-tWnA9fXjnHoyjTJ02YLEvWH-GEgMuObBGZg_E
 description: "Toki - this is what you need⏳ トキ トン"
-image: "https://raw.githubusercontent.com/jetmoonton/connect/main/TOKI/TOKIlogo.png"
+image: "https://raw.githubusercontent.com/jetmoonton/connect/main/TOKI/toki.png"
 symbol: TOKI
 websites:
+  - "https://getgems.io/jetmoonton"
   - "https://getgems.io/tokiton"
 social:
   - "https://t.me/jetmoonton"
-  - "https://x.com/xTokiton"
-  - "https://t.me/xtokiton"
   - "https://t.me/tokiton"
+  - "https://t.me/xtokiton"
   - "https://t.me/tokitonbot"
+  - "https://x.com/xTokiton"

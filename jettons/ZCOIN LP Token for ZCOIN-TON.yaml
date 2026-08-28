@@ -1,0 +1,11 @@
+name: LP Token for ZCOIN-pTON
+symbol: "ZCOIN-pTON LP"
+description: "Liquidity pool token for Zcoin TON and Proxy TON on STON.fi DEX"
+address: EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:085625e58ae4453452ba5199de4498c3a91b7856657f85b87c9034aa0c570842.png"
+websites:
+  - "https://ston.fi/"
+social:
+  - "https://t.me/zcoin_to"
+  - "https://t.me/zcointon"

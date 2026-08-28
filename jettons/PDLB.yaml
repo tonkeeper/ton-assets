@@ -1,0 +1,9 @@
+name: Padel Bot Token
+description: Utility token for the Padel Tennis Telegram WebApp - a platform for organizing padel tennis games with winning court rotation system. Players earn points by participating in games and can claim PDLB tokens as rewards.
+image: "https://api.endpointtools.com/images/pdlb-token.png"
+address: EQBSrK7cUdROGDStKkoMyTsDtdgR4me8xctZJkPgt2A7Mtu-
+symbol: PDLB
+websites:
+  - "https://tg.endpointtools.com"
+social:
+  - "https://t.me/PadelApp24Bot"

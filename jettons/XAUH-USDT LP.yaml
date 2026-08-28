@@ -1,0 +1,12 @@
+name: LP Token for XAUH-USD₮
+symbol: "XAUH-USD₮ LP"
+description: "Liquidity pool token for Herculis Gold Coin (XAUH) and Tether USD on STON.fi DEX"
+address: 0:d3299129732c0b05f24189ad52d08d8268e42ea15b9d61fa1333364762c9ab2f
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:d3299129732c0b05f24189ad52d08d8268e42ea15b9d61fa1333364762c9ab2f.png"
+websites:
+  - "https://xauh.gold"
+  - "https://app.ston.fi/swap?chartVisible=true&chartInterval=1w&ft=USD%E2%82%AE&tt=EQCMk4_OujCnk46jApHnIRbmTtYTkSmfujV9X8Ye0qvsHVKh"
+social:
+  - "https://x.com/HerculisCoin"
+  - "https://t.me/herculis_investments"

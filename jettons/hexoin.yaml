@@ -1,0 +1,9 @@
+name: HEXOIN
+description: HEXOIN is the utility token powering HexDrop — a hexagonal merge puzzle game on Telegram built on TON blockchain
+address: 0:53ada28c7d40ae9bbb8b57a76c588643d2cf50351843c4807c0fb4b6b4516110
+symbol: HEXOIN
+websites:
+  - "https://hexoin.tech"
+social:
+  - "https://t.me/hexdropbot"
+  - "https://t.me/hexdropbot/hexdrop"
