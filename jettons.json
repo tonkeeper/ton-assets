@@ -10507,7 +10507,14 @@
   "address": "0:5f09d9ca4e3b79f7793e6b3a70e747d9844adc567082de87cbcfc5c927045658",
   "decimals": 18,
   "name": "TOIN",
-  "symbol": "TOIN"
+  "social": [
+   "https://t.me/botoin",
+   "https://twitter.com/botoin"
+  ],
+  "symbol": "TOIN",
+  "websites": [
+   "https://botoin.com"
+  ]
  },
  {
   "address": "0:e49bab38bccaa57fa8d1507254d3e438a08712d36c91966b91283549760d2349",
