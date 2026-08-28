@@ -5383,6 +5383,20 @@
   ]
  },
  {
+  "address": "0:97f871962e007bfe592c085450026f01c8ecccea7a7b6b7052f4da8e2b3fecf7",
+  "description": "AI Generative Hardware Designer",
+  "image": "https://hardwaretor.com/public/icon.png",
+  "name": "Hardwaretor",
+  "social": [
+   "https://t.me/hardwaretor",
+   "https://x.com/hardwaretor"
+  ],
+  "symbol": "HAW",
+  "websites": [
+   "https://hardwaretor.com/"
+  ]
+ },
+ {
   "address": "0:b3ff12b6bc07fa0c74ab992437995fae1228096ca3cfd2d594a6a92a616f911e",
   "description": "Hold to earn.If you can't hold, you won't be rich!",
   "image": "https://static.holdcoin.xyz/token/logo.png",
@@ -10488,6 +10502,12 @@
   "websites": [
    "https://toge.world"
   ]
+ },
+ {
+  "address": "0:5f09d9ca4e3b79f7793e6b3a70e747d9844adc567082de87cbcfc5c927045658",
+  "decimals": 18,
+  "name": "TOIN",
+  "symbol": "TOIN"
  },
  {
   "address": "0:e49bab38bccaa57fa8d1507254d3e438a08712d36c91966b91283549760d2349",
