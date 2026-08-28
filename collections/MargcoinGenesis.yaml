@@ -1,11 +1,9 @@
-name: "Margcoin Genesis"
-description: "The official Margcoin Genesis NFT Collection on the TON Blockchain. Limited to 4,999 unique NFTs, this collection represents Margcoin’s first on-chain digital collectible and the beginning of its NFT ecosystem."
-address: "EQB8yP1M9jySspeB49molJVnI5tGK5sKm-rvtUzFSyN1faDD"
-websites:
-- "https://app.margcoin.fun"
+name: Margcoin Genesis
+description: Margcoin Genesis NFT is Margcoin’s first footprint on the TON Blockchain, launched by Margcoin with a limited supply of 2,499 NFTs featuring upgraded rarities: Common, Rare, and Mythical.
+image: https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/Margcoin%20NFT%20Collection%20Profile.webp
+address: 0:307b9a454ebaaffac2ea1d05bc3b367e08e036769bb13ccfddce234119965cd6
 social:
-- "https://x.com/MargcoinOG"
-- "https://t.me/MargcoinOG"
-- "https://t.me/MargcoinOGBot"
-- "https://t.me/Margcoin_Chat"
-image: "https://raw.githubusercontent.com/alex-dev-create/MARGCOIN/main/Margcoin%20Genesis%20Statics%20NFT%20Image%20.webp"
+  - https://x.com/MargcoinOG
+  - https://t.me/MargcoinOG
+  - https://t.me/MargcoinOGBot
+  - https://t.me/Margcoin_Chat
