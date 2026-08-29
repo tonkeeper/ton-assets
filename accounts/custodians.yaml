@@ -433,3 +433,7 @@
   name: "Changelly 2"
 - address: "UQAU3ksCZHlBd5EIt7mb6FWWJgzN6BM1EAAFXXRN2KugTJYl"
   name: "CoinEx"
+- address: "UQByHzgY7-50L2iy_dI98MuaNXbBAiFlhHO89cCpX--Stars"
+  name: "RawStars"
+  require_memo: true
+  image: "https://rawstars.tg/logo.svg"
