@@ -1,14 +1,8 @@
-name: VIBE
-description: VIBE is the native token of VIBE Miner, a play-to-earn mining game on TON blockchain. Users can mine, upgrade, and earn VIBE through interactive games.
-image: "https://cdn.phototourl.com/free/2026-08-28-b1f87184-9f73-4956-8c17-ac62f4d1fa11.png"
+address: EQCz45kBRQWOPQdAj4EMRXuo23wX5tXNY0IO7zS7h7oA1S0x
 symbol: VIBE
-decimals: 9
-links:
-  - name: telegram
-    url: "https://t.me/vibeminer_bot"
-  - name: twitter
-    url: "https://twitter.com/vibeminer"
-  - name: website
-    url: "https://vibe-game.sibseldomae.workers.dev"
-  - name: stonfi
-    url: "https://app.ston.fi/pools/EQC1B-tf6fKQqwMxrwgh13cRprRAFexngLh_W-v1KeNuQ_hX"
+websites:
+  - "https://vibe-game.sibseldomae.workers.dev"
+social:
+  - "https://t.me/vibeminer_bot"
+  - "https://twitter.com/vibeminer"
+  - "https://app.ston.fi/pools/EQC1B-tf6fKQqwMxrwgh13cRprRAFexngLh_W-v1KeNuQ_hX"
