@@ -10397,6 +10397,21 @@
   ]
  },
  {
+  "address": "0:11b84c232ea6bf8ecc678d5ddc0faddedd291b29b4f9789ed2788e2660a79e0c",
+  "decimals": 9,
+  "description": "TIME is the utility token of Stellarium, a live Telegram Mini App with collectible on-chain planets, protocol-level demurrage, and a transparent three-level referral system.",
+  "image": "https://memetimeton.fun/logo.png",
+  "name": "TIME",
+  "social": [
+   "https://t.me/Timegalaxy_bot",
+   "https://t.me/time_meme"
+  ],
+  "symbol": "TIME",
+  "websites": [
+   "https://memetimeton.fun/"
+  ]
+ },
+ {
   "address": "0:3a43774c81511f5d0f6d3412f67cc96312123f6b343e477bef3e08c6397c2817",
   "coingecko": "https://www.coingecko.com/en/coins/ton-inu",
   "description": "Dive into our toolkits, your secret weapons for making your crypto journey secure, seamless, and seriously cool $TINU.",
