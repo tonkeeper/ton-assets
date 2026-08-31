@@ -12165,20 +12165,6 @@
   "symbol": "AMBER"
  },
  {
-  "address": "0:28f219e1c9c029a36e6befe908ec0847aa18881025b5cfd98ea064fa080d60c5",
-  "decimals": 9,
-  "description": "Apes Club utility and rewards token on TON.",
-  "image": "https://test.telegramgift.com/ape-token-logo.jpg",
-  "name": "Apes Club",
-  "social": [
-   "https://t.me/ApesClubio"
-  ],
-  "symbol": "APE",
-  "websites": [
-   "https://t.me/apes_Club_Bot/apes_club?startapp"
-  ]
- },
- {
   "address": "0:d36706f8299d434b89965cdfe07515dd85c88d9dc54c6dca57808ed441e3d822",
   "description": "Native token of Aravt Systems. Visit ARAVT.IO for more information",
   "name": "Aravt Token",
