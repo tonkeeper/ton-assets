@@ -169,6 +169,9 @@
 - address: 0:4dfb0742679b14f45b2a5873379b9329e98773c2415ccf7bbbfb533feed4497d
   name: Axon Enterprise xStock
   symbol: AXONx
+- address: 0:7972b68964ce2a373217ec289a2170508614b45030d2129fe1307901ba3ce0fa
+  name: AXT xStock
+  symbol: AXTIx
 - address: 0:0667eebc189103b3ce7173267617e724b7f0267896c07926e8c2bc2f9986c704
   name: AstraZeneca xStock
   symbol: AZNx
@@ -559,6 +562,9 @@
 - address: 0:dded965f4481e1df8bf60d069ad3ee41c6b6ff26d9a786d26087015e046cff52
   name: The Walt Disney xStock
   symbol: DISx
+- address: 0:5bbbe580e0bef8cb3267258e2d136a1529db62a5ce3dc298972e40abea1fac60
+  name: Trump Media & Technology Group xStock
+  symbol: DJTx
 - address: 0:108f7e7f91b2d97034631bdc87a55f19373a2197641c118d0f9696c81c663ea3
   name: DraftKings xStock
   symbol: DKNGx
@@ -580,6 +586,9 @@
 - address: 0:fccbbc714d8a3d438a3524fd4f5f604be8d408977e76230b4e0a1da527542446
   name: Dow xStock
   symbol: DOWx
+- address: 0:700020f43591c77a8d693e459e2398889138eca5cb5f35a63a99473afd10b50b
+  name: Storage ETF (Roundhill) xStock
+  symbol: DRAMx
 - address: 0:08ac6ede02505cf6f75a6e3f00d6e2d305aea3d79af035022d2df4ada6290593
   name: Darden Restaurants xStock
   symbol: DRIx
@@ -979,6 +988,9 @@
 - address: 0:ad5d08861793ceab92a24a4f34ecad487fd7f90830ed2639e3739baf0ef1627e
   name: Intuit xStock
   symbol: INTUx
+- address: 0:07b4b4eb5d9abc1ac8583a83187d74fa9a8121c0461279e1bee93eca3e9a5594
+  name: INTC 2x Long ETF xStock
+  symbol: INTWx
 - address: 0:102c46cc90424bafe391dc4e54433c45977a3a1c57b2706ab69546982ee91835
   name: Invitation Homes xStock
   symbol: INVHx
@@ -1081,6 +1093,9 @@
 - address: 0:85bc53227a0d9b70af4314e833f0b02cc424a302a391071bc0480fecf2ca9a75
   name: Knight-Swift Transportation xStock
   symbol: KNXx
+- address: 0:9460b0f3e2c27794f43943b594caea22c27f4d12b9844e92bd24528207ed2216
+  name: Korea 3x Long ETF xStock
+  symbol: KORUx
 - address: 0:03fa256654a5bc7eb0c360f77cd0dfbb772f26d8b7d4f272bff394de1e45d613
   name: Coca-Cola xStock
   symbol: KOx
@@ -1288,9 +1303,15 @@
 - address: 0:f5335693f77c6692a187429af4577ebef441eeb37223595ac6e59014489b27c5
   name: MasTec xStock
   symbol: MTZx
+- address: 0:3f366ba9fad06ad7a80af51c653c49122f7c411a8f6bc502d9fc007b5275909e
+  name: Micron 2x Long ETF xStock
+  symbol: MUUx
 - address: 0:a73ccfa40e6ea28c1a81c51ed1ea59282f32c9f0eca2e42ac4725674a15735e9
   name: Micron Technology xStock
   symbol: MUx
+- address: 0:6f80211e91ef8b7508dab45c267e63abd96427387b15978920aeab02708dc9a0
+  name: Marvell 2x Long ETF xStock
+  symbol: MVLLx
 - address: 0:93e212d82784314f53abcf85f5ffe3465a6e76bb470bd3d799c11bdd77ad9234
   name: Nebius xStock
   symbol: NBISx
@@ -1720,6 +1741,9 @@
 - address: 0:6f78f1e6f0281daf3343af0ace228580d47b533b1f8cc09e4f3c52260ab0a445
   name: Synopsys xStock
   symbol: SNPSx
+- address: 0:0b3e090f49881f3afd3741aac587b4fdf6e94f6549bd90d193321ae40b15aafa
+  name: SNDK 2x Long ETF xStock
+  symbol: SNXXx
 - address: 0:573a8cebab9f37b49bc81e2ed3d3f6b06c66127b2701880a48b5f364a23cb406
   name: TD Synnex xStock
   symbol: SNXx
@@ -1732,6 +1756,9 @@
 - address: 0:ebc7462679ebe803685820e65af94c4c41dc288c308d38c80057654205787243
   name: Direxion Semiconductor Bull 3X xStock
   symbol: SOXLx
+- address: 0:6d2bee26564954d6afda23cb0fc5ae6dd753bedbdde6adbf0cd5b8679c3ad6c4
+  name: 3x Short Semiconductor ETF xStock
+  symbol: SOXSx
 - address: 0:25466859a871691f6b512f4874138f661b5ac9a3a0dcb065b5316ff3d1265531
   name: iShares Semiconductor xStock
   symbol: SOXXx
