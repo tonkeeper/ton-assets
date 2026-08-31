@@ -1913,6 +1913,16 @@
   "symbol": "CANY"
  },
  {
+  "address": "0:c850f8950a03e59798124e3964cfb1cc01b52fd104f308bbe51ced7beed2ba9d",
+  "description": "Token for launching other tokens, backed by a basket of collateral assets (BTC, ETH, USDT, GRAM, POK) with algorithmic market making. #ProofOfCapital",
+  "image": "https://cap.proofofkarl.com/logo.jpg",
+  "name": "CAPITAL",
+  "symbol": "CAP",
+  "websites": [
+   "https://cap.proofofkarl.com"
+  ]
+ },
+ {
   "address": "0:27c5bb8c3db44e05a923acdfa7a9de12fe39ff2981a5b32f69c0858afd6c7e88",
   "description": "$CAPSTR is the strategy tax token for Durov's Caps. Fees buy caps, sell at 1.2x cost, proceeds buy and burn $CAPSTR | website: https://capstrategy.fun/ | tg: https://t.me/DurovsCapStrategy",
   "image": "https://raw.githubusercontent.com/hiruyaken/CAPSTR/refs/heads/main/coinA.png",
