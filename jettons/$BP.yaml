@@ -1,0 +1,10 @@
+name: BlackPill
+description: "BlackPill (BP) — community meme token for the self-improvement space, connected to the FaceRate project. Ownership revoked, supply fixed, part of the liquidity permanently locked."
+image: "https://realfactchecknews-eng.github.io/blackpill-assets/logo.png"
+address: EQCfA0ixAvzRFd9_0sHZto0nPUnLh9ahvd4EnUBoCz2qqpHW
+symbol: BP
+decimals: 9
+websites:
+  - "https://facerate.ru"
+social:
+  - "https://t.me/bp_ton"
