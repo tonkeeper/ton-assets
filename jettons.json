@@ -11448,6 +11448,20 @@
   ]
  },
  {
+  "address": "0:1fad12fd66c69fe63d40ab82279d7e0dbaefc647b7bb6b351dc0bbf703c37763",
+  "decimals": 9,
+  "description": "VOLT Token - Continuous Level-Based Hold-to-Mine Ecosystem on TON Blockchain.",
+  "image": "https://volt.crowntasks.xyz/volt-logo.jpg",
+  "name": "Volt Token",
+  "social": [
+   "https://t.me/VoltToken_bot"
+  ],
+  "symbol": "VOLT",
+  "websites": [
+   "https://volt.crowntasks.xyz"
+  ]
+ },
+ {
   "address": "0:28f8c9edf10da5f4cf7449d93d3a24edce656fde3f137f7f367415693517fda9",
   "description": "I HAVE GOT A BIG VEGGIE",
   "image": "https://i.ibb.co/nNG941qB/0597959dbc3a.webp",
