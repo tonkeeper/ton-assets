@@ -1,0 +1,5 @@
+name: Smartbit
+description: Smartbit (SRT) on TON. Includes transparent time-limited sell control for the DeDust vault; when enabled, the lock expires automatically.
+image: https://raw.githubusercontent.com/younissafa5555-maker/smartbit-assets/main/metadata/smartbit-srt.jpg
+address: EQDKAnAv_yMbrPsKbGCcbNg4mp-jFNzezBdlsrfkEuuMC19P
+symbol: SRT
