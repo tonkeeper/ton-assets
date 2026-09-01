@@ -1,0 +1,11 @@
+name: "VEXON"
+symbol: "VEX"
+address: "EQAO_g2ulhgbclc72IzXnNxC4agHrbd18MazA-TCLMjH8R2q"
+decimals: 9
+description: "VEX is the utility token of the VEXON ecosystem on TON, used for in-app rewards, station upgrades, game modes, social features, and community participation."
+image: "https://vexon.space/vexon.png"
+websites:
+  - "https://vexon.space"
+social:
+  - "https://t.me/vexon_official"
+  - "https://t.me/vexon_gamebot"
