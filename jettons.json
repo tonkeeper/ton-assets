@@ -6027,20 +6027,6 @@
   "symbol": "LAVE"
  },
  {
-  "address": "0:26a10a83cfac28049d5dbf0165d783c7743e8213779531de7c20d1512a9de7f5",
-  "description": "Not a vegetable.",
-  "image": "https://raw.githubusercontent.com/GramLeek/Assets/refs/heads/main/Logo.png",
-  "name": "GramLeek",
-  "social": [
-   "https://t.me/GramLeek",
-   "https://x.com/GramLeek"
-  ],
-  "symbol": "LEEK",
-  "websites": [
-   "https://gramleek.xyz"
-  ]
- },
- {
   "address": "0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3",
   "description": "Utility token for Redoi foundation",
   "image": "https://raw.githubusercontent.com/redoi-foundation/art/main/logo/lemonia.webp",
