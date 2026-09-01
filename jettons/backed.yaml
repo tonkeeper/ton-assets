@@ -1687,6 +1687,9 @@
 - address: 0:3cb36b9b4cad0171de26e9be703771c4a8334f4529ce6062f6ffc35b984f20ad
   name: SharonAI xStock
   symbol: SHAZx
+- address: 0:b1f1f43411d0b09b1cd2ec7a3372516ab92c71ec44bf3ea8075910d57449605c
+  name: SHEIN xStock
+  symbol: SHEINx
 - address: 0:68f2d88001b1ab8646035352e798508359be9c46e5e72a81c391010fcc2c3726
   name: Sherwin-Williams xStock
   symbol: SHWx
