@@ -1,0 +1,10 @@
+name: "GramLeek"
+symbol: "LEEK"
+address: "EQAm0QqDz6woBJ1dvwF114PHdD6CE3eVMd58INFRKp3n9Ycw"
+description: "Not a vegetable."
+image: "https://raw.githubusercontent.com/GramLeek/Assets/refs/heads/main/Logo.png"
+social:
+  - "https://x.com/GramLeek"
+  - "https://t.me/GramLeek"
+websites:
+  - "https://gramleek.xyz"
