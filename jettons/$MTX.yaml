@@ -1,0 +1,5 @@
+name: MeataDEX
+description: MeataDEX (MTX) on TON. Includes transparent time-limited sell control for the DeDust vault; when enabled, the lock expires automatically.
+image: https://raw.githubusercontent.com/younissafa5555-maker/meatadex-assets/main/metadata/meatadex-mtx.jpg
+address: EQDDqLIk8gs2eOL-LX2N6HL7v8aYrcTESjwhDZm6IlMjzZN5
+symbol: MTX
