@@ -1,0 +1,23 @@
+name: Prism Star
+symbol: PRISM
+description: Utility token for PRISM STAR, an actively operated Telegram Mini App and Web anime card battle game featuring 300+ collectible cards, gacha, progression, equipment, boss battles, seasonal rankings, PRISM RUSH, completed Preseason rewards, live Season 1 competition, and TON-Solana interoperability through the official PRISM/wPRISM bridge.
+address: EQBeUe1l-2qkBYQGyX_m6VVJ9RalyAcdIdmJNEDX5EIfr8d2
+decimals: 9
+image: https://playprismstar.com/token/logo.png
+
+websites:
+  - https://playprismstar.com
+  - https://playprismstar.com/token
+  - https://playprismstar.com/whitepaper
+  - https://app.playprismstar.com
+
+social:
+  - https://x.com/PlayPrismStar
+  - https://t.me/PrismStarOfficial
+  - https://t.me/PrismStarCommunity
+
+tags:
+  - gamefi
+  - gaming
+  - telegram
+  - miniapp
