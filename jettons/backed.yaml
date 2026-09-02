@@ -1384,6 +1384,9 @@
 - address: 0:3646030a3d4c1d60d812981d40f2c6a81878f50cf10f93fde1624237bea8602c
   name: Novo Nordisk xStock
   symbol: NVOx
+- address: 0:b3f6262fc0cfc24b626e75d4508a2380f3950c73f7df585d6a34c6bcfaeaca0f
+  name: NatWest xStock
+  symbol: NWGx
 - address: 0:8c062e7c6fdecb05b9335287db3008bb0bde8da77f962affa0c15f9b425eb39a
   name: New York Times xStock
   symbol: NYTx
