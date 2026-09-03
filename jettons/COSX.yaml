@@ -1,0 +1,10 @@
+name: COSMIS
+description: "COSMIS is a digital asset designed to power the broader CubaXNova ecosystem, enabling participation, value exchange, rewards, digital services, community initiatives, and future blockchain-based applications."
+address: 0:e8d60790d63c9f551ee306958e9dbc4b5bdcd54460d00f2797e78069481338ec
+symbol: COSX
+decimals: 9
+image: "https://cubaxnova.com/img/cubaxnova/x2/assets/cosmis/cosmis-ton-256.png"
+websites:
+  - "https://cubaxnova.com"
+social:
+  - "https://t.me/cubaxnova"
