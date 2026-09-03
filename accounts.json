@@ -440,6 +440,10 @@
   "name": "Omniston Fee Vault"
  },
  {
+  "address": "0:f0e5e2ebc4b9e4166c3641f49ac8972343890fd8a756e3649cde04a208a85acb",
+  "name": "Omniston Fee Vault"
+ },
+ {
   "address": "0:873dc12df46c54ad0dc824ee9df946047b84375aae5162c1e2106b18a3a237bf",
   "name": "Omniston DEX Bridge"
  },
@@ -449,6 +453,10 @@
  },
  {
   "address": "0:f2b67835de3f05e44ac5e635365f7ab14d8bdd8836db0baa89c6b157a92779e2",
+  "name": "Omniston DEX Bridge"
+ },
+ {
+  "address": "0:651fce7150d484a87867287cee91d5a1fc58f85b19e5a8bba4893de0e6adb068",
   "name": "Omniston DEX Bridge"
  },
  {

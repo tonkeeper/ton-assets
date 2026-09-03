@@ -118,9 +118,11 @@ Name           | Address
 [Omniston Fee Vault](https://tonviewer.com/0:00a32bb40be68c6063d512831fb8081edbe99e25678ee4a2c92ab29624024029) | EQAAoyu0C-aMYGPVEoMfuAge2-meJWeO5KLJKrKWJAJAKXGL
 [Omniston Fee Vault](https://tonviewer.com/0:f94c8bc64fa371a61443297f70454909387c84d154ee4c675548603937f6fada) | EQD5TIvGT6NxphRDKX9wRUkJOHyE0VTuTGdVSGA5N_b62naH
 [Omniston Fee Vault](https://tonviewer.com/0:9c25fd8a1651fdc48c77773b72b71c51164dca419284601afe7f49c520ed61dd) | EQCcJf2KFlH9xIx3dztytxxRFk3KQZKEYBr-f0nFIO1h3dvv
+[Omniston Fee Vault](https://tonviewer.com/0:f0e5e2ebc4b9e4166c3641f49ac8972343890fd8a756e3649cde04a208a85acb) | EQDw5eLrxLnkFmw2QfSayJcjQ4kP2KdW42Sc3gSiCKhay5Jh
 [Omniston DEX Bridge](https://tonviewer.com/0:873dc12df46c54ad0dc824ee9df946047b84375aae5162c1e2106b18a3a237bf) | EQCHPcEt9GxUrQ3IJO6d-UYEe4Q3Wq5RYsHiEGsYo6I3vzEC
 [Omniston DEX Bridge](https://tonviewer.com/0:2aea715c8e8efa6561197c07a3ab9f3d9f498cd3fa75cdcf76ccec16424c9b6c) | EQAq6nFcjo76ZWEZfAejq589n0mM0_p1zc92zOwWQkybbJf3
 [Omniston DEX Bridge](https://tonviewer.com/0:f2b67835de3f05e44ac5e635365f7ab14d8bdd8836db0baa89c6b157a92779e2) | EQDytng13j8F5ErF5jU2X3qxTYvdiDbbC6qJxrFXqSd54mkB
+[Omniston DEX Bridge](https://tonviewer.com/0:651fce7150d484a87867287cee91d5a1fc58f85b19e5a8bba4893de0e6adb068) | EQBlH85xUNSEqHhnKHzukdWh_Fj4WxnlqLukiT3g5q2waOkg
 [Tether USD](https://tonviewer.com/0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe) | EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs
 [Morgenshtern](https://tonviewer.com/0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonviewer.com/0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
