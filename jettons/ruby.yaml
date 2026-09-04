@@ -1,6 +1,8 @@
-name: Ruby
-symbol: RUBY
-address: UQD6r-DqGd6oWpMzFQmkb9ohS8eJzlmb4tR7s7JAy-rUOqAF
+name: "Ruby"
+symbol: "RUBY"
+address: "EQA8H7JJq0o6aJolvOhUnxrtdxvc9mfA5BTTwsWsubXr46_R"
 decimals: 9
-image: https://github.com/Fussymarmot/image-rubyland/raw/refs/heads/main/ruby.png
-description: RubyLand community token
+image: "https://github.com/Fussymarmot/image-rubyland/blob/main/ruby.png?raw=true"
+description: "RubyLand community token"
+social:
+  - "https://t.me/rubyland_fun"
