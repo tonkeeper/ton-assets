@@ -1,0 +1,12 @@
+name: "BULL"
+symbol: "BULL"
+address: "EQAM216saJrl06iMxrCwyDZsAPAeWJF8GdWwD3EWtLit-qS0"
+description: "BULL is the native Jetton of Bull Run, a Telegram-native Web3 game built on The Open Network (TON)."
+image: "https://bullrungame.app/static/bull.jpg"
+social:
+  - "https://x.com/BULLRUNwallst"
+  - "https://t.me/BullRunChanell"
+websites:
+  - "https://bull-run-15q.pages.dev/"
+  - "https://github.com/omdysfii/bull-Run"
+decimals: 9
