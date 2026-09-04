@@ -1,0 +1,13 @@
+name: BURN Token
+description: "Token of Burned Chats — ephemeral E2EE chat on Telegram. Transfers take a 1% on-chain fee: 0.5% burned, 0.3% staking, 0.2% treasury."
+image: "https://burnedchats.net/burn-icon.png"
+address: "EQB_BXje-o9PaFNkeenhq47MTUHXOEXCCqm_WTISgwKk8sPa"
+symbol: BURN
+decimals: 9
+websites:
+  - "https://burnedchats.net"
+  - "https://github.com/Masalytin/BurnedChats"
+social:
+  - "https://t.me/BurnedChatsBot"
+  - "https://t.me/BurnedChats"
+  - "https://x.com/BurnedChats"
