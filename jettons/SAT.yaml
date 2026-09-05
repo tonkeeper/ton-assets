@@ -1,0 +1,10 @@
+name: "SAT Protocol"
+symbol: "SAT"
+address: "EQAm0QqDz6woBJ1dvwF114PHdD6CE3eVMd58INFRKp3n9Ycw"
+description: "SAT Protocol ($SAT) powers secure business negotiations and auctions on the TON network with instant, trustless settlement at jet speed. Built on Jetton standard."
+image: "https://sat.fiveminers.com/tonconnect-icon.png"
+social:
+  - "https://x.com/SATProtocolTon"
+  - "https://t.me/SATCoinNews"
+websites:
+  - "https://sat.fiveminers.com"
