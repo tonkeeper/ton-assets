@@ -1,0 +1,5 @@
+name: VOLTARIS
+description: "VOLTARIS (VLT) on TON. Includes an admin-activated, one-time timed restriction on transfers into the designated DeDust vault wallet, planned for 167 hours and capped at 168 hours per wallet. Admin liquidity deposits are exempt. The restriction expires automatically and cannot be extended or reactivated on that wallet."
+image: "https://raw.githubusercontent.com/younissafa5555-maker/voltaris-assets/main/voltaris-vlt.jpg"
+address: EQCcrcO28PSRvRQIlsHcQaz4dDoUyapydEq8hCQYySlWaXKM
+symbol: VLT
