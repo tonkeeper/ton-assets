@@ -1,0 +1,10 @@
+name: "CATCHAIN"
+symbol: "CATCHAIN"
+address: "EQAOLGOVGr1z7Je3tn-1fKEIXmUYTduh2hnYzxBmhzFqDgIu"
+description: "Straight from Catchain — the consensus layer powering TON. Now powering something even more important: cat memes!"
+image: "https://raw.githubusercontent.com/wa1let/images/refs/heads/main/catchain.png"
+websites:
+  - "https://catchain.fyi/about"
+social:
+  - "https://t.me/CatchainCTO"
+  - "https://x.com/CATCHAIN_CTO"
