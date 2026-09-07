@@ -64,6 +64,20 @@
   ]
  },
  {
+  "address": "0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e",
+  "description": "Straight from Catchain \u2014 the consensus layer powering TON. Now powering something even more important: cat memes!",
+  "image": "https://raw.githubusercontent.com/wa1let/images/refs/heads/main/catchain.png",
+  "name": "CATCHAIN",
+  "social": [
+   "https://t.me/CatchainCTO",
+   "https://x.com/CATCHAIN_CTO"
+  ],
+  "symbol": "CATCHAIN",
+  "websites": [
+   "https://catchain.fyi/about"
+  ]
+ },
+ {
   "address": "0:b0bd52a362f5da34990f08af1cf34081775c73c76af58703a12876c816749a4f",
   "description": "From legendary artist @egorzhgun comes a legendary pack with insane lore Chirp-Chirp(He also made UTYA, Baby Yoda and Virus)",
   "image": "https://iili.io/JgmOO91.md.png",
@@ -16766,11 +16780,6 @@
   "address": "0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41",
   "name": "Big Catch",
   "symbol": "CATCH"
- },
- {
-  "address": "0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e",
-  "name": "Catchain 2.0",
-  "symbol": "CATCHAIN"
  },
  {
   "address": "0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400",
