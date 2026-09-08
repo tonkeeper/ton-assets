@@ -228,12 +228,12 @@
  },
  {
   "address": "0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83",
-  "description": "The coin of the #GRAMSUPERCYCLE. Powers Saturn, the capital house on TON \u2014 membership, launch access and commit capacity are all held in $GSC.",
+  "description": "The reward token of Saturn, the capital house on TON. Farm rewards are paid in GSC, and some launch rounds are gated on holding it. Supply is one billion, fixed; mint authority is renounced.",
   "image": "https://saturn.tg/tokens/gsc.png",
   "name": "Gram super cycle",
   "social": [
    "https://saturn.tg",
-   "https://t.me/hollowjournal"
+   "https://t.me/saturndottg"
   ],
   "symbol": "GSC"
  },
