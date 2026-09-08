@@ -1,4 +1,19 @@
-[
+[  {
+    "address": "0:746de4f14ad99d855ae2e2cf9c625c1825a1bf6624799692ee7c2342d95594c5",
+    "name": "TASTE AI",
+    "symbol": "TAI",
+    "decimals": "9",
+    "description": "Taste AI ($TAI) is a next-generation Web3 payment and AI-powered gastronomy ecosystem built on the TON blockchain.",
+    "image": "https://raw.githubusercontent.com/NIONTOKEN/taste-miniapp/main/public/tai-logo-gold.png",
+    "social": [
+      "https://t.me/TasteAIToken",
+      "https://x.com/AiTaste"
+    ],
+    "websites": [
+      "https://taste-miniapp-xy8k.vercel.app"
+    ]
+  },
+
  {
   "address": "0:d2912bc567894032f42edda72bd27bcaae79d74c31c787940dce32bcfb8dbb08",
   "description": "Six seven, six seven",
