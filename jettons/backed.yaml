@@ -55,6 +55,9 @@
 - address: 0:a067604cb15503f544f5b627824cb36b28fe355e623d94f7b67159bbd065fc16
   name: Assurant xStock
   symbol: AIZx
+- address: 0:ab1b548b31f7f97802c76525a3ce6eb7b140d51ab2d5aae898a8e78acb54c781
+  name: C3.ai xStock
+  symbol: AIx
 - address: 0:6df8acaecf185f95dbe0b210285980ad6819cae358c75dde1d6ef314e36ccc4a
   name: Arthur J. Gallagher xStock
   symbol: AJGx
@@ -205,6 +208,9 @@
 - address: 0:51f71e8dbaa9be3dc3a2d05ea0ba445dad737c877318785785dc79c9a75cf7c4
   name: Becton Dickinson xStock
   symbol: BDXx
+- address: 0:0dde93760c797d8c3c92e24284357a70d693ab6ef91e293d0388fd0625b709a9
+  name: Better Home & Finance xStock
+  symbol: BETRx
 - address: 0:afbadfbc2b0d69dfdd432ce71e0753215cc2c3d555e4e4d5223af033f0cbf2ab
   name: Bloom Energy xStock
   symbol: BEx
@@ -772,6 +778,9 @@
 - address: 0:a2bd1a1c09be035d098713f8485e6688a56d5a17adada5845fa2d6bdb121b3b2
   name: Franklin Senior Loan xStock
   symbol: FLBLx
+- address: 0:f599b21a1617d4dc6bd0ab3f77456a38f11b3faa4d890fdc1cac5eddc5f54cb8
+  name: Fluence Energy xStock
+  symbol: FLNCx
 - address: 0:b3bfd6c1f82511c9920c5599d0341c36d360380b22f6c43277bbe27a0c924738
   name: Franklin U.S. Mid Cap Multi-Factor xStock
   symbol: FLQMx
@@ -979,6 +988,9 @@
 - address: 0:d9ff9b49a31893449c72f4756eaee776913394bea1e8dec6980ecb212950e616
   name: Incyte xStock
   symbol: INCYx
+- address: 0:240300e04fc797d63e693cf6c9c71f638b5ce78123e18a2477af8149736393ba
+  name: Indie Semiconductor xStock
+  symbol: INDIx
 - address: 0:eec3721e70e31159c590043f23d95625f7c769efb357392446687ad4c227c4fa
   name: Insmed xStock
   symbol: INSMx
@@ -1222,6 +1234,9 @@
 - address: 0:f7720420e37d81882491962fa132cc2856ebcd9cee3616e31d73e017a9df3749
   name: Meta xStock
   symbol: METAx
+- address: 0:b20568d30aa3565784236c90bf51b117ff61e73cf3f4d42cb3f754845cb3d8f3
+  name: Ramaco Resources xStock
+  symbol: METCx
 - address: 0:4bcee737450695ab7637cb7ea719877e9d69e90f49d46c033f51f2b08ad7638d
   name: MetLife xStock
   symbol: METx
@@ -1453,6 +1468,9 @@
 - address: 0:68bb32e50048f4037d6c576bed736e77a5f913c8129e84d52ce36734acd14638
   name: PG&E xStock
   symbol: PCGx
+- address: 0:ff8c66b2e12e1078fa271d87f5a7457866c5a81b1b0d95e01a11f1f646d30c0a
+  name: PureCycle Technologies xStock
+  symbol: PCTx
 - address: 0:d234f36ab72afa1c21fb9a0d871d52597aa8e37bebec0010a623fbc5b2b7f88e
   name: Public Service Enterprise xStock
   symbol: PEGx
@@ -1567,6 +1585,9 @@
 - address: 0:58a7aea23aea902cc2ec08ea4416748d50dbca12821ebf19dc08197c8108d7a2
   name: Restaurant Brands International xStock
   symbol: QSRx
+- address: 0:b2d55a6a6ff0971b5c2bc77e014bb321e5860b1f22b6f45ffe15e35f5cf6b2df
+  name: Quantum Computing xStock
+  symbol: QUBTx
 - address: 0:dc45087ca58c495bf92f7c718d3721dc08db646e382d189bd97d459e61e87a7d
   name: uniQure xStock
   symbol: QUREx
@@ -2077,6 +2098,9 @@
 - address: 0:e5e9d8e2c27426aa77d78e4089be16da18b92ee6a89dabfbca96c8c2b549cd31
   name: Wells Fargo xStock
   symbol: WFCx
+- address: 0:a5e88bcdb7b79102544b42520871234686005bbd6a06cdd986d7c8508c270db6
+  name: GeneDx xStock
+  symbol: WGSx
 - address: 0:c8ce1d58f055b91eb81d167f142412ec12ac80341cf8a7267d554c3f66038845
   name: WH xStock
   symbol: WHGROx
@@ -2101,6 +2125,9 @@
 - address: 0:156ebf563df068d1c031016ecc4d0fb0d40cf05def719ce5a4e748e8ccd09d48
   name: The Wharf Holdings xStock
   symbol: WRFHDx
+- address: 0:d6f5357bf119802cbdb278f94e6355f0b9a0dbcc81b1fb51e6a5d8c4630d17af
+  name: World Acceptance xStock
+  symbol: WRLDx
 - address: 0:8a9e1d1450b1f6d313ec89a4ff48c30a29e4310e3c7aac89000d19059b51f438
   name: Williams-Sonoma xStock
   symbol: WSMx
@@ -2122,6 +2149,9 @@
 - address: 0:0b19ea3f1d649989bb3cc1e6e929ea88acb67c3ee65d94a982fbe9315621941b
   name: WuXi XDC Cayman xStock
   symbol: WXXDCx
+- address: 0:3f5c8f2570b8fb940e08bcf7202f0c5a7623d6d719e2a15d8892f83ed22a4788
+  name: Whitefiber xStock
+  symbol: WYFIx
 - address: 0:76655f50d1901fa92fbfe98e5a84ea10d0a661215c6d1715ca544d8f3be39b34
   name: Weyerhaeuser xStock
   symbol: WYx
@@ -2143,6 +2173,9 @@
 - address: 0:06d58a0e4fc340e30176d0974ff2f02ef03502400725bb44f3832e0b16d4f7ee
   name: XPO xStock
   symbol: XPOx
+- address: 0:f2749e5fc0f446eade2e3c9a80c18217c8bda43097ef673ed987c5987cc71b20
+  name: Xerox xStock
+  symbol: XRXx
 - address: 0:08342cafe6cfaf859a67eac5f9cb355d236b471c1c86fdd6c0a5761de38c21a9
   name: Xylem xStock
   symbol: XYLx
