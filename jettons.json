@@ -8235,6 +8235,25 @@
   ]
  },
  {
+  "address": "0:5e51ed65fb6aa4058406c97fe6e95549f516a5c8071d21d9893440d7e4421faf",
+  "decimals": 9,
+  "description": "Utility token for PRISM STAR, an actively operated Telegram Mini App and Web anime card battle game featuring 300+ collectible cards, gacha, progression, equipment, boss battles, seasonal rankings, PRISM RUSH, completed Preseason rewards, live Season 1 competition, and TON-Solana interoperability through the official PRISM/wPRISM bridge.",
+  "image": "https://playprismstar.com/token/logo.png",
+  "name": "Prism Star",
+  "social": [
+   "https://x.com/PlayPrismStar",
+   "https://t.me/PrismStarOfficial",
+   "https://t.me/PrismStarCommunity"
+  ],
+  "symbol": "PRISM",
+  "websites": [
+   "https://playprismstar.com",
+   "https://playprismstar.com/token",
+   "https://playprismstar.com/whitepaper",
+   "https://app.playprismstar.com"
+  ]
+ },
+ {
   "address": "0:7c8a1b8ec165850c1a10e891606472d1072b7b56c843973925a4717934ab3d6b",
   "description": "Prometheus, or Prome, is an adorable animated fish character, conceptualized by the Russian artist Alexander Dolnikov. Prome is consistently one of Telegrams most popular sticker packs, with tens of millions of stickers being sent. The prophecy has been written",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb8ihuowwwfdboq6jfgzhlrbyt7vshdlzklphf5nks9a3qt.png?size=lg&key=5603ef",
