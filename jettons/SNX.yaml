@@ -1,0 +1,6 @@
+name: STONBEX
+description: "STONBEX (SNX) on TON. Includes an admin-activated incoming-transfer restriction, planned for 167 hours on the DeDust vault jetton wallet. The contract caps each wallet restriction at 168 hours, permits only one activation per wallet, and automatically reopens transfers at expiry. Extension and early reopening are not supported. Designated admin liquidity deposits are exempt. Admin targeting is not restricted on-chain to DeDust vaults; metadata remains admin-updatable."
+image: "https://raw.githubusercontent.com/younissafa5555-maker/stonbex-assets/main/stonbex-snx.jpg"
+address: EQBmME_yViOJvB-f8DZtH8REHRllLPJeC2u_OYPGn5Nn__Zp
+symbol: SNX
+decimals: 9
