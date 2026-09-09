@@ -8915,6 +8915,20 @@
   ]
  },
  {
+  "address": "0:d34c41691d959c5193628cca7ac5085ed5a11d372b85c3e5087be0c0af3e7f6f",
+  "decimals": 9,
+  "description": "Utility and reward token on the TON blockchain.",
+  "image": "https://img.stonks.cash/54c467bd-d966-4be8-b32d-41e5d181040d.jpg",
+  "name": "RICHTON",
+  "social": [
+   "https://t.me/richton_bank"
+  ],
+  "symbol": "RTON",
+  "websites": [
+   "https://richtonbank.xyz"
+  ]
+ },
+ {
   "address": "0:b0797499697e64e713ad5cb6c681f17c158e836e0eab3623eb77d7747fffa40d",
   "description": "E/acc token for digital life",
   "name": "RubeTON",
