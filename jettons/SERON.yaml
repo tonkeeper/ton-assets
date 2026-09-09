@@ -2,6 +2,6 @@ name: SERON
 symbol: SERON
 address: EQAlozhNpK1FGhZJQo8cN86WIQ1K_5nzUTIqn3HNTiP4MOI2
 decimals: 9
-description: "SERON is a digital asset on TON with a defined supply of 33,000,000 SERON. Its locked supply follows a predefined 69-year release schedule. Created once. Governed by code. Released through time."
+description: "SERON is a Jetton on TON Mainnet with a defined Genesis supply of 33,000,000 SERON and a predefined 69-period long-term release schedule."
 websites:
   - https://seron.co
