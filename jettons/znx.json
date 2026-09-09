@@ -1,0 +1,14 @@
+{
+  "name": "ZN GoXe",
+  "description": "Official token for ZN GoXe ecosystem",
+  "symbol": "ZNX",
+  "address": "EQCp7mlbe-eR-j6b7opnHBtCbl74gnyYAP2XZISphkERkwdJ",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/ahmedalaa1212/Zn-Goxe/main/logo.png",
+  "social": [
+    "https://t.me/your_telegram_channel"
+  ],
+  "websites": [
+    "https://your-website.com"
+  ]
+}
