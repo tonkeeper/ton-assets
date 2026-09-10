@@ -1,0 +1,8 @@
+name: "GramMiners Nephrite"
+description: "Nephrite mineral token for GramMiners, represented by an olive-green fibrous rough stone."
+image: "https://gramminers-dton.magic.org/assets/jettons/7d0bd711d35e14bd66cf/icons/nephrite.png"
+address: "0:654d48d8ecf6581c855fa0efc2aae6e6d775bb08d6db923f9a5ecc252ed80f86"
+symbol: "GMNP at gramminers.ton"
+decimals: 0
+websites:
+  - "https://gramminers-dton.magic.org"
