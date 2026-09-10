@@ -1,0 +1,8 @@
+name: "GramMiners Garnet"
+description: "Garnet mineral token for GramMiners, represented by dark-red faceted crystals."
+image: "https://gramminers-dton.magic.org/assets/jettons/7d0bd711d35e14bd66cf/icons/garnet.png"
+address: "0:be830adede5234805240d9db1ba7361af4ba881e14f74d6dcf422a6fe220420a"
+symbol: "GMGN at gramminers.ton"
+decimals: 0
+websites:
+  - "https://gramminers-dton.magic.org"

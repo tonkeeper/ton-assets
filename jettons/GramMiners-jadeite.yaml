@@ -1,0 +1,8 @@
+name: "GramMiners Jadeite"
+description: "Jadeite mineral token for GramMiners, represented by a pale mint mottled stone."
+image: "https://gramminers-dton.magic.org/assets/jettons/7d0bd711d35e14bd66cf/icons/jadeite.png"
+address: "0:277539c0d353dc7d904aeb25eff9aad2f9ba4d1861d6eddce8fb2819e4f97d19"
+symbol: "GMJD at gramminers.ton"
+decimals: 0
+websites:
+  - "https://gramminers-dton.magic.org"

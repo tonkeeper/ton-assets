@@ -1,0 +1,8 @@
+name: "GramMiners Cyan"
+description: "Cyan mineral token for GramMiners, represented by elongated blue crystals."
+image: "https://gramminers-dton.magic.org/assets/jettons/7d0bd711d35e14bd66cf/icons/cyan.png"
+address: "0:ed9f44a932e104c0bbb8b297819de9f1f210b76b90b2c77e03c902096a0d9614"
+symbol: "GMCY at gramminers.ton"
+decimals: 0
+websites:
+  - "https://gramminers-dton.magic.org"
