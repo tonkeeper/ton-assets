@@ -11987,6 +11987,19 @@
   "symbol": "YOLKY"
  },
  {
+  "address": "0:3a57058743ad1ec66be42e78d82e0cb94247b85f494acf99f9d7a2672fcc8b12",
+  "description": "The token of the Yolky product suite on Telegram and TON. Product revenue goes to the treasury, which buys YOLKY back on the open market.",
+  "image": "https://yolkytheegg.com/assets/img/logo-yolky-round.png",
+  "name": "YOLKY the EGG",
+  "social": [
+   "https://t.me/yolkytheegg"
+  ],
+  "symbol": "YOLKY",
+  "websites": [
+   "https://yolkytheegg.com"
+  ]
+ },
+ {
   "address": "0:5517bb71bff03e540667a23af17d4ab8170c666fa132112a41ecc89a088e0f7c",
   "description": "Youllonx! The token of blogger Sergey Poddubny. Follow the news on the TG channel and find out what will happen next.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbvf7txv_a-vaznojrxfuq4fwxmb6eyespb7miaci4pffpr.png",
@@ -19183,11 +19196,6 @@
   "address": "0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72",
   "name": "Meme Inc",
   "symbol": "YOBA"
- },
- {
-  "address": "0:3a57058743ad1ec66be42e78d82e0cb94247b85f494acf99f9d7a2672fcc8b12",
-  "name": "YOLKY the EGG",
-  "symbol": "YOLKY"
  },
  {
   "address": "0:a7658ce69ae845b6d34492b51937d3621e1b2a6c1208c72633856d6c255b1901",
