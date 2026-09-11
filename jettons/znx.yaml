@@ -1,0 +1,10 @@
+name: ZN GoXe
+symbol: ZNX
+decimals: 9
+description: "Official utility token for ZN Goxe app"
+address: EQCp7mlbe-eR-j6b7opnHBtCbl74gnyYAP2XZISphERkwd
+image: "https://raw.githubusercontent.com/ahmedalaa1212/Zn-Goxe/main/znx_logo.png"
+social:
+  - "https://t.me/zngoxe"
+websites:
+  - "https://t.me/zngoxe_bot/Zngoxe"
