@@ -1,6 +1,6 @@
-name: SINAPS
-symbol: SNP
 address: EQAma5v-Vqz0FhtybfYAlMQtsonNvhiczCKqIw6B7wIVg_EU
-decimals: 9
-image: https://raw.githubusercontent.com/sadeghi1315/sinaps-tap-to-earn/main/logo.png
-description: SINAPS community token on TON
+symbol: SNP
+websites:
+  - "https://sadeghi1315.github.io/sinaps-tap-to-earn/"
+social:
+  - "https://t.me/SNPCOINBot"
