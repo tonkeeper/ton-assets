@@ -1,0 +1,11 @@
+name: "ConfaHub Coin"
+description: "Официальный токен экосистемы ConfaHub"
+image: "https://confahub.com/static/branding/confahub-egid-token.png"
+address: "EQB9IJbQ2LBEHHHxXJeTvlDzFLxozpKgOsXX5YkxNmwwITwW"
+symbol: "CHC"
+websites:
+  - "https://confahub.com"
+social:
+  - "https://t.me/confahub"
+  - "https://x.com/confahub"
+  - "https://discord.gg/confahub"
