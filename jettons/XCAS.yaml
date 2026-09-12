@@ -1,0 +1,10 @@
+name: "Caspian Digital Asset"
+symbol: "XCAS"
+address: "EQDaecw1w02sj_mrD7D34h1fjcHGY5D6GVnDn9kSMeQbuS_h"
+description: "XCAS combines a gamified airdrop, fair distribution guardrails and a deflationary burn mechanism natively on TON."
+image: "https://raw.githubusercontent.com/CaspianDigitalAsset/Caspian-Digital-Asset-XCAS-/refs/heads/main/xcas256.png"
+social:
+  - "https://x.com/XCAS_token_TON"
+  - "https://t.me/xcaschannel"
+websites:
+  - "https://xcas-site.beytoladl.workers.dev"
