@@ -1,0 +1,9 @@
+address: "EQDaecw1w02sj_mrD7D34h1fjcHGY5D6GVnDn9kSMeQbuS_h"
+name: "Caspian Digital Asset"
+symbol: "XCAS"
+decimals: 9
+description: "Caspian Digital Asset official jetton token on the TON blockchain."
+social:
+  - "https://t.me/xcaschannel"
+websites:
+  - "https://xcas-site.beytoladl.workers.dev/"
