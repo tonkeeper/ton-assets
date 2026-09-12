@@ -1,0 +1,6 @@
+name: VULMO
+description: "VULMO (VLO) on TON. Includes an admin-activated incoming-transfer restriction, planned for 167 hours on the DeDust vault jetton wallet, preventing sells through that vault while active. The contract caps each wallet restriction at 168 hours, permits only one activation per wallet, and automatically reopens transfers at expiry. Extension and early reopening are not supported. Designated admin liquidity deposits are exempt. Admin targeting is not restricted on-chain to DeDust vaults; metadata remains admin-updatable. This restriction does not lock LP tokens."
+image: "https://raw.githubusercontent.com/younissafa5555-maker/vulmo-assets/main/vulmo-vlo.jpg"
+address: EQDQd8MFPbNGzL1mtgS88P19-36o0-KiQhzWMOzoB061JPg6
+symbol: VLO
+decimals: 9
