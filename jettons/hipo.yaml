@@ -1,9 +1,9 @@
 - address: 0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc
   name: Hipo Governance Token
   symbol: HPO
-  image: https://hpo.hipo.finance/hpo.png
+  image: https://hipo.finance/hpo.svg
   websites:
-    - https://hpo.hipo.finance
+    - https://hipo.finance/hpo
   social:
     - https://t.me/HipoFinance
     - https://x.com/hipofinance
@@ -11,12 +11,12 @@
     - https://medium.com/@hipofinance
 
 - address: 0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87
-  name: Hipo Staked TON
-  symbol: hTON
-  description: Hipo liquid staking protocol
-  image: https://app.hipo.finance/hton.png
+  name: Hipo Staked GRAM
+  symbol: hGRAM
+  description: Hipo liquid staked GRAM
+  image: https://hipo.finance/hgram.svg
   websites:
-    - https://app.hipo.finance
+    - https://hipo.finance
   social:
     - https://t.me/HipoFinance
     - https://x.com/hipofinance

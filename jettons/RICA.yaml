@@ -1,0 +1,9 @@
+name: Rica on Ton
+description: Community-supported TON token inspired by the Rica the Pirate Telegram sticker character.
+image: https://raw.githubusercontent.com/RafaelGomez2099/rica-assets/main/rica.png
+address: EQBTZvXXSb8JJydzHs349iAbtPORZvyIqvyesCsOQ7rYmg_n
+symbol: RICA
+decimals: 9 
+social:
+  - https://t.me/rica_the_pirate_cto
+  - https://x.com/RicaThePirate

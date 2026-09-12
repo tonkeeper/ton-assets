@@ -1,0 +1,16 @@
+name: Net Donat Token
+symbol: NDT
+address: EQCzoeTKqsyIfrJKKEAFZXzzFo_A6xk6D5aJpb5WNGC1uupR
+decimals: 9
+
+description: Net Donat Token (NDT) is a utility jetton in the TON ecosystem used in the HOLD X Assistant bonus program and Telegram-based mechanics. The token is used for participation, rewards, and ecosystem interactions.
+
+image: https://coinhubdyor.org/ref/ndtbot.png
+
+websites:
+  - https://coinhubdyor.org
+
+social:
+  - https://t.me/ndthodl_bot
+  - https://t.me/holdxndt
+  - https://t.me/holdxsupport

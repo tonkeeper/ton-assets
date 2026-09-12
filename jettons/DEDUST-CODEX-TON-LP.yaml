@@ -1,0 +1,17 @@
+address: "0:ff67ee2a9b982222070213309f8a8d6aeac8f3cf088cb265087e31a5bb919676"
+name: "DeDust Pool: CODEX/TON LP"
+symbol: "CODEX/TON LP"
+decimals: 9
+image: "https://cdn.codex.pm/images/wallets/dedust-lp-codex-ton.png"
+description: "Liquidity pool token for TON and CODEX ARCANUM on DeDust DEX"
+
+websites:
+  - "https://dedust.io/pools/EQD_Z-4qm5giIgcCEzCfio1q6sjzzwiMsmUIfjGlu5GWdpg7"
+  - "https://codex.pm"
+
+social:
+  - "https://twitter.com/codexarcanum"
+  - "https://t.me/CodexSouL"
+  - "https://t.me/CodexPulse"
+  - "https://t.me/CodexGateBot"
+  - "https://t.me/CodexGateBot/codexArcanum"

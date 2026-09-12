@@ -1,0 +1,12 @@
+name: ORCA
+symbol: $ORCA
+description: "ORCA is a utility token powering the OrcaMining Telegram Mini App and its community ecosystem. ORCA is live on TON and available for trading with active liquidity on STON.fi."
+image: "https://orcamining-two.vercel.app/orca-token-logo.png"
+address: EQCbc8lFM4rm1uVM1uCsToGTEeBV7Zafyr5YfrxAVA2n-Ofo
+websites:
+  - "https://orcamining-two.vercel.app/"
+social:
+  - "https://t.me/OrcaMineBot"
+  - "https://t.me/OrcaMine"
+  - "https://t.me/OrcaMineChat"
+  - "https://t.me/OrcaMineSupport"

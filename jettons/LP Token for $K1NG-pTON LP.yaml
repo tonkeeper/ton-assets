@@ -1,0 +1,9 @@
+name: LP Token for K1NG-pTON
+symbol: "K1NG-pTON LP"
+description: "Liquidity pool token for K1NG COIN and Proxy TON on STON.fi DEX"
+address: 0:bc7c87b71f5e8197c48b16bc23b75e06a83905160fbac28810293fc629558ae7
+image: "https://meta.ston.fi/lp/v1/img/0:bc7c87b71f5e8197c48b16bc23b75e06a83905160fbac28810293fc629558ae7.png"
+websites:
+  - "https://k1ngton.pro"
+social:
+  - "https://t.me/K1NG_TON_NEWS"

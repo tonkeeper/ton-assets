@@ -1,0 +1,10 @@
+name: Electronic Coin Unit
+symbol: ECU
+address: EQAlFh-_a1UbCPz119-FzTTLw0RQvaDTCBU4sCafh_n64SYo
+decimals: 9
+description: "Utility token used for operations within the ECU Protocol smart contracts on the TON network."
+image: "https://ecu-1.github.io/website/logo400.png"
+websites:
+  - "https://ecu-token-info.vercel.app/"
+social:
+  - "https://t.me/ecuton"

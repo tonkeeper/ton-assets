@@ -4,7 +4,7 @@ import json
 import yaml
 import glob
 
-from dexes import __get_stonfi_assets, __get_megaton_assets, __get_dedust_assets
+from dexes import __get_stonfi_assets, __get_dedust_assets, __get_backed_assets, update_stonfi_routers
 from utlis import normalize_address
 
 EXPLORER_JETTONS = "https://tonviewer.com/"
@@ -12,6 +12,7 @@ EXPLORER_ACCOUNTS = "https://tonviewer.com/"
 EXPLORER_COLLECTIONS = "https://tonviewer.com/"
 
 DEXES_FILE_NAME = "imported_from_dex.yaml"
+BACKED_FILE_NAME = "backed.yaml"
 
 
 def collect_all_dexes():
@@ -44,6 +45,22 @@ def collect_all_dexes():
         }
 
     with open(f"jettons/{DEXES_FILE_NAME}", "w") as yaml_file:
+        yaml.dump(list(sorted(assets_for_save.values(), key=lambda x: x['symbol'])), yaml_file, default_flow_style=False)
+
+def collect_all_backed():
+    assets = __get_backed_assets()
+    if len(assets) == 0:
+        return
+    assets_for_save = dict()
+    for idx, asset in enumerate(assets):
+        asset.address = normalize_address(asset.address, True)
+        assets_for_save[asset.address] = {
+            'name': asset.name,
+            'address': asset.address,
+            'symbol': asset.symbol
+        }
+
+    with open(f"jettons/{BACKED_FILE_NAME}", "w") as yaml_file:
         yaml.dump(list(sorted(assets_for_save.values(), key=lambda x: x['symbol'])), yaml_file, default_flow_style=False)
 
 ALLOWED_KEYS =  {'symbol', 'name', 'address', 'description', 'image', 'social', 'websites', 'decimals', 'coinmarketcap', 'coingecko'}
@@ -98,7 +115,7 @@ def merge_accounts(accounts):
         accounts.extend(yaml.safe_load(open(file)))
 
     files = ('accounts/givers.yaml', 'accounts/custodians.yaml', 'accounts/bridges.yaml', 'accounts/validators.yaml',
-             'accounts/scammers.yaml', 'accounts/notcoin.yaml', 'accounts/dapps.yaml')
+             'accounts/scammers.yaml', 'accounts/notcoin.yaml', 'accounts/dapps.yaml', 'accounts/ston.yaml')
     for file in files:
         accounts.extend(yaml.safe_load(open(file)))
 
@@ -132,7 +149,9 @@ def merge_collections():
 def main():
     if len([x for x in glob.glob("*.yaml")]) > 0:
         raise Exception("please don't add yaml files to root directory. use jettons/ or collections/")
+    update_stonfi_routers()
     collect_all_dexes()
+    collect_all_backed()
     jettons = merge_jettons()
     collections = merge_collections()
     # accounts = merge_accounts([{'name': x[0] + " master", 'address': x[1]} for x in jettons])
