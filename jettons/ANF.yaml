@@ -1,0 +1,11 @@
+name: ANF Protocol
+symbol: ANF
+address: EQD46V4cd8dVfTOS3AZluzieqLaEn4-1BBnFHsL1L0LvazOb
+decimals: 9
+description: "ANF Protocol - Non-Custodial Hold-to-Mine and Reactor Staking Ecosystem on TON Blockchain."
+image: "https://anf.quest/anf-logo.jpg"
+social:
+  - "https://t.me/ANFProtocol"
+  - "https://t.me/ANFProtocol_bot"
+websites:
+  - "https://anf.quest"
