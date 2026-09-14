@@ -12191,6 +12191,23 @@
   ]
  },
  {
+  "address": "0:a1ea8ea5e37eb074bafb91b479b8147b79750654dd02089f0c1123201731a8e4",
+  "decimals": 9,
+  "description": "Zoom is a web3 project featuring 3D voxel mechanics, marketplaces, and daily user challenges.",
+  "image": "https://i.postimg.cc/Pf1Cywt4/Whats-App-Image-2026-08-20-at-02-14-01.jpg",
+  "name": "Zoom",
+  "social": [
+   "https://t.me/zoomverse_0",
+   "https://t.me/ZoomVerse_bot",
+   "https://x.com/zoomversebot",
+   "https://discord.gg/uWZktCtD6Z",
+   "https://youtube.com/@zoomverseworld",
+   "https://www.instagram.com/zoomverse0100",
+   "https://www.tiktok.com/@zoom01002"
+  ],
+  "symbol": "ZMC"
+ },
+ {
   "address": "0:be840c26495809ee20d43dcd38e450771c84ac3e369545e6a413f380ed8c4f9e",
   "description": "Zoich blue like TON from Egor Zhgun",
   "image": "https://i.ibb.co/fVKL2jH2/ZOICH.jpg",
