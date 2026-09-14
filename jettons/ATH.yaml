@@ -1,0 +1,11 @@
+name: PLATHO
+symbol: "ATH"
+description: "The utility token of Platho — a fully decentralized, post-quantum encrypted messenger that lives entirely on the TON blockchain (no backend, no servers, your keys). Earn ATH as an activity bonus for using the app, and spend it to reduce messaging fees, mint .ath usernames, and attach avatars — all on-chain."
+address: EQCThzitzPXm2dH9psaVkZlkAcHqzCJjcBpD29b5closNeq-
+decimals: 9
+image: "https://i.postimg.cc/NMsNyCwb/jetton.webp"
+websites:
+  - "https://platho.app/"
+  - "https://getgems.io/platho"
+social:
+  - "https://t.me/plathoapp"

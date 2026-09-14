@@ -1,0 +1,14 @@
+name: mAInetV2
+symbol: DATA
+decimals: 9
+address: EQBTeKZr8o4ez75KfWjSy4ar6P1waxWTLm8krGhRWNGdata-
+description: DATA is the utility token of mAInetV2, powering rewards, staking, and ecosystem participation.
+
+image: "https://web2.mainet.io/token/logo.png"
+
+websites:
+  - "https://t.me/mainet2_bot"
+
+social:
+  - "https://t.me/mainet_io"
+  - "https://x.com/mainet_io"

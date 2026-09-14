@@ -121,6 +121,19 @@
   "name": "StickerBox Golden Sunrise"
  },
  {
+  "address": "0:ae18071a98057202c5258faa02575296b02bffef7e99c501a489d542a6fd4122",
+  "description": "The official kitty collection for the GRAM community. Born from memes, powered by Telegram culture, and raised on TON. Built by Grambo.fun for holders, builders, and believers of the GRAM ecosystem.",
+  "image": "https://assets.grambo.fun/kitty/collection.gif",
+  "name": "Gram Kitty",
+  "social": [
+   "https://x.com/grambofun",
+   "https://t.me/grambofun"
+  ],
+  "websites": [
+   "https://grambo.fun/"
+  ]
+ },
+ {
   "address": "0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd",
   "name": "Hidden Dragon"
  },
@@ -157,6 +170,19 @@
  {
   "address": "0:07ab0a0c75927f6bca843e49e638401e235b5410eac4ef753970b422bc9efba3",
   "name": "StickerBox Sleeping Giant"
+ },
+ {
+  "address": "0:9bfd0f65e9624c0043c80e3677a71329d0f515f6f40bcef171552e796770134d",
+  "description": "Planets from Stellarium, a Telegram Mini App game. Each NFT is a planet a player owns and plays with in the game \u2014 it has rarity, genes, a level and a production rate, and it keeps developing after it is minted or bought.",
+  "image": "https://s.getgems.io/nft/b/c/6a72eff8759f2ee050935d1d/edit/images/1953238.jpg",
+  "name": "Stellarium Worlds",
+  "social": [
+   "https://t.me/Timegalaxy_bot",
+   "https://t.me/time_meme_chat"
+  ],
+  "websites": [
+   "https://memetimeton.fun/"
+  ]
  },
  {
   "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",

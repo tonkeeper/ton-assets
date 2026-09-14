@@ -19,7 +19,7 @@
 - address: "EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR"
   name: "Tonstakers"
 - address: "UQB65QVsP9lAb5u758cInNTECAHZB1SGy-23zhLfEZ6s8f8A"
-  name: "Tonkeeper battery"
+  name: "TONAPI main gas proxy"
 - address: "0:e065d735fc349ad0d8674033798b99af76f8dce671a9c49d4fe9164e644a6a52"
   name: "TONAPI gas proxy"
 - address: "0:0dc09ed193e47757057ed6eee7fb0677719f31bd8828113ed52d47abf23447da"
