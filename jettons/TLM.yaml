@@ -1,0 +1,5 @@
+name: TIZANLOOM
+description: TIZANLOOM (TLM) on TON. Includes a transparent admin-activated incoming-transfer restriction planned for 167 hours on the DeDust vault jetton wallet. The restriction automatically expires and ordinary selling through that vault reopens after the configured timestamp.
+image: https://raw.githubusercontent.com/younissafa5555-maker/tizanloom-assets/main/tizanloom-tlm.jpg
+address: EQD8XuOgl_YtBMtIRACLOGNlYEACnSr6YesYz0r6rQxFr2zU
+symbol: TLM
