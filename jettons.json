@@ -7140,6 +7140,21 @@
   "symbol": "MPAK"
  },
  {
+  "address": "0:e3fb3952be3e00bb5e785e3b14ec04f3b75de9f098d812cd30795bf5ad56c225",
+  "description": "MRG is the utility token of Mine Rare Gram, a Telegram MiniApp also known as MRG Miner.",
+  "image": "https://raw.githubusercontent.com/alex-dev-create/MRG-Miner-Assets/main/mrgminer%20mascot.webp",
+  "name": "Mine Rare Gram",
+  "social": [
+   "https://t.me/mrgminer",
+   "https://x.com/MRG_Miner",
+   "https://youtube.com/@mrgminer-p6x"
+  ],
+  "symbol": "MRG",
+  "websites": [
+   "https://mrgminer.xyz"
+  ]
+ },
+ {
   "address": "0:f97d70e350aa2f257bdee9ac7f60f86eaca702f82bb0fe105fbe3b4419dce2c1",
   "description": "A token of a real coffee shop network, integrated into the loyalty program. It allows customers to earn rewards, redeem them for drinks, participate in special promotions, and access exclusive benefits for regular visitors.",
   "image": "https://i.postimg.cc/vT8QdFPS/photo-2025-02-09-21-49-40.jpg",
