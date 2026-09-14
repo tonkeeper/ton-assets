@@ -723,6 +723,21 @@
   ]
  },
  {
+  "address": "0:f8e95e1c77c7557d3392dc0665bb389ea8b6849f8fb50419c51ec2f52f42ef6b",
+  "decimals": 9,
+  "description": "ANF Protocol - Non-Custodial Hold-to-Mine and Reactor Staking Ecosystem on TON Blockchain.",
+  "image": "https://anf.quest/anf-logo.jpg",
+  "name": "ANF Protocol",
+  "social": [
+   "https://t.me/ANFProtocol",
+   "https://t.me/ANFProtocol_bot"
+  ],
+  "symbol": "ANF",
+  "websites": [
+   "https://anf.quest"
+  ]
+ },
+ {
   "address": "0:bc236959c32064b29c82a5e745927fdc1a69be575130f09e9d0dff8e9d5bfffc",
   "description": "ANON XP are non-transferable and non-tradable tokens that reflect in the TON blockchain the wallet holder's activity in ANON events and participation in the mission to Planet 8 as part of ANON Space.",
   "image": "https://storage.anon.tg/anonxp/anonxp_logo.png",
