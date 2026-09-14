@@ -1,0 +1,6 @@
+name: LYNEXM
+description: "LYNEXM (LNM) on TON. Includes an admin-activated incoming-transfer restriction, planned for 167 hours on the DeDust vault jetton wallet, preventing ordinary sells through that vault while active. Each wallet restriction is capped on-chain at 168 hours, can be activated only once, and automatically expires. Extension and early reopening are not supported. Transfers from the designated admin liquidity manager carrying the DeDust liquidity-deposit opcode are exempt; the wallet does not verify successful liquidity provision. Admin targeting is not restricted on-chain to official DeDust vaults. Metadata remains admin-updatable. This restriction does not lock LP tokens."
+image: "https://raw.githubusercontent.com/younissafa5555-maker/lynexm-assets/main/lynexm-lnm.jpg"
+address: EQDWb_Vv2ECCCiD8OYmGz5gKrq1Rv9n2fafRJkwtiKlFuQ9j
+symbol: LNM
+decimals: 9
