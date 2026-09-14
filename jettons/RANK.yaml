@@ -1,0 +1,12 @@
+name: ONRANK
+description: $RANK powers ONRANK. Depositing 1,000,000 RANK burns the tokens to mint a Rank NFT that receives an equal share of every tokenized-stock purchase made by the Vault. Trading fees reward holders in USDT and fund the Vault, protocol, and buybacks.
+address: EQCEx3VtS75ERj4dkfsWQfO-l-hT_XCGVbfg3ZsPcGtbktTn
+symbol: RANK
+decimals: 9
+image: "https://onrank.lol/meta/coins/40caf6bd53e24963090ca201481e82ef07809bc68f5f7b17e91b4ca1b94e634d.png"
+websites:
+  - "https://onrank.lol"
+  - "https://onrank.lol/docs"
+social:
+  - "https://t.me/OnRankBot"
+  - "https://t.me/onrankchat"
