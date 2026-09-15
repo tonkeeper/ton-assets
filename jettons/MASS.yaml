@@ -1,0 +1,10 @@
+name: "MASS"
+description: "MASS ($MASS) — Gravitational hold-to-earn token on TON. The more Mass you hold, the stronger your mining pull."
+address: "0:17c1caffa64a65ee004a2478a375dbbaa7aee5131f7f6866b2dbdfd50d4b4514"
+symbol: "MASS"
+decimals: 9
+image: "https://raw.githubusercontent.com/sonahalf0-tech/mass-token/main/mass_logo.jpg"
+social:
+  - "https://t.me/Mass_TonBot"
+websites:
+  - "https://t.me/Mass_TonBot"
