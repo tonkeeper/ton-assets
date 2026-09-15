@@ -14656,6 +14656,11 @@
   "symbol": "LSCCx"
  },
  {
+  "address": "0:afaea3fe0e318ed94b04d782e639be5b657d811a9e16caa0396a80ea2fdba22f",
+  "name": "lululemon xStock",
+  "symbol": "LULUx"
+ },
+ {
   "address": "0:fcdb09ed90d47d3377b623f46f7b11027759f4f8338fb6dbf3edde0c286cc4c0",
   "name": "Southwest Airlines xStock",
   "symbol": "LUVx"
@@ -15641,6 +15646,11 @@
   "symbol": "SHEINx"
  },
  {
+  "address": "0:399a194796d59860d5317b41aea5b0f3a91f144761a57a6fb5efde98625d9116",
+  "name": "Shell xStock",
+  "symbol": "SHELx"
+ },
+ {
   "address": "0:68f2d88001b1ab8646035352e798508359be9c46e5e72a81c391010fcc2c3726",
   "name": "Sherwin-Williams xStock",
   "symbol": "SHWx"
@@ -15899,6 +15909,11 @@
   "address": "0:d63ba2d23e9747dac33b4478e0f8a4452ef61d147808e86e3df210c75ca5ed99",
   "name": "Atlassian xStock",
   "symbol": "TEAMx"
+ },
+ {
+  "address": "0:d23a37e232ba6615f05bbe6bb95a3718d8b1a9a453d0e09a2ba7a045e5539347",
+  "name": "Telefonica xStock",
+  "symbol": "TEFx"
  },
  {
   "address": "0:47f90edf37054db09f865095466839aafa9a3fbdff12b3f2f1318e8fa8e22256",
@@ -16216,9 +16231,19 @@
   "symbol": "VNOMx"
  },
  {
+  "address": "0:2b3f8b551ac6ec7d4a9ba413818a45590bb6c06959725ecbe32230a8db678207",
+  "name": "Vodafone xStock",
+  "symbol": "VODx"
+ },
+ {
   "address": "0:581eb847809bbb7c15723d73ce872262fe89908743071098304561ba7736a5a4",
   "name": "Vanguard S&P 500 xStock",
   "symbol": "VOOx"
+ },
+ {
+  "address": "0:62f5facf8a10359c65112d993ac92a0b6652b0774ade057118809e254157928e",
+  "name": "Volkswagen xStock",
+  "symbol": "VOW3x"
  },
  {
   "address": "0:9356aa2d335cc2852eaf7b82fec50139809b60e5656a100a37eb58044a52cdf1",
