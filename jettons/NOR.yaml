@@ -1,0 +1,5 @@
+name: NYXOR
+description: NYXOR (NOR) on TON. Includes a transparent admin-activated incoming-transfer restriction planned for 167 hours on the DeDust vault jetton wallet. The restriction automatically expires and ordinary selling through that vault reopens after the configured timestamp.
+image: https://raw.githubusercontent.com/younissafa5555-maker/nyxor-assets/main/nyxor-nor.jpg
+address: EQA87oCotM9X4DxBQ34QMlwFQwVIhsX8hDrr3y8vXKQHKlbN
+symbol: NOR
