@@ -121,9 +121,6 @@
 - address: 0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d
   name: HAMSTERBATYA
   symbol: BATYA
-- address: 0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc
-  name: Baby Lady
-  symbol: BBLady
 - address: 0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620
   name: Baby Notcoin
   symbol: BBNOT
@@ -238,9 +235,6 @@
 - address: 0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41
   name: Big Catch
   symbol: CATCH
-- address: 0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e
-  name: Catchain 2.0
-  symbol: CATCHAIN
 - address: 0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400
   name: Catizen
   symbol: CATI
@@ -252,9 +246,6 @@
   symbol: CAVI
 - address: 0:697c3e6ae1a1601d4d7b2af34f37f3f440ecb8d4c3888f64f0197d1b6c0cf8e0
   name: Communist Cat
-  symbol: CCAT
-- address: 0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884
-  name: Clown cat coin
   symbol: CCAT
 - address: 0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad
   name: swap.coffee
@@ -376,6 +367,9 @@
 - address: 0:f113c0b8f91e77a25e089ec8f255e7667c8f71305ea5a49928da9f743c047453
   name: DICKSHOTI
   symbol: DICKSHOTI
+- address: 0:264d47223f291a370e5b67d0e5617ce907dbc58d464e779adefd38821db6989b
+  name: Diggy
+  symbol: DIGGY
 - address: 0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3
   name: DINJA
   symbol: DINJA
@@ -580,9 +574,6 @@
 - address: 0:3aa19a9f9e0a636d79fb4897418c8604a0ec6dfcdbac3f850b602540b90c86eb
   name: GRAMX6900
   symbol: GRX6900
-- address: 0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83
-  name: Gram super cycle
-  symbol: GSC
 - address: 0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2
   name: Gold Standard
   symbol: GSTD
@@ -1481,6 +1472,9 @@
 - address: 0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55
   name: Twister The Dog
   symbol: TWIDO
+- address: 0:27990dea2b2783da432d958f072a5f7334d35b877b9a0f24a23fabab7d573201
+  name: Tower game token
+  symbol: TWR
 - address: 0:745384c7ebd0810fa01e3bfc8714c5bebbdd14987ffae46c3902465b96ddc63b
   name: Tvorog
   symbol: TYS
@@ -1625,18 +1619,12 @@
 - address: 0:157c463688a4a91245218052c5580807792cf6347d9757e32f0ee88a179a6549
   name: xRocket Token
   symbol: XROCK
-- address: 0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee
-  name: YAYA
-  symbol: YAYA
 - address: 0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26
   name: Yoken
   symbol: YO
 - address: 0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72
   name: Meme Inc
   symbol: YOBA
-- address: 0:3a57058743ad1ec66be42e78d82e0cb94247b85f494acf99f9d7a2672fcc8b12
-  name: YOLKY the EGG
-  symbol: YOLKY
 - address: 0:a7658ce69ae845b6d34492b51937d3621e1b2a6c1208c72633856d6c255b1901
   name: The Reversed Livaz
   symbol: ZAVIL

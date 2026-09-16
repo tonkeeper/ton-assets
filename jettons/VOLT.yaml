@@ -1,0 +1,10 @@
+name: Volt Token
+symbol: VOLT
+address: EQAfrRL9Zsaf5j1Aq4InnX4Nuu_GR7e7azUdwLv3A8N3Y2zm
+decimals: 9
+description: "VOLT Token - Continuous Level-Based Hold-to-Mine Ecosystem on TON Blockchain."
+image: "https://volt.crowntasks.xyz/volt-logo.jpg"
+social:
+  - "https://t.me/VoltToken_bot"
+websites:
+  - "https://volt.crowntasks.xyz"
