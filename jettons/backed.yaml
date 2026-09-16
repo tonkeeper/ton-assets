@@ -1,3 +1,6 @@
+- address: 0:a25c85d74a79f7ddf56ce70cf6171bb9ef045931536f6fbbfc004e465a7ce4a3
+  name: Airtel Africa xStock
+  symbol: AAFx
 - address: 0:cac8961e199b72798b19edda740ed4bf640780ff2ddd32d3f03defb4dbc77caa
   name: Applied Optoelectronics xStock
   symbol: AAOIx
@@ -10,6 +13,12 @@
 - address: 0:6505b63301e708fd20d2c4babbec89f3e246c77cae5a740b7f6d6e12adaca469
   name: AbbVie xStock
   symbol: ABBVx
+- address: 0:ee985d2391d345a7579ad02acd4ceccda8a80fe707b19b4c81d1f677efa6fb5d
+  name: Aberdeen xStock
+  symbol: ABDNx
+- address: 0:81cc548838c0cb708da357c064e49dbad2024c8bbbb35869db6456aa8d925c93
+  name: Associated British Foods xStock
+  symbol: ABFx
 - address: 0:1571882c6db1858469feac65005424a1254701cb4fea4aeeb6944808aab1932f
   name: Airbnb xStock
   symbol: ABNBx
@@ -139,6 +148,9 @@
 - address: 0:31d51b6ac811294c850311aa50a5dd292ccf637da9438abc57b69717f615f414
   name: ANTA Sports Products xStock
   symbol: ANTASx
+- address: 0:a7027bdb39d0161db63fd30aca9e4715f3275e105b0d0e18a218e171d865ee51
+  name: Antofagasta xStock
+  symbol: ANTOx
 - address: 0:5b6f05a80e5fa8c58b7bd92ff6a2de581b3289ca03c70cc8231160bada89435c
   name: APA xStock
   symbol: APAx
@@ -199,6 +211,12 @@
 - address: 0:516e6119bc3a52b93007baabf6b3dcb7593c0fc115bf363d2d7c7d5673ccc774
   name: Aurora Innovation xStock
   symbol: AURx
+- address: 0:3725cd00532af1b657d9266f9aa7239940421a73cf5c91cf535ebd3138338c9b
+  name: Auto Trader xStock
+  symbol: AUTO.GBx
+- address: 0:704ad267c304b654d0a4af10fa292b1a6993757cbd5b9958bd2d3aea96fb9528
+  name: Aviva xStock
+  symbol: AV.GBx
 - address: 0:ece24ecf4801f79ee5f0ddb5cf119eda15ab5c7a390aadffcc8b80afdfec8b02
   name: Broadcom xStock
   symbol: AVGOx
@@ -226,6 +244,12 @@
 - address: 0:23238f913d8f4cb18a3409800cd4441f33cc1f44e2b16fed60ae1f2cf4682f0c
   name: Agilent Technologies xStock
   symbol: Ax
+- address: 0:ebcf83db598739cfa8758dad273d4fc563b5f4b4c2c54d495ace5574bf2b7285
+  name: BAE Systems xStock
+  symbol: BA.GBx
+- address: 0:05a620a802fe8f0a49e401b33c124b772bf0ee9df6638d3541845f77c9d3aa3d
+  name: Babcock International xStock
+  symbol: BAB.GBx
 - address: 0:252fb7ceca48af90479f6e5701ddb92a9f81ccc0ff2340d0cd573a3df9190a64
   name: Bank of America xStock
   symbol: BACx
@@ -238,6 +262,12 @@
 - address: 0:53d986a7c35b974404f232261ceb315fd8e78d6e1967930174f90512dd17ec35
   name: Bank Of China xStock
   symbol: BANKCx
+- address: 0:1e644f4c046973bb3643193db8623f9176cd0dd66608bfaecbf6eef28e402a5a
+  name: Barclays xStock
+  symbol: BARCx
+- address: 0:d1284aaed642e4bed17d7f2ae60d02886d83a79700da57e151e62c00507cc5c2
+  name: British American Tobacco xStock
+  symbol: BATSx
 - address: 0:8e552e7fedab9a3590a57b913aff12134c83db0b711c8d69b6bbb006d92b5241
   name: Baxter International xStock
   symbol: BAXx
@@ -247,6 +277,9 @@
 - address: 0:349cd5a0a89a7e5baa6ba8cd70a20cc97e224fcd59512d5f02056c071ade8c2f
   name: BridgeBio Pharma xStock
   symbol: BBIOx
+- address: 0:c8d93946b959621e9e584a757318ada4785317bb4c98df70e1a84778b8099d42
+  name: Balfour Beatty xStock
+  symbol: BBY.GBx
 - address: 0:be0233e86771ecbd533e5a8c6c5ed4ac8848683139f2c7795ce0a65d850b9c06
   name: Best Buy xStock
   symbol: BBYx
@@ -262,9 +295,15 @@
 - address: 0:0dde93760c797d8c3c92e24284357a70d693ab6ef91e293d0388fd0625b709a9
   name: Better Home & Finance xStock
   symbol: BETRx
+- address: 0:530fd32a663e6f1a743d399712a3db8f66adee782a8f35cd4c5976b3253beb27
+  name: Beazley xStock
+  symbol: BEZ.GBx
 - address: 0:afbadfbc2b0d69dfdd432ce71e0753215cc2c3d555e4e4d5223af033f0cbf2ab
   name: Bloom Energy xStock
   symbol: BEx
+- address: 0:76ebd2b3e173546da577398ea48e24bad5e42c70f6b4fd0ea8122bb072e85028
+  name: Lion Finance xStock
+  symbol: BGEOx
 - address: 0:e2d10ab77789eb5cd46b077a8b1e77f4ead3a16b0f3f9a4889a36e901e03fb6b
   name: Biogen xStock
   symbol: BIIBx
@@ -289,6 +328,9 @@
 - address: 0:37ef99bc2bfc8bd02600ad5496e9b2a37304629b2df48229643a02356d652f78
   name: Bank of New York Mellon xStock
   symbol: BNYx
+- address: 0:8f29362f529174016de9a4553d6831d32346e953308d9de8ca39264b2ad94adf
+  name: Bunzl xStock
+  symbol: BNZLx
 - address: 0:4708fc3cc61e742f74330801bee7e3de9d44235e3f10ac1ff26f09e03d5b1722
   name: BOC Hong Kong xStock
   symbol: BOCHKx
@@ -301,6 +343,12 @@
 - address: 0:9219c5fd41d370910ffe216bc659850f3be6dfeb085daffc3689972018a15aba
   name: Popular xStock
   symbol: BPOPx
+- address: 0:d9f1153813c42d902ab421f578b2877dd57f87cd69e4dd66a342a352d13316d8
+  name: BP xStock
+  symbol: BPx
+- address: 0:03dd069d6f1490a9e96ada18951164a9fc2b72a53300a90ea975fb79b6ba71fd
+  name: Burberry xStock
+  symbol: BRBYx
 - address: 0:f3eb6247f93e6ae305ba0e9cee2fe44e292729382702d6222ff1d5c09d854d21
   name: Berkshire Hathaway xStock
   symbol: BRK.Bx
@@ -319,12 +367,18 @@
 - address: 0:b8cd8faac5556d71ba07f46bb5b1197fc7f23126b7d1710897b5305b2de29fad
   name: Bentley Systems xStock
   symbol: BSYx
+- address: 0:470f043b30c7330f540a7840e598065d418cfe78123337829acbce50337aec67
+  name: BT xStock
+  symbol: BT.Ax
 - address: 0:574ec92b5d191043d24eec479a557c020ffa619ebccd83d11d37ddbadff6444d
   name: Bit Digital xStock
   symbol: BTBTx
 - address: 0:e451ccac3fc51619124c212fd7030f35d92040d4257df543e3dadcf71d09c1ba
   name: Bitgo xStock
   symbol: BTGOx
+- address: 0:719f54d2f7c30e3e9d5b7856d0381326a9b8991960944f157e34f8a3223feb65
+  name: Barratt Redrow xStock
+  symbol: BTRWx
 - address: 0:e0fc7fabb4224af15f7bdb6ff7a9e3fc2bd076f0f9dbd7ee8f2b2ab2ba92e234
   name: Burlington Stores xStock
   symbol: BURLx
@@ -364,6 +418,9 @@
 - address: 0:d83aed4869de433babbdb6ff6db27bcc5fa2fd261bf95e37250ff526295f147a
   name: Cerebras Systems xStock
   symbol: CBRSx
+- address: 0:634b3c89e8a51c5e7bdc38973d1c18b2f0af95ac66a47b215ae4fa878806f78d
+  name: Computacenter xStock
+  symbol: CCC.GBx
 - address: 0:c43508df8da736506a42a08b9eecdf7d880132b942e7766d3d26da7a8766352a
   name: Crown Castle xStock
   symbol: CCIx
@@ -469,6 +526,9 @@
 - address: 0:9f4768fc97086936bacdf47ed67e291c3a77341dd3b41705068cdbeea221a704
   name: CMS Energy xStock
   symbol: CMSx
+- address: 0:0e6b66d667b29b3ce3caaeab556e7fdaadb495dd58726f083982a421b66590c5
+  name: Centrica xStock
+  symbol: CNA.GBx
 - address: 0:de3c6d0dfcb08d31d0e5e5206528a52dfe83460eb5a32294ebe56b2a36f54313
   name: CNA Financial xStock
   symbol: CNAx
@@ -535,6 +595,9 @@
 - address: 0:7e44fb400107854865b78088f4cd1121e0df763065dfa85cf101ce9346fbbece
   name: Circle xStock
   symbol: CRCLx
+- address: 0:e01f3381d69bcb2c00bc1ada457a983805c51b4af1751a55c549783c1d8f4977
+  name: Croda International xStock
+  symbol: CRDAx
 - address: 0:e399120fcddd82bce543d3990d4a728fdb738ca3484617cd0d808027f6fc9b93
   name: China Resources Beer Holdings xStock
   symbol: CRESBx
@@ -583,6 +646,9 @@
 - address: 0:268bf429f55f3fc46acba23541d6129f450dd380fc07be95afed71cfaed8d9fd
   name: Cintas xStock
   symbol: CTASx
+- address: 0:a13542153ecc8630f34061c89087e8229d22009d9a82cb72640c0fcafb8c59d6
+  name: ConvaTec xStock
+  symbol: CTEC.GBx
 - address: 0:6a00b897afe283f30cd276a5cbe56d360a1e92e4f91c32f8761300d21634bbe9
   name: Chow Tai Fook Jewellery xStock
   symbol: CTFJWx
@@ -607,6 +673,9 @@
 - address: 0:cefa62b68c7340a90079365c992803be09be1a67991fd11f354cfd72a8450ee9
   name: Chevron xStock
   symbol: CVXx
+- address: 0:60daaacf7f5764e0e608cd235b47c75600e223235e58d47b90718a4ff779efe1
+  name: Cranswick xStock
+  symbol: CWK.GBx
 - address: 0:d0e26b337585cc369d184022acb5343e38db3f3459ca6cdccbd662f327e492fb
   name: Curtiss-Wright xStock
   symbol: CWx
@@ -640,6 +709,9 @@
 - address: 0:47fbab087e97df6a1b206163b9ea500d223da4c7325e8eee6abef082f40a9855
   name: DFDV xStock
   symbol: DFDVx
+- address: 0:704b781643a1f6f9b0e15d01b1d5f50bb2e5a74ea9b224edeee386a9bac63f8d
+  name: Diageo xStock
+  symbol: DGEx
 - address: 0:554b8a37ee9f90a8ffc09b5dba4cdea2c4766a63d30b6f5ec0cd54a1a57fcddd
   name: Quest Diagnostics xStock
   symbol: DGXx
@@ -688,6 +760,9 @@
 - address: 0:fccbbc714d8a3d438a3524fd4f5f604be8d408977e76230b4e0a1da527542446
   name: Dow xStock
   symbol: DOWx
+- address: 0:100f06e3e010b54587ebda10bb9cb016f0bbe760f1735f7d6870d42c16fa4a47
+  name: Diploma xStock
+  symbol: DPLMx
 - address: 0:a3300ed67eafe04317689012d08eb4000153c961a12090dd85503d00d803a8f2
   name: Domino's Pizza xStock
   symbol: DPZx
@@ -727,6 +802,9 @@
 - address: 0:c9c29cd7109ae718edf6db4e354b3679714dae56ab3af1375d04aae675f862e6
   name: Ecolab xStock
   symbol: ECLx
+- address: 0:9b8153cbc73473884dcaa2a0eaf54c9cce44a3b26e3a7d0192a9a195ce30f99d
+  name: Endeavour Mining xStock
+  symbol: EDV.GBx
 - address: 0:7fb7ac430b91011b21b8003224557a7ae3e306eb1d4751d3f5b2f66e6f9a1320
   name: Consolidated Edison xStock
   symbol: EDx
@@ -772,6 +850,9 @@
 - address: 0:802277a128fc6a62a5b1a2c4cfa09e94064c51bb3d987f212bf2a7fbfc3c696d
   name: Entegris xStock
   symbol: ENTGx
+- address: 0:924d37dd08cd999432d324ccc33f57d38452a750d1005f03ac6c8ad66699740e
+  name: Entain xStock
+  symbol: ENTx
 - address: 0:f9a4438f742c0f0d71be7c3994e8621a042558d49558cd701879d477502321f3
   name: EOG Resources xStock
   symbol: EOGx
@@ -832,6 +913,9 @@
 - address: 0:702248568e4f513355e85d6165e529b082993a5bb1316ea5ce37816d7618a673
   name: Expeditors International of Washington xStock
   symbol: EXPDx
+- address: 0:396d4541491219b4bda77d79b04b821e61099937b59eb40c96de273bf1fb3748
+  name: Experian xStock
+  symbol: EXPNx
 - address: 0:9b7206602a182242e6d5ecd68941d89df67d06a430a5558885fd1fcbf1a67b62
   name: Extra Space Storage xStock
   symbol: EXRx
@@ -910,6 +994,9 @@
 - address: 0:c49864540c61fc8dc7195ad8daa9119d3e9d119855e91ea14e0c65b57bc5d6a1
   name: Fabrinet xStock
   symbol: FNx
+- address: 0:51e512990cef5663ac088ae542ffdf533a837b3a91b8b13bc51089557acbd33d
+  name: Fresnillo xStock
+  symbol: FRESx
 - address: 0:dd6602c3037b10ca66564b9ebd2730affbc6daf69943b898f19991d7838c2e44
   name: Freedom xStock
   symbol: FRHCx
@@ -934,6 +1021,9 @@
 - address: 0:37808434b0414b33e77f509eb82c6ce850e83c1906f9eda5d79a3eddd317f9ae
   name: Ford Motor xStock
   symbol: Fx
+- address: 0:91cbbf6ba4fce140caa82dfa1ae01b56535389913cb302d0a08ca6e8d5738449
+  name: Games Workshop xStock
+  symbol: GAWx
 - address: 0:060afd65cfe7a2d9491cdc7858dad10c0bd9a4e8c54428da32cdf9ae3a8d2a08
   name: GoDaddy xStock
   symbol: GDDYx
@@ -982,6 +1072,9 @@
 - address: 0:b8f63eaf526adaac9cd23a565f347607a0d1075f7fffd285f57592c47c4ed5cb
   name: Gold xStock
   symbol: GLDx
+- address: 0:c05aa9798165b888cb61c91e5b3ebe2d02b528b7443d9238fb7d2a905ba67061
+  name: Glencore xStock
+  symbol: GLENx
 - address: 0:5fff0da50d5245df105fddb170f4359c19315e013c372ded04f237ebfab0c9e4
   name: Gaming and Leisure Properties xStock
   symbol: GLPIx
@@ -1006,6 +1099,9 @@
 - address: 0:c04c4c42c09231199f47fd5569795c7384a912914d8c3c605305643e3af29709
   name: Generac xStock
   symbol: GNRCx
+- address: 0:0da0f669c2504ac2fbc94e53b05180f1a06fadb2e9816bb63d4d663317d6a1d7
+  name: Genus xStock
+  symbol: GNS.GBx
 - address: 0:0bc09cd79f116372436cbab0a2f4eda4560ff46f529db633927ef39e765637ee
   name: Alphabet xStock
   symbol: GOOGLx
@@ -1069,6 +1165,9 @@
 - address: 0:74694fe5e3ebeb0286f03d4ed9cf996b6c487b6a07f06d82d348fc0c874f57e5
   name: Hong Kong Exchanges and Clearing xStock
   symbol: HKEXCx
+- address: 0:a440ce5e64f7e3a393ea982bb9e1bf91335ed4f926322319f02fa3e65e21e253
+  name: Halma xStock
+  symbol: HLMAx
 - address: 0:28aeecfc3de24904bf20706e2be0aab2d7843432fa988ac98b3d18b8bc011f1b
   name: Hilton Worldwide xStock
   symbol: HLTx
@@ -1096,6 +1195,9 @@
 - address: 0:7c2bab9238ae586e8ea78a0baf6180bba680c0647724541a5d02ab6928f72737
   name: Horizon Robotics xStock
   symbol: HRZRBx
+- address: 0:49e3a57c3cb338ac9800018065f83cfd8a0e47059640519806754136b5f582e7
+  name: HSBC xStock
+  symbol: HSBAx
 - address: 0:80f2a0b1d0229bc52831ee5e80f9fa67aafec15d2439ca7cddc18eae9ecb4059
   name: Host Hotels & Resorts xStock
   symbol: HSTx
@@ -1120,6 +1222,9 @@
 - address: 0:fe0eb4ae70599935ddd7931db207836685646beee99c8006820b65b52336b78a
   name: Hyatt Hotels xStock
   symbol: Hx
+- address: 0:4df64a037de1f2cc2de0ac9a345a3c5bb63070565ba3f91293a85bab15444bb4
+  name: International Consolidated Airlines xStock
+  symbol: IAG.GBx
 - address: 0:ff742472439be932c5daeb96c63d41fda1f38cb1ce7f94ef903cbf84fbe83657
   name: Interactive Brokers xStock
   symbol: IBKRx
@@ -1132,6 +1237,9 @@
 - address: 0:68ef16ff698609107075c6c96ca1eca61cafdbcc162c960147c0cbac9e840674
   name: Intercontinental Exchange xStock
   symbol: ICEx
+- address: 0:9198f79e03174f996341033dd7b752c3f17d0cd16b9b9d783b2af30909f886be
+  name: ICG xStock
+  symbol: ICG.GBx
 - address: 0:a1e4d85faa1b3a3b0ddbc4cc3f9f8d5987065532050fb09e0b1b32f919d43548
   name: IDEXX Laboratories xStock
   symbol: IDXXx
@@ -1618,6 +1726,9 @@
 - address: 0:9649c3f24ea9c7659646cd2ff4cfb4d3911063ad064c37fd60bece10f80570ef
   name: News xStock
   symbol: NWSx
+- address: 0:ec806650ce301f48396d2668033b5a6fd78b41a2d29d8c5adf283705e9541dc6
+  name: Next xStock
+  symbol: NXT.GBx
 - address: 0:8c062e7c6fdecb05b9335287db3008bb0bde8da77f962affa0c15f9b425eb39a
   name: New York Times xStock
   symbol: NYTx
@@ -1783,6 +1894,9 @@
 - address: 0:afc27845b0ab27cac85ab2efcfa17e4c2c77fa66a8449d8c8a21422c35e8179f
   name: Postal Savings Bank Of China xStock
   symbol: PSBOCx
+- address: 0:c1da59310adaa0ef6d498bb5c352c8de909876106e0ea6d8f7e44dff2e587df6
+  name: Persimmon xStock
+  symbol: PSN.GBx
 - address: 0:ae7677ec87ec4cb5d8eb928926d7609804d9c5274138678fd8db3511ef8421f2
   name: Phillips 66 xStock
   symbol: PSXx
@@ -1900,6 +2014,9 @@
 - address: 0:4a89aad2e6fa570c9551d19795d8027f5e6229f492c1f8c1be09800ddb539d33
   name: Reliance xStock
   symbol: RSx
+- address: 0:83ac664edcc5bb721b7a4371e3d547989ce725aa0010d9f78a7ab6bc805b11ce
+  name: Rentokil Initial xStock
+  symbol: RTOx
 - address: 0:cdada819b526b7a239fe5813af967934c68d4b19ad92f5a23de558b95f8bf937
   name: RTX xStock
   symbol: RTXx
@@ -2410,6 +2527,9 @@
 - address: 0:c244d033d9fd2e8fe810034f33313008137c94654259e241f9e39edfd6ea630d
   name: W.P. Carey xStock
   symbol: WPCx
+- address: 0:bd8f4cd09c63da4f9ff852e70dbe9966c7a56d4c5ddfed89e41e5b52a5c10061
+  name: WPP xStock
+  symbol: WPPx
 - address: 0:9e941436a8a60fd0fcb8e2ca98329f187a97440d53db48df7d44e23eed1a5d39
   name: W.R. Berkley xStock
   symbol: WRBx
