@@ -1,0 +1,10 @@
+name: GamePat Token Pai
+description: A token for Playing on GamePat, players earn a token and make in-game purchases with it.
+address: EQC6c9T4GjA-90PE552AappUBug2tBqn63nUUJS1Q61tJAqF
+symbol: PAI
+websites:
+  - "https://wp.gamepat.org/"
+  - "https://t.me/GamePatBot/GamePat/"
+social:
+  - "https://t.me/GamePat_chat"
+  - "https://t.me/game_pat"
