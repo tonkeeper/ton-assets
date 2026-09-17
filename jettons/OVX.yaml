@@ -1,0 +1,5 @@
+name: ORVIX
+description: ORVIX (OVX) on TON. Includes a transparent admin-activated incoming-transfer restriction planned for 167 hours on the DeDust vault jetton wallet. The restriction automatically expires and ordinary selling through that vault reopens after the configured timestamp.
+image: https://raw.githubusercontent.com/younissafa5555-maker/orvix-assets/main/orvix-ovx.jpg
+address: EQBC8GVAJegu8bWiZ2ftbf5vQaPickuRg37ihYH7kUCl0go7
+symbol: OVX
