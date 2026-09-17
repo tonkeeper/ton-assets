@@ -1,0 +1,10 @@
+address: "EQDAoPvphJq9DEfe6tU3D-wTf57ELQlwTpLknnlHlU68aHyn"
+name: "JedC"
+symbol: "JedC"
+decimals: 9
+description: "Первый ИИ-ассистент и тренажер для трейдеров в Telegram Mini Apps. Анализ психотипа, риск-менеджмент и скоринг сделок."
+image: "ipfs://"
+websites:
+  - "https://jed-ai.ru"
+social:
+  - "https://t.me/Jedai_Ai"
