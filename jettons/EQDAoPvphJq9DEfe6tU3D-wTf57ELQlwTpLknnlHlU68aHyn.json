@@ -1,7 +1,7 @@
 {
   "name": "JedC",
   "description": "Первый ИИ-ассистент и тренажер для трейдеров в Telegram Mini Apps. Анализ психотипа, риск-менеджмент и скоринг сделок.",
-  "symbol": "ТИКЕР",
+  "symbol": "JedC",
   "decimals": 9,
   "image": "https://xn----8sbe2ac0axdh.ru",
   "websites": ["https://твой-сайт.ru"],
