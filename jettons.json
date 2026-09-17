@@ -7175,8 +7175,8 @@
  },
  {
   "address": "0:e3fb3952be3e00bb5e785e3b14ec04f3b75de9f098d812cd30795bf5ad56c225",
-  "description": "MRG is the utility token of Mine Rare Gram, a Telegram MiniApp also known as MRG Miner.",
-  "image": "https://raw.githubusercontent.com/alex-dev-create/MRG-Miner-Assets/main/mrgminer%20mascot.webp",
+  "description": "MRG is the utility token of Mine Rare Gram, a Telegram MiniApp also known as MRG Miner. It powers the ecosystem mining activities, rewards, user participation, and future utilities. MRG has a fixed total supply of 10 billion tokens.",
+  "image": "https://raw.githubusercontent.com/alex-dev-create/MRG-Miner-Assets/main/MRG%20Mascot.webp",
   "name": "Mine Rare Gram",
   "social": [
    "https://t.me/mrgminer",
@@ -7185,7 +7185,7 @@
   ],
   "symbol": "MRG",
   "websites": [
-   "https://mrgminer.xyz"
+   "https://mrgtoken.xyz"
   ]
  },
  {
