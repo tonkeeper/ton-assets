@@ -10095,6 +10095,22 @@
   ]
  },
  {
+  "address": "0:d90998540257a41b6589ea7374986e5d1a7499292fb691effec2806f1f64e7a9",
+  "decimals": 9,
+  "description": "Token of the 957 games ecosystem with a fixed supply of 957,957,957 T957 (minting closed on-chain). Used for player welcome bonuses in the Kozyr card game.",
+  "image": "https://game.tema957.pro/t957/t957.jpg",
+  "name": "TEMA957",
+  "social": [
+   "https://t.me/TemIC_957",
+   "https://t.me/tema957_Game_bot/kozyr"
+  ],
+  "symbol": "T957",
+  "websites": [
+   "https://game.tema957.pro/t957/en/",
+   "https://game.tema957.pro/kozyr/"
+  ]
+ },
+ {
   "address": "0:1ef72ed45e14e38451a1e14d7b3c29377e0aa36444601a75df70855b8bc6647d",
   "description": "TADA is the utility token of Ta-da, a platform that organizes crowds to provide high-quality data to AI",
   "image": "https://tada-production-static-files.s3.eu-west-3.amazonaws.com/logo.png",
