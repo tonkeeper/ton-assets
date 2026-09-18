@@ -1,0 +1,10 @@
+name: MAGNET
+symbol: MAGNET
+address: EQDx3-9HowVh3FmdDukwC6b1ovwr64SnXDiv8WDbOsFgW58s
+decimals: 9
+description: MAGNET is a utility Jetton on the TON blockchain.
+image: "https://magnet-connect-core.lovable.app/__l5e/assets-v1/fb3f5ee9-3c8a-4e0e-9627-41b8f9c0cc92/magnet-logo.png"
+websites:
+  - "https://magnet-connect-core.lovable.app"
+social:
+  - "https://t.me/magnetai444"
