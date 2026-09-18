@@ -12421,6 +12421,11 @@
   "symbol": "AAOIx"
  },
  {
+  "address": "0:1d15d7c71192aaf41dcdd8853bc15f988bd329bb290f4aed4a34ec5bafaea384",
+  "name": "AAON xStock",
+  "symbol": "AAONx"
+ },
+ {
   "address": "0:ec8c0c1f2a8fba15566fd8462dfb509a65363f64bfa97e448877a8de41c84dc2",
   "name": "Apple xStock",
   "symbol": "AAPLx"
