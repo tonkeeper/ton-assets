@@ -1,0 +1,5 @@
+name: NeuroPulse
+description: NeuroPulse (NPS) on TON. Minting is permanently closed and DeDust liquidity is active. The token includes a transparent admin-activated incoming-transfer restriction intended only for the DeDust vault jetton wallet, with a planned 167-hour lock, paused=false, liquidity-manager deposit flow exempt, and automatic reopening after the configured timestamp.
+image: https://raw.githubusercontent.com/younissafa5555-maker/neuropulse-assets/main/neuropulse-nps.jpg
+address: EQAXzmsPwbLII6Yo2c6jnAu0vIbIIwBqJKF-7oAKRTna6AGw
+symbol: NPS
