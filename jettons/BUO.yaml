@@ -1,0 +1,5 @@
+name: BLUVO
+description: BLUVO (BUO) on TON. Minting is permanently closed. DeDust liquidity is active. The token includes a transparent admin-activated incoming-transfer restriction for the DeDust vault jetton wallet, planned for 167 hours; paused remains false, liquidity-manager deposits are exempt, and the restriction automatically expires.
+image: https://raw.githubusercontent.com/younissafa5555-maker/bluvo-assets/main/bluvo-buo.jpg
+address: EQDbnNJfeYw5D8bZGyqfM_yHs0E21xfiostnDzB5Lw3eHVnN
+symbol: BUO
