@@ -1,0 +1,12 @@
+name: DOHA
+description: "Tap-to-earn rewards token on TON, earned through the DOHA Telegram bot."
+image: "https://dohatokenbot.com/token/doha-logo.png"
+address: EQAxm7FHGtR_-ihbW6PHR6ifE_KMrXeKLF0WS5Iyl45LzId_
+symbol: DOHA
+decimals: 9
+websites:
+  - "https://dohatokenbot.com"
+social:
+  - "https://t.me/dohatokenai"
+  - "https://x.com/dohatokenai"
+  - "https://t.me/DohaTokenBot"
