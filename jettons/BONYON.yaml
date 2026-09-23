@@ -1,0 +1,17 @@
+name: Bonyon Token
+description: Bonyon Token (BON) is the native utility token of the BONYON ecosystem built on The Open Network (TON). It is designed to support community rewards, future airdrops, ecosystem participation, game-related utilities, and other digital use cases within the BONYON platform. BON has a fixed total supply of 1,000,000,000 tokens and no additional tokens are planned to be minted after the supply is finalized. Official information, project updates, social channels, and ecosystem announcements are published through BONYON's official website and social media accounts.
+
+address: EQCWp0cE-TBaW3zN1Mp4EYQo-IPNcM3GyN8PC6ketQ3-lJS-
+symbol: BON
+decimals: 9
+
+websites:
+  - "https://bonyon.io"
+
+social:
+  - "https://instagram.com/bonyontoken"
+  - "https://x.com/bonyontoken"
+  - "https://t.me/bonyontoken"
+  - "https://www.youtube.com/@bonyontoken"
+
+image: "https://bonyon.io/assets/bon-token.png"
