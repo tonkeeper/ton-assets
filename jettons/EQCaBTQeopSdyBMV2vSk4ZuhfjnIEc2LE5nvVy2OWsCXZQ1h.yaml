@@ -1,0 +1,10 @@
+name: "Tactical Cat"
+description: "Tactical Cat ($TCAT) is the core GameFi token powering the Tactical Cat Web3 & Telegram Mini App ecosystem across TON and Solana."
+symbol: "TCAT"
+address: "EQCaBTQeopSdyBMV2vSk4ZuhfjnIEc2LE5nvVy2OWsCXZQ1h"
+decimals: 9
+image: "https://tacticalcat-hq.eu.cc/metadata/tactical_cat.jpg"
+websites:
+  - "https://tacticalcat-hq.eu.cc"
+social:
+  - "https://t.me/TacticalCatHQ"
