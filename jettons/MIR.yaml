@@ -1,11 +1,11 @@
 name: MIR-COIN
 description: MIR-COIN (MIR) is a TON Jetton intended for trading. The MIR-COIN Mini App is a companion project built around the token.
-image: https://mircoin-ton-clicker--rabokon77.replit.app/mircoin-logo.png
+image: https://mir-coin.ru/mircoin-app/mircoin-logo.png
 address: EQAfxRGNBF2plcttTRCXnRXfXRilJ74LzEyzLHGqc8oK-cVx
 symbol: MIR
 websites:
-  - https://mircoin-ton-clicker--rabokon77.replit.app
-  - https://mir-coin.ru/mircoin-site/
+  - https://mir-coin.ru/mircoin-app/
+  - https://mir-coin.ru/
 social:
   - https://t.me/memo_interes
   - https://t.me/Limma_mir
