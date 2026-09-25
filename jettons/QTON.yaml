@@ -1,0 +1,10 @@
+name: "QTON AI"
+symbol: "QTON"
+address: "EQCrjfyr3T4GnH5MEFNHHEGOwRm3nXVqhqHHhqlnGYOESKyh"
+decimals: 9
+description: "Quantum-secured autonomous agent liquidity and settlement token on the TON blockchain."
+image: "https://raw.githubusercontent.com/elon00/qton/main/qton_logo.png"
+websites:
+  - "https://github.com/elon00/qton"
+social:
+  - "https://x.com/elon00"
