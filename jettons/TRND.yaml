@@ -1,0 +1,10 @@
+name: "Wizard Trend"
+symbol: "TRND"
+address: "EQC4fAjkYYojqJMV35xa7l29D4xsVzHG6NLeXIp-J2_9WEQl"
+decimals: 9
+description: "Fixed-supply utility token of the Wizard Trend ecosystem."
+image: "https://wiztrnd.info/token/trnd-logo-v1.png"
+websites:
+  - "https://wiztrnd.info"
+social:
+  - "https://t.me/ICOwizardround_bot"
