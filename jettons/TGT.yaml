@@ -1,0 +1,12 @@
+name: "TIRED GAME TOKEN"
+description: "Official gaming token of the TapTired ecosystem."
+image: "https://raw.githubusercontent.com/taptiredofficial-art/TiredGameTokenAssets/4a55173ed3eeb4a064a3243ef755d2fee103ee6e/logo.png"
+address: "EQB0Gq_deVpXtJoYA9FeckB5K7zSsTKr1QcdZedHypLSeHKa"
+symbol: "TGT"
+decimals: 9
+websites:
+  - "https://www.taptired.com"
+social:
+  - "https://x.com/TapTired"
+  - "https://t.me/taptiredofficial"
+  - "https://github.com/taptiredofficial-art/TiredGameTokenAssets"
