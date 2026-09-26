@@ -1,0 +1,11 @@
+name: ONRANK
+description: Protocol coin of ONRANK, a launchpad and trading terminal on TON where 70% of every trading fee is paid back to holders in USDT.
+image: https://onrank.lol/meta/coins/40caf6bd53e24963090ca201481e82ef07809bc68f5f7b17e91b4ca1b94e634d.png
+address: EQCEx3VtS75ERj4dkfsWQfO-l-hT_XCGVbfg3ZsPcGtbktTn
+symbol: RANK
+decimals: 9
+websites:
+  - https://onrank.lol
+social:
+  - https://t.me/OnRankBot
+  - https://t.me/onranknews
