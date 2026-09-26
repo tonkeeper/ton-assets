@@ -1,0 +1,10 @@
+name: Old Eagle
+description: Old Eagle is a community-driven digital token on the TON blockchain.
+address: EQD3mKySkhoK02UCAyuMraeofLt0I1Ox2Y8EJ671tSRSH__M
+symbol: OEAG
+decimals: 9
+image: https://raw.githubusercontent.com/aliarefialiarefi69/old-eagle-logo/main/old_eagle_256x256_transparent.png
+websites:
+  - "https://aliarefialiarefi69.github.io/old-eagle/"
+social:
+  - "https://app.ston.fi/swap?ft=TON&tt=EQD3mKySkhoK02UCAyuMraeofLt0I1Ox2Y8EJ671tSRSH__M"
