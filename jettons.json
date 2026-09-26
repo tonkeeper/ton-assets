@@ -3244,20 +3244,6 @@
   ]
  },
  {
-  "address": "0:76daefc43c5e43caab594618c9d9889996237ec39642aba17f3d8e886ba6ef8b",
-  "description": "$DUROV is a community-driven project, inspired by Pavel Durov - the founder of Telegram. Explore our Airdrop bot, our NFT collection, or even our Staking platform!",
-  "image": "https://i.postimg.cc/Sshx4fq4/2024-05-29-10-13-59.jpg",
-  "name": "Pavel Durov",
-  "social": [
-   "https://t.me/PavelDurovOnTon",
-   "https://twitter.com/Durov_Tonchain"
-  ],
-  "symbol": "DUROV",
-  "websites": [
-   "https://durovton.com/"
-  ]
- },
- {
   "address": "0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208",
   "description": "DUST is the governance token for the DeDust Protocol.",
   "image": "ipfs://QmaZn8y3JndrePjeUbDQtByPV6ezHwP67pVaJG3WWpamLB",
@@ -19219,6 +19205,11 @@
   "address": "0:0e931d4c7648833210c6c33f1366e304df084642ab15a5946b4d216aa48c051c",
   "name": "Paul Duroff ",
   "symbol": "DUROFF"
+ },
+ {
+  "address": "0:76daefc43c5e43caab594618c9d9889996237ec39642aba17f3d8e886ba6ef8b",
+  "name": "Pavel Durov",
+  "symbol": "DUROV"
  },
  {
   "address": "0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401",
