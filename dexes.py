@@ -68,7 +68,10 @@ def __get_dedust_assets() -> List[Asset]:
         return list()
     data = response.json()
     assets = list()
-    b_addrs = {"EQBiyZMUXvdnRYFUk3_R5uPdsR2ROI9mes_1S-jL1tIQDhDK"}
+    b_addrs = {
+        "EQBiyZMUXvdnRYFUk3_R5uPdsR2ROI9mes_1S-jL1tIQDhDK",
+        "EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et",  # DUROV, untrusted (see revert of DUROV.yaml, #6312)
+    }
     for item in data:
         addr = item.get("address")
         if not addr or addr in b_addrs:
