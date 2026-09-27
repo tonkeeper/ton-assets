@@ -1,0 +1,7 @@
+name: RANDE∅
+description: Fixed-supply jetton (1,000,000,000) built on the unmodified reference Jetton 2.0 contract. Admin dropped, no further minting possible.
+image: "https://raw.githubusercontent.com/Rande-Team/rande-jetton-metadata/main/rande.png"
+address: EQAcP9qPJCXMKb_sb52DTvS1cbAciYjcurGqqPEsTQc_c82s
+symbol: RANDE
+social:
+  - "https://github.com/Rande-Team/rande-jetton-metadata"
