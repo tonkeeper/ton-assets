@@ -1,7 +1,9 @@
 name: RANDE∅
-description: Fixed-supply jetton (1,000,000,000) built on the unmodified reference Jetton 2.0 contract. Admin dropped, no further minting possible.
+description: Utility and reward token for pwn.rande.xyz, a live hands-on security (CTF) training platform where operators earn RANDE by solving challenges and spend it on premium access. Fixed supply of 1,000,000,000, built on the unmodified reference Jetton 2.0 contract; admin dropped, so minting is permanently disabled.
 image: "https://raw.githubusercontent.com/Rande-Team/rande-jetton-metadata/main/rande.png"
 address: EQAcP9qPJCXMKb_sb52DTvS1cbAciYjcurGqqPEsTQc_c82s
 symbol: RANDE
+websites:
+  - "https://pwn.rande.xyz"
 social:
   - "https://github.com/Rande-Team/rande-jetton-metadata"
