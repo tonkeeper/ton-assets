@@ -17317,6 +17317,11 @@
   "symbol": "TRMBx"
  },
  {
+  "address": "0:4899924152cfb99a9ad02ca66d5638850d44a3451182b37627d66b4bd3f71e55",
+  "name": "Tron xStock",
+  "symbol": "TRONx"
+ },
+ {
   "address": "0:91d1e96d266fdeae4f6a9ce0349b97ab69026a13cddb47f8fab7490bd1da89e6",
   "name": "T. Rowe Price xStock",
   "symbol": "TROWx"
