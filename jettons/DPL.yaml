@@ -1,0 +1,4 @@
+name: Deploy Test
+description: Jetton deployed via Phalanx Toolkit on TON.
+address: EQSim59a64691c3124d30PlaceholderMinter
+symbol: DPL
