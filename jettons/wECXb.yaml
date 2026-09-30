@@ -1,0 +1,9 @@
+name: Wrapped eCash (beta)
+description: Beta ECX from the eCash betanet, wrapped 1:1 on TON by the szats.world community bridge (not operated by eCash.com). After eCash mainnet launch, wECXb converts to wECX at 100:2. Reserves are public at https://szats.world/bridge/reserves
+image: "https://szats.world/wecxb.png"
+address: EQDxo4Rix9_99DksWJgND1NIgbFoNepAQ8Qkk8A7lxyKIEfK
+symbol: wECXb
+websites:
+  - "https://szats.world/bridge/reserves"
+social:
+  - "https://t.me/Ecxbridge_bot"
