@@ -1,0 +1,11 @@
+name: "ShardQuest Shard"
+symbol: "SQSHARD"
+address: "EQDQYRMfN2HKt9LbdS3lvrdMjIVI2k5oN16chbA2ttZgtZiG"
+decimals: 9
+image: "https://shardquest.io/token/shard.png"
+description: "In-game coin of ShardQuest, a merge game in Telegram. 1 coin in the game = 1 SQSHARD. Players withdraw coins from the game as SQSHARD and deposit them back at shardquest.io. Total supply is minted once (1,000,001 SQSHARD), 1,000,000 SQSHARD is locked in a time-lock contract until 1 Jan 2028; further minting happens only on player withdrawals."
+websites:
+  - "https://shardquest.io"
+  - "https://t.me/ShardQuest_Bot"
+social:
+  - "https://t.me/ShardQuestApp"
