@@ -12507,6 +12507,11 @@
   "symbol": "ADIx"
  },
  {
+  "address": "0:9f2aef2614fa9e677d1d092d34863a36639d6fc73342735d07c6dca6476498e3",
+  "name": "Admiral xStock",
+  "symbol": "ADM.GBx"
+ },
+ {
   "address": "0:b9a8db7ed238891614ceb30c69c59d1de1778b239a7b57e22f25349943875358",
   "name": "Archer-Daniels-Midland xStock",
   "symbol": "ADMx"
@@ -14957,6 +14962,11 @@
   "symbol": "GSATx"
  },
  {
+  "address": "0:b494ca112638c6848b829abb21158c463c58961c173487ac6584fe64d27fa041",
+  "name": "GSK xStock",
+  "symbol": "GSKx"
+ },
+ {
   "address": "0:ad69fbe84ab27a91a356a4e6b33b530b2d3232512211ff9d822465427085eb88",
   "name": "Goldman Sachs xStock",
   "symbol": "GSx"
@@ -15095,6 +15105,11 @@
   "address": "0:a440ce5e64f7e3a393ea982bb9e1bf91335ed4f926322319f02fa3e65e21e253",
   "name": "Halma xStock",
   "symbol": "HLMAx"
+ },
+ {
+  "address": "0:23346ff88b47b6dc07b4edde9756773239fe16bdd304ba1b7e8d603730d6172e",
+  "name": "Haleon xStock",
+  "symbol": "HLNx"
  },
  {
   "address": "0:28aeecfc3de24904bf20706e2be0aab2d7843432fa988ac98b3d18b8bc011f1b",
@@ -16862,6 +16877,11 @@
   "symbol": "PRMBx"
  },
  {
+  "address": "0:619bae30efc99129a8a2fd0edacdb7d2371dbbc1e6ddcf018c418cb85bacda73",
+  "name": "Prudential xStock",
+  "symbol": "PRU.GBx"
+ },
+ {
   "address": "0:aee416bb057cfce96ec86691ac8d0bc8254306555f0f2f74d08848dac75579d9",
   "name": "Prudential Financial xStock",
   "symbol": "PRUx"
@@ -17087,6 +17107,11 @@
   "symbol": "RHMx"
  },
  {
+  "address": "0:e1c1a06fc516301c2a28a81647f12e6ab757ffe966fafd1002c457886effa112",
+  "name": "Rio Tinto xStock",
+  "symbol": "RIO.GBx"
+ },
+ {
   "address": "0:15ce0772400942e29b2ecb32e22e652493113137c4e17410243a2236fb1a445c",
   "name": "Riot Platforms xStock",
   "symbol": "RIOTx"
@@ -17110,6 +17135,11 @@
   "address": "0:e724d223345847fd49637843a9700df8c315a791d753b1180e6794c1000b209e",
   "name": "Rocket Lab xStock",
   "symbol": "RKLBx"
+ },
+ {
+  "address": "0:b06809cf5d162910015dde8d84c6ff9c712df3c25d68836f7a65bf71696c0b25",
+  "name": "Reckitt Benckiser xStock",
+  "symbol": "RKT.GBx"
  },
  {
   "address": "0:3364a1660421cd34d805843cce836cd3856c0be1c4579ed67e46665345f20a95",
@@ -17970,6 +18000,11 @@
   "address": "0:145cdf1ab443813dc8a703ecbe0c2bf228d91602e9abe9cfaa26393995cd65d1",
   "name": "The Travelers Companies xStock",
   "symbol": "TRVx"
+ },
+ {
+  "address": "0:ab71fa97c65aacb00ba41af19a119ab6a0cdbf3a01ce4f06af5fc3a8b7352c97",
+  "name": "Tesco xStock",
+  "symbol": "TSCO.GBx"
  },
  {
   "address": "0:67512be1d7ce456734a408238ff5c351e6e496de7494c6d48abd38a39de81fcf",
