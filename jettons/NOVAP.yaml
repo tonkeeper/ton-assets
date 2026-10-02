@@ -1,0 +1,10 @@
+name: NovaPoints
+description: "NovaPoints (NOVAP): the airdrop token of the NOVA Telegram Mini App - earned through daily activity, missions and referrals."
+image: "https://nova.codiologism.com/nova-points.png"
+address: EQDvO-h0g6m5SN_EN-ikseFdtjtvET_ytKRCm2A26qXaIYGV
+symbol: NOVAP
+decimals: 9
+websites:
+  - "https://nova.codiologism.com"
+social:
+  - "https://t.me/NovaPointsAirdropBot"
