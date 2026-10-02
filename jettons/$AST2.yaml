@@ -1,0 +1,11 @@
+name: "Asteroid2Shiba"
+symbol: "AST2"
+address: "EQCO-aQDxDMY80yRMlSGlQN_ecJFV0sdA8U7RWTXbA0vufNx"
+description: "Asteroid2Shiba is a Play-to-Earn asteroid shooter on TON. Pilot your Shiba astronaut, destroy asteroids, and earn $AST2 tokens."
+decimals: 9
+image: "https://raw.githubusercontent.com/infoairdrop22-hue/ton-assets/main/jettons/AST2.png"
+websites:
+    - "https://asteroid2shiba.com"
+social:
+    - "https://t.me/asteroid2shiba"
+    - "https://x.com/Asteroid2Shiba"
