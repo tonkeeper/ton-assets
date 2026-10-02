@@ -1,0 +1,6 @@
+name: FLUXORAM
+symbol: FXM
+address: EQDYR45G9ig-Eog5QW8VdIkEiYxexervnYclQdJmHGanh87p
+decimals: 9
+image: https://raw.githubusercontent.com/younissafa5555-maker/fluxoram-fxm-assets/main/metadata/fluxoram-fxm.jpg
+description: FLUXORAM is a fixed-supply TON jetton with 120000000 FXM. Minting is permanently closed. Its contract permits an admin-activated 167-hour incoming-transfer restriction for the designated DeDust vault jetton wallet.
