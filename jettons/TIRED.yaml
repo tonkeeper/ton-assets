@@ -1,0 +1,12 @@
+name: "TapTired"
+description: "Official utility token of the TapTired ecosystem."
+image: "https://raw.githubusercontent.com/taptiredofficial-art/TapTiredAssets/022f18dcd22be6ac6a16683fdae55d763e4ae1a2/logo.png"
+address: "EQCEdnrQns5wXdl1upYykg5Xi6XDSQxLaCP-mszr3_4J-6dj"
+symbol: "TIRED"
+decimals: 9
+websites:
+  - "https://www.taptired.com"
+social:
+  - "https://x.com/TapTired"
+  - "https://t.me/taptiredofficial"
+  - "https://github.com/taptiredofficial-art/TapTiredAssets"
