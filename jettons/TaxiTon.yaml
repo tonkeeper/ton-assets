@@ -1,6 +1,6 @@
 name: TaxiTon
 description: TT is the reward token of the TaxiTon Telegram mini app.
-image: "https://raw.githubusercontent.com/amirwienk2-cpu/TaxiTron/main/tt-logo.png"
+image: "https://taxitron-production.up.railway.app/tt-logo.png"
 address: EQCEllodWHVdKeZmLzMdpau8RyJNo_kxBLXTviq9c90_fiBn
 symbol: TT
 websites:
