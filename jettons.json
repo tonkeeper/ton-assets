@@ -3357,6 +3357,17 @@
   ]
  },
  {
+  "address": "0:45d9f68a7377fa61936076b7ed804806178caa2969cdde00a4b3fba6fb890871",
+  "description": "\u0423\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435 \u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0445 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0435\u0439, \u0434\u0440\u0443\u0436\u0431\u044b \u0438 \u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0445 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0439",
+  "image": "https://pumpit-assets.t3.tigrisfiles.io/tokens/2026-09-05/213ba0e3-33f3-4a48-86e5-db0239bda29b.jpg",
+  "name": "Dmitryi and Family",
+  "social": [
+   "https://t.me/usdagembot",
+   "https://t.me/Dmitrys_friends"
+  ],
+  "symbol": "DAF"
+ },
+ {
   "address": "0:b0f816d021f24319e9eb6ac8f4486b9cf1f9014c83fdacd9d5ad22c476a7a18c",
   "description": "DOGSAI \u2014 \u044d\u0442\u043e \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u0442\u043e\u043a\u0435\u043d, \u044d\u0442\u043e \u0438\u043d\u043d\u043e\u0432\u0430\u0442\u043e\u0440 \u043d\u0430 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0435",
   "image": "https://github.com/cristcrusher/dogsai/blob/main/photo_2024-12-17_10-19-05.jpg",
