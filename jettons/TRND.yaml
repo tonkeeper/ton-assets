@@ -6,5 +6,6 @@ description: "Fixed-supply utility token of the Wizard Trend ecosystem."
 image: "https://wiztrnd.info/token/trnd-logo-v1.png"
 websites:
   - "https://wiztrnd.info"
+  - "https://github.com/wiztrnd-dev/trend-contracts"
 social:
   - "https://t.me/ICOwizardround_bot"
