@@ -1,8 +1,10 @@
-name: Vanta
+ name: Vanta
 symbol: Vanta
-address: EQB7uzT7yi0WDcfYpOjn5Yg-7Ir3TUs4wMK0TFl2JmdugmfB
+address: EQB7uz7Ty1OwDCfYpOjn5Yg-7ir3TUs4wMKOTFJ2JmudgmfB
 decimals: 9
 description: Vanta - The Community Token for Vanta Bot Hub.
-image: https://i.imgur.com/boQryQY.jpeg
+image: https://raw.githubusercontent.com/vantaminerbot-hue/vanta/main/IMG-20261006-WA3896.jpg
 websites:
-  - https://vantaminerbot-hue.github.io/vanta/
+    - https://vantaminerbot-hue.github.io/vanta/
+social:
+    - https://t.me/VantaBotHub
