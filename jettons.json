@@ -7984,6 +7984,19 @@
   ]
  },
  {
+  "address": "0:3ebb001ff040ff689197d8126f7b8fc46aab87805890c942a8a508ee70bc98fc",
+  "description": "Pew Lending platform bounty distribution token",
+  "image": "https://cdn.notwise.co/pew/jetton/logo.jpg",
+  "name": "Pew Coin",
+  "social": [
+   "https://t.me/pewtg"
+  ],
+  "symbol": "PEW",
+  "websites": [
+   "https://pew.tg"
+  ]
+ },
+ {
   "address": "0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13",
   "description": "$PGC is the native token of PiggyPiggy, the first workplace simulation and social game launched on Telegram and TON.",
   "image": "https://restaurant.piggypiggy.io/piggycoin.png",
@@ -10652,7 +10665,7 @@
   ],
   "symbol": "TNT",
   "websites": [
-   "https://talents.wtf"
+   "https://talents.tg"
   ]
  },
  {
