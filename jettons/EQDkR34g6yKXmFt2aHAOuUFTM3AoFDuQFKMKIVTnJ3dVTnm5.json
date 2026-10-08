@@ -1,0 +1,7 @@
+{
+  "name": "NekoCoin",
+  "symbol": "NEKO",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/nekocoin-ton/ton-assets/main/assets/neko_logo.png",
+  "description": "NekoCoin is a cryptocurrency built on the TON blockchain inspired by the Maneki-neko, designed for Web3 ecosystems and Telegram mini-apps."
+}
