@@ -1,0 +1,15 @@
+name: CROWN
+description: CROWN is the utility token of the Crownville game ecosystem on TON (Crownville, Basilisk, Crown Miner and Crownville Survivors Telegram mini-apps). Used for all in-game purchases (50% of every purchase is burned on-chain), daily mining rewards and holder bonuses. Team and mining allocations are locked in on-chain vesting contracts, DeDust LP is locked until September 2027.
+address: EQAU00W6spteZHUV6UijgGkUXLT1ZP6E5NcDCYiUsGjtLzBs
+symbol: CROWN
+decimals: 9
+image: "https://crown.crownville.online/crown256.png"
+websites:
+  - "https://crown.crownville.online"
+  - "https://crownville.online"
+  - "https://wiki.crownville.online"
+social:
+  - "https://t.me/hificrownville"
+  - "https://t.me/chathificrownville"
+  - "https://t.me/CrownMinerBot"
+  - "https://t.me/Crownvillebot"
