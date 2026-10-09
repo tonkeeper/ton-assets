@@ -433,3 +433,6 @@
   name: "Changelly 2"
 - address: "UQAU3ksCZHlBd5EIt7mb6FWWJgzN6BM1EAAFXXRN2KugTJYl"
   name: "CoinEx"
+- address: "EQA8Lfn6oWzfa7e7GLATrpJeVykWOLk9iILlWM-utBqmF1k_"
+  name: "Granthe"
+  image: "https://granthe.io/app-icon-512.png"
