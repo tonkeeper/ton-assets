@@ -1,4 +1,13 @@
-address: EQBLdaOp-5bWALvVYR4YqeGeRtrcLVK4q1UNltuUlJ2RXuXb
 name: AntsCoin
 symbol: ANTS
+address: EQBLdaOp-5bWALvVYR4YqeGeRtrcLVK4q1UNltuUlJ2RXuXb
 decimals: 9
+description: "ANTS is the official utility token of the ANTS Coin Colony ecosystem on TON."
+image: "https://res.cloudinary.com/dwk6sw7bm/image/upload/v1779403871/ants/logoANTS256x256.png"
+social:
+  - "https://t.me/ants_colony"
+  - "https://t.me/ants_coin_community"
+  - "https://twitter.com/ants_coin_x"
+  - "https://t.me/ants_miner_bot/ANTS"
+website: 
+  - "https://ap.antscoin.online/"
