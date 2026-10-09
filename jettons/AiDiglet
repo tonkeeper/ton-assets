@@ -1,0 +1,8 @@
+name: AiDiglet
+description: Mining reward token for the AiDiglet Telegram tap-to-mine game. Earned by digging in-app; minted on-chain via prestige withdrawals.
+address: "0:9296150d69e27d3293b930f85eb3475cb7ba5f6e077781e00c77f93ea9362cab"
+symbol: DIGS
+websites:
+  - "https://aidiglet.eniscreener.com"
+social:
+  - "https://t.me/AiDigletBot"
