@@ -1,0 +1,8 @@
+address: EQDGZoXdJZR29BB7WaIE9atzjQu7BV4nbYarZNGcNF2Ar7XK
+name: Phantom Gifts
+description: "Collectible animated gifts on TON. 43 gifts in 1,720 models, each drawn live and animated. Every roll is provably fair: the seed is committed on-chain before the round opens and revealed when it closes, so anyone can recompute their gift."
+image: "https://phantomnumbers.org/static/gifts-catalog/v1/_collection/cover.png"
+websites:
+  - "https://phantomnumbers.org/gifts"
+social:
+  - "https://phantomnumbers.org/about"
