@@ -1,0 +1,9 @@
+name: Bicho Bitcoin
+description: "Token of Bicho Bitcoin Game, a free-to-play game on Telegram (@bichogamebot). Players never pay to play: every mined Bitcoin block is a draw (the last 20 digits of the block hash are the five prizes, verifiable on mempool.space), and winners receive BICHO in their TON wallet."
+image: "https://bicho-bitcoin.github.io/website/logo-512.png"
+address: EQDGdrcCVQSit0RgoOTrHeCivk3pt-FFu4q-YzBzX_p3Nwf_
+symbol: BICHO
+websites:
+  - "https://bicho-bitcoin.github.io/website/"
+social:
+  - "https://t.me/bichogamebot"
