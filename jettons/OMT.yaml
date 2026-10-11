@@ -1,0 +1,10 @@
+name: Only My Token
+description: Only My Token (OMT) is a community memecoin on TON about having something of your own. Liquidity on DeDust is locked forever.
+image: "https://raw.githubusercontent.com/yegorlisokot-netizen/Img/main/omt.png"
+address: EQBj2kxLDFYZMgkmVUIE-0DUnyNC20gXF4OehYBLkrU4kvoO
+symbol: OMT
+decimals: 9
+social:
+  - "https://t.me/OnlyMyToken"
+  - "https://t.me/onlymytoken_chat"
+  - "https://x.com/OnlyMyToken"
