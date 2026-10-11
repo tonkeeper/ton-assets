@@ -1,0 +1,11 @@
+name: "Graham"
+symbol: "GRAHAM"
+address: "EQAX-n6iGgwUXq4RCmH4S2aF1CyXJJGB0UYFUA3B8Xp5IPBU"
+decimals: 9
+description: "my cat weighs a TON. Graham is a hungry cat in a box who grows as the community feeds him. Fixed 1B supply, admin revoked, DeDust liquidity permanently locked. feedgraham.com"
+image: "https://graham-token-assets.pages.dev/graham-logo-512.png"
+websites:
+  - "https://feedgraham.com"
+social:
+  - "https://x.com/GrahamOnTON"
+  - "https://t.me/GrahamOnTON"
