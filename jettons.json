@@ -25495,6 +25495,22 @@
   ]
  },
  {
+  "address": "0:84c7756d4bbe44463e1d91fb1641f3be97e853fd708655b7e0dd9b0f706b5b92",
+  "decimals": 9,
+  "description": "Protocol coin of ONRANK, a launchpad and trading terminal on TON where 70% of every trading fee is paid back to holders in USDT.",
+  "image": "https://onrank.lol/meta/coins/40caf6bd53e24963090ca201481e82ef07809bc68f5f7b17e91b4ca1b94e634d.png",
+  "name": "ONRANK",
+  "social": [
+   "https://t.me/OnRankBot",
+   "https://t.me/onranktradebot",
+   "https://t.me/onranknews"
+  ],
+  "symbol": "RANK",
+  "websites": [
+   "https://onrank.lol"
+  ]
+ },
+ {
   "address": "0:005f01f471a8cfb0c17e9cd0b9933f9268b69e683af833b4357e85703ffbce5b",
   "name": "Orbit Bridge Ton Dai",
   "symbol": "oDAI"
