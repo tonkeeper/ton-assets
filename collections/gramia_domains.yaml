@@ -1,0 +1,8 @@
+name: "Gramia Domains"
+description: "Subdomains of gramia.org. The NFT is the ownership right: transferring it transfers control of the name."
+image: "https://gramia.org/api/nft/domain/collection.png"
+address: EQA_NgStwWLdq1ZuoRUvpnRiSr5kOxyzQlD8D0Xn547hJs5T
+websites:
+  - "https://gramia.org"
+social:
+  - "https://t.me/GramiaRobot"
