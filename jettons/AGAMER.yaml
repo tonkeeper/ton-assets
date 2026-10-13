@@ -1,11 +1,9 @@
 name: AGAMER coin
-description: "AGAMER is the native coin of Agamer Universe — a Telegram ecosystem with games, a built-in marketplace for Agamer NFTs and Telegram Gifts, and auctions. Use it inside @agameruniversebot. Website: agamer.space · News: @agamer_channel · Community: @agamer_chat"
+description: "AGAMER is the native coin of Agamer Universe — a Telegram ecosystem with games, a built-in marketplace for Agamer NFTs and Telegram Gifts, and auctions. Use it inside @agameruniversebot. News: @agamer_channel · Community: @agamer_chat"
 image: "https://raw.githubusercontent.com/Aleksionis/agamer-assets/main/agamer_logo_512.png"
 address: EQA5qN_40wF_i8ZPfX5YD-ypK-PagNSbvSrrtqYDZ45pbIKs
 symbol: AGAMER
 decimals: 9
-websites:
-  - "https://agamer.space"
 social:
   - "https://t.me/agamer_channel"
   - "https://t.me/agamer_chat"
