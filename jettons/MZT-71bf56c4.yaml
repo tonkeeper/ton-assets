@@ -1,0 +1,10 @@
+name: "Монета За Минуту"
+symbol: MZT
+decimals: 9
+address: 0:71bf56c4eef9374ceacff5d0facab9802a98b51e9810b6b9b5d1333d5ca9493a
+description: "Монета За Минуту — внутренний актив сервиса, который выпускает монеты быстро и поощряет активных пользователей."
+image: https://telega.kvazar-sport.ru/moneta/media/a9c0dedc-cab8-478c-a7fc-6db5c44c2522.png
+websites:
+  - https://kvazar-sport.ru/
+social:
+  - https://t.me/monetazaminutu
