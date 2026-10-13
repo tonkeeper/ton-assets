@@ -376,6 +376,9 @@
 - address: 0:4dfb0742679b14f45b2a5873379b9329e98773c2415ccf7bbbfb533feed4497d
   name: Axon Enterprise xStock
   symbol: AXONx
+- address: 0:78d01000ec82d7d831e8408e9e2a9544f045109b7f56f9452a75815fbbd58575
+  name: American Express xStock
+  symbol: AXPx
 - address: 0:d247b0f1a7e231b6eb37e41d5e35385cf377f40c378b8d781674c9d3f28b4a3f
   name: Axsome Therapeutics xStock
   symbol: AXSMx
@@ -529,6 +532,9 @@
 - address: 0:23d5919fe8c0071bb4bde5137f6ad2ded052dc18870c465557c96f349db5f419
   name: Berkeley xStock
   symbol: BKG.GBx
+- address: 0:f077d58e616f38c17ae8b280308a3d52ea19b0c768a720711625d6b80dfafd43
+  name: Booking xStock
+  symbol: BKNGx
 - address: 0:d45a89417ad51108c2385798e11ea91674af68605d59968f11f56af9492fa2d3
   name: Baker Hughes xStock
   symbol: BKRx
@@ -907,6 +913,9 @@
 - address: 0:e1968f6096d26728d49f8cd77a8cc5f1a02c8f355ab43441674bde1c841316db
   name: COSCO SHIPPING xStock
   symbol: COSCx
+- address: 0:953e754c0d3b6872ef93624ec5abc50808da0259792f8c3d40fe1df769b195b4
+  name: Costco xStock
+  symbol: COSTx
 - address: 0:394cc98be0aefb66112326fec4de0c8779b49a5da3be87ef85f6f1da9b97d8a4
   name: China Overseas Land & Investment xStock
   symbol: COVELx
@@ -1417,6 +1426,9 @@
 - address: 0:702248568e4f513355e85d6165e529b082993a5bb1316ea5ce37816d7618a673
   name: Expeditors International of Washington xStock
   symbol: EXPDx
+- address: 0:96accb05214f84ea9ddd985b4f65656e9e5a00f9165cea9db446ca8952eb664b
+  name: Expedia xStock
+  symbol: EXPEx
 - address: 0:396d4541491219b4bda77d79b04b821e61099937b59eb40c96de273bf1fb3748
   name: Experian xStock
   symbol: EXPNx
@@ -2500,6 +2512,9 @@
 - address: 0:499beb02825c7b83baa67de17e2e4a28ef9804b211eb482362f41c4c6c91ae41
   name: M&G xStock
   symbol: MNGx
+- address: 0:990d39ce650aec5502117c9532c159f9adb3591d62a07a863b384a9413e38ce4
+  name: Monster xStock
+  symbol: MNSTx
 - address: 0:9a779109f64e35532df8c687b27f5903ab9b2e1f78655a6a5ecbbf2bbe044dc4
   name: Modine Manufacturing xStock
   symbol: MODx
@@ -3898,6 +3913,9 @@
 - address: 0:522ba1d3e18436d35c73ef571f3ad7927555087e0696d2b57c926be09fc53b57
   name: Tyler Technologies xStock
   symbol: TYLx
+- address: 0:e2562985b1b8cdacc9dc49f88debc6f4fc34b273f2296fbf09559aa59f8925af
+  name: AT&T xStock
+  symbol: Tx
 - address: 0:203813bb7cca540b004a3beb62d990fd5a8a0c276fcde306a2528fc95b5ae9ed
   name: United Airlines xStock
   symbol: UALx
