@@ -5445,6 +5445,18 @@
   ]
  },
  {
+  "address": "0:ba03a1b5da421acb631ff0e661e6f8ac9adf8bf00871adf3751eedbf64edf998",
+  "name": "Hood",
+  "social": [
+   "https://t.me/TheHood_Official",
+   "https://x.com/Hood_officialX"
+  ],
+  "symbol": "HOOD",
+  "websites": [
+   "https://hoodofficial.club"
+  ]
+ },
+ {
   "address": "0:f169b674b377350852a1922db93100a901c674b015eec82193163f92d5fbc6f0",
   "decimals": 2,
   "description": "Digital token by Hynexis",
