@@ -124,3 +124,5 @@
   name: "Omniston DEX Bridge"
 - address: "EQBlH85xUNSEqHhnKHzukdWh_Fj4WxnlqLukiT3g5q2waOkg"
   name: "Omniston DEX Bridge"
+- address: "EQClsD8oGu_h7qCUOzsvzPSVav9fmlbS2x5oGnhwaPUIoKl1"
+  name: "Split Proxy"
