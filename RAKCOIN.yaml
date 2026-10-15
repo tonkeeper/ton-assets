@@ -1,0 +1,9 @@
+name: Rakmem
+symbol: RAKCOIN
+description: Massoudraki
+image: "https://bigpump.fra1.cdn.digitaloceanspaces.com/pocketfi-halving.png"
+address: EQCi4Feq04PuwBZe
+decimals: 9
+max_supply: 633223
+social:
+  - "https://t.me/rakcoin_token"
