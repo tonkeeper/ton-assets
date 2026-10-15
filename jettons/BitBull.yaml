@@ -1,0 +1,10 @@
+name: BitBull
+description: "BULL is the reward token of the BitBull Telegram Mini App on TON."
+address: "0:661eddca0a9cc65e9f31446827e994f523e7d21ee1c03744f2af057a5da50b31"
+symbol: BULL
+websites:
+  - "https://bitbull.netlify.app/"
+social:
+  - "https://t.me/BitBullMinerOfficial"
+  - "https://t.me/BitBullCommunity"
+  - "https://x.com/BitBullMiniapp"
