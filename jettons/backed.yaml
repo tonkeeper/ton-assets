@@ -541,6 +541,12 @@
 - address: 0:16adb488d610ff148b67c6efc09fdb81375bd76c94ba02c45fd70886a6b96c63
   name: Builders FirstSource xStock
   symbol: BLDRx
+- address: 0:f364060de8386eaccdd8479eb3b4761f88938c0415a963ced23558eb047b1a7c
+  name: BlackRock xStock
+  symbol: BLKx
+- address: 0:e15267fa686cf578498fbe4b51ea364cce507726fcdcd637997e39ca16d45efd
+  name: Bullish xStock
+  symbol: BLSHx
 - address: 0:2f2fe596845939d4313376713b7ec916a62a7d105655f094c902365f1b181822
   name: Bitmine xStock
   symbol: BMNRx
@@ -1216,6 +1222,9 @@
 - address: 0:95fecb6d7d90b5628319249c2253258f58a0ce26b68e12510f756006f5ef93ec
   name: Duke Energy xStock
   symbol: DUKx
+- address: 0:246351d812442bc918ab785e0baa5c25f3a282413ecfc37be89d61693c09d47b
+  name: Duolingo xStock
+  symbol: DUOLx
 - address: 0:63e168cca1d1be245778301c28ec2c127a1f847b140d3fbc41b22e2d532353f8
   name: DaVita xStock
   symbol: DVAx
@@ -1231,6 +1240,9 @@
 - address: 0:fcd6b50cee185fe1141016323f24c0ce602ad5cd3120990b7c488c357180559a
   name: Dominion Energy xStock
   symbol: Dx
+- address: 0:ec700f2a6b16713a0d89c120d3c25fb96593ec275f331fac06d989eabbbff0cb
+  name: eBay xStock
+  symbol: EBAYx
 - address: 0:d66fc3111d0d05df027d3db3751a653964e8bd5e7c4a645a08792fe93237678a
   name: Erste Group Bank xStock
   symbol: EBS.ATx
@@ -1498,6 +1510,9 @@
 - address: 0:fdeaa3fb1a2588579b4ec374189c9449a98078b4798e8e24c93ad93d2dbeed82
   name: Figure Technology Solutions xStock
   symbol: FIGRx
+- address: 0:0a87965127432b6df161df1094af9890baa0b131d0e32b7203c803481052f8c3
+  name: Figma xStock
+  symbol: FIGx
 - address: 0:f272602408939274197a8ec4ee94d38410260210308eb2218590ec4d6a2b6098
   name: Fiserv xStock
   symbol: FISVx
@@ -3604,6 +3619,9 @@
 - address: 0:00b1f9756be040f1d492517d95a4b0af7856330ce2eb257f6597cf5b6926e6be
   name: SpaceX xStock
   symbol: SPCXx
+- address: 0:1d9115b25d0b6218d536fe4a2cbe567a3bcda2c3c9232528e67d6670193465b6
+  name: S&P Global xStock
+  symbol: SPGIx
 - address: 0:be2eac303fad00d5838775ff3acd4d45a90ba9cbf89de697b60104ff90314833
   name: Simon Property xStock
   symbol: SPGx
@@ -3748,6 +3766,9 @@
 - address: 0:d23a37e232ba6615f05bbe6bb95a3718d8b1a9a453d0e09a2ba7a045e5539347
   name: Telefonica xStock
   symbol: TEFx
+- address: 0:b23e4cdf424c49b6509ed898b1afba349ce1cc46b6a23ae9b33a19491ddd26ba
+  name: Tempus AI xStock
+  symbol: TEMx
 - address: 0:47f90edf37054db09f865095466839aafa9a3fbdff12b3f2f1318e8fa8e22256
   name: Teradyne, Inc. xStock
   symbol: TERx
@@ -3763,6 +3784,9 @@
 - address: 0:b1dbae1e18574b8b818b6b1501132e63c183899f12f9c1aa07e1f91acc03e230
   name: Teleflex xStock
   symbol: TFXx
+- address: 0:8d0ce3e8e6a128a26906415cfdc8a59df5c6e54144e9156fcd3454e21ee3dc9a
+  name: Target xStock
+  symbol: TGTx
 - address: 0:3c7427677c7afb2efd6218cda225ae81e65bb2cbe8b59181bcf0c09138774013
   name: Tenet Healthcare xStock
   symbol: THCx
@@ -4099,6 +4123,9 @@
 - address: 0:6a4e2778a239b02587d25bbbc4ee83e90a4d2113618376e07be24bcafb0d04fb
   name: Versant Media xStock
   symbol: VSNTx
+- address: 0:288ec1c2343fb689ce26c6a021eeee1ea9535bcaebd0f4bc59d22b4305dd2fa3
+  name: Vistra xStock
+  symbol: VSTx
 - address: 0:7b8a4dfefe8450d0510825862ef0d1be00d21a31df8a34b5d2bdf6e648c081d6
   name: Vanguard xStock
   symbol: VTIx
