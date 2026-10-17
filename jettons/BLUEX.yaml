@@ -2,11 +2,13 @@ name: BlueCoin
 symbol: BLUEX
 address: EQCUcgi1T0zSOvRIIM4ucj83GI2xqTxrLhaAlwaH8tOw9oTJ
 decimals: 9
-description: BlueCoin (BLUEX) is a community-driven digital token built on the TON blockchain, designed for fast, low-cost and secure transactions.
+description: "BlueCoin (BLUEX) is a fixed-supply TON Jetton with disabled minting and revoked admin rights. Its BlueTap Telegram Mini App awards off-chain game points; token claims are not yet enabled."
 image: "https://raw.githubusercontent.com/hazhanhasani/BULECOIN-GRAM/main/bluecoin-logo.png"
 websites:
   - "https://hazhanhasani.github.io/BULECOIN-GRAM/"
   - "https://github.com/hazhanhasani/BULECOIN-GRAM"
+  - "https://github.com/hazhanhasani/blueTap"
   - "https://app.ston.fi/pools/EQAJTo3VcLriSaMj-HdTzeEX6NJoQCyzG59bdvMW0k9956WX"
 social:
   - "https://t.me/bluecoinx"
+  - "https://t.me/bluecoinxbot"
