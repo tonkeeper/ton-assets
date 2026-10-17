@@ -1,0 +1,10 @@
+name: Kvazar Sport
+symbol: KS
+decimals: 9
+address: 0:1b1cb50320794e78ed1da94de7d9f874b9fc811ceb288acb12d7ee2bc18d06f5
+description: "Крипто-экосистема, где шаги и NFC-идентификация превращаются в начисление KS COINS."
+image: https://telega.kvazar-sport.ru/moneta/media/c0a2c414-f08d-40bc-9927-5a16b242150a.png
+websites:
+  - https://kvazar-sport.ru/
+social:
+  - https://t.me/KVAZARSPORTBOT
