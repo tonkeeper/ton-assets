@@ -1,0 +1,18 @@
+name: AwanToken
+description: >-
+  AwanToken ($AWN) is a TON jetton with on-chain DEX buy/sell limits.
+  Prefer Ston.fi for swaps. Miniapp games, claim UX, and live DeDust chart.
+  Logo: https://awn-miniapp-vercel.vercel.app/awn-logo-gt.png
+  Banner: https://awn-miniapp-vercel.vercel.app/awn-banner-gt.png
+image: "https://awn-miniapp-vercel.vercel.app/awn-logo-gt.png"
+address: "0:364fe9eb78a72707366641f0097c45c205dc7ca8f1958bccc621484532d622d6"
+symbol: AWN
+decimals: 9
+websites:
+  - "https://awn-miniapp-vercel.vercel.app/"
+social:
+  - "https://x.com/Awan_Token"
+  - "https://t.me/AwanToken"
+  - "https://t.me/+jxwcNdhEOINlMjE0"
+  - "https://t.me/AwanToken_bot"
+  - "https://github.com/AwanToken/awan-token"
