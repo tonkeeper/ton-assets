@@ -1,19 +1,15 @@
 
 name: Vranfi Protocol
-description: "Vranfi Protocol - Powering the Future of a Decentralized World.
-
-Vranfi Protocol is a forward-looking vision for the next generation of digital technology, blockchain innovation, and decentralized finance. Our mission is to explore new possibilities in Web3 by building a more connected, accessible, and efficient digital ecosystem.
-
-Driven by innovation, transparency, and a future-focused mindset, Vranfi Protocol aims to contribute to the evolving digital economy and empower the next wave of decentralized innovation.
-
-The future is evolving. The possibilities are limitless. Welcome to Vranfi Protocol."
-address: "EQAiLxEpbv8IZxz37MWgA_JWHQdjiiW307SLBGOwYc6g4RwK"
 symbol: VNF
 decimal: 9
+address: "EQAiLxEpbv8IZxz37MWgA_JWHQdjiiW307SLBGOwYc6g4RwK"
+description: "Vranfi Protocol - Powering the Future of a Decentralized World. Vranfi Protocol explores blockchain innovation, Web3, and decentralized finance with a vision for a more connected, accessible, and efficient digital ecosystem."
 websites:
   - "https://vranfi.info"
 social:
   - "https://t.me/vranfi_protocol"
   - "https://x.com/Vranfi_Protocol"
   - "https://github.com/Vranfi"
-  - "https://dyor.io/token/EQAiLxEpbv8IZxz37MWgA_JWHQdjiiW307SLBGOwYc6g4RwK"
+  -- "https://dyor.io/token/EQAiLxEpbv8IZxz37MWgA_JWHQdjiiW307SLBGOwYc6g4RwK"
+  -- "https://app.ston.fi/swap?chartVisible=false&chartInterval=1w&tt=EQAiLxEpbv8IZxz37MWgA_JWHQdjiiW307SLBGOwYc6g4RwK&ft=GRAM"
+  
