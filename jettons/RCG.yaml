@@ -1,0 +1,12 @@
+name: Rush Caps Game
+description: "RCG is the token of RushCaps, a collectible chip game in Telegram. Players mine RCG with their chips in the game, and RCG spent inside the game is burned on-chain."
+image: "https://rushcaps.xyz/pic/rcg_coin.png"
+address: EQDoTwRq4Y7Nc2pWPQlYhsuN8u50LzP4L_saZV5S84jreWHh
+symbol: RCG
+websites:
+  - "https://rushcaps.xyz"
+  - "https://rushcaps.xyz/en/token"
+social:
+  - "https://t.me/RushCaps"
+  - "https://t.me/RushCapsChat"
+  - "https://t.me/RushCapsBot"
