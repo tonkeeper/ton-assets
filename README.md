@@ -123,6 +123,7 @@ Name           | Address
 [Omniston DEX Bridge](https://tonviewer.com/0:2aea715c8e8efa6561197c07a3ab9f3d9f498cd3fa75cdcf76ccec16424c9b6c) | EQAq6nFcjo76ZWEZfAejq589n0mM0_p1zc92zOwWQkybbJf3
 [Omniston DEX Bridge](https://tonviewer.com/0:f2b67835de3f05e44ac5e635365f7ab14d8bdd8836db0baa89c6b157a92779e2) | EQDytng13j8F5ErF5jU2X3qxTYvdiDbbC6qJxrFXqSd54mkB
 [Omniston DEX Bridge](https://tonviewer.com/0:651fce7150d484a87867287cee91d5a1fc58f85b19e5a8bba4893de0e6adb068) | EQBlH85xUNSEqHhnKHzukdWh_Fj4WxnlqLukiT3g5q2waOkg
+[Split Proxy](https://tonviewer.com/0:a5b03f281aefe1eea0943b3b2fccf4956aff5f9a56d2db1e681a787068f508a0) | EQClsD8oGu_h7qCUOzsvzPSVav9fmlbS2x5oGnhwaPUIoKl1
 [Tether USD](https://tonviewer.com/0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe) | EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs
 [Morgenshtern](https://tonviewer.com/0:91d73056e035232f09aaf8242a1d51eea98b6a5bebbf8ac0c9e521d02a1a4bdb) | EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV
 [Morgenshtern Private](https://tonviewer.com/0:a90da09563b6740a4b7f68ca09fbdb76b0035cc101450a16e2e79b985ebbb38a) | EQCpDaCVY7Z0Ckt_aMoJ-9t2sANcwQFFChbi55uYXruzilrn
@@ -300,6 +301,7 @@ Name           | Address
 [Totemancer: PFPs](https://tonviewer.com/0:7c66628f8cbfec8779f857a823d6840d1ea956f4cf90e7c022100da75c16316b) | EQB8ZmKPjL_sh3n4V6gj1oQNHqlW9M-Q58AiEA2nXBYxaw1G
 [Totemancer: Totems](https://tonviewer.com/0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2) | EQBfThrlgdINBPdzVi_yLjCioYZqc8XOBYgePglglLmCwmrc
 [Unstoppable Tribe from ZarGates](https://tonviewer.com/0:463685d77d0474ec774386d92622ed688d34f07230741211d838c487dcfeec64) | EQBGNoXXfQR07HdDhtkmIu1ojTTwcjB0EhHYOMSH3P7sZGJR
+[Victor Unleashed](https://tonviewer.com/0:949eb7fedf26700c469a9ee5c3b7316da8d5aa29d435b1a0140fbae4c82b6234) | EQCUnrf-3yZwDEaanuXDtzFtqNWqKdQ1saAUD7rkyCtiNKFY
 [ZarGates GiftBoxes](https://tonviewer.com/0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c) | EQD1YVbwG5dNV9lZgz18F4cjBm5iqYXyeUqdGe21JXjsLCIo
 [ZarGates Scratch Cards](https://tonviewer.com/0:58b22ef862a9e6412d427026d443e918728069d84a482f8621fc1e7dd304d6f5) | EQBYsi74YqnmQS1CcCbUQ-kYcoBp2EpIL4Yh_B590wTW9SXi
 [Zargates StickerBoxes](https://tonviewer.com/0:733d5b87a1247f425045b72262c837c974acbe769dac3816d8d2cd01052cda32) | EQBzPVuHoSR_QlBFtyJiyDfJdKy-dp2sOBbY0s0BBSzaMps7
