@@ -460,6 +460,10 @@
   "name": "Omniston DEX Bridge"
  },
  {
+  "address": "0:a5b03f281aefe1eea0943b3b2fccf4956aff5f9a56d2db1e681a787068f508a0",
+  "name": "Split Proxy"
+ },
+ {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD"
  },
@@ -512,11 +516,6 @@
   "address": "0:a355d7c7de45bb6845a5dd525798cca23cd518ca601b9c6a932493ae82292b79",
   "image": "https://t.me/i/userpic/320/onetimeusername.jpg",
   "name": "Pavel Durov"
- },
- {
-  "address": "0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112",
-  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
-  "name": "Notcoin"
  },
  {
   "address": "0:28270ec1a4e7010f7cbdbe832e110faa852dcae20b4cfba11e3cbc64ce4f224a",

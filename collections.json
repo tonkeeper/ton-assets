@@ -205,6 +205,20 @@
   "name": "StickerBox TON's Witnesses"
  },
  {
+  "address": "0:949eb7fedf26700c469a9ee5c3b7316da8d5aa29d435b1a0140fbae4c82b6234",
+  "description": "Victor Unleashed is the limited edition NFT collection of Victor's Company, the Telegram mining game on TON: 1,111 unique miners, each a one-of-a-kind mix of background, pattern, frame and miner, so no two are alike. Minted in the Victor's Company Telegram app.",
+  "name": "Victor Unleashed",
+  "social": [
+   "https://x.com/VictorsCompany",
+   "https://t.me/Victors_Company",
+   "https://t.me/VictorsCompanyChat",
+   "https://t.me/VictorsCompanyBot/app"
+  ],
+  "websites": [
+   "https://victors.company"
+  ]
+ },
+ {
   "address": "0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c",
   "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. \ud83d\udd25 OPEN GIFTBOXES, pull Stickerboxes, and collect Golden Orc stickers to claim the most valuable rewards from ZarGates! 100% of all proceeds go toward the prize pool and collection promotion. \ud83d\udc8e Don't miss your chance to claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
   "image": "https://metadata.zargates.com/giftbox/collection_image.png",
