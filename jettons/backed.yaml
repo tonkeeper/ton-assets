@@ -478,6 +478,9 @@
 - address: 0:51f71e8dbaa9be3dc3a2d05ea0ba445dad737c877318785785dc79c9a75cf7c4
   name: Becton Dickinson xStock
   symbol: BDXx
+- address: 0:f959cac713ffd2ed07959cf41395c0872cbfbef81601680982a8c782c84202cf
+  name: Beiersdorf xStock
+  symbol: BEIx
 - address: 0:c980fc031bb4f0cbe64e51bd5d70a5094212afd8525c255c487539338d34584c
   name: Franklin Templeton xStock
   symbol: BENx
@@ -565,6 +568,9 @@
 - address: 0:2c88358d84f20db14f079bed3fff810a614bcdfc555114c99b6c7d24d3361daa
   name: BNP Paribas xStock
   symbol: BNPx
+- address: 0:a6726324c7efb05703b7b3fa98d1cbaa50f62ef57ae66bbb525910ce45a58197
+  name: Brenntag xStock
+  symbol: BNR.DEx
 - address: 0:37ef99bc2bfc8bd02600ad5496e9b2a37304629b2df48229643a02356d652f78
   name: Bank of New York Mellon xStock
   symbol: BNYx
@@ -703,6 +709,9 @@
 - address: 0:2aa6e1a1abe3c621527fbb21864b348fa2dc870435ca08842c094254fd81c506
   name: Cava xStock
   symbol: CAVAx
+- address: 0:7b35aa2e5e88c93dd17e09e05e392424afdf798aac8f22991502791a096eea02
+  name: Commerzbank xStock
+  symbol: CBK.DEx
 - address: 0:3521a18f7896ac9084bde005157808adf7b47476f027f293998a831f7e5fdc1c
   name: CBRE xStock
   symbol: CBREx
@@ -898,6 +907,9 @@
 - address: 0:43d9e6bd7fa863dbd239de2a997b77d9c8d81b52a69240f82ac299295d44d176
   name: Columbia Sportswear xStock
   symbol: COLMx
+- address: 0:ac3ffa5be2529515f4fda8aeaccb4cb340c7c5baf7af270258fb1677fb6dd0d8
+  name: Continental xStock
+  symbol: CON.DEx
 - address: 0:14c3a9e40818d89b06c3e815747c535c7f3e53b38a9c6562e6d4c4865086a747
   name: The Cooper Companies xStock
   symbol: COOx
@@ -1552,6 +1564,9 @@
 - address: 0:e011ff3076d55bff315ba25f0349d2fdbfa393673bb25ab14c34a2bb88fd6864
   name: Firefly Aerospace xStock
   symbol: FLYx
+- address: 0:ed6524fd369190194037733b49e5424b674bf6295063e1f5a5b9e2cb0bb65cc5
+  name: Fresenius Medical Care xStock
+  symbol: FMEx
 - address: 0:1ae4305a4ac1b7a0635d55041c903ed9fcff2011eb35500a8812dbb145d06d55
   name: F N B xStock
   symbol: FNBx
@@ -1624,6 +1639,12 @@
 - address: 0:1f17d8aedc0a30c911802fbb00fbb87875afb95fed968d6887eba80831df3c08
   name: Generali xStock
   symbol: G.ITx
+- address: 0:ac71fb8527d506c84703fcf44394ff406dbe10a8a33ad71ebed0d62b39ace12d
+  name: GEA xStock
+  symbol: G1Ax
+- address: 0:555d6ca45edcd233985baca57677fe137c9be500eaaa89cdc52716ee6b5a4c3b
+  name: Scout24 xStock
+  symbol: G24x
 - address: 0:c322574acf2cb149057aedff65a786cbdc70f71df612b8a63c4b3d36b4ef621d
   name: Gap xStock
   symbol: GAPx
@@ -1810,6 +1831,9 @@
 - address: 0:902369a827929ee548c69eea0f66193a72208944b7945cbdb80ba5f81e1beca5
   name: Heico xStock
   symbol: HEIx
+- address: 0:41877233c9c04fba0f50411d99f2bd2a04491e24996a55b1bdff0d25db0e6a57
+  name: Henkel xStock
+  symbol: HEN3x
 - address: 0:9c17cef84eb810275d57835c97affc86a67024cd108e846f02f3de3023f2cebb
   name: Howard Hughes xStock
   symbol: HHHx
@@ -1864,6 +1888,9 @@
 - address: 0:07cf58cadbb34ee48747ae1b7cd78ebe105cfda78912659c761f5c57b8d40e62
   name: Robinhood xStock
   symbol: HOODx
+- address: 0:658454a331dcbd63449b5fe66c136717248630ead59a0e05fea971a82aaa75bb
+  name: Hochtief xStock
+  symbol: HOTx
 - address: 0:df403d65b533d1b29a060de58bdee19d9b7e7dbb2513c71b8994a515b12efca9
   name: Thales xStock
   symbol: HOx
@@ -3133,6 +3160,9 @@
 - address: 0:f97cb454981be64e314a3fec35a7b58756f6d4ebec706c4fa1a2a6d976c8b74e
   name: Qualcomm xStock
   symbol: QCOMx
+- address: 0:6aa6ea4e00f871851d261e9ef18706cd01fee7b9f279e26390d19a3515f5e6ac
+  name: Qiagen xStock
+  symbol: QIA.DEx
 - address: 0:bc3f21ea55a572b34e0e929411182c6b101c1bca98409951b5298e2f59cc2b80
   name: Quantinuum xStock
   symbol: QNTx
@@ -3724,6 +3754,9 @@
 - address: 0:8139b7a7bc161c83f6398ec2491b180ac98ede16f751aef68f93ae7ed8c88844
   name: Smurfit WestRock xStock
   symbol: SWx
+- address: 0:b5454388086b519f1cc5b793217bedbcf7a1e30f0dd19e35761e502f6df487bf
+  name: Symrise xStock
+  symbol: SY1x
 - address: 0:6cddf179cdc7d88d187a602f2ab11f66738ed381c3b67c236351ac4ec43d7b7a
   name: Synchrony Financial xStock
   symbol: SYFx
@@ -4348,6 +4381,9 @@
 - address: 0:02da0a30c982ff224ae9b06d8010e2873745d516c49f28a0281ac55df2e17fd3
   name: Yum Brands xStock
   symbol: YUMx
+- address: 0:08dd256312d3833cd362847305a51cb98524eca1645e4bf7dfe47e259bbaba3f
+  name: Zalando xStock
+  symbol: ZAL.DEx
 - address: 0:b8faa0b7639ca2fd1fd371e80500198c2f249b7a9607116aaf9cbca3f508dc26
   name: Zimmer Biomet xStock
   symbol: ZBHx
