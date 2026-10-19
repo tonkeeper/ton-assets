@@ -1,5 +1,6 @@
-name: MURKA
-address: EQBEOhhWX47ZzkoKRlrTkkqBbX3BVKQ87Oe95_kdsSLRkDie
+name: MurkaCoin
+description: "MurkaCoin — мемный токен на блокчейне TON, посвящённый Мурке."
+address: EQCfVp_wxX_bG5fX0_uM27KyTLBhTSF2RA5v0tY1TMSeYbg0
 symbol: MURKA
 websites:
   - "https://mishadev.ru"
