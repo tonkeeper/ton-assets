@@ -7862,6 +7862,21 @@
   ]
  },
  {
+  "address": "0:ea766913c16ae12cc58a205904081da070c9b0e564bd00189adf0869eebac824",
+  "decimals": 9,
+  "description": "The capped coin of YAYA Mining. 21,000,000 ever: mined by camps in the game, 75% of what is spent there is burned.",
+  "image": "https://launchpad.yayaton.org/ore/logo.png",
+  "name": "ORE",
+  "social": [
+   "https://x.com/Yaya_gram",
+   "https://t.me/yayafam"
+  ],
+  "symbol": "ORE",
+  "websites": [
+   "https://yayaton.org"
+  ]
+ },
+ {
   "address": "0:8d02004e5f158f6af5d17c1ab76d6717ce58500a63c1952553836a727cf2b315",
   "description": "ORANGE is a meme coin with no intrinsic value or expectation of financial return. This coin is for entertainment purposes only.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcnagboxxwpavxrfbq3bwcxzlhqcmpblsvtg2pyfpkzfux2.png",
