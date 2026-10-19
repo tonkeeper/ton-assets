@@ -6286,6 +6286,22 @@
   ]
  },
  {
+  "address": "0:e73a06d48cd6c49a969538522bf257174b9526bb19644533134c1a6c19e1c2fc",
+  "description": "Lumetra mining and rewards token",
+  "image": "https://web.lumetramine.com/lumetra-coin.png",
+  "name": "Lumetra",
+  "social": [
+   "https://t.me/LUMETRAS_BOT",
+   "https://t.me/LumeTRA_new",
+   "https://x.com/lumetramine",
+   "https://www.youtube.com/@lumetramine"
+  ],
+  "symbol": "LMTR",
+  "websites": [
+   "https://home.lumetramine.com/"
+  ]
+ },
+ {
   "address": "0:2daa8f418cad46c6415ec8b700b21bf020f952298415129f976ab29279711297",
   "decimals": 9,
   "description": "Utility token of the LuneX Tap-to-Earn game on TON. Tap the moon, raise lunar pets, complete tasks and earn rewards.",
