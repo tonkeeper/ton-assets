@@ -9669,6 +9669,21 @@
   ]
  },
  {
+  "address": "0:61e1f1b660c60bd8432c81b384a35665d86573129791c9a49172ca030df5c640",
+  "description": "Spider Miner ($SPID) is a mining token on TON. Hire miners, mine $SPID every day and hold it in your wallet to boost your mining.",
+  "image": "https://spiderminer.lol/SPID.png",
+  "name": "Spider Miner",
+  "social": [
+   "https://t.me/Spider_Miner",
+   "https://x.com/Spider_Miner_"
+  ],
+  "symbol": "SPID",
+  "websites": [
+   "https://spiderminer.lol",
+   "https://t.me/SpiderMinerBot/app"
+  ]
+ },
+ {
   "address": "0:b8ee307dd315d013ad344d34e61e3590b9bd68f6fba4c1d7cc776174b037dc10",
   "description": "The first Spirit launched on TON",
   "image": "https://i.ibb.co/JwQxfjY9/IMG-8624.jpg",
