@@ -10143,6 +10143,17 @@
   ]
  },
  {
+  "address": "0:26df33bc55642cd7ef95deb0a388ad430c576dd16898eed92ceef2c8ed2388a0",
+  "description": "Official Telegram Sticker Pack created by Iryna Pavlenko",
+  "image": "https://i.ibb.co/Q3ZpDNzp/Telegram-Sticker-Jam.png",
+  "name": "Sweet Jam",
+  "social": [
+   "https://x.com/SweetJamGram",
+   "https://t.me/telejamgram"
+  ],
+  "symbol": "Jam"
+ },
+ {
   "address": "0:349cb1c7799ad3d52c16ac177c379ff908a5c94052fb0a73d80cb2e7c3eb08aa",
   "description": "Web3 Ton smart contract options trading platform.",
   "image": "https://cdn.blum.codes/409411f9-b04f-4c59-94af-eda48dbd23e4/4e6f8de3-2354-4666-8514-69b0bf043344",
