@@ -7562,6 +7562,21 @@
   ]
  },
  {
+  "address": "0:0ee74c7c9a33a9b83996304e6bcb66a10b8f53ef6e87311b1ad89fb89958c76d",
+  "decimals": 9,
+  "description": "NifuzKB is a community-driven utility token on the TON blockchain.",
+  "image": "https://storage.dyor.io/jettons/EQAO50x8mjOpuDmWME5ry2ahC49T726HMRsa2J-4mVjHbcmh/image.png",
+  "name": "NifuzKB",
+  "social": [
+   "https://x.com/NifuzKB",
+   "https://t.me/NKBoffical"
+  ],
+  "symbol": "NKB",
+  "websites": [
+   "https://telegra.ph/NifuzKB-NKB-Official-Whitepaper-06-02"
+  ]
+ },
+ {
   "address": "0:298d02b5aa967706310231a2b41a4b1e592eea7e7840e585dd3fe60a5242b61e",
   "description": "Definitely NOT Pepe. Nope.",
   "image": "https://notpepe.fun/images/nope-logo.png",
