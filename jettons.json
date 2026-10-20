@@ -4314,6 +4314,16 @@
   "symbol": "FLEX"
  },
  {
+  "address": "0:1abc1699d03aec5835661fe7e891b4fc7efe551279bc8435f60037e3b91a0995",
+  "description": "one of the two KOL Labs main forces",
+  "name": "FLEXME",
+  "social": [
+   "https://t.me/flex_on_ton",
+   "https://x.com/flexonton"
+  ],
+  "symbol": "$FLXM"
+ },
+ {
   "address": "0:689b8b252c87adc7129b00c6110fad41430b3146747f4e6d003b97a3897b1262",
   "description": "FlyON is the eagle mascot of Telegram / TON building culture. FlyON helps communities learn Telegram culture, understand TON basics and build together.",
   "image": "https://assets.grambo.fun/mainnet/images/3dfb83e9e1c42f1924e74355efc18d09.png",
