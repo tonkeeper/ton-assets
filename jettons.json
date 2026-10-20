@@ -805,6 +805,23 @@
   ]
  },
  {
+  "address": "0:4b75a3a9fb96d600bbd5611e18a9e19e46dadc2d52b8ab550d96db94949d915e",
+  "decimals": 9,
+  "description": "ANTS is the official utility token of the ANTS Coin Colony ecosystem on TON.",
+  "image": "https://res.cloudinary.com/dwk6sw7bm/image/upload/v1779403871/ants/logoANTS256x256.png",
+  "name": "AntsCoin",
+  "social": [
+   "https://t.me/ants_colony",
+   "https://t.me/ants_coin_community",
+   "https://twitter.com/ants_coin_x",
+   "https://t.me/ants_miner_bot/ANTS"
+  ],
+  "symbol": "ANTS",
+  "websites": [
+   "https://ap.antscoin.online"
+  ]
+ },
+ {
   "address": "0:ceaf34312ace94e6427869e99b97fc6f8d7fcb8c9b6165219bc4e27a1ddfc403",
   "description": "Agent 301 is a Telegram-based Do2Earn game with mini-games and social tasks. The $AP token powers in-game energy, boosts, staking, voting, and premium access.",
   "name": "Agent Points",
