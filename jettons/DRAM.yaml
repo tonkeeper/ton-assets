@@ -1,0 +1,11 @@
+address: "EQAmWEVr6CDqlGmZ6FTaU-xn8urxkTwrKAcvxUt-Gbr5yEDj"
+name: "DRAM"
+symbol: "DRAM"
+decimals: 9
+description: "DRAM is a community-owned token on TON. Mine it for free in the DRAM Miner app."
+image: "https://dram.faithton.online/dram-logo.png"
+websites:
+  - "https://dram.faithton.online"
+social:
+  - "https://t.me/dram0fficial"
+  - "https://t.me/dramminerbot"
