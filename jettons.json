@@ -2928,6 +2928,21 @@
   ]
  },
  {
+  "address": "0:f78c7567c01eaea574698456fe3eb5a59a215eea87c6b39a5408349df9d11518",
+  "decimals": 9,
+  "description": "DIGGO is the token of the DIGGO Telegram mining game on TON.",
+  "image": "https://diggo.linkpc.net/assets/diggo-token-logo.webp",
+  "name": "Diggo",
+  "social": [
+   "https://t.me/diggo_community",
+   "https://x.com/diggotoken"
+  ],
+  "symbol": "DIGGO",
+  "websites": [
+   "https://diggocoin.com"
+  ]
+ },
+ {
   "address": "0:31fdc0185b4369cf458bf2709024632d41741db626c2a8ca141818935ccfe664",
   "description": "DILS - The New Internet Meme Currency! \ud83d\udc8e Ready to be part of the new internet phenomenon? Introducing $DILS, the meme token that will change the way you think about cryptocurrency! $DILS - is not just freedom, it\u2019s a lifestyle!",
   "image": "https://raw.githubusercontent.com/DDS-Meme/website/main/dilisium.png",
