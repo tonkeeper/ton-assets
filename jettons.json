@@ -6383,6 +6383,23 @@
   ]
  },
  {
+  "address": "0:8ce031330d514babb91a4a87505fef3ebbf685f4cf430ded4478f5acb8ca33a8",
+  "decimals": 9,
+  "description": "Mine, Hold, Earn - the more you LOOT, the faster you loot. The native token of the LootVault DEX platform.",
+  "image": "https://lootvault.lol/token/loot/logo.jpg",
+  "name": "LOOT",
+  "social": [
+   "https://t.me/lootvault_channel",
+   "https://t.me/LootVault_Community",
+   "https://t.me/LootVaultDexBot",
+   "https://dexscreener.com/ton/eqaj_sedwxcvkh7zobjzbyo4quydzacazjrgsmtnymumxr1h"
+  ],
+  "symbol": "LOOT",
+  "websites": [
+   "https://lootvault.lol"
+  ]
+ },
+ {
   "address": "0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4",
   "decimals": 9,
   "description": "The concept of the LOVE jetton is the Metaverse. Metaverse for virtual dating. Jetton based on the TON blockchain. Telegram channel - @loveholders, @loveholderschat, @loveholderseng, @loveengchat, loveholders.com",
