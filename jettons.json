@@ -440,6 +440,18 @@
   "symbol": "RADU"
  },
  {
+  "address": "0:0e90abf40768d5212558461214acff1b1c911f3489385c6b37d4ab813309ca32",
+  "decimals": 9,
+  "description": "Resistance Fish",
+  "image": "https://avatars.githubusercontent.com/u/284965262",
+  "name": "Resistance Fish TON Memecoin",
+  "social": [
+   "https://t.me/refitg",
+   "https://x.com/refionx"
+  ],
+  "symbol": "REFI"
+ },
+ {
   "address": "0:c5ca7aecb7380b32151c409b119e087c4d75cd95dea4dee4f9efdd0db9540088",
   "description": "SmartCoinStrategy $SMART A community-driven token empowering investors to start with Cryptocurrencies.",
   "image": "https://smartcoinstrategy.com/wp-content/uploads/2025/09/smartcoinstrategy-logo-black.jpeg",
