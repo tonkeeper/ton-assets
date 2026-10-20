@@ -55,6 +55,9 @@
 - address: 0:c139f9c599095786d8e823a548b445926a01194533d69237845e2f2d69d05644
   name: Accenture xStock
   symbol: ACNx
+- address: 0:136ce836edbb14f80df03fc434757b93ce8b92750d2baf1b89a0fd2e99968378
+  name: ACS Actividades de Construccion y Servicios xStock
+  symbol: ACS.ESx
 - address: 0:42df745aa27770dc4d2ee6775617e02410855807e73be0d986220f2a182d04d9
   name: Koninklijke Ahold Delhaize xStock
   symbol: AD.NLx
@@ -1879,6 +1882,9 @@
 - address: 0:c7207dc124bc37b6fc8d4b3eb8278edb3ee94a8d4e863c9ceaa17b2a2a196084
   name: Henderson Land Development xStock
   symbol: HNDLDx
+- address: 0:81d517767efad5b75bcb741a61b2e5652e9cd1aa73944073fbab34774dfe5a4c
+  name: Hannover Rueck xStock
+  symbol: HNR1x
 - address: 0:f863fe29f59edfeb99daa75344ae98f350381edb45656e773d1093ec187cf90e
   name: Harley-Davidson xStock
   symbol: HOGx
