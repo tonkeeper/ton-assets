@@ -1,6 +1,6 @@
 name: "ORE Miner"
-description: "A telegram mining project on ton Blockchain"
-image: "https://raw.githubusercontent.com/Lordsector554/ORE-Logo/7f6b792804852b16f889c12488e0910f6369ae3b/file_00000000b89081f48fd01c52f5fa9de4.png"
+description: A telegram mining project on ton Blockchain
+image: https://raw.githubusercontent.com/Lordsector554/ORE-Logo/7f6b792804852b16f889c12488e0910f6369ae3b/file_00000000b89081f48fd01c52f5fa9de4.png
 address: "EQB9sBqwvy9zgvy0K0LhCiGa0ohQ7d8meNwWdCedTEc9XOfq"
 social: "https://t.me/ORE_Announcement"
 symbol: "ORE"
