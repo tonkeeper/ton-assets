@@ -617,6 +617,21 @@
   ]
  },
  {
+  "address": "0:39a8dff8d3017f8bc64f7d7e580feca92be3da80d49bbd2aebb6a603678e696c",
+  "decimals": 9,
+  "description": "AGAMER is the native coin of Agamer Universe \u2014 a Telegram ecosystem with games, a built-in marketplace for Agamer NFTs and Telegram Gifts, and auctions. Use it inside @agameruniversebot. News: @agamer_channel \u00b7 Community: @agamer_chat \u00b7 Website: agamer.space",
+  "image": "https://raw.githubusercontent.com/Aleksionis/agamer-assets/main/agamer_logo_512.png",
+  "name": "AGAMER coin",
+  "social": [
+   "https://t.me/agamer_channel",
+   "https://t.me/agamer_chat"
+  ],
+  "symbol": "AGAMER",
+  "websites": [
+   "https://agamer.space"
+  ]
+ },
+ {
   "address": "0:b138182d3c0d98b2842b62d444acc2e876ab6a2b258497d4059bbaec7f3cb489",
   "description": "AI is a super technology that changes the world. Now we use it in the web3 field. This will be innovative and unheard of. We are about to change the world and bring you unlimited wealth.",
   "name": "AI GOOD TALK",
