@@ -440,6 +440,18 @@
   "symbol": "RADU"
  },
  {
+  "address": "0:0e90abf40768d5212558461214acff1b1c911f3489385c6b37d4ab813309ca32",
+  "decimals": 9,
+  "description": "Resistance Fish",
+  "image": "https://avatars.githubusercontent.com/u/284965262",
+  "name": "Resistance Fish TON Memecoin",
+  "social": [
+   "https://t.me/refitg",
+   "https://x.com/refionx"
+  ],
+  "symbol": "REFI"
+ },
+ {
   "address": "0:c5ca7aecb7380b32151c409b119e087c4d75cd95dea4dee4f9efdd0db9540088",
   "description": "SmartCoinStrategy $SMART A community-driven token empowering investors to start with Cryptocurrencies.",
   "image": "https://smartcoinstrategy.com/wp-content/uploads/2025/09/smartcoinstrategy-logo-black.jpeg",
@@ -617,6 +629,21 @@
   ]
  },
  {
+  "address": "0:39a8dff8d3017f8bc64f7d7e580feca92be3da80d49bbd2aebb6a603678e696c",
+  "decimals": 9,
+  "description": "AGAMER is the native coin of Agamer Universe \u2014 a Telegram ecosystem with games, a built-in marketplace for Agamer NFTs and Telegram Gifts, and auctions. Use it inside @agameruniversebot. News: @agamer_channel \u00b7 Community: @agamer_chat \u00b7 Website: agamer.space",
+  "image": "https://raw.githubusercontent.com/Aleksionis/agamer-assets/main/agamer_logo_512.png",
+  "name": "AGAMER coin",
+  "social": [
+   "https://t.me/agamer_channel",
+   "https://t.me/agamer_chat"
+  ],
+  "symbol": "AGAMER",
+  "websites": [
+   "https://agamer.space"
+  ]
+ },
+ {
   "address": "0:b138182d3c0d98b2842b62d444acc2e876ab6a2b258497d4059bbaec7f3cb489",
   "description": "AI is a super technology that changes the world. Now we use it in the web3 field. This will be innovative and unheard of. We are about to change the world and bring you unlimited wealth.",
   "name": "AI GOOD TALK",
@@ -787,6 +814,23 @@
   "symbol": "ANTON",
   "websites": [
    "https://app.asmerdov.com/"
+  ]
+ },
+ {
+  "address": "0:4b75a3a9fb96d600bbd5611e18a9e19e46dadc2d52b8ab550d96db94949d915e",
+  "decimals": 9,
+  "description": "ANTS is the official utility token of the ANTS Coin Colony ecosystem on TON.",
+  "image": "https://res.cloudinary.com/dwk6sw7bm/image/upload/v1779403871/ants/logoANTS256x256.png",
+  "name": "AntsCoin",
+  "social": [
+   "https://t.me/ants_colony",
+   "https://t.me/ants_coin_community",
+   "https://twitter.com/ants_coin_x",
+   "https://t.me/ants_miner_bot/ANTS"
+  ],
+  "symbol": "ANTS",
+  "websites": [
+   "https://ap.antscoin.online"
   ]
  },
  {
@@ -2913,6 +2957,21 @@
   ]
  },
  {
+  "address": "0:f78c7567c01eaea574698456fe3eb5a59a215eea87c6b39a5408349df9d11518",
+  "decimals": 9,
+  "description": "DIGGO is the token of the DIGGO Telegram mining game on TON.",
+  "image": "https://diggo.linkpc.net/assets/diggo-token-logo.webp",
+  "name": "Diggo",
+  "social": [
+   "https://t.me/diggo_community",
+   "https://x.com/diggotoken"
+  ],
+  "symbol": "DIGGO",
+  "websites": [
+   "https://diggocoin.com"
+  ]
+ },
+ {
   "address": "0:31fdc0185b4369cf458bf2709024632d41741db626c2a8ca141818935ccfe664",
   "description": "DILS - The New Internet Meme Currency! \ud83d\udc8e Ready to be part of the new internet phenomenon? Introducing $DILS, the meme token that will change the way you think about cryptocurrency! $DILS - is not just freedom, it\u2019s a lifestyle!",
   "image": "https://raw.githubusercontent.com/DDS-Meme/website/main/dilisium.png",
@@ -3480,6 +3539,21 @@
   "symbol": "ECOX"
  },
  {
+  "address": "0:d9abd53758692ba579e2e9392be098ed383a889120e9ef22b89ae86b80185cd4",
+  "decimals": 9,
+  "description": "EGG is the utility token of Farm Bird, used to buy and upgrade Birds, boost egg production, and power the in-game economy. Build your farm, collect eggs, and grow your earnings.",
+  "image": "https://i.ibb.co.com/WvXrSMSh/IMG-20261003-181538-919.jpg",
+  "name": "Farm Bird",
+  "social": [
+   "https://t.me/BirdsFarmEGG",
+   "https://t.me/FarmBirdsGroup"
+  ],
+  "symbol": "EGG",
+  "websites": [
+   "https://birdfarm.tech"
+  ]
+ },
+ {
   "address": "0:e967c692c5c82f09fc8a9831b1abefd68707c0141060288005edd8a66d599332",
   "description": "EK Token serves as the fundamental utility asset across the Escape Kingdom ecosystem, unifying value and access throughout all current and future projects. Through staking, holders gain enhanced winning probabilities, aligning long-term engagement with in-game rewards.",
   "image": "https://ipfs.geek.foundation/ipfs/bafybeifbhpzwkwloykfaijmcfajtttvrilabgyschpxp76kw77wdwcltju",
@@ -3733,7 +3807,7 @@
  },
  {
   "address": "0:fa7dd071d073f5dc97dc56870f8100a32aaa4a5e1de15d23151951dee72440d5",
-  "description": "Your reliable partner in the betting market with a jetton secured by smart contracts on the TON network!",
+  "description": "FAST UP \u2014 a decentralized ecosystem where your network and activity generate real income.",
   "image": "https://i.postimg.cc/SxPL3Xc5/logo.jpg",
   "name": "Fast UP",
   "social": [
@@ -4297,6 +4371,16 @@
    "https://t.me/dovbynkachat"
   ],
   "symbol": "FLEX"
+ },
+ {
+  "address": "0:1abc1699d03aec5835661fe7e891b4fc7efe551279bc8435f60037e3b91a0995",
+  "description": "one of the two KOL Labs main forces",
+  "name": "FLEXME",
+  "social": [
+   "https://t.me/flex_on_ton",
+   "https://x.com/flexonton"
+  ],
+  "symbol": "$FLXM"
  },
  {
   "address": "0:689b8b252c87adc7129b00c6110fad41430b3146747f4e6d003b97a3897b1262",
@@ -5445,6 +5529,18 @@
   ]
  },
  {
+  "address": "0:ba03a1b5da421acb631ff0e661e6f8ac9adf8bf00871adf3751eedbf64edf998",
+  "name": "Hood",
+  "social": [
+   "https://t.me/TheHood_Official",
+   "https://x.com/Hood_officialX"
+  ],
+  "symbol": "HOOD",
+  "websites": [
+   "https://hoodofficial.club"
+  ]
+ },
+ {
   "address": "0:f169b674b377350852a1922db93100a901c674b015eec82193163f92d5fbc6f0",
   "decimals": 2,
   "description": "Digital token by Hynexis",
@@ -6259,6 +6355,22 @@
   ]
  },
  {
+  "address": "0:e73a06d48cd6c49a969538522bf257174b9526bb19644533134c1a6c19e1c2fc",
+  "description": "Lumetra mining and rewards token",
+  "image": "https://web.lumetramine.com/lumetra-coin.png",
+  "name": "Lumetra",
+  "social": [
+   "https://t.me/LUMETRAS_BOT",
+   "https://t.me/LumeTRA_new",
+   "https://x.com/lumetramine",
+   "https://www.youtube.com/@lumetramine"
+  ],
+  "symbol": "LMTR",
+  "websites": [
+   "https://home.lumetramine.com/"
+  ]
+ },
+ {
   "address": "0:2daa8f418cad46c6415ec8b700b21bf020f952298415129f976ab29279711297",
   "decimals": 9,
   "description": "Utility token of the LuneX Tap-to-Earn game on TON. Tap the moon, raise lunar pets, complete tasks and earn rewards.",
@@ -6297,6 +6409,23 @@
   "symbol": "LON",
   "websites": [
    "https://lunaornot.xyz/"
+  ]
+ },
+ {
+  "address": "0:8ce031330d514babb91a4a87505fef3ebbf685f4cf430ded4478f5acb8ca33a8",
+  "decimals": 9,
+  "description": "Mine, Hold, Earn - the more you LOOT, the faster you loot. The native token of the LootVault DEX platform.",
+  "image": "https://lootvault.lol/token/loot/logo.jpg",
+  "name": "LOOT",
+  "social": [
+   "https://t.me/lootvault_channel",
+   "https://t.me/LootVault_Community",
+   "https://t.me/LootVaultDexBot",
+   "https://dexscreener.com/ton/eqaj_sedwxcvkh7zobjzbyo4quydzacazjrgsmtnymumxr1h"
+  ],
+  "symbol": "LOOT",
+  "websites": [
+   "https://lootvault.lol"
   ]
  },
  {
@@ -7445,6 +7574,21 @@
   ]
  },
  {
+  "address": "0:0ee74c7c9a33a9b83996304e6bcb66a10b8f53ef6e87311b1ad89fb89958c76d",
+  "decimals": 9,
+  "description": "NifuzKB is a community-driven utility token on the TON blockchain.",
+  "image": "https://storage.dyor.io/jettons/EQAO50x8mjOpuDmWME5ry2ahC49T726HMRsa2J-4mVjHbcmh/image.png",
+  "name": "NifuzKB",
+  "social": [
+   "https://x.com/NifuzKB",
+   "https://t.me/NKBoffical"
+  ],
+  "symbol": "NKB",
+  "websites": [
+   "https://telegra.ph/NifuzKB-NKB-Official-Whitepaper-06-02"
+  ]
+ },
+ {
   "address": "0:298d02b5aa967706310231a2b41a4b1e592eea7e7840e585dd3fe60a5242b61e",
   "description": "Definitely NOT Pepe. Nope.",
   "image": "https://notpepe.fun/images/nope-logo.png",
@@ -7632,6 +7776,30 @@
   ]
  },
  {
+  "address": "0:c41cb06ced9ea641c1c744b0f269f70990b93a841742aef0ef690d84a6d57618",
+  "decimals": 9,
+  "description": "Powering the Next Digital Economy.",
+  "image": "https://i.ibb.co.com/5hn7Kk33/NVQ.png",
+  "name": "Nuvqix Protocol",
+  "social": [
+   "https://github.com/Nuvqix-Protocol/nuvqix-protocol",
+   "https://x.com/Nuvqix",
+   "https://discord.gg/XDh3npr5m",
+   "https://t.me/nuvqix",
+   "https://www.youtube.com/@Nuvqix",
+   "https://t.me/Nuvqix_bot"
+  ],
+  "symbol": "NVQ",
+  "websites": [
+   "https://nuvqix.info",
+   "https://nuvqix.info/#whitepaper",
+   "https://nuvqix.info/#roadmap",
+   "https://tg.app/apps/nuvqix-protocol",
+   "https://dyor.io/token/EQDEHLBs7Z6mQcHHRLDyafcJkLk6hBdCrvDvaQ2EptV2GIA6",
+   "https://coinsniper.net/coin/94107"
+  ]
+ },
+ {
   "address": "0:5aabc99808f63356e4cd2f7497024f0c30092115ccae7df8a3c0b355fb4cee0c",
   "description": "Deployed from sTONks.",
   "image": "https://i.ibb.co/0ygxj9kM/Nyan-cat-250px-frame-PNG.png",
@@ -7792,6 +7960,21 @@
   "symbol": "$ORCA",
   "websites": [
    "https://orcamining-two.vercel.app/"
+  ]
+ },
+ {
+  "address": "0:ea766913c16ae12cc58a205904081da070c9b0e564bd00189adf0869eebac824",
+  "decimals": 9,
+  "description": "The capped coin of YAYA Mining. 21,000,000 ever: mined by camps in the game, 75% of what is spent there is burned.",
+  "image": "https://launchpad.yayaton.org/ore/logo.png",
+  "name": "ORE",
+  "social": [
+   "https://x.com/Yaya_gram",
+   "https://t.me/yayafam"
+  ],
+  "symbol": "ORE",
+  "websites": [
+   "https://yayaton.org"
   ]
  },
  {
@@ -9602,6 +9785,21 @@
   ]
  },
  {
+  "address": "0:61e1f1b660c60bd8432c81b384a35665d86573129791c9a49172ca030df5c640",
+  "description": "Spider Miner ($SPID) is a mining token on TON. Hire miners, mine $SPID every day and hold it in your wallet to boost your mining.",
+  "image": "https://spiderminer.lol/SPID.png",
+  "name": "Spider Miner",
+  "social": [
+   "https://t.me/Spider_Miner",
+   "https://x.com/Spider_Miner_"
+  ],
+  "symbol": "SPID",
+  "websites": [
+   "https://spiderminer.lol",
+   "https://t.me/SpiderMinerBot/app"
+  ]
+ },
+ {
   "address": "0:b8ee307dd315d013ad344d34e61e3590b9bd68f6fba4c1d7cc776174b037dc10",
   "description": "The first Spirit launched on TON",
   "image": "https://i.ibb.co/JwQxfjY9/IMG-8624.jpg",
@@ -10090,6 +10288,17 @@
   "websites": [
    "https://steamyjulia.com/"
   ]
+ },
+ {
+  "address": "0:26df33bc55642cd7ef95deb0a388ad430c576dd16898eed92ceef2c8ed2388a0",
+  "description": "Official Telegram Sticker Pack created by Iryna Pavlenko",
+  "image": "https://i.ibb.co/Q3ZpDNzp/Telegram-Sticker-Jam.png",
+  "name": "Sweet Jam",
+  "social": [
+   "https://x.com/SweetJamGram",
+   "https://t.me/telejamgram"
+  ],
+  "symbol": "Jam"
  },
  {
   "address": "0:349cb1c7799ad3d52c16ac177c379ff908a5c94052fb0a73d80cb2e7c3eb08aa",
@@ -12267,7 +12476,7 @@
   ]
  },
  {
-  "address": "0:a1ea8ea5e37eb074bafb91b479b8147b79750654dd02089f0c1123201731a8e4",
+  "address": "0:1a1279c470b43e9a385bcf5ae7cf7e761b9a4fd188cab6aa93faf4b4daeb7d5a",
   "decimals": 9,
   "description": "Zoom is a web3 project featuring 3D voxel mechanics, marketplaces, and daily user challenges.",
   "image": "https://i.postimg.cc/Pf1Cywt4/Whats-App-Image-2026-08-20-at-02-14-01.jpg",
@@ -21917,11 +22126,6 @@
   "symbol": "PIG"
  },
  {
-  "address": "0:2600cccc1c6cf0f30982bac6c3d3b952dc01e0f59dc52f9d6abdfa958c9cf607",
-  "name": "Pink bull",
-  "symbol": "PINK BULL"
- },
- {
   "address": "0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c",
   "name": "Pi Ton Network",
   "symbol": "PITON"
@@ -25594,6 +25798,22 @@
   ]
  },
  {
+  "address": "0:84c7756d4bbe44463e1d91fb1641f3be97e853fd708655b7e0dd9b0f706b5b92",
+  "decimals": 9,
+  "description": "Protocol coin of ONRANK, a launchpad and trading terminal on TON where 70% of every trading fee is paid back to holders in USDT.",
+  "image": "https://onrank.lol/meta/coins/40caf6bd53e24963090ca201481e82ef07809bc68f5f7b17e91b4ca1b94e634d.png",
+  "name": "ONRANK",
+  "social": [
+   "https://t.me/OnRankBot",
+   "https://t.me/onranktradebot",
+   "https://t.me/onranknews"
+  ],
+  "symbol": "RANK",
+  "websites": [
+   "https://onrank.lol"
+  ]
+ },
+ {
   "address": "0:005f01f471a8cfb0c17e9cd0b9933f9268b69e683af833b4357e85703ffbce5b",
   "name": "Orbit Bridge Ton Dai",
   "symbol": "oDAI"
@@ -25694,6 +25914,20 @@
   "symbol": "oWEMIX$"
  },
  {
+  "address": "0:ad0feabcbc8b5261f7dd3b7a76dfe81c9c5a4f229706c7db44d48990ddfded85",
+  "decimals": 9,
+  "description": "pKTON, The Premium version of Liquid Staking Token on TON.",
+  "image": "https://app.kton.io/logo-256x256.png",
+  "name": "pKTON",
+  "social": [
+   "https://x.com/kton_io"
+  ],
+  "symbol": "pKTON",
+  "websites": [
+   "https://app.kton.io"
+  ]
+ },
+ {
   "address": "0:c9e01b179f9887b09d451b0bd817f19d8076bb5c99f06e88ede5d94d9b0d375e",
   "decimals": 9,
   "description": "Liquidity pool token for Proxy TON and CODEX ARCANUM on STON.fi DEX",
@@ -25750,6 +25984,20 @@
   "symbol": "pd",
   "websites": [
    "https://durov-cum.com/"
+  ]
+ },
+ {
+  "address": "0:2600cccc1c6cf0f30982bac6c3d3b952dc01e0f59dc52f9d6abdfa958c9cf607",
+  "description": "Pink Bull is a community-driven token on TON inspired by the Pink Bull Sticker NFT. The project is independently developed by the Bullieve team.",
+  "image": "https://thepinkbull.com/assets/brand/pinkbull-logo.jpg",
+  "name": "Pink Bull",
+  "social": [
+   "https://x.com/RealPinkBull",
+   "https://t.me/realpinkbullgram"
+  ],
+  "symbol": "PINK BULL",
+  "websites": [
+   "https://thepinkbull.com"
   ]
  },
  {

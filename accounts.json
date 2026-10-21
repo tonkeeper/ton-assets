@@ -208,6 +208,14 @@
   "name": "Stakee"
  },
  {
+  "address": "0:3d1f01190ffb4e35f573ea5252d0f54a479be2122106ca3f40b907b01905675c",
+  "name": "KTON"
+ },
+ {
+  "address": "0:ec5b63fa9ee3f5ce8a4aa0d882623db186a0da9f4701b942d0f0c1f8a3b741b7",
+  "name": "pKTON"
+ },
+ {
   "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
   "name": "Getgems Marketplace"
  },
@@ -300,7 +308,7 @@
   "name": "Portals Marketplace"
  },
  {
-  "address": "0:310569f85cd583d93c98c59de87d28c6965f5412eb43a4d4e80313226f8bd4c7",
+  "address": "0:b11bd57b048536a04b8029d45ec3fc74376dc43d1af8156aedceb11ffb7d0a1a",
   "name": "Thermos"
  },
  {
@@ -458,6 +466,10 @@
  {
   "address": "0:651fce7150d484a87867287cee91d5a1fc58f85b19e5a8bba4893de0e6adb068",
   "name": "Omniston DEX Bridge"
+ },
+ {
+  "address": "0:a5b03f281aefe1eea0943b3b2fccf4956aff5f9a56d2db1e681a787068f508a0",
+  "name": "Split Proxy"
  },
  {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
