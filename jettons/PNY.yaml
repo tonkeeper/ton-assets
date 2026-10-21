@@ -1,0 +1,10 @@
+name: Penny token
+description: In-game currency for TON Dungeon game Telegram mini app
+image: https://tondungeon.com/webapp/icon.png
+address: EQD4bypz_Mbg8t8IVerNv4xC4IXcIiOhE9lZ02IO78sn08OC
+symbol: $PNY
+websites:
+  - "https://tondungeon.com"
+social:
+  - "https://t.me/tondungeon_news"
+  - "https://x.com/tondungeonTG"

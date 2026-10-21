@@ -1,0 +1,14 @@
+name: Hynexis Coin
+description: Digital token by Hynexis
+image: "https://hynexis.com/coin/coin_256_b.png"  
+address: "0:f169b674b377350852a1922db93100a901c674b015eec82193163f92d5fbc6f0"
+symbol: HXC
+decimals: 2
+websites:
+  - "https://hynexis.com/"
+  - "https://hynexis.com/coin"
+social:
+  - "https://t.me/hynexis_official"
+  - "https://x.com/hynexis"
+  - "https://www.instagram.com/hynexis_official/"
+  - "https://www.youtube.com/@hynexis_official"
