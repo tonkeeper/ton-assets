@@ -1,0 +1,12 @@
+name: AnyCoin
+symbol: ANY
+address: EQBAUGSiRx1zT7f8sN7UNGRo52D1csuJg9-vLh2xykS30TI6
+decimals: 9
+description: "AnyCoin ($ANY) is the digital currency powering the Any ecosystem. Connecting apps, games, and interactive digital experiences. AnyCoin aims to bring utility, rewards, and engagement together across a growing ecosystem."
+image: "https://cdn4.telesco.pe/file/qB4b1_tR7bIzjdll6UVzRWc5Ff6YKhxRxdZXJY9Tg2iEqz9kOuG8u5azkJz36r51VohFSW57WbvIqCFwMGJbiKMReP51_ko7E-JAxnTtUyr-ZQyEjB2Ntz3xp7ux3crDojYoKpkGQEvYgSwJUggj2QuXjRc_i3DwD5aTKEbwaOs1hfRS3OFgLQHjj_LtzVocqqQgX4TNbY6oxCXvL2LAeW2VC3Ol6NUwZkwK08-Z7B_QGw991V-yJm-IuSiQRVYM3UMYQcQL2DHgotcC8blCMVy4aIwjhfHhNuwyK3Otc7xW4z-aAMofKs20YRG9FxcP1n4EvEgIDzNSW4N2uGBvcg.jpg"
+websites:
+  - "https://anyarcadegames.com"
+  - "https://app.anyarcadegames.com"
+social:
+  - "https://t.me/AnyArcadeGames"
+  - "https://t.me/AnyArcadeGamesBot"
