@@ -1,0 +1,10 @@
+name: "ZK Numbers"
+description: "ZK Private Numbers are real phone numbers owned as NFTs on TON. Receive SMS and verification codes in private, transfer or sell your number anytime, and prove ownership on-chain. Zero knowledge, full control."
+image: "https://api.zknumbers.com/zk-official-logo.webp"
+address: "EQC3eV3qZ7Pv8pVfrr-ZzQepBDxJUtv0xblr9SghC-WgxQn-"
+websites:
+  - "https://zknumbers.com"
+  - "https://app.zknumbers.com"
+social:
+  - "https://t.me/ZkNumbers"
+  - "https://t.me/ZkNumberBot"
