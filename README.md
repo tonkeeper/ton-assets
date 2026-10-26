@@ -285,6 +285,7 @@ Name           | Address
 [JVault locks](https://tonviewer.com/0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94) | EQCSFRiFm_qjv7W6S9xjI7ZY2XJecUhd4VymLglsOE88lMYH
 [KZH](https://tonviewer.com/0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf) | EQDaaxtmY6Dk0YzIV0zNnbUpbjZ92TJHBvO72esc0srwv8K2
 [NFT Spaceship](https://tonviewer.com/0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0) | EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS
+[Pickaxe Empire · Ancient Pass](https://tonviewer.com/0:0775136083d039a97a3dc90535f538363761a638358ae87f54f6d22925539a54) | EQAHdRNgg9A5qXo9yQU19Tg2N2GmODWK6H9U9tIpJVOaVO9x
 [Sleeping Giant](https://tonviewer.com/0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb) | EQBfRGXk3PKeH9s_htEidRXY54NR8jgHen__C-SUuaJA--3_
 [Spinners](https://tonviewer.com/0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058) | EQAZKtHcN6mhbzhbzcnuj-94r5P-hZYBKEwQ4_-dc-2AWMqZ
 [Stellarium Worlds](https://tonviewer.com/0:9bfd0f65e9624c0043c80e3677a71329d0f515f6f40bcef171552e796770134d) | EQCb_Q9l6WJMAEPIDjZ3pxMp0PUV9vQLzvFxVS55Z3ATTbbJ
