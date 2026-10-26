@@ -5345,6 +5345,19 @@
   "symbol": "HAKI"
  },
  {
+  "address": "0:fe0630dfdc206743f7b0d671759a8387517bade408eb1b921b4e7f5ed21ecdb6",
+  "description": "Token for https://t.me/addstickers/Halloweenkin by Egor Zhgun",
+  "image": "https://i.postimg.cc/jdb35f3Q/pump.gif",
+  "name": "Halloween Pumpkin",
+  "social": [
+   "https://t.me/halloweenkin_ton"
+  ],
+  "symbol": "HALLOWEENKIN",
+  "websites": [
+   "https://halloweenkin.xyz/"
+  ]
+ },
+ {
   "address": "0:6e2935797d33ab40e80277107751ab6116d636540a5bd6282862428202015f8f",
   "decimals": 9,
   "description": "TON is home to the most degenerate apes. Now, we celebrate them with a token based on Telegram's most recognizable sticker, $HARRY Gorilla!",
