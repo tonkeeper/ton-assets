@@ -8631,6 +8631,19 @@
   ]
  },
  {
+  "address": "0:ba8ec873252d5b2f484a56d31f99f707aee24624f30aee6e40e0e8be10c93a69",
+  "description": "PXE is the token of Pickaxe Empire, a Telegram mining game on TON. The more PXE you hold, the bigger your mining crew and the more you mine across ten of the world's oldest mines.",
+  "name": "Pickaxe Empire",
+  "social": [
+   "https://t.me/PickaxeEmpireApp"
+  ],
+  "symbol": "PXE",
+  "websites": [
+   "https://pickaxeempire.com",
+   "https://t.me/PickaxeEmpireApp/app"
+  ]
+ },
+ {
   "address": "0:c2ce9ae8ec30656aec5dd5a683430406a0649a235792c92cd6946df9e6770aba",
   "image": "https://raw.githubusercontent.com/GbGr/the-pixels/main/pxl.png",
   "name": "The Pixels",
