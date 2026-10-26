@@ -1724,6 +1724,21 @@
   "symbol": "BOTM"
  },
  {
+  "address": "0:67ac59ed6a60855d164d96d62c45afccb3d4350c90fc656209c2fe69d388ae5a",
+  "description": "Official reward token of Bumpkin Legends, the MMORPG on Telegram. Holders get access to the Bumpkin Legends community. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/656cd47e-59aa-4e31-8bc6-ba3e65cbf0e0.png",
+  "name": "Bumpkin Reward",
+  "social": [
+   "https://t.me/Bumpkinlegends_bot",
+   "https://t.me/bumpkinlegendss",
+   "https://t.me/bumpkinlegendsss"
+  ],
+  "symbol": "BPL",
+  "websites": [
+   "https://bumpkinlegends.it/"
+  ]
+ },
+ {
   "address": "0:00e9f9bdcb33a65db42e68fc763b24f3107661b65cb9b577d5b58d9b2dca8a8d",
   "description": "Rewards Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/batymcoin/refs/heads/main/5379725509707032451.jpg",
