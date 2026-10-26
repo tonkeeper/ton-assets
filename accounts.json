@@ -1857,6 +1857,10 @@
   "name": "Orbit Bridge WEMIX Governance"
  },
  {
+  "address": "0:5987d0a92d9c8d97023b6a6d0f1e9572f13f33749c408651b79b7c4c8b406855",
+  "name": "Symbiosis Bridge"
+ },
+ {
   "address": "-1:950057f559dddf5ddfa64210f0e6536c55d219bf6fc7d7285b7735c215f21ef6",
   "name": "CAT Validator 1"
  },
