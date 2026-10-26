@@ -3187,6 +3187,22 @@
   "symbol": "DRAKON"
  },
  {
+  "address": "0:2658456be820ea946999e854da53ec67f2eaf1913c2b28072fc54b7e19baf9c8",
+  "decimals": 9,
+  "description": "DRAM is a community-owned token on TON. Mine it for free in the DRAM Miner app.",
+  "image": "https://dram.faithton.online/dram-logo.png",
+  "name": "DRAM",
+  "social": [
+   "https://t.me/dram0fficial",
+   "https://t.me/dramminerbot",
+   "https://x.com/dramfamilyton"
+  ],
+  "symbol": "DRAM",
+  "websites": [
+   "https://dram.faithton.online"
+  ]
+ },
+ {
   "address": "0:cf1a39b83d4f350decf6ae6405414da1c3f8bc86eb7919353dd473adcd96cf11",
   "description": "$DROPEE is the single token that links every game in the Dropee ecosystem, unlocking premium features and boosters while rewarding players for their engagement.",
   "image": "https://bafybeicwqb5qvewmz5psmvmyunmrl7boavhtroq7gf2kbvqwlzyjjnpbai.ipfs.w3s.link/image.png",
