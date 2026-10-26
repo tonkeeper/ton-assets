@@ -5964,6 +5964,19 @@
   ]
  },
  {
+  "address": "0:f694a071db23e7a960e044ed1012c91790922a43f2ca594ac4d86fafbd1f2c11",
+  "description": "Utility token for rewarding storage providers in the KeepFiles decentralized storage network.",
+  "image": "https://keepfiles.org/keep-logo.png",
+  "name": "KeepFiles",
+  "social": [
+   "https://www.threads.com/@keepfiles_org"
+  ],
+  "symbol": "KEEP",
+  "websites": [
+   "https://keepfiles.org"
+  ]
+ },
+ {
   "address": "0:fccb0fa85b6b43df5d4665eb4b332eec3ac2ef47ff99bd838b78b0bcd2feb9e3",
   "decimals": 6,
   "description": "KEI is the core utility token of KEI Network, the world's first Digital Clone Economy Network.",
