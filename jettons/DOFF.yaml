@@ -1,0 +1,10 @@
+name: "DOFF"
+symbol: "DOFF"
+address: "EQDJEC9EOYnVSUjNPsAXfLaRDNlm9wDYMKr3iM2IdhPqgQgh"
+description: "Game token of the DOFFA DRAKA fighting league in Telegram (@doffadrakabot). DOFF is paid from the prize fund for wins in prize fights against real players and one-time rewards on doffa.coffee. Fixed supply of 1,000,000,000 DOFF, minting rights revoked."
+image: "https://draka.doffaearn.app/token/doff-logo.jpg"
+social:
+  - "https://t.me/doffadrakabot"
+websites:
+  - "https://doffa.coffee"
+  - "https://draka.doffaearn.app"
