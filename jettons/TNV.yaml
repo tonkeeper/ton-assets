@@ -1,0 +1,10 @@
+name: TapNova
+symbol: TNV
+address: "EQBHD_8XVxP6jyA5_vuAIhbBeR0H5vy8PsuS_RmYZsdApG33"
+description: "TapNova (TNV) is the token associated with the TapNova Telegram Mini App game."
+decimals: 9
+image: "https://ipfs.io/ipfs/bafkreigjpupyuzspc42hfvpsrpa3focne4oorobidrmklemnidbrftq4vu"
+websites:
+  - "https://tapnova2026.github.io/tapnova2026/"
+social:
+  - "https://t.me/tapNovaEarnBot"
