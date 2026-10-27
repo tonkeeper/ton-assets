@@ -1,8 +1,0 @@
-name: Russian Steam Token
-description: Этот токен — цифровое воплощение опыта индивидуального парения «Русский пар» на блокчейне TON.
-symbol: RPAR
-decimals: 9
-image: "https://rusbanik.ru/logo.jpeg"  # Укажи корректную ссылку на логотип, если нужна другая картинка
-address: EQCl_dRD4ZvpU_KBr1absbbI-otiQgqYmJLPG71VjRBgx47G
-websites:
-  - "https://rusbanik.ru"        # Укажи сайт, если он есть

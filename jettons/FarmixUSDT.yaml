@@ -1,9 +1,0 @@
-name: FibUSDT
-description: interest-bearing farmix token for USDT pool
-image: "https://static.farmix.tg/fUSDT.webp"
-address: "EQD6gQSWCayHh0FvUnTXlpfizIWiq7UeE4gYvXGYtEhIYJ8q"
-symbol: FUSDT
-websites:
-  - "https://farmix.tg"
-social:
-  - "https://t.me/farmixton"

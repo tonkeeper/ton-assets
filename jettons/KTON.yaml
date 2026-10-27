@@ -1,8 +1,0 @@
-- name: KTON
-  description: KTON, The Liquid Staking Token of TON.
-  image: "https://app.kton.io/logo-256x256.png"
-  address: "0:6e2215cd36459ff405bd9a234635348efee159db77a37c85ab89e5e07b97fbdf"
-  symbol: KTON
-  decimals: 9
-  websites:
-    - "https://app.kton.io"
