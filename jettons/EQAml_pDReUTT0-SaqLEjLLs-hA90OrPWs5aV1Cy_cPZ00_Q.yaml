@@ -1,0 +1,10 @@
+address: "EQAml_pDReUTT0-SaqLEjLLs-hA90OrPWs5aV1Cy_cPZ00_Q"
+name: "PyTon"
+symbol: "PYTON"
+decimals: 9
+description: "Utility token in the PyTon ecosystem."
+image: "https://docs.pyton.click/ton-snake-logo.png"
+websites:
+  - "https://pyton.click"
+social:
+  - "https://t.me/pyton_portal"
