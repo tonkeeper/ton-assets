@@ -1,0 +1,11 @@
+address: EQAS3BU-wKhd97ESu2HGodWYhh-yA6VBoC9gl4vEYz4LtxIf
+name: PURE AI Token
+symbol: PURE
+decimals: 9
+description: PURE is the utility token of PURE AI Ecosystem. Use PURE to stake in @pureaitoken_bot, access AI chat, image & code generation, buy AI agents, and pay for PURE AI API.
+image: https://raw.githubusercontent.com/coin2biz/ton-assets/main/jettons/PURE.png
+websites:
+    - https://pureaitoken.com
+social:
+    - https://t.me/pureaitoken
+    - https://x.com/pureaitoken
