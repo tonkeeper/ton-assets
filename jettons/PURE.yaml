@@ -1,0 +1,10 @@
+name: pure ai token
+symbol: PURE
+address: EQAS3BU-wKhd97ESu2HGodWYhh-yA6VBoC9gl4vEYz4Ltxlf
+decimals: 9
+image: https://pureai-token-proof.lovable.app/logo.png
+description: pure ai token - AI powered Telegram Bot on TON
+websites:
+    - https://pureai-token-proof.lovable.app
+social:
+    - https://github.com/coin2biz/pure-ai
