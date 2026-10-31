@@ -1,0 +1,11 @@
+name: Burger Grill
+symbol: BG
+address: EQCiSjwFgFgXKT29h7OUdymqq3mhlQno350r7WZeaRDHu58q
+decimals: 9
+description: "BG is the token of Burger Grill, a Telegram mini app built around grill progression, collecting BG and community activities."
+image: "https://burgergrill.shop/assets/BG.png"
+social:
+  - "https://t.me/BurgerGrillChannel"
+  - "https://t.me/BurgersGrillBot"
+websites:
+  - "https://burgergrill.shop"
