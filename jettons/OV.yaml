@@ -1,0 +1,10 @@
+name: "OvAI Token"
+symbol: OV
+decimals: 9
+address: EQC8RZpKMaoCrDI5d-1ZkLl24LVmPT0n9Inkr1N_9A9LHUl_
+description: "Official token of the OvAI Wallet ecosystem on TON. Total supply: 1,000,000,000 OV; minting is permanently disabled."
+image: "https://app.ovai.app/token/ov.png"
+websites:
+  - "https://app.ovai.app"
+social:
+  - "https://t.me/OvAiWalletBot"
