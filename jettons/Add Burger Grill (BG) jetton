@@ -1,0 +1,49 @@
+ Token Verification Request — Burger Grill (BG)
+
+Hello Tonkeeper Team,
+
+We would like to request the verification and inclusion of Burger Grill (BG) in the official Tonkeeper token registry.
+
+Burger Grill is a Telegram Mini App gaming project built around virtual mining, grill progression, token collection, and community engagement.
+
+BG is the official utility token of the Burger Grill ecosystem, issued as a Jetton on The Open Network (TON).
+
+ Token Information
+
+- Token Name: Burger Grill
+- Symbol: BG
+- Blockchain: TON
+- Token Standard: Jetton
+- Decimals: 9
+- Jetton Master Address: EQCiSjwFgFgXKT29h7OUdymqq3mhlQno350r7WZeaRDHu58q
+
+ Official Project Links
+
+- Website: https://burgergrill.shop
+- Telegram Mini App: https://t.me/BurgersGrillBot
+- Telegram Community: https://t.me/BurgerGrillChannel
+- Token Logo: https://burgergrill.shop/assets/BG.png
+
+ Token Utility
+
+BG is designed for use within the Burger Grill gaming ecosystem, including:
+
+- In-game token collection through virtual mining mechanics.
+- Grill upgrades and player progression.
+- Token-based gameplay mechanics.
+- Community participation and future ecosystem development.
+
+ Verification Details
+
+This Pull Request adds the official Burger Grill token metadata to jettons/BG.yaml.
+
+The submitted information includes the Jetton Master address, token name, symbol, decimals, description, logo, official website, and Telegram links.
+
+We kindly request a review of our token for inclusion in the verified token registry.
+
+We are available to provide additional information or proof of project ownership if required.
+
+Thank you for your time and consideration.
+
+Best regards  
+Burger Grill Development Team
