@@ -3,7 +3,7 @@ symbol: BREACH
 address: EQCHfdgtoxp1HezCMNAdL5OKqtpVASr8PCqKG_FtosL-PJQw
 decimals: 9
 description: "The official utility token of TON Breach Telegram mini-app and smart promotion conveyor (@tonbreachbot)."
-image: "https://cdn.tonraids.com/logo-breach.png"
+image: "https://gateway.pinata.cloud/ipfs/bafkreicmnnravurweibn5ak4asbjfg65cjuxzh73mqvj47gkztrxpz4l34"
 websites:
   - "https://t.me/tonbreachbot"
 social:
