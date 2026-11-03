@@ -1,0 +1,6 @@
+name: Harvest
+description: "Harvest (HRV) — reward token for the Tap Farm idle-farming mini app on TON."
+image: "https://raw.githubusercontent.com/axiom-ton/ton-assets/main/jettons/hrv-coin.png"
+address: EQCg8OZgW12F5k9m63G6BL5oFRfA6fl9BQqeulgctW8TRSH_
+symbol: HRV
+decimals: 9
