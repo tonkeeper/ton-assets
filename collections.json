@@ -121,6 +121,19 @@
   "name": "StickerBox Golden Sunrise"
  },
  {
+  "address": "0:ae18071a98057202c5258faa02575296b02bffef7e99c501a489d542a6fd4122",
+  "description": "The official kitty collection for the GRAM community. Born from memes, powered by Telegram culture, and raised on TON. Built by Grambo.fun for holders, builders, and believers of the GRAM ecosystem.",
+  "image": "https://assets.grambo.fun/kitty/collection.gif",
+  "name": "Gram Kitty",
+  "social": [
+   "https://x.com/grambofun",
+   "https://t.me/grambofun"
+  ],
+  "websites": [
+   "https://grambo.fun/"
+  ]
+ },
+ {
   "address": "0:3af3cfb004b956ad50bdbf48f16aec51511a8da3a167252c68b3851e9bf82abd",
   "name": "Hidden Dragon"
  },
@@ -147,6 +160,18 @@
   ]
  },
  {
+  "address": "0:0775136083d039a97a3dc90535f538363761a638358ae87f54f6d22925539a54",
+  "description": "Soulbound seals of the Pickaxe Empire miners. Each Ancient Pass is forged once, for one miner, cannot be sold or transferred, and is the proof that its wallet belongs to the miner who holds it. Its art follows the miner through the ten ancient mines.",
+  "name": "Pickaxe Empire \u00b7 Ancient Pass",
+  "social": [
+   "https://t.me/PickaxeEmpireApp"
+  ],
+  "websites": [
+   "https://pickaxeempire.com",
+   "https://t.me/PickaxeEmpireApp/app"
+  ]
+ },
+ {
   "address": "0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb",
   "name": "Sleeping Giant"
  },
@@ -157,6 +182,19 @@
  {
   "address": "0:07ab0a0c75927f6bca843e49e638401e235b5410eac4ef753970b422bc9efba3",
   "name": "StickerBox Sleeping Giant"
+ },
+ {
+  "address": "0:9bfd0f65e9624c0043c80e3677a71329d0f515f6f40bcef171552e796770134d",
+  "description": "Planets from Stellarium, a Telegram Mini App game. Each NFT is a planet a player owns and plays with in the game \u2014 it has rarity, genes, a level and a production rate, and it keeps developing after it is minted or bought.",
+  "image": "https://s.getgems.io/nft/b/c/6a72eff8759f2ee050935d1d/edit/images/1953238.jpg",
+  "name": "Stellarium Worlds",
+  "social": [
+   "https://t.me/Timegalaxy_bot",
+   "https://t.me/time_meme_chat"
+  ],
+  "websites": [
+   "https://memetimeton.fun/"
+  ]
  },
  {
   "address": "0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2",
@@ -177,6 +215,20 @@
  {
   "address": "0:fffaf59e328fe618b6f7fa0c121c25777eea3da19b4a2459580a5c30d917c4f0",
   "name": "StickerBox TON's Witnesses"
+ },
+ {
+  "address": "0:949eb7fedf26700c469a9ee5c3b7316da8d5aa29d435b1a0140fbae4c82b6234",
+  "description": "Victor Unleashed is the limited edition NFT collection of Victor's Company, the Telegram mining game on TON: 1,111 unique miners, each a one-of-a-kind mix of background, pattern, frame and miner, so no two are alike. Minted in the Victor's Company Telegram app.",
+  "name": "Victor Unleashed",
+  "social": [
+   "https://x.com/VictorsCompany",
+   "https://t.me/Victors_Company",
+   "https://t.me/VictorsCompanyChat",
+   "https://t.me/VictorsCompanyBot/app"
+  ],
+  "websites": [
+   "https://victors.company"
+  ]
  },
  {
   "address": "0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c",

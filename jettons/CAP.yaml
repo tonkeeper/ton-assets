@@ -1,0 +1,7 @@
+name: CAPITAL
+description: "Token for launching other tokens, backed by a basket of collateral assets (BTC, ETH, USDT, GRAM, POK) with algorithmic market making. #ProofOfCapital"
+address: EQDIUPiVCgPll5gSTjlkz7HMAbUv0QTzCLvlHO177tK6nfeW
+symbol: CAP
+image: "https://cap.proofofkarl.com/logo.jpg"
+websites:
+  - "https://cap.proofofkarl.com"

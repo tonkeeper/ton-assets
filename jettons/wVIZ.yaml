@@ -1,0 +1,12 @@
+name: "Wrapped VIZ"
+symbol: "wVIZ"
+decimals: 3
+address: "EQAHujyCaWPjfNaAKHSPDlJZJd2mhWl203eLWShz8PM3_VIZ"
+description: "wVIZ is a 1:1 bridge claim on VIZ locked in the viz-gateway multisig. Each wVIZ is redeemable for exactly 1 VIZ on the VIZ blockchain."
+image: "https://raw.githubusercontent.com/viz-cx/viz-gateway/main/metadata/wviz.png"
+websites:
+  - "https://viz.world"
+  - "https://viz.cx"
+social:
+  - "https://t.me/viz_world"
+  - "https://t.me/viz_cx"

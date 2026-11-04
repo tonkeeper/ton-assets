@@ -1,0 +1,8 @@
+name: "Gram super cycle"
+symbol: "GSC"
+address: "EQAmaMdwCmpZNJSRfvbNZDu1HkjFbw2VtvvI1FDKvLJMgyXE"
+description: "The reward token of Saturn, the capital house on TON. Farm rewards are paid in GSC, and some launch rounds are gated on holding it. Supply is one billion, fixed; mint authority is renounced."
+image: "https://saturn.tg/tokens/gsc.png"
+social:
+  - "https://saturn.tg"
+  - "https://t.me/saturndottg"
