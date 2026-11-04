@@ -1,0 +1,13 @@
+# TON Roles ton-assets verification material
+name: "Roadster Boost"
+symbol: "RBQ"
+address: "EQBVmI6NEHdFX_MB2uoaW5oLXgD1oSXyWmd7mzwE_FE8BvyY"
+decimals: 9
+description: "Roadster Boost is a community-driven Web3 project inspired by electric mobility and New York’s skyline. Collect RBQ rewards through daily activities, complete missions, and unlock new levels in a jet-powered Roadster experience."
+image: "https://web.roadsterboost.top/rbq-coin.png"
+websites:
+  - "https://home.roadsterboost.top/"
+social:
+  - "https://x.com/RoadsterBoost"
+  - "https://www.youtube.com/@RoadsterBoost"
+  - "https://t.me/RoadsterBoost_New"
