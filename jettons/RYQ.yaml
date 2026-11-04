@@ -1,0 +1,13 @@
+# TON Roles ton-assets verification material
+name: "Rail Yard Quest"
+symbol: "RYQ"
+address: "EQBhmpQLFKOGQWJH3uCzP4hfacrstpCmA5EZeE6cdKC0xkC9"
+decimals: 9
+description: "Rail Yard Quest is a railway-themed Telegram Mini App that combines train progression, interactive tasks, and RYQ token rewards. Travel through scenic landscapes with your train, collect coins into its treasury carriage, and claim accumulated rewards to your in-app balance. Complete daily check-ins and tasks, invite friends, and unlock higher train levels through eligible wallet and Pool holdings."
+image: "https://web.railyardquest.top/ryq-token.png"
+websites:
+  - "https://home.railyardquest.top/"
+social:
+  - "https://x.com/RailYardQuest"
+  - "https://www.youtube.com/@RailYardQuest"
+  - "https://t.me/RailYardQuest"
