@@ -1,0 +1,11 @@
+name: Raccoon Heist
+description: HEIST is the reward token of Raccoon Heist, a Telegram game. Players earn HEIST in the game and withdraw it to their own TON wallet. Fixed supply of 1,000,000,000; minting is switched off.
+image: "https://raccoon-heist.pages.dev/token/racc.png"
+address: EQDnMygMmgxi1OYlSpGcUb5UWGztUo28w3w54-s_xSPXhZKX
+symbol: HEIST
+websites:
+  - "https://raccoonheist.pages.dev"
+social:
+  - "https://t.me/RaccoonHeistGame"
+  - "https://t.me/RaccoonHeistChat"
+  - "https://x.com/RaccoonHeistBot"
