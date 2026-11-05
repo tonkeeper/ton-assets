@@ -1,0 +1,13 @@
+# TON Roles ton-assets verification material
+name: "Jensen Chip"
+symbol: "JCH"
+address: "EQDpBPoQSSQeQuqjqRAH12CusVRxAW0At7EdIaoELwnStiws"
+decimals: 9
+description: "Jensen Chip (JCH) is the utility token of Jensen Foundry, a community-driven ecosystem inspired by chip innovation. JCH connects mining-style rewards, holding-based level progression, community tasks, and referrals on The Open Network (TON)."
+image: "https://web.jensenchip.top/jch-chip-coin.png"
+websites:
+  - "https://home.jensenchip.top/"
+social:
+  - "https://x.com/JensenChips"
+  - "https://www.youtube.com/@JensenChip"
+  - "https://t.me/JensenChip_new"
