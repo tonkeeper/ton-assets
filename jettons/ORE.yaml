@@ -1,0 +1,11 @@
+name: ORE
+description: "The capped coin of YAYA Mining. 21,000,000 ever: mined by camps in the game, 75% of what is spent there is burned."
+image: "https://launchpad.yayaton.org/ore/logo.png"
+address: EQDqdmkTwWrhLMWKIFkECB2gcMmw5WS9ABia3whp7rrIJKVk
+symbol: ORE
+decimals: 9
+websites:
+  - "https://yayaton.org"
+social:
+  - "https://x.com/Yaya_gram"
+  - "https://t.me/yayafam"

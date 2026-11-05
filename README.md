@@ -60,6 +60,8 @@ Name           | Address
 [Blackhole Address](https://tonviewer.com/-1:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff) | Ef___________________________________________7Sg
 [Tonkeeper Pro Subscriptions](https://tonviewer.com/0:b16a061860c9f389d4ef41fdfdaa7914bc09167db9f5377b5ea95c504ed76b77) | EQCxagYYYMnzidTvQf39qnkUvAkWfbn1N3teqVxQTtdrdyu1
 [Stakee](https://tonviewer.com/0:f6ff877dd4ce1355b101572045f09d54c29309737eb52ca542cfa6c195f7cc5b) | EQD2_4d91M4TVbEBVyBF8J1UwpMJc361LKVCz6bBlffMW05o
+[KTON](https://tonviewer.com/0:3d1f01190ffb4e35f573ea5252d0f54a479be2122106ca3f40b907b01905675c) | EQA9HwEZD_tONfVz6lJS0PVKR5viEiEGyj9AuQewGQVnXPg0
+[pKTON](https://tonviewer.com/0:ec5b63fa9ee3f5ce8a4aa0d882623db186a0da9f4701b942d0f0c1f8a3b741b7) | EQDsW2P6nuP1zopKoNiCYj2xhqDan0cBuULQ8MH4o7dBt_7a
 [Getgems Marketplace](https://tonviewer.com/0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18) | EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS
 [Getgems Sales](https://tonviewer.com/0:584ee61b2dff0837116d0fcb5078d93964bcbe9c05fd6a141b1bfca5d6a43e18) | EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS
 [Getgems Deployer](https://tonviewer.com/0:39d63083e48f46452ff8a04cd0d3733a90c8be299aa5951b62741759b2c17e0e) | EQA51jCD5I9GRS_4oEzQ03M6kMi-KZqllRtidBdZssF-DjDh
@@ -83,7 +85,7 @@ Name           | Address
 [Fragment Gift Minter](https://tonviewer.com/0:158136239adb15dd59df90c641f9efd312cfeb8664f218f4c3e5fce9d95e6c07) | EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6
 [Portals Marketplace](https://tonviewer.com/0:04f3c1c795ac8905e31734362b149875ab9522ae5383ab7abb2e10da5da8ba82) | EQAE88HHlayJBeMXNDYrFJh1q5UirlODq3q7LhDaXai6goHn
 [Portals Marketplace](https://tonviewer.com/0:b39ec4a1b09985a39e11d46c06ce66c7239cdee20cb185d7fd18a5020b1ee402) | EQCznsShsJmFo54R1GwGzmbHI5ze4gyxhdf9GKUCCx7kAp4M
-[Thermos](https://tonviewer.com/0:310569f85cd583d93c98c59de87d28c6965f5412eb43a4d4e80313226f8bd4c7) | EQAxBWn4XNWD2TyYxZ3ofSjGll9UEutDpNToAxMib4vUxw1J
+[Thermos](https://tonviewer.com/0:b11bd57b048536a04b8029d45ec3fc74376dc43d1af8156aedceb11ffb7d0a1a) | EQCxG9V7BIU2oEuAKdRew_x0N23EPRr4FWrtzrEf-30KGnoo
 [DeDust HYDRA vault](https://tonviewer.com/0:6f7d004e411ba20c4a87383c5e35e46ce51d9961dec72e8f7dd136898ed5473f) | EQBvfQBOQRuiDEqHODxeNeRs5R2ZYd7HLo990TaJjtVHP6W3
 [DeDust MY vault](https://tonviewer.com/0:b19d154e5d4e12a73decbd99bfc924f56c167939e43d4db3589d0636eaaaaf66) | EQCxnRVOXU4Spz3svZm_yST1bBZ5OeQ9TbNYnQY26qqvZmnD
 [DeDust USDT vault](https://tonviewer.com/0:18aa8e2eed51747dae033c079b93883d941cad8f65459f2ee9cd7474b6b8ed5d) | EQAYqo4u7VF0fa4DPAebk4g9lBytj2VFny7pzXR0trjtXQaO
@@ -283,6 +285,7 @@ Name           | Address
 [JVault locks](https://tonviewer.com/0:921518859bfaa3bfb5ba4bdc6323b658d9725e71485de15ca62e096c384f3c94) | EQCSFRiFm_qjv7W6S9xjI7ZY2XJecUhd4VymLglsOE88lMYH
 [KZH](https://tonviewer.com/0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf) | EQDaaxtmY6Dk0YzIV0zNnbUpbjZ92TJHBvO72esc0srwv8K2
 [NFT Spaceship](https://tonviewer.com/0:b017bf8e4221c1c4a78f88114e016c331c34c51e4251f658a43aa4d8150734f0) | EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS
+[Pickaxe Empire · Ancient Pass](https://tonviewer.com/0:0775136083d039a97a3dc90535f538363761a638358ae87f54f6d22925539a54) | EQAHdRNgg9A5qXo9yQU19Tg2N2GmODWK6H9U9tIpJVOaVO9x
 [Sleeping Giant](https://tonviewer.com/0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb) | EQBfRGXk3PKeH9s_htEidRXY54NR8jgHen__C-SUuaJA--3_
 [Spinners](https://tonviewer.com/0:192ad1dc37a9a16f385bcdc9ee8fef78af93fe859601284c10e3ff9d73ed8058) | EQAZKtHcN6mhbzhbzcnuj-94r5P-hZYBKEwQ4_-dc-2AWMqZ
 [Stellarium Worlds](https://tonviewer.com/0:9bfd0f65e9624c0043c80e3677a71329d0f515f6f40bcef171552e796770134d) | EQCb_Q9l6WJMAEPIDjZ3pxMp0PUV9vQLzvFxVS55Z3ATTbbJ
