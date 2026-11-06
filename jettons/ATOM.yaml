@@ -1,0 +1,9 @@
+name: "ATOM"
+symbol: "ATOM"
+decimals: 9
+address: "EQDnCoIx15pfVaG5gZg1Ybn04mhWUoX--ud1ExlODUn1H5vD"
+description: "ATOM powers Atomic App, a reactor-based experience with progression and rewards on Telegram, built on the TON blockchain."
+image: "https://app.atommining.online/token/atom/logo.png"
+websites:
+  - "https://atommining.online"
+  - "https://app.atommining.online"
