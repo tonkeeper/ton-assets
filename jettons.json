@@ -10301,6 +10301,21 @@
   ]
  },
  {
+  "address": "0:ae873a40b9f3c5aaf2158ad660f29fcda78f1150f1b6196324bf9265722c6fc1",
+  "description": "SYN is the token of Syndicate Miner, a mining game in Telegram on TON. Every SYN is backed by Gram held in an on-chain treasury: the floor price equals the reserve divided by the supply, and the contract never lets it fall. At most 1,000,000 SYN can circulate, issued on a schedule that halves every six months.",
+  "image": "https://syndicate-backend-production-c797.up.railway.app/syn/logo.jpg",
+  "name": "Syndicate Miner Token",
+  "social": [
+   "https://t.me/syndicateminer",
+   "https://t.me/Syndicatesguad"
+  ],
+  "symbol": "SYN",
+  "websites": [
+   "https://t.me/Syndicate_miner_bot/app",
+   "https://syndicateminer.com"
+  ]
+ },
+ {
   "address": "0:04972ad5df6536d17c2e07723522e92abe91552f04f4977c292c2ff5f1a500a9",
   "description": "Sapphire Token promises to be very successful, the token has very good investors who will help the token develop. You will not regret buying the token",
   "image": "https://cdn.blum.codes/9df2bac3-10c4-4e29-af64-afaa1f8e486b/a4832155-366b-4954-81ce-ebf7f4973242",
