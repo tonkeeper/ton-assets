@@ -5838,6 +5838,23 @@
   ]
  },
  {
+  "address": "0:9a3c9d1c6f904f06f11a4a846cb0538c8fa02ab9be07090d5ab7fb5b8ea939be",
+  "decimals": 9,
+  "description": "JETX is the utility token of JetX Ocean, a maritime fishing and fleet GameFi ecosystem in Telegram Mini App on TON. Players catch deep-sea fish at marine buoys, upgrade ships across 25 equipment levels with 70% on-chain token burn, and trade vessels on the Port P2P Auction.",
+  "image": "https://jetxocean.com/jetx-logo-v2.png",
+  "name": "JetX Ocean",
+  "social": [
+   "https://t.me/jetxOceanOfficial",
+   "https://t.me/JetxOceanChat",
+   "https://t.me/Jetxoceangamebot"
+  ],
+  "symbol": "JETX",
+  "websites": [
+   "https://jetxocean.com",
+   "https://t.me/Jetxoceangamebot/app"
+  ]
+ },
+ {
   "address": "0:f8f5a14b3ca8e5745207a9b394ef160a9247267f5a02357d14e96f050368b8e3",
   "description": "The main development vector of the JOB token is focused on moving closer to equality in the accessibility of material goods in the real expression of the money supply. Taking into account inflationary and risk-related costs, relative to the value of labor measured in the equivalent of the user's expended energy (kcal).",
   "image": "https://jobtoken.net/jobtoken/coin.png",
