@@ -1,0 +1,25 @@
+
+name: IFZI
+symbol: ifzi
+address: EQB9KGhnd0PA00ml_eXZoVrQKWrcxRv3NN3LNWoQp_RqDaA0
+logo: "https://fahwaofficial.github.io/images/logo.ifc.jpg"
+websites:
+
+  - "https://fahwaofficial.github.io/IFZI"
+  - "https://open.spotify.com/artist/6qOw3MNO2ngGLW17HquCQK"
+  - "https://music.apple.com/mx/artist/fahwa/1813073821"
+  - "https://music.amazon.it/artists/B0F7RW3YL2/fahwa"
+  - "https://fahwa.bandcamp.com/"
+  - "https://genius.com/artists/Fahwa"
+  - "https://musicbrainz.org/artist/85623249-de16-4582-ab32-a73b7aff093a"
+
+social:
+  - "https://t.me/fahwaofficial"
+  - "https://x.com/fahwaofficial"
+  - "https://www.instagram.com/fahwaofficial/"
+  - "https://www.tiktok.com/@fahwaofficial"
+  - "https://www.youtube.com/@fahwaofficial"
+  - "https://soundcloud.com/fahwaofficial"
+
+# Add image after fixing and verifying the direct URL:
+# image: "https://fahwaofficial.github.io/logo.IFC.jpg"
