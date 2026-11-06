@@ -345,6 +345,18 @@
   ]
  },
  {
+  "address": "0:89734aae51e479461855ea44fea624990db199cbb92960cbc947898cc7b758f8",
+  "decimals": 9,
+  "description": "LZK \u2014 the native token of the LizzardKombat ecosystem, powering in-game rewards, platform utilities, and community engagement.",
+  "image": "https://storage.dyor.io/jettons/images/1793960410/24603654.jfif",
+  "name": "LizzardKombat",
+  "social": [
+   "https://t.me/lizzardkombat",
+   "https://t.me/lizzardrebot"
+  ],
+  "symbol": "LZK"
+ },
+ {
   "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
   "description": "We have a new baby. Deployed from topblast.lol.",
   "image": "https://i.ibb.co/TBShn10j/photo-2026-06-13-10-56-27.jpg",
