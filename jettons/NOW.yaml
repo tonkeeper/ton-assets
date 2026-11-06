@@ -1,0 +1,13 @@
+# TON Roles ton-assets verification material
+name: "To Now"
+symbol: "NOW"
+address: "EQCVu2wfqPDsvxrLqn1JUVIoWZt2_szmHJnmMeIaLnBzh2us"
+decimals: 9
+description: "To Now is a Telegram Mini App where users earn NOW tokens by completing tasks, inviting friends, and taking part in project activities. Users can connect a TON wallet and exchange NOW for GRAM, with the estimated GRAM amount shown before they confirm. Users can also publish tasks for others to complete."
+image: "https://web-to-now.allserve.xyz/imgs/coin-mint.png"
+websites:
+  - "https://home.allserve.xyz"
+social:
+  - "https://x.com/TONOOOOW"
+  - "https://www.youtube.com/@TONOWS"
+  - "https://t.me/ToNow_Community"
