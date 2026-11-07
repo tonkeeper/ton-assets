@@ -1,9 +1,11 @@
-name: "KBOOM"
-symbol: "KBOOM"
+name: KBOOM
+symbol: KBOOM
+address: EQBAfPjNDD5Ge0QfS3GSmk--RJjGChAhTD4mNjsw5W8reDlV
 decimals: 9
-address: "EQBAfPjNDD5Ge0QfS3GSmk--RJjGChAhTD4mNjsw5W8reDlV"
-description: "KBOOM powers Atomic App, a reactor-based experience with progression and rewards on Telegram, built on the TON blockchain."
-image: "https://app.atommining.online/token/kboom/logo.png"
+description: "KBOOM powers KBOOM Reactor, a Telegram Mini App on TON with reactor rewards, wallet-based level progression, and on-chain KBOOM holdings verification. The app includes TON/KBOOM swaps and withdrawal requests. Completed payments are published in the public KBOOM Payments channel after blockchain confirmation."
+image: https://app.atommining.online/token/kboom-logo.png
 websites:
-  - "https://atommining.online"
-  - "https://app.atommining.online"
+  - "https://app.atommining.online/kboom/"
+social:
+  - "https://t.me/kboompayments"
+  - "https://t.me/AtomicAppBot?startapp"
