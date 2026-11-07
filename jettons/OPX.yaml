@@ -1,0 +1,12 @@
+name: OpFlex
+description: OpFlex (OPX) is a community-driven mining project focused on easy, accessible, and rewarding crypto mining for everyone.
+image: "https://opflex.xyz/Opx.png"
+address: EQBA0FvNLIuIQHJRPWurmMFmLA3ToQFR7P57CCifhurxuT10
+symbol: OPX
+decimals: 9
+websites:
+  - "https://opflex.xyz"
+  - "https://t.me/OpFlexBot"
+social:
+  - "https://t.me/OpFlexNews"
+  - "https://t.me/OPXPayment"
