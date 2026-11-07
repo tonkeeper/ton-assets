@@ -345,6 +345,18 @@
   ]
  },
  {
+  "address": "0:89734aae51e479461855ea44fea624990db199cbb92960cbc947898cc7b758f8",
+  "decimals": 9,
+  "description": "LZK \u2014 the native token of the LizzardKombat ecosystem, powering in-game rewards, platform utilities, and community engagement.",
+  "image": "https://storage.dyor.io/jettons/images/1793960410/24603654.jfif",
+  "name": "LizzardKombat",
+  "social": [
+   "https://t.me/lizzardkombat",
+   "https://t.me/lizzardrebot"
+  ],
+  "symbol": "LZK"
+ },
+ {
   "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
   "description": "We have a new baby. Deployed from topblast.lol.",
   "image": "https://i.ibb.co/TBShn10j/photo-2026-06-13-10-56-27.jpg",
@@ -5318,6 +5330,18 @@
   "symbol": "GST"
  },
  {
+  "address": "0:399161023899e5b8848a675a784cf5a717c59608786d1117c626d0d35b19361e",
+  "description": "Official token of GiftKO, a Telegram mining game (@Giftkocoin_bot): hold GiftKO in your wallet to mine and stack gifts. Minting disabled, admin is zero address. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/eb5e0b7f-c61c-4ce8-93e4-4b06e6e306f8.jpg",
+  "name": "GiftKO COIN",
+  "social": [
+   "https://t.me/Giftkocoin_bot",
+   "https://t.me/giftkogame",
+   "https://t.me/giftkochat"
+  ],
+  "symbol": "GiftKO"
+ },
+ {
   "address": "0:02f9290a86b2fb374b94c508fed97ca27eb669bb9bab225d4457068b3eb3bfb7",
   "decimals": 9,
   "description": "Gold Nugs is the Dig It rewards token. Play to earn at https://digitgoldgame.com",
@@ -5823,6 +5847,23 @@
   "symbol": "JETTON",
   "websites": [
    "https://jetton.fan"
+  ]
+ },
+ {
+  "address": "0:9a3c9d1c6f904f06f11a4a846cb0538c8fa02ab9be07090d5ab7fb5b8ea939be",
+  "decimals": 9,
+  "description": "JETX is the utility token of JetX Ocean, a maritime fishing and fleet GameFi ecosystem in Telegram Mini App on TON. Players catch deep-sea fish at marine buoys, upgrade ships across 25 equipment levels with 70% on-chain token burn, and trade vessels on the Port P2P Auction.",
+  "image": "https://jetxocean.com/jetx-logo-v2.png",
+  "name": "JetX Ocean",
+  "social": [
+   "https://t.me/jetxOceanOfficial",
+   "https://t.me/JetxOceanChat",
+   "https://t.me/Jetxoceangamebot"
+  ],
+  "symbol": "JETX",
+  "websites": [
+   "https://jetxocean.com",
+   "https://t.me/Jetxoceangamebot/app"
   ]
  },
  {
@@ -6984,7 +7025,7 @@
   "address": "0:a93f91bbeb39d931a09e2798991fa5208bc18e64d59d37444b996f58977e3ac2",
   "decimals": 7,
   "description": "Community-driven token supporting decentralized media on TON",
-  "image": "https://wjm4lsfc7cebmh6zmcghc7dx2eemdpl6avhbeamx5nriixem4piq.arweave.net/slnFyKL4iBYf2WCMcXx30QjBvX4FThIBl-tihFyM49E/logo.png",
+  "image": "https://wjm4lsfc7cebmh6zmcghc7dx2eemdpl6avhbeamx5nriixem4piq.arweave.net/uGxIIWyUIumXbdJrJ3flYCQo97mYT760o412tWHtv-Q/logo.png",
   "name": "MEDUZA",
   "social": [
    "https://t.me/meduza_eng",
@@ -10269,6 +10310,21 @@
    "http://superwonton.xyz/",
    "https://dexscreener.com/ton/eqa8mzxhfmgid8_k65boet_sxvyebpypwafe4pww2r2sqkbc",
    "https://www.geckoterminal.com/ton/pools/EQA8MzXHfmGid8_K65boEt_sXVyEbPYPwaFe4PwW2R2sQKbC"
+  ]
+ },
+ {
+  "address": "0:ae873a40b9f3c5aaf2158ad660f29fcda78f1150f1b6196324bf9265722c6fc1",
+  "description": "SYN is the token of Syndicate Miner, a mining game in Telegram on TON. Every SYN is backed by Gram held in an on-chain treasury: the floor price equals the reserve divided by the supply, and the contract never lets it fall. At most 1,000,000 SYN can circulate, issued on a schedule that halves every six months.",
+  "image": "https://syndicate-backend-production-c797.up.railway.app/syn/logo.jpg",
+  "name": "Syndicate Miner Token",
+  "social": [
+   "https://t.me/syndicateminer",
+   "https://t.me/Syndicatesguad"
+  ],
+  "symbol": "SYN",
+  "websites": [
+   "https://t.me/Syndicate_miner_bot/app",
+   "https://syndicateminer.com"
   ]
  },
  {
