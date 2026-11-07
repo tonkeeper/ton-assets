@@ -1,0 +1,9 @@
+name: "KBOOM"
+symbol: "KBOOM"
+decimals: 9
+address: "EQBAfPjNDD5Ge0QfS3GSmk--RJjGChAhTD4mNjsw5W8reDlV"
+description: "KBOOM powers Atomic App, a reactor-based experience with progression and rewards on Telegram, built on the TON blockchain."
+image: "https://app.atommining.online/token/kboom/logo.png"
+websites:
+  - "https://atommining.online"
+  - "https://app.atommining.online"
