@@ -1,0 +1,10 @@
+name: FishFarm
+symbol: FISHFARM
+address: EQDg381A7fJVTqwZIlnJXUg0mO5ojSyQNkaZQSQqA9xbi38Y
+description: "FishFarm is the native token of the Telegram game @FishermanFarm_bot, built on the TON blockchain."
+image: "https://i.postimg.cc/FdxHkbdG/fishfarm-token.png"
+websites:
+  - "https://ancient-hat-edc4.fisherfarm.workers.dev"
+social:
+  - "https://t.me/FishermanFarm_bot"
+  - "https://t.me/FishFarmCommunity"
