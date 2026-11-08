@@ -1,0 +1,13 @@
+name: NovaPoints
+description: "NovaPoints (NOVAP) is the airdrop token of the NOVA Telegram Mini App. Fixed supply of 100,000,000 (minting revoked on-chain at deploy); 60% distributed to users via Merkle claims, 15% liquidity (LP locked 12 months), founder 10% in a 2-of-3 vesting escrow."
+image: "https://nova.codiologism.com/nova-points.png"
+address: EQDvO-h0g6m5SN_EN-ikseFdtjtvET_ytKRCm2A26qXaIYGV
+symbol: NOVAP
+decimals: 9
+websites:
+  - "https://nova-points.com"
+  - "https://nova-points.com/token"
+social:
+  - "https://t.me/NovaPointsAirdropBot"
+  - "https://t.me/novapoints"
+  - "https://x.com/NovaPointsApp"
