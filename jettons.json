@@ -23022,6 +23022,11 @@
   "symbol": "TELEBTC"
  },
  {
+  "address": "0:2654edbe01d5e180fdcb2bdc04a6a4f3fdff83e383521aca37a8a536ac1681bc",
+  "name": "Telecat",
+  "symbol": "TELECAT"
+ },
+ {
   "address": "0:26f87ef64ba34c68edca10fee31573e7ba9b203b4b3e9a080e296f3d974f7c94",
   "name": "telegram.dog",
   "symbol": "TELEDOG"
