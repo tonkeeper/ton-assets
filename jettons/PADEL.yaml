@@ -1,6 +1,6 @@
 name: "Padel"
-description: "Is meme coin designed to bring together padel enthusiasts and users with similar interests."
-image: "https://cdn.prod.blum.codes/14cc6286-3248-4b33-9cb8-f12e9ac5955c/8cdf0613-ef5e-44b7-b917-f429c0de685d"
+description: "This is Padel AI project coin. We analyzes padel match videos, creates highlights, tracks player stats, and helps players improve."
+image: "https://raw.githubusercontent.com/DriveCoin/padel/refs/heads/main/padelIcon256.png"
 address: "EQCHpAoczO1wIJPJ0f28LYrdyrS2vZGdKRYPpaLXVsmL0qgX"
 symbol: "PADEL"
 decimals: "9"
