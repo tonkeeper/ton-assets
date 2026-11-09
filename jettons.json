@@ -345,6 +345,18 @@
   ]
  },
  {
+  "address": "0:89734aae51e479461855ea44fea624990db199cbb92960cbc947898cc7b758f8",
+  "decimals": 9,
+  "description": "LZK \u2014 the native token of the LizzardKombat ecosystem, powering in-game rewards, platform utilities, and community engagement.",
+  "image": "https://storage.dyor.io/jettons/images/1793960410/24603654.jfif",
+  "name": "LizzardKombat",
+  "social": [
+   "https://t.me/lizzardkombat",
+   "https://t.me/lizzardrebot"
+  ],
+  "symbol": "LZK"
+ },
+ {
   "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
   "description": "We have a new baby. Deployed from topblast.lol.",
   "image": "https://i.ibb.co/TBShn10j/photo-2026-06-13-10-56-27.jpg",
@@ -5318,6 +5330,18 @@
   "symbol": "GST"
  },
  {
+  "address": "0:399161023899e5b8848a675a784cf5a717c59608786d1117c626d0d35b19361e",
+  "description": "Official token of GiftKO, a Telegram mining game (@Giftkocoin_bot): hold GiftKO in your wallet to mine and stack gifts. Minting disabled, admin is zero address. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/eb5e0b7f-c61c-4ce8-93e4-4b06e6e306f8.jpg",
+  "name": "GiftKO COIN",
+  "social": [
+   "https://t.me/Giftkocoin_bot",
+   "https://t.me/giftkogame",
+   "https://t.me/giftkochat"
+  ],
+  "symbol": "GiftKO"
+ },
+ {
   "address": "0:02f9290a86b2fb374b94c508fed97ca27eb669bb9bab225d4457068b3eb3bfb7",
   "decimals": 9,
   "description": "Gold Nugs is the Dig It rewards token. Play to earn at https://digitgoldgame.com",
@@ -5823,6 +5847,23 @@
   "symbol": "JETTON",
   "websites": [
    "https://jetton.fan"
+  ]
+ },
+ {
+  "address": "0:9a3c9d1c6f904f06f11a4a846cb0538c8fa02ab9be07090d5ab7fb5b8ea939be",
+  "decimals": 9,
+  "description": "JETX is the utility token of JetX Ocean, a maritime fishing and fleet GameFi ecosystem in Telegram Mini App on TON. Players catch deep-sea fish at marine buoys, upgrade ships across 25 equipment levels with 70% on-chain token burn, and trade vessels on the Port P2P Auction.",
+  "image": "https://jetxocean.com/jetx-logo-v2.png",
+  "name": "JetX Ocean",
+  "social": [
+   "https://t.me/jetxOceanOfficial",
+   "https://t.me/JetxOceanChat",
+   "https://t.me/Jetxoceangamebot"
+  ],
+  "symbol": "JETX",
+  "websites": [
+   "https://jetxocean.com",
+   "https://t.me/Jetxoceangamebot/app"
   ]
  },
  {
@@ -6984,7 +7025,7 @@
   "address": "0:a93f91bbeb39d931a09e2798991fa5208bc18e64d59d37444b996f58977e3ac2",
   "decimals": 7,
   "description": "Community-driven token supporting decentralized media on TON",
-  "image": "https://wjm4lsfc7cebmh6zmcghc7dx2eemdpl6avhbeamx5nriixem4piq.arweave.net/slnFyKL4iBYf2WCMcXx30QjBvX4FThIBl-tihFyM49E/logo.png",
+  "image": "https://wjm4lsfc7cebmh6zmcghc7dx2eemdpl6avhbeamx5nriixem4piq.arweave.net/uGxIIWyUIumXbdJrJ3flYCQo97mYT760o412tWHtv-Q/logo.png",
   "name": "MEDUZA",
   "social": [
    "https://t.me/meduza_eng",
@@ -8088,8 +8129,8 @@
  {
   "address": "0:87a40a1ccced702093c9d1fdbc2d8addcab4b6bd919d29160fa5a2d756c98bd2",
   "decimals": 9,
-  "description": "Is meme coin designed to bring together padel enthusiasts and users with similar interests.",
-  "image": "https://cdn.prod.blum.codes/14cc6286-3248-4b33-9cb8-f12e9ac5955c/8cdf0613-ef5e-44b7-b917-f429c0de685d",
+  "description": "This is Padel AI project coin. We analyzes padel match videos, creates highlights, tracks player stats, and helps players improve.",
+  "image": "https://raw.githubusercontent.com/DriveCoin/padel/refs/heads/main/padelIcon256.png",
   "name": "Padel",
   "social": [
    "https://t.me/padelco",
@@ -8232,6 +8273,13 @@
   "websites": [
    "https://pepestrategy.fun/"
   ]
+ },
+ {
+  "address": "0:9c965c65f569b7fdfce5fe8a737d06ecc84043931defa02b5b49fbba1b5372f1",
+  "description": "\u0422\u043e\u043a\u0435\u043d PERUN \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u0445\u043e\u0434\u043d\u044b\u043c \u0438 \u0434\u0435\u0444\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u043c, \u043f\u0440\u043e\u0446\u0435\u043d\u0442 \u043e\u0442 \u043f\u043e\u043a\u0443\u043f\u043a\u0438 \u0438 \u043f\u0440\u043e\u0434\u0430\u0436\u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u0432\u0441\u0435\u043c\u0438 \u0445\u043e\u043b\u0434\u0435\u0440\u0430\u043c\u0438 \u0442\u043e\u043a\u0435\u043d\u0430, \u0430 10% \u043e\u0442 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 \u0441\u0436\u0438\u0433\u0430\u0435\u0442\u0441\u044f, \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044f \u043e\u0431\u0449\u0443\u044e \u044d\u043c\u0438\u0441\u0441\u0438\u044e.",
+  "image": "https://i.ibb.co/35S69kD4/Perun-500-jpg.jpg",
+  "name": "PERUN",
+  "symbol": "PERUN"
  },
  {
   "address": "0:3ebb001ff040ff689197d8126f7b8fc46aab87805890c942a8a508ee70bc98fc",
@@ -10272,6 +10320,21 @@
   ]
  },
  {
+  "address": "0:ae873a40b9f3c5aaf2158ad660f29fcda78f1150f1b6196324bf9265722c6fc1",
+  "description": "SYN is the token of Syndicate Miner, a mining game in Telegram on TON. Every SYN is backed by Gram held in an on-chain treasury: the floor price equals the reserve divided by the supply, and the contract never lets it fall. At most 1,000,000 SYN can circulate, issued on a schedule that halves every six months.",
+  "image": "https://syndicate-backend-production-c797.up.railway.app/syn/logo.jpg",
+  "name": "Syndicate Miner Token",
+  "social": [
+   "https://t.me/syndicateminer",
+   "https://t.me/Syndicatesguad"
+  ],
+  "symbol": "SYN",
+  "websites": [
+   "https://t.me/Syndicate_miner_bot/app",
+   "https://syndicateminer.com"
+  ]
+ },
+ {
   "address": "0:04972ad5df6536d17c2e07723522e92abe91552f04f4977c292c2ff5f1a500a9",
   "description": "Sapphire Token promises to be very successful, the token has very good investors who will help the token develop. You will not regret buying the token",
   "image": "https://cdn.blum.codes/9df2bac3-10c4-4e29-af64-afaa1f8e486b/a4832155-366b-4954-81ce-ebf7f4973242",
@@ -11805,6 +11868,13 @@
   ]
  },
  {
+  "address": "0:981c44190fe5a9e09de7837c8926299a2509a2387f269f9d794c2526dfd826b5",
+  "description": "\u0422\u043e\u043a\u0435\u043d $VELES \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u0445\u043e\u0434\u043d\u044b\u043c \u0438 \u0434\u0435\u0444\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u043c, \u043f\u0440\u043e\u0446\u0435\u043d\u0442 \u043e\u0442 \u043f\u043e\u043a\u0443\u043f\u043a\u0438 \u0438 \u043f\u0440\u043e\u0434\u0430\u0436\u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u0432\u0441\u0435\u043c\u0438 \u0445\u043e\u043b\u0434\u0435\u0440\u0430\u043c\u0438 \u0442\u043e\u043a\u0435\u043d\u0430, \u0430 10% \u043e\u0442 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 \u0441\u0436\u0438\u0433\u0430\u0435\u0442\u0441\u044f, \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044f \u043e\u0431\u0449\u0443\u044e \u044d\u043c\u0438\u0441\u0441\u0438\u044e.",
+  "image": "https://i.ibb.co/hPs6fh9/1000025363-jpg.jpg",
+  "name": "VELES",
+  "symbol": "VELES"
+ },
+ {
   "address": "0:df8257eb7f43acdfc70a3c768e2aa41e9c9a65b36b3471ecbc69c4058cf0bf54",
   "description": "VERT is a utility token designed to power the Vertus ecosystem, simplifying cryptocurrency access through Web3 integration on Telegram.",
   "image": "https://api.thevertus.app/assets/vert_coin.png",
@@ -11906,7 +11976,7 @@
   "image": "https://raw.githubusercontent.com/mR-vnukICH/art/main/logo/logo.png",
   "name": "VNUK",
   "social": [
-   "https://t.me/vnukton"
+   "https://t.me/VNUKonTON"
   ],
   "symbol": "VNUK",
   "websites": [
@@ -22964,6 +23034,11 @@
   "address": "0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb",
   "name": "TeleBTC",
   "symbol": "TELEBTC"
+ },
+ {
+  "address": "0:2654edbe01d5e180fdcb2bdc04a6a4f3fdff83e383521aca37a8a536ac1681bc",
+  "name": "Telecat",
+  "symbol": "TELECAT"
  },
  {
   "address": "0:26f87ef64ba34c68edca10fee31573e7ba9b203b4b3e9a080e296f3d974f7c94",
