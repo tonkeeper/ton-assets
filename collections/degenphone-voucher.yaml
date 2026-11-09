@@ -1,0 +1,21 @@
+name: "Degenphone Voucher"
+address: "0:76f62497a201471550116d566a544901826f02cbd82a366f69236a52c764a833"
+description: |-
+  Degenphone Voucher is the official voucher collection of DegenPhone.
+
+  DegenPhone sells real +372 mobile numbers as NFTs on TON. Each number receives SMS codes from 50+ services straight into the DegenPhone app, so you can sign up for apps without giving out your personal number.
+
+  Each voucher gives 5 rolls and the discount printed on it, up to 25%, on one number mint. To use it, open the DegenPhone app, connect the wallet that holds the voucher and confirm one transaction that sends this voucher to the zero address. Nothing else leaves your wallet. Each voucher works once.
+
+  Site: https://degenphone.xyz
+  App: https://t.me/DegenPhoneTonBot/DegenPhones
+  Channel: https://t.me/degenphone
+  X: https://x.com/degenphone
+image: "https://api.degenphone.xyz/image/voucher/v1/collection.png"
+websites:
+  - "https://degenphone.xyz"
+social:
+  - "https://t.me/degenphone"
+  - "https://x.com/degenphone"
+  - "https://t.me/DegenPhoneTonBot/DegenPhones"
+  - "https://discord.gg/ZDCnFn3nPu"
