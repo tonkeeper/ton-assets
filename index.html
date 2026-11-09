@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DYOX Protocol | Autonomous Macro-Economic Liquidity Substrate & Quantum AI Network</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800;900&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-deep-space: #020406;
+            --bg-solid-surface: rgba(6, 11, 20, 0.85);
+            --bg-glass-card: rgba(11, 20, 38, 0.45);
+            --border-quantum: rgba(56, 189, 248, 0.12);
+            --text-pure: #ffffff;
+            --text-high-contrast: #f8fafc;
+            --text-cyber-muted: #94a3b8;
+            --text-deep-dim: #475569;
+            
+            /* Dynamic Quantum Neon Injectors */
+            --dynamic-neon-glow: #38bdf8;
+            --dynamic-shadow-aura: rgba(56, 189, 248, 0.3);
+            --dynamic-linear-flux: linear-gradient(135deg, #38bdf8 0%, #10b981 100%);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            background-color: var(--bg-deep-space);
+            color: var(--text-high-contrast);
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        h1, h2, h3, h4, .font-matrix, .btn-core {
+            font-family: 'Orbitron', sans-serif;
+            letter-spacing: 0.5px;
+        }
+
+        /* HIGH-PERFORMANCE BACKGROUND ENGINE ELEMENT */
+        #quantum-canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .nebula-ambient-core {
+            position: fixed;
+            width: 800px;
+            height: 800px;
+            background: radial-gradient(circle, var(--dynamic-shadow-aura) 0%, transparent 75%);
+            top: -300px;
+            right: -200px;
+            pointer-events: none;
+            z-index: 1;
+            transition: background 1.2s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .macro-scaffold {
+            position: relative;
+            z-index: 2;
+            max-width: 1500px;
+            margin: 0 auto;
+            padding: 40px 25px;
+        }
+
+        /* FLOATING CYBERNETIC BRIDGE NAVIGATION */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 24px 50px;
+            background: var(--bg-solid-surface);
+            border: 1px solid var(--border-quantum);
+            border-radius: 24px;
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            margin-bottom: 80px;
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255,255,255,0.05);
+        }
+
+        .identity-cluster {
+            display: flex;
+            align-items: center;
+            gap: 18px;
+        }
+
+        .logo-quantum-shield {
+            width: 55px;
+            height: 55px;
+            border-radius: 14px;
+            background: #010204;
+            border: 2px solid var(--dynamic-neon-glow);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 25px var(--dynamic-shadow-aura);
+            transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .logo-quantum-shield i {
+            font-size: 24px;
+            color: var(--dynamic-neon-glow);
+            transition: all 0.6s ease;
+        }
+
+        .text-brand-matrix {
+            font-size: 28px;
+            font-weight: 900;
+            letter-spacing: 2px;
+            color: var(--text-pure);
+            text-transform: uppercase;
+        }
+
+        .text-brand-matrix span {
+            color: var(--dynamic-neon-glow);
+            transition: color 0.6s ease;
+        }
+
+        nav {
+            display: flex;
+            gap: 40px;
+        }
+
+        nav a {
+            color: var(--text-cyber-muted);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--dynamic-neon-glow);
+            text-shadow: 0 0 15px var(--dynamic-shadow-aura);
+        }
+
+        /* VIEWPORT INTEGRITY CONSOLE (HERO AREA) */
+        .viewport-grid {
+            display: grid;
+            grid-template-columns: 1.1fr 0.9fr;
+            gap: 50px;
+            align-items: center;
+            padding-bottom: 120px;
+        }
+
+        @media (max-width: 1200px) {
+            .viewport-grid { grid-template-columns: 1fr; text-align: center; }
+        }
+
+        .hero-intellect h1 {
+            font-size: 64px;
+            line-height: 1.05;
+            font-weight: 900;
+            color: var(--text-pure);
+            margin-bottom: 30px;
+            text-transform: uppercase;
+        }
+
+        .hero-intellect h1 span {
+            background: var(--dynamic-linear-flux);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            transition: all 0.6s ease;
+        }
+
+        .hero-intellect p {
+            font-size: 18px;
+            color: var(--text-cyber-muted);
+            line-height: 1.8;
+            margin-bottom: 45px;
+            text-align: justify;
+        }
+
+        /* INTERACTIVE ACTION ELEMENTS */
+        .btn-hub-flux {
+            display: flex;
+            gap: 24px;
+            flex-wrap: wrap;
+        }
+
+        @media (max-width: 1200px) {
+            .btn-hub-flux { justify-content: center; }
+        }
+
+        .btn-core {
+            display: inline-flex;
+            align-items: center;
+            gap: 14px;
+            padding: 20px 42px;
+            border-radius: 16px;
+            font-size: 14px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-decoration: none;
+            transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            cursor: pointer;
+        }
+
+        .btn-apex-neon {
+            background: var(--dynamic-linear-flux);
+            color: #020406;
+            box-shadow: 0 10px 35px var(--dynamic-shadow-aura);
+            border: none;
+        }
+
+        .btn-apex-neon:hover {
+            transform: translateY(-5px) scale(1.02);
+            box-shadow: 0 20px 50px var(--dynamic-shadow-aura);
+            filter: brightness(1.2);
+        }
+
+        .btn-shield-outline {
+            background: rgba(255, 255, 255, 0.01);
+            color: var(--text-pure);
+            border: 1px solid var(--border-quantum);
+            backdrop-filter: blur(12px);
+        }
+
+        .btn-shield-outline:hover {
+            border-color: var(--dynamic-neon-glow);
+            box-shadow: 0 0 30px rgba(255, 255, 255, 0.03);
+            transform: translateY(-5px);
+            color: var(--dynamic-neon-glow);
+        }
+
+        /* ADVANCED CRYPTOGRAPHIC REAL-TIME TELEMETRY PANEL */
+        .telemetry-dashboard {
+            background: var(--bg-solid-surface);
+            border: 1px solid var(--border-quantum);
+            border-radius: 36px;
+            padding: 40px;
+            box-shadow: 0 40px 90px rgba(0,0,0,0.7);
+            backdrop-filter: blur(30px);
+            position: relative;
+        }
+
+        .telemetry-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+            padding-bottom: 25px;
+            margin-bottom: 30px;
+        }
+
+        .signal-indicator-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .pulse-node-dot {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: var(--dynamic-neon-glow);
+            box-shadow: 0 0 15px var(--dynamic-neon-glow);
+            animation: infinite-node-pulse 2s infinite;
+        }
+
+        .stats-matrix-layout {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+
+        .stats-individual-pod {
+            background: var(--bg-glass-card);
+            border: 1px solid var(--border-quantum);
+            padding: 24px;
+            border-radius: 20px;
+            transition: border 0.4s ease;
+        }
+
+        .stats-individual-pod label {
+            font-size: 11px;
+            color: var(--text-cyber-muted);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        .stats-individual-pod .metrics-digit-readout {
+            font-size: 32px;
+            font-weight: 800;
+            color: var(--text-pure);
+            font-family: 'Orbitron', sans-serif;
+        }
+
+        /* LIVE ALGORITHMIC ROUTING ANIMATOR BOX */
+        .live-flow-animator {
+            background: rgba(1, 2, 4, 0.6);
+            border: 1px solid var(--border-quantum);
+            border-radius: 16px;
+            padding: 20px;
+            height: 140px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .flow-line-simulated {
+            position: absolute;
+            height: 2px;
+            background: var(--dynamic-linear-flux);
+            width: 100%;
+            top: 50%;
+            left: -100%;
+            animation: route-flux-flow 3s infinite linear;
+        }
+
+        /* THE 13 ARCHITECTURAL CIVILIZATION DOMAINS */
+        .section-header-epic {
+            text-align: center;
+            margin-bottom: 80px;
+            margin-top: 40px;
+        }
+
+        .section-header-epic h2 {
+            font-size: 46px;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: -1px;
+            margin-bottom: 20px;
+        }
+
+        .section-header-epic p {
+            color: var(--text-cyber-muted);
+            font-size: 19px;
+            max-width: 950px;
+            margin: 0 auto;
+            line-height: 1.7;
+        }
+
+        .civilization-sectors-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
+            gap: 35px;
+            margin-bottom: 120px;
+        }
+
+        @media (max-width: 768px) {
+            .civilization-sectors-grid { grid-template-columns: 1fr; }
+        }
+
+        .sector-monolith-card {
+            background: var(--bg-solid-surface);
+            border: 1px solid var(--border-quantum);
+            border-radius: 28px;
+            padding: 45px;
+            position: relative;
+            transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            overflow: hidden;
+            backdrop-filter: blur(15px);
+        }
+
+        .sector-monolith-card:hover {
+            transform: translateY(-10px) scale(1.01);
+            border-color: var(--dynamic-neon-glow);
+            box-shadow: 0 30px 60px rgba(0,0,0,0.6), 0 0 35px var(--border-quantum);
+        }
+
+        .giant-back-index {
+            position: absolute;
+            top: 25px;
+            right: 35px;
+            font-size: 56px;
+            font-weight: 900;
+            color: rgba(255,255,255,0.015);
+            transition: color 0.5s ease;
+        }
+
+        .sector-monolith-card:hover .giant-back-index {
+            color: rgba(255,255,255,0.05);
+        }
+
+        .icon-aura-container {
+            width: 70px;
+            height: 70px;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.01);
+            border: 1px solid var(--border-quantum);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 26px;
+            color: var(--dynamic-neon-glow);
+            margin-bottom: 30px;
+            transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .sector-monolith-card:hover .icon-aura-container {
+            background: var(--dynamic-neon-glow);
+            color: #020406;
+            box-shadow: 0 0 25px var(--dynamic-neon-glow);
+        }
+
+        .sector-monolith-card h3 {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--text-pure);
+            margin-bottom: 18px;
+            text-transform: uppercase;
+        }
+
+        .sector-monolith-card p {
+            font-size: 15px;
+            color: var(--text-cyber-muted);
+            line-height: 1.8;
+            text-align: justify;
+        }
+
+        /* HIGH-TIER DEVELOPER ADVOCACY PLATFORM (PITCH) */
+        .developer-terminal-box {
+            background: linear-gradient(145deg, rgba(8,14,26,0.95) 0%, rgba(2,4,6,0.98) 100%);
+            border: 1px solid var(--border-quantum);
+            border-radius: 40px;
+            padding: 70px;
+            margin-bottom: 120px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 50px 100px rgba(0,0,0,0.8);
+        }
+
+        .dev-status-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: rgba(16, 185, 129, 0.08);
+            border: 1px solid #10b981;
+            padding: 8px 20px;
+            border-radius: 100px;
+            font-size: 12px;
+            color: #10b981;
+            font-weight: 800;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .developer-terminal-box h2 {
+            font-size: 42px;
+            color: var(--text-pure);
+            margin-bottom: 25px;
+            text-transform: uppercase;
+        }
+
+        .developer-terminal-box p {
+            font-size: 17px;
+            color: var(--text-cyber-muted);
+            line-height: 1.9;
+            max-width: 1050px;
+            margin-bottom: 45px;
+            text-align: justify;
+        }
+
+        /* ABSOLUTE SCARCITY QUANTUM LAYER (TOKENOMICS) */
+        .scarcity-universe-panel {
+            background: var(--bg-solid-surface);
+            border: 1px solid var(--border-quantum);
+            border-radius: 40px;
+            padding: 60px;
+            margin-bottom: 120px;
+            display: grid;
+            grid-template-columns: 1fr 1.1fr;
+            gap: 60px;
+            align-items: center;
+        }
+
+        @media (max-width: 1100px) {
+            .scarcity-universe-panel { grid-template-columns: 1fr; }
+        }
+
+        .massive-vault-readout {
+            background: #010204;
+            border: 1px dashed var(--dynamic-neon-glow);
+            border-radius: 28px;
+            padding: 50px;
+            text-align: center;
+            box-shadow: inset 0 0 40px rgba(56, 189, 248, 0.03);
+        }
+
+        .massive-vault-readout .token-quantum-cap {
+            font-size: 64px;
+            font-weight: 900;
+            color: #ffffff;
+            letter-spacing: 2px;
+            margin-bottom: 15px;
+            text-shadow: 0 0 30px rgba(255,255,255,0.1);
+        }
+
+        .allocation-strip-node {
+            background: var(--bg-glass-card);
+            padding: 20px 28px;
+            border-radius: 16px;
+            margin-bottom: 15px;
+            border: 1px solid var(--border-quantum);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: border 0.3s ease;
+        }
+
+        .allocation-strip-node:hover {
+            border-color: var(--dynamic-neon-glow);
+        }
+
+        .allocation-strip-node span {
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .allocation-strip-node strong {
+            color: var(--dynamic-neon-glow);
+            font-size: 20px;
+            font-family: 'Orbitron', sans-serif;
+            transition: color 0.6s ease;
+        }
+
+        /* THE CHRONICLES OF HIERARCHY (ROADMAP) */
+        .chronicles-axis-scaffold {
+            position: relative;
+            padding: 60px 0;
+            margin-bottom: 120px;
+        }
+
+        .chronicles-axis-scaffold::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(180deg, var(--dynamic-neon-glow) 0%, #10b981 100%);
+            transform: translateX(-50%);
+        }
+
+        @media (max-width: 992px) {
+            .chronicles-axis-scaffold::before { left: 35px; }
+        }
+
+        .chronicle-anchor-point {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            margin-bottom: 60px;
+            position: relative;
+        }
+
+        @media (max-width: 992px) {
+            .chronicle-anchor-point { flex-direction: column; align-items: flex-start; padding-left: 70px; }
+        }
+
+        .chronicle-monolith-plate {
+            width: 43%;
+            background: var(--bg-solid-surface);
+            border: 1px solid var(--border-quantum);
+            border-radius: 32px;
+            padding: 45px;
+            box-shadow: 0 25px 50px rgba(0,0,0,0.4);
+            backdrop-filter: blur(20px);
+        }
+
+        @media (max-width: 992px) {
+            .chronicle-monolith-plate { width: 100%; }
+        }
+
+        .chronicle-anchor-point:nth-child(even) {
+            flex-direction: row-reverse;
+        }
+
+        @media (max-width: 992px) {
+            .chronicle-anchor-point:nth-child(even) { flex-direction: column; }
+        }
+
+        .chronicle-quantum-core-dot {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: #020406;
+            border: 5px solid var(--dynamic-neon-glow);
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 3;
+            box-shadow: 0 0 25px var(--dynamic-neon-glow);
+            transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        @media (max-width: 992px) {
+            .chronicle-quantum-core-dot { left: 35px; }
+        }
+
+        .chronicle-monolith-plate h3 {
+            font-size: 24px;
+            color: var(--text-pure);
+            margin-bottom: 20px;
+        }
+
+        .chronicle-monolith-plate h3 span {
+            color: var(--dynamic-neon-glow);
+            font-size: 13px;
+            text-transform: uppercase;
+            display: block;
+            margin-bottom: 6px;
+            letter-spacing: 2px;
+            font-family: 'Orbitron', sans-serif;
+        }
+
+        .chronicle-monolith-plate p {
+            font-size: 15px;
+            color: var(--text-cyber-muted);
+            margin-bottom: 20px;
+            line-height: 1.7;
+        }
+
+        .chronicle-monolith-plate ul {
+            list-style: none;
+        }
+
+        .chronicle-monolith-plate li {
+            font-size: 14px;
+            color: var(--text-high-contrast);
+            margin-bottom: 10px;
+            position: relative;
+            padding-left: 25px;
+            line-height: 1.5;
+        }
+
+        .chronicle-monolith-plate li::before {
+            content: '✦';
+            position: absolute;
+            left: 0;
+            color: var(--dynamic-neon-glow);
+        }
+
+        /* TOTAL GLOBAL CIVILIZATION FOOTER */
+        footer {
+            background: var(--bg-solid-surface);
+            border: 1px solid var(--border-quantum);
+            border-radius: 40px 40px 0 0;
+            padding: 80px 60px 40px 
