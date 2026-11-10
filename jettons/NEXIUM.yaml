@@ -1,0 +1,10 @@
+name: "NEXIUM"
+symbol: "NEXIUM"
+decimals: 9
+address: "0:bb787737464a777b93fc73f9c27a5dd47dc4b1f27c72f201d602bf7c98033411"
+description: "NEXIUM is the utility token of G-Planet, an alchemy and mining game on Telegram. It is designed for in-game crafting, fusion, and purchases."
+image: "https://gplanet.xyz/token/nexium/logo.png"
+websites:
+  - "https://gplanet.xyz"
+social:
+  - "https://t.me/G_Planets"
