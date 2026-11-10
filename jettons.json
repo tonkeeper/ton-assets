@@ -6517,6 +6517,22 @@
   ]
  },
  {
+  "address": "0:d1b148b9aab6cfa47d774d6956669ece43a68462fac701ca5c1843c33923df8e",
+  "decimals": 9,
+  "description": "The lunar gold rush is calling\u2014recruit your mole miners and stake your claim before the crowd arrives.",
+  "image": "https://web.lunaroreburrow.top/coin.png",
+  "name": "Lunar Ore Burrow",
+  "social": [
+   "https://x.com/lunaroreburrow",
+   "https://www.youtube.com/@lunaroreburrowbot",
+   "https://t.me/TaskRushNews"
+  ],
+  "symbol": "LOB",
+  "websites": [
+   "https://home.lunaroreburrow.top/"
+  ]
+ },
+ {
   "address": "0:dfcfed4c74f38cf68c7358f7c2d3a9e144644bc8b4df6134a95ace7bedb22b5d",
   "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0441\u043e\u0437\u0434\u0430\u043d\u044b, \u0447\u0442\u043e\u0431\u044b \u0438\u0445 \u043d\u0430\u0440\u0443\u0448\u0430\u0442\u044c. \u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0445\u0430\u043e\u0441!",
   "image": "https://i.ibb.co/pv2s7PLg/b750392ee05d.jpg",
