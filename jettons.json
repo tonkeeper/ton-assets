@@ -3618,6 +3618,19 @@
   ]
  },
  {
+  "address": "0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f",
+  "decimals": 9,
+  "name": "EGOR ZHGUN",
+  "social": [
+   "https://x.com/egorverse",
+   "https://t.me/egorverseportal"
+  ],
+  "symbol": "EGOR",
+  "websites": [
+   "https://www.egorverse.xyz/"
+  ]
+ },
+ {
   "address": "0:e967c692c5c82f09fc8a9831b1abefd68707c0141060288005edd8a66d599332",
   "description": "EK Token serves as the fundamental utility asset across the Escape Kingdom ecosystem, unifying value and access throughout all current and future projects. Through staking, holders gain enhanced winning probabilities, aligning long-term engagement with in-game rewards.",
   "image": "https://ipfs.geek.foundation/ipfs/bafybeifbhpzwkwloykfaijmcfajtttvrilabgyschpxp76kw77wdwcltju",
@@ -21597,11 +21610,6 @@
   "symbol": "EGG"
  },
  {
-  "address": "0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f",
-  "name": "EGOR ZHGUN",
-  "symbol": "EGOR"
- },
- {
   "address": "0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184",
   "name": "eTON NFT",
   "symbol": "ENFT"
@@ -26386,6 +26394,21 @@
    "https://x.com/pyonyaOG"
   ],
   "symbol": "\u041f\u0451\u043d\u044f"
+ },
+ {
+  "address": "0:6fa4ab29999e9693a1dcf55669b5f1dd8761cfa161554d08bda19108717977ff",
+  "decimals": 9,
+  "description": "RIFT powers Rifty Mining on TON: mining rewards, station upgrades and module crafting, with a mintable supply and no fixed maximum.",
+  "image": "https://rifty.run.place/assets/rift-token-v1.jpg",
+  "name": "Rifty",
+  "social": [
+   "https://t.me/riftycommunity",
+   "https://t.me/riftycoinbot"
+  ],
+  "symbol": "RIFT",
+  "websites": [
+   "https://rifty.run.place/"
+  ]
  },
  {
   "address": "0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b",
