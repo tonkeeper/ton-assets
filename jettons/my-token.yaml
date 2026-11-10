@@ -1,0 +1,8 @@
+name: My Token
+symbol: MTK
+description: My own TON Jetton
+image: https://i.ibb.co/JRc1vC4R/fc8771f5b3ec7d06d406ae79a4bf24e765b6cb984e64eb74f73debc676c9e15b.png
+address: EQBs6ngUoEg-6APkBQREbDF4qAQ4i6ZY8q5vVlVc6kFV0TCP
+decimals: 10
+websites:
+  - https://mytokenofficial.github.io/mytoken-website/
