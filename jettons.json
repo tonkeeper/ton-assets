@@ -9000,6 +9000,22 @@
   "symbol": "RANNTA"
  },
  {
+  "address": "0:55988e8d1077455ff301daea1a5b9a0b5e00f5a125f25a677b9b3c04fc513c06",
+  "decimals": 9,
+  "description": "Roadster Boost is a community-driven Web3 project inspired by electric mobility and New York\u2019s skyline. Collect RBQ rewards through daily activities, complete missions, and unlock new levels in a jet-powered Roadster experience.",
+  "image": "https://web.roadsterboost.top/rbq-coin.png",
+  "name": "Roadster Boost",
+  "social": [
+   "https://x.com/RoadsterBoost",
+   "https://www.youtube.com/@RoadsterBoost",
+   "https://t.me/RoadsterBoost_New"
+  ],
+  "symbol": "RBQ",
+  "websites": [
+   "https://home.roadsterboost.top/"
+  ]
+ },
+ {
   "address": "0:83ee5aebc6939cab903947a9d32de17592e21b97504a09ee4e9da9c67b7701e0",
   "description": "RabBitcoin serves as the native token of the Rocky Rabbit platform, powering the Play-to-Earn ecosystem and enabling seamless in-game transactions and rewards.",
   "image": "https://cdn.rockyrabbit.io/rbtc-icon/512x512.png",
