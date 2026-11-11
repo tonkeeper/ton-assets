@@ -1,0 +1,10 @@
+name: "VOLTIX"
+description: "VOLTIX (VTX) is the token of the VOLTIX Mining ecosystem on TON. Users mine VTX 24/7 in the Telegram mini app and withdraw to their own wallet."
+image: "https://voltix-mining.pages.dev/vtx.png"
+address: EQDykYNay7dM0jdk4J3QSvVtMjqI-4bjVfFCQMpzJnYw5-zF
+symbol: VTX
+decimals: 6
+websites:
+  - "https://voltix-mining.pages.dev"
+social:
+  - "https://t.me/VoltixMiningBot"
