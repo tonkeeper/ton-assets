@@ -1757,6 +1757,11 @@
   "name": "CoinEx"
  },
  {
+  "address": "0:b55a614fc9127c3bbf6ed47bcd55d35d8cd6cec10c0b343c8549a1b8f40869d7",
+  "image": "https://laveshka.org/icon.svg",
+  "name": "Laveshka"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
