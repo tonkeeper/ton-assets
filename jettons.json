@@ -5847,6 +5847,22 @@
   ]
  },
  {
+  "address": "0:e904fa1049241e42eaa3a91007d760aeb15471016d00b7b11d21aa042f09d2b6",
+  "decimals": 9,
+  "description": "Jensen Chip (JCH) is the utility token of Jensen Foundry, a community-driven ecosystem inspired by chip innovation. JCH connects mining-style rewards, holding-based level progression, community tasks, and referrals on The Open Network (TON).",
+  "image": "https://web.jensenchip.top/jch-chip-coin.png",
+  "name": "Jensen Chip",
+  "social": [
+   "https://x.com/JensenChips",
+   "https://www.youtube.com/@JensenChip",
+   "https://t.me/JensenChip_new"
+  ],
+  "symbol": "JCH",
+  "websites": [
+   "https://home.jensenchip.top/"
+  ]
+ },
+ {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
   "decimals": 9,
   "image": "https://i.ibb.co/gZQ4Jqg/john-doge-transparent.png",
@@ -8309,6 +8325,22 @@
   "websites": [
    "https://lifeisapeach.top/",
    "https://linktr.ee/LifeisaPeach"
+  ]
+ },
+ {
+  "address": "0:9f2844a8197c2f4c14289220f333961a551be8a91314e2883d0af0080160520e",
+  "decimals": 9,
+  "description": "PEJ is the theme token of Polar Eden Jungle. Join the sprout-crowned penguin PEJI on a quest to find the Seed of Eden and explore the mysterious jungle beneath the ice and snow.",
+  "image": "https://web.polaredenjungle.top/pej-token.png",
+  "name": "Polar Eden Jungle",
+  "social": [
+   "https://x.com/polaredenjungle",
+   "https://www.youtube.com/@PolarEdenJungle",
+   "https://t.me/AskMeTONCommunity"
+  ],
+  "symbol": "PEJ",
+  "websites": [
+   "https://home.polaredenjungle.top/"
   ]
  },
  {
