@@ -1,0 +1,13 @@
+# TON Roles ton-assets verification material
+name: "Polar Eden Jungle"
+symbol: "PEJ"
+address: "EQCfKESoGXwvTBQokiDzM5YaVRvoqRMU4og9CvAIAWBSDioE"
+decimals: 9
+description: "PEJ is the theme token of Polar Eden Jungle. Join the sprout-crowned penguin PEJI on a quest to find the Seed of Eden and explore the mysterious jungle beneath the ice and snow."
+image: "https://web.polaredenjungle.top/pej-token.png"
+websites:
+  - "https://home.polaredenjungle.top/"
+social:
+  - "https://x.com/polaredenjungle"
+  - "https://www.youtube.com/@PolarEdenJungle"
+  - "https://t.me/AskMeTONCommunity"
