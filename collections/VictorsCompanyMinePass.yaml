@@ -1,0 +1,12 @@
+name: "Victor's Company · Mine Pass"
+description: "Soulbound passes of Victor's Company, the Telegram mining game on TON. Each Mine Pass is minted once, for one miner, and can never be sold or transferred: it proves that its wallet belongs to the miner who holds it. It opens claiming, withdrawals and the Arcade."
+image: "https://server.victors.company/api/public/pass/collection.png"
+address: "EQCZiEP5RjxmXlRzcDpzSONGJIGIle06xQRUuQN3lDICh5Yx"
+websites:
+  - "https://victors.company"
+social:
+  - "https://t.me/victors_company"
+  - "https://t.me/VictorsCompanyChat"
+  - "https://x.com/VictorsCompany"
+  - "https://youtube.com/@victorscompany"
+  - "https://t.me/Victors_Company_bot/app"
