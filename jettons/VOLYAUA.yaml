@@ -1,0 +1,9 @@
+name: Volya Freedom Protocol
+description: "Decentralized freedom jetton on TON (VOLYAUA) with strict 30,000,000 hard-cap, 5-stage anti-whale protection, automated DEX tax and holder reward pool, autonomous burn contract, and team time-lock vesting until 2030."
+image: "https://files.catbox.moe/ffutbv.jpg"
+address: EQAR9gQ_FVoCa8FYJCf1RwxaQKon6wA-7Lk8ih3Bv3wX5PAS
+symbol: VOLYAUA
+decimals: 9
+social:
+  - "https://t.me/Volya_Freedom_Protocol"
+  - "https://x.com/mihalza"
