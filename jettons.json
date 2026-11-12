@@ -1519,6 +1519,21 @@
   ]
  },
  {
+  "address": "0:c132b9e3c5ed05ad202a1c0d9f0b90af7aed84d074f946d5c1c7815c240b44c5",
+  "description": "Token of the Bumpkin Legends ecosystem. Holders earn $BPL every second in BGIFT Share, inside the BPL Gift Perps Telegram Mini App. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/0e5a2672-231e-4fec-9afe-7c74eccdb8af.png",
+  "name": "BGIFT",
+  "social": [
+   "https://t.me/bpltradingiftbot",
+   "https://t.me/bumpkinlegendss",
+   "https://t.me/bumpkinlegendsss"
+  ],
+  "symbol": "BGIFT",
+  "websites": [
+   "https://bumpkinlegends.it/"
+  ]
+ },
+ {
   "address": "0:752eec0dd88647be9bc03e76309ed8f4406b9ba164a864efadee45f506ba64bf",
   "description": "\u0422\u043e\u043a\u0435\u043d \u043b\u0435\u0433\u0435\u043d\u0434\u044b TON, Staking 100% - 100 \u0434\u043d\u0435\u0439",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb1luwn2izhvpvapnywntj0qgubowsozo-t7kx1brpkv3td.png?size=lg&key=1164fb",
