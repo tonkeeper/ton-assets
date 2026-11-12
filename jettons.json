@@ -5354,18 +5354,6 @@
   "symbol": "GST"
  },
  {
-  "address": "0:399161023899e5b8848a675a784cf5a717c59608786d1117c626d0d35b19361e",
-  "description": "Official token of GiftKO, a Telegram mining game (@Giftkocoin_bot): hold GiftKO in your wallet to mine and stack gifts. Minting disabled, admin is zero address. Deployed from sTONks.",
-  "image": "https://img.stonks.cash/eb5e0b7f-c61c-4ce8-93e4-4b06e6e306f8.jpg",
-  "name": "GiftKO COIN",
-  "social": [
-   "https://t.me/Giftkocoin_bot",
-   "https://t.me/giftkogame",
-   "https://t.me/giftkochat"
-  ],
-  "symbol": "GiftKO"
- },
- {
   "address": "0:02f9290a86b2fb374b94c508fed97ca27eb669bb9bab225d4457068b3eb3bfb7",
   "decimals": 9,
   "description": "Gold Nugs is the Dig It rewards token. Play to earn at https://digitgoldgame.com",
@@ -10167,20 +10155,6 @@
   "symbol": "SQG",
   "websites": [
    "https://t.me/squidtg_bot"
-  ]
- },
- {
-  "address": "0:ad83f86673d71b3dbb4e8cb75fb92cea0931eadf5aaba778fc30c79a750a354c",
-  "description": "Social Reward Fund (SRF) is a community token on TON. Deployed from sTONks.",
-  "image": "https://i.ibb.co/MkDptJLH/a2109ae012d2.jpg",
-  "name": "Social Reward Fund",
-  "social": [
-   "https://t.me/SRFChat",
-   "https://t.me/SRFCanal"
-  ],
-  "symbol": "SRF",
-  "websites": [
-   "https://dexscreener.com/ton/EQCt8wDF00f5aD7fnBKZmNww7djdb1LXJ4BubqmxlbsUPMMs"
   ]
  },
  {
