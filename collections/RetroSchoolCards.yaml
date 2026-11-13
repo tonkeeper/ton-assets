@@ -1,0 +1,8 @@
+name: "Retro School Cards"
+description: "Collectible cards of real retro consoles and games from the Retro School museum (retro.school). A card can be minted only after a moderator has checked that the item is in its owner's hands: a live camera shot with a one-time paper code and at least 3 photos of the item. Print, finish and backdrop are drawn by a commit-reveal mint with a public ledger."
+image: "https://retro.school/icon-512.png"
+address: "EQBPdyEeWtIUawlnAfhjnHc6Fai9tyNRWJgi9rHgkLJXMG-_"
+websites:
+  - "https://retro.school"
+social:
+  - "https://t.me/shkola_retro"
