@@ -11422,6 +11422,25 @@
   ]
  },
  {
+  "address": "0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05",
+  "description": "WEB3 producer for content creators (content monetization platform). TRIBE is a multimedia blockchain marketplace specifically for creators (digital artists) of quality content, who make their NFTs available for use by buyers and collectors.",
+  "image": "https://tribeton.io/pitch/assets/logo.png",
+  "name": "Tribe",
+  "social": [
+   "https://t.me/tribe_ton",
+   "https://t.me/tribeton",
+   "https://t.me/tribes_ton",
+   "https://x.com/tribeton",
+   "https://youtube.com/@tribe_ton",
+   "https://linkedin.com/company/tribe-ton"
+  ],
+  "symbol": "TRIBE",
+  "websites": [
+   "https://tribeton.io",
+   "https://doc.tribeton.io"
+  ]
+ },
+ {
   "address": "0:147ff83eb90302a89630cbdc46515c2b3262b6d14b14257553df18c4ebbd7bf5",
   "description": "TROCK is the utility token of the TonRocket ecosystem on TON. Users can mine tokens, collect NFTs, and participate in community activities through the TonRocket Telegram bot.",
   "name": "TonRocket",
@@ -23403,11 +23422,6 @@
   "address": "0:75eaf886eac262deb45aac0ed385e1a3101ce2e69565c0895cdf47ef37799226",
   "name": "TON REX",
   "symbol": "TREX"
- },
- {
-  "address": "0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05",
-  "name": "Tribe",
-  "symbol": "TRIBE"
  },
  {
   "address": "0:deeae17163fd6b5a91b02472ef2cd159d09fd89a6b1500c13d5c886a3748b665",
