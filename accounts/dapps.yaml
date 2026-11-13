@@ -4,3 +4,6 @@
 - address: "EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav"
   name: "Tonstakers master"
   image: "https://tonstakers.com/jetton/logo.svg"
+- address: "UQAoxgHzFgND0e0zyvPl1lHtbHTK35gn49jWkaOqjtbe8q5t"
+  name: "GetGrams.io"
+  image: "https://getgrams.io/icon.png"
