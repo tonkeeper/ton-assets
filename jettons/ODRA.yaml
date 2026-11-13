@@ -1,0 +1,11 @@
+name: "ODRA Coin"
+symbol: "ODRA"
+description: "ODRA is a community-driven token built on the TON blockchain."
+decimals: 9
+address: "EQDY54MZfglpWsPJoIGWkK_-zvOS2_Ikk8QTH0L3NnLZ8CCf"
+image: "https://i.ibb.co/MkrbBRQm/IMG-6793.png"
+social:
+  - "https://t.me/ODRAcoin"
+  - "https://t.me/ODRAcoinBot"
+  - "https://x.com/ODRAcoin"
+  - "https://youtube.com/@ODRACoin"
