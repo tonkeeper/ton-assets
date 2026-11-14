@@ -1,0 +1,10 @@
+name: Toncoin Cash
+description: Tool for preserving, saving and multiplying digital assets. With automatic conversion to the national currency.
+image: "https://raw.githubusercontent.com/crypton0/symmetrical-sniffle/main/256.2.png"
+address: 0:b7ca4014ff74fcffcfb858bae4e9f527f6f053f96051d6d59a2b5d047132471e
+symbol: TCC
+decimals: 9
+websites:
+  - "https://toncoincash.tech"
+social:
+  - "https://t.me/TONCOlNCASH"
