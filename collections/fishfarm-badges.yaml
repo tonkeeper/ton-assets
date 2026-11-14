@@ -1,0 +1,8 @@
+name: "FishFarm Badges"
+description: "Коллекционные значки за достижения в игре FishFarm — бронза, серебро, золото и выше. Выдаются за реальный игровой прогресс."
+image: "https://bazilik87-prog.github.io/fish-farm/img/badges/fisher_5.png"
+address: "0:86be69254c1df0165d24c1deca76f076e0952928aa1f85cce6d1d45ba79d2cf7"
+websites:
+  - "https://bazilik87-prog.github.io/fish-farm/"
+social:
+  - "https://t.me/fish_farmings_bot"
