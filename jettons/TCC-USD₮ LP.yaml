@@ -1,0 +1,10 @@
+name: LP Token for TCC-USD₮
+symbol: "TCC-USD₮ LP"
+description: "Liquidity pool token for Toncoin Cash and Tether USD on STON.fi DEX"
+address: 0:53266b9d39c36510e53e4fbdf26a682edb9f9ec90979e14e7f49261a559c2ecf
+decimals: 9
+image: "https://meta.ston.fi/lp/v1/img/0:53266b9d39c36510e53e4fbdf26a682edb9f9ec90979e14e7f49261a559c2ecf.png"
+websites:
+  - "https://app.ston.fi/pools/EQBTJmudOcNlEOU-T73yamgu25-eyQl54U5_SSYaVZwuz54F"
+social:
+  - "https://t.me/TONCOlNCASH"
