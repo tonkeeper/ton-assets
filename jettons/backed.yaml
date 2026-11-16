@@ -2056,9 +2056,6 @@
 - address: 0:0784f683c91c97263c060d70419e0b66092987162aa94cba93ddcebba2e0e68e
   name: Core MSCI Emerging Markets xStock
   symbol: IEMGx
-- address: 0:f3a995fe31a8811f64947b15d74916dea3ebb45430d0ab24e099470c5c3b41c1
-  name: Icahn Enterprises xStock
-  symbol: IEPx
 - address: 0:fec2daecf36da39303fd70539b199dbe1860054e1edbade15ef098189b13b538
   name: IES xStock
   symbol: IESCx

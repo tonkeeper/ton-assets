@@ -5384,6 +5384,19 @@
   "symbol": "GST"
  },
  {
+  "address": "0:399161023899e5b8848a675a784cf5a717c59608786d1117c626d0d35b19361e",
+  "description": "GiftKO Coin is the game token of the GiftKO project on TON. It is used for holder rewards and in-game mechanics in Telegram.",
+  "name": "GiftKO Coin",
+  "social": [
+   "https://t.me/giftkogame",
+   "https://t.me/giftkochat"
+  ],
+  "symbol": "GiftKO",
+  "websites": [
+   "https://giftkocoin.up.railway.app"
+  ]
+ },
+ {
   "address": "0:02f9290a86b2fb374b94c508fed97ca27eb669bb9bab225d4457068b3eb3bfb7",
   "decimals": 9,
   "description": "Gold Nugs is the Dig It rewards token. Play to earn at https://digitgoldgame.com",
@@ -16484,11 +16497,6 @@
   "address": "0:0784f683c91c97263c060d70419e0b66092987162aa94cba93ddcebba2e0e68e",
   "name": "Core MSCI Emerging Markets xStock",
   "symbol": "IEMGx"
- },
- {
-  "address": "0:f3a995fe31a8811f64947b15d74916dea3ebb45430d0ab24e099470c5c3b41c1",
-  "name": "Icahn Enterprises xStock",
-  "symbol": "IEPx"
  },
  {
   "address": "0:fec2daecf36da39303fd70539b199dbe1860054e1edbade15ef098189b13b538",
