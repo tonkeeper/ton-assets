@@ -762,6 +762,21 @@
   ]
  },
  {
+  "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
+  "decimals": 9,
+  "description": "Andy is the yellow dog from Boy's Club with the long ears and zero stress. Memes, friends, and a high five that never leaves you hanging. Up top, champ!",
+  "image": "https://andy.tg/andy-logo.png",
+  "name": "Andy",
+  "social": [
+   "https://x.com/AndyonTonchain",
+   "https://t.me/AndyOnTonCommunity"
+  ],
+  "symbol": "ANDY",
+  "websites": [
+   "https://andy.tg"
+  ]
+ },
+ {
   "address": "0:f8e95e1c77c7557d3392dc0665bb389ea8b6849f8fb50419c51ec2f52f42ef6b",
   "decimals": 9,
   "description": "ANF Protocol - Non-Custodial Hold-to-Mine and Reactor Staking Ecosystem on TON Blockchain.",
@@ -21212,11 +21227,6 @@
   "address": "0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0",
   "name": "ALWIN AirDrop",
   "symbol": "ALWIN"
- },
- {
-  "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
-  "name": "Andy",
-  "symbol": "ANDY"
  },
  {
   "address": "0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886",
