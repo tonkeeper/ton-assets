@@ -11927,6 +11927,20 @@
   ]
  },
  {
+  "address": "0:1c8124ed5789551d371861969f872ba50f981bea1873491c1c0d12aa094198c2",
+  "description": "UTYAN - Telegram's little companion. A community token inspired by the experimental 3D duck companion found in Telegram's open-source iOS repository. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/fcd27fd4-02c8-4f2f-956d-10005cd64ef3.webp",
+  "name": "UTYAN",
+  "social": [
+   "https://t.me/UtyanAii",
+   "https://x.com/utyanai"
+  ],
+  "symbol": "UTYAN",
+  "websites": [
+   "https://utyan.best/"
+  ]
+ },
+ {
   "address": "0:1b12eb7baeb51a4a690db86f2c7cf9aab704cb766b332fe9674228e609788b43",
   "decimals": 9,
   "description": "Due to current market conditions I now identify as a memecoin.  \n\nThe ticker is $UWU.",
