@@ -11490,6 +11490,13 @@
   ]
  },
  {
+  "address": "0:b87c08e4618a23a89315df9c5aee5dbd0f8c6c5731c6e8d2de5c8a7e276ffd58",
+  "description": "Fixed-supply utility token of the Wizard Trend ecosystem.",
+  "image": "https://wiztrnd.info/token/trnd-logo-v1.png",
+  "name": "Wizard Trend",
+  "symbol": "TRND"
+ },
+ {
   "address": "0:147ff83eb90302a89630cbdc46515c2b3262b6d14b14257553df18c4ebbd7bf5",
   "description": "TROCK is the utility token of the TonRocket ecosystem on TON. Users can mine tokens, collect NFTs, and participate in community activities through the TonRocket Telegram bot.",
   "name": "TonRocket",
