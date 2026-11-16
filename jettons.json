@@ -9005,6 +9005,22 @@
   ]
  },
  {
+  "address": "0:cf13ee80b1fe0e18687b869b17e63f8d090ec1313dd68afbfcf3853c9ae8b076",
+  "decimals": 9,
+  "description": "Quantum Yield Voyage is a rocket-themed Telegram Mini App featuring mining, level progression, task rewards, referrals, and mining reward sharing.",
+  "image": "https://web.quantumyieldvoyage.top/qyv-coin.png",
+  "name": "Quantum Yield Voyage",
+  "social": [
+   "https://x.com/QuantumYieldV",
+   "https://www.youtube.com/@QuantumYieldVoyage",
+   "https://t.me/QuantumYieldVoyage"
+  ],
+  "symbol": "QYV",
+  "websites": [
+   "https://home.quantumyieldvoyage.top/"
+  ]
+ },
+ {
   "address": "0:9b67413ca4d6c4cf52fbbf0340388f9964d6d8337ec016cc9b1e4c188ddc910b",
   "description": "Utility token for QuantEx, a universal platform of tools for managing crypto assets and generating income.",
   "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/%D0%BB%D0%BE%D0%B3%D0%BE.jpg",
