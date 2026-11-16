@@ -9449,6 +9449,23 @@
   ]
  },
  {
+  "address": "0:8e38d22a180b4e13a06937345fde38cfea103bec227f6824e646d4d6c16401e6",
+  "decimals": 9,
+  "description": "Rhiza Coin (#RZC) is the native utility and governance token of the RhizaCore ecosystem, a self-custody wallet on Gram.",
+  "image": "https://rhizacore.xyz/RZC.png",
+  "name": "RhizaCore",
+  "social": [
+   "https://x.com/RhizaCore",
+   "https://t.me/RhizaCoreNews"
+  ],
+  "symbol": "RZC",
+  "websites": [
+   "https://rhizacore.xyz",
+   "https://rhizacore.online",
+   "https://rhizacore.xyz/mint-policy"
+  ]
+ },
+ {
   "address": "0:48feec2dafa6861a1f9aea05d957d4710955fd32583a856c2a5b0174385ebf31",
   "description": "Rockets (your preferred stickers) and more - https://t.me/rocket_on_ton",
   "image": "https://i.ibb.co/q9D7Vb0/Rocket.png",
