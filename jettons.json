@@ -21994,6 +21994,11 @@
   "symbol": "GG"
  },
  {
+  "address": "0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101",
+  "name": "Gift Gram",
+  "symbol": "GGRAM"
+ },
+ {
   "address": "0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2",
   "name": "Grabscape governance token",
   "symbol": "GGT"
