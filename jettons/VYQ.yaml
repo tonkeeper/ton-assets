@@ -1,0 +1,13 @@
+# TON Roles ton-assets verification material
+name: "Vector Yield Quantum"
+symbol: "VYQ"
+address: "EQC-h3LejKEIX5mobbd8-89F3lpC3yRI09v5vmmwdMptDB5Z"
+decimals: 9
+description: "TON-based chip mining applet supports wallet connection, mining machine upgrade, task reward and bonus invitation."
+image: "https://web.vyqminer.top/vyq-coin.png"
+websites:
+  - "https://home.vyqminer.top/"
+social:
+  - "https://x.com/VYQMiner"
+  - "https://www.youtube.com/@VYQMiner"
+  - "https://t.me/VYQMiner"

@@ -345,6 +345,18 @@
   ]
  },
  {
+  "address": "0:89734aae51e479461855ea44fea624990db199cbb92960cbc947898cc7b758f8",
+  "decimals": 9,
+  "description": "LZK \u2014 the native token of the LizzardKombat ecosystem, powering in-game rewards, platform utilities, and community engagement.",
+  "image": "https://storage.dyor.io/jettons/images/1793960410/24603654.jfif",
+  "name": "LizzardKombat",
+  "social": [
+   "https://t.me/lizzardkombat",
+   "https://t.me/lizzardrebot"
+  ],
+  "symbol": "LZK"
+ },
+ {
   "address": "0:3aeb1b3d716995585583c129701b97bc052d7f25f6f67365625ad4b17b59ec7d",
   "description": "We have a new baby. Deployed from topblast.lol.",
   "image": "https://i.ibb.co/TBShn10j/photo-2026-06-13-10-56-27.jpg",
@@ -747,6 +759,21 @@
   "symbol": "ANDO",
   "websites": [
    "https://anubisdog.xyz"
+  ]
+ },
+ {
+  "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
+  "decimals": 9,
+  "description": "Andy is the yellow dog from Boy's Club with the long ears and zero stress. Memes, friends, and a high five that never leaves you hanging. Up top, champ!",
+  "image": "https://andy.tg/andy-logo.png",
+  "name": "Andy",
+  "social": [
+   "https://x.com/AndyonTonchain",
+   "https://t.me/AndyOnTonCommunity"
+  ],
+  "symbol": "ANDY",
+  "websites": [
+   "https://andy.tg"
   ]
  },
  {
@@ -1295,6 +1322,16 @@
   "symbol": "BABYGROYP"
  },
  {
+  "address": "0:b9feb7d53326bac487f75fac839a082c4603d53bc8584dbda1bf4abea8a3b3f8",
+  "description": "First baby reward token from PUMP launchpad.",
+  "image": "https://i.postimg.cc/DytHnGJn/Baby-Redo.jpg",
+  "name": "Baby Resistance Doge",
+  "social": [
+   "https://t.me/BabyRedoge"
+  ],
+  "symbol": "BABYREDO"
+ },
+ {
   "address": "0:a3b4dc5157890fb190a34ca43c0504d12644c773444d383a654d070553d8226e",
   "description": "\ud83d\udc8e Baby Saphir \u2014 the successor to the legendary Saphir! \ud83d\udc8e Baby Saphir ($BSAPHIR) is a new step in the Saphir Capital ecosystem, created to unite the community, support holders, and promote creative ideas in the Web3 world. \ud83d\ude80 Project Mission: To create a powerful community around the Saphir brand, where every participant can be part of its growth\u2014from memes to real investments. \ud83d\udd25 Baby Saphir Features: \ud83d\udca0 Tied to the Saphir Capital ecosystem\u2014a younger brother with bigger ambitions \ud83c\udfaf An entertaining and community-oriented token \ud83d\udc8e Rewards for active holders and participants \ud83d\udc51 Baby Saphir \u2014 small, but with the potential to become a diamond in the crypto world.",
   "image": "https://i.ibb.co/KzX5jHwj/photo-2025-10-08-20-35-14.png",
@@ -1494,6 +1531,21 @@
   "symbol": "BFS",
   "websites": [
    "https://bananaforscale.tech/"
+  ]
+ },
+ {
+  "address": "0:c132b9e3c5ed05ad202a1c0d9f0b90af7aed84d074f946d5c1c7815c240b44c5",
+  "description": "Token of the Bumpkin Legends ecosystem. Holders earn $BPL every second in BGIFT Share, inside the BPL Gift Perps Telegram Mini App. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/0e5a2672-231e-4fec-9afe-7c74eccdb8af.png",
+  "name": "BGIFT",
+  "social": [
+   "https://t.me/bpltradingiftbot",
+   "https://t.me/bumpkinlegendss",
+   "https://t.me/bumpkinlegendsss"
+  ],
+  "symbol": "BGIFT",
+  "websites": [
+   "https://bumpkinlegends.it/"
   ]
  },
  {
@@ -1724,6 +1776,21 @@
   "symbol": "BOTM"
  },
  {
+  "address": "0:67ac59ed6a60855d164d96d62c45afccb3d4350c90fc656209c2fe69d388ae5a",
+  "description": "Official reward token of Bumpkin Legends, the MMORPG on Telegram. Holders get access to the Bumpkin Legends community. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/656cd47e-59aa-4e31-8bc6-ba3e65cbf0e0.png",
+  "name": "Bumpkin Reward",
+  "social": [
+   "https://t.me/Bumpkinlegends_bot",
+   "https://t.me/bumpkinlegendss",
+   "https://t.me/bumpkinlegendsss"
+  ],
+  "symbol": "BPL",
+  "websites": [
+   "https://bumpkinlegends.it/"
+  ]
+ },
+ {
   "address": "0:00e9f9bdcb33a65db42e68fc763b24f3107661b65cb9b577d5b58d9b2dca8a8d",
   "description": "Rewards Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/batymcoin/refs/heads/main/5379725509707032451.jpg",
@@ -1871,6 +1938,17 @@
   "websites": [
    "https://buycrypt.com"
   ]
+ },
+ {
+  "address": "0:a09e9330b7c314b9d1b280fb273689ebc13f77f128b1d9f6eea8300a715e427f",
+  "description": "Hold BabyTermi and get TERMI.",
+  "image": "https://i.postimg.cc/d3RDpwT9/baby-termi-gotovo.png",
+  "name": "Baby Terminator",
+  "social": [
+   "https://t.me/termichator",
+   "https://t.me/termionton"
+  ],
+  "symbol": "BABYTERMI"
  },
  {
   "address": "0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7",
@@ -3187,6 +3265,22 @@
   "symbol": "DRAKON"
  },
  {
+  "address": "0:2658456be820ea946999e854da53ec67f2eaf1913c2b28072fc54b7e19baf9c8",
+  "decimals": 9,
+  "description": "DRAM is a community-owned token on TON. Mine it for free in the DRAM Miner app.",
+  "image": "https://dram.faithton.online/dram-logo.png",
+  "name": "DRAM",
+  "social": [
+   "https://t.me/dram0fficial",
+   "https://t.me/dramminerbot",
+   "https://x.com/dramfamilyton"
+  ],
+  "symbol": "DRAM",
+  "websites": [
+   "https://dram.faithton.online"
+  ]
+ },
+ {
   "address": "0:cf1a39b83d4f350decf6ae6405414da1c3f8bc86eb7919353dd473adcd96cf11",
   "description": "$DROPEE is the single token that links every game in the Dropee ecosystem, unlocking premium features and boosters while rewarding players for their engagement.",
   "image": "https://bafybeicwqb5qvewmz5psmvmyunmrl7boavhtroq7gf2kbvqwlzyjjnpbai.ipfs.w3s.link/image.png",
@@ -3551,6 +3645,19 @@
   "symbol": "EGG",
   "websites": [
    "https://birdfarm.tech"
+  ]
+ },
+ {
+  "address": "0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f",
+  "decimals": 9,
+  "name": "EGOR ZHGUN",
+  "social": [
+   "https://x.com/egorverse",
+   "https://t.me/egorverseportal"
+  ],
+  "symbol": "EGOR",
+  "websites": [
+   "https://www.egorverse.xyz/"
   ]
  },
  {
@@ -5277,6 +5384,19 @@
   "symbol": "GST"
  },
  {
+  "address": "0:399161023899e5b8848a675a784cf5a717c59608786d1117c626d0d35b19361e",
+  "description": "GiftKO Coin is the game token of the GiftKO project on TON. It is used for holder rewards and in-game mechanics in Telegram.",
+  "name": "GiftKO Coin",
+  "social": [
+   "https://t.me/giftkogame",
+   "https://t.me/giftkochat"
+  ],
+  "symbol": "GiftKO",
+  "websites": [
+   "https://giftkocoin.up.railway.app"
+  ]
+ },
+ {
   "address": "0:02f9290a86b2fb374b94c508fed97ca27eb669bb9bab225d4457068b3eb3bfb7",
   "decimals": 9,
   "description": "Gold Nugs is the Dig It rewards token. Play to earn at https://digitgoldgame.com",
@@ -5312,6 +5432,19 @@
    "https://github.com/Hachikoinucoin"
   ],
   "symbol": "HAKI"
+ },
+ {
+  "address": "0:fe0630dfdc206743f7b0d671759a8387517bade408eb1b921b4e7f5ed21ecdb6",
+  "description": "Token for https://t.me/addstickers/Halloweenkin by Egor Zhgun",
+  "image": "https://i.postimg.cc/jdb35f3Q/pump.gif",
+  "name": "Halloween Pumpkin",
+  "social": [
+   "https://t.me/halloweenkin_ton"
+  ],
+  "symbol": "HALLOWEENKIN",
+  "websites": [
+   "https://halloweenkin.xyz/"
+  ]
  },
  {
   "address": "0:6e2935797d33ab40e80277107751ab6116d636540a5bd6282862428202015f8f",
@@ -5668,6 +5801,22 @@
   ]
  },
  {
+  "address": "0:56f543ca67beffeab6e16466c24776be187b06c7fc48008d1e9f38d75d0ec50c",
+  "decimals": 9,
+  "description": "Iron Oath Company is a mercenary saga forged in steel and sworn by oath. With IOC, recruit warriors, forge mighty blades, and write your legend, one conquered castle at a time.",
+  "image": "https://web.ironoathcompany.top/ioc-coin.png",
+  "name": "Iron Oath Company",
+  "social": [
+   "https://x.com/Ironoathcompany",
+   "https://www.youtube.com/@IronOathCompany",
+   "https://t.me/Bees_app"
+  ],
+  "symbol": "IOC",
+  "websites": [
+   "https://home.ironoathcompany.top/"
+  ]
+ },
+ {
   "address": "0:8948dfc5fa04aeee3c5c2e3797bad10efa5df680e31a6743f26c1a71b0123fe2",
   "description": "Skill-to-earn esports platform for chess, Tetris & mind games with crypto prizes.",
   "image": "https://iqpi.ru/images/inhtml/logo_coin_blue.png",
@@ -5729,6 +5878,22 @@
   ]
  },
  {
+  "address": "0:e904fa1049241e42eaa3a91007d760aeb15471016d00b7b11d21aa042f09d2b6",
+  "decimals": 9,
+  "description": "Jensen Chip (JCH) is the utility token of Jensen Foundry, a community-driven ecosystem inspired by chip innovation. JCH connects mining-style rewards, holding-based level progression, community tasks, and referrals on The Open Network (TON).",
+  "image": "https://web.jensenchip.top/jch-chip-coin.png",
+  "name": "Jensen Chip",
+  "social": [
+   "https://x.com/JensenChips",
+   "https://www.youtube.com/@JensenChip",
+   "https://t.me/JensenChip_new"
+  ],
+  "symbol": "JCH",
+  "websites": [
+   "https://home.jensenchip.top/"
+  ]
+ },
+ {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
   "decimals": 9,
   "image": "https://i.ibb.co/gZQ4Jqg/john-doge-transparent.png",
@@ -5769,6 +5934,23 @@
   "symbol": "JETTON",
   "websites": [
    "https://jetton.fan"
+  ]
+ },
+ {
+  "address": "0:9a3c9d1c6f904f06f11a4a846cb0538c8fa02ab9be07090d5ab7fb5b8ea939be",
+  "decimals": 9,
+  "description": "JETX is the utility token of JetX Ocean, a maritime fishing and fleet GameFi ecosystem in Telegram Mini App on TON. Players catch deep-sea fish at marine buoys, upgrade ships across 25 equipment levels with 70% on-chain token burn, and trade vessels on the Port P2P Auction.",
+  "image": "https://jetxocean.com/jetx-logo-v2.png",
+  "name": "JetX Ocean",
+  "social": [
+   "https://t.me/jetxOceanOfficial",
+   "https://t.me/JetxOceanChat",
+   "https://t.me/Jetxoceangamebot"
+  ],
+  "symbol": "JETX",
+  "websites": [
+   "https://jetxocean.com",
+   "https://t.me/Jetxoceangamebot/app"
   ]
  },
  {
@@ -5930,6 +6112,19 @@
   "symbol": "KAT",
   "websites": [
    "https://katknight.io/"
+  ]
+ },
+ {
+  "address": "0:f694a071db23e7a960e044ed1012c91790922a43f2ca594ac4d86fafbd1f2c11",
+  "description": "Utility token for rewarding storage providers in the KeepFiles decentralized storage network.",
+  "image": "https://keepfiles.org/keep-logo.png",
+  "name": "KeepFiles",
+  "social": [
+   "https://www.threads.com/@keepfiles_org"
+  ],
+  "symbol": "KEEP",
+  "websites": [
+   "https://keepfiles.org"
   ]
  },
  {
@@ -6382,6 +6577,22 @@
   "symbol": "LNX",
   "websites": [
    "https://lunex.network"
+  ]
+ },
+ {
+  "address": "0:d1b148b9aab6cfa47d774d6956669ece43a68462fac701ca5c1843c33923df8e",
+  "decimals": 9,
+  "description": "The lunar gold rush is calling\u2014recruit your mole miners and stake your claim before the crowd arrives.",
+  "image": "https://web.lunaroreburrow.top/coin.png",
+  "name": "Lunar Ore Burrow",
+  "social": [
+   "https://x.com/lunaroreburrow",
+   "https://www.youtube.com/@lunaroreburrowbot",
+   "https://t.me/TaskRushNews"
+  ],
+  "symbol": "LOB",
+  "websites": [
+   "https://home.lunaroreburrow.top/"
   ]
  },
  {
@@ -6917,7 +7128,7 @@
   "address": "0:a93f91bbeb39d931a09e2798991fa5208bc18e64d59d37444b996f58977e3ac2",
   "decimals": 7,
   "description": "Community-driven token supporting decentralized media on TON",
-  "image": "https://wjm4lsfc7cebmh6zmcghc7dx2eemdpl6avhbeamx5nriixem4piq.arweave.net/slnFyKL4iBYf2WCMcXx30QjBvX4FThIBl-tihFyM49E/logo.png",
+  "image": "https://wjm4lsfc7cebmh6zmcghc7dx2eemdpl6avhbeamx5nriixem4piq.arweave.net/uGxIIWyUIumXbdJrJ3flYCQo97mYT760o412tWHtv-Q/logo.png",
   "name": "MEDUZA",
   "social": [
    "https://t.me/meduza_eng",
@@ -7747,6 +7958,23 @@
   ]
  },
  {
+  "address": "0:ef3be87483a9b948dfc437e8a4b1e15db63b6f113ff2b4a4429b6036eaa5da21",
+  "decimals": 9,
+  "description": "NovaPoints (NOVAP) is the airdrop token of the NOVA Telegram Mini App. Fixed supply of 100,000,000 (minting revoked on-chain at deploy); 60% distributed to users via Merkle claims, 15% liquidity (LP locked 12 months), founder 10% in a 2-of-3 vesting escrow.",
+  "image": "https://nova.codiologism.com/nova-points.png",
+  "name": "NovaPoints",
+  "social": [
+   "https://t.me/NovaPointsAirdropBot",
+   "https://t.me/novapoints",
+   "https://x.com/NovaPointsApp"
+  ],
+  "symbol": "NOVAP",
+  "websites": [
+   "https://nova-points.com",
+   "https://nova-points.com/token"
+  ]
+ },
+ {
   "address": "0:7328860ffd6567612e640dbcfedf36adf7c86d3425d05157e691a1fb7cb75c11",
   "description": "This is not just another meme coin. A unique features of our token is its long-term potential, designed to last for decades.",
   "image": "https://github.com/Makssimus/KPUR/blob/main/NPV.png?raw=true",
@@ -8021,8 +8249,8 @@
  {
   "address": "0:87a40a1ccced702093c9d1fdbc2d8addcab4b6bd919d29160fa5a2d756c98bd2",
   "decimals": 9,
-  "description": "Is meme coin designed to bring together padel enthusiasts and users with similar interests.",
-  "image": "https://cdn.prod.blum.codes/14cc6286-3248-4b33-9cb8-f12e9ac5955c/8cdf0613-ef5e-44b7-b917-f429c0de685d",
+  "description": "This is Padel AI project coin. We analyzes padel match videos, creates highlights, tracks player stats, and helps players improve.",
+  "image": "https://raw.githubusercontent.com/DriveCoin/padel/refs/heads/main/padelIcon256.png",
   "name": "Padel",
   "social": [
    "https://t.me/padelco",
@@ -8148,6 +8376,22 @@
   ]
  },
  {
+  "address": "0:9f2844a8197c2f4c14289220f333961a551be8a91314e2883d0af0080160520e",
+  "decimals": 9,
+  "description": "PEJ is the theme token of Polar Eden Jungle. Join the sprout-crowned penguin PEJI on a quest to find the Seed of Eden and explore the mysterious jungle beneath the ice and snow.",
+  "image": "https://web.polaredenjungle.top/pej-token.png",
+  "name": "Polar Eden Jungle",
+  "social": [
+   "https://x.com/polaredenjungle",
+   "https://www.youtube.com/@PolarEdenJungle",
+   "https://t.me/AskMeTONCommunity"
+  ],
+  "symbol": "PEJ",
+  "websites": [
+   "https://home.polaredenjungle.top/"
+  ]
+ },
+ {
   "address": "0:4ffe1859f853d31e7802de70ff01b146c1eed5595498a1f918afdbdb3e4d5e17",
   "name": "PEPE`S TON CLUB",
   "symbol": "PEPE"
@@ -8165,6 +8409,13 @@
   "websites": [
    "https://pepestrategy.fun/"
   ]
+ },
+ {
+  "address": "0:9c965c65f569b7fdfce5fe8a737d06ecc84043931defa02b5b49fbba1b5372f1",
+  "description": "\u0422\u043e\u043a\u0435\u043d PERUN \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u0445\u043e\u0434\u043d\u044b\u043c \u0438 \u0434\u0435\u0444\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u043c, \u043f\u0440\u043e\u0446\u0435\u043d\u0442 \u043e\u0442 \u043f\u043e\u043a\u0443\u043f\u043a\u0438 \u0438 \u043f\u0440\u043e\u0434\u0430\u0436\u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u0432\u0441\u0435\u043c\u0438 \u0445\u043e\u043b\u0434\u0435\u0440\u0430\u043c\u0438 \u0442\u043e\u043a\u0435\u043d\u0430, \u0430 10% \u043e\u0442 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 \u0441\u0436\u0438\u0433\u0430\u0435\u0442\u0441\u044f, \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044f \u043e\u0431\u0449\u0443\u044e \u044d\u043c\u0438\u0441\u0441\u0438\u044e.",
+  "image": "https://i.ibb.co/35S69kD4/Perun-500-jpg.jpg",
+  "name": "PERUN",
+  "symbol": "PERUN"
  },
  {
   "address": "0:3ebb001ff040ff689197d8126f7b8fc46aab87805890c942a8a508ee70bc98fc",
@@ -8574,6 +8825,19 @@
   ]
  },
  {
+  "address": "0:ba8ec873252d5b2f484a56d31f99f707aee24624f30aee6e40e0e8be10c93a69",
+  "description": "PXE is the token of Pickaxe Empire, a Telegram mining game on TON. The more PXE you hold, the bigger your mining crew and the more you mine across ten of the world's oldest mines.",
+  "name": "Pickaxe Empire",
+  "social": [
+   "https://t.me/PickaxeEmpireApp"
+  ],
+  "symbol": "PXE",
+  "websites": [
+   "https://pickaxeempire.com",
+   "https://t.me/PickaxeEmpireApp/app"
+  ]
+ },
+ {
   "address": "0:c2ce9ae8ec30656aec5dd5a683430406a0649a235792c92cd6946df9e6770aba",
   "image": "https://raw.githubusercontent.com/GbGr/the-pixels/main/pxl.png",
   "name": "The Pixels",
@@ -8786,6 +9050,22 @@
   ]
  },
  {
+  "address": "0:cf13ee80b1fe0e18687b869b17e63f8d090ec1313dd68afbfcf3853c9ae8b076",
+  "decimals": 9,
+  "description": "Quantum Yield Voyage is a rocket-themed Telegram Mini App featuring mining, level progression, task rewards, referrals, and mining reward sharing.",
+  "image": "https://web.quantumyieldvoyage.top/qyv-coin.png",
+  "name": "Quantum Yield Voyage",
+  "social": [
+   "https://x.com/QuantumYieldV",
+   "https://www.youtube.com/@QuantumYieldVoyage",
+   "https://t.me/QuantumYieldVoyage"
+  ],
+  "symbol": "QYV",
+  "websites": [
+   "https://home.quantumyieldvoyage.top/"
+  ]
+ },
+ {
   "address": "0:9b67413ca4d6c4cf52fbbf0340388f9964d6d8337ec016cc9b1e4c188ddc910b",
   "description": "Utility token for QuantEx, a universal platform of tools for managing crypto assets and generating income.",
   "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/%D0%BB%D0%BE%D0%B3%D0%BE.jpg",
@@ -8830,6 +9110,22 @@
    "https://github.com/ilia144000/rannta-token"
   ],
   "symbol": "RANNTA"
+ },
+ {
+  "address": "0:55988e8d1077455ff301daea1a5b9a0b5e00f5a125f25a677b9b3c04fc513c06",
+  "decimals": 9,
+  "description": "Roadster Boost is a community-driven Web3 project inspired by electric mobility and New York\u2019s skyline. Collect RBQ rewards through daily activities, complete missions, and unlock new levels in a jet-powered Roadster experience.",
+  "image": "https://web.roadsterboost.top/rbq-coin.png",
+  "name": "Roadster Boost",
+  "social": [
+   "https://x.com/RoadsterBoost",
+   "https://www.youtube.com/@RoadsterBoost",
+   "https://t.me/RoadsterBoost_New"
+  ],
+  "symbol": "RBQ",
+  "websites": [
+   "https://home.roadsterboost.top/"
+  ]
  },
  {
   "address": "0:83ee5aebc6939cab903947a9d32de17592e21b97504a09ee4e9da9c67b7701e0",
@@ -9198,6 +9494,39 @@
   ]
  },
  {
+  "address": "0:619a940b14a386416247dee0b33f885f69caecb690a6039119784e9c74a0b4c6",
+  "decimals": 9,
+  "description": "Rail Yard Quest is a railway-themed Telegram Mini App that combines train progression, interactive tasks, and RYQ token rewards. Travel through scenic landscapes with your train, collect coins into its treasury carriage, and claim accumulated rewards to your in-app balance. Complete daily check-ins and tasks, invite friends, and unlock higher train levels through eligible wallet and Pool holdings.",
+  "image": "https://web.railyardquest.top/ryq-token.png",
+  "name": "Rail Yard Quest",
+  "social": [
+   "https://x.com/RailYardQuest",
+   "https://www.youtube.com/@RailYardQuest",
+   "https://t.me/RailYardQuest"
+  ],
+  "symbol": "RYQ",
+  "websites": [
+   "https://home.railyardquest.top/"
+  ]
+ },
+ {
+  "address": "0:8e38d22a180b4e13a06937345fde38cfea103bec227f6824e646d4d6c16401e6",
+  "decimals": 9,
+  "description": "Rhiza Coin (#RZC) is the native utility and governance token of the RhizaCore ecosystem, a self-custody wallet on Gram.",
+  "image": "https://rhizacore.xyz/RZC.png",
+  "name": "RhizaCore",
+  "social": [
+   "https://x.com/RhizaCore",
+   "https://t.me/RhizaCoreNews"
+  ],
+  "symbol": "RZC",
+  "websites": [
+   "https://rhizacore.xyz",
+   "https://rhizacore.online",
+   "https://rhizacore.xyz/mint-policy"
+  ]
+ },
+ {
   "address": "0:48feec2dafa6861a1f9aea05d957d4710955fd32583a856c2a5b0174385ebf31",
   "description": "Rockets (your preferred stickers) and more - https://t.me/rocket_on_ton",
   "image": "https://i.ibb.co/q9D7Vb0/Rocket.png",
@@ -9351,6 +9680,22 @@
   "symbol": "SEMZ",
   "websites": [
    "https://www.semz1.com/"
+  ]
+ },
+ {
+  "address": "0:3b314a88da34fbcbdfd289526edc83059ac3267b4ccba231712c44f70b33aa5f",
+  "description": "SEN is the native currency of Zen, a Telegram wallet for payments, games and community on TON.",
+  "image": "https://myzen.today/token/sen.png",
+  "name": "SEN",
+  "social": [
+   "https://t.me/zenwallet",
+   "https://t.me/SendZenBot",
+   "https://t.me/gramzonetrade",
+   "https://t.me/cryptospaceBull"
+  ],
+  "symbol": "SEN",
+  "websites": [
+   "https://myzen.today"
   ]
  },
  {
@@ -10189,6 +10534,21 @@
    "http://superwonton.xyz/",
    "https://dexscreener.com/ton/eqa8mzxhfmgid8_k65boet_sxvyebpypwafe4pww2r2sqkbc",
    "https://www.geckoterminal.com/ton/pools/EQA8MzXHfmGid8_K65boEt_sXVyEbPYPwaFe4PwW2R2sQKbC"
+  ]
+ },
+ {
+  "address": "0:ae873a40b9f3c5aaf2158ad660f29fcda78f1150f1b6196324bf9265722c6fc1",
+  "description": "SYN is the token of Syndicate Miner, a mining game in Telegram on TON. Every SYN is backed by Gram held in an on-chain treasury: the floor price equals the reserve divided by the supply, and the contract never lets it fall. At most 1,000,000 SYN can circulate, issued on a schedule that halves every six months.",
+  "image": "https://syndicate-backend-production-c797.up.railway.app/syn/logo.jpg",
+  "name": "Syndicate Miner Token",
+  "social": [
+   "https://t.me/syndicateminer",
+   "https://t.me/Syndicatesguad"
+  ],
+  "symbol": "SYN",
+  "websites": [
+   "https://t.me/Syndicate_miner_bot/app",
+   "https://syndicateminer.com"
   ]
  },
  {
@@ -11156,6 +11516,32 @@
   ]
  },
  {
+  "address": "0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05",
+  "description": "WEB3 producer for content creators (content monetization platform). TRIBE is a multimedia blockchain marketplace specifically for creators (digital artists) of quality content, who make their NFTs available for use by buyers and collectors.",
+  "image": "https://tribeton.io/pitch/assets/logo.png",
+  "name": "Tribe",
+  "social": [
+   "https://t.me/tribe_ton",
+   "https://t.me/tribeton",
+   "https://t.me/tribes_ton",
+   "https://x.com/tribeton",
+   "https://youtube.com/@tribe_ton",
+   "https://linkedin.com/company/tribe-ton"
+  ],
+  "symbol": "TRIBE",
+  "websites": [
+   "https://tribeton.io",
+   "https://doc.tribeton.io"
+  ]
+ },
+ {
+  "address": "0:b87c08e4618a23a89315df9c5aee5dbd0f8c6c5731c6e8d2de5c8a7e276ffd58",
+  "description": "Fixed-supply utility token of the Wizard Trend ecosystem.",
+  "image": "https://wiztrnd.info/token/trnd-logo-v1.png",
+  "name": "Wizard Trend",
+  "symbol": "TRND"
+ },
+ {
   "address": "0:147ff83eb90302a89630cbdc46515c2b3262b6d14b14257553df18c4ebbd7bf5",
   "description": "TROCK is the utility token of the TonRocket ecosystem on TON. Users can mine tokens, collect NFTs, and participate in community activities through the TonRocket Telegram bot.",
   "name": "TonRocket",
@@ -11367,7 +11753,7 @@
  },
  {
   "address": "0:487afc4d395ab77aada45930046d0d7a6d9501eb085d9b66fb1cdf1b9e856567",
-  "description": "Deployed from sTONks",
+  "description": "\ud83d\udc8e \u0421\u043e\u0437\u0434\u0430\u043d \u0434\u043b\u044f \u0434\u0435\u0444\u0438\u0446\u0438\u0442\u0430. $MB \u0434\u043e\u0431\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u0442\u043e\u043a\u0435\u043d \u0432\u043e\u0437\u043d\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u044f, \u0430 \u043f\u0440\u0438 \u043a\u0430\u0436\u0434\u043e\u0439 \u043f\u043e\u043a\u0443\u043f\u043a\u0435 \u0438\u043b\u0438 \u043f\u0440\u043e\u0434\u0430\u0436\u0435 15 \u043f\u0440\u043e\u0446\u0435\u043d\u0442\u043e\u0432 \u0442\u043e\u043a\u0435\u043d\u043e\u0432 \u0441\u0436\u0438\u0433\u0430\u044e\u0442\u0441\u044f \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430, \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044f \u043e\u0431\u0449\u0435\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435. t.me/MusicMiningMB_Bot",
   "image": "https://i.ibb.co/1Y4Mnkm3/1000087656-jpg.jpg",
   "name": "The musical bomb",
   "social": [
@@ -11642,6 +12028,20 @@
   ]
  },
  {
+  "address": "0:1c8124ed5789551d371861969f872ba50f981bea1873491c1c0d12aa094198c2",
+  "description": "UTYAN - Telegram's little companion. A community token inspired by the experimental 3D duck companion found in Telegram's open-source iOS repository. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/fcd27fd4-02c8-4f2f-956d-10005cd64ef3.webp",
+  "name": "UTYAN",
+  "social": [
+   "https://t.me/UtyanAii",
+   "https://x.com/utyanai"
+  ],
+  "symbol": "UTYAN",
+  "websites": [
+   "https://utyan.best/"
+  ]
+ },
+ {
   "address": "0:1b12eb7baeb51a4a690db86f2c7cf9aab704cb766b332fe9674228e609788b43",
   "decimals": 9,
   "description": "Due to current market conditions I now identify as a memecoin.  \n\nThe ticker is $UWU.",
@@ -11723,6 +12123,13 @@
   "websites": [
    "https://velve.info/"
   ]
+ },
+ {
+  "address": "0:981c44190fe5a9e09de7837c8926299a2509a2387f269f9d794c2526dfd826b5",
+  "description": "\u0422\u043e\u043a\u0435\u043d $VELES \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u0445\u043e\u0434\u043d\u044b\u043c \u0438 \u0434\u0435\u0444\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u043c, \u043f\u0440\u043e\u0446\u0435\u043d\u0442 \u043e\u0442 \u043f\u043e\u043a\u0443\u043f\u043a\u0438 \u0438 \u043f\u0440\u043e\u0434\u0430\u0436\u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u0432\u0441\u0435\u043c\u0438 \u0445\u043e\u043b\u0434\u0435\u0440\u0430\u043c\u0438 \u0442\u043e\u043a\u0435\u043d\u0430, \u0430 10% \u043e\u0442 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 \u0441\u0436\u0438\u0433\u0430\u0435\u0442\u0441\u044f, \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044f \u043e\u0431\u0449\u0443\u044e \u044d\u043c\u0438\u0441\u0441\u0438\u044e.",
+  "image": "https://i.ibb.co/hPs6fh9/1000025363-jpg.jpg",
+  "name": "VELES",
+  "symbol": "VELES"
  },
  {
   "address": "0:df8257eb7f43acdfc70a3c768e2aa41e9c9a65b36b3471ecbc69c4058cf0bf54",
@@ -11826,7 +12233,7 @@
   "image": "https://raw.githubusercontent.com/mR-vnukICH/art/main/logo/logo.png",
   "name": "VNUK",
   "social": [
-   "https://t.me/vnukton"
+   "https://t.me/VNUKonTON"
   ],
   "symbol": "VNUK",
   "websites": [
@@ -11845,6 +12252,22 @@
   "symbol": "VOLT",
   "websites": [
    "https://volt.crowntasks.xyz"
+  ]
+ },
+ {
+  "address": "0:be8772de8ca1085f99a86db77cfbcf45de5a42df2448d3dbf9be69b074ca6d0c",
+  "decimals": 9,
+  "description": "TON-based chip mining applet supports wallet connection, mining machine upgrade, task reward and bonus invitation.",
+  "image": "https://web.vyqminer.top/vyq-coin.png",
+  "name": "Vector Yield Quantum",
+  "social": [
+   "https://x.com/VYQMiner",
+   "https://www.youtube.com/@VYQMiner",
+   "https://t.me/VYQMiner"
+  ],
+  "symbol": "VYQ",
+  "websites": [
+   "https://home.vyqminer.top/"
   ]
  },
  {
@@ -12646,6 +13069,11 @@
   ]
  },
  {
+  "address": "0:30a3395df44cecb0977d238f2fd61c2ce30160ffc0ee86407b61e36aff6de12c",
+  "name": "Xetra-Gold xStock",
+  "symbol": "4GLDx"
+ },
+ {
   "address": "0:14d5f5e4d9d343db5d97e52cc78fa1fd2b1d97d05d8e133b3e0fe74a9463054f",
   "name": "AIB xStock",
   "symbol": "A5Gx"
@@ -12829,6 +13257,11 @@
   "address": "0:6681d535a453dbe254d74cf982ff0fe16b6e60f074a800b10b6a0f71ea4106fb",
   "name": "American Electric Power xStock",
   "symbol": "AEPx"
+ },
+ {
+  "address": "0:88a4d37fc87ab0078ffd833c8ceee2023ac58f709dd627ae2f2611cea45b3f96",
+  "name": "The AES xStock",
+  "symbol": "AESx"
  },
  {
   "address": "0:55939acc689d6562f87901d99cd3f3c931bee217e662e3598addd017fbde54b3",
@@ -13146,6 +13579,11 @@
   "symbol": "AREx"
  },
  {
+  "address": "0:fb9eaf4a17dde3e138c76e29dcc855dbdbaa00750f3eda2e79bdf07062d9b782",
+  "name": "ARK Blockchain & Fintech Innovation ETF xStock",
+  "symbol": "ARKFx"
+ },
+ {
   "address": "0:037d812d1906c1a1b9decd4a3724b2b49e3dad944ea0bde2cf46b5a66a09ffcc",
   "name": "Aramark xStock",
   "symbol": "ARMKx"
@@ -13189,6 +13627,11 @@
   "address": "0:67d90a7735d6fc9c1752c896986e12773da467ba68e55eebd23d3f39725cd206",
   "name": "ASMPT xStock",
   "symbol": "ASMPTx"
+ },
+ {
+  "address": "0:f3fca2b86a59c029fa38a7ae31c7d1a783d6d1068a7a9d40b069396e06bdf70a",
+  "name": "Ascendis Pharma A/S xStock",
+  "symbol": "ASNDx"
  },
  {
   "address": "0:19664ea2f9da7df9d9edcbd1721ed949d247816cf98641b2c6da3efa4fb394c4",
@@ -13531,6 +13974,11 @@
   "symbol": "BIOx"
  },
  {
+  "address": "0:bbb970e6a570dcf95273e471bea6ec918793699996e63746bbe776a3708d78c6",
+  "name": "Birkenstock xStock",
+  "symbol": "BIRKx"
+ },
+ {
   "address": "0:3c0693d9b2add7e723df3c031edf7ecc7d5d968bed20e8bf0a6ba11d548ddefc",
   "name": "Volatility Shares 2x Bitcoin Strategy xStock",
   "symbol": "BITXx"
@@ -13736,6 +14184,11 @@
   "symbol": "BWAx"
  },
  {
+  "address": "0:1d515d5e19d98b616cef72dc6a790218ae6272601e9c0053a979e453773c69ca",
+  "name": "Breakwave Tanker Shipping xStock",
+  "symbol": "BWETx"
+ },
+ {
   "address": "0:8fec0a1bb2d9a74826694ccc2782743940806ddaace7535f72ea3e5a66f2fcfe",
   "name": "BWX Technologies xStock",
   "symbol": "BWXTx"
@@ -13834,6 +14287,11 @@
   "address": "0:2aa6e1a1abe3c621527fbb21864b348fa2dc870435ca08842c094254fd81c506",
   "name": "Cava xStock",
   "symbol": "CAVAx"
+ },
+ {
+  "address": "0:b4558fbcb56072a2e448475e9ab2ceb0a92a54ee7ee1c2e23b53e8951809d503",
+  "name": "Central Bancompany xStock",
+  "symbol": "CBCx"
  },
  {
   "address": "0:7b35aa2e5e88c93dd17e09e05e392424afdf798aac8f22991502791a096eea02",
@@ -14126,6 +14584,11 @@
   "symbol": "CNCx"
  },
  {
+  "address": "0:b44ba9b098b97234f37ccf589ea2df616c31b7f82be44af504172ab5edd8f3b2",
+  "name": "CNH Industrial xStock",
+  "symbol": "CNHx"
+ },
+ {
   "address": "0:8155371ba43c3bb839792e5dee5be1d20097eba65797b8a4636cf9025583a634",
   "name": "Core & Main xStock",
   "symbol": "CNMx"
@@ -14149,6 +14612,11 @@
   "address": "0:af9383aada5e58b6cfd2ed0e23d3c7c1f45b73c77218fbb508d40aacb322860e",
   "name": "Coinbase xStock",
   "symbol": "COINx"
+ },
+ {
+  "address": "0:227f7b42fdf93d25ef2695a6ada855ef25a271c52f474f3ba15decdc3d37edbf",
+  "name": "Coca-Cola Consolidated xStock",
+  "symbol": "COKEx"
  },
  {
   "address": "0:50c073db99e5583b501f465849822aec468f281d33faf262c390c5481f86d9f0",
@@ -14294,6 +14762,11 @@
   "address": "0:a5d4404ce906adcd58f890a3fe26fe8a578b6267cfb640874fe1d40c56bcf87f",
   "name": "CRH xStock",
   "symbol": "CRHx"
+ },
+ {
+  "address": "0:3411ba9beb27fff1e3d88ea664211bcae0df799722d7ef815e14afcd0595a4d4",
+  "name": "Charles River Laboratories International xStock",
+  "symbol": "CRLx"
  },
  {
   "address": "0:67b74bc29d9562d9874592f80ce605dcc4cda4c8fd147f8dbde6228e18265196",
@@ -14456,6 +14929,11 @@
   "symbol": "CWx"
  },
  {
+  "address": "0:6cf952954809e401850cc657f89a09548a16ca8fe1e2109c25632d91fc5562e9",
+  "name": "Cypherpunk Technologies xStock",
+  "symbol": "CYPHx"
+ },
+ {
   "address": "0:2f9f98838abce3fcc4772c71c8e6daeac9bf656a7e8c0522d33decf7a2233067",
   "name": "Caesars Entertainment xStock",
   "symbol": "CZRx"
@@ -14504,6 +14982,11 @@
   "address": "0:4fd18fe694edc280be94c055c7ac7836c3a9b1e1a924a87da2afa0a603717c26",
   "name": "Donaldson xStock",
   "symbol": "DCIx"
+ },
+ {
+  "address": "0:20ef2e811303abf057e5b3826fe4d72cffc61f60d36092c66af0e3ca694d3f22",
+  "name": "DDC Enterprise xStock",
+  "symbol": "DDCx"
  },
  {
   "address": "0:5d0686ec473c888f2c097b933d16744106584b9fb6c4b30d072d7c0c80e1d0eb",
@@ -14646,6 +15129,11 @@
   "symbol": "DOWx"
  },
  {
+  "address": "0:6bb8aff3840f01373755347771c47f62062ecbacedfce26c2337374026a297cd",
+  "name": "Amdocs xStock",
+  "symbol": "DOXx"
+ },
+ {
   "address": "0:100f06e3e010b54587ebda10bb9cb016f0bbe760f1735f7d6870d42c16fa4a47",
   "name": "Diploma xStock",
   "symbol": "DPLMx"
@@ -14754,6 +15242,11 @@
   "address": "0:27ed7915dfcfe0350e9845a71635fbc4c7aa4e5fa96e3ed47f96b6a095adf0e9",
   "name": "Everus Construction xStock",
   "symbol": "ECGx"
+ },
+ {
+  "address": "0:7ae5fdaabc227f57c944ec1a8ba0a4e344a2ec4751dd9bf0950469432086a833",
+  "name": "EchoStar xStock",
+  "symbol": "ECHOx"
  },
  {
   "address": "0:c9c29cd7109ae718edf6db4e354b3679714dae56ab3af1375d04aae675f862e6",
@@ -15236,6 +15729,11 @@
   "symbol": "FLNCx"
  },
  {
+  "address": "0:8b2b6740adf89f940db737fb12e29410a8253d071a6553ca8a768ef20615ee60",
+  "name": "iShares Floating Rate Bond xStock",
+  "symbol": "FLOTx"
+ },
+ {
   "address": "0:b3bfd6c1f82511c9920c5599d0341c36d360380b22f6c43277bbe27a0c924738",
   "name": "Franklin U.S. Mid Cap Multi-Factor xStock",
   "symbol": "FLQMx"
@@ -15294,6 +15792,11 @@
   "address": "0:a179e9754877e65c93ce0e51fb10814d887fb3fbc94d8c26144771261ccbbbc3",
   "name": "Shift4 Payments xStock",
   "symbol": "FOURx"
+ },
+ {
+  "address": "0:c46ee41ad65b8a83884cf83882377e7ea0ec979538705c2e3df0c7f918e13736",
+  "name": "Fox xStock",
+  "symbol": "FOXAx"
  },
  {
   "address": "0:6f46aada6468392d1fd25c5ac3ef47e08b20172df4f1ae5580e97b1025dd711a",
@@ -15621,6 +16124,11 @@
   "symbol": "GTLBx"
  },
  {
+  "address": "0:b2a09fa628cdfa9a7e41a6cb88f8ff2b1adb1843c468f817af916203b863e514",
+  "name": "ZoomInfo Technologies xStock",
+  "symbol": "GTMx"
+ },
+ {
   "address": "0:f6ef14b288d744a526ee62935e078d5a759ef5064bdf2fd328ce22ffc0169f2a",
   "name": "Guidewire Software xStock",
   "symbol": "GWREx"
@@ -15794,6 +16302,11 @@
   "address": "0:f863fe29f59edfeb99daa75344ae98f350381edb45656e773d1093ec187cf90e",
   "name": "Harley-Davidson xStock",
   "symbol": "HOGx"
+ },
+ {
+  "address": "0:da9b743f6eb10f143ac484445720f8595ec95bbf14a413b99b9e6e19fe6d6253",
+  "name": "Honeywell Aerospace xStock",
+  "symbol": "HONAx"
  },
  {
   "address": "0:807606491d414b82d280dc8bc992c675f88571a6b82b760c77a7097675dd1933",
@@ -15984,11 +16497,6 @@
   "address": "0:0784f683c91c97263c060d70419e0b66092987162aa94cba93ddcebba2e0e68e",
   "name": "Core MSCI Emerging Markets xStock",
   "symbol": "IEMGx"
- },
- {
-  "address": "0:f3a995fe31a8811f64947b15d74916dea3ebb45430d0ab24e099470c5c3b41c1",
-  "name": "Icahn Enterprises xStock",
-  "symbol": "IEPx"
  },
  {
   "address": "0:fec2daecf36da39303fd70539b199dbe1860054e1edbade15ef098189b13b538",
@@ -16231,6 +16739,11 @@
   "symbol": "JAZZx"
  },
  {
+  "address": "0:e3bcc3e3b176256e0b31a41916784c21b3749da79cdfad83abd36d0db36b5941",
+  "name": "Janus Henderson B-BBB CLO xStock",
+  "symbol": "JBBBx"
+ },
+ {
   "address": "0:6190430be522be3712b83e39e87f9a7b52e6001ed8b5d35ad8bea48c393f1c7b",
   "name": "JB Hunt Transport Services xStock",
   "symbol": "JBHTx"
@@ -16239,6 +16752,11 @@
   "address": "0:a231c1ad8e0f4ddee4c3bce1e7bb5433044aa1e598033f88744356c62f88ed3d",
   "name": "Jabil xStock",
   "symbol": "JBLx"
+ },
+ {
+  "address": "0:7b96b3bcf3c8009cbe7bd6fd5c08662d0e4f5813c9e78cc48ab3d47f2fd0dd55",
+  "name": "JBS xStock",
+  "symbol": "JBSx"
  },
  {
   "address": "0:6f721c5dfd6031969235088e78c8f17d2663b55495b17cee24a40c6153c7bf6c",
@@ -16269,6 +16787,11 @@
   "address": "0:a9a32a4dd6de783c4df84f686c24a00bb73f420c16c11d387bd5b11dbcb95f4d",
   "name": "Jefferies Financial xStock",
   "symbol": "JEFx"
+ },
+ {
+  "address": "0:f770dfb5bdb105eb05ef126ba99237400a8d2e020d4361b5e0ccc807ececb0d8",
+  "name": "James Hardie Industries xStock",
+  "symbol": "JHXx"
  },
  {
   "address": "0:6c4542b6d1cc19d0dbf83d4415a509b719705e911984ef7aa4763aeda9e9428e",
@@ -16441,6 +16964,11 @@
   "symbol": "KRx"
  },
  {
+  "address": "0:ec12e6e5b0a8d5224cf2a3e42cc4a5144335521ca7fc3e39e34b82ff9a48464f",
+  "name": "KraneShares China Technology & Semiconductor STAR 50 Index xStock",
+  "symbol": "KSTRx"
+ },
+ {
   "address": "0:57c911ede781a2172e031d08d1c49ece2fb2c5c478df58f7a23c424b7aea7688",
   "name": "Kratos Defense & Security Solutions xStock",
   "symbol": "KTOSx"
@@ -16544,6 +17072,11 @@
   "address": "0:7544aeda1ca0f523871eed3b9e400a4b3d30ee6bb42dfd42d5e32bebb461df90",
   "name": "L3Harris Technologies xStock",
   "symbol": "LHXx"
+ },
+ {
+  "address": "0:0f02febd2b2e52776a62b70794efa15d4eb2dd49aa766e1e936958e89640eafe",
+  "name": "Labcorp xStock",
+  "symbol": "LHx"
  },
  {
   "address": "0:2c74e06d4304eff73679a240821e9ae86afa2fcf85f40c53e552a2f4fb78c7f9",
@@ -16851,6 +17384,11 @@
   "symbol": "MIDDx"
  },
  {
+  "address": "0:33f6e27a7e80cbd7f9700e557cf42161ea7ea1d925cfa2fc8be5ce9b68d330e4",
+  "name": "MiniMax xStock",
+  "symbol": "MINIMAXx"
+ },
+ {
   "address": "0:697f74b8155afa2205983d8094668f98cdb5332c9574489450d23b8b3009c70c",
   "name": "Mixue xStock",
   "symbol": "MIXUx"
@@ -16924,6 +17462,11 @@
   "address": "0:9a779109f64e35532df8c687b27f5903ab9b2e1f78655a6a5ecbbf2bbe044dc4",
   "name": "Modine Manufacturing xStock",
   "symbol": "MODx"
+ },
+ {
+  "address": "0:a9ff6db6f1ccef2d2bf25fce7153b816f0edd345e2684b0dd5ff6b3545129fe8",
+  "name": "Molina Healthcare xStock",
+  "symbol": "MOHx"
  },
  {
   "address": "0:7ee422f955d576ed5ced28515d694205f1868a22203d990d7614953bb0024feb",
@@ -17039,6 +17582,11 @@
   "address": "0:5bb0b607e6c0fbe2060ee033a88f442c1da34bf3534b0f5dc07619260f4529fb",
   "name": "MicroStrategy xStock",
   "symbol": "MSTRx"
+ },
+ {
+  "address": "0:c36ceeeae55b61f85f2531e3eb781fdcffce7deb29cee78e126258ae0c282e7e",
+  "name": "T-REX 2X Long MSTR Daily Target xStock",
+  "symbol": "MSTUx"
  },
  {
   "address": "0:b23e511af7e4b85ce4c5d2b08e65457fc69d5fcf6a2db5775d9b7aec480aa6a7",
@@ -17209,6 +17757,11 @@
   "address": "0:0e53d512d1998f85146826f617ccd4926f089c692d363bfb77240334955ef567",
   "name": "National Grid xStock",
   "symbol": "NG.GBx"
+ },
+ {
+  "address": "0:90ae5fe1d3ba8a79ccbfb8a2092d1d6651f1078ac6116e00dd64cc440894d79e",
+  "name": "NielsenIQ xStock",
+  "symbol": "NIQx"
  },
  {
   "address": "0:0d9dcf640b324f48107885b8b04d2fc8f549b6f326b2a6567da573a790e436a0",
@@ -17461,6 +18014,11 @@
   "symbol": "ONDSx"
  },
  {
+  "address": "0:122bb3d1ba45e4cbb4e4e74a6ce6ff28ff8b46aeb31b43f08dd1b3494872ca21",
+  "name": "On xStock",
+  "symbol": "ONONx"
+ },
+ {
   "address": "0:b924497bc5d0a5ff2691049129cd4e107a9a0cbd730661b32c4f499e28048f4f",
   "name": "Onto Innovation xStock",
   "symbol": "ONTOx"
@@ -17544,6 +18102,11 @@
   "address": "0:6cf31649c4e3f1f475130709ca7a0c85b6d3cc50f2bd777f40d1771513fd6f9d",
   "name": "Realty Income xStock",
   "symbol": "Ox"
+ },
+ {
+  "address": "0:b7e64b6fbef1a10c0abb8a793b34bb57c0c061bc321fe7ca7510c4a7f2792eea",
+  "name": "PGIM AAA CLO xStock",
+  "symbol": "PAAAx"
  },
  {
   "address": "0:51ff7083ccd9d2877b5f0e0ed2bbe9a25455e49bc62af77b05d092a7272d0d3a",
@@ -17969,6 +18532,11 @@
   "address": "0:dc45087ca58c495bf92f7c718d3721dc08db646e382d189bd97d459e61e87a7d",
   "name": "uniQure xStock",
   "symbol": "QUREx"
+ },
+ {
+  "address": "0:748550fd433a357edc8b539d870576216eb2ed2072a02e72ddf6da079538f8cf",
+  "name": "QXO xStock",
+  "symbol": "QXOx"
  },
  {
   "address": "0:1c37f1a8ce14117587dc5b79a383bdbe77d08a0dab6d7e66baa18a0e430cba39",
@@ -18406,6 +18974,11 @@
   "symbol": "SEBx"
  },
  {
+  "address": "0:50c19709ce786159f7c02d99b38719689c917168de4508b232d511167d9d4d81",
+  "name": "Securitize xStock",
+  "symbol": "SECZx"
+ },
+ {
   "address": "0:ccc84701752e6abe9c86db7d5814cbc5a3065068bbdd1edf086163783b838635",
   "name": "SEI Investments xStock",
   "symbol": "SEICx"
@@ -18691,6 +19264,11 @@
   "symbol": "SOLSx"
  },
  {
+  "address": "0:405ef466162e4c8f4872ef5dc141ba9cf57238f58a7a5200ec9eaf2227a8ed4e",
+  "name": "Solventum xStock",
+  "symbol": "SOLVx"
+ },
+ {
   "address": "0:fefa53276aaa9ffa7d7321efe61c6af0726c3098f4d6d824bb0afe97fae3ef7f",
   "name": "Sony xStock",
   "symbol": "SONYx"
@@ -18796,6 +19374,11 @@
   "symbol": "SRG.ITx"
  },
  {
+  "address": "0:5d6e7fba7fd72248e85f32db232ac3c06330c0e9dd3547d7b04913f6f59c55d3",
+  "name": "State Street Blackstone Senior Loan xStock",
+  "symbol": "SRLNx"
+ },
+ {
   "address": "0:fc50788b9c0c517ee882a68c2d525b2b48ca1ff6daf87588b9d60b5c3ef7c221",
   "name": "SouthState Bank xStock",
   "symbol": "SSBx"
@@ -18876,6 +19459,11 @@
   "symbol": "STZx"
  },
  {
+  "address": "0:489c6eb314e888ea7d46dd9af443db2e9ff40f63d88a110d913c1ed6dda95c80",
+  "name": "Sensata Technologies xStock",
+  "symbol": "STx"
+ },
+ {
   "address": "0:517156d273320f9069f2488e3737d660393efd4f96253b775071e421a3a56394",
   "name": "Schneider Electric xStock",
   "symbol": "SU.FRx"
@@ -18884,6 +19472,11 @@
   "address": "0:c0f256d22d27465cd9f4198361ca1c7e8685723999a1fd62670a6d83e58466c6",
   "name": "Sun Communities xStock",
   "symbol": "SUIx"
+ },
+ {
+  "address": "0:7cf7edb138402271964e0912a4aa29ad98c58f67d7626867e52b183b5e8a4584",
+  "name": "Sunbelt Rentals xStock",
+  "symbol": "SUNBx"
  },
  {
   "address": "0:994be083e55adb53248ae85912253364d62cc8db3e88e53e1769bb42c8e08c84",
@@ -18899,6 +19492,11 @@
   "address": "0:a8ed4d03c8f2d3e8a03f49aa0e2f064034fe002123e7cb595265069f01cc94c8",
   "name": "Severn Trent xStock",
   "symbol": "SVTx"
+ },
+ {
+  "address": "0:bbd94bf3a5a4a8993ef1330a366f07cdb430a9e682a592606747227dd2e8a252",
+  "name": "Skyworks Solutions xStock",
+  "symbol": "SWKSx"
  },
  {
   "address": "0:d7de716254006f42e5d00d525a49298f3ebc44452eebac3fd34dc34888801c59",
@@ -18986,6 +19584,11 @@
   "symbol": "TEAMx"
  },
  {
+  "address": "0:687d351447b8a00b91834ec122900fbca9dfed082838cda799f6e5f3b2399aaa",
+  "name": "Bio-Techne xStock",
+  "symbol": "TECHx"
+ },
+ {
   "address": "0:d23a37e232ba6615f05bbe6bb95a3718d8b1a9a453d0e09a2ba7a045e5539347",
   "name": "Telefonica xStock",
   "symbol": "TEFx"
@@ -19009,6 +19612,11 @@
   "address": "0:7c59185dfaa283e0a02efa59370a24780d689f7abba592b924a39407e4de9280",
   "name": "Truist Financial xStock",
   "symbol": "TFCx"
+ },
+ {
+  "address": "0:6007fc44243365d302d40fca5363429f0bd01d659d3b1be5abaa2e5ee3b9e8bd",
+  "name": "iShares Treasury Floating Rate Bond xStock",
+  "symbol": "TFLOx"
  },
  {
   "address": "0:517398823fed23a458a40defcd20239ee2b9e751321bd963f48e14db8bfddc2b",
@@ -19041,6 +19649,11 @@
   "symbol": "THOx"
  },
  {
+  "address": "0:220137f36a5f30c0628a91bc95ace0d0f0d778c875616155f11d5716c6813258",
+  "name": "Millicom International Cellular xStock",
+  "symbol": "TIGOx"
+ },
+ {
   "address": "0:af5d5ce3091cb282cf9bd46623e41c3bc25decc5b567a94aeeb615b42f025a6c",
   "name": "TJX Companies xStock",
   "symbol": "TJXx"
@@ -19059,6 +19672,11 @@
   "address": "0:9072b879dda307722c624de05b6b1ac8d1f902c562dada0de58ad187e48ce1f2",
   "name": "Talen Energy xStock",
   "symbol": "TLNx"
+ },
+ {
+  "address": "0:e632809a984d12f75169bd657c697fb4a98ad6362aad01c4a329594f36a6d851",
+  "name": "iShares 20+ Year Treasury Bond xStock",
+  "symbol": "TLTx"
  },
  {
   "address": "0:e7759031487810abd6e233a730d213e4985fce94a21048840ffb9948f0632ace",
@@ -19396,6 +20014,11 @@
   "symbol": "USFDx"
  },
  {
+  "address": "0:9be4393e62efb08a778a55d09b36fe24522d356a54dbb24ce181f2800536d3ae",
+  "name": "WisdomTree Floating Rate Treasury xStock",
+  "symbol": "USFRx"
+ },
+ {
   "address": "0:df7f43bf094c36b59f7012c87c58a921070d11a728e07224008d460953d72418",
   "name": "United States Oil Fund xStock",
   "symbol": "USOx"
@@ -19701,6 +20324,11 @@
   "symbol": "WFCx"
  },
  {
+  "address": "0:1446788b40afa130f569eb8497d4ea6dae8f1cf323a64006849891e975013687",
+  "name": "Weatherford International xStock",
+  "symbol": "WFRDx"
+ },
+ {
   "address": "0:a5e88bcdb7b79102544b42520871234686005bbd6a06cdd986d7c8508c270db6",
   "name": "GeneDx xStock",
   "symbol": "WGSx"
@@ -19994,6 +20622,11 @@
   "address": "0:54ad6472f05f86c99270e1087ffad4c149082bf15c015934f804ebe797ee5b4c",
   "name": "Zijin Gold International xStock",
   "symbol": "ZJGLDx"
+ },
+ {
+  "address": "0:2c97f40ba818b12513bea27e7f259bc8b45a8e26f488e76a55922dfe2069d97d",
+  "name": "Zhongji Innolight xStock",
+  "symbol": "ZJINNOx"
  },
  {
   "address": "0:49994270c8e75c671492fc206c2a39cdb80f90cacaa021a3a699b5f0f6b4029a",
@@ -20621,11 +21254,6 @@
   "symbol": "ALWIN"
  },
  {
-  "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
-  "name": "Andy",
-  "symbol": "ANDY"
- },
- {
   "address": "0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886",
   "name": "ANON",
   "symbol": "ANON"
@@ -21224,11 +21852,6 @@
   "address": "0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b",
   "name": "EggsWisdom",
   "symbol": "EGG"
- },
- {
-  "address": "0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f",
-  "name": "EGOR ZHGUN",
-  "symbol": "EGOR"
  },
  {
   "address": "0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184",
@@ -22676,6 +23299,11 @@
   "symbol": "TELEBTC"
  },
  {
+  "address": "0:2654edbe01d5e180fdcb2bdc04a6a4f3fdff83e383521aca37a8a536ac1681bc",
+  "name": "Telecat",
+  "symbol": "TELECAT"
+ },
+ {
   "address": "0:26f87ef64ba34c68edca10fee31573e7ba9b203b4b3e9a080e296f3d974f7c94",
   "name": "telegram.dog",
   "symbol": "TELEDOG"
@@ -22899,11 +23527,6 @@
   "address": "0:75eaf886eac262deb45aac0ed385e1a3101ce2e69565c0895cdf47ef37799226",
   "name": "TON REX",
   "symbol": "TREX"
- },
- {
-  "address": "0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05",
-  "name": "Tribe",
-  "symbol": "TRIBE"
  },
  {
   "address": "0:deeae17163fd6b5a91b02472ef2cd159d09fd89a6b1500c13d5c886a3748b665",
@@ -26010,6 +26633,21 @@
    "https://x.com/pyonyaOG"
   ],
   "symbol": "\u041f\u0451\u043d\u044f"
+ },
+ {
+  "address": "0:6fa4ab29999e9693a1dcf55669b5f1dd8761cfa161554d08bda19108717977ff",
+  "decimals": 9,
+  "description": "RIFT powers Rifty Mining on TON: mining rewards, station upgrades and module crafting, with a mintable supply and no fixed maximum.",
+  "image": "https://rifty.run.place/assets/rift-token-v1.jpg",
+  "name": "Rifty",
+  "social": [
+   "https://t.me/riftycommunity",
+   "https://t.me/riftycoinbot"
+  ],
+  "symbol": "RIFT",
+  "websites": [
+   "https://rifty.run.place/"
+  ]
  },
  {
   "address": "0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b",

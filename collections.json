@@ -160,6 +160,18 @@
   ]
  },
  {
+  "address": "0:0775136083d039a97a3dc90535f538363761a638358ae87f54f6d22925539a54",
+  "description": "Soulbound seals of the Pickaxe Empire miners. Each Ancient Pass is forged once, for one miner, cannot be sold or transferred, and is the proof that its wallet belongs to the miner who holds it. Its art follows the miner through the ten ancient mines.",
+  "name": "Pickaxe Empire \u00b7 Ancient Pass",
+  "social": [
+   "https://t.me/PickaxeEmpireApp"
+  ],
+  "websites": [
+   "https://pickaxeempire.com",
+   "https://t.me/PickaxeEmpireApp/app"
+  ]
+ },
+ {
   "address": "0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb",
   "name": "Sleeping Giant"
  },

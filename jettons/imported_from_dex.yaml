@@ -70,9 +70,6 @@
 - address: 0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0
   name: ALWIN AirDrop
   symbol: ALWIN
-- address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
-  name: Andy
-  symbol: ANDY
 - address: 0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886
   name: ANON
   symbol: ANON
@@ -433,9 +430,6 @@
 - address: 0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b
   name: EggsWisdom
   symbol: EGG
-- address: 0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f
-  name: EGOR ZHGUN
-  symbol: EGOR
 - address: 0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184
   name: eTON NFT
   symbol: ENFT
@@ -1303,6 +1297,9 @@
 - address: 0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb
   name: TeleBTC
   symbol: TELEBTC
+- address: 0:2654edbe01d5e180fdcb2bdc04a6a4f3fdff83e383521aca37a8a536ac1681bc
+  name: Telecat
+  symbol: TELECAT
 - address: 0:26f87ef64ba34c68edca10fee31573e7ba9b203b4b3e9a080e296f3d974f7c94
   name: telegram.dog
   symbol: TELEDOG
@@ -1439,9 +1436,6 @@
 - address: 0:75eaf886eac262deb45aac0ed385e1a3101ce2e69565c0895cdf47ef37799226
   name: TON REX
   symbol: TREX
-- address: 0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05
-  name: Tribe
-  symbol: TRIBE
 - address: 0:deeae17163fd6b5a91b02472ef2cd159d09fd89a6b1500c13d5c886a3748b665
   name: Part Time Troll
   symbol: TROLL

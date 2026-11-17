@@ -1757,6 +1757,11 @@
   "name": "CoinEx"
  },
  {
+  "address": "0:b55a614fc9127c3bbf6ed47bcd55d35d8cd6cec10c0b343c8549a1b8f40869d7",
+  "image": "https://laveshka.org/icon.svg",
+  "name": "Laveshka"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
@@ -1855,6 +1860,10 @@
  {
   "address": "0:23df7cbfb11a78629bb3f3375219fae161d4e05b5b8b863547b943413719ce03",
   "name": "Orbit Bridge WEMIX Governance"
+ },
+ {
+  "address": "0:5987d0a92d9c8d97023b6a6d0f1e9572f13f33749c408651b79b7c4c8b406855",
+  "name": "Symbiosis Bridge"
  },
  {
   "address": "-1:950057f559dddf5ddfa64210f0e6536c55d219bf6fc7d7285b7735c215f21ef6",
