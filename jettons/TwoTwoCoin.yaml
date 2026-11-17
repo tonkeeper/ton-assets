@@ -5,3 +5,5 @@ decimals: 9
 description: 'TwoTwoCoin (TTC) is a TON Jetton. Current minted supply: 22,000,000 TTC. The administrator currently controls
   additional minting, token metadata, and upgrades to the master contract.'
 image: https://raw.githubusercontent.com/TwoTwoCoin/twotwocoin-assets/main/twotwocoin-logo.png
+websites:
+  - https://twotwocoin.github.io/twotwocoin-assets/
