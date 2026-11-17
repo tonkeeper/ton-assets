@@ -1,0 +1,7 @@
+name: TwoTwoCoin
+symbol: TTC
+address: 0:7ad406951721f281d4c82e69085870eebdaab551d02c43018e033aa6f5c23a6c
+decimals: 9
+description: 'TwoTwoCoin (TTC) is a TON Jetton. Current minted supply: 22,000,000 TTC. The administrator currently controls
+  additional minting, token metadata, and upgrades to the master contract.'
+image: https://raw.githubusercontent.com/TwoTwoCoin/twotwocoin-assets/main/twotwocoin-logo.png
