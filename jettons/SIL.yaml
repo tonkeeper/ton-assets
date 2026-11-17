@@ -1,10 +1,11 @@
 
-name: SIL
+  
+name: SIL Miner Community Token
 symbol: SIL
 address: EQAN6yUsQS48e6hZGji31lZZi2VTue8MDoiu3Xyl-khJSsdk
 decimals: 9
-description: SIL token on TON blockchain
+description: SIL community token on TON blockchain.
 social:
   - "https://t.me/silpcoin"
 image: "https://raw.githubusercontent.com/albarase777-art/ton-assets/f498773abe08ae1a66fabf03644d0473856a47d7/jettons/sil-logo.png"
-  
+
