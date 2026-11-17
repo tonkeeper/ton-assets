@@ -762,6 +762,21 @@
   ]
  },
  {
+  "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
+  "decimals": 9,
+  "description": "Andy is the yellow dog from Boy's Club with the long ears and zero stress. Memes, friends, and a high five that never leaves you hanging. Up top, champ!",
+  "image": "https://andy.tg/andy-logo.png",
+  "name": "Andy",
+  "social": [
+   "https://x.com/AndyonTonchain",
+   "https://t.me/AndyOnTonCommunity"
+  ],
+  "symbol": "ANDY",
+  "websites": [
+   "https://andy.tg"
+  ]
+ },
+ {
   "address": "0:f8e95e1c77c7557d3392dc0665bb389ea8b6849f8fb50419c51ec2f52f42ef6b",
   "decimals": 9,
   "description": "ANF Protocol - Non-Custodial Hold-to-Mine and Reactor Staking Ecosystem on TON Blockchain.",
@@ -5369,6 +5384,19 @@
   "symbol": "GST"
  },
  {
+  "address": "0:399161023899e5b8848a675a784cf5a717c59608786d1117c626d0d35b19361e",
+  "description": "GiftKO Coin is the game token of the GiftKO project on TON. It is used for holder rewards and in-game mechanics in Telegram.",
+  "name": "GiftKO Coin",
+  "social": [
+   "https://t.me/giftkogame",
+   "https://t.me/giftkochat"
+  ],
+  "symbol": "GiftKO",
+  "websites": [
+   "https://giftkocoin.up.railway.app"
+  ]
+ },
+ {
   "address": "0:02f9290a86b2fb374b94c508fed97ca27eb669bb9bab225d4457068b3eb3bfb7",
   "decimals": 9,
   "description": "Gold Nugs is the Dig It rewards token. Play to earn at https://digitgoldgame.com",
@@ -7930,6 +7958,23 @@
   ]
  },
  {
+  "address": "0:ef3be87483a9b948dfc437e8a4b1e15db63b6f113ff2b4a4429b6036eaa5da21",
+  "decimals": 9,
+  "description": "NovaPoints (NOVAP) is the airdrop token of the NOVA Telegram Mini App. Fixed supply of 100,000,000 (minting revoked on-chain at deploy); 60% distributed to users via Merkle claims, 15% liquidity (LP locked 12 months), founder 10% in a 2-of-3 vesting escrow.",
+  "image": "https://nova.codiologism.com/nova-points.png",
+  "name": "NovaPoints",
+  "social": [
+   "https://t.me/NovaPointsAirdropBot",
+   "https://t.me/novapoints",
+   "https://x.com/NovaPointsApp"
+  ],
+  "symbol": "NOVAP",
+  "websites": [
+   "https://nova-points.com",
+   "https://nova-points.com/token"
+  ]
+ },
+ {
   "address": "0:7328860ffd6567612e640dbcfedf36adf7c86d3425d05157e691a1fb7cb75c11",
   "description": "This is not just another meme coin. A unique features of our token is its long-term potential, designed to last for decades.",
   "image": "https://github.com/Makssimus/KPUR/blob/main/NPV.png?raw=true",
@@ -9005,6 +9050,22 @@
   ]
  },
  {
+  "address": "0:cf13ee80b1fe0e18687b869b17e63f8d090ec1313dd68afbfcf3853c9ae8b076",
+  "decimals": 9,
+  "description": "Quantum Yield Voyage is a rocket-themed Telegram Mini App featuring mining, level progression, task rewards, referrals, and mining reward sharing.",
+  "image": "https://web.quantumyieldvoyage.top/qyv-coin.png",
+  "name": "Quantum Yield Voyage",
+  "social": [
+   "https://x.com/QuantumYieldV",
+   "https://www.youtube.com/@QuantumYieldVoyage",
+   "https://t.me/QuantumYieldVoyage"
+  ],
+  "symbol": "QYV",
+  "websites": [
+   "https://home.quantumyieldvoyage.top/"
+  ]
+ },
+ {
   "address": "0:9b67413ca4d6c4cf52fbbf0340388f9964d6d8337ec016cc9b1e4c188ddc910b",
   "description": "Utility token for QuantEx, a universal platform of tools for managing crypto assets and generating income.",
   "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/%D0%BB%D0%BE%D0%B3%D0%BE.jpg",
@@ -9449,6 +9510,23 @@
   ]
  },
  {
+  "address": "0:8e38d22a180b4e13a06937345fde38cfea103bec227f6824e646d4d6c16401e6",
+  "decimals": 9,
+  "description": "Rhiza Coin (#RZC) is the native utility and governance token of the RhizaCore ecosystem, a self-custody wallet on Gram.",
+  "image": "https://rhizacore.xyz/RZC.png",
+  "name": "RhizaCore",
+  "social": [
+   "https://x.com/RhizaCore",
+   "https://t.me/RhizaCoreNews"
+  ],
+  "symbol": "RZC",
+  "websites": [
+   "https://rhizacore.xyz",
+   "https://rhizacore.online",
+   "https://rhizacore.xyz/mint-policy"
+  ]
+ },
+ {
   "address": "0:48feec2dafa6861a1f9aea05d957d4710955fd32583a856c2a5b0174385ebf31",
   "description": "Rockets (your preferred stickers) and more - https://t.me/rocket_on_ton",
   "image": "https://i.ibb.co/q9D7Vb0/Rocket.png",
@@ -9602,6 +9680,22 @@
   "symbol": "SEMZ",
   "websites": [
    "https://www.semz1.com/"
+  ]
+ },
+ {
+  "address": "0:3b314a88da34fbcbdfd289526edc83059ac3267b4ccba231712c44f70b33aa5f",
+  "description": "SEN is the native currency of Zen, a Telegram wallet for payments, games and community on TON.",
+  "image": "https://myzen.today/token/sen.png",
+  "name": "SEN",
+  "social": [
+   "https://t.me/zenwallet",
+   "https://t.me/SendZenBot",
+   "https://t.me/gramzonetrade",
+   "https://t.me/cryptospaceBull"
+  ],
+  "symbol": "SEN",
+  "websites": [
+   "https://myzen.today"
   ]
  },
  {
@@ -11441,6 +11535,13 @@
   ]
  },
  {
+  "address": "0:b87c08e4618a23a89315df9c5aee5dbd0f8c6c5731c6e8d2de5c8a7e276ffd58",
+  "description": "Fixed-supply utility token of the Wizard Trend ecosystem.",
+  "image": "https://wiztrnd.info/token/trnd-logo-v1.png",
+  "name": "Wizard Trend",
+  "symbol": "TRND"
+ },
+ {
   "address": "0:147ff83eb90302a89630cbdc46515c2b3262b6d14b14257553df18c4ebbd7bf5",
   "description": "TROCK is the utility token of the TonRocket ecosystem on TON. Users can mine tokens, collect NFTs, and participate in community activities through the TonRocket Telegram bot.",
   "name": "TonRocket",
@@ -11924,6 +12025,20 @@
   "symbol": "UTYAB",
   "websites": [
    "https://utyabswap.com"
+  ]
+ },
+ {
+  "address": "0:1c8124ed5789551d371861969f872ba50f981bea1873491c1c0d12aa094198c2",
+  "description": "UTYAN - Telegram's little companion. A community token inspired by the experimental 3D duck companion found in Telegram's open-source iOS repository. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/fcd27fd4-02c8-4f2f-956d-10005cd64ef3.webp",
+  "name": "UTYAN",
+  "social": [
+   "https://t.me/UtyanAii",
+   "https://x.com/utyanai"
+  ],
+  "symbol": "UTYAN",
+  "websites": [
+   "https://utyan.best/"
   ]
  },
  {
@@ -16382,11 +16497,6 @@
   "address": "0:0784f683c91c97263c060d70419e0b66092987162aa94cba93ddcebba2e0e68e",
   "name": "Core MSCI Emerging Markets xStock",
   "symbol": "IEMGx"
- },
- {
-  "address": "0:f3a995fe31a8811f64947b15d74916dea3ebb45430d0ab24e099470c5c3b41c1",
-  "name": "Icahn Enterprises xStock",
-  "symbol": "IEPx"
  },
  {
   "address": "0:fec2daecf36da39303fd70539b199dbe1860054e1edbade15ef098189b13b538",
@@ -21142,11 +21252,6 @@
   "address": "0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0",
   "name": "ALWIN AirDrop",
   "symbol": "ALWIN"
- },
- {
-  "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
-  "name": "Andy",
-  "symbol": "ANDY"
  },
  {
   "address": "0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886",
