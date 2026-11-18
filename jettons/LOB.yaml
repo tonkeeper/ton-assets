@@ -1,0 +1,13 @@
+# TON Roles ton-assets verification material
+name: "Lunar Ore Burrow"
+symbol: "LOB"
+address: "EQDRsUi5qrbPpH13TWlWZp7OQ6aEYvrHAcpcGEPDOSPfjvC7"
+decimals: 9
+description: "The lunar gold rush is calling—recruit your mole miners and stake your claim before the crowd arrives."
+image: "https://web.lunaroreburrow.top/coin.png"
+websites:
+  - "https://home.lunaroreburrow.top/"
+social:
+  - "https://x.com/lunaroreburrow"
+  - "https://www.youtube.com/@lunaroreburrowbot"
+  - "https://t.me/TaskRushNews"

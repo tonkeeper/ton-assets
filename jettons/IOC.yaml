@@ -1,0 +1,13 @@
+# TON Roles ton-assets verification material
+name: "Iron Oath Company"
+symbol: "IOC"
+address: "EQBW9UPKZ77_6rbhZGbCR3a-GHsGx_xIAI0enzjXXQ7FDFUC"
+decimals: 9
+description: "Iron Oath Company is a mercenary saga forged in steel and sworn by oath. With IOC, recruit warriors, forge mighty blades, and write your legend, one conquered castle at a time."
+image: "https://web.ironoathcompany.top/ioc-coin.png"
+websites:
+  - "https://home.ironoathcompany.top/"
+social:
+  - "https://x.com/Ironoathcompany"
+  - "https://www.youtube.com/@IronOathCompany"
+  - "https://t.me/Bees_app"
