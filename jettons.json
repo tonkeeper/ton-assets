@@ -21834,6 +21834,11 @@
   "symbol": "DUROFF"
  },
  {
+  "address": "0:8160bf5935799507a2732e9c23ec7f82c3eb3a1d1524aa8c641d72ff9288f221",
+  "name": "Dictator",
+  "symbol": "Dictator"
+ },
+ {
   "address": "0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401",
   "name": "Earnigram",
   "symbol": "EARNI"
