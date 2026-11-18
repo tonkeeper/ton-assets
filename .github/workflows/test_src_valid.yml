@@ -12,6 +12,10 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
       - name: Check that source dirs contain only *.yaml files
         run: |

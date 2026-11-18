@@ -160,6 +160,18 @@
   ]
  },
  {
+  "address": "0:0775136083d039a97a3dc90535f538363761a638358ae87f54f6d22925539a54",
+  "description": "Soulbound seals of the Pickaxe Empire miners. Each Ancient Pass is forged once, for one miner, cannot be sold or transferred, and is the proof that its wallet belongs to the miner who holds it. Its art follows the miner through the ten ancient mines.",
+  "name": "Pickaxe Empire \u00b7 Ancient Pass",
+  "social": [
+   "https://t.me/PickaxeEmpireApp"
+  ],
+  "websites": [
+   "https://pickaxeempire.com",
+   "https://t.me/PickaxeEmpireApp/app"
+  ]
+ },
+ {
   "address": "0:5f4465e4dcf29e1fdb3f86d1227515d8e78351f238077a7fff0be494b9a240fb",
   "name": "Sleeping Giant"
  },
@@ -203,6 +215,20 @@
  {
   "address": "0:fffaf59e328fe618b6f7fa0c121c25777eea3da19b4a2459580a5c30d917c4f0",
   "name": "StickerBox TON's Witnesses"
+ },
+ {
+  "address": "0:949eb7fedf26700c469a9ee5c3b7316da8d5aa29d435b1a0140fbae4c82b6234",
+  "description": "Victor Unleashed is the limited edition NFT collection of Victor's Company, the Telegram mining game on TON: 1,111 unique miners, each a one-of-a-kind mix of background, pattern, frame and miner, so no two are alike. Minted in the Victor's Company Telegram app.",
+  "name": "Victor Unleashed",
+  "social": [
+   "https://x.com/VictorsCompany",
+   "https://t.me/Victors_Company",
+   "https://t.me/VictorsCompanyChat",
+   "https://t.me/VictorsCompanyBot/app"
+  ],
+  "websites": [
+   "https://victors.company"
+  ]
  },
  {
   "address": "0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c",

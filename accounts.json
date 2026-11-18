@@ -208,6 +208,14 @@
   "name": "Stakee"
  },
  {
+  "address": "0:3d1f01190ffb4e35f573ea5252d0f54a479be2122106ca3f40b907b01905675c",
+  "name": "KTON"
+ },
+ {
+  "address": "0:ec5b63fa9ee3f5ce8a4aa0d882623db186a0da9f4701b942d0f0c1f8a3b741b7",
+  "name": "pKTON"
+ },
+ {
   "address": "0:a3935861f79daf59a13d6d182e1640210c02f98e3df18fda74b8f5ab141abf18",
   "name": "Getgems Marketplace"
  },
@@ -300,7 +308,7 @@
   "name": "Portals Marketplace"
  },
  {
-  "address": "0:310569f85cd583d93c98c59de87d28c6965f5412eb43a4d4e80313226f8bd4c7",
+  "address": "0:b11bd57b048536a04b8029d45ec3fc74376dc43d1af8156aedceb11ffb7d0a1a",
   "name": "Thermos"
  },
  {
@@ -460,6 +468,10 @@
   "name": "Omniston DEX Bridge"
  },
  {
+  "address": "0:a5b03f281aefe1eea0943b3b2fccf4956aff5f9a56d2db1e681a787068f508a0",
+  "name": "Split Proxy"
+ },
+ {
   "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
   "name": "Tether USD"
  },
@@ -512,11 +524,6 @@
   "address": "0:a355d7c7de45bb6845a5dd525798cca23cd518ca601b9c6a932493ae82292b79",
   "image": "https://t.me/i/userpic/320/onetimeusername.jpg",
   "name": "Pavel Durov"
- },
- {
-  "address": "0:ed53bc999e5a4af69a3f9c3de5376f7d90c487e1528f331e716dbe85903d5112",
-  "image": "https://cdn.joincommunity.xyz/clicker/moneta.png",
-  "name": "Notcoin"
  },
  {
   "address": "0:28270ec1a4e7010f7cbdbe832e110faa852dcae20b4cfba11e3cbc64ce4f224a",
@@ -1750,6 +1757,11 @@
   "name": "CoinEx"
  },
  {
+  "address": "0:b55a614fc9127c3bbf6ed47bcd55d35d8cd6cec10c0b343c8549a1b8f40869d7",
+  "image": "https://laveshka.org/icon.svg",
+  "name": "Laveshka"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
@@ -1848,6 +1860,10 @@
  {
   "address": "0:23df7cbfb11a78629bb3f3375219fae161d4e05b5b8b863547b943413719ce03",
   "name": "Orbit Bridge WEMIX Governance"
+ },
+ {
+  "address": "0:5987d0a92d9c8d97023b6a6d0f1e9572f13f33749c408651b79b7c4c8b406855",
+  "name": "Symbiosis Bridge"
  },
  {
   "address": "-1:950057f559dddf5ddfa64210f0e6536c55d219bf6fc7d7285b7735c215f21ef6",

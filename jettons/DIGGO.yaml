@@ -1,0 +1,11 @@
+name: Diggo
+symbol: DIGGO
+address: EQD3jHVnwB6upXRphFb-PrWlmiFe6ofGs5pUCDSd-dEVGHNX
+decimals: 9
+description: DIGGO is the token of the DIGGO Telegram mining game on TON.
+image: https://diggo.linkpc.net/assets/diggo-token-logo.webp
+websites:
+  - https://diggocoin.com
+social:
+  - https://t.me/diggo_community
+  - https://x.com/diggotoken

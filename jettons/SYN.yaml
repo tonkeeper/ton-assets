@@ -1,0 +1,11 @@
+name: Syndicate Miner Token
+description: "SYN is the token of Syndicate Miner, a mining game in Telegram on TON. Every SYN is backed by Gram held in an on-chain treasury: the floor price equals the reserve divided by the supply, and the contract never lets it fall. At most 1,000,000 SYN can circulate, issued on a schedule that halves every six months."
+image: "https://syndicate-backend-production-c797.up.railway.app/syn/logo.jpg"
+address: EQCuhzpAufPFqvIVitZg8p_Np48RUPG2GWMkv5JlcixvwTo5
+symbol: SYN
+websites:
+  - "https://t.me/Syndicate_miner_bot/app"
+  - "https://syndicateminer.com"
+social:
+  - "https://t.me/syndicateminer"
+  - "https://t.me/Syndicatesguad"

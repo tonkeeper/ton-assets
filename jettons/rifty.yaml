@@ -1,0 +1,11 @@
+name: Rifty
+symbol: RIFT
+address: EQBvpKspmZ6Wk6Hc9VZptfHdh2HPoWFVTQi9oZEIcXl3_5kr
+decimals: 9
+description: "RIFT powers Rifty Mining on TON: mining rewards, station upgrades and module crafting, with a mintable supply and no fixed maximum."
+image: "https://rifty.run.place/assets/rift-token-v1.jpg"
+websites:
+  - "https://rifty.run.place/"
+social:
+  - "https://t.me/riftycommunity"
+  - "https://t.me/riftycoinbot"

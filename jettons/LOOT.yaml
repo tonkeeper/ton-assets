@@ -1,0 +1,13 @@
+name: "LOOT"
+symbol: "LOOT"
+decimals: 9
+address: "EQCM4DEzDVFLq7kaSodQX-8-u_aF9M9DDe1EePWsuMozqGkt"
+description: "Mine, Hold, Earn - the more you LOOT, the faster you loot. The native token of the LootVault DEX platform."
+image: "https://lootvault.lol/token/loot/logo.jpg"
+websites:
+  - "https://lootvault.lol"
+social:
+  - "https://t.me/lootvault_channel"
+  - "https://t.me/LootVault_Community"
+  - "https://t.me/LootVaultDexBot"
+  - "https://dexscreener.com/ton/eqaj_sedwxcvkh7zobjzbyo4quydzacazjrgsmtnymumxr1h"

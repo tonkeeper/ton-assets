@@ -1,0 +1,12 @@
+name: SEN
+description: "SEN is the native currency of Zen, a Telegram wallet for payments, games and community on TON."
+image: "https://myzen.today/token/sen.png"
+address: EQA7MUqI2jT7y9_SiVJu3IMFmsMme0zLojFxLET3CzOqXzaA
+symbol: SEN
+websites:
+  - "https://myzen.today"
+social:
+  - "https://t.me/zenwallet"
+  - "https://t.me/SendZenBot"
+  - "https://t.me/gramzonetrade"
+  - "https://t.me/cryptospaceBull"
