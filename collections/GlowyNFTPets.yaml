@@ -1,1 +1,12 @@
-
+name: "Glowy NFT Pets"
+description: "Numbered pets from Glowy, a Telegram game about a pet and small daily goals. Each NFT pet is bought in the game for Telegram Stars at a fixed price or won as a prize in the game's league and Arena, numbered in order, with a closed run and no randomness. It is minted only when its owner withdraws it from the game to their own TON wallet, and it can come back to the game."
+image: "https://app.glowygam.com/nft/collection.png"
+address: EQDTI7J5ACsa4B63PjCvaeVzJ7gHP_pumCdKnSKTNjQ44GZO
+websites:
+  - "https://glowygam.com"
+  - "https://t.me/glowy_pet_bot"
+social:
+  - "https://t.me/glowySNG"
+  - "https://t.me/glowyEU"
+  - "https://www.youtube.com/@glowy_game"
+  - "https://www.instagram.com/glowy_game"
