@@ -418,6 +418,9 @@
 - address: 0:0e931d4c7648833210c6c33f1366e304df084642ab15a5946b4d216aa48c051c
   name: 'Paul Duroff '
   symbol: DUROFF
+- address: 0:8160bf5935799507a2732e9c23ec7f82c3eb3a1d1524aa8c641d72ff9288f221
+  name: Dictator
+  symbol: Dictator
 - address: 0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401
   name: Earnigram
   symbol: EARNI
@@ -514,6 +517,9 @@
 - address: 0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba
   name: "\u26FD\uFE0FGasGod"
   symbol: GG
+- address: 0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101
+  name: Gift Gram
+  symbol: GGRAM
 - address: 0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2
   name: Grabscape governance token
   symbol: GGT

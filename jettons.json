@@ -5050,6 +5050,21 @@
   ]
  },
  {
+  "address": "0:6ef6a280a271c37b16b90542ceddf7669fbbd6bc4c52a51e0b78dc9f401d9d62",
+  "description": "The token of Gamarium, the Telegram game studio. Hold $GMRM to mine more $GMRM in GMRM Miner. Fixed supply of 10,000,000,000.",
+  "image": "https://app.gamarium.io/assets/brand/gmrm_token_512.png",
+  "name": "Gamarium",
+  "social": [
+   "https://t.me/gamariumhub",
+   "https://t.me/gamariumchat",
+   "https://x.com/gamariumgames"
+  ],
+  "symbol": "GMRM",
+  "websites": [
+   "https://gamarium.io"
+  ]
+ },
+ {
   "address": "0:3af4c86ef763810ad02c7b44896efdffdd5a62555d74779bcb530ff7060f0cca",
   "decimals": 9,
   "description": "GN after GM | Deployed from topblast.lol",
@@ -12165,6 +12180,24 @@
    "https://youtube.com/@victorscompany"
   ],
   "symbol": "VIC",
+  "websites": [
+   "https://victors.company"
+  ]
+ },
+ {
+  "address": "0:e3a65933a97b5e4e0ad162ded7b6f5f1a13f9cb0bc612ad09bb066660c0b660f",
+  "decimals": 9,
+  "description": "VICX is the native token of Victor's Company, a Proof-of-Holding mining game on TON inside Telegram. It replaces the original VIC token. Hold VICX to level up, mine every 24 hours, play the Arcade and earn VICX, with payouts landing on-chain.",
+  "image": "https://victors.company/assets/vicx.webp",
+  "name": "Victor's Company",
+  "social": [
+   "https://t.me/victors_company",
+   "https://t.me/VictorsCompanyChat",
+   "https://x.com/VictorsCompany",
+   "https://youtube.com/@victorscompany",
+   "https://t.me/Victors_Company_bot/app"
+  ],
+  "symbol": "VICX",
   "websites": [
    "https://victors.company"
   ]
@@ -21834,6 +21867,11 @@
   "symbol": "DUROFF"
  },
  {
+  "address": "0:8160bf5935799507a2732e9c23ec7f82c3eb3a1d1524aa8c641d72ff9288f221",
+  "name": "Dictator",
+  "symbol": "Dictator"
+ },
+ {
   "address": "0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401",
   "name": "Earnigram",
   "symbol": "EARNI"
@@ -21992,6 +22030,11 @@
   "address": "0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba",
   "name": "\u26fd\ufe0fGasGod",
   "symbol": "GG"
+ },
+ {
+  "address": "0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101",
+  "name": "Gift Gram",
+  "symbol": "GGRAM"
  },
  {
   "address": "0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2",
