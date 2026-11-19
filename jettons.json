@@ -13542,6 +13542,11 @@
   "symbol": "ANTOx"
  },
  {
+  "address": "0:5f6223160940ef15dcdf56dfb441cb1430e5134254ba1dd34a878dbd8ecab802",
+  "name": "Anthropic xStock",
+  "symbol": "ANTx"
+ },
+ {
   "address": "0:01a2ebc4e5eb3a95ab117505edff39db5ba8fcf49c953af3f08f0c736f6abb6f",
   "name": "AutoNation xStock",
   "symbol": "ANx"
@@ -22280,6 +22285,11 @@
   "address": "0:264f6d90d9a3f22de4cf9a4cdb082d280e83ac2f14e349b4765ef5a5b5be3d16",
   "name": "Steamy Julia",
   "symbol": "JULIA"
+ },
+ {
+  "address": "-1:bf7e01ea11ccc2b302e99c112822f832aee254be7fd00ede5046379c63cc3796",
+  "name": "Jury Token",
+  "symbol": "JURY"
  },
  {
   "address": "0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc",
