@@ -1,13 +1,15 @@
 name: Ecualitex
 symbol: ECX
 decimals: 9
-description: "Juego de simulación económica en Telegram con minería y staking. Moneda virtual de utilidad, no es una inversión financiera."
+description: "Ecualitex Lite is an economic simulation game on the TON network. Mine ECX, buy companies, stake in the bank, and grow your virtual empire. Utility token, not a financial investment."
 image: "https://i.postimg.cc/Z5ygFFbS/Noxoro-20261029-081717-091.jpg"
 address: "EQCV_0WzkcC-s2q95X1XtyMgnrHvhZ9Se6YO2JstWGxYH28x"
-website: "https://t.me/ecualitex_lite"
+website: "https://ecualitex.win"
 social:
   - "https://t.me/ecualitex_lite"
-
+  - "https://x.com/ecualitex"
+  - "https://www.instagram.com/ecualitex_lite"
+  - "https://youtube.com/@ecualitexlite"
 
 
 
