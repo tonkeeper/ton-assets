@@ -5050,6 +5050,21 @@
   ]
  },
  {
+  "address": "0:6ef6a280a271c37b16b90542ceddf7669fbbd6bc4c52a51e0b78dc9f401d9d62",
+  "description": "The token of Gamarium, the Telegram game studio. Hold $GMRM to mine more $GMRM in GMRM Miner. Fixed supply of 10,000,000,000.",
+  "image": "https://app.gamarium.io/assets/brand/gmrm_token_512.png",
+  "name": "Gamarium",
+  "social": [
+   "https://t.me/gamariumhub",
+   "https://t.me/gamariumchat",
+   "https://x.com/gamariumgames"
+  ],
+  "symbol": "GMRM",
+  "websites": [
+   "https://gamarium.io"
+  ]
+ },
+ {
   "address": "0:3af4c86ef763810ad02c7b44896efdffdd5a62555d74779bcb530ff7060f0cca",
   "decimals": 9,
   "description": "GN after GM | Deployed from topblast.lol",
