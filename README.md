@@ -305,6 +305,8 @@ Name           | Address
 [Totemancer: Totems](https://tonviewer.com/0:5f4e1ae581d20d04f773562ff22e30a2a1866a73c5ce05881e3e096094b982c2) | EQBfThrlgdINBPdzVi_yLjCioYZqc8XOBYgePglglLmCwmrc
 [Unstoppable Tribe from ZarGates](https://tonviewer.com/0:463685d77d0474ec774386d92622ed688d34f07230741211d838c487dcfeec64) | EQBGNoXXfQR07HdDhtkmIu1ojTTwcjB0EhHYOMSH3P7sZGJR
 [Victor Unleashed](https://tonviewer.com/0:949eb7fedf26700c469a9ee5c3b7316da8d5aa29d435b1a0140fbae4c82b6234) | EQCUnrf-3yZwDEaanuXDtzFtqNWqKdQ1saAUD7rkyCtiNKFY
+[Victor's Company · Loss Voucher](https://tonviewer.com/0:5e8b15f899bb610e30a3783d4e599050d807d0c046ee787f70bb5b62c2d2ed67) | EQBeixX4mbthDjCjeD1OWZBQ2AfQwEbueH9wu1tiwtLtZ_kL
+[Victor's Company · Mine Pass](https://tonviewer.com/0:998843f9463c665e5473703a7348e34624818895ed3ac50454b9037794320287) | EQCZiEP5RjxmXlRzcDpzSONGJIGIle06xQRUuQN3lDICh5Yx
 [ZarGates GiftBoxes](https://tonviewer.com/0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c) | EQD1YVbwG5dNV9lZgz18F4cjBm5iqYXyeUqdGe21JXjsLCIo
 [ZarGates Scratch Cards](https://tonviewer.com/0:58b22ef862a9e6412d427026d443e918728069d84a482f8621fc1e7dd304d6f5) | EQBYsi74YqnmQS1CcCbUQ-kYcoBp2EpIL4Yh_B590wTW9SXi
 [Zargates StickerBoxes](https://tonviewer.com/0:733d5b87a1247f425045b72262c837c974acbe769dac3816d8d2cd01052cda32) | EQBzPVuHoSR_QlBFtyJiyDfJdKy-dp2sOBbY0s0BBSzaMps7
