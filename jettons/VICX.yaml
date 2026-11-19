@@ -1,0 +1,14 @@
+name: "Victor's Company"
+description: "VICX is the native token of Victor's Company, a Proof-of-Holding mining game on TON inside Telegram. It replaces the original VIC token. Hold VICX to level up, mine every 24 hours, play the Arcade and earn VICX, with payouts landing on-chain."
+image: "https://victors.company/assets/vicx.webp"
+address: EQDjplkzqXteTgrRYt7XtvXxoT-csLxhKtCbsGZmDAtmD4Ya
+symbol: VICX
+decimals: 9
+websites:
+  - "https://victors.company"
+social:
+  - "https://t.me/victors_company"
+  - "https://t.me/VictorsCompanyChat"
+  - "https://x.com/VictorsCompany"
+  - "https://youtube.com/@victorscompany"
+  - "https://t.me/Victors_Company_bot/app"

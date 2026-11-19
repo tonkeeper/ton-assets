@@ -1,0 +1,12 @@
+name: "Victor's Company · Loss Voucher"
+description: "Soulbound compensation vouchers of Victor's Company for wallets that lost their own money in the VIC crash of 29 October 2026. Each listed wallet claims one voucher; its amount ($1 lost = 1,000 VIC) is fixed by the collection contract and stored in the voucher itself. Vouchers cannot be transferred."
+image: "https://victors.company/assets/voucher/loss-collection.png"
+address: "EQBeixX4mbthDjCjeD1OWZBQ2AfQwEbueH9wu1tiwtLtZ_kL"
+websites:
+  - "https://victors.company"
+social:
+  - "https://t.me/victors_company"
+  - "https://t.me/VictorsCompanyChat"
+  - "https://x.com/VictorsCompany"
+  - "https://youtube.com/@victorscompany"
+  - "https://t.me/Victors_Company_bot/app"

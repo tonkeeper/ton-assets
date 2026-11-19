@@ -3268,7 +3268,7 @@
   "address": "0:2658456be820ea946999e854da53ec67f2eaf1913c2b28072fc54b7e19baf9c8",
   "decimals": 9,
   "description": "DRAM is a community-owned token on TON. Mine it for free in the DRAM Miner app.",
-  "image": "https://dram.faithton.online/dram-logo.png",
+  "image": "https://dram.faithton.online/dram-logo-v2.png",
   "name": "DRAM",
   "social": [
    "https://t.me/dram0fficial",
@@ -5047,6 +5047,21 @@
   "symbol": "GMC",
   "websites": [
    "https://greatmindsclassic.vip/"
+  ]
+ },
+ {
+  "address": "0:6ef6a280a271c37b16b90542ceddf7669fbbd6bc4c52a51e0b78dc9f401d9d62",
+  "description": "The token of Gamarium, the Telegram game studio. Hold $GMRM to mine more $GMRM in GMRM Miner. Fixed supply of 10,000,000,000.",
+  "image": "https://app.gamarium.io/assets/brand/gmrm_token_512.png",
+  "name": "Gamarium",
+  "social": [
+   "https://t.me/gamariumhub",
+   "https://t.me/gamariumchat",
+   "https://x.com/gamariumgames"
+  ],
+  "symbol": "GMRM",
+  "websites": [
+   "https://gamarium.io"
   ]
  },
  {
@@ -12170,6 +12185,24 @@
   ]
  },
  {
+  "address": "0:e3a65933a97b5e4e0ad162ded7b6f5f1a13f9cb0bc612ad09bb066660c0b660f",
+  "decimals": 9,
+  "description": "VICX is the native token of Victor's Company, a Proof-of-Holding mining game on TON inside Telegram. It replaces the original VIC token. Hold VICX to level up, mine every 24 hours, play the Arcade and earn VICX, with payouts landing on-chain.",
+  "image": "https://victors.company/assets/vicx.webp",
+  "name": "Victor's Company",
+  "social": [
+   "https://t.me/victors_company",
+   "https://t.me/VictorsCompanyChat",
+   "https://x.com/VictorsCompany",
+   "https://youtube.com/@victorscompany",
+   "https://t.me/Victors_Company_bot/app"
+  ],
+  "symbol": "VICX",
+  "websites": [
+   "https://victors.company"
+  ]
+ },
+ {
   "address": "0:491153a8b7e25ccfa6e3e3985454d447847643b6e17bb6ce592488235bfb6506",
   "description": "Vilarsofree \u044d\u0442\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432 \u0432 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c. \u0425\u0440\u0430\u043d\u0438, \u043f\u043e\u043a\u0443\u043f\u0430\u0439/\u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0439 \u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0439 \u044d\u0442\u043e\u0442 \u0442\u043e\u043a\u0435\u043d \u0442\u0435\u043c, \u043a\u0442\u043e \u0434\u043e\u0441\u0442\u043e\u0438\u043d \u0431\u044b\u0442\u044c \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u043c, \u043a\u0440\u0438\u043f\u0442\u043e \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u043e\u043c, \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u044b\u043c \u0438\u043d\u0432\u0435\u0441\u0442\u043e\u0440\u043e\u043c, \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u043c \u043f\u0430\u0440\u0442\u043d\u0451\u0440\u043e\u043c \u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u043f\u043e \u0436\u0438\u0437\u043d\u0438. Vilarso",
   "image": "https://storage.dyor.io/jettons/EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d/image.jpeg",
@@ -13507,6 +13540,11 @@
   "address": "0:a7027bdb39d0161db63fd30aca9e4715f3275e105b0d0e18a218e171d865ee51",
   "name": "Antofagasta xStock",
   "symbol": "ANTOx"
+ },
+ {
+  "address": "0:5f6223160940ef15dcdf56dfb441cb1430e5134254ba1dd34a878dbd8ecab802",
+  "name": "Anthropic xStock",
+  "symbol": "ANTx"
  },
  {
   "address": "0:01a2ebc4e5eb3a95ab117505edff39db5ba8fcf49c953af3f08f0c736f6abb6f",
@@ -22247,6 +22285,11 @@
   "address": "0:264f6d90d9a3f22de4cf9a4cdb082d280e83ac2f14e349b4765ef5a5b5be3d16",
   "name": "Steamy Julia",
   "symbol": "JULIA"
+ },
+ {
+  "address": "-1:bf7e01ea11ccc2b302e99c112822f832aee254be7fd00ede5046379c63cc3796",
+  "name": "Jury Token",
+  "symbol": "JURY"
  },
  {
   "address": "0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc",

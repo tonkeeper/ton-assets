@@ -262,6 +262,9 @@
 - address: 0:a7027bdb39d0161db63fd30aca9e4715f3275e105b0d0e18a218e171d865ee51
   name: Antofagasta xStock
   symbol: ANTOx
+- address: 0:5f6223160940ef15dcdf56dfb441cb1430e5134254ba1dd34a878dbd8ecab802
+  name: Anthropic xStock
+  symbol: ANTx
 - address: 0:01a2ebc4e5eb3a95ab117505edff39db5ba8fcf49c953af3f08f0c736f6abb6f
   name: AutoNation xStock
   symbol: ANx
