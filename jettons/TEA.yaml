@@ -1,7 +1,8 @@
 name: "Teacoin"
 symbol: "TEA"
 address: "EQAWqtaKcsCNk9ypnNZvI2j47nxIZZ84v3oGM7ak_qAltSgv"
-description: "TEACOIN (TEA) is a digital token on the TON blockchain, developed as part of the DAVIDTEA ecosystem."
+description: "TEACOIN (TEA) is a TON Jetton issued for the DAVIDTEA ecosystem. Planned uses include customer loyalty rewards, payments at partner stores, cargo shipping from China, airport transfers, and tours in Hainan. These integrations are not yet live."
 image: "https://davidtea.ru/image/catalog/teacoin_tea.png"
 websites:
   - "https://davidtea.ru"
+  - "https://davidtea.ru/teacoin.html"
