@@ -3035,6 +3035,21 @@
   "symbol": "Dictator"
  },
  {
+  "address": "0:b26a2f3e487cac50d559f7537fe991422e6adc5978358ebf0214d7f4548d0a7a",
+  "description": "Dictator AI ($DAI) - token of the Dictator AI trading ecosystem on TON: six AI agents trading the TON market and the $DAI Miner in a Telegram Mini App. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/b1543458-c59c-4871-840b-5ef29467ba5f.png",
+  "name": "Dictator AI",
+  "social": [
+   "https://t.me/dictatoraitrading",
+   "https://t.me/dictatorchats",
+   "https://x.com/DictatorssAI"
+  ],
+  "symbol": "DAI",
+  "websites": [
+   "https://dictatorai.online"
+  ]
+ },
+ {
   "address": "0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4",
   "description": "Owled Didi is an animated Telegram sticker pack featuring a cute purple owl. It is also shown on the Telegram home page.",
   "image": "https://fuchsia-patient-ocelot-485.mypinata.cloud/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
