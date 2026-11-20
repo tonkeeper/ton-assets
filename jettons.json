@@ -2966,6 +2966,22 @@
   ]
  },
  {
+  "address": "0:0f26961d1d2fa83b48cb1e0931588625a3e2d1740ddd2de6a8835585b1576f66",
+  "decimals": 9,
+  "description": "Official coin of Dragon Gold Miner, a mining game on Telegram.",
+  "image": "https://dragonpixoficial.com.br/img/drago.png",
+  "name": "Dragon Gold Miner",
+  "social": [
+   "https://t.me/golddwartes",
+   "https://t.me/toppgamesworld"
+  ],
+  "symbol": "DGM",
+  "websites": [
+   "https://dragonpixoficial.com.br",
+   "https://t.me/GoldDwarves_bot"
+  ]
+ },
+ {
   "address": "0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e",
   "description": "Low fee dick-to-dick electronic cash alternative to Toncoin",
   "image": "https://raw.githubusercontent.com/DHDcoin/website/main/LOGO.png",
