@@ -3777,6 +3777,19 @@
   ]
  },
  {
+  "address": "0:7fd60587f416624e81640329f34bed3b1d445471580f71050463ffbb40cd1719",
+  "decimals": 9,
+  "description": "EQB is a hold-to-earn mining token for Telegram Mini App. Connect your TON wallet, hold EQB on balance, and earn new tokens automatically as mining yield. The more you hold, the higher your mining rate.",
+  "image": "https://storage.dyor.io/jettons/EQB_1gWH9BZiToFkAynzS-07HURUcVgPcQUEY_-7QM0XGaIZ/image.png",
+  "name": "Earn Qualify Build",
+  "social": [
+   "https://t.me/Earn_Qualify_Build_Channel",
+   "https://t.me/Earn_Qualify_Build_Community",
+   "https://t.me/Earn_Qualify_Build_Bot"
+  ],
+  "symbol": "EQB"
+ },
+ {
   "address": "0:b8c8d5e28e1d8426a0e93ee9ec8e335e2c6ed540575b547eb84085f96a8c325f",
   "decimals": 9,
   "description": "SPERM (Safe Per Moon) - meme token of the MoonRaid ecosystem. Stake, play, and rise to the Moon on the TON blockchain.",
