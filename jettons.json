@@ -4982,6 +4982,20 @@
   ]
  },
  {
+  "address": "0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101",
+  "description": "Meme coin on Uranus. Every hour the creator fee from trading is shared out as GRAM gifts to GGRAM holders, by a public script with public wallets.",
+  "image": "https://gift.faithton.online/logo-512.png",
+  "name": "Gift Gram",
+  "social": [
+   "https://x.com/romanaix80",
+   "https://t.me/+CjuULTqr7W80YTdi"
+  ],
+  "symbol": "GGRAM",
+  "websites": [
+   "https://gift.faithton.online"
+  ]
+ },
+ {
   "address": "0:387b04f019fbbba55402f998c8deca05c05e97ad724e36363a3261b32fca5608",
   "description": "$GH is the first jetton on TON, created by gamers for gamers. Built by https://gamehunters.pro",
   "name": "Game Hunters",
@@ -22086,11 +22100,6 @@
   "address": "0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba",
   "name": "\u26fd\ufe0fGasGod",
   "symbol": "GG"
- },
- {
-  "address": "0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101",
-  "name": "Gift Gram",
-  "symbol": "GGRAM"
  },
  {
   "address": "0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2",
