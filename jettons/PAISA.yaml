@@ -1,0 +1,13 @@
+name: Paisa
+symbol: PAISA
+address: EQAu7zBy4Th0fZ5qe8jRZhFn0bh_XV1CFEdUQqEhUfwKy9LY
+decimals: 9
+description: Paisa (PAISA) is the native utility token of the Kabuli Paisa ecosystem on the TON blockchain.
+image: "https://storage.dyor.io/jettons/images/1794774513/99761118.png"
+social:
+  - "https://t.me/kabulipaisa"
+  - "https://t.me/Kabuli_Paisa"
+  - "https://x.com/KabuliPaisa"
+  - "https://t.me/kabulipaisa_bot/KabuliPaisa"
+websites:
+  - "https://ap.kabulipaisa.com"
