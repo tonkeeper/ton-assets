@@ -1,0 +1,9 @@
+name: MIXTON
+symbol: MIXTON
+address: 0:faa3690b3c67ef84e7406881e8c50a4b9b9a34ae11678e547d943fa691f61438
+description: MIXTON is a digital token of the MIXT ecosystem on the TON blockchain.
+decimals: 9
+image: https://mixt.ing/token/MIXTON/MIXTON.png
+websites:
+  - https://mixt.ing
+  - https://tonroad.mixt.ing
