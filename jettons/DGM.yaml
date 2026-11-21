@@ -1,0 +1,12 @@
+symbol: DGM
+address: EQAPJpYdHS-oO0jLHgkxWIYlo-LRdA3dLeaog1WFsVdvZjgG
+name: "Dragon Gold Miner"
+decimals: 9
+description: "Official coin of Dragon Gold Miner, a mining game on Telegram."
+image: "https://dragonpixoficial.com.br/img/drago.png"
+websites:
+  - "https://dragonpixoficial.com.br"
+  - "https://t.me/GoldDwarves_bot"
+social:
+  - "https://t.me/golddwartes"
+  - "https://t.me/toppgamesworld"

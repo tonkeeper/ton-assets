@@ -2966,6 +2966,22 @@
   ]
  },
  {
+  "address": "0:0f26961d1d2fa83b48cb1e0931588625a3e2d1740ddd2de6a8835585b1576f66",
+  "decimals": 9,
+  "description": "Official coin of Dragon Gold Miner, a mining game on Telegram.",
+  "image": "https://dragonpixoficial.com.br/img/drago.png",
+  "name": "Dragon Gold Miner",
+  "social": [
+   "https://t.me/golddwartes",
+   "https://t.me/toppgamesworld"
+  ],
+  "symbol": "DGM",
+  "websites": [
+   "https://dragonpixoficial.com.br",
+   "https://t.me/GoldDwarves_bot"
+  ]
+ },
+ {
   "address": "0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e",
   "description": "Low fee dick-to-dick electronic cash alternative to Toncoin",
   "image": "https://raw.githubusercontent.com/DHDcoin/website/main/LOGO.png",
@@ -3005,6 +3021,32 @@
   "symbol": "DIAMOND",
   "websites": [
    "https://diamondhandston.com/"
+  ]
+ },
+ {
+  "address": "0:8160bf5935799507a2732e9c23ec7f82c3eb3a1d1524aa8c641d72ff9288f221",
+  "description": "Dictator ($DICTATOR) - community meme token on TON. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/a74dc858-4829-49a8-aaa0-4e478d1257e8.jpg",
+  "name": "Dictator",
+  "social": [
+   "https://t.me/dictatoronton",
+   "https://x.com/DictatorOnTon"
+  ],
+  "symbol": "Dictator"
+ },
+ {
+  "address": "0:b26a2f3e487cac50d559f7537fe991422e6adc5978358ebf0214d7f4548d0a7a",
+  "description": "Dictator AI ($DAI) - token of the Dictator AI trading ecosystem on TON: six AI agents trading the TON market and the $DAI Miner in a Telegram Mini App. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/b1543458-c59c-4871-840b-5ef29467ba5f.png",
+  "name": "Dictator AI",
+  "social": [
+   "https://t.me/dictatoraitrading",
+   "https://t.me/dictatorchats",
+   "https://x.com/DictatorssAI"
+  ],
+  "symbol": "DAI",
+  "websites": [
+   "https://dictatorai.online"
   ]
  },
  {
@@ -3268,7 +3310,7 @@
   "address": "0:2658456be820ea946999e854da53ec67f2eaf1913c2b28072fc54b7e19baf9c8",
   "decimals": 9,
   "description": "DRAM is a community-owned token on TON. Mine it for free in the DRAM Miner app.",
-  "image": "https://dram.faithton.online/dram-logo.png",
+  "image": "https://dram.faithton.online/dram-logo-v2.png",
   "name": "DRAM",
   "social": [
    "https://t.me/dram0fficial",
@@ -3759,6 +3801,19 @@
   "websites": [
    "https://theexplorergames.com"
   ]
+ },
+ {
+  "address": "0:7fd60587f416624e81640329f34bed3b1d445471580f71050463ffbb40cd1719",
+  "decimals": 9,
+  "description": "EQB is a hold-to-earn mining token for Telegram Mini App. Connect your TON wallet, hold EQB on balance, and earn new tokens automatically as mining yield. The more you hold, the higher your mining rate.",
+  "image": "https://storage.dyor.io/jettons/EQB_1gWH9BZiToFkAynzS-07HURUcVgPcQUEY_-7QM0XGaIZ/image.png",
+  "name": "Earn Qualify Build",
+  "social": [
+   "https://t.me/Earn_Qualify_Build_Channel",
+   "https://t.me/Earn_Qualify_Build_Community",
+   "https://t.me/Earn_Qualify_Build_Bot"
+  ],
+  "symbol": "EQB"
  },
  {
   "address": "0:b8c8d5e28e1d8426a0e93ee9ec8e335e2c6ed540575b547eb84085f96a8c325f",
@@ -4942,6 +4997,20 @@
   ]
  },
  {
+  "address": "0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101",
+  "description": "Meme coin on Uranus. Every hour the creator fee from trading is shared out as GRAM gifts to GGRAM holders, by a public script with public wallets.",
+  "image": "https://gift.faithton.online/logo-512.png",
+  "name": "Gift Gram",
+  "social": [
+   "https://x.com/romanaix80",
+   "https://t.me/+CjuULTqr7W80YTdi"
+  ],
+  "symbol": "GGRAM",
+  "websites": [
+   "https://gift.faithton.online"
+  ]
+ },
+ {
   "address": "0:387b04f019fbbba55402f998c8deca05c05e97ad724e36363a3261b32fca5608",
   "description": "$GH is the first jetton on TON, created by gamers for gamers. Built by https://gamehunters.pro",
   "name": "Game Hunters",
@@ -5047,6 +5116,21 @@
   "symbol": "GMC",
   "websites": [
    "https://greatmindsclassic.vip/"
+  ]
+ },
+ {
+  "address": "0:6ef6a280a271c37b16b90542ceddf7669fbbd6bc4c52a51e0b78dc9f401d9d62",
+  "description": "The token of Gamarium, the Telegram game studio. Hold $GMRM to mine more $GMRM in GMRM Miner. Fixed supply of 10,000,000,000.",
+  "image": "https://app.gamarium.io/assets/brand/gmrm_token_512.png",
+  "name": "Gamarium",
+  "social": [
+   "https://t.me/gamariumhub",
+   "https://t.me/gamariumchat",
+   "https://x.com/gamariumgames"
+  ],
+  "symbol": "GMRM",
+  "websites": [
+   "https://gamarium.io"
   ]
  },
  {
@@ -5567,6 +5651,22 @@
   "description": "The spirit of wall-street hedgehogs on a legendary blockchain",
   "name": "HEDGE coin",
   "symbol": "HEDGE"
+ },
+ {
+  "address": "0:e733280c9a0c62d4e6254a919c51be54586ced528dbcc37c39e3eb3fc523d785",
+  "description": "HEIST is the reward token of Raccoon Heist, a puzzle game inside Telegram. Players earn HEIST by cracking grids, from daily check-ins and from invites, and withdraw it to their own TON wallet. Fixed supply of 1,000,000,000 HEIST; minting is off and the admin is revoked.",
+  "image": "https://raccoon-heist.pages.dev/heist-token.png",
+  "name": "Raccoon Heist",
+  "social": [
+   "https://t.me/RaccoonHeistGame",
+   "https://t.me/RaccoonHeistChat",
+   "https://x.com/RaccoonHeistBot"
+  ],
+  "symbol": "HEIST",
+  "websites": [
+   "https://raccoon-heist.com",
+   "https://t.me/RaccoonHeistGameBot"
+  ]
  },
  {
   "address": "0:116d552a66cb7f6ba5d530e8217e2fb9d2a827b39fce43c967bd9c5af40a4d40",
@@ -12170,6 +12270,24 @@
   ]
  },
  {
+  "address": "0:e3a65933a97b5e4e0ad162ded7b6f5f1a13f9cb0bc612ad09bb066660c0b660f",
+  "decimals": 9,
+  "description": "VICX is the native token of Victor's Company, a Proof-of-Holding mining game on TON inside Telegram. It replaces the original VIC token. Hold VICX to level up, mine every 24 hours, play the Arcade and earn VICX, with payouts landing on-chain.",
+  "image": "https://victors.company/assets/vicx.webp",
+  "name": "Victor's Company",
+  "social": [
+   "https://t.me/victors_company",
+   "https://t.me/VictorsCompanyChat",
+   "https://x.com/VictorsCompany",
+   "https://youtube.com/@victorscompany",
+   "https://t.me/Victors_Company_bot/app"
+  ],
+  "symbol": "VICX",
+  "websites": [
+   "https://victors.company"
+  ]
+ },
+ {
   "address": "0:491153a8b7e25ccfa6e3e3985454d447847643b6e17bb6ce592488235bfb6506",
   "description": "Vilarsofree \u044d\u0442\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432 \u0432 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c. \u0425\u0440\u0430\u043d\u0438, \u043f\u043e\u043a\u0443\u043f\u0430\u0439/\u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0439 \u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0439 \u044d\u0442\u043e\u0442 \u0442\u043e\u043a\u0435\u043d \u0442\u0435\u043c, \u043a\u0442\u043e \u0434\u043e\u0441\u0442\u043e\u0438\u043d \u0431\u044b\u0442\u044c \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u043c, \u043a\u0440\u0438\u043f\u0442\u043e \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u043e\u043c, \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u044b\u043c \u0438\u043d\u0432\u0435\u0441\u0442\u043e\u0440\u043e\u043c, \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u043c \u043f\u0430\u0440\u0442\u043d\u0451\u0440\u043e\u043c \u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u043f\u043e \u0436\u0438\u0437\u043d\u0438. Vilarso",
   "image": "https://storage.dyor.io/jettons/EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d/image.jpeg",
@@ -13507,6 +13625,11 @@
   "address": "0:a7027bdb39d0161db63fd30aca9e4715f3275e105b0d0e18a218e171d865ee51",
   "name": "Antofagasta xStock",
   "symbol": "ANTOx"
+ },
+ {
+  "address": "0:5f6223160940ef15dcdf56dfb441cb1430e5134254ba1dd34a878dbd8ecab802",
+  "name": "Anthropic xStock",
+  "symbol": "ANTx"
  },
  {
   "address": "0:01a2ebc4e5eb3a95ab117505edff39db5ba8fcf49c953af3f08f0c736f6abb6f",
@@ -21994,11 +22117,6 @@
   "symbol": "GG"
  },
  {
-  "address": "0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101",
-  "name": "Gift Gram",
-  "symbol": "GGRAM"
- },
- {
   "address": "0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2",
   "name": "Grabscape governance token",
   "symbol": "GGT"
@@ -22242,6 +22360,11 @@
   "address": "0:264f6d90d9a3f22de4cf9a4cdb082d280e83ac2f14e349b4765ef5a5b5be3d16",
   "name": "Steamy Julia",
   "symbol": "JULIA"
+ },
+ {
+  "address": "-1:bf7e01ea11ccc2b302e99c112822f832aee254be7fd00ede5046379c63cc3796",
+  "name": "Jury Token",
+  "symbol": "JURY"
  },
  {
   "address": "0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc",
