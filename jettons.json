@@ -6516,6 +6516,21 @@
   ]
  },
  {
+  "address": "0:f56c0aae11740c7d41f025422036aa727801265f0d64d6469481034caa8ada40",
+  "description": "LEVY is the reward token of LEVY Game, a mining tycoon on Telegram. Play, earn LEVY and withdraw it to your TON wallet.",
+  "image": "https://levygame.site/levy/levy-token-v2.png",
+  "name": "LEVY",
+  "social": [
+   "https://t.me/LevyGame_News",
+   "https://t.me/LevyGame_Chat",
+   "https://x.com/LevyGameApp"
+  ],
+  "symbol": "LEVY",
+  "websites": [
+   "https://levygame.site"
+  ]
+ },
+ {
   "address": "0:f7c56be022c3c453f537137f77c32090d5d58a7fb322c9cc036bc207e809ede3",
   "description": "A token for liberation from fiat money and a tool for reducing the cost of purchasing goods and services within the Liberals Community project.",
   "image": "https://i.postimg.cc/K8QYpx9n/Logo-for-ston-fi.png",
