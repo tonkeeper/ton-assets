@@ -1,0 +1,8 @@
+name: BYTCOIN
+description: BYT is the utility token of the BYTCOIN APP ecosystem on the TON network. BYT is not an investment instrument and promises no financial return.
+address: 0:543e4fc69d9f3f075cc7253ac924abb8546ba43d8b9d51cda3e655222f5d92ba
+symbol: BYT
+websites:
+  - "https://bytcoin-app.vercel.app"
+social:
+  - "https://t.me/BytcoinCommunity"
