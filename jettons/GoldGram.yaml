@@ -1,0 +1,11 @@
+name: GoldGram
+description: True gold on the TON blockchain. Fixed supply; every transfer pays a 10% fee: half of it is burned and half is redistributed daily to the holders.
+image: https://ipfs.io/ipfs/bafybeieividpzyded4mz2jjxubx7hugz5gnmhkburisv5ydjr476suaehu/goldgram-coin.webp
+address: 0:8507e3c5bbb32dea43666f6bd4b9d3beeeff8c398c6f4ed2b342c18a24af802c
+symbol: GoldGram
+decimals: 9
+websites:
+  - "https://goldgram.app"
+social:
+  - "https://t.me/TheGoldGram"
+  - "https://x.com/thegoldgram"
