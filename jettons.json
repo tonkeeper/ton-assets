@@ -14892,6 +14892,11 @@
   "symbol": "CRLx"
  },
  {
+  "address": "0:88faee569c645fe21db3c21b2eca5e13081b32fb6ff3287d54fddc451aff816d",
+  "name": "Critical Metals xStock",
+  "symbol": "CRMLx"
+ },
+ {
   "address": "0:67b74bc29d9562d9874592f80ce605dcc4cda4c8fd147f8dbde6228e18265196",
   "name": "Salesforce xStock",
   "symbol": "CRMx"
@@ -17470,6 +17475,11 @@
   "address": "0:f2a78d75ce27dbc497831d5ed6a2f508bdf0814f085f1f92746741e2e56d58fe",
   "name": "Meituan xStock",
   "symbol": "MEITx"
+ },
+ {
+  "address": "0:ad843dce9c1098e056656452cbd22d8649a8076f02f4c19f03e5c136567d5bac",
+  "name": "MercadoLibre xStock",
+  "symbol": "MELIx"
  },
  {
   "address": "0:f7720420e37d81882491962fa132cc2856ebcd9cee3616e31d73e017a9df3749",
@@ -20082,6 +20092,11 @@
   "symbol": "ULVRx"
  },
  {
+  "address": "0:618ae9bfbb9f181d86e0e47d55523f05ad609a794c369c8be497a70797d75121",
+  "name": "United Microelectronics xStock",
+  "symbol": "UMCx"
+ },
+ {
   "address": "0:8f6652ca2a9b56c4133e29e7f6706a514214d6c8f1b2a1e3f2cc5ee269ce872f",
   "name": "Universal Music xStock",
   "symbol": "UMGx"
@@ -20655,6 +20670,11 @@
   "address": "0:9bc320d41aa14238f7155fc7af6cc9813e553bd1ad0ed2ce22f25467465d05f9",
   "name": "Energy Select Sector SPDR Fund xStock",
   "symbol": "XLEx"
+ },
+ {
+  "address": "0:fafb082bbd54b278cd57402144fae5076c741486b69adf3a4699613da37379ce",
+  "name": "State Street Health Care Select Sector SPDR xStock",
+  "symbol": "XLVx"
  },
  {
   "address": "0:b869381323270118e36b6cfeef13be6545d563fa5cb3f2a61773c8ec316676a4",
@@ -22455,6 +22475,11 @@
   "address": "0:8f8eefbd24dd1f2b8053a0ebc0e9a3dd0724790a6cab346a9e321b91cf7e5913",
   "name": "Lets Fuckin Go",
   "symbol": "LFGO"
+ },
+ {
+  "address": "0:03fdc24e01d66c6236de4958151218f90cff56cb0d5f3023e19d52d88ad867d3",
+  "name": "LIAR",
+  "symbol": "LIAR"
  },
  {
   "address": "0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971",
