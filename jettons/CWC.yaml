@@ -1,0 +1,10 @@
+name: Crypto World Coins
+symbol: CWC
+address: 0:7d8158f583204dd991aaa4b01d3692f5c62d33f385a7124f2132b43af411ad46
+decimals: 9
+description: Crypto World Coins (CWC) is the utility token of the Crypto World project on TON. It powers the Crypto World ecosystem of educational content and community tooling around blockchain technology. Minting is disabled. 89,000,000 CWC (89% of the supply) is locked across five independent JVault vesting lockers with public unlock schedules - Community Rewards (30M), Ecosystem Development (25M), Liquidity Reserve (19M), Marketing & Partnerships (10M) and Strategic Reserve (5M); the first unlock is on 2027-01-01. The official portal reads the on-chain vesting data live from TonAPI and the JVault contract API and supports TON Connect wallet connection.
+image: https://cwc-ii4j7gfa.agent.mira.tg/logo512.png
+websites:
+  - "https://cwc-ii4j7gfa.agent.mira.tg"
+social:
+  - "https://t.me/CryptotapeWeb3"
