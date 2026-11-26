@@ -1,5 +1,5 @@
 name: JetX Ocean
-description: JETX is the utility token of JetX Ocean, a maritime fishing and fleet GameFi ecosystem in Telegram Mini App on TON. Players catch deep-sea fish at marine buoys, upgrade ships across 25 equipment levels with 70% on-chain token burn, and trade vessels on the Port P2P Auction.
+description: JETX is the deflationary utility token of JetX Ocean, a Web3 maritime fishing, charter NFT fleet, and pirate naval battle strategy game in Telegram Mini App on TON. Features 0% mint authority, 70%–80% on-chain TEP-74 token burns, 69B JETX and 99.5% STON.fi LP locked via Ton Raffles until Nov 15, 2027.
 image: "https://jetxocean.com/jetx-logo-v2.png"
 address: EQCaPJ0cb5BPBvEaSoRssFOMj6Aqub4HCQ1at_tbjqk5vskm
 symbol: JETX
@@ -8,6 +8,7 @@ websites:
   - "https://jetxocean.com"
   - "https://t.me/Jetxoceangamebot/app"
 social:
+  - "https://x.com/jetxoceangame"
   - "https://t.me/jetxOceanOfficial"
   - "https://t.me/JetxOceanChat"
   - "https://t.me/Jetxoceangamebot"
