@@ -1,0 +1,12 @@
+name: CyberJoule
+description: "CyberJoule (CKJ) is the currency of CyberKonquest, a strategy PvP game inside Telegram: players crack nodes with their device's computing power, and the nodes they hold produce CKJ. In the game it pays for cards and defenses; players withdraw it to their TON wallet or deposit it back at any time. CKJ is minted when a player withdraws it from the game and burned when it is deposited back."
+image: "https://cyberkonquest.com/ckj.png"
+address: EQB_F_X728F7s-eBWV8AI1TiAjTMd7ogJFAdnQENxHZEJs44
+symbol: CKJ
+decimals: 9
+websites:
+  - "https://cyberkonquest.com"
+  - "https://t.me/CyberKonquestBot/join?startapp=tonkeeper"
+social:
+  - "https://t.me/CyberKonquest"
+  - "https://x.com/CyberKonquest"
