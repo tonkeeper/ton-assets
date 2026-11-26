@@ -1,0 +1,79 @@
+
+name: Ecualitex
+symbol: ECX
+address: EQCV_0WzkcC-s2q95X1XtyMgnrHvhZ9Se6YO2JstWGxYH28x
+decimals: 9
+totalSupply: "1000000000000000000"
+mintable: false
+description: "Official token of the Ecualitex Lite economic simulation game on the TON network. Utility token, not a financial investment."
+image: "https://i.postimg.cc/Z5ygFFbS/Noxoro-20261029-081717-091.jpg"
+website: "https://ecualitex.win"
+explorer: "https://tonviewer.com/EQCV_0WzkcC-s2q95X1XtyMgnrHvhZ9Se6YO2JstWGxYH28x"
+social:
+  - "https://t.me/ecualitex_lite"
+  - "https://x.com/ecualitex"
+  - "https://www.instagram.com/ecualitex_lite"
+  - "https://youtube.com/@ecualitexlite"
+proof:
+  signer: "UQBJT9XOfbmAKMPEvbuJR-jGL0zsWeNHaE-aQt4FdtT26Ozp"
+  note: "Signed message proof of wallet control for the deployment/emission of the ECX Jetton Master. The signature exists and is provided in the Pull Request description."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Add Ecualitex token
