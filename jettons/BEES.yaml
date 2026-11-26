@@ -1,10 +1,10 @@
-name: BeesCoin
-description: Bees coin is a Telegram bot-based project expanding into a decentralized platform
-image: "https://cdn.beecoin.finance/logo.png"
+name: BeeCoin
+description: Native utility token of the BeeCoin ecosystem on TON.
+image: "https://beeecoin.github.io/beecoin/assets/icon.png"
 address: EQAbhSZWmHWv_OfW7M9Mm18y9AXMgoLsgS0AgLs0xY5NkT44
 symbol: BEES
 websites:
-  - "https://beecoin.finance/"
+  - "https://beecoin.app/"
 social:
   - "https://t.me/Bee_coinbot"
   - "https://t.me/beecoin_official"
