@@ -1,0 +1,10 @@
+name: ZONO
+description: "ZONO Vault is a Telegram Mini App on TON: users keep ZONO in their own wallet, the balance is verified on-chain, and stage rewards unlock over time."
+image: "https://zono-app.online/static/ton-icon.png"
+address: EQDFbYmYHaCDUoTIvaYsp0NJxu8auva9I9CxFibi6qFWlj4i
+symbol: ZONO
+websites:
+  - "https://zono-app.online"
+social:
+  - "https://t.me/ZanoPrime"
+  - "https://x.com/ZonoPrime"
