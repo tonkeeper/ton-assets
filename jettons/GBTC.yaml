@@ -1,0 +1,19 @@
+name: "GBitcoin"
+symbol: "GBTC"
+address: "EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB"
+decimals: 9
+image: "https://storage.dyor.io/jettons/EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB/image.png"
+description: " GBTC – Unified Projects Protocol
+
+GBTC is a multi-project liquidity protocol built on the GRAM network. Its main idea is to connect independent tokens and projects with real utility through a network of liquidity pools and trading pairs.
+
+The goal is to bring different projects together in one ecosystem, while allowing each project to maintain its own identity, purpose, and community. By connecting these projects, GBTC creates room for shared growth, stronger liquidity connections, more trading activity, and opportunities for collaboration.
+
+As new projects join and existing ones continue to grow, develop their utilities, and attract more users, the entire ecosystem has more room to expand. Each connected project brings something different to the network, contributing to the wider development of GBTC.
+
+One protocol. Multiple projects. Shared growth. A connected ecosystem built on GRAM "
+
+social:
+  - "https://t.me/GBTCi"
+  - "https://github.com/GBitcoin2/GBTC"
+  - "https://x.com/GBitcoin2"
