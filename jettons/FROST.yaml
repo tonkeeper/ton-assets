@@ -1,0 +1,14 @@
+name: FROST
+description: FROST is the native token of FROST ZONE, a Telegram mining game. Fixed supply of 200,000,000 - mint closed, admin renounced, and 100% of the STON.fi pool liquidity burned forever.
+image: https://frostzone-app.vercel.app/assets/frost_icon.png
+address: EQATgZD-GqACWXxHz8w1lNsgBTkcrUizfaMtRffMtfCgVTKy
+symbol: FROST
+decimals: 9
+websites:
+  - "https://frostzone-app.vercel.app/"
+social:
+  - "https://t.me/FrostZone_app"
+  - "https://t.me/FrostZoneOfficial"
+  - "https://t.me/FrostZonePay"
+  - "https://t.me/FrostZoneChat"
+  - "https://x.com/FrostZone_app"
