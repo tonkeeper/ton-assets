@@ -1,0 +1,10 @@
+name: ZYRON
+symbol: ZYN
+decimals: 9
+description: ZYRON is a community token for Zyron Miner Telegram Mini App.
+image: "https://raw.githubusercontent.com/Zohirtime56/zyron/main/ZYRON_256x256.png"
+address: EQAJruUqgQTd-KC3QiUAoQePVzW7KubQaXcEqlhdOb4ghwyk
+websites:
+    - "https://zohirtime56.github.io/zayron/"
+social:
+    - "https://t.me/ZyronMinerBot"
