@@ -405,6 +405,20 @@
   ]
  },
  {
+  "address": "0:89c7654a5894e00f3cfffcbe06ee43bbbd7430eea35abe095ac63824a71e8d80",
+  "description": "Pepe is a fan token inspired by the original Pepe meme, created on the TON blockchain by the MEMES project. Not affiliated with Pepe.",
+  "image": "https://cdn.memesc.org/ipfs/bafkreiezbu6kuosro3dsalw3baqi6yzdwcxizrjfv3tv4tzzldh5s6snla",
+  "name": "Pepe",
+  "social": [
+   "https://t.me/memesxy",
+   "https://x.com/memeland_tg"
+  ],
+  "symbol": "PEPE",
+  "websites": [
+   "https://memesc.org"
+  ]
+ },
+ {
   "address": "0:3ac28c234d84b628a2f79f76f368f91bc073ea8b016d016c62449b58cd8629dd",
   "decimals": 9,
   "image": "<https://raw.githubusercontent.com/oxv401/assets/main/PG.png>",
@@ -3164,6 +3178,20 @@
   "symbol": "DODU",
   "websites": [
    "https://dodumemecoin.com/"
+  ]
+ },
+ {
+  "address": "0:4ca3be780dcc1b6934f2bdfde828be3eec2e65d5453f50be3bd79a9b44008b00",
+  "description": "Dogecoin is a fan token inspired by the original Doge meme, created on the TON blockchain by the MEMES project. Not affiliated with Dogecoin.",
+  "image": "https://cdn.memesc.org/ipfs/bafkreighdsnrztz3g55zcayshxv4tn2pwhwyik37ywavgnhuqivivxukmi",
+  "name": "Dogecoin",
+  "social": [
+   "https://t.me/memesxy",
+   "https://x.com/memeland_tg"
+  ],
+  "symbol": "DOGE",
+  "websites": [
+   "https://memesc.org"
   ]
  },
  {
@@ -6513,6 +6541,21 @@
   "symbol": "LEMONIA",
   "websites": [
    "https://redoifoundation.org"
+  ]
+ },
+ {
+  "address": "0:f56c0aae11740c7d41f025422036aa727801265f0d64d6469481034caa8ada40",
+  "description": "LEVY is the reward token of LEVY Game, a mining tycoon on Telegram. Play, earn LEVY and withdraw it to your TON wallet.",
+  "image": "https://levygame.site/levy/levy-token-v2.png",
+  "name": "LEVY",
+  "social": [
+   "https://t.me/LevyGame_News",
+   "https://t.me/LevyGame_Chat",
+   "https://x.com/LevyGameApp"
+  ],
+  "symbol": "LEVY",
+  "websites": [
+   "https://levygame.site"
   ]
  },
  {
@@ -9875,6 +9918,20 @@
   "symbol": "SHHHT"
  },
  {
+  "address": "0:632a184214901e0f1f95a3feb7f12127140c46b52260a94e214f344f87cddb0e",
+  "description": "Shiba Inu is a fan token inspired by the original Shiba Inu meme, created on the TON blockchain by the MEMES project. Not affiliated with Shiba Inu.",
+  "image": "https://cdn.memesc.org/ipfs/bafkreigtpbhfbe4rkxp64urg42btn7ekt4d2xqpyq33h3t3booi6lznun4",
+  "name": "Shiba Inu",
+  "social": [
+   "https://t.me/memesxy",
+   "https://x.com/memeland_tg"
+  ],
+  "symbol": "SHIB",
+  "websites": [
+   "https://memesc.org"
+  ]
+ },
+ {
   "address": "0:2e584f9b551eced5b4a4c0dfe63ddca2be92b0e657d6738eec82fb9ccf2cd9e3",
   "description": "Born from the chaos of scammy projects, Shitdrops turn the tables by blending humor with the ChiliVersus mission to build a transparent and engaging digital ecosystem. With 1 SHITDROPS equaling 1 CHVRS, it seamlessly bridges the fun of memes with real value in ChiliVersus\u2014the next-gen gamified social media platform. It\u2019s more than just a joke\u2014it\u2019s a bold, spicy catalyst for change!",
   "image": "https://chiliversus.com/meme/shitdrops.png",
@@ -10968,6 +11025,17 @@
   "symbol": "TCOIN",
   "websites": [
    "https://tcoin.tech"
+  ]
+ },
+ {
+  "address": "0:16aad68a72c08d93dca99cd66f2368f8ee7c48659f38bf7a0633b6a4fea025b5",
+  "description": "TEACOIN (TEA) is a TON Jetton issued for the DAVIDTEA ecosystem. Planned uses include customer loyalty rewards, payments at partner stores, cargo shipping from China, airport transfers, and tours in Hainan. These integrations are not yet live.",
+  "image": "https://davidtea.ru/image/catalog/teacoin_tea.png",
+  "name": "Teacoin",
+  "symbol": "TEA",
+  "websites": [
+   "https://davidtea.ru",
+   "https://davidtea.ru/teacoin.html"
   ]
  },
  {
@@ -14892,6 +14960,11 @@
   "symbol": "CRLx"
  },
  {
+  "address": "0:88faee569c645fe21db3c21b2eca5e13081b32fb6ff3287d54fddc451aff816d",
+  "name": "Critical Metals xStock",
+  "symbol": "CRMLx"
+ },
+ {
   "address": "0:67b74bc29d9562d9874592f80ce605dcc4cda4c8fd147f8dbde6228e18265196",
   "name": "Salesforce xStock",
   "symbol": "CRMx"
@@ -17470,6 +17543,11 @@
   "address": "0:f2a78d75ce27dbc497831d5ed6a2f508bdf0814f085f1f92746741e2e56d58fe",
   "name": "Meituan xStock",
   "symbol": "MEITx"
+ },
+ {
+  "address": "0:ad843dce9c1098e056656452cbd22d8649a8076f02f4c19f03e5c136567d5bac",
+  "name": "MercadoLibre xStock",
+  "symbol": "MELIx"
  },
  {
   "address": "0:f7720420e37d81882491962fa132cc2856ebcd9cee3616e31d73e017a9df3749",
@@ -20082,6 +20160,11 @@
   "symbol": "ULVRx"
  },
  {
+  "address": "0:618ae9bfbb9f181d86e0e47d55523f05ad609a794c369c8be497a70797d75121",
+  "name": "United Microelectronics xStock",
+  "symbol": "UMCx"
+ },
+ {
   "address": "0:8f6652ca2a9b56c4133e29e7f6706a514214d6c8f1b2a1e3f2cc5ee269ce872f",
   "name": "Universal Music xStock",
   "symbol": "UMGx"
@@ -20655,6 +20738,11 @@
   "address": "0:9bc320d41aa14238f7155fc7af6cc9813e553bd1ad0ed2ce22f25467465d05f9",
   "name": "Energy Select Sector SPDR Fund xStock",
   "symbol": "XLEx"
+ },
+ {
+  "address": "0:fafb082bbd54b278cd57402144fae5076c741486b69adf3a4699613da37379ce",
+  "name": "State Street Health Care Select Sector SPDR xStock",
+  "symbol": "XLVx"
  },
  {
   "address": "0:b869381323270118e36b6cfeef13be6545d563fa5cb3f2a61773c8ec316676a4",
@@ -22455,6 +22543,11 @@
   "address": "0:8f8eefbd24dd1f2b8053a0ebc0e9a3dd0724790a6cab346a9e321b91cf7e5913",
   "name": "Lets Fuckin Go",
   "symbol": "LFGO"
+ },
+ {
+  "address": "0:03fdc24e01d66c6236de4958151218f90cff56cb0d5f3023e19d52d88ad867d3",
+  "name": "LIAR",
+  "symbol": "LIAR"
  },
  {
   "address": "0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971",
