@@ -1,0 +1,13 @@
+name: GLUNCOIN
+symbol: GLUN
+description: "GLUN is the token of GLUNCOIN, a winter game in Telegram on TON. Players earn rating in games and tasks and share the GLUN airdrop by rating. GLUN buys GOLD on My Space (my.inworks.uk); 10% of the GLUN received is burned."
+image: "https://raw.githubusercontent.com/buenos20022-cmyk/phoenix-game/main/GLUNLOGO.png"
+decimals: 9
+address: EQC1Fl4Nd_to4LcjpA8bAR-uW4j5RvICvpivaSt6bwZbRvAr
+websites:
+  - "https://t.me/gluncoinbot"
+  - "https://my.inworks.uk/my/gold"
+social:
+  - "https://t.me/popularkanalis"
+  - "https://x.com/GLUNCOIN"
+  - "https://discord.gg/cBWavjvE4u"
