@@ -1,1 +1,11 @@
 
+name: ZOZ Miner
+symbol: ZOZ
+description: ZOZ Miner is a community-driven mining project built on TON Blockchain.
+address: EQDZE_XzXLG9G2yzjbERLFpQ-bdZuWhvHOnM2G2qtlVNNh6y
+image: "https://storage.dyor.io/jettons/EQDZE_XzXLG9G2yzjbERLFpQ-bdZuWhvHOnM2G2qtlVNNh6y/image.png"
+websites:
+  - "https://zoz-miner-bot.vercel.app"
+social:
+  - "https://t.me/ZOZ_Miner_Bot"
+
