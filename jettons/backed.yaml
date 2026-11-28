@@ -262,6 +262,9 @@
 - address: 0:a7027bdb39d0161db63fd30aca9e4715f3275e105b0d0e18a218e171d865ee51
   name: Antofagasta xStock
   symbol: ANTOx
+- address: 0:5f6223160940ef15dcdf56dfb441cb1430e5134254ba1dd34a878dbd8ecab802
+  name: Anthropic xStock
+  symbol: ANTx
 - address: 0:01a2ebc4e5eb3a95ab117505edff39db5ba8fcf49c953af3f08f0c736f6abb6f
   name: AutoNation xStock
   symbol: ANx
@@ -1018,6 +1021,9 @@
 - address: 0:3411ba9beb27fff1e3d88ea664211bcae0df799722d7ef815e14afcd0595a4d4
   name: Charles River Laboratories International xStock
   symbol: CRLx
+- address: 0:88faee569c645fe21db3c21b2eca5e13081b32fb6ff3287d54fddc451aff816d
+  name: Critical Metals xStock
+  symbol: CRMLx
 - address: 0:67b74bc29d9562d9874592f80ce605dcc4cda4c8fd147f8dbde6228e18265196
   name: Salesforce xStock
   symbol: CRMx
@@ -2056,9 +2062,6 @@
 - address: 0:0784f683c91c97263c060d70419e0b66092987162aa94cba93ddcebba2e0e68e
   name: Core MSCI Emerging Markets xStock
   symbol: IEMGx
-- address: 0:f3a995fe31a8811f64947b15d74916dea3ebb45430d0ab24e099470c5c3b41c1
-  name: Icahn Enterprises xStock
-  symbol: IEPx
 - address: 0:fec2daecf36da39303fd70539b199dbe1860054e1edbade15ef098189b13b538
   name: IES xStock
   symbol: IESCx
@@ -2569,6 +2572,9 @@
 - address: 0:f2a78d75ce27dbc497831d5ed6a2f508bdf0814f085f1f92746741e2e56d58fe
   name: Meituan xStock
   symbol: MEITx
+- address: 0:ad843dce9c1098e056656452cbd22d8649a8076f02f4c19f03e5c136567d5bac
+  name: MercadoLibre xStock
+  symbol: MELIx
 - address: 0:f7720420e37d81882491962fa132cc2856ebcd9cee3616e31d73e017a9df3749
   name: Meta xStock
   symbol: METAx
@@ -4135,6 +4141,9 @@
 - address: 0:933cb56c7009460819176bbb2c97750671f803185a4ed04f85bda5e49ffc4100
   name: Unilever xStock
   symbol: ULVRx
+- address: 0:618ae9bfbb9f181d86e0e47d55523f05ad609a794c369c8be497a70797d75121
+  name: United Microelectronics xStock
+  symbol: UMCx
 - address: 0:8f6652ca2a9b56c4133e29e7f6706a514214d6c8f1b2a1e3f2cc5ee269ce872f
   name: Universal Music xStock
   symbol: UMGx
@@ -4480,6 +4489,9 @@
 - address: 0:9bc320d41aa14238f7155fc7af6cc9813e553bd1ad0ed2ce22f25467465d05f9
   name: Energy Select Sector SPDR Fund xStock
   symbol: XLEx
+- address: 0:fafb082bbd54b278cd57402144fae5076c741486b69adf3a4699613da37379ce
+  name: State Street Health Care Select Sector SPDR xStock
+  symbol: XLVx
 - address: 0:b869381323270118e36b6cfeef13be6545d563fa5cb3f2a61773c8ec316676a4
   name: Exxon Mobil xStock
   symbol: XOMx

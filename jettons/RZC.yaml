@@ -1,0 +1,13 @@
+name: RhizaCore
+description: "Rhiza Coin (#RZC) is the native utility and governance token of the RhizaCore ecosystem, a self-custody wallet on Gram."
+image: "https://rhizacore.xyz/RZC.png"
+address: EQCOONIqGAtOE6BpNzRf3jjP6hA77CJ_aCTmRtTWwWQB5h3t
+symbol: RZC
+decimals: 9
+websites:
+  - "https://rhizacore.xyz"
+  - "https://rhizacore.online"
+  - "https://rhizacore.xyz/mint-policy"
+social:
+  - "https://x.com/RhizaCore"
+  - "https://t.me/RhizaCoreNews"

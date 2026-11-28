@@ -231,6 +231,38 @@
   ]
  },
  {
+  "address": "0:5e8b15f899bb610e30a3783d4e599050d807d0c046ee787f70bb5b62c2d2ed67",
+  "description": "Soulbound compensation vouchers of Victor's Company for wallets that lost their own money in the VIC crash of 29 October 2026. Each listed wallet claims one voucher; its amount ($1 lost = 1,000 VIC) is fixed by the collection contract and stored in the voucher itself. Vouchers cannot be transferred.",
+  "image": "https://victors.company/assets/voucher/loss-collection.png",
+  "name": "Victor's Company \u00b7 Loss Voucher",
+  "social": [
+   "https://t.me/victors_company",
+   "https://t.me/VictorsCompanyChat",
+   "https://x.com/VictorsCompany",
+   "https://youtube.com/@victorscompany",
+   "https://t.me/Victors_Company_bot/app"
+  ],
+  "websites": [
+   "https://victors.company"
+  ]
+ },
+ {
+  "address": "0:998843f9463c665e5473703a7348e34624818895ed3ac50454b9037794320287",
+  "description": "Soulbound passes of Victor's Company, the Telegram mining game on TON. Each Mine Pass is minted once, for one miner, and can never be sold or transferred: it proves that its wallet belongs to the miner who holds it. It opens claiming, withdrawals and the Arcade.",
+  "image": "https://server.victors.company/api/public/pass/collection.png",
+  "name": "Victor's Company \u00b7 Mine Pass",
+  "social": [
+   "https://t.me/victors_company",
+   "https://t.me/VictorsCompanyChat",
+   "https://x.com/VictorsCompany",
+   "https://youtube.com/@victorscompany",
+   "https://t.me/Victors_Company_bot/app"
+  ],
+  "websites": [
+   "https://victors.company"
+  ]
+ },
+ {
   "address": "0:f56156f01b974d57d959833d7c178723066e62a985f2794a9d19edb52578ec2c",
   "description": "THE GOLDEN ORC HUNTING SEASON IS OPEN! ZarGates offers a massive bounty to all treasure hunters out there for capturing them. \ud83d\udd25 OPEN GIFTBOXES, pull Stickerboxes, and collect Golden Orc stickers to claim the most valuable rewards from ZarGates! 100% of all proceeds go toward the prize pool and collection promotion. \ud83d\udc8e Don't miss your chance to claim your share of the loot from the $300,000 prize pool! \u2705 Details in the official channels: TG ENG: https://t.me/ZarGatesChannel TG RU: http://t.me/ZarGatesRU X: https://x.com/ZARGATES Website: zargates.com \ud83d\ude80 Let's go \u2014 adventure awaits!",
   "image": "https://metadata.zargates.com/giftbox/collection_image.png",

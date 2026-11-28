@@ -405,6 +405,20 @@
   ]
  },
  {
+  "address": "0:89c7654a5894e00f3cfffcbe06ee43bbbd7430eea35abe095ac63824a71e8d80",
+  "description": "Pepe is a fan token inspired by the original Pepe meme, created on the TON blockchain by the MEMES project. Not affiliated with Pepe.",
+  "image": "https://cdn.memesc.org/ipfs/bafkreiezbu6kuosro3dsalw3baqi6yzdwcxizrjfv3tv4tzzldh5s6snla",
+  "name": "Pepe",
+  "social": [
+   "https://t.me/memesxy",
+   "https://x.com/memeland_tg"
+  ],
+  "symbol": "PEPE",
+  "websites": [
+   "https://memesc.org"
+  ]
+ },
+ {
   "address": "0:3ac28c234d84b628a2f79f76f368f91bc073ea8b016d016c62449b58cd8629dd",
   "decimals": 9,
   "image": "<https://raw.githubusercontent.com/oxv401/assets/main/PG.png>",
@@ -759,6 +773,21 @@
   "symbol": "ANDO",
   "websites": [
    "https://anubisdog.xyz"
+  ]
+ },
+ {
+  "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
+  "decimals": 9,
+  "description": "Andy is the yellow dog from Boy's Club with the long ears and zero stress. Memes, friends, and a high five that never leaves you hanging. Up top, champ!",
+  "image": "https://andy.tg/andy-logo.png",
+  "name": "Andy",
+  "social": [
+   "https://x.com/AndyonTonchain",
+   "https://t.me/AndyOnTonCommunity"
+  ],
+  "symbol": "ANDY",
+  "websites": [
+   "https://andy.tg"
   ]
  },
  {
@@ -2951,6 +2980,22 @@
   ]
  },
  {
+  "address": "0:0f26961d1d2fa83b48cb1e0931588625a3e2d1740ddd2de6a8835585b1576f66",
+  "decimals": 9,
+  "description": "Official coin of Dragon Gold Miner, a mining game on Telegram.",
+  "image": "https://dragonpixoficial.com.br/img/drago.png",
+  "name": "Dragon Gold Miner",
+  "social": [
+   "https://t.me/golddwartes",
+   "https://t.me/toppgamesworld"
+  ],
+  "symbol": "DGM",
+  "websites": [
+   "https://dragonpixoficial.com.br",
+   "https://t.me/GoldDwarves_bot"
+  ]
+ },
+ {
   "address": "0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e",
   "description": "Low fee dick-to-dick electronic cash alternative to Toncoin",
   "image": "https://raw.githubusercontent.com/DHDcoin/website/main/LOGO.png",
@@ -2990,6 +3035,32 @@
   "symbol": "DIAMOND",
   "websites": [
    "https://diamondhandston.com/"
+  ]
+ },
+ {
+  "address": "0:8160bf5935799507a2732e9c23ec7f82c3eb3a1d1524aa8c641d72ff9288f221",
+  "description": "Dictator ($DICTATOR) - community meme token on TON. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/a74dc858-4829-49a8-aaa0-4e478d1257e8.jpg",
+  "name": "Dictator",
+  "social": [
+   "https://t.me/dictatoronton",
+   "https://x.com/DictatorOnTon"
+  ],
+  "symbol": "Dictator"
+ },
+ {
+  "address": "0:b26a2f3e487cac50d559f7537fe991422e6adc5978358ebf0214d7f4548d0a7a",
+  "description": "Dictator AI ($DAI) - token of the Dictator AI trading ecosystem on TON: six AI agents trading the TON market and the $DAI Miner in a Telegram Mini App. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/b1543458-c59c-4871-840b-5ef29467ba5f.png",
+  "name": "Dictator AI",
+  "social": [
+   "https://t.me/dictatoraitrading",
+   "https://t.me/dictatorchats",
+   "https://x.com/DictatorssAI"
+  ],
+  "symbol": "DAI",
+  "websites": [
+   "https://dictatorai.online"
   ]
  },
  {
@@ -3107,6 +3178,20 @@
   "symbol": "DODU",
   "websites": [
    "https://dodumemecoin.com/"
+  ]
+ },
+ {
+  "address": "0:4ca3be780dcc1b6934f2bdfde828be3eec2e65d5453f50be3bd79a9b44008b00",
+  "description": "Dogecoin is a fan token inspired by the original Doge meme, created on the TON blockchain by the MEMES project. Not affiliated with Dogecoin.",
+  "image": "https://cdn.memesc.org/ipfs/bafkreighdsnrztz3g55zcayshxv4tn2pwhwyik37ywavgnhuqivivxukmi",
+  "name": "Dogecoin",
+  "social": [
+   "https://t.me/memesxy",
+   "https://x.com/memeland_tg"
+  ],
+  "symbol": "DOGE",
+  "websites": [
+   "https://memesc.org"
   ]
  },
  {
@@ -3253,7 +3338,7 @@
   "address": "0:2658456be820ea946999e854da53ec67f2eaf1913c2b28072fc54b7e19baf9c8",
   "decimals": 9,
   "description": "DRAM is a community-owned token on TON. Mine it for free in the DRAM Miner app.",
-  "image": "https://dram.faithton.online/dram-logo.png",
+  "image": "https://dram.faithton.online/dram-logo-v2.png",
   "name": "DRAM",
   "social": [
    "https://t.me/dram0fficial",
@@ -3744,6 +3829,19 @@
   "websites": [
    "https://theexplorergames.com"
   ]
+ },
+ {
+  "address": "0:7fd60587f416624e81640329f34bed3b1d445471580f71050463ffbb40cd1719",
+  "decimals": 9,
+  "description": "EQB is a hold-to-earn mining token for Telegram Mini App. Connect your TON wallet, hold EQB on balance, and earn new tokens automatically as mining yield. The more you hold, the higher your mining rate.",
+  "image": "https://storage.dyor.io/jettons/EQB_1gWH9BZiToFkAynzS-07HURUcVgPcQUEY_-7QM0XGaIZ/image.png",
+  "name": "Earn Qualify Build",
+  "social": [
+   "https://t.me/Earn_Qualify_Build_Channel",
+   "https://t.me/Earn_Qualify_Build_Community",
+   "https://t.me/Earn_Qualify_Build_Bot"
+  ],
+  "symbol": "EQB"
  },
  {
   "address": "0:b8c8d5e28e1d8426a0e93ee9ec8e335e2c6ed540575b547eb84085f96a8c325f",
@@ -4927,6 +5025,20 @@
   ]
  },
  {
+  "address": "0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101",
+  "description": "Meme coin on Uranus. Every hour the creator fee from trading is shared out as GRAM gifts to GGRAM holders, by a public script with public wallets.",
+  "image": "https://gift.faithton.online/logo-512.png",
+  "name": "Gift Gram",
+  "social": [
+   "https://x.com/romanaix80",
+   "https://t.me/+CjuULTqr7W80YTdi"
+  ],
+  "symbol": "GGRAM",
+  "websites": [
+   "https://gift.faithton.online"
+  ]
+ },
+ {
   "address": "0:387b04f019fbbba55402f998c8deca05c05e97ad724e36363a3261b32fca5608",
   "description": "$GH is the first jetton on TON, created by gamers for gamers. Built by https://gamehunters.pro",
   "name": "Game Hunters",
@@ -5032,6 +5144,21 @@
   "symbol": "GMC",
   "websites": [
    "https://greatmindsclassic.vip/"
+  ]
+ },
+ {
+  "address": "0:6ef6a280a271c37b16b90542ceddf7669fbbd6bc4c52a51e0b78dc9f401d9d62",
+  "description": "The token of Gamarium, the Telegram game studio. Hold $GMRM to mine more $GMRM in GMRM Miner. Fixed supply of 10,000,000,000.",
+  "image": "https://app.gamarium.io/assets/brand/gmrm_token_512.png",
+  "name": "Gamarium",
+  "social": [
+   "https://t.me/gamariumhub",
+   "https://t.me/gamariumchat",
+   "https://x.com/gamariumgames"
+  ],
+  "symbol": "GMRM",
+  "websites": [
+   "https://gamarium.io"
   ]
  },
  {
@@ -5369,6 +5496,19 @@
   "symbol": "GST"
  },
  {
+  "address": "0:399161023899e5b8848a675a784cf5a717c59608786d1117c626d0d35b19361e",
+  "description": "GiftKO Coin is the game token of the GiftKO project on TON. It is used for holder rewards and in-game mechanics in Telegram.",
+  "name": "GiftKO Coin",
+  "social": [
+   "https://t.me/giftkogame",
+   "https://t.me/giftkochat"
+  ],
+  "symbol": "GiftKO",
+  "websites": [
+   "https://giftkocoin.up.railway.app"
+  ]
+ },
+ {
   "address": "0:02f9290a86b2fb374b94c508fed97ca27eb669bb9bab225d4457068b3eb3bfb7",
   "decimals": 9,
   "description": "Gold Nugs is the Dig It rewards token. Play to earn at https://digitgoldgame.com",
@@ -5539,6 +5679,22 @@
   "description": "The spirit of wall-street hedgehogs on a legendary blockchain",
   "name": "HEDGE coin",
   "symbol": "HEDGE"
+ },
+ {
+  "address": "0:e733280c9a0c62d4e6254a919c51be54586ced528dbcc37c39e3eb3fc523d785",
+  "description": "HEIST is the reward token of Raccoon Heist, a puzzle game inside Telegram. Players earn HEIST by cracking grids, from daily check-ins and from invites, and withdraw it to their own TON wallet. Fixed supply of 1,000,000,000 HEIST; minting is off and the admin is revoked.",
+  "image": "https://raccoon-heist.pages.dev/heist-token.png",
+  "name": "Raccoon Heist",
+  "social": [
+   "https://t.me/RaccoonHeistGame",
+   "https://t.me/RaccoonHeistChat",
+   "https://x.com/RaccoonHeistBot"
+  ],
+  "symbol": "HEIST",
+  "websites": [
+   "https://raccoon-heist.com",
+   "https://t.me/RaccoonHeistGameBot"
+  ]
  },
  {
   "address": "0:116d552a66cb7f6ba5d530e8217e2fb9d2a827b39fce43c967bd9c5af40a4d40",
@@ -6385,6 +6541,21 @@
   "symbol": "LEMONIA",
   "websites": [
    "https://redoifoundation.org"
+  ]
+ },
+ {
+  "address": "0:f56c0aae11740c7d41f025422036aa727801265f0d64d6469481034caa8ada40",
+  "description": "LEVY is the reward token of LEVY Game, a mining tycoon on Telegram. Play, earn LEVY and withdraw it to your TON wallet.",
+  "image": "https://levygame.site/levy/levy-token-v2.png",
+  "name": "LEVY",
+  "social": [
+   "https://t.me/LevyGame_News",
+   "https://t.me/LevyGame_Chat",
+   "https://x.com/LevyGameApp"
+  ],
+  "symbol": "LEVY",
+  "websites": [
+   "https://levygame.site"
   ]
  },
  {
@@ -7930,6 +8101,23 @@
   ]
  },
  {
+  "address": "0:ef3be87483a9b948dfc437e8a4b1e15db63b6f113ff2b4a4429b6036eaa5da21",
+  "decimals": 9,
+  "description": "NovaPoints (NOVAP) is the airdrop token of the NOVA Telegram Mini App. Fixed supply of 100,000,000 (minting revoked on-chain at deploy); 60% distributed to users via Merkle claims, 15% liquidity (LP locked 12 months), founder 10% in a 2-of-3 vesting escrow.",
+  "image": "https://nova.codiologism.com/nova-points.png",
+  "name": "NovaPoints",
+  "social": [
+   "https://t.me/NovaPointsAirdropBot",
+   "https://t.me/novapoints",
+   "https://x.com/NovaPointsApp"
+  ],
+  "symbol": "NOVAP",
+  "websites": [
+   "https://nova-points.com",
+   "https://nova-points.com/token"
+  ]
+ },
+ {
   "address": "0:7328860ffd6567612e640dbcfedf36adf7c86d3425d05157e691a1fb7cb75c11",
   "description": "This is not just another meme coin. A unique features of our token is its long-term potential, designed to last for decades.",
   "image": "https://github.com/Makssimus/KPUR/blob/main/NPV.png?raw=true",
@@ -9005,6 +9193,22 @@
   ]
  },
  {
+  "address": "0:cf13ee80b1fe0e18687b869b17e63f8d090ec1313dd68afbfcf3853c9ae8b076",
+  "decimals": 9,
+  "description": "Quantum Yield Voyage is a rocket-themed Telegram Mini App featuring mining, level progression, task rewards, referrals, and mining reward sharing.",
+  "image": "https://web.quantumyieldvoyage.top/qyv-coin.png",
+  "name": "Quantum Yield Voyage",
+  "social": [
+   "https://x.com/QuantumYieldV",
+   "https://www.youtube.com/@QuantumYieldVoyage",
+   "https://t.me/QuantumYieldVoyage"
+  ],
+  "symbol": "QYV",
+  "websites": [
+   "https://home.quantumyieldvoyage.top/"
+  ]
+ },
+ {
   "address": "0:9b67413ca4d6c4cf52fbbf0340388f9964d6d8337ec016cc9b1e4c188ddc910b",
   "description": "Utility token for QuantEx, a universal platform of tools for managing crypto assets and generating income.",
   "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/%D0%BB%D0%BE%D0%B3%D0%BE.jpg",
@@ -9449,6 +9653,23 @@
   ]
  },
  {
+  "address": "0:8e38d22a180b4e13a06937345fde38cfea103bec227f6824e646d4d6c16401e6",
+  "decimals": 9,
+  "description": "Rhiza Coin (#RZC) is the native utility and governance token of the RhizaCore ecosystem, a self-custody wallet on Gram.",
+  "image": "https://rhizacore.xyz/RZC.png",
+  "name": "RhizaCore",
+  "social": [
+   "https://x.com/RhizaCore",
+   "https://t.me/RhizaCoreNews"
+  ],
+  "symbol": "RZC",
+  "websites": [
+   "https://rhizacore.xyz",
+   "https://rhizacore.online",
+   "https://rhizacore.xyz/mint-policy"
+  ]
+ },
+ {
   "address": "0:48feec2dafa6861a1f9aea05d957d4710955fd32583a856c2a5b0174385ebf31",
   "description": "Rockets (your preferred stickers) and more - https://t.me/rocket_on_ton",
   "image": "https://i.ibb.co/q9D7Vb0/Rocket.png",
@@ -9605,6 +9826,22 @@
   ]
  },
  {
+  "address": "0:3b314a88da34fbcbdfd289526edc83059ac3267b4ccba231712c44f70b33aa5f",
+  "description": "SEN is the native currency of Zen, a Telegram wallet for payments, games and community on TON.",
+  "image": "https://myzen.today/token/sen.png",
+  "name": "SEN",
+  "social": [
+   "https://t.me/zenwallet",
+   "https://t.me/SendZenBot",
+   "https://t.me/gramzonetrade",
+   "https://t.me/cryptospaceBull"
+  ],
+  "symbol": "SEN",
+  "websites": [
+   "https://myzen.today"
+  ]
+ },
+ {
   "address": "0:8f794cca9279de32503551b8af10bc5df2515403fa1a397f66f4f3dce1dea51d",
   "decimals": 9,
   "description": "SerpoCoin is a DeFi Web3 utility token built on the TON blockchain, inspired by the legendary Serpo exchange \u2014 a story of connection between humans and an advanced alien civilization.",
@@ -9679,6 +9916,20 @@
    "https://t.me/ShhhToshiChat"
   ],
   "symbol": "SHHHT"
+ },
+ {
+  "address": "0:632a184214901e0f1f95a3feb7f12127140c46b52260a94e214f344f87cddb0e",
+  "description": "Shiba Inu is a fan token inspired by the original Shiba Inu meme, created on the TON blockchain by the MEMES project. Not affiliated with Shiba Inu.",
+  "image": "https://cdn.memesc.org/ipfs/bafkreigtpbhfbe4rkxp64urg42btn7ekt4d2xqpyq33h3t3booi6lznun4",
+  "name": "Shiba Inu",
+  "social": [
+   "https://t.me/memesxy",
+   "https://x.com/memeland_tg"
+  ],
+  "symbol": "SHIB",
+  "websites": [
+   "https://memesc.org"
+  ]
  },
  {
   "address": "0:2e584f9b551eced5b4a4c0dfe63ddca2be92b0e657d6738eec82fb9ccf2cd9e3",
@@ -10777,6 +11028,17 @@
   ]
  },
  {
+  "address": "0:16aad68a72c08d93dca99cd66f2368f8ee7c48659f38bf7a0633b6a4fea025b5",
+  "description": "TEACOIN (TEA) is a TON Jetton issued for the DAVIDTEA ecosystem. Planned uses include customer loyalty rewards, payments at partner stores, cargo shipping from China, airport transfers, and tours in Hainan. These integrations are not yet live.",
+  "image": "https://davidtea.ru/image/catalog/teacoin_tea.png",
+  "name": "Teacoin",
+  "symbol": "TEA",
+  "websites": [
+   "https://davidtea.ru",
+   "https://davidtea.ru/teacoin.html"
+  ]
+ },
+ {
   "address": "0:56369e3acafc4be31a52050d1e7da67d7c6a1a9fc361ce8980615607cdee65d5",
   "decimals": 9,
   "description": "$TECHTRD is more than token. This is your reward.  Welcome to the world, where every click, every step and every contribution are rewarded. $TECHTRD is not just token. This is a sign of recognition",
@@ -11441,6 +11703,13 @@
   ]
  },
  {
+  "address": "0:b87c08e4618a23a89315df9c5aee5dbd0f8c6c5731c6e8d2de5c8a7e276ffd58",
+  "description": "Fixed-supply utility token of the Wizard Trend ecosystem.",
+  "image": "https://wiztrnd.info/token/trnd-logo-v1.png",
+  "name": "Wizard Trend",
+  "symbol": "TRND"
+ },
+ {
   "address": "0:147ff83eb90302a89630cbdc46515c2b3262b6d14b14257553df18c4ebbd7bf5",
   "description": "TROCK is the utility token of the TonRocket ecosystem on TON. Users can mine tokens, collect NFTs, and participate in community activities through the TonRocket Telegram bot.",
   "name": "TonRocket",
@@ -11927,6 +12196,20 @@
   ]
  },
  {
+  "address": "0:1c8124ed5789551d371861969f872ba50f981bea1873491c1c0d12aa094198c2",
+  "description": "UTYAN - Telegram's little companion. A community token inspired by the experimental 3D duck companion found in Telegram's open-source iOS repository. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/fcd27fd4-02c8-4f2f-956d-10005cd64ef3.webp",
+  "name": "UTYAN",
+  "social": [
+   "https://t.me/UtyanAii",
+   "https://x.com/utyanai"
+  ],
+  "symbol": "UTYAN",
+  "websites": [
+   "https://utyan.best/"
+  ]
+ },
+ {
   "address": "0:1b12eb7baeb51a4a690db86f2c7cf9aab704cb766b332fe9674228e609788b43",
   "decimals": 9,
   "description": "Due to current market conditions I now identify as a memecoin.  \n\nThe ticker is $UWU.",
@@ -12050,6 +12333,24 @@
    "https://youtube.com/@victorscompany"
   ],
   "symbol": "VIC",
+  "websites": [
+   "https://victors.company"
+  ]
+ },
+ {
+  "address": "0:e3a65933a97b5e4e0ad162ded7b6f5f1a13f9cb0bc612ad09bb066660c0b660f",
+  "decimals": 9,
+  "description": "VICX is the native token of Victor's Company, a Proof-of-Holding mining game on TON inside Telegram. It replaces the original VIC token. Hold VICX to level up, mine every 24 hours, play the Arcade and earn VICX, with payouts landing on-chain.",
+  "image": "https://victors.company/assets/vicx.webp",
+  "name": "Victor's Company",
+  "social": [
+   "https://t.me/victors_company",
+   "https://t.me/VictorsCompanyChat",
+   "https://x.com/VictorsCompany",
+   "https://youtube.com/@victorscompany",
+   "https://t.me/Victors_Company_bot/app"
+  ],
+  "symbol": "VICX",
   "websites": [
    "https://victors.company"
   ]
@@ -13394,6 +13695,11 @@
   "symbol": "ANTOx"
  },
  {
+  "address": "0:5f6223160940ef15dcdf56dfb441cb1430e5134254ba1dd34a878dbd8ecab802",
+  "name": "Anthropic xStock",
+  "symbol": "ANTx"
+ },
+ {
   "address": "0:01a2ebc4e5eb3a95ab117505edff39db5ba8fcf49c953af3f08f0c736f6abb6f",
   "name": "AutoNation xStock",
   "symbol": "ANx"
@@ -14652,6 +14958,11 @@
   "address": "0:3411ba9beb27fff1e3d88ea664211bcae0df799722d7ef815e14afcd0595a4d4",
   "name": "Charles River Laboratories International xStock",
   "symbol": "CRLx"
+ },
+ {
+  "address": "0:88faee569c645fe21db3c21b2eca5e13081b32fb6ff3287d54fddc451aff816d",
+  "name": "Critical Metals xStock",
+  "symbol": "CRMLx"
  },
  {
   "address": "0:67b74bc29d9562d9874592f80ce605dcc4cda4c8fd147f8dbde6228e18265196",
@@ -16384,11 +16695,6 @@
   "symbol": "IEMGx"
  },
  {
-  "address": "0:f3a995fe31a8811f64947b15d74916dea3ebb45430d0ab24e099470c5c3b41c1",
-  "name": "Icahn Enterprises xStock",
-  "symbol": "IEPx"
- },
- {
   "address": "0:fec2daecf36da39303fd70539b199dbe1860054e1edbade15ef098189b13b538",
   "name": "IES xStock",
   "symbol": "IESCx"
@@ -17237,6 +17543,11 @@
   "address": "0:f2a78d75ce27dbc497831d5ed6a2f508bdf0814f085f1f92746741e2e56d58fe",
   "name": "Meituan xStock",
   "symbol": "MEITx"
+ },
+ {
+  "address": "0:ad843dce9c1098e056656452cbd22d8649a8076f02f4c19f03e5c136567d5bac",
+  "name": "MercadoLibre xStock",
+  "symbol": "MELIx"
  },
  {
   "address": "0:f7720420e37d81882491962fa132cc2856ebcd9cee3616e31d73e017a9df3749",
@@ -19849,6 +20160,11 @@
   "symbol": "ULVRx"
  },
  {
+  "address": "0:618ae9bfbb9f181d86e0e47d55523f05ad609a794c369c8be497a70797d75121",
+  "name": "United Microelectronics xStock",
+  "symbol": "UMCx"
+ },
+ {
   "address": "0:8f6652ca2a9b56c4133e29e7f6706a514214d6c8f1b2a1e3f2cc5ee269ce872f",
   "name": "Universal Music xStock",
   "symbol": "UMGx"
@@ -20422,6 +20738,11 @@
   "address": "0:9bc320d41aa14238f7155fc7af6cc9813e553bd1ad0ed2ce22f25467465d05f9",
   "name": "Energy Select Sector SPDR Fund xStock",
   "symbol": "XLEx"
+ },
+ {
+  "address": "0:fafb082bbd54b278cd57402144fae5076c741486b69adf3a4699613da37379ce",
+  "name": "State Street Health Care Select Sector SPDR xStock",
+  "symbol": "XLVx"
  },
  {
   "address": "0:b869381323270118e36b6cfeef13be6545d563fa5cb3f2a61773c8ec316676a4",
@@ -21142,11 +21463,6 @@
   "address": "0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0",
   "name": "ALWIN AirDrop",
   "symbol": "ALWIN"
- },
- {
-  "address": "0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f",
-  "name": "Andy",
-  "symbol": "ANDY"
  },
  {
   "address": "0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886",
@@ -22134,6 +22450,11 @@
   "symbol": "JULIA"
  },
  {
+  "address": "-1:bf7e01ea11ccc2b302e99c112822f832aee254be7fd00ede5046379c63cc3796",
+  "name": "Jury Token",
+  "symbol": "JURY"
+ },
+ {
   "address": "0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc",
   "name": "JVault Token",
   "symbol": "JVT"
@@ -22222,6 +22543,11 @@
   "address": "0:8f8eefbd24dd1f2b8053a0ebc0e9a3dd0724790a6cab346a9e321b91cf7e5913",
   "name": "Lets Fuckin Go",
   "symbol": "LFGO"
+ },
+ {
+  "address": "0:03fdc24e01d66c6236de4958151218f90cff56cb0d5f3023e19d52d88ad867d3",
+  "name": "LIAR",
+  "symbol": "LIAR"
  },
  {
   "address": "0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971",

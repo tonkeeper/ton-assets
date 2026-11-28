@@ -70,9 +70,6 @@
 - address: 0:cdecb5f1e82e13581e2a3287b56793b5d78acfc3d25aaf6fa83a159746fadce0
   name: ALWIN AirDrop
   symbol: ALWIN
-- address: 0:e19d74208e4ca6c760e06dc2d9aaf2c2972044b05000afe468b64ad785fd4e0f
-  name: Andy
-  symbol: ANDY
 - address: 0:effb2af8d7f099daeae0da07de8157dae383c33e320af45f8c8a510328350886
   name: ANON
   symbol: ANON
@@ -664,6 +661,9 @@
 - address: 0:264f6d90d9a3f22de4cf9a4cdb082d280e83ac2f14e349b4765ef5a5b5be3d16
   name: Steamy Julia
   symbol: JULIA
+- address: -1:bf7e01ea11ccc2b302e99c112822f832aee254be7fd00ede5046379c63cc3796
+  name: Jury Token
+  symbol: JURY
 - address: 0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc
   name: JVault Token
   symbol: JVT
@@ -718,6 +718,9 @@
 - address: 0:8f8eefbd24dd1f2b8053a0ebc0e9a3dd0724790a6cab346a9e321b91cf7e5913
   name: Lets Fuckin Go
   symbol: LFGO
+- address: 0:03fdc24e01d66c6236de4958151218f90cff56cb0d5f3023e19d52d88ad867d3
+  name: LIAR
+  symbol: LIAR
 - address: 0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971
   name: "\u0416\u042E"
   symbol: LIFEYT
