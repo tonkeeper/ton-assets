@@ -1,0 +1,11 @@
+name: "Happy Mining"
+symbol: "HPM"
+address: "EQCA4C05GwwlHL9RjtEnRkUWd8Sn6xmOWSZ58ub5QTGxjkoK"
+decimals: 9
+description: "HPM is the game token of Happy Mining. Better gear means more resources. Gather resources through idle mining, keep upgrading your equipment, and watch your little mine grow."
+image: "https://web-mining-ton.tgminiapp.top/coin.png"
+websites:
+  - "https://home-mining-ton.tgminiapp.top/"
+social:
+  - "https://www.youtube.com/@MiningTON-d5e"
+  - "https://t.me/aahz_bot"
