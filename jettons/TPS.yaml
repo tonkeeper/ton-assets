@@ -1,0 +1,10 @@
+name: "TPS"
+symbol: "TPS"
+decimals: "9"
+address: 0:a880a2d093a6caac5d866b6d25a06d19eaa913883621570005bdde96f3f2979c
+description: "TPS — the mining reward token of the TPS Telegram Mini App."
+image: "https://tk.435.one/tps/avatar.jpg"
+websites:
+  - "https://tk.435.one"
+social:
+  - "https://t.me/TpsMinerBot"
