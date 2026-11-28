@@ -1,0 +1,11 @@
+name: "Egg Factory"
+symbol: "EFT"
+address: "EQA4mly909Br6WPwsst1wlZ7azZi8Ko3Bn8UZRLSUOyS-lk1"
+decimals: 9
+description: "EFT is the game token of Egg Factory. Start with a single chicken, collect eggs, level up, and unlock more production lines to build your own egg factory."
+image: "https://web.eggfactory.top/coin.png"
+websites:
+  - "https://home.eggfactory.top/"
+social:
+  - "https://www.youtube.com/@EggFactory1"
+  - "https://t.me/EggFactoryRobot"
